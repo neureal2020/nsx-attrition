@@ -1,0 +1,686 @@
+[
+ {
+  "key": "1:ale:paul",
+  "name": "Alexandra Paul",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Search snippet (Doximity/US News/Albany Med hits): MD Johns Hopkins 2011; residency Neurological Surgery Albany Medical Center 2011-2018; now faculty Albany Med",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated. Namesake risk resolved by Albany-specific bio.",
+  "current": "associate professor of neurosurgery, Albany Med",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://health.usnews.com/doctors/alexandra-paul-1229638",
+    "type": "search_snippet",
+    "evidence": "completed her residency in Neurological Surgery at Albany Medical Center from 2011-2018"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:ami:taplin",
+  "name": "Amilyn Taplin",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Bio snippets: MD Univ of Vermont, neurosurgery residency Albany Medical Center; Albany neurosurgery publications",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "neurosurgeon, Monument Health, Rapid City SD (earlier Henry Ford Jackson MI, CommonSpirit)",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/amilyn-taplin-md",
+    "type": "search_snippet",
+    "evidence": "completed her neurosurgery residency at Albany Medical Center"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:mar:peris-celda",
+  "name": "Maria Peris-Celda",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Bio snippets: MD Univ of Valencia; neurosurgery residency Albany Medical Center, staff at Albany 2 yrs, then Mayo skull base",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "neurosurgeon, Mayo Clinic Rochester MN",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.beckersspine.com/spine/albany-med-welcomes-neurosurgeon-dr-maria-peris-celda/",
+    "type": "search_snippet",
+    "evidence": "completed her neurosurgery residency at Albany Medical Center"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:ale:riccio",
+  "name": "Alexander Riccio",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Bio: MD Albany Medical College; neurological surgery residency Albany completed 2018",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "neurosurgeon/spine, St. Peter's Health Partners / Albany Med area",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.sphp.com/provider/alexander-richard-riccio-md-neurological-surgery",
+    "type": "search_snippet",
+    "evidence": "completed his residency training in neurological surgery at the Albany Medical Center ... completed in 2018"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:ade:adepoju",
+  "name": "Adedamola Adepoju",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Bio: neurosurgery residency and enfolded endoscopic skull base fellowship at Albany Medical Center, chief resident; MD UMass",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "neurosurgeon, INTEGRIS Health, Oklahoma",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://integrishealth.org/doctors/adedamola-adepoju",
+    "type": "search_snippet",
+    "evidence": "completed his neurological surgery residency ... at Albany Medical Center in New York where he was Chief Resident"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:mat:amarante",
+  "name": "Matthew Amarante",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News snippet: Neurological Surgery residency 2013-2019 Albany Med Health System; spine fellowship 2019-2020",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "neurosurgeon, Atlantic Health, Berkeley Heights NJ",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-amarante-md",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery from 2013 to 2019 at Albany Med Health System"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:ben:yim",
+  "name": "Benjamin Yim",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Bio: MD Albany Medical College; neurosurgery residency at USC Keck/LA County; fellowships Mount Sinai and Stanford",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center (PGY1-2) then USC/LAC+USC",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2016
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Bio lists residency at USC Keck/LA County; MD Albany Medical College. Consistent with transfer from Albany after PGY2 (2016).",
+  "current": "neurosurgeon (endovascular/cerebrovascular), Walnut Creek CA",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.bassmedicalgroup.com/doctors/benjamin-yim",
+    "type": "search_snippet",
+    "evidence": "completed his neurological surgery residency at Keck School of Medicine at the University of Southern California and Los Angeles County General Hospital"
+   }
+  ],
+  "searches_used": 1,
+  "year_left": 2016,
+  "destination_program": "USC / LAC+USC (Keck)",
+  "destination_start_year": 2016
+ },
+ {
+  "key": "1:seb:rubino",
+  "name": "Sebastian Rubino",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Bio: MD Dartmouth; neurosurgery residency Albany Medical Center, spine fellowship Albany, neuro-onc fellowship Moffitt",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "neurosurgical oncologist, Northwell Health, Staten Island / Suffern NY",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.zocdoc.com/doctor/sebastian-rubino-md-621625",
+    "type": "search_snippet",
+    "evidence": "completed his neurosurgery residency at Albany Medical Center Hospital"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:nat:raviv",
+  "name": "Nataly Raviv",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Legacy snippet: residency Neurological Surgery Albany Med 2015-2022; MD Case Western 2015",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "neurosurgeon, Legacy Health, Portland OR (OHSU fellowship)",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.legacyhealth.org/providers/nataly-raviv",
+    "type": "search_snippet",
+    "evidence": "Her residency in Neurological Surgery at Albany Medical Center was from 2015 to 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:pou:entezami",
+  "name": "Pouya Entezami",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Bio: MD Univ Toledo; chief resident Neurological Surgery Albany Med Health System 2020-2021; distinction 2016-2020; then endovascular fellowship Albany",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "endovascular neurosurgeon, Henry Ford Health, Detroit MI",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.henryford.com/physician-directory/e/entezami-pouya",
+    "type": "search_snippet",
+    "evidence": "Chief Residency in Neurological Surgery at Albany Med Health System from 2020-2021"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:nic:field",
+  "name": "Nicholas Field",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Albany Med bio: residency in neurological surgery at Albany Medical Center 2016-2023; MD Univ Vermont",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "endovascular neurosurgeon, Albany Med",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.albanymed.org/news/nicholas-field-endovascular-neurosurgeon-joins-staff/",
+    "type": "search_snippet",
+    "evidence": "spent seven years training with Albany Medical Center's team of neurosurgeons"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:ben:szewczyk",
+  "name": "Benjamin Szewczyk",
+  "program_id": 1,
+  "identity": "probable",
+  "identity_basis": "Snippets: neurosurgery chief resident 2023 at Albany; MD Albany Medical College 2017 (matches entry 2017); now listed as neurosurgeon, Los Angeles (Healthgrades) / Berkshire Health",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "neurosurgeon (Berkshire Health Systems / Los Angeles listing)",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.berkshirehealthsystems.org/provider/benjamin-szewczyk/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Chief Resident in 2023; graduated Albany Medical College 2017"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:mic:brien",
+  "name": "Michael O'Brien",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Bio: MD SUNY Upstate; completed neurosurgery residency at Albany Medical Center June 2024; joined NOSS Aug 2024 (namesake Waterbury CT profile is a different person)",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated. Namesake risk resolved by Albany-specific bio.",
+  "current": "neurosurgeon, NOSS (Neurosurgery, Orthopaedics & Spine Specialists), Albany area",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://nossmd.com/departments/michael-obrien-md/",
+    "type": "search_snippet",
+    "evidence": "completed residency in neurological surgery at Albany Medical Center in June 2024"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:and:rock",
+  "name": "Andrew Rock",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Hendrick Health release: MD VCU; neurosurgery residency + neuroendovascular fellowship Albany Med, then skull base/cerebrovascular fellowship Arkansas Neuroscience Institute",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "neurosurgeon, Hendrick Clinic Neurosurgery (Abilene TX)",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.hendrickhealth.org/news/releases/andrew-rock-welcome/",
+    "type": "search_snippet",
+    "evidence": "completed a neurosurgery residency and a neuroendovascular fellowship at Albany Medical Center"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:mor:spurgas",
+  "name": "Morgan Spurgas",
+  "program_id": 1,
+  "identity": "probable",
+  "identity_basis": "Snippet: completed 7 years neurosurgical training at Albany Med, moved to Pensacola FL as spine attending; Albany program page lists as resident",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "spine neurosurgeon, Pensacola FL",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "type": "program_page",
+    "evidence": "Morgan Spurgas testimonial as resident"
+   },
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/",
+    "type": "search_snippet",
+    "evidence": "completed 7 years of neurosurgical training at Albany Medical Center ... Pensacola, FL as a spine attending"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:aub:rogers",
+  "name": "Aubrey Rogers",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Snippet: neurosurgery resident Albany Med; MD Zucker/Hofstra-Northwell 2019 (entry 2019)",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "neurosurgery resident (PGY-7 in 2025-26), Albany Med; graduation status for 2026 not confirmed",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/aubrey-rogers-661ba9b1/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at Albany Medical Center; MD Zucker 2019"
+   }
+  ],
+  "searches_used": 1,
+  "disagreement": "none; only unconfirmed whether she graduated in 2026 (input says in training/COMPLETED)"
+ },
+ {
+  "key": "1:tes:harland",
+  "name": "Tessa Harland",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Albany program alumni list: graduated 2026, fellowship Vanderbilt; MD Colorado 2019",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "functional neurosurgery fellow, Vanderbilt University Medical Center 2026-27",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "type": "program_page",
+    "evidence": "Tessa Harland, MD - Graduated 2026 ... Vanderbilt University Medical Center, Nashville, TN"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:ama:custozzo",
+  "name": "Amanda Custozzo",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Albany program Meet Us page lists as current resident, Class of 2027, MD Albany Medical College",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "current neurosurgery resident, Albany Med",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "type": "program_page",
+    "evidence": "Class of 2027; Albany Medical College"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:jar:sweeney",
+  "name": "Jared Sweeney",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Albany program Meet Us page lists as current resident, Class of 2027, MD SUNY Upstate",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "current neurosurgery resident, Albany Med",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "type": "program_page",
+    "evidence": "Class of 2027; SUNY Upstate"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:gav:rosoklija",
+  "name": "Gavril Rosoklija",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Albany program Meet Us page lists as current resident, Class of 2028, MD Albany Medical College",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "current neurosurgery resident, Albany Med",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "type": "program_page",
+    "evidence": "Class of 2028; Albany Medical College"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:tar:prabhala",
+  "name": "Tarun Prabhala",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Albany program Meet Us page lists as current resident, Class of 2028, MD Albany Medical College",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "current neurosurgery resident, Albany Med",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "type": "program_page",
+    "evidence": "Class of 2028; Albany Medical College"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:cha:ogagan",
+  "name": "Charles Ogagan",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Albany program Meet Us page lists as current resident, Class of 2029, MD UMass Medical School",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "current neurosurgery resident, Albany Med",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "type": "program_page",
+    "evidence": "Class of 2029; UMass Medical School"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:gar:barr",
+  "name": "Garrett Barr",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Albany program Meet Us page lists as current resident, Class of 2029, MD Florida State Univ COM",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "current neurosurgery resident, Albany Med",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "type": "program_page",
+    "evidence": "Class of 2029; Florida State Univ COM"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:gre:topp",
+  "name": "Gregory Topp",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Albany program Meet Us page lists as current resident, Class of 2030, MD Albany Medical College",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "current neurosurgery resident, Albany Med",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "type": "program_page",
+    "evidence": "Class of 2030; Albany Medical College"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "1:mic:barats",
+  "name": "Michael Barats",
+  "program_id": 1,
+  "identity": "confirmed",
+  "identity_basis": "Albany program Meet Us page lists as current resident, Class of 2030, MD Univ of Tennessee HSC",
+  "residency_stated": [
+   {
+    "institution": "Albany Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency stated at Albany Med; no departure indicated.",
+  "current": "current neurosurgery resident, Albany Med",
+  "agrees_with_db": true,
+  "sources": [
+   {
+    "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "type": "program_page",
+    "evidence": "Class of 2030; Univ of Tennessee HSC"
+   }
+  ],
+  "searches_used": 1
+ }
+]

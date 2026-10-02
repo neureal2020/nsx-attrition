@@ -1,0 +1,805 @@
+[
+ {
+  "key": "15:mar:ishak",
+  "name": "Mark Ishak",
+  "program_id": 15,
+  "program": "Cooper Medical School of Rowan University/Cooper University Hospital P",
+  "entry_year": 2013,
+  "first_seen": "2014-2015",
+  "last_seen": "2018-2019",
+  "last_pgy": 6,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Neurosurgeon Mark-Mina Ishak DO (NYITCOM 2013, complex spine fellowship Pennsylvania Hospital); co-author with Cooper residents Lynagh/Georges (Doximity paper list)",
+   "outcome": "completed",
+   "outcome_detail": "Practising neurosurgeon Gallatin TN; residency program not explicitly named in seen sources.",
+   "current": "neurosurgeon, Highpoint Health, Gallatin TN",
+   "residency_stated": [
+    {
+     "institution": "Cooper Medical School of Rowan University/Cooper University Hospital (inferred from co-authorship)",
+     "specialty": "neurological surgery",
+     "start": 2013,
+     "end": 2019
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.highpointhealthpartners.com/find-a-doctor/provider/1356682652",
+     "type": "bio",
+     "evidence": "MarkMina Ishak D.O. Neurological Surgery (search result)"
+    },
+    {
+     "url": "https://www.doximity.com/pub/robert-lynagh-do",
+     "type": "doximity",
+     "evidence": "Publication: Fluorescence-Guided Stereotactic Biopsy - Robert Lynagh, Mark Ishak, Joseph Georges"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "15:suj:swarna",
+  "name": "Sujith Swarna",
+  "program_id": 15,
+  "program": "Cooper Medical School of Rowan University/Cooper University Hospital P",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Cooper resident page lists Sujith Swarna, MD PGY1; Doximity Sujith Swarna MD, Stony Brook class of 2025 with neurosurgery research (rare name); page does not state Cooper",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as PGY 1 on current Cooper resident page (no school shown there)",
+   "current": "Neurosurgery resident (PGY1), Cooper University Hospital",
+   "residency_stated": [
+    {
+     "institution": "Cooper Medical School of Rowan University/Cooper University Hospital",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.cooperhealth.edu/residencies/neuro-surgery/residents",
+     "type": "program_page",
+     "evidence": "Sujith Swarna, MD - PGY 1"
+    },
+    {
+     "url": "https://www.doximity.com/pub/sujith-swarna-md",
+     "type": "doximity",
+     "evidence": "Stony Brook University Health Sciences Center School of Medicine, Class of 2025 (no residency listed)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "16:and:orozco",
+  "name": "Andres Restrepo Orozco",
+  "program_id": 16,
+  "program": "Corewell Health \u2013 Grand Rapids/Michigan State University Program \u00a9 202",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "NPI 1275055881 neurological surgery Grand Rapids; Healthgrades/WebMD neurosurgery Grand Rapids; Andres F. Restrepo-Orozco named in Corewell neurosurgery context; distinctive name",
+   "outcome": "completed",
+   "outcome_detail": "Listed as practising neurosurgery specialist in Grand Rapids MI (Healthgrades/WebMD); consistent with completing 2026. No graduate page or Doximity profile found",
+   "current": "Neurosurgery, Grand Rapids MI (per Healthgrades/WebMD)",
+   "residency_stated": [
+    {
+     "institution": "Corewell Health - Grand Rapids/Michigan State University",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.healthgrades.com/physician/dr-andres-restrepo-orozco-xyn8cr5",
+     "type": "search_snippet",
+     "evidence": "Dr. Andres Restrepo Orozco, MD - Neurosurgery Specialist in Grand Rapids, MI"
+    },
+    {
+     "url": "https://npiprofile.com/npi/1275055881",
+     "type": "search_snippet",
+     "evidence": "ANDRES FELIPE RESTREPO OROZCO MD - Neurological Surgery in Grand Rapids, MI"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "16:nin:shank",
+  "name": "Nina Shank",
+  "program_id": 16,
+  "program": "Corewell Health \u2013 Grand Rapids/Michigan State University Program \u00a9 202",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2025-2026",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity Nina Shank MD lists Tulane 2018 and Corewell GR neurosurgery residency (2018-2025, likely erroneous dates); DB note names Nina Shank, Tulane on Corewell page",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Profiles conflict. Healthgrades lists specialty Cosmetic, Plastic & Reconstructive Surgery (Chesterfield VA; hospital affiliations include Corewell Butterworth/Greenville); Doximity lists NH license 2018-2024, a 2023 plastic-surgery journal paper (JPRAS) and Roanoke VA address; WebMD lists Plastic Surgery, Lebanon NH. Suggests she now practises/trains in plastic surgery, not neurosurgery, but exact path and date unclear; not on Corewell PGY list",
+   "current": "Plastic surgery per Healthgrades (Chesterfield VA); Roanoke VA per Doximity",
+   "residency_stated": [
+    {
+     "institution": "Corewell Health - Grand Rapids/Michigan State University",
+     "specialty": "neurosurgery",
+     "start": 2022,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.healthgrades.com/physician/dr-nina-shank-xynptgx",
+     "type": "search_snippet",
+     "evidence": "Specialty: Cosmetic, Plastic & Reconstructive Surgery; affiliations Corewell Health Butterworth Hospital"
+    },
+    {
+     "url": "https://www.doximity.com/pub/nina-shank-md",
+     "type": "doximity",
+     "evidence": "Residency, Neurological Surgery, 2018 - 2025 Corewell GR/MSU; Tulane Class of 2018; publication in Journal of Plastic, Reconstructive & Aesthetic Surgery 2023"
+    },
+    {
+     "url": "https://doctor.webmd.com/doctor/nina-shank-aaa626b5-4dd6-46b9-8efa-1dd0a36ef57c-overview",
+     "type": "search_snippet",
+     "evidence": "Dr. Nina Shank, MD, Plastic Surgeon | Lebanon, NH"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "16:jef:farooq",
+  "name": "Jeffrey Farooq",
+  "program_id": 16,
+  "program": "Corewell Health \u2013 Grand Rapids/Michigan State University Program \u00a9 202",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2025-2026",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> TRANSFERRED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UChicago neurosurgery resident page lists Jeffrey Farooq PGY3; Cureus/publication links to USF Morsani cerebral bypass (van Loveren) matching DB note; Healthgrades lists a Jeffrey Farooq at Corewell Butterworth (likely his Corewell period)",
+   "outcome": "transferred",
+   "outcome_detail": "Listed as neurosurgery resident (PGY3) at University of Chicago; earlier search snippet showed him as PGY2 there, so transfer year is 2025 or 2026 (DB: Corewell PGY2 2025-26 seen Oct 2025). Not on current Corewell page",
+   "current": "Neurosurgery resident, University of Chicago",
+   "residency_stated": [
+    {
+     "institution": "University of Chicago",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.uchicago.edu/education/meet-our-residents-and-fellows",
+     "type": "program_page",
+     "evidence": "Jeffrey Farooq, MD - PGY 3 Neurosurgical Resident"
+    },
+    {
+     "url": "https://neurosurgery.uchicago.edu/education/meet-our-residents-and-fellows",
+     "type": "search_snippet",
+     "evidence": "Jeffrey Farooq is a Neurosurgical Resident PGY 2 at the Department of Neurosurgery at the University of Chicago (search summary)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "17:eri:mong",
+  "name": "Eric Mong",
+  "program_id": 17,
+  "program": "Corewell Health/William Beaumont University (Dearborn/Royal Oak) Progr",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Corewell Royal Oak resident page: Eric Mong, MD PGY7, UTMB; Beaumont-affiliated publications; Healthgrades neurosurgeon Royal Oak",
+   "outcome": "completed",
+   "outcome_detail": "Was PGY7 (2025-26 snapshot), so finishing June 2026; Healthgrades lists him as neurosurgeon Royal Oak. Not yet on graduates page (lists through 2025) and no Doximity profile, so completion unconfirmed by an explicit graduation statement",
+   "current": "Neurosurgeon, Royal Oak MI per Healthgrades",
+   "residency_stated": [
+    {
+     "institution": "Corewell Health/William Beaumont University (Dearborn/Royal Oak)",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://corewellhealth.org/graduate-medical-education/southeast-michigan/residencies/dearborn-and-royal-oak/neurological-surgery/residents",
+     "type": "program_page",
+     "evidence": "Eric Mong, MD - PGY 7; University of Texas Medical Branch School of Medicine"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-eric-mong-7bhaphr157",
+     "type": "search_snippet",
+     "evidence": "Dr. Eric Mong, MD - Neurosurgeon in Royal Oak, MI"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "17:ahm:chehab",
+  "name": "Ahmad Chehab",
+  "program_id": 17,
+  "program": "Corewell Health/William Beaumont University (Dearborn/Royal Oak) Progr",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2025-2026",
+  "last_pgy": 4,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Corewell Royal Oak resident page: Ahmad Chehab, MD PGY4, Central Michigan University School of Medicine; Healthgrades neurosurgeon Royal Oak; ResearchGate CMU",
+   "outcome": "in_training",
+   "outcome_detail": "PGY 4 in 2025-26 snapshot; no Doximity profile found (only unrelated Chehabs)",
+   "current": "Neurosurgery resident, Corewell Health Royal Oak",
+   "residency_stated": [
+    {
+     "institution": "Corewell Health/William Beaumont University (Dearborn/Royal Oak)",
+     "specialty": "neurosurgery",
+     "start": 2022,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://corewellhealth.org/graduate-medical-education/southeast-michigan/residencies/dearborn-and-royal-oak/neurological-surgery/residents",
+     "type": "program_page",
+     "evidence": "Ahmad Chehab, MD - PGY 4; Central Michigan University School of Medicine"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-ahmad-chehab-1f5cr3ux80",
+     "type": "search_snippet",
+     "evidence": "Dr. Ahmad Chehab, MD - Neurosurgeon in Royal Oak, MI"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "18:ima:khan",
+  "name": "Imad Khan",
+  "program_id": 18,
+  "program": "Dartmouth- Hitchcock/Mary Hitchcock Memorial Hospital Program",
+  "entry_year": 2015,
+  "first_seen": "2015-2016",
+  "last_seen": "2021-2022",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippets (UW bio): neurosurgery residency at Dartmouth-Hitchcock, MPH Dartmouth Institute; Doximity Seattle neurosurgery ABNS (Aga Khan MC 2010, NH license 2020-24)",
+   "outcome": "completed",
+   "outcome_detail": "UW assistant professor of neurosurgery, complex spine; residency at Dartmouth-Hitchcock",
+   "current": "neurosurgeon, Assistant Professor, University of Washington, Seattle",
+   "residency_stated": [
+    {
+     "institution": "Dartmouth-Hitchcock/Mary Hitchcock Memorial Hospital",
+     "specialty": "neurosurgery",
+     "start": 2015,
+     "end": 2022
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.uw.edu/bio/imad-s-khan-md",
+     "type": "bio",
+     "evidence": "neurosurgery residency at Dartmouth-Hitchcock Medical Center"
+    },
+    {
+     "url": "https://www.doximity.com/pub/imad-khan-md-c0623ea8",
+     "type": "doximity",
+     "evidence": "American Board of Neurological Surgery; NH license 2020-2024"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "18:cai:payne",
+  "name": "Caitlin Payne",
+  "program_id": 18,
+  "program": "Dartmouth- Hitchcock/Mary Hitchcock Memorial Hospital Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Healthgrades/ResearchGate: neurosurgeon Lebanon NH, Dartmouth-Hitchcock Section of Neurosurgery; Doximity profile lists MSU College of Human Medicine 2019 but no residency lines and a Traverse City MI address",
+   "outcome": "completed",
+   "outcome_detail": "Recorded completed in 2025-26; still shown as neurosurgeon in Lebanon NH (Healthgrades). No independent completion date found; Doximity profile lacks residency detail (possibly stale profile).",
+   "current": "neurosurgeon(?), Dartmouth Health Lebanon NH (Healthgrades)",
+   "residency_stated": [
+    {
+     "institution": "Dartmouth-Hitchcock/Mary Hitchcock Memorial Hospital",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/caitlin-payne-md",
+     "type": "doximity",
+     "evidence": "Class of 2019 Michigan State University College of Human Medicine; Neurosurgery Traverse City, MI"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-caitlin-payne-woixzpk043",
+     "type": "search_snippet",
+     "evidence": "Dr. Caitlin Payne, MD - Neurosurgeon in Lebanon, NH"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "19:bar:hanna",
+  "name": "Barbara Hanna",
+  "program_id": 19,
+  "program": "Duke University Hospital Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Only the Duke current-residents roster (page 3) lists 'Barbara Hanna, MD - PGY-1'. Google and Doximity searches found no independent bio; other Barbara Hannas are unrelated (ID physician, nurse)",
+   "outcome": "in_training",
+   "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-1 for 2026-27; no evidence of leaving. Ambiguous name; only program-roster evidence.",
+   "current": "neurosurgery resident PGY-1, Duke University Hospital",
+   "residency_stated": [
+    {
+     "institution": "Duke University Hospital",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": 2033
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+     "type": "program_page",
+     "evidence": "Duke current residents page lists resident at PGY-1 (2026-27)"
+    },
+    {
+     "url": "https://neurosurgery.duke.edu/education/residency/current-residents?page=2",
+     "type": "program_page",
+     "evidence": "Barbara Hanna, MD - PGY-1"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "20:hos:zarabi",
+  "name": "Hosniya Zarabi",
+  "program_id": 20,
+  "program": "Emory University School of Medicine Program",
+  "entry_year": 2016,
+  "first_seen": "2016-2017",
+  "last_seen": "2017-2018",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> TRANSFERRED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity MD Chicago Medical School 2016; Temple resident page; Emory training per recorded phase-2 notes",
+   "outcome": "transferred",
+   "outcome_detail": "Consistent with recorded transfer out of Emory after PGY-2 (2017-18). Temple residency confirmed by search results; UC Davis intermediate stop (PGY-3 2018-19) NOT independently confirmed in this batch (Doximity has no training; UC Davis page appeared in results but text not opened). Left Emory 2018, destination_start 2018 per recorded PubMed note.",
+   "current": "neurosurgery resident, Temple University (Philadelphia), per Temple current residents page",
+   "residency_stated": [
+    {
+     "institution": "Emory University School of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2016,
+     "end": 2018
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/hosniya-zarabi-md",
+     "type": "doximity",
+     "evidence": "Two Zarabi profiles (Atlanta; Philadelphia) list only Chicago Medical School (RFU) MD; no residency entries; CA/MD licenses"
+    },
+    {
+     "url": "https://medicine.temple.edu/education/graduate-medical-education/residency-programs-fellowships/neurosurgery/residency-program/current-residents",
+     "type": "program_page",
+     "evidence": "search summary: neurosurgery resident at Temple Lewis Katz School of Medicine; Chicago Medical School (RFU) MD"
+    },
+    {
+     "url": "https://www.linkedin.com/in/hosniya-zarabi-24967b41/",
+     "type": "search_snippet",
+     "evidence": "Hosniya Zarabi - Neurosurgery Resident Physician"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "20:has:saad",
+  "name": "Hassan Saad",
+  "program_id": 20,
+  "program": "Emory University School of Medicine Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Emory residency years and MD school/faculty bio match input program and dates",
+   "outcome": "completed",
+   "outcome_detail": "Identity probable: Emory affiliation and PGY-7 match; no independent training-years page.",
+   "current": "Assistant Professor, UT Houston (per Emory alumni page); spine fellowship Jefferson per AANS 2025 bio",
+   "residency_stated": [
+    {
+     "institution": "Emory University School of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "search:doximity",
+     "type": "search_snippet",
+     "evidence": "searched '\"Hassan Saad\" doximity neurosurgery': no matching profile (other Saad/Hassan names only)"
+    },
+    {
+     "url": "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html",
+     "type": "program_page",
+     "evidence": "Hassan Saad, MD | Assistant Professor, University of Texas - Houston, TX (class of 2025)"
+    },
+    {
+     "url": "https://aans2025.eventscribe.net/fsPopup.asp?PresenterID=1788630&mode=posterPresenterInfo",
+     "type": "search_snippet",
+     "evidence": "Hassan Saad, MD, PGY-7, Neurosurgery Resident at Emory; will complete a spine fellowship at Jefferson"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "20:jas:lamanna",
+  "name": "Jason Lamanna",
+  "program_id": 20,
+  "program": "Emory University School of Medicine Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Emory residency years and MD school/faculty bio match input program and dates",
+   "outcome": "completed",
+   "outcome_detail": "Residency at Emory 2018-2025 stated by Doximity/alumni page",
+   "current": "Assistant Professor, Northwestern University (per Emory alumni page); cerebrovascular fellow at Emory",
+   "residency_stated": [
+    {
+     "institution": "Emory University School of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "search:doximity",
+     "type": "search_snippet",
+     "evidence": "searched '\"Jason Lamanna\" doximity': no matching profile"
+    },
+    {
+     "url": "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html",
+     "type": "program_page",
+     "evidence": "Jason Lamanna, MD, PhD | Assistant Professor, Northwestern University - Evanston, IL (class of 2025)"
+    },
+    {
+     "url": "https://www.nm.org/doctors/1750888442",
+     "type": "bio",
+     "evidence": "Northwestern Medicine profile, Jason J. Lamanna, MD, PhD"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "21:jos:teague",
+  "name": "Joseph Teague",
+  "program_id": 21,
+  "program": "Geisinger Health System Program",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2025-2026",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Geisinger neurosurgery residents page lists Joseph M. Teague, MD PGY3; no Doximity profile found (search returned only other Teagues); no outside bio found",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as current PGY3 on Geisinger program page",
+   "current": "neurosurgery resident PGY3, Geisinger",
+   "residency_stated": [
+    {
+     "institution": "Geisinger Health System",
+     "specialty": "neurosurgery",
+     "start": 2023,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.geisinger.edu/gchs/education/residencies-fellowships/residencies/neurosurgery-residency/residents",
+     "type": "program_page",
+     "evidence": "Joseph M. Teague, MD PGY3"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "21:lan:maniakhina",
+  "name": "Lana Maniakhina",
+  "program_id": 21,
+  "program": "Geisinger Health System Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2025-2026",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Geisinger residents page lists Lana Maniakhina, DO PGY2; Doximity profile (DO, Edward Via Carolinas class of 2024, listed 'Other MD/DO') matches; ResearchGate lists her as resident in Geisinger Dept of Neurosurgery. Doximity has no residency entry.",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY2 (2025-26)",
+   "current": "neurosurgery resident PGY2, Geisinger",
+   "residency_stated": [
+    {
+     "institution": "Geisinger Health System",
+     "specialty": "neurosurgery",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/lana-maniakhina-do",
+     "type": "doximity",
+     "evidence": "Other MD/DO; Edward Via College of Osteopathic Medicine-Carolinas Campus, Class of 2024 (no residency listed)"
+    },
+    {
+     "url": "https://www.geisinger.edu/gchs/education/residencies-fellowships/residencies/neurosurgery-residency/residents",
+     "type": "program_page",
+     "evidence": "Lana Maniakhina, DO PGY2"
+    },
+    {
+     "url": "https://www.researchgate.net/profile/Lana-Maniakhina",
+     "type": "search_snippet",
+     "evidence": "Resident ... Geisinger Health System, Danville | Department of Neurosurgery"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "22:pet:derosa",
+  "name": "Peter DeRosa",
+  "program_id": 22,
+  "program": "George Washington University Program",
+  "entry_year": 2011,
+  "first_seen": "2011-2012",
+  "last_seen": "2013-2014",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "MedStar profile: Penn State MD 2011 (matches 2011 GW entrant), GW residency, pathology; Doximity search found only an unrelated psychiatrist namesake",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Left GW neurosurgery after 2013-14 (PGY2/3); practises anatomic and clinical pathology; MedStar lists GW residency (2014) / GWU Hospital (2021), fellowships Univ of Maryland 2022 and 2023",
+   "current": "pathologist (anatomic/clinical), MedStar, Washington DC",
+   "residency_stated": [
+    {
+     "institution": "George Washington University",
+     "specialty": "pathology (per MedStar; neurosurgery not stated)",
+     "start": 2014,
+     "end": 2021
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.medstarhealth.org/doctors/peter-anthony-derosa-md",
+     "type": "bio",
+     "evidence": "Pathology, Anatomic and Clinical Pathology; Penn State (2011); Residency George Washington University (2014) and GWU Hospital (2021)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "22:cry:adams",
+  "name": "Crystal Adams",
+  "program_id": 22,
+  "program": "George Washington University Program",
+  "entry_year": 2016,
+  "first_seen": "2016-2017",
+  "last_seen": "2019-2020",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "GW anesthesiology faculty; UNC MD 2016 (matches 2016 GW entrant); Doximity no residency listed; ABA anesthesiology and critical care. Neurosurgery-to-anesthesia link not stated explicitly by source, rests on class-year match and same institution",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Now board-certified anesthesiologist/critical care faculty at GW; left neurosurgery after 2019-20 (PGY4) per input; destination program presumably GW anesthesiology, start year not stated",
+   "current": "assistant professor anesthesiology & critical care, GW, Washington DC",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/crystal-adams-md-6d2b4577",
+     "type": "doximity",
+     "evidence": "Anesthesiology, Critical Care Medicine; UNC Chapel Hill School of Medicine Class of 2016; American Board of Anesthesiology"
+    },
+    {
+     "url": "https://gwdocs.com/profile/crystal-adams",
+     "type": "bio",
+     "evidence": "Crystal Adams, MD | GW Medical Faculty Associates"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "24:lyn:mubita",
+  "name": "Lynn Mubita",
+  "program_id": 24,
+  "program": "Henry Ford Health/Henry Ford Hospital Program",
+  "entry_year": 2011,
+  "first_seen": "2016-2017",
+  "last_seen": "2017-2018",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Multiple directory/practice sources: MD Weill Cornell, residency Henry Ford Hospital, neurotrauma fellowship Miami; practising neurosurgeon Grand Island NE",
+   "outcome": "completed",
+   "outcome_detail": "CHI Health bio/Midwest Medical Edition: completed residency at Henry Ford Hospital then neurotrauma fellowship; practises neurosurgery",
+   "current": "Neurosurgeon, CHI Health St. Francis, Grand Island NE",
+   "residency_stated": [
+    {
+     "institution": "Henry Ford Hospital",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.midwestmedicaledition.com/articles/st-francis-welcomes-neurosurgeon-dr-mubita",
+     "type": "news",
+     "evidence": "Neurosurgeon Dr. Mubita, residency at Henry Ford Hospital in Detroit; neurotrauma fellowship Jackson Memorial"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "24:tho:noh",
+  "name": "Thomas Noh",
+  "program_id": 24,
+  "program": "Henry Ford Health/Henry Ford Hospital Program",
+  "entry_year": 2012,
+  "first_seen": "2016-2017",
+  "last_seen": "2018-2019",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Practice bios: JABSOM MD, neurosurgical residency Henry Ford Hospital; Henry Ford Health post 2014 lists Thomas Noh, M.D., Neurosurgery",
+   "outcome": "completed",
+   "outcome_detail": "Hawaii Pacific Health/WebMD bio: neurosurgical residency at Henry Ford Hospital, fellowships Brigham and U Michigan; practising neurosurgeon Honolulu",
+   "current": "Neurosurgeon, Hawaii Pacific Health, Honolulu",
+   "residency_stated": [
+    {
+     "institution": "Henry Ford Hospital",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.hawaiipacifichealth.org/find-a-provider/thomas-noh/2422/",
+     "type": "bio",
+     "evidence": "completed his neurosurgical residency at Henry Ford Hospital"
+    },
+    {
+     "url": "https://x.com/HenryFordHealth/status/538142862052192256",
+     "type": "news",
+     "evidence": "Thomas Noh, M.D., Neurosurgery: Moving here from Hawaii"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "24:jia:liu",
+  "name": "Jiaqi Liu",
+  "program_id": 24,
+  "program": "Henry Ford Health/Henry Ford Hospital Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Henry Ford current residents page (PGY2, Georgetown); Doximity profile (Other MD/DO, Washington DC, Georgetown Class of 2025) lacks residency line, so match is by school/class only",
+   "outcome": "in_training",
+   "outcome_detail": "Current resident (listed on Henry Ford current residents page with PGY level); expected finish 2032",
+   "current": "neurosurgery resident, Henry Ford Hospital",
+   "residency_stated": [
+    {
+     "institution": "Henry Ford Health/Henry Ford Hospital",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": 2032
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents",
+     "type": "program_page",
+     "evidence": "Current residents page lists Jiaqi Liu, Georgetown University School of Medicine"
+    },
+    {
+     "url": "https://www.doximity.com/pub/jiaqi-liu-md",
+     "type": "doximity",
+     "evidence": "Georgetown University School of Medicine Class of 2025 (no residency listed; specialty 'Other MD/DO')"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

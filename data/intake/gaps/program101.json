@@ -1,0 +1,322 @@
+{
+ "program_id": 101,
+ "name": "University of Puerto Rico School of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2025,
+ "hosts": [
+  {
+   "url": "http://www.md.rcm.upr.edu/neurosurgery/ (static PHP; sectionres.php roster)",
+   "from": "2006-09",
+   "to": "2010-03"
+  },
+  {
+   "url": "http://www.md.rcm.upr.edu/surgery/neurosurgery/ (under Dept of Surgery; roster pages linked but never archived)",
+   "from": "2010-06",
+   "to": "2013-09"
+  },
+  {
+   "url": "https://md.rcm.upr.edu/neurosurgery/ (WordPress; no roster page until current-residents/ created 2026-06-03)",
+   "from": "2014-10",
+   "to": "2026-09"
+  },
+  {
+   "url": "https://md.rcm.upr.edu/gme/ (GME office; accreditation status PDF 2021, housestaff 2021 file lost)",
+   "from": "2014",
+   "to": "2026"
+  }
+ ],
+ "observed_years": [
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2025-2026"
+ ],
+ "missing_years": [],
+ "no_program_years": [
+  "2022-2023",
+  "2023-2024",
+  "2024-2025"
+ ],
+ "gap_details": {
+  "2011-2012": "RECONSTRUCTED (phase 2) from PubMed/Europe PMC affiliations, NPPES enumeration dates and other programs' pages; no program-side roster exists (see phase-1 host audit). Only 2 residents known (Alcedo-Guardia, Estronza-Ojeda). The 2006-2008 and 2011 entry classes are unidentified (the last section roster is a stale ~2006-07 list; everyone on it probably finished by 2011-12, but Lincoln Jimenez, PGY-3 in a 2008 footnote, may still have been a resident). Anyone who left in these years would be unseen.",
+  "2012-2013": "RECONSTRUCTED (phase 2) from PubMed/Europe PMC affiliations, NPPES enumeration dates and other programs' pages; no program-side roster exists (see phase-1 host audit). 4 known (2009, 2010 and two 2012 entrants); the 2007/2008/2011 classes are unidentified.",
+  "2013-2014": "RECONSTRUCTED (phase 2) from PubMed/Europe PMC affiliations, NPPES enumeration dates and other programs' pages; no program-side roster exists (see phase-1 host audit). 5 known; the 2008 and 2011 classes are unidentified (would be PGY-6 and PGY-3).",
+  "2014-2015": "RECONSTRUCTED (phase 2) from PubMed/Europe PMC affiliations, NPPES enumeration dates and other programs' pages; no program-side roster exists (see phase-1 host audit). 7 known; the 2011 class (PGY-4) is unidentified, and the 2013 entrant Pellot is only probable.",
+  "2015-2016": "RECONSTRUCTED (phase 2) from PubMed/Europe PMC affiliations, NPPES enumeration dates and other programs' pages; no program-side roster exists (see phase-1 host audit). 9 known; the 2011 class (PGY-5) is unidentified. The entry years of Estronza (2010) and Pellot (2013) are NPI-based estimates.",
+  "2016-2017": "RECONSTRUCTED (phase 2) from PubMed/Europe PMC affiliations, NPPES enumeration dates and other programs' pages; no program-side roster exists (see phase-1 host audit). 9 known; the 2011 class (would be PGY-6) is unidentified. The 2016 entrant Monserrate is placed by NPI only.",
+  "2017-2018": "RECONSTRUCTED (phase 2) from PubMed/Europe PMC affiliations, NPPES enumeration dates and other programs' pages; no program-side roster exists (see phase-1 host audit). 10 known, covering every entry class from 2012 to 2017 (2 per class in 2012, 2014 and 2015, 2 in 2017). Entry years for the transferees are inferred (NPI or destination PGY), and some may be off by one year. No PubMed UPR-neurosurgery author in 2016-2019 is left without a role (the rest are faculty, fellows, students or international trainees).",
+  "2018-2019": "RECONSTRUCTED (phase 2) from PubMed/Europe PMC affiliations, NPPES enumeration dates and other programs' pages; no program-side roster exists (see phase-1 host audit). 11 known, every class 2012-2018 represented. Same caveats as 2017-18.",
+  "2019-2020": "RECONSTRUCTED (phase 2) from PubMed/Europe PMC affiliations, NPPES enumeration dates and other programs' pages; no program-side roster exists (see phase-1 host audit). 10 known, every class 2013-2019 represented. Flores-Milan's last UPR year (left for USF, PGY-5 there 2020-21).",
+  "2020-2021": "RECONSTRUCTED (phase 2) from PubMed/Europe PMC affiliations, NPPES enumeration dates and other programs' pages; no program-side roster exists (see phase-1 host audit). 9 known: two graduates (Rios-Vicil, Mayol) and 7 residents who all transferred out in June/July 2021 (USF, Arizona, Pitt, AGH x2, MCW, Brown). Each transfer is confirmed on the destination roster.",
+  "2021-2022": "No resident known. ACGME withdrew accreditation effective 2022-06-30 (14 citations; UPR GME 'Status de Acreditacion 2021' PDF). All 7 known in-training residents left by July 2021, and no UPR-neurosurgery author in 2021-22 PubMed is a resident. Residual risk: Pellot (probable 2013 entrant) may have finished in June 2022 instead of 2020, and a 2021 intern cannot be ruled out, although a match into a program under withdrawal is unlikely.",
+  "2022-2023": "NO PROGRAM: accreditation withdrawn eff. 2022-06-30; new program Initial Accreditation eff. 2025-07-01 (ACGME list). Presumed zero residents; not counted as missing.",
+  "2023-2024": "NO PROGRAM: accreditation withdrawn eff. 2022-06-30; new program Initial Accreditation eff. 2025-07-01 (ACGME list). Presumed zero residents; not counted as missing.",
+  "2024-2025": "NO PROGRAM: accreditation withdrawn eff. 2022-06-30; new program Initial Accreditation eff. 2025-07-01 (ACGME list). Presumed zero residents; not counted as missing.",
+  "2025-2026": "First year of the new program (1 position). Vazquez-Medina is PGY-2 in its second year, so she must have been the PGY-1 in 2025-26. No capture exists.",
+  "2026-2027": "OBSERVED live 2026-09-27: 2 residents (PGY-1 Rivera Rivera, PGY-2 Vazquez-Medina). Page created 2026-06-03 (before July); no earlier version exists, labels fit a 2025 first class."
+ },
+ "alumni_page": null,
+ "departures": [
+  {
+   "name": "Gabriel Flores-Milan",
+   "last_ay": "2019-2020",
+   "last_pgy": 5,
+   "type": "transferred",
+   "destination": "USF Morsani (103), PGY-5 2020-21, graduated 2023",
+   "note": "UPR entry 2015 by NPI (inferred); PubMed UPR Neurosurgery Section 2017 and 2020."
+  },
+  {
+   "name": "Cesar M. Carballo Cuello",
+   "last_ay": "2020-2021",
+   "last_pgy": 6,
+   "type": "transferred (closure)",
+   "destination": "USF Morsani (103), PGY-5 2021-22, graduated 2024",
+   "note": "USF bio: 'Previous Residency: University of Puerto Rico, Neurosurgery'. UPR entry 2015 by NPI (inferred)."
+  },
+  {
+   "name": "Andres E. Monserrate Marrero",
+   "last_ay": "2020-2021",
+   "last_pgy": 5,
+   "type": "transferred (closure)",
+   "destination": "Arizona Tucson (72), PGY-5 2021-22",
+   "note": "PubMed UPR Section of Neurological Surgery 2020-2021 (upr.edu email). UPR entry 2016 by NPI (inferred)."
+  },
+  {
+   "name": "Ricardo J. Fernandez-de Thomas",
+   "last_ay": "2020-2021",
+   "last_pgy": 4,
+   "type": "transferred (closure)",
+   "destination": "UPMC/Pitt (116), PGY-4 2021-22, graduated 2025",
+   "note": "Doximity: UPR 2017-2021."
+  },
+  {
+   "name": "Alejandro J. Matos Cruz",
+   "last_ay": "2020-2021",
+   "last_pgy": 4,
+   "type": "transferred (closure)",
+   "destination": "Allegheny/AGH (2), PGY-5 2021-22, graduated 2024",
+   "note": "PubMed papers list UPR Neurosurgery Section together with AGH. UPR PGY inferred from the destination level."
+  },
+  {
+   "name": "Jose I. Sandoval Consuegra",
+   "last_ay": "2020-2021",
+   "last_pgy": 3,
+   "type": "transferred (closure)",
+   "destination": "Allegheny/AGH (2), PGY-4 2021-22",
+   "note": "NPI 06/2018 (PR); PubMed UPR Neurosurgery 2021 and 2023."
+  },
+  {
+   "name": "Jose G. Sanchez Jimenez",
+   "last_ay": "2020-2021",
+   "last_pgy": 2,
+   "type": "transferred (closure)",
+   "destination": "MCW (43), PGY-3 2021-22 (later left MCW, outcome unknown per MCW gap file)",
+   "note": "PubMed UPR Section of Neurosurgery 2019-2022."
+  },
+  {
+   "name": "Santos E. Santos Fontanez",
+   "last_ay": "2020-2021",
+   "last_pgy": 1,
+   "type": "transferred (closure)",
+   "destination": "Brown (54), PGY-2 2021-22",
+   "note": "Brown profile lists a prior residency at UPR."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 17,
+ "adjudication_summary": {
+  "COMPLETED": 7,
+  "LEFT -> TRANSFERRED": 8,
+  "IN TRAINING": 2
+ },
+ "problems": "No program-side roster exists for 2010-2026, so every old-program year is a reconstruction. Entry years come from NPI enumeration dates (checked against 3 fellowship-dated graduates) or destination PGY, and are uncertain by +/-1 year. Classes entering 2006-2008 and 2011 are unidentified, which leaves 2011-12 through 2016-17 significant. 16_adjudicate labelled Matos Cruz 'TRANSFERRED (University of Louisville)' through an ambiguous-name match outside this program's data; the destination is Allegheny (training_history row). Destination-side transfer-in rows (USF, Arizona, Pitt, AGH, MCW, Brown) were not inserted, because this agent may write only program 101 rows. Europe PMC was down (503) for part of the session; rerun succeeded. Common Crawl, phase 2: 2015-2018 rescanned with cclocal; the old failures 2015-11, 2016-30, 2017-39/neurosurgery and 2018-47 now succeeded with no roster hits. New failures: 2015-06 (both prefixes), 2015-22, 2016-44 and 2017-39 (/surgery/neurosurgery). 2020-2022 scan: 66 pairs ok, no rosters; failed 2020-05, 2020-24, 2021-10 (gme), 2021-21, 2021-49.",
+ "note_first_class": "first_class_year refers to the re-accredited program (Initial Accreditation 2025-07-01). The predecessor program (accredited 1971-09-01) had its accreditation withdrawn effective 2022-06-30.",
+ "terminal_pgy_by_entry_year": {
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "Only 2 residents known (Alcedo-Guardia, Estronza-Ojeda). The 2006-2008 and 2011 entry classes are unidentified (the last section roster is a stale ~2006-07 list; everyone on it probably finished by 2011-12, but Lincoln Jimenez, PGY-3 in a 2008 footnote, may still have been a resident). Anyone who left in these years would be unseen."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "4 known (2009, 2010 and two 2012 entrants); the 2007/2008/2011 classes are unidentified."
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "5 known; the 2008 and 2011 classes are unidentified (would be PGY-6 and PGY-3)."
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "7 known; the 2011 class (PGY-4) is unidentified, and the 2013 entrant Pellot is only probable."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "9 known; the 2011 class (PGY-5) is unidentified. The entry years of Estronza (2010) and Pellot (2013) are NPI-based estimates."
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "9 known; the 2011 class (would be PGY-6) is unidentified. The 2016 entrant Monserrate is placed by NPI only."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "10 known, covering every entry class from 2012 to 2017 (2 per class in 2012, 2014 and 2015, 2 in 2017). Entry years for the transferees are inferred (NPI or destination PGY), and some may be off by one year. No PubMed UPR-neurosurgery author in 2016-2019 is left without a role (the rest are faculty, fellows, students or international trainees)."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "11 known, every class 2012-2018 represented. Same caveats as 2017-18."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "10 known, every class 2013-2019 represented. Flores-Milan's last UPR year (left for USF, PGY-5 there 2020-21)."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "9 known: two graduates (Rios-Vicil, Mayol) and 7 residents who all transferred out in June/July 2021 (USF, Arizona, Pitt, AGH x2, MCW, Brown). Each transfer is confirmed on the destination roster."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No resident known. ACGME withdrew accreditation effective 2022-06-30 (14 citations; UPR GME 'Status de Acreditacion 2021' PDF). All 7 known in-training residents left by July 2021, and no UPR-neurosurgery author in 2021-22 PubMed is a resident. Residual risk: Pellot (probable 2013 entrant) may have finished in June 2022 instead of 2020, and a 2021 intern cannot be ruled out, although a match into a program under withdrawal is unlikely."
+  },
+  "2022-2023": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "No accredited program: the old program was withdrawn effective 2022-06-30, and the new one started 2025-07-01 (ACGME Initial Accreditation)."
+  },
+  "2023-2024": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "No accredited program: the old program was withdrawn effective 2022-06-30, and the new one started 2025-07-01 (ACGME Initial Accreditation)."
+  },
+  "2024-2025": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "No accredited program: the old program was withdrawn effective 2022-06-30, and the new one started 2025-07-01 (ACGME Initial Accreditation)."
+  },
+  "2025-2026": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "First year of the new program (1 position). Vazquez-Medina is PGY-2 in its second year, so she must have been the PGY-1 in 2025-26. No capture exists."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live current-residents page: Rivera Rivera (PGY-1) and Vazquez-Medina (PGY-2). Consistent with a 2025 first class and 1 position per year."
+  }
+ },
+ "completions": [
+  {
+   "name": "Rodolfo E. Alcedo-Guardia",
+   "grad": 2016,
+   "evidence": "Brigham cerebrovascular fellows page (fellowship 2016-2018, residency UPR)",
+   "confidence": "high (year = fellowship start)"
+  },
+  {
+   "name": "Samuel Estronza-Ojeda",
+   "grad": 2017,
+   "evidence": "NPI 2010 plus 7 years; now UPR faculty and program director",
+   "confidence": "low (probable resident, year +/-1)"
+  },
+  {
+   "name": "Juan C. Vicenty-Padilla",
+   "grad": 2019,
+   "evidence": "Brigham fellows page (fellowship 2019-2021, residency UPR)",
+   "confidence": "high"
+  },
+  {
+   "name": "Jose A. Fernandez-Abinader",
+   "grad": 2019,
+   "evidence": "PubMed footnotes PGY-5 (2017) and PGY-6 (2019); NPI 2012",
+   "confidence": "medium (+/-1)"
+  },
+  {
+   "name": "Joel E. Pellot Cestero",
+   "grad": 2020,
+   "evidence": "NPI 2013 plus 7 years; Case Western fellowship 2022-23; now UPR faculty",
+   "confidence": "low (2022 possible)"
+  },
+  {
+   "name": "Christian I. Rios-Vicil",
+   "grad": 2021,
+   "evidence": "LVHN profile: 'Residency 2021 Neurosurgery, Puerto Rico Medical Center'",
+   "confidence": "high"
+  },
+  {
+   "name": "Miguel A. Mayol Del Valle",
+   "grad": 2021,
+   "evidence": "Emory neurosurgical-oncology fellowship alumni list '2022' (year = fellowship end)",
+   "confidence": "medium (+/-1)"
+  }
+ ],
+ "excluded_candidates": [
+  "Lincoln M. Jimenez: 'PGY-3' in a Dec 2008 footnote; UPR affiliation up to 2013. He probably finished in 2011 or 2012, but that is unresolved and he was not loaded (see 2011-12).",
+  "Fanor M. Saavedra-Pozo, Frankie Baez, Rafael Cardona, Caleb Feliciano, Luis Almodovar: on the stale ~2006-07 section roster (NS-1 to NS-5); presumed graduated by 2011. Saavedra, Feliciano and Almodovar are now faculty.",
+  "Eva Pamias-Portalatin: UPR Neurosurgery affiliation in 2014 and 2019, research at Johns Hopkins (2017-18) and Mayo Jacksonville (2018-19); NPI 2006. Role unresolved (resident with research years, or researcher). Not loaded.",
+  "Juan M. Corona-Ruiz (UPR 2018-2020, then UT Southwestern) and Euclides Effio: international trainees. Hector Rondon-Granados: endovascular fellow (2019 footnote). Not ACGME residents.",
+  "Natalie Amaral Nieves: UPR medical student (Brown PGY-1 2021, no prior residency on her Brown profile). Mignucci-Jimenez, Ruiz Rodriguez, Rosado-Philippi, Rodriguez-Beato, Kyle Ortiz, Carro-Figueroa, Pagan-Rodriguez, Lugo Morales, Nunez Baez, Lopez Fontanet, Torres-Rey, Aixa de Jesus Espinosa: students, researchers or non-neurosurgeons (NPPES/PubMed).",
+  "Hermes G. Garcia: NPI 07/2009 (FL, neurosurgery); a 2016 paper (received Dec 2015) lists Jefferson and 'Department of Neurological Surgery, University of Puerto Rico'; Jefferson only in 2019. His role is unresolved: he may have been a UPR resident (possibly from the unidentified 2009-2011 classes) on a skull-base fellowship or research post. Not loaded; he is a candidate for the 2011-2016 gap."
+ ],
+ "phase2": {
+  "searched": [
+   "PubMed affiliation mining 2009-2024 ('puerto rico'[ad] AND neurosurg*/neurocirug*/neurological surgery[ad]): 317 PMIDs, 295 author hits (phase2/pm_all.json); resident/PGY/residente footnote query; per-person affiliation histories for 45 names with received dates (authhist1/2.txt)",
+   "Europe PMC affiliation mining 2010-2023 (258 records, epmc_all.txt)",
+   "OpenAlex author affiliation timelines (18 candidates)",
+   "NPPES: all 46 Puerto Rico neurosurgery NPIs by enumeration date; every candidate nationally",
+   "Other programs' pages via Wayback: USF 2020/2021 residents (Carballo 'Previous Residency: UPR'), AHN 2021, MCW 2022, Brown roster and profiles 2021, Arizona 2021; Brigham cerebrovascular fellows list; Emory neurosurgical-oncology fellowship 2020-2026; LVHN Rios-Vicil profile 2022; Case Western fellows 2015-2023",
+   "UPR hosts: live WP REST pages (program-faculty, history, research, international); archived faculty pages 2015; GME directory 2006-2026; md.rcm.upr.edu blog post list; /surgery/neurosurgery/images/facres/ (faculty only); all 6 digests of sectionres/sectionfellows/sectioninternational 2006-2009",
+   "UPR GME accreditation PDF 2021 (neurosurgery: Withdrawn, June 30, 2022, 14 citations)",
+   "Common Crawl cclocal 2015-2018 (both prefixes, 81 ok) and 2020-2022 (neurosurgery, surgery/neurosurgery, gme/download/resident; 66 ok)"
+  ],
+  "found": [
+   "15 old-program residents 2011-2021 (7 completed, 8 transferred), all reconstructed with evidence",
+   "Closure transfers June/July 2021: Carballo Cuello->USF, Monserrate Marrero->Arizona, Fernandez-de Thomas->Pitt, Matos Cruz->AGH, Sandoval Consuegra->AGH, Sanchez Jimenez->MCW, Santos Fontanez->Brown; earlier transfer Flores-Milan->USF 2020",
+   "Graduates dated by fellowship/profile pages: Alcedo-Guardia 2016, Vicenty-Padilla 2019, Rios-Vicil 2021, Mayol Del Valle 2021; Fernandez-Abinader PGY-5/PGY-6 footnotes",
+   "2021-22: no resident known; 2025-26 reconstructed (Vazquez-Medina PGY-1)",
+   "Common Crawl: no roster pages; the only GME hit is again the 2022-12 landing page of 'Resident Housestaff 2021' (file body not captured)"
+  ],
+  "remaining": [
+   "2011-12 to 2016-17 significant: the 2006-2008 and 2011 entry classes are unidentified (candidates Lincoln Jimenez, Hermes Garcia, Eva Pamias-Portalatin unresolved)",
+   "Entry/completion years +/-1 for Estronza, Pellot, Fernandez-Abinader, Mayol and the transferees",
+   "Pellot may have completed June 2022 (would be the only 2021-22 resident)",
+   "Common Crawl failures: 2015-06, 2015-22 (/surgery/neurosurgery), 2016-44 and 2017-39 (/surgery/neurosurgery), 2020-05, 2020-24 (/neurosurgery), 2021-10 (gme), 2021-21 (/surgery/neurosurgery), 2021-49 (/neurosurgery)",
+   "Destination programs' transfer-in training_history rows not written (outside this agent's write scope)"
+  ]
+ }
+}

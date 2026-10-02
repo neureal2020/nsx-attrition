@@ -1,0 +1,251 @@
+{
+ "program_id": 99,
+ "name": "University of Oklahoma Health Sciences Center Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.oumedicine.com/neurosurgery/academic-information/current-residents (+ /residency)",
+   "from": "2012-06",
+   "to": "2016-05"
+  },
+  {
+   "url": "https://www.oumedicine.com/department-of-neurosurgery/academic-information/current-residents",
+   "from": "2016-08",
+   "to": "2019-02 (list frozen at 2015-16 content 2015-11..2017-08)"
+  },
+  {
+   "url": "https://www.oumedicine.com/department-of-neurosurgery/neurosurgery/academic-information/residency/current-residents",
+   "from": "2019-05",
+   "to": "2019-08"
+  },
+  {
+   "url": "https://www.oumedicine.com/department-of-neurosurgery/academic-information/residency/current-residents (+ /neurosurgery-alumni)",
+   "from": "2019-10",
+   "to": "2020-02"
+  },
+  {
+   "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents (+ /neurosurgery/alumni)",
+   "from": "2020-08",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "www.oumedicine.com/body.cfm?id=... (pre-2012 ColdFusion site; neurosurgery page not identified, predates study window)",
+   "from": "2008",
+   "to": "2012-03"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2013-2014",
+  "2015-2016",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2014-2015",
+  "2016-2017"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Only captures 2012-06-21/25 (June, still AY11-12). Page prints no PGY labels (only 'Chief Resident' / service); PGYs derived from 2013-14 PGYs and alumni graduation years. Complete (1/yr program, 7 residents incl. PGY5 vacancy = no 2014 graduate).",
+  "2012-2013": "No Wayback capture of the roster between 2012-06-25 and 2013-10-01 (collapse=digest and gapaudit of www.oumedicine.com/neurosurgery 2010-2017). Common Crawl 2013-20/2013-48: no roster URL. CC-MAIN-2012 index could not be read (cluster.idx size failed). Reconstructed 7 (bracketed or alumni-confirmed). PHASE 2: CC-MAIN-2012 retried OK (neurosurgery prefix: home page only; body.cfm: 8 non-roster pages). Low significance.",
+  "2013-2014": "Single capture 2013-10-01. INCOMPLETE: no PGY-1 listed (Smitherman, entry 2013, alumni grad 2020, first listed PGY3 2015-16) and no PGY-7 (none expected: no 2014 graduate). The site posted interns late (Aug 2015 capture also lacked the intern). PHASE 2: Smitherman added as reconstructed PGY1 (NPPES NPI 1962848010 enumerated 2013-05-16, Oklahoma City). Closed.",
+  "2014-2015": "No capture between 2013-10-01 and 2015-08-24. Common Crawl 2014-2015 (all crawls; 2014-49 retried OK) had only non-roster URLs. Reconstructed 7; Randhawa (PGY5 2013-14) not reconstructed - he never reappears. Significant: Randhawa's departure falls in 2013-14..2014-15 and cannot be dated more precisely. PHASE 2: gapaudit/link audit found no other roster page; faculty-and-staff (2014-02, 2014-08) and residency (2014-08-21) pages carry no resident names; CC 2014-42 and 2014-49 retried OK (home page only). Randhawa confirmed as transfer to Colorado (PGY4 2015-16, CU alumni 2015-2019); exit date 2014-06..2015-06 unresolved.",
+  "2016-2017": "Roster page stale: every capture 2015-11-24..2017-08-19 shows the 2015-16 list unchanged (Cheema still PGY7 though alumni grad 2016). Common Crawl 2016-2017 on both oumedicine prefixes: no roster hits (CC-MAIN-2017-09 department-of-neurosurgery prefix failed). Reconstructed 7, all bracketed by 2015-16 and 2017-18 (Palejwala via alumni 2023). PHASE 2: CC-MAIN-2017-09 retried OK (department home page only), plus 2016-40/44/50 and 2017-04. Faculty-and-staff and residency pages (2016-11, 2017-02) carry no names.",
+  "2021-2022": "Only capture with 2021-22 content is 2022-05-18 (spring; captures jump 2021-04 -> 2022-05). Content-dated as 2021-22 (Tavakol PGY1). Complete for 1 intern class (Tavakol only).",
+  "2026-2027": "Live page advanced from 2025-26 (new interns); loaded as live."
+ },
+ "alumni_page": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/alumni",
+ "departures": [
+  {
+   "name": "Pal Randhawa",
+   "last_ay": "2013-2014",
+   "last_pgy": 5,
+   "outcome": "transferred",
+   "destination": "University of Colorado (program 80), PGY4 2015-16, graduated 2019",
+   "note": "Absent from 2015-16 OU roster and OU alumni list. Exit between 2014-06 and 2015-06 (OU 2014-15 unobserved; not on Colorado 2014-15 roster)."
+  },
+  {
+   "name": "Alison Westrup",
+   "last_ay": "2022-2023",
+   "last_pgy": 1,
+   "outcome": "unknown",
+   "note": "PGY1 2022-23; gone from 2023-24. Last PubMed affiliation OU (2023-06). NPPES shows only the OU address (updated 2022-06). Destination unknown."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Zoya Voronovich",
+   "first_ay": "2020-2021",
+   "first_pgy": 7,
+   "origin": "University of New Mexico (program 97), closed 2020-06-30",
+   "outcome": "graduated 2021 (alumni page)"
+  },
+  {
+   "name": "Giancarlo Mignucci-Jimenez",
+   "first_ay": "2023-2024",
+   "first_pgy": 2,
+   "origin": "unknown residency; OU profile: MD Univ. of Puerto Rico, 15-month research fellowship at Barrow (PubMed Barrow 2022-23). NPPES student NPI 2019 (PR/TX). Not on any program roster.",
+   "outcome": "in training (PGY5 2026-27)"
+  },
+  {
+   "name": "Graham Mulvaney",
+   "first_ay": "2024-2025",
+   "first_pgy": 6,
+   "origin": "Carolinas Medical Center (program 9), PGY1 2018-19 .. PGY6 2023-24",
+   "outcome": "graduated 2026 (PGY7 2025-26, absent live 2026-27)"
+  }
+ ],
+ "residents_2011plus": 27,
+ "adjudication_summary": {
+  "COMPLETED": 18,
+  "IN TRAINING": 13,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> did not complete (unknown)": 1,
+  "note": "COMPLETED for Shi, Villeneuve (2025) and Stephens, Mulvaney (2026) rests on the PGY-terminal roster; alumni page (rechecked 2026-09-28) still stops at 2024."
+ },
+ "problems": "None blocking. CC-MAIN-2012 and CC-MAIN-2017-09 now read OK (no roster URLs). Randhawa's exit cannot be dated within 2014-15. Westrup's destination and Mignucci-Jimenez's PGY1 origin are unknown. Alumni page lists grads only through 2024. Carolinas (program 9) has no training_history row for Mulvaney's transfer out; left for the program-9 owner.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "June 2012 capture, no PGY labels; PGYs derived from 2013-14 and alumni years; 1/yr class slots all accounted for."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture (Wayback, all CC crawls incl. retried CC-MAIN-2012). All 7 bracketed; intern Strickland is PGY2 in 2013-14 (NPI 2012-06). 1/yr program: no slot for an unseen entrant."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Oct 2013 roster lacked the intern; Smitherman added as reconstructed PGY1 (NPI enumerated 2013-05-16 in Oklahoma City, PGY3 2015-16, alumni 2020). Class complete."
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture anywhere (Wayback all hosts, link audit, CC 2014-2015 incl. retried 2014-42/49). 1/yr (residency page 2014-08); intern Tullos NPI 2014-06. Only uncertainty: whether Randhawa (known transfer to Colorado 2015-16) was still at OU in 2014-15."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2015 roster, PGY1-7 complete."
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Page stale (2015-16 list); CC 2016-17 incl. retried 2017-09 has only the home page. All 7 bracketed by 2015-16 and 2017-18; intern Palejwala NPI 2016-05; residency page 2016-11 says 1 and 2 alternate, and the 2017 class was 2, so 2016 took 1."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2017 roster."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2018 roster."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2019 roster."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jan 2021 roster (Voronovich joiner)."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "May 2022 capture content-dated 2021-22; neighbours bracket everyone."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2022 roster."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Oct 2023 roster."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec 2024 roster."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Oct 2025 roster."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page 2026-09-27, advanced."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "p99 scratch files (cc/, cc2014/, cc2016/ hits.json: all empty; no unparsed captures)",
+   "gapaudit 2012-06..2017-12 on www.oumedicine.com/neurosurgery, /department-of-neurosurgery, www.ouhsc.edu/neurosurgery, oumedicine.com/gme, /graduatemedicaleducation",
+   "Wayback captures of faculty-and-staff (2014-02, 2014-08, 2016-11, 2017-02), residency (2013-09, 2014-08, 2016-11, 2017-02) and department home pages 2012-2017",
+   "linkaudit of home + residency seeds 2012-2017",
+   "Common Crawl retries: CC-MAIN-2012 (neurosurgery, department-of-neurosurgery, body.cfm), 2014-42, 2014-49, 2016-40, 2016-44, 2016-50, 2017-04, 2017-09",
+   "PubMed affiliation mining (neurosurgery AND oklahoma, 2011-2018) and author histories: Randhawa, Westrup, Mignucci-Jimenez, Mulvaney, Smitherman",
+   "NPPES enumeration dates for the gap-year interns and PubMed names",
+   "crossmatch.json (Randhawa -> 80, Voronovich from 97) and program 9/80/97/101 roster/gap files",
+   "live alumni page (2026-09-28)"
+  ],
+  "found": [
+   "Smitherman = 2013 intern (NPI enumerated 2013-05-16, Oklahoma City): 2013-14 closed",
+   "Intern NPI dates match reconstructed entry years: Strickland 2012-06, Tullos 2014-06, Carter 2015-05, Palejwala 2016-05",
+   "Residency page 2014-08: 1 resident/yr; 2016-11: alternates 1 and 2",
+   "Randhawa transfer to Colorado confirmed (CU roster PGY4 2015-16; CU alumni 2015-2019)",
+   "Mulvaney transfer from Carolinas confirmed (program 9 rosters PGY1-6 2018-24; PubMed)",
+   "Mignucci-Jimenez: Barrow research fellow 2022-23 (PubMed), UPR MD"
+  ],
+  "remaining": [
+   "2014-15 unobserved: Randhawa's exit date (low)",
+   "Westrup destination unknown",
+   "Mignucci-Jimenez PGY1 origin unknown"
+  ]
+ }
+}

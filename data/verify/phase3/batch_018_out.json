@@ -1,0 +1,877 @@
+[
+ {
+  "key": "12:meg:trivedi",
+  "name": "Megh Trivedi",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Univ of Maryland 2016; peds residency + chief at Cleveland Clinic 2016-2020; neurosurgery residency CCF 2022-2028; PGY-6 CCF; same name/program",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Cleveland Clinic pediatrics 2016-2020 then neurosurgery PGY-1 2022 (input lists entry as PGY-2 2022-23; Doximity dates residency start 2022). Still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-6), Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "blocked"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/megh-trivedi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2022 - 2028; Chief Residency, Pediatrics, 2019 - 2020; Residency, Pediatrics, 2016 - 2019"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/megh-trivedi-1070575",
+    "type": "search_snippet",
+    "evidence": "US News page blocked in Chrome (automated-behavior block); search snippet lists him as Neurosurgeon, Cleveland Clinic, MD Univ of Maryland"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "12:rem:kessler",
+  "name": "Remi Kessler",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "Search snippets: Remi Kessler MD Mount Sinai 2021, anesthesiology resident at Medical University of South Carolina; neurosurgery sub-intern at Mount Sinai; matches input's MUSC 2023 affiliation (PMID 37704289). No profile listing the Cleveland Clinic year.",
+  "residency_stated": [],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Search sources describe Kessler as anesthesiology resident/anesthesiologist at MUSC (Charleston SC); no explicit CCF-neurosurgery statement found, but input shows PGY-1 at CCF neurosurgery only in 2021-22 and absent afterward.",
+  "year_left": 2021,
+  "destination_program": "MUSC anesthesiology",
+  "destination_start_year": 2022,
+  "current": "anesthesiology (resident), Medical University of South Carolina",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/remi-kessler-0cd8b35d-1502-4ee6-bab5-8d80a91f82ba-overview",
+    "type": "search_snippet",
+    "evidence": "Dr. Remi Kessler, Anesthesiology | Charleston, SC; graduated Icahn School of Medicine at Mount Sinai 2021; affiliated MUSC Medical Center"
+   },
+   {
+    "url": "https://www.medifind.com/doctors/remi-a-kessler/257389297",
+    "type": "search_snippet",
+    "evidence": "Remi Kessler | Anesthesiology | Cleveland, OH (MediFind); listed Neurological Surgery among specialties"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "12:jus:bingaman",
+  "name": "Justin Bingaman",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Vitals/search snippets: Justin Roy Bingaman, neurological surgery, Cleveland OH, med school 2022 (Case Western); listed on CCF neurosurgery residency page",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Listed among Cleveland Clinic neurosurgery residents (Case Western MD 2022, OSU undergrad); no completion.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.vitals.com/doctors/MedicalDoctors_Justin_Roy_Bingaman.html",
+    "type": "search_snippet",
+    "evidence": "Dr. Justin Roy Bingaman - Cleveland, OH - Neurological Surgery; graduated from medical school in 2022"
+   },
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "program page listed among residents in search snippet"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "12:sha:srivatsa",
+  "name": "Shaarada Srivatsa",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Cleveland OH resident physician, CWRU MD 2022, CCF neurosurgery publications; Vitals lists Neurological Surgery, CCF",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Case Western MD 2022, resident at Cleveland Clinic (neurosurgery per Vitals/publications); Doximity does not list residency line.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shaarada-srivatsa-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Cleveland OH; Case Western Reserve University School of Medicine Class of 2022; 2026 Neurosurgery Clinics of N. America paper"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/MedicalDoctors_Shaarada_Rama_Srivatsa.html",
+    "type": "search_snippet",
+    "evidence": "specialist in neurological surgery, Cleveland OH; affiliated Cleveland Clinic Foundation"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:tif:ejikeme",
+  "name": "Tiffany Ejikeme",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/X: Duke BS, CWRU MD 2022, matched neurosurgery 2022, PGY-2 at Cleveland Clinic Neurosurgery",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Matched neurosurgery 2022 (X post), CCF resident; Doximity lists CWRU MD 2022 only.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/tiffany_ejikeme/status/1503838443851427842",
+    "type": "search_snippet",
+    "evidence": "excited to say that I matched into Neurosurgery! #Match2022"
+   },
+   {
+    "url": "https://www.doximity.com/pub/tiffany-ejikeme-md",
+    "type": "doximity",
+    "evidence": "Case Western Reserve University School of Medicine Class of 2022; Duke B.S. 2011-2015"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:adi:kondajji",
+  "name": "Aditya Kondajji",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "CCF residency page lists Kondajji (UT Austin, UCLA Geffen MD); CCF interns of 2023 with Wang and Nie per Cleveland Clinic Neurosurgery post",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Started 2023 as intern at CCF neurosurgery per program/social post.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "Aditya Kondajji listed in CCF neurosurgery residents (per search summary); UCLA MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:chr:wang",
+  "name": "Christopher Wang",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity cv/cpwang: Residency Neurological Surgery CCF 2023-2030, MD Univ of South Florida 2023, address 9500 Euclid; LinkedIn/CNS matches (name ambiguity resolved)",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "CCF neurosurgery resident from 2023 (PGY-2 in 2024-25 per LinkedIn snippet).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/cpwang",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030; University of South Florida College of Medicine Class of 2023, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:jef:nie",
+  "name": "Jeffrey Nie",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: CCF neurosurgery residency 2023-2030, SIU School of Medicine 2023",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jeffrey-nie-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2023 - 2030; Southern Illinois University School of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:jam:nie",
+  "name": "James Nie",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: CCF neurosurgery residency 2024-2031, Univ of Illinois College of Medicine 2024",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/james-nie-md-cbf36a90",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2024 - 2031; University of Illinois College of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:reb:flessner",
+  "name": "Rebecca Flessner",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: CCF neurosurgery residency 2024-2032, Univ of Maryland MD 2024",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training (8-year track incl. research per Doximity dates).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rebecca-flessner-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2032; University of Maryland School of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:ama:bingaman",
+  "name": "Amanda Bingaman",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "CCF neurosurgery residents list per search snippet (Vanderbilt undergrad, Temple MD); no personal profile with training years",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Listed among CCF neurosurgery residents; no completion.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "Amanda Bingaman, MD listed among neurosurgery residents (Vanderbilt, Temple School of Medicine) per search summary"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:mar:sowah",
+  "name": "Mareshah Sowah",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "X posts: applied neurosurgery Match 2025, matched at Cleveland Clinic; Duke/USC Greenville MD background",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Matched CCF neurosurgery 2025 (7-year program).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/MareshahSowah/status/1908542472680030396",
+    "type": "search_snippet",
+    "evidence": "serve patients at my dream program for the next 7 years"
+   },
+   {
+    "url": "https://www.dukeglobalneurosurgery.com/people/mareshah-sowah/",
+    "type": "bio",
+    "evidence": "Duke Global Neurosurgery profile; matched with Cleveland Clinic (per search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:moh:el-abtah",
+  "name": "Mohamed El-Abtah",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "Doximity: Cleveland OH, CWRU MD 2025, CCF neurosurgery co-authors; specialty shown as Other MD/DO; no residency line",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "CWRU MD 2025 with CCF neurosurgery research; residency not stated on Doximity.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "physician (CCF neurosurgery per input), Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mohamed-el-abtah-md",
+    "type": "doximity",
+    "evidence": "Case Western Reserve University School of Medicine Class of 2025; Neurosurgery Research and Education Foundation vascular course paper"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:set:meade",
+  "name": "Seth Meade",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "Doximity/LinkedIn: Cleveland Clinic Lerner College of Medicine class of 2025; LinkedIn 'Neurosurgery Resident at Cleveland Clinic'; ZoomInfo ccf.org",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "CCLCM MD 2025, neurosurgery resident at CCF per LinkedIn.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/seth-meade-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Lerner College of Medicine Class of 2025"
+   },
+   {
+    "url": "https://www.linkedin.com/in/sethmeadecwru/",
+    "type": "search_snippet",
+    "evidence": "Seth Meade - Neurosurgery Resident at Cleveland Clinic"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:ala:gordillo",
+  "name": "Alan Gordillo",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "LinkedIn: 'Alan Gordillo MD MS - CCF Neurosurgery'; Doximity CCLCM Class of 2026",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "CCLCM MD 2026, starting CCF neurosurgery intern year 2026.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alan-gordillo-md-beb12322",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Lerner College of Medicine Class of 2026"
+   },
+   {
+    "url": "https://www.linkedin.com/in/alan-gordillo-md-ms-3506a6122",
+    "type": "search_snippet",
+    "evidence": "Alan Gordillo MD MS - CCF Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:ant:allam",
+  "name": "Anthony Kaspa Allam",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "CCF residency page lists Anthony Kaspa Allam (Baylor BS, Baylor College of Medicine MD) per search summary",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Incoming PGY-1 2026; no independent profile.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "Anthony Kaspa Allam, MD listed as neurosurgery resident per search summary"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:isa:pelcher",
+  "name": "Isabelle Pelcher",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "Hofstra/Northwell medical student with neurosurgery research (AANS 2025); CCF residency page appeared in results but snippet does not name her; unverified beyond name/neurosurgery interest",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Only public evidence: med student headed for neurosurgery; no direct confirmation of CCF start.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1) per input",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://aans2025.eventscribe.net/ajaxcalls/posterPresenterInfo.asp?PresenterID=1789688",
+    "type": "search_snippet",
+    "evidence": "Isabelle Pelcher, BA; third year medical student, Hofstra/Northwell; tumor and cerebrovascular neurosurgery interest"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:pat:barhouse",
+  "name": "Patrick Barhouse",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "Brown medical student with neurosurgery publications (Rhode Island Hospital); no snippet naming CCF",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Only public evidence: Brown Alpert med student, neurosurgery research; CCF start not directly confirmed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1) per input",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://scholar.google.com/citations?user=mYlZd78AAAAJ&hl=en",
+    "type": "search_snippet",
+    "evidence": "Patrick Barhouse, Dept of Neurosurgery Rhode Island Hospital, Brown; anterior choroidal artery aneurysm meta-analysis"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "13:saf:alomari",
+  "name": "Safwan Alomari",
+  "program_id": 13,
+  "identity": "confirmed",
+  "identity_basis": "X post by Alomari plus Hopkins profiles: Jordan Univ Sci Tech MD 2017, Johns Hopkins neurosurgery resident, transferring to Cleveland Clinic Florida",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Transferred neurosurgery residency from Johns Hopkins to Cleveland Clinic Florida (announced June 2025); Doximity still shows Baltimore/JHU address.",
+  "year_left": 2025,
+  "destination_program": "Cleveland Clinic Florida",
+  "destination_start_year": 2025,
+  "current": "neurosurgery resident (PGY-3), Cleveland Clinic Florida",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/SafwanAlomari0/status/1935428190068998207",
+    "type": "search_snippet",
+    "evidence": "Pleased to share that I'm transferring my neurosurgery residency to @CleveClinicFL. Grateful to my mentors ... @HopkinsNsurg"
+   },
+   {
+    "url": "https://www.doximity.com/pub/safwan-alomari-md",
+    "type": "doximity",
+    "evidence": "Jordan University of Science and Technology Class of 2017; Baltimore MD neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "13:myu:ko",
+  "name": "Myung-Jun Ko",
+  "program_id": 13,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: CCF/Florida Weston residency 2025-2032, UCLA Geffen MD 2024, surgery internship UCLA 2024-25",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation/Florida Weston",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "UCLA surgery intern 2024-25 then CCF Florida neurosurgery 2025.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic Florida",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/myungjun-ko-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation/Florida Weston Residency, Neurological Surgery, 2025 - 2032; UCLA Internship, Surgery, 2024 - 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "13:gra:roe",
+  "name": "Grace Roe",
+  "program_id": 13,
+  "identity": "probable",
+  "identity_basis": "Search snippet: Grace Roe, USU Hebert School of Medicine, Air Force 2nd Lt, incoming PGY-1 at Cleveland Clinic Florida neurosurgery, coauthor with Alomari in 2026 paper",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Incoming PGY-1 2026 at CCF Florida (inaugural-match era).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), Cleveland Clinic Florida",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/florida/medical-professionals/education/graduate-medical-education/neurosurgery-residency",
+    "type": "program_page",
+    "evidence": "Grace Roe is an incoming PGY-1 resident in the neurosurgery program at Cleveland Clinic Florida (per search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "14:win:ho",
+  "name": "Winson Ho",
+  "program_id": 14,
+  "identity": "confirmed",
+  "identity_basis": "UCSF/NINDS bios: Yale MD, residency in joint UVA/NIH neurosurgery program with NINDS SNB fellowship; input alumni listing matches",
+  "residency_stated": [
+   {
+    "institution": "Clinical Center at the National Institutes of Health / Univ of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed joint UVA-NIH neurosurgery residency; pediatric neurosurgery fellowship Primary Children's; UT Austin 2019-2022; now UCSF.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, associate professor, UCSF Benioff Children's",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ucsfbenioffchildrens.org/providers/winson-s-ho",
+    "type": "bio",
+    "evidence": "completed his residency in the joint neurosurgery program of the University of Virginia and the National Institutes of Health"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "14:ale:ksendzovsky",
+  "name": "Alexander Ksendzovsky",
+  "program_id": 14,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency NIH Clinical Center and UVA Neurological Surgery 2012-2019, Chicago Medical School 2012",
+  "residency_stated": [
+   {
+    "institution": "Clinical Center at the National Institutes of Health",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed joint NIH/UVA neurosurgery residency 2019; epilepsy fellowship Yale 2019-20; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Director of Epilepsy and Functional Neurosurgery, Univ of Maryland",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alexander-ksendzovsky-md",
+    "type": "doximity",
+    "evidence": "Clinical Center at the National Institutes of Health Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "14:dom:maggio",
+  "name": "Dominic Maggio",
+  "program_id": 14,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Legacy Spine: Univ of Miami MD 2013, neurosurgery residency UVA 2013-2020 (NIH Clinical Center alumni page lists him)",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency 2020 (Doximity credits UVA; NIH page credits NIH program), Ohio State spine fellowship 2020-21; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Legacy Spine & Neurological Specialists, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/maggio-dominic-md-1",
+    "type": "doximity",
+    "evidence": "University of Virginia Medical Center Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://dir.ninds.nih.gov/neurosurgery/Home/Education/CurrentResidents/DominicMaggio.html",
+    "type": "program_page",
+    "evidence": "NINDS neurosurgery resident page"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "14:pan:mastorakos",
+  "name": "Panagiotis Mastorakos",
+  "program_id": 14,
+  "identity": "confirmed",
+  "identity_basis": "UT Southwestern bio and Doximity: UVA neurosurgery residency 2015-2022 with NIH; NINDS resident page exists",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia Medical Center / NIH",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVA/NIH neurosurgery residency 2022; fellowships Johns Hopkins and Thomas Jefferson (neurovascular) 2023.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Asst Professor, UT Southwestern, Dallas",
+  "agrees_with_db": true,
+  "disagreement": "Doximity lists 2015-2022 vs input 2015-16 entry; consistent with 7-year residency ending 2022",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/panagiotis-mastorakos-md",
+    "type": "doximity",
+    "evidence": "University of Virginia Medical Center Residency, Neurological Surgery, 2015 - 2022"
+   },
+   {
+    "url": "https://utswmed.org/doctors/panagiotis-mastorakos/",
+    "type": "bio",
+    "evidence": "Assistant Professor of Neurological Surgery, cerebrovascular"
+   }
+  ],
+  "searches_used": 2
+ }
+]

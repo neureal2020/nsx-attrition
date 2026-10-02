@@ -1,0 +1,215 @@
+{
+ "program_id": 104,
+ "name": "University of Southern California/Los Angeles General Medical Center (USC/LA General) Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "www.usc.edu/schools/medicine/departments/neurological_surgery/",
+   "from": "2003",
+   "to": "2010"
+  },
+  {
+   "url": "uscneurosurgery.com (USC Neurosurgeons clinical site; no roster)",
+   "from": "2006",
+   "to": "2013"
+  },
+  {
+   "url": "keck.usc.edu/Education/Academic_Department_and_Divisions/Department_of_Neurological_Surgery/Education_and_Training/Current_Residents.aspx (+ /en/ twin)",
+   "from": "2010-07",
+   "to": "2016-01"
+  },
+  {
+   "url": "www.keck.usc.edu/neurological-surgery/ -> keck.usc.edu/neurological-surgery/ (residency-program page roster PDFs 2016-2022; current-residents page 2020-11+)",
+   "from": "2016-02",
+   "to": "live"
+  },
+  {
+   "url": "keck.usc.edu/neurological-surgery/training-education/residency-program/alumni",
+   "from": "2020-11",
+   "to": "2023-12"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2013-2014",
+  "2018-2019"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2013-2014": "Current_Residents.aspx digest unchanged Aug 2012-May 2014 (captures 2013-02/05/08/11, 2014-02/05 show 2012-13 list); no other roster page on the Sitecore site; Common Crawl 2013-48..2014-23 only landing pages. Reconstructed bracketed/alumni people; Reid (first seen 2014-15 PGY-5) not added. Phase 2: gapaudit 2013-06..2014-09 over Sitecore (/ and /en/), uscneurosurgery.com, usc.edu KSOM hosts: per-resident profile pages were all first captured 2014-08 (2014-15 set); Annual_Report.aspx is a 2009-era text page; CC 2013-20..2014-52 (all 10 crawls ok, both prefixes) no roster; PubMed USC-neurosurgery affiliation 2013-14 shows no unknown resident. Reid added at PGY-4 (reconstructed; NJMS absent 2013-14, USC profile 'Program Completion: 2017').",
+  "2015-2016": "CLOSED phase 2: USC Neurological Surgery 2015-2016 Annual Report PDF (Wayback 20170227145909, keck.usc.edu/neurological-surgery-pdfs/USC-Neurosurgery-2015-16.pdf) p.6 'RESIDENTS 2015-2016', 18 residents PGY-1..7. Peck (as Edwin Peck) PGY-2; Yim absent.",
+  "2018-2019": "2017-18 roster PDF stayed linked through 2019-08; no 2018-19 PDF in CDX of uploads or in live media library; Common Crawl 2018-34..2019-22 nothing. Reconstructed PGY-2..7; 2018 interns Cavaleri/Chartrain/L. Chung not added (seen PGY-2 2019-20). Phase 2: gapaudit 2018-06..2019-09 (only the 2017-18 PDF and a 2016-17 resident publications report); CC 2018-2019 (24 crawls ok, prefix edu,usc,keck)/neurological-surgery) nothing; PubMed 2018-19 no unknown resident. 2018 interns added at PGY-1 (reconstructed; NPIs enumerated Mar-Apr 2018; PGY-2 on 2019-20)."
+ },
+ "alumni_page": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/alumni",
+ "departures": [
+  {
+   "name": "Aimee Two",
+   "last_ay": "2011-2012",
+   "last_pgy": 2,
+   "note": "switched to dermatology (UCSD Dermatology PubMed affiliations 2014-17); th_id 2947"
+  },
+  {
+   "name": "Ted Peck",
+   "last_ay": "2015-2016",
+   "last_pgy": 2,
+   "note": "Edwin Peck; PGY-2 on 2015-16 annual report, absent 2016-17; probable switch to emergency medicine (2025 PubMed ED affiliation, Henry Mayo Newhall, Valencia CA); th_id 2948"
+  },
+  {
+   "name": "Raghav Gupta",
+   "last_ay": "2021-2022",
+   "last_pgy": 2,
+   "note": "destination unknown; NPI 'switch' was a Student taxonomy only, not evidence; th_id 2949"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Patrick Reid",
+   "first_ay": "2013-2014",
+   "first_pgy": 4,
+   "note": "from UMDNJ-NJMS (57); arrival inferred (2013-14 unobserved); grad 2017; th_id 2950"
+  },
+  {
+   "name": "Benjamin Yim",
+   "first_ay": "2016-2017",
+   "first_pgy": 3,
+   "note": "from Albany (1); absent from USC 2015-16 annual report; grad 2021; th_id 2951"
+  },
+  {
+   "name": "Benjamin Hopkins",
+   "first_ay": "2022-2023",
+   "first_pgy": 3,
+   "note": "from Northwestern (41); PGY-7 2026-27; th_id 2952"
+  }
+ ],
+ "residents_2011plus": 48,
+ "adjudication_summary": {
+  "COMPLETED": 37,
+  "IN TRAINING": 21,
+  "LEFT -> SWITCHED SPECIALTY": 2,
+  "LEFT -> did not complete (destination unknown)": 1
+ },
+ "problems": "None open. Phase-1 CC failures retried as full scans: 2013-2014 (10 crawls, both Sitecore prefixes) and 2018-2019 (24 crawls, /neurological-surgery prefix) all succeeded, no roster. The 2015 and 2017 failed pairs were not retried because those years are now observed. Peck's EM switch rests on one 2025 publication affiliation (plus NPPES), moderate confidence. Adjudicator labels Gupta 'did not complete' because departure_type is 'unknown'.",
+ "status_by_year": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "every 2012-13 resident is on 2014-15 or graduated per alumni page; the 3 2013 interns are PGY-2 in 2014-15 (NPIs Apr 2013/Mar 2014, complement 3); only Reid's arrival year (2013 vs 2014) is inferred, and it is fixed by his NJMS exit and USC 'completion 2017'. Only a person who both joined and left inside 2013-14 could be missed."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2015-16 Annual Report resident page (found phase 2)"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "only capture Jan 2019 but content-dated 2017-18"
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "every 2017-18 PGY-1..6 is on 2019-20 (Kramer/Ohiorhenuan graduated 2019 per alumni page); 2018 interns seen as PGY-2 2019-20 with NPIs enumerated spring 2018, full complement of 3. Only a 2018 intern who left and was replaced by a PGY-2 transfer could be missed; PubMed shows none."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "image PDF labelled 'RESIDENTS 2020-21' but content-dated 2021-22; PGYs consistent with 2020-21 and 2022-23"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "phase-1 folder: ns_new.txt CDX listing held an unparsed 2015-16 annual report PDF",
+   "gapaudit 2013-06..2014-09 and 2018-06..2019-09 over all hosts",
+   "Sitecore Annual_Report/Multimedia_Gallery/Residency_Program pages 2012-2016",
+   "per-resident Sitecore profile pages (Reid, Peck)",
+   "Common Crawl 2013-2014 and 2018-2019",
+   "PubMed affiliation mining 2013-14, 2018-19",
+   "PubMed/Europe PMC author searches Two, Peck, Gupta, Reid",
+   "NPPES for 2013 and 2018 interns, Reid, Peck, Gupta",
+   "crossmatch.json (Hopkins; Gupta->Bhavika Gupta rejected: different person)"
+  ],
+  "found": [
+   "2015-16 roster (annual report p.6) -> observed",
+   "Peck left after 2015-16 PGY-2 (not 2014-15)",
+   "Yim not at USC 2015-16 (joined 2016-17)",
+   "Two -> UCSD dermatology (publications)",
+   "12 PGY-terminal graduation rows 2023-2026"
+  ],
+  "remaining": [
+   "2013-14 and 2018-19 still reconstructed (low significance)",
+   "Gupta destination unknown"
+  ]
+ }
+}

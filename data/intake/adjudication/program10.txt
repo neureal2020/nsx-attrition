@@ -1,0 +1,69 @@
+
+Case Western Reserve University/University Hospitals Cleveland Medical Center Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2005   Shakeel Chowdhry         2012   2011-20  7   bio          COMPLETED
+2006   Alia Hdeib               2013   2012-20  7   bio          COMPLETED
+2006   Andreas Tomac            2012   2011-20  6   bio          COMPLETED
+2007   Ioannis Karampelas       2014   2013-20  7   bio          COMPLETED
+2007   Charles Munyon           2013   2012-20  6   bio          COMPLETED
+2007   David Smith              2014   2013-20  7   bio          COMPLETED [ambiguous name]
+2008   Sunil Manjila            2015   2014-20  7   bio          COMPLETED
+2008   Kaine Onwuzulike         2014   2013-20  6   bio          COMPLETED
+2009   Margaret Carmody         2016   2015-20  7   bio          COMPLETED
+2009   Justin Singer            2016   2015-20  7   bio          COMPLETED
+2010   Abhishek Ray             2017   2016-20  7   bio          COMPLETED
+2010   Brian Rothstein          2017   2016-20  7   bio          COMPLETED
+2011   Fernando Alonso          2018   2017-20  7   bio          COMPLETED
+2011   Efrem Cox                2018   2017-20  7   bio          COMPLETED
+2011   Jeffrey Nelson           2019   2018-20  7   bio          COMPLETED [ambiguous name]
+2011   Gabriel Smith            2018   2017-20  7   bio          COMPLETED [ambiguous name]
+2012   Thomas Ostergard         2019   2018-20  7   bio          COMPLETED
+2012   Osmond Wu                2019   2018-20  7   bio          COMPLETED
+2013   Jonathan Pace            2020   2019-20  7   bio          COMPLETED
+2013   Mickey Smith             2020   2019-20  7   bio          COMPLETED
+2013   James Wright             2020   2019-20  7   bio          COMPLETED [ambiguous name]
+2013   Christina Huang Wright   2020   2019-20  7   bio          COMPLETED [ambiguous name]
+2014   Byron Hills              2021   2020-20  7   bio          COMPLETED
+2014   Berje Shammassian        2021   2020-20  7   bio          COMPLETED
+2015   Yifei Duan               2022   2021-20  7   bio          COMPLETED
+2016   Arunit Chugh             2023   2022-20  7   bio          COMPLETED
+2016   Xiaofei Zhou             2023   2022-20  7   bio          COMPLETED [ambiguous name]
+2017   Aubrey McMillan          2018   2017-20  1   bio          LEFT -> SWITCHED SPECIALTY
+2017   Mohit Patel              2024   2023-20  7   bio          COMPLETED [ambiguous name]
+2018   Carlito Lagman           2021   2020-20  3   bio          LEFT -> did not complete
+2018   Rohit Mauria             2025   2024-20  7   bio          COMPLETED
+2018   Sean McDougall           2019   2018-20  1   bio          LEFT -> SWITCHED SPECIALTY
+2019   Dana Defta               2026   2025-20  7   bio          COMPLETED
+2019   Eric Herring             2026   2025-20  7   bio          COMPLETED
+2019   Collin Labak             2026   2025-20  7   bio          COMPLETED
+2019   Olindi Wijesekera        2026   2025-20  7   bio          COMPLETED
+2020   Shaleeka Cornelius       2021   2020-20  1   bio          LEFT -> did not complete
+2020   Theresa Elder            -      2026-20  7   roster       IN TRAINING
+2020   Quang Nguyen             -      2026-20  7   roster       IN TRAINING [ambiguous name]
+2020   Sebastian Norrdahl       -      2026-20  7   roster       IN TRAINING
+2021   Adel Azghadi             -      2026-20  6   roster       IN TRAINING
+2021   Arpan Chakraborty        -      2026-20  6   roster       IN TRAINING
+2021   Varun Shah               -      2026-20  6   roster       IN TRAINING
+2021   Kerrin Sunshine          -      2026-20  6   roster       IN TRAINING
+2022   Jitsupa Sirinit          -      2026-20  5   roster       IN TRAINING
+2023   Busha Hika               -      2026-20  4   roster       IN TRAINING
+2023   Mina Huerta              -      2026-20  4   roster       IN TRAINING
+2024   Ian Mandybur             -      2026-20  3   roster       IN TRAINING
+2024   Michael Mann             -      2026-20  3   roster       IN TRAINING [ambiguous name]
+2025   Marissa Kruk             -      2026-20  2   roster       IN TRAINING
+2025   Bruck Negash             -      2026-20  2   roster       IN TRAINING
+2025   Tianqi Xiao              -      2026-20  2   roster       IN TRAINING
+2026   Olive Jung               -      2026-20  1   roster       IN TRAINING
+2026   Pranav Kumar             -      2026-20  1   roster       IN TRAINING
+2026   Michael Visconti         -      2026-20  1   roster       IN TRAINING
+
+summary:
+    33  COMPLETED
+    18  IN TRAINING
+     2  LEFT -> SWITCHED SPECIALTY
+     2  LEFT -> did not complete
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

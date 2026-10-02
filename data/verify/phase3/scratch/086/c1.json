@@ -1,0 +1,536 @@
+[
+ {
+  "key": "65:sco:flynn",
+  "name": "Scott Flynn",
+  "program_id": 65,
+  "identity": "confirmed",
+  "identity_basis": "Tufts current-residents page lists Scott Flynn PGY-4, Tufts MD; Doximity Resident Physician Boston, Tufts SOM 2023",
+  "residency_stated": [
+   {
+    "institution": "Tufts Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-4 on Tufts current residents page; Doximity profile has no residency dates",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident, Tufts Medical Center neurosurgery",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.tuftsmedicine.org/medical-professionals-trainees/training-education/training-programs/neurosurgery-residency-program-new/neurosurgery-residency-program-our-people/neurosurgery-residency-program-current-residents",
+    "type": "program_page",
+    "evidence": "Scott Flynn, MD | PGY-4 | Tufts University School of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/scott-flynn-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Boston MA; Tufts University School of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "65:aar:luna",
+  "name": "Aaron Luna",
+  "program_id": 65,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Zean Aaron Evan Luna) Tufts Medical Center Neurological Surgery residency 2024-2031, UTMB 2024; Tufts page lists Aaron Luna PGY-3, UTMB",
+  "residency_stated": [
+   {
+    "institution": "Tufts Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 in 2026-27; Doximity lists residency 2024-2031 (7-year program)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident, Tufts Medical Center neurosurgery",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.tuftsmedicine.org/medical-professionals-trainees/training-education/training-programs/neurosurgery-residency-program-new/neurosurgery-residency-program-our-people/neurosurgery-residency-program-current-residents",
+    "type": "program_page",
+    "evidence": "Aaron Luna, MD | PGY-3 | UTMB"
+   },
+   {
+    "url": "https://www.doximity.com/pub/zean-aaron-evan-luna-md",
+    "type": "doximity",
+    "evidence": "Tufts Medical Center Residency, Neurological Surgery, 2024 - 2031"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "65:mat:kanter",
+  "name": "Matthew Kanter",
+  "program_id": 65,
+  "identity": "confirmed",
+  "identity_basis": "Tufts page lists Matthew J. Kanter PGY-2; Tufts SOM news M25; Doximity Tufts SOM class 2025",
+  "residency_stated": [
+   {
+    "institution": "Tufts Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 on Tufts page; Doximity lists no residency (Other MD/DO, Tufts SOM 2025)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident, Tufts Medical Center neurosurgery",
+  "agrees_with_db": true,
+  "disagreement": "Note: a search snippet says Northwestern MD 2026 for Matthew Kanter (LinkedIn), likely a mix with Nicholas Besley; Tufts page and Doximity say Tufts MD 2025",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.tuftsmedicine.org/medical-professionals-trainees/training-education/training-programs/neurosurgery-residency-program-new/neurosurgery-residency-program-our-people/neurosurgery-residency-program-current-residents",
+    "type": "program_page",
+    "evidence": "Matthew J. Kanter, MD | PGY-2 | Tufts University School of Medicine | MD/MBA"
+   },
+   {
+    "url": "https://www.doximity.com/pub/matthew-kanter-md",
+    "type": "doximity",
+    "evidence": "Tufts University School of Medicine Class of 2025; Other MD/DO Boston"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "65:mul:mehari",
+  "name": "Mulki Mehari",
+  "program_id": 65,
+  "identity": "confirmed",
+  "identity_basis": "Tufts page PGY-2 UCSF; Doximity Neurosurgery Boston, UCSF SOM 2025; Tufts X welcome post",
+  "residency_stated": [
+   {
+    "institution": "Tufts Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 on Tufts page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident, Tufts Medical Center neurosurgery",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.tuftsmedicine.org/medical-professionals-trainees/training-education/training-programs/neurosurgery-residency-program-new/neurosurgery-residency-program-our-people/neurosurgery-residency-program-current-residents",
+    "type": "program_page",
+    "evidence": "Mulki Mehari, MD | PGY-2 | University of California, San Francisco"
+   },
+   {
+    "url": "https://www.doximity.com/pub/mulki-mehari-md-84803cf7",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Boston MA; UCSF School of Medicine Class of 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "65:nic:besley",
+  "name": "Nicholas Besley",
+  "program_id": 65,
+  "identity": "confirmed",
+  "identity_basis": "Tufts page PGY-1 Northwestern Feinberg 2026; Instagram welcome to neurosurgery; AANS 2025 abstract presenter",
+  "residency_stated": [
+   {
+    "institution": "Tufts Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 on Tufts page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-1 neurosurgery resident, Tufts Medical Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.tuftsmedicine.org/medical-professionals-trainees/training-education/training-programs/neurosurgery-residency-program-new/neurosurgery-residency-program-our-people/neurosurgery-residency-program-current-residents",
+    "type": "program_page",
+    "evidence": "Nicholas Besley, MD | PGY-1 | Northwestern Feinberg | Graduated 2026"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "66:jua:garces",
+  "name": "Juanita Garces",
+  "program_id": 66,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and practice site: UTSW MD 2011, Tulane/Ochsner neurosurgery residency, UVA spine fellowship",
+  "residency_stated": [
+   {
+    "institution": "Tulane University/Ochsner Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   },
+   {
+    "institution": "University of Virginia (fellowship)",
+    "specialty": "spine",
+    "start": 2017,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity: Tulane/Ochsner residency 2011-2018; ABNS certified; practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Texas Neuro Spine, San Antonio TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/juanita-garces-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 Tulane University/Ochsner Clinic Foundation; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.garcesmd.com/",
+    "type": "bio",
+    "evidence": "neurosurgeon San Antonio TX (search snippet: Tulane/Ochsner training then UVA fellowship)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "66:lor:kahn",
+  "name": "Lora Kahn",
+  "program_id": 66,
+  "identity": "confirmed",
+  "identity_basis": "Tulane faculty bio, Doximity: UTMB MD 2012, Tulane/Ochsner residency 2012-2019",
+  "residency_stated": [
+   {
+    "institution": "Tulane University/Ochsner Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity: residency 2012-2019; ABNS certified; functional neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "stereotactic/functional neurosurgeon, Tulane/Ochsner-LCMC, New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/lora-kahn-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019 Tulane University/Ochsner Clinic Foundation; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://medicine.tulane.edu/departments/neurosurgery/faculty/lora-kahn-md",
+    "type": "bio",
+    "evidence": "search snippet: in 2012 moved to New Orleans to complete residency at Tulane and Ochsner"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "66:sam:shamsnia",
+  "name": "Sam Shamsnia",
+  "program_id": 66,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Tulane MD 2010, UNMC neurosurgery 2010-2016 then Tulane/Ochsner 2016-2020",
+  "residency_stated": [
+   {
+    "institution": "University of Nebraska Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2010,
+    "end": 2016
+   },
+   {
+    "institution": "Tulane University/Ochsner Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transferred in from Nebraska (PGY-5 in 2016), completed at Tulane/Ochsner 2020, now practising neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Louisiana/Mississippi (Covington LA; Memorial Physician Clinics)",
+  "agrees_with_db": true,
+  "disagreement": "Consistent with phase2 transfer-in note",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sam-shamsnia-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2020 Tulane/Ochsner; 2010 - 2016 University of Nebraska Medical Center"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "66:der:umansky",
+  "name": "Derrick Umansky",
+  "program_id": 66,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Medical College of Georgia 2013, Tulane/Ochsner residency 2013-2020; Tulane faculty page",
+  "residency_stated": [
+   {
+    "institution": "Tulane University/Ochsner Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency 2013-2020; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Southern Brain and Spine; adjunct asst prof Tulane",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/derrick-umansky-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 Tulane University/Ochsner Clinic Foundation; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "66:ben:vidalis",
+  "name": "Benjamin Vidalis",
+  "program_id": 66,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Case Western MD 2014, UNM neurosurgery 2014-2020, Tulane/Ochsner 2020-2021",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2020
+   },
+   {
+    "institution": "Tulane University/Ochsner Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transferred to Tulane/Ochsner 2020 (UNM closure) and completed 2021; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, CHRISTUS St. Vincent, Santa Fe NM",
+  "agrees_with_db": true,
+  "disagreement": "Consistent with phase2 transfer-in note",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/benjamin-vidalis-md",
+    "type": "doximity",
+    "evidence": "Tulane/Ochsner Residency 2020 - 2021; University of New Mexico Residency 2014 - 2020; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "66:jon:riffle",
+  "name": "Jonathan Riffle",
+  "program_id": 66,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Ochsner: PCOM Georgia 2014, Tulane/Ochsner residency 2014-2021",
+  "residency_stated": [
+   {
+    "institution": "Tulane University/Ochsner Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency 2014-2021; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Tulane/Ochsner, New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jonathan-riffle-do",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 Tulane/Ochsner; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "66:j:berry",
+  "name": "J. Frank Berry",
+  "program_id": 66,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (listed John Franklin Berry): Tulane MD 2015, Tulane/Ochsner residency 2015-2022; Tulane 2015 med student page 'Frank Berry'",
+  "residency_stated": [
+   {
+    "institution": "Tulane University/Ochsner Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency 2015-2022; neurosurgeon Asheville NC, Pacific Neuroscience Institute 2022-23 fellow",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgical oncologist, Carolina Spine and Neurosurgery Center, Asheville NC",
+  "agrees_with_db": true,
+  "disagreement": "Name ambiguity resolved: 'John Berry' = J. Frank (John Franklin) Berry",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/john-berry-md-6da54071",
+    "type": "doximity",
+    "evidence": "John Franklin Berry; Residency, Neurological Surgery, 2015 - 2022 Tulane/Ochsner; Class of 2015 Tulane"
+   },
+   {
+    "url": "https://www.pacificneuroscienceinstitute.org/people/frank-berry/",
+    "type": "bio",
+    "evidence": "J. Frank Berry, MD, MS | 2022-23"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "66:bry:lieber",
+  "name": "Bryan Lieber",
+  "program_id": 66,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: NYU MD 2015, Tulane/Ochsner residency 2020-2022; phase2 Wayne State transfer",
+  "residency_stated": [
+   {
+    "institution": "Tulane University/Ochsner Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity lists only Tulane/Ochsner 2020-2022 (transfer from Wayne State per phase2); now practising neurosurgeon; Doximity has no ABNS listing",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Little Rock AR / Plantation FL (HCA Florida)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/bryan-lieber-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2022 Tulane/Ochsner; Neurosurgery, Little Rock AR"
+   }
+  ],
+  "searches_used": 1
+ }
+]

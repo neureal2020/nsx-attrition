@@ -1,0 +1,241 @@
+{
+ "program_id": 10,
+ "name": "Case Western Reserve University/University Hospitals Cleveland Medical Center Program",
+ "program_length": 7,
+ "complement_per_year": 4,
+ "complement_note": "Not stated on any page; observed intern classes 1-4 (usually 2-4); 4 in 2019-2021.",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://casemed.case.edu/Neurosurgery/residency_current.html (old static CWRU dept site)",
+   "from": "2009-06",
+   "to": "2010-06 (pre-window)"
+  },
+  {
+   "url": "http://casemed.case.edu/neurosurgery/residency/residencycurrentresidents.cfm (+ residencyrecentgraduates.cfm, aboutus/newsnewresidents.cfm)",
+   "from": "2011-11",
+   "to": "2015-05 (last capture; replaced by case.edu/medicine/neurosurgery)"
+  },
+  {
+   "url": "https://case.edu/medicine/neurosurgery/meet-our-team/current-residents (+ /education/recent-graduates)",
+   "from": "2015-11",
+   "to": "2023-09 (last update 2019; later captures are a frozen hybrid list)"
+  },
+  {
+   "url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents (+ /residents/alumni)",
+   "from": "2019-12",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2013-2014",
+  "2021-2022",
+  "2022-2023"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Only capture is 2012-02-10 (casemed .cfm); complete 16-name list. residency/index.cfm 2011-11 has no names.",
+  "2012-2013": "Only capture is 2013-03-05 (spring); complete 16-name list.",
+  "2013-2014": "SIGNIFICANT. residencycurrentresidents.cfm has no capture between 2013-03-05 and 2014-10-24 (CDX exact with collapse off; prefix on casemed.case.edu/neurosurgery). Common Crawl CC-MAIN-2013-48..2014-52 has only non-roster casemed pages (2013-20 index fetch failed, but that crawl is spring 2013). Reconstructed 17 from bracketing rosters and the alumni list; Nelson's PGY is left null (he fell back one class around this year).",
+  "2018-2019": "Aug 2018 capture still shows the 2017-18 list; Feb 2019 capture used (first 2018-19 version).",
+  "2019-2020": "UH page Dec 2019 used. case.edu page from Dec 2019 on is a frozen hybrid (still lists the 2019 graduates and McDougall as PGY-1) and is not used.",
+  "2021-2022": "SIGNIFICANT. UH residents page Sep 2021 capture is still the 2020-21 list (same names and PGYs as Mar/Jun 2021). No further capture until 2023-12-05 (CDX exact, prefix on the UH neurological-surgery-medical-education section 2021-07..2023-11: only faculty/fellowship/landing pages; news-and-events 2022-10 has no roster). Common Crawl 2021-2023 on the UH section and case.edu meet-our-team: only the same Wayback-dated captures. Reconstructed 12 (bracketed or alumni-confirmed). Not reconstructed: the 2021 intern class (Azghadi, Chakraborty, Shah, Sunshine, first seen 2023-24 PGY-3), and Lagman and Cornelius, who are not seen again.",
+  "2022-2023": "SIGNIFICANT. Same as 2021-22: no capture of any roster page. Reconstructed 11. Not reconstructed: the 2021 class, Sirinit (2022 intern, first seen 2023-24 PGY-2), and any other 2022 interns. The 2022 class shows only one person, so an intern who left before Dec 2023 would be invisible.",
+  "2024-2025": "Only capture in the AY is 2025-04-29 (the Jun 2024 capture is still the 2023-24 list); complete list."
+ },
+ "alumni_page": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents/alumni",
+ "departures": [
+  {
+   "name": "Aubrey McMillan",
+   "last_ay": "2017-2018",
+   "last_pgy": 1,
+   "note": "Listed PGY-I Oct 2017 to May 2018 (and in the stale Aug 2018 capture); gone by Feb 2019. NPPES taxonomy is neuroradiology/diagnostic radiology (OH), and a 2023 PubMed paper lists CWRU/MetroHealth Radiology. Switched to radiology. PHASE 2: recorded switched_specialty (radiology) from PMID 36598827/37356490."
+  },
+  {
+   "name": "Sean McDougall",
+   "last_ay": "2018-2019",
+   "last_pgy": 1,
+   "note": "PGY-1 Feb-Aug 2019 (2018 class with Lagman and Mauria). Absent from the UH page Dec 2019; the frozen case.edu page still shows him as PGY-1 in Dec 2019, so he may have repeated or left during 2019-20. NPPES 'other_specialty' match is a 2016 Texas nurse practitioner, probably a different person. Outcome unknown. PHASE 2: probable switch to NEUROLOGY - PubMed 2025 PMID 40899253 (Dept of Neurology, Cedars-Sinai) and NPPES Sean McDougall MD neurology/neurocritical care, enumerated 2018-03-30 (same month as co-intern Lagman's NPI). Recorded switched_specialty, moderate confidence."
+  },
+  {
+   "name": "Carlito Lagman",
+   "last_ay": "2020-2021",
+   "last_pgy": 3,
+   "note": "PGY-3 Nov 2020 (also in the stale Sep 2021 capture). Absent Dec 2023, when he would have been PGY-6. Left during the unobserved 2021-22/2022-23 window. PubMed has UH/CWRU neurosurgery affiliation up to 2021, then 2023 'Encino Surgicenter, Los Angeles' and 2024 'Research Fellow, Los Angeles'. Not on the alumni list. Outcome unknown. PHASE 2: exit year still unobservable (Jul 2021-Dec 2023). 2023-24 papers are plastic/aesthetic surgery research in Los Angeles; recorded departure_type unknown."
+  },
+  {
+   "name": "Shaleeka Cornelius",
+   "last_ay": "2020-2021",
+   "last_pgy": 1,
+   "note": "PGY-1 Nov 2020 to Sep 2021 (the Sep 2021 capture is stale). Absent Dec 2023. Exact year unknown (2021-22 or 2022-23). NPPES primary taxonomy is emergency medicine (FL). Probably switched specialty. PHASE 2: NPPES enumerated 2020-04 (intern timing), EM Port Charlotte FL; no publication/program page confirms EM, so recorded departure_type unknown (probable EM)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Christina Huang Wright",
+   "first_ay": "2014-2015",
+   "first_pgy": 2,
+   "note": "Transferred from USC on July 1, 2014 (casemed newsnewresidents.cfm). Graduated 2020. PHASE 2: not on the USC neurosurgery roster (program 104) in 2013-14, so the USC year was probably preliminary/another department. Transfer-in row recorded."
+  }
+ ],
+ "residents_2011plus": 43,
+ "adjudication_summary": {
+  "COMPLETED": 33,
+  "IN TRAINING": 18,
+  "LEFT -> SWITCHED SPECIALTY": 2,
+  "LEFT -> did not complete": 2,
+  "caveats": "Phase 2 rerun: McMillan and McDougall SWITCHED (radiology; neurology, moderate confidence); Lagman and Cornelius LEFT, destination unknown (Cornelius probable EM by NPPES only). Mauria (2025) and the Defta class (2026) are PGY-terminal roster graduations."
+ },
+ "problems": "2013-14 and 2022-23 stay significant (no roster exists in Wayback or any Common Crawl crawl). 2021-22 reconstructed but low. Lagman and Cornelius exit years unknown. The case.edu roster was frozen after 2019 and must not be used. No Common Crawl failures in phase 2.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete 16-name list (Feb 2012); first study year."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Only a spring capture (Mar 2013); every name is bracketed by 2011-12 and 2014-15, and the 2012 class (Ostergard, Wu) is intact later."
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No roster capture Mar 2013-Oct 2014 (Wayback + all 2013-2014 CC crawls, incl. the retried 2013-20). Huang Wright was taken as a PGY2 transfer into the 2013 class on Jul 1 2014, which may mean a 2013 intern left unseen during 2013-14."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Oct/Nov capture."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Oct/Nov capture."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Oct/Nov capture."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Oct/Nov capture."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Feb 2019 capture (Aug 2018 was stale); complete."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "UH page Dec 2019; complete."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "UH page Nov 2020; complete."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster capture (Wayback + all 2021-2023 CC crawls). All four 2021 interns (the largest class the program has had) reappear as PGY3 in Dec 2023, Shah/Chakraborty/Sunshine have UH neurosurgery affiliations on 2022-23 papers; Lagman and Cornelius exits are already counted, only their exact year is unknown."
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No roster capture. The 2022 class shows only Sirinit (other classes 2-4), so an intern who entered Jul 2022 and left before Dec 2023 would be invisible."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "UH page Dec 2023; complete."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Apr 2025 capture; complete."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Aug 2025 capture; complete."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page 2026-09-27."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "7-year program throughout. Tomac, Munyon and Onwuzulike (pre-2011 entrants) finished after years listed as PGY-6; they are completions, not departures.",
+ "phase2": {
+  "searched": [
+   "phase-1 raw files re-read (cc2/ residents-welcome pages 2021-04/2021-09/2023-12: letter only, no names; cc/hits.json: empty, 2013-20 had failed)",
+   "gapaudit 2013-03..2014-10 on casemed.case.edu/neurosurgery (+/Neurosurgery) and case.edu/medicine/neurosurgery; full CDX prefix listing of casemed in the window",
+   "casemed news.cfm (2014-01, 2014-11), newsnewresidents.cfm (2015-03), residencyawards.cfm (2014-10), residency/index.cfm (2014-01), gallery.cfm; Nelson bio 2015",
+   "gapaudit 2021-07..2023-12 on the UH neurological-surgery-medical-education section and case.edu/medicine/neurosurgery; CDX prefix on www.uhhospitals.org/medical-education (GME, incoming-residents, news) 2021-06..2023-12",
+   "UH news-and-events (2022-10, 2023-12), department landing (2022-10, 2023-02), residency landing (2022-08, 2022-11): no resident lists",
+   "Common Crawl (fixed filter) all crawls 2013-2014 (10, incl. CC-MAIN-2013-20 that failed in phase 1) and 2021-2023 (20): no failures; only the already-known Wayback-dated pages",
+   "PubMed affiliation mining 2012-2015 and 2021-2024 (UH/CWRU neurosurgery); unknown names checked individually (Petitt, Ahorukomeye, Jarmula, Rabah, Choi, Stout, Mahajan, Obiri-Yeboah): all students/other institutions",
+   "PubMed + NPPES for McMillan, McDougall, Lagman, Cornelius; UC Irvine neurology resident PDFs 2019-2021 (McDougall not listed)",
+   "crossmatch.json: David Smith (2011-12 PGY5 = window start, not a joiner) and Varun Shah (2021 entrant hidden by the gap, not a transfer) - both false positives"
+  ],
+  "found": [
+   "McDougall: probable switch to neurology (PubMed 2025 Cedars-Sinai Neurology + NPPES MD enumerated Mar 2018); the phase-1 NPPES NP match was the wrong person",
+   "Lagman: plastic/aesthetic surgery research in Los Angeles 2023-24 (destination still unknown)",
+   "Varun Shah UH neurosurgery affiliation on a paper received Aug 2022; Chakraborty and Sunshine on a 2023 paper -> 2021 class present during the gap",
+   "No new residents; no roster for 2013-14, 2021-22 or 2022-23"
+  ],
+  "remaining": [
+   "2013-14: possible unseen 2013 intern departure (Huang Wright filled a 2013-class slot Jul 2014)",
+   "2022-23: 2022 class shows only Sirinit; an unseen 2022 intern departure cannot be excluded",
+   "Exit years of Lagman and Cornelius (2021-22 vs 2022-23)"
+  ],
+  "training_history_rows_added": {
+   "departures": 4,
+   "transfer_in": 1,
+   "roster_graduations": 5
+  }
+ }
+}

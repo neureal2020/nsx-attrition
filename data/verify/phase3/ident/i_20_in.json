@@ -1,0 +1,735 @@
+[
+ {
+  "key": "105:jen:naquin",
+  "name": "Jenae' Naquin",
+  "program_id": 105,
+  "program": "University of Tennessee College of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UTHSC roster lists Jenae' Naquin PGY-1; LinkedIn snippet 'Medical Student at LSU Health Shreveport' (consistent)",
+   "outcome": "in_training",
+   "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+   "current": "neurosurgery resident (PGY-1), UTHSC Memphis, 2026-27",
+   "residency_stated": [
+    {
+     "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+     "type": "program_page",
+     "evidence": "UTHSC current residents page lists \"Jenae' Naquin, MD\" under PGY-1"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "105:max:bassett",
+  "name": "Maxon Bassett",
+  "program_id": 105,
+  "program": "University of Tennessee College of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UTHSC roster lists Maxon Bassett PGY-1; publication affiliation University of South Alabama Neurosurgery (medical student)",
+   "outcome": "in_training",
+   "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+   "current": "neurosurgery resident (PGY-1), UTHSC Memphis, 2026-27",
+   "residency_stated": [
+    {
+     "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+     "type": "program_page",
+     "evidence": "UTHSC current residents page lists \"Maxon Bassett, MD\" under PGY-1"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "107:leo:chen",
+  "name": "Leon Chen",
+  "program_id": 107,
+  "program": "University of Texas Health Science Center at Houston Program",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "last_seen": "2014-2015",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: McGovern Medical School MD class of 2014 (matches 2014 entry), dermatology residency UTHealth/MD Anderson 2016-2019; no source explicitly names a neurosurgery PGY1 year",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Dermatology residency 2016-2019 then Mohs fellowship MD Anderson 2020; neurosurgery PGY1 2014-15 not independently confirmed (likely intern year then 2015-16 gap/prelim)",
+   "current": "Mohs surgeon/dermatologist, Houston TX (U.S. Dermatology Partners)",
+   "residency_stated": [
+    {
+     "institution": "UTHealth Houston / MD Anderson",
+     "specialty": "dermatology",
+     "start": 2016,
+     "end": 2019
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/leon-chen-md-8e00ecfc",
+     "type": "doximity",
+     "evidence": "Residency, Dermatology, 2016 - 2019; McGovern Medical School at UTHealth Class of 2014, MD"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "107:kyl:connor",
+  "name": "Kyle O'Connor",
+  "program_id": 107,
+  "program": "University of Texas Health Science Center at Houston Program",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2022-2023",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity 'Kyle O'Connor' at UTHealth address 6431 Fannin, OU College of Medicine 2020, with Operative Neurosurgery papers (Kyle P O'Connor); Medical City UNT/TCU orthopaedic resident bio Kyle O'Connor, OU College of Medicine graduate. Link between the two is name+school only; no page states both",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Medical City UNT/TCU orthopaedic surgery residency page lists Kyle O'Connor (OU MD) as PGY-3; consistent with phase-2 finding. Doximity gives no training entries. Exact year left not established (last seen at UTHealth PGY3 Dec-2022)",
+   "current": "orthopaedic surgery resident (per program page)",
+   "residency_stated": [
+    {
+     "institution": "Medical City UNT/TCU (HCA)",
+     "specialty": "orthopaedic surgery",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.johnriehl.com/medcity-ortho-residents/",
+     "type": "program_page",
+     "evidence": "Kyle O'Connor, MD - PGY 3; University of Oklahoma College of Medicine; Baker Research Fellowship"
+    },
+    {
+     "url": "https://www.doximity.com/pub/kyle-o-connor-md",
+     "type": "doximity",
+     "evidence": "Resident Physician, Houston TX; University of Oklahoma College of Medicine Class of 2020; no residency listed"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "108:sam:tavakoli",
+  "name": "Sam Tavakoli",
+  "program_id": 108,
+  "program": "University of Texas Health Science Center San Antonio Joe and Teresa L",
+  "entry_year": 2016,
+  "first_seen": "2016-2017",
+  "last_seen": "2022-2023",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSOM graduation post (Peitz and Tavakoli, June 2023); KGNS piece: attended residency in San Antonio; Doximity profile 'Samon Tavakoli-Sabour' (MCW skull base) MD UTHSCSA class 2016 - name variant, same person likely",
+   "outcome": "completed",
+   "outcome_detail": "Graduated June 17 2023; then skull base fellowship (Medical College of Wisconsin per Doximity/LinkedIn snippet); now practising neurosurgeon Laredo",
+   "current": "neurosurgeon, Laredo Physicians Group, Laredo TX",
+   "residency_stated": [
+    {
+     "institution": "University of Texas Health Science Center San Antonio",
+     "specialty": "neurosurgery",
+     "start": 2016,
+     "end": 2023
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://lsom.uthscsa.edu/neurosurgery/residency-graduation-geoffrey-peitz-md-and-sam-tavakoli-md/",
+     "type": "program_page",
+     "evidence": "graduating from our residency program tomorrow, Saturday June 17th"
+    },
+    {
+     "url": "https://www.kgns.tv/2026/06/09/care-that-makes-difference-dr-sam-tavakoli/",
+     "type": "news",
+     "evidence": "neurosurgeon at Laredo Physicians Group; attended residency in San Antonio"
+    },
+    {
+     "url": "https://www.doximity.com/pub/samon-tavakoli-sabour-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Milwaukee WI; The University of Texas Health Science Center at San Antonio Class of 2016 (possible same person under fuller name; residency not listed)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "108:raj:gunaji",
+  "name": "Rajesh Gunaji",
+  "program_id": 108,
+  "program": "University of Texas Health Science Center San Antonio Joe and Teresa L",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2026-2027",
+  "last_pgy": 7,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSOM profile: USUHS MD 2019, Naval Medical Center Portsmouth intern 2019-2020, UTHSCSA neurosurgery from 2020",
+   "outcome": "in_training",
+   "outcome_detail": "Military (Navy) resident; PGY-7 per input",
+   "current": "neurosurgery resident, UT Health San Antonio",
+   "residency_stated": [
+    {
+     "institution": "University of Texas Health Science Center San Antonio",
+     "specialty": "neurosurgery",
+     "start": 2020,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://lsom.uthscsa.edu/neurosurgery/profile/rajesh-gunaji-md/",
+     "type": "program_page",
+     "evidence": "Internship Naval Medical Readiness and Training Command Portsmouth 2019-2020; UTHSCSA neurosurgery from 2020"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "108:con:cunningham",
+  "name": "Conor Cunningham",
+  "program_id": 108,
+  "program": "University of Texas Health Science Center San Antonio Joe and Teresa L",
+  "entry_year": 2024,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSOM profile lists PGY III at UTHSCSA; PubMed shows Conor M Cunningham affiliated with Neurosurgery, Medical University of South Carolina (exoscope spine, flow diversion papers)",
+   "outcome": "in_training",
+   "outcome_detail": "Consistent with phase-2 note: transfer in from MUSC neurosurgery, PGY2 in 2025-26; origin dates not independently confirmed; LSOM lists PGY III",
+   "current": "neurosurgery resident (PGY3), UT Health San Antonio",
+   "residency_stated": [
+    {
+     "institution": "Medical University of South Carolina",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": 2025
+    },
+    {
+     "institution": "University of Texas Health Science Center San Antonio",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://lsom.uthscsa.edu/neurosurgery/profile/conor-cunningham/",
+     "type": "program_page",
+     "evidence": "PGY III, UT Health San Antonio neurosurgery"
+    },
+    {
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37839563/",
+     "type": "pubmed",
+     "evidence": "Flow State and Neurosurgery: Conor M Cunningham, Dept of Neurosurgery, Medical University of South Carolina (search-snippet)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "108:dus:kim",
+  "name": "Dustin Kim",
+  "program_id": 108,
+  "program": "University of Texas Health Science Center San Antonio Joe and Teresa L",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "not_found",
+   "identity_basis": "No web source found; 2026-27 match list not public; common surname",
+   "outcome": "in_training",
+   "outcome_detail": "Recorded as PGY1 2026-27; unverifiable online (no profile, no match announcement found)",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "108:lau:raelly-muze",
+  "name": "Laureen Raelly-Muze",
+  "program_id": 108,
+  "program": "University of Texas Health Science Center San Antonio Joe and Teresa L",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UT Health San Antonio med student (Neurosurgery interest, AANS 2025 poster with UTHSCSA neurosurgery faculty); rare name",
+   "outcome": "in_training",
+   "outcome_detail": "Matched neurosurgery presumably 2026; recorded PGY-1 2026-27 at UTHSCSA. No resident page confirming",
+   "current": "neurosurgery PGY-1 (per DB), UTHSCSA",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://aans2025.eventscribe.net/fsPopup.asp?PresenterID=1789870&mode=posterPresenterInfo",
+     "type": "search_snippet",
+     "evidence": "third-year medical student at UT Health San Antonio ... pursue neurosurgery"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "109:tho:holbrook",
+  "name": "Thomas Holbrook",
+  "program_id": 109,
+  "program": "University of Texas Medical Branch Hospitals Program",
+  "entry_year": 2012,
+  "first_seen": "2012-2013",
+  "last_seen": "2012-2013",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Prisma Health profile of Thomas J Holbrook (Emergency Medicine, Columbia SC; USC School of Medicine 2012 per Healthgrades) reportedly lists residency Neurosurgery at UTMB-Galveston; NPI note in DB also links him to Neurological Surgery + Emergency Medicine. Not the namesake Thomas Holbrook Jr (Vanderbilt 1987, older neurosurgeon)",
+   "outcome": "switched_specialty",
+   "outcome_detail": "left UTMB neurosurgery after PGY-1 2012-13; now board-certified emergency physician (ABEM), Prisma Health, Columbia SC; EM training program/years not found",
+   "current": "emergency medicine physician, Prisma Health Richland, Columbia SC",
+   "residency_stated": [
+    {
+     "institution": "University of Texas Medical Branch-Galveston",
+     "specialty": "neurosurgery",
+     "start": 2012,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://doctors.prismahealth.org/provider/thomas-j-holbrook/2561760",
+     "type": "search_snippet",
+     "evidence": "Thomas J Holbrook completed residency in Neurosurgery at UTMB-Galveston, certified by American Board of Emergency Medicine (search summary; page itself 403)"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-thomas-holbrook-e39mz",
+     "type": "search_snippet",
+     "evidence": "Emergency Medicine ... graduated University of South Carolina School of Medicine 2012"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "109:eri:garcia",
+  "name": "Erick Garcia",
+  "program_id": 109,
+  "program": "University of Texas Medical Branch Hospitals Program",
+  "entry_year": 2013,
+  "first_seen": "2013-2014",
+  "last_seen": "2014-2015",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> TRANSFERRED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Ponce School of Medicine 2013 grad; Erick Garcia Gorbea now neurosurgeon at UT Health San Antonio (UTHSCSA neurosurgery page, WebMD/Vitals); WSU link comes from phase 2, not re-verified",
+   "outcome": "transferred",
+   "outcome_detail": "Consistent with phase-2 finding (transfer out to Wayne State after 2014-15); I could not open a WSU profile/bio confirming years. Practising neurosurgery, San Antonio",
+   "current": "neurosurgeon, UT Health San Antonio (per UTHSCSA neurosurgery page)",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://lsom.uthscsa.edu/neurosurgery/erick-garcia-gorbea/",
+     "type": "program_page",
+     "evidence": "Erick Garcia Gorbea - Neurosurgery (UTHSCSA page)"
+    },
+    {
+     "url": "https://www.vitals.com/doctors/Erick_Guillermo_GarciaGorbea.html",
+     "type": "search_snippet",
+     "evidence": "graduated from the Ponce School of Medicine in 2013; Neurological Surgery, San Antonio"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "109:mat:costa",
+  "name": "Matias Costa",
+  "program_id": 109,
+  "program": "University of Texas Medical Branch Hospitals Program",
+  "entry_year": 2022,
+  "first_seen": "2023-2024",
+  "last_seen": "2026-2027",
+  "last_pgy": 5,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UTMB current-residents page: PGY-5, Universidad Nacional de Rosario; Doximity (Other MD/DO Seattle) publications with UTMB authors",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-5 at UTMB per program page (joined PGY-2 2023-24 per DB); prior Seattle neuro-endovascular role",
+   "current": "neurosurgery resident PGY-5, UTMB",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+     "type": "program_page",
+     "evidence": "Matias Costa, MD PGY-5 Universidad Nacional de Rosario"
+    },
+    {
+     "url": "https://www.doximity.com/pub/matias-costa-md",
+     "type": "doximity",
+     "evidence": "Other MD/DO Seattle; no training listed; 2026 paper with Brian Oliver (UTMB)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "109:ale:evans",
+  "name": "Alexander Evans",
+  "program_id": 109,
+  "program": "University of Texas Medical Branch Hospitals Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UTMB residents page: Alexander Evans PGY-2, Univ of Oklahoma MD; Doximity OKC profile Class of 2024 OU (no residency listed)",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-2 at UTMB",
+   "current": "neurosurgery resident PGY-2, UTMB",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+     "type": "program_page",
+     "evidence": "Alexander Evans, MD PGY-2 University of Oklahoma"
+    },
+    {
+     "url": "https://www.doximity.com/pub/alexander-evans-md-631dc803",
+     "type": "doximity",
+     "evidence": "Other MD/DO Oklahoma City; Class of 2024 University of Oklahoma College of Medicine"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "109:whi:carriveau",
+  "name": "Whitney Carriveau",
+  "program_id": 109,
+  "program": "University of Texas Medical Branch Hospitals Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UTMB residents page: PGY-1, Univ of North Dakota; no independent page",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 at UTMB",
+   "current": "neurosurgery resident PGY-1, UTMB",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+     "type": "program_page",
+     "evidence": "Whitney Carriveau, MD PGY-1 University of North Dakota"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "110:nic:gill",
+  "name": "Nick Gill",
+  "program_id": 110,
+  "program": "University of Texas Southwestern Medical Center Program \u00a9 2026 Accredi",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "last_seen": "2015-2016",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "ambiguous",
+   "identity_basis": "Nicholas William Gill MD: Univ. of Cincinnati MD 2014, anesthesiologist (ABA), UTSW anesthesiology residency 2016-2019 per CareDash snippet, TX license 2018; fits 2014 UTSW start and departure after PGY-2 2015-16, but no source states he was in UTSW neurosurgery",
+   "outcome": "switched_specialty",
+   "outcome_detail": "probable switch to anesthesiology at UTSW 2016 (unconfirmed identity link)",
+   "current": "anesthesiologist, St. Louis MO",
+   "residency_stated": [
+    {
+     "institution": "UT Southwestern",
+     "specialty": "anesthesiology",
+     "start": 2016,
+     "end": 2019
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/nicholas-gill-md",
+     "type": "doximity",
+     "evidence": "Nicholas William Gill MD, Anesthesiology, University of Cincinnati College of Medicine class of 2014; ABA certified"
+    },
+    {
+     "url": "https://www.caredash.com/doctors/nicholas-gill-md-dallas-tx",
+     "type": "search_snippet",
+     "evidence": "Anesthesiology residency at University of Texas Southwestern 2016-2019"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "110:vam:reddy",
+  "name": "Vamsi Reddy",
+  "program_id": 110,
+  "program": "University of Texas Southwestern Medical Center Program \u00a9 2026 Accredi",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2021-2022",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity vamsi-reddy-md lists Medical College of Georgia class of 2021 and Residency Neurological Surgery UT Southwestern 2021-2028, but the same page also lists a Carilion GI residency 2017-2023 and ABIM, so it appears to merge two different Vamsi Reddys; search snippet also says UTSW neurosurgery 2021-2028, MCG",
+   "outcome": "in_training",
+   "outcome_detail": "Doximity (mixed profile) lists UTSW neurosurgery 2021-2028, i.e. no departure recorded; an undated UTSW resident page did not list a Reddy",
+   "current": "unclear; Doximity page shows Greenville SC neurosurgery (likely another physician's data)",
+   "residency_stated": [
+    {
+     "institution": "UT Southwestern Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2021,
+     "end": 2028
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/vamsi-reddy-md",
+     "type": "doximity",
+     "evidence": "Residency, Neurological Surgery, 2021 - 2028 UTSW; Medical College of Georgia Class of 2021; Residency Gastroenterology Carilion 2017-2023"
+    },
+    {
+     "url": "https://www.utsouthwestern.edu/departments/neurological-surgery/education-training/residency-program/residents/",
+     "type": "program_page",
+     "evidence": "no Reddy in listed PGY1-7 residents"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "110:vis:patel",
+  "name": "Vishal Patel",
+  "program_id": 110,
+  "program": "University of Texas Southwestern Medical Center Program \u00a9 2026 Accredi",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "last_seen": "2023-2024",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity cv page (Houston, UTMB MD 2017, UTSW neurosurgery residency 2017-2024) and Houston Methodist bio; several namesake neurosurgeons exist but training matches",
+   "outcome": "completed",
+   "outcome_detail": "Completed UTSW neurosurgery residency 2017-2024",
+   "current": "Neurosurgeon, Houston Methodist West, Houston TX",
+   "residency_stated": [
+    {
+     "institution": "University of Texas Southwestern Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2017,
+     "end": 2024
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/cv/vishal-j-patel",
+     "type": "doximity",
+     "evidence": "Residency, Neurological Surgery, 2017 - 2024 UTSW"
+    },
+    {
+     "url": "https://www.houstonmethodist.org/doctor/vishal-j-patel/",
+     "type": "bio",
+     "evidence": "completed his Neurosurgery residency at UT Southwestern (search snippet)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "111:phi:tatman",
+  "name": "Philip Tatman",
+  "program_id": 111,
+  "program": "University of Utah Health Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2024-2025",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Utah neurosurgery site has a resident bio page for Philip Tatman (MD PhD Colorado, \"before coming to Utah for his neurosurgical training\" per snippet); page itself returned 403 so undated and not veri",
+   "outcome": "in_training",
+   "outcome_detail": "Utah neurosurgery site has a resident bio page for Philip Tatman (MD PhD Colorado, \"before coming to Utah for his neurosurgical training\" per snippet); page itself returned 403 so undated and not verified against current roster. Low confidence.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://medicine.utah.edu/neurosurgery/residents/philip-tatman",
+     "type": "search_snippet",
+     "evidence": "Dr. Tatman completed his MD/PhD at the University of Colorado before coming to Utah for his neurosurgical training"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "112:ada:strand",
+  "name": "Adam Strand",
+  "program_id": 112,
+  "program": "University of Vermont Medical Center Program",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "last_seen": "2016-2017",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> outcome unknown (NPI hint: other specialty)",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "WebMD/Vitals: Adam Theodore Strand, Georgetown MD 2014, residency University of Vermont Medical Center; LinkedIn snippet: Emergency Medicine Chief Resident at Henry Ford Health, prior Resident Physician in Radiology at UVM Health Network, 'clinical experience in radiology and neurosurgery'. (Adam O. Strand, internist, is a different person)",
+   "outcome": "switched_specialty",
+   "outcome_detail": "left UVM neurosurgery (~2017); later listed as radiology resident at UVM and then Emergency Medicine chief resident at Henry Ford Health, Detroit; WebMD lists neurological surgery, diagnostic radiology and emergency medicine for him. Exact years not found",
+   "current": "emergency medicine physician / chief resident, Henry Ford Health, Detroit MI",
+   "residency_stated": [
+    {
+     "institution": "University of Vermont Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2014,
+     "end": null
+    },
+    {
+     "institution": "University of Vermont Medical Center",
+     "specialty": "diagnostic radiology (resident)",
+     "start": null,
+     "end": null
+    },
+    {
+     "institution": "Henry Ford Health",
+     "specialty": "emergency medicine",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/adam-strand-339505134/",
+     "type": "search_snippet",
+     "evidence": "Emergency Medicine Chief Resident, Henry Ford Health; Resident Physician in Radiology at University of Vermont Health Network"
+    },
+    {
+     "url": "https://doctor.webmd.com/doctor/adam-strand-b2fac0f8-666e-43ac-b67d-b713130b6c64-overview",
+     "type": "search_snippet",
+     "evidence": "Georgetown University School of Medicine 2014; residency University of Vermont Medical Center; Detroit MI"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "112:luk:silveira",
+  "name": "Luke Silveira",
+  "program_id": 112,
+  "program": "University of Vermont Medical Center Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippets/Doximity: BU MD 2018, UVM neurosurgery resident, publications with UVM faculty",
+   "outcome": "completed",
+   "outcome_detail": "UVM neurosurgery resident then cerebrovascular neurosurgery fellowship at Semmes Murphey (2025 per search snippet). Doximity oddly lists 'Residency, Neurology, University of Utah Health 2022-2025' (likely mislabeled visiting rotation; UT license 2022-2024) and specialty Neurology, Memphis TN",
+   "current": "cerebrovascular fellow / neurosurgery at Semmes Murphey Clinic, Memphis TN",
+   "residency_stated": [
+    {
+     "institution": "University of Vermont Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2024
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/luke-silveira-md",
+     "type": "doximity",
+     "evidence": "Residency, Neurology, University of Utah Health, 2022 - 2025; Boston University Class of 2018; VT license 2018-2025"
+    },
+    {
+     "url": "https://www.linkedin.com/in/luke-antonio-silveira-9152ab9b/",
+     "type": "search_snippet",
+     "evidence": "Luke Antonio Silveira - Semmes Murphey Clinic"
+    },
+    {
+     "url": "https://www.doximity.com/pub/katrina-ducis-md",
+     "type": "doximity",
+     "evidence": "Silveira coauthor with UVM neurosurgery faculty 2024"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

@@ -1,0 +1,269 @@
+{
+ "program_id": 77,
+ "name": "University of California Davis Health Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.ucdmc.ucdavis.edu/neurosurg/our_team/team_residents.html",
+   "from": "2007-11",
+   "to": "2018-09"
+  },
+  {
+   "url": "https://health.ucdavis.edu/neurosurg/our_team/team_residents.html",
+   "from": "2019-04",
+   "to": "2024-12"
+  },
+  {
+   "url": "https://health.ucdavis.edu/neurological-surgery/academic-programs/residency/current-residents",
+   "from": "2025-11",
+   "to": "2026-09 (live)"
+  },
+  {
+   "url": "https://health.ucdavis.edu/neurosurg/education/edu_res_graduates.html",
+   "from": "2019-09",
+   "to": "2025-09"
+  },
+  {
+   "url": "https://health.ucdavis.edu/neurological-surgery/academic-programs/alumni/",
+   "from": "2025-11",
+   "to": "2026-09 (live)"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2014-2015": "[phase2] OBSERVED via the UCDMC 'Resident Medical Staff 2014-2015' photo composite (all departments; PDF created 2014-08-22; https://web.archive.org/web/20141220065459/https://www.ucdmc.ucdavis.edu/surgery/education/CompositesResidents2.pdf). Neurological Surgery: Cadena Chief, Liu 6, Lee 6, Ament 5, Keachie 5, Binyamin 3, Bi Mo 2, Goodarzi 1 (no PG4 = no 2011 entrant). The departmental page stayed on the stale 2013-14 list all year.",
+  "2015-2016": "Observed, one reconstructed row: the page omitted every PGY-1; Bart Thaci added as reconstructed PGY-1 (PGY-2 2016-17, alumni grad 2022, 7-yr => 2015 entry). Empty PGY-3 = Bi Mo's class (he left after 2014-15); empty PGY-5 = no 2011 entrant (confirmed by the 2014-15 composite).",
+  "2011-2012": "Observed; no PGY-1 listed and no PGY-2 the next year, consistent with no 2011 entrant (the 2010-11 page also omitted its interns, Ament/Keachie, so an unlisted 2011 intern who left in year 1 cannot be excluded).",
+  "2012-2013": "Nov-2012 capture was the 2011-12 list with Boudreau and Keachie removed (not updated); the May-2013 update is used.",
+  "2021-2022": "Mar-2022 capture used; Oct-2021..Feb-2022 captures listed Anzhela Moskalik under PGY-1, corrected to PGY-2 in Mar 2022.",
+  "2026-2027": "Live page (2026-09-27) is advanced from 2025-26 (new PGY-1s Rostomian, Shah) and loaded."
+ },
+ "alumni_page": "https://health.ucdavis.edu/neurological-surgery/academic-programs/alumni/",
+ "departures": [
+  {
+   "name": "Christine Boudreau",
+   "last_ay": "2011-2012",
+   "last_pgy": 3,
+   "outcome": "unknown",
+   "note": "PGY-3 in 2010-11 and 2011-12; no later trace"
+  },
+  {
+   "name": "Bi Mo",
+   "last_ay": "2014-2015",
+   "last_pgy": 2,
+   "outcome": "switched_specialty",
+   "note": "PG2 in 2014-15 composite (phase 1 had him last in 2013-14); Jefferson anesthesiology/pain 2017, UCLA pain medicine 2024-26 (PubMed)"
+  },
+  {
+   "name": "Hosniya Zarabi",
+   "last_ay": "2018-2019",
+   "last_pgy": 3,
+   "outcome": "transferred",
+   "note": "Emory (20) -> UC Davis PGY3 2018-19 -> out 2019 (Silver Spring MD 2020, Loma Linda research 2021) -> Temple (64) PGY3 2023-24"
+  },
+  {
+   "name": "Irene Falk",
+   "last_ay": "2020-2021",
+   "last_pgy": 1,
+   "outcome": "unknown",
+   "note": "later NIH NINDS (2023) and Stanford radiology molecular imaging (2025) research affiliations; no residency found"
+  },
+  {
+   "name": "Kristin Nosova",
+   "last_ay": "2022-2023",
+   "last_pgy": 5,
+   "outcome": "transferred",
+   "note": "Banner/UA College of Medicine-Phoenix from early 2023 (PMIDs 36906326, 37080455) -> program 71 PGY5 2024-25"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Harjot Thind",
+   "first_ay": "2017-2018",
+   "first_pgy": 4,
+   "origin": "University at Buffalo (69), PGY1-3 2014-17"
+  },
+  {
+   "name": "Oluwaseun Omofoye",
+   "first_ay": "2018-2019",
+   "first_pgy": 6,
+   "origin": "UNC (98) PGY1-5 2012-17, Boston Medical Center 2017-18"
+  },
+  {
+   "name": "Hosniya Zarabi",
+   "first_ay": "2018-2019",
+   "first_pgy": 3,
+   "origin": "Emory (20) PGY1-2 2016-18"
+  },
+  {
+   "name": "Catherine Peterson",
+   "first_ay": "2020-2021",
+   "first_pgy": 5,
+   "origin": "Wayne State/DMC (125), closed ~2020"
+  },
+  {
+   "name": "Dylan Goodrich",
+   "first_ay": "2020-2021",
+   "first_pgy": 4,
+   "origin": "Wayne State/DMC (125), closed ~2020"
+  },
+  {
+   "name": "Freddie Rodriguez Beato",
+   "first_ay": "2021-2022",
+   "first_pgy": 3,
+   "origin": "Univ of Puerto Rico (101), accreditation withdrawn 2022; UPR MD 2019"
+  },
+  {
+   "name": "Anzhela Moskalik",
+   "first_ay": "2021-2022",
+   "first_pgy": 2,
+   "origin": "UConn MD 2020; PGY-1 2020-21 location unknown"
+  }
+ ],
+ "residents_2011plus": 31,
+ "adjudication_summary": {
+  "COMPLETED": 20,
+  "IN TRAINING": 14,
+  "LEFT -> TRANSFERRED": 2,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> did not complete (unknown)": 2
+ },
+ "problems": "Common Crawl CC-MAIN-2014-10/2014-15 failed in phase 1 (spring 2014 = 2013-14, an observed year; not retried as unnecessary). Chief-labelled rows given PGY 7; Lee and Ament took 8 years (PGY-8 on 2016-17 / 2017-18 lists) but completed. Wayback CDX regex search for other house-staff composites across ucdmc.ucdavis.edu returned nothing (query likely too large); only the 2014-15 composite is known.",
+ "years": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "no PGY-1 listed; no PG2 in 2012-13 and no PG4 in the 2014-15 composite, so no 2011 entrant stayed; only a 2011 intern who left within the year could be unseen (2010-11 page also omitted interns)"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "May-2013 capture (Nov-2012 page not updated); composite 2014-15 brackets it"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "observed in the 2014-15 UCDMC resident photo composite (complete department block with PG levels)"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "page omitted PGY-1s; Thaci reconstructed as PGY-1 from 2016-17 PGY-2 and 2022 graduation; complement was 1/yr so an extra unseen intern is unlikely"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Mar-2022 capture (Moskalik PGY-1 label corrected to PGY-2)"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page"
+  }
+ },
+ "non_residents": [
+  {
+   "name": "Dinesh Ramanathan",
+   "note": "UIC Peoria (84) resident to 2016; UC Davis Dept of Neurological Surgery affiliation on 2018-2021 papers (PMIDs 30459890, 31192094, 31393221, 32615697) = research post 2016-19; never on the UC Davis resident rosters; Loma Linda (31) 2019-23. No program-77 row."
+  },
+  {
+   "name": "Robert Dahlin",
+   "note": "listed on 2018-19 page as Spine Fellow (Arrowhead residency 2018), not a resident"
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "gapaudit 2014-2016 over ucdmc.ucdavis.edu/{neurosurg,gme,surgery,publish/news,welcome,medschool}",
+   "Dept of Surgery resident newsletters Aug 2014-Jun 2015 (no neurosurgery names)",
+   "GME/surgery PDF prefixes on ucdmc and health.ucdavis.edu (only one composite)",
+   "all 2015-16 Wayback captures of the roster (Aug 2015-Apr 2016: identical, no interns)",
+   "PubMed affiliation mining UC Davis neurosurgery 2014-2017",
+   "PubMed author affiliations for Bi Mo, Boudreau, Thaci, Falk, Nosova, Zarabi, Rodriguez Beato, Moskalik, Thind, Peterson, Goodrich, Ramanathan",
+   "cross-program rosters 20, 64, 69, 71, 98, 101, 125, 31, 84"
+  ],
+  "found": [
+   "2014-15 roster (UCDMC resident composite) -> year observed; Bi Mo PG2 in 2014-15 (left 2015, not 2014)",
+   "Bi Mo -> anesthesiology/pain (Jefferson 2017, UCLA 2024-26)",
+   "Rodriguez Beato = UPR closure transfer 2021",
+   "Moskalik UConn MD 2020, joined PGY2",
+   "Zarabi 2019-23 interval (Silver Spring MD; Loma Linda research)",
+   "Falk later NIH/Stanford research"
+  ],
+  "remaining": [
+   "2011-12 and 2015-16: an intern who left within the year could be unseen (low)",
+   "Boudreau and Falk outcomes unknown",
+   "Moskalik's 2020-21 PGY-1 site unknown"
+  ]
+ }
+}

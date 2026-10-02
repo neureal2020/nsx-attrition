@@ -1,0 +1,469 @@
+[
+ {
+  "key": "56:ayo:otun",
+  "name": "Ayodamola Otun",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch returned no health.usnews.com profile for him (only Doximity/Healthgrades: anesthesiology, Milwaukee)."
+ },
+ {
+  "key": "56:myc:delgardo",
+  "name": "Mychael Delgardo",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/mychael-delgardo-3340961",
+  "education": [
+   "BS, Biology, 2015-2019 at Xavier University of Louisiana",
+   "MD, 2019-2024 at Columbia University Vagelos College of Physicians and Surgeons"
+  ],
+  "specialty": "Anesthesiology (General Anesthesiology)",
+  "evidence": "Dr. Mychael Delgardo is an anesthesiologist in Tampa, Florida and is affiliated with St. Joseph's Hospital-Tampa",
+  "notes": "No residency line listed. Licenses FL (thru 2029), CT, IL. Consistent with switched_specialty (NS -> anesthesiology)."
+ },
+ {
+  "key": "57:geo:sinclair",
+  "name": "George Sinclair",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/george-sinclair-871549",
+  "education": [
+   "MD at University of Tennessee Health Science Center College of Medicine",
+   "Residency, Neurological Surgery, 2009-2014 at Rutgers Health/New Jersey Medical School"
+  ],
+  "specialty": "Neurosurgery (General Neurosurgery)",
+  "evidence": "Rutgers Health/New Jersey Medical School Residency, Neurological Surgery, 2009-2014",
+  "notes": "Residency listed as 5 years (2009-2014), short for a 7-yr NS residency. NJ license active through 2017 only; address Newark NJ. Consistent with completed but end year early."
+ },
+ {
+  "key": "57:mic:cohen",
+  "name": "Michael Cohen",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/michael-cohen-873447",
+  "education": [
+   "Residency, Neurological Surgery, 2011-2018 at St Barnabas Medical Center",
+   "Medical School at Drexel University College of Medicine/Hahnemann University"
+  ],
+  "specialty": "Neurosurgery (General Neurosurgery)",
+  "evidence": "St Barnabas Medical Center Residency, Neurological Surgery, 2011-2018",
+  "notes": "Neurosurgeon, Eastern Maine Medical Center, Bangor ME. Residency institution listed as St Barnabas (not NJMS name) but years match 2011 entry; publications with James K. Liu/Prestigiacomo (Rutgers NJMS faculty). Licenses ME (2028), UT (2020), NJ (2019)."
+ },
+ {
+  "key": "57:dav:slottje",
+  "name": "David Slottje",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/david-slottje-1018564",
+  "education": [
+   "Medical School at Weill Cornell Medicine",
+   "Medical School at Rutgers New Jersey Medical School",
+   "Residency, Neurological Surgery, 2012-2013 at University of Vermont Medical Center",
+   "Residency, Neurological Surgery, 2013-2019 at Rutgers Health/New Jersey Medical School"
+  ],
+  "specialty": "Neurosurgery (General Neurosurgery)",
+  "evidence": "University of Vermont Medical Center Residency, Neurological Surgery, 2012-2013 ... Rutgers Health/New Jersey Medical School Residency, Neurological Surgery, 2013-2019",
+  "notes": "Completed NS at Rutgers NJMS 2019, but US News shows PGY1 year 2012-2013 at UVM, i.e. Rutgers start 2013 (input entry_year 2012) - possible transfer in. Neurosurgeon Missoula MT. Licenses VT (2013), NJ (2019), PA, MT, VA."
+ },
+ {
+  "key": "57:rya:radwanski",
+  "name": "Ryan Radwanski",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No health.usnews.com profile URL in search results (search summary mentions family medicine, Milford NJ; Doximity/Hunterdon Health)."
+ },
+ {
+  "key": "58:eri:dillard",
+  "name": "Erika Dillard",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/erika-dillard-1221492",
+  "education": [
+   "Medical School at University of Tennessee Health Science Center College of Medicine",
+   "Residency, Neurological Surgery, 2014-2021 at Sidney Kimmel Medical College at Thomas Jefferson University/TJUH",
+   "Post-Doctoral Fellowship, Healthcare/Biotech Entrepreneurship, 2019-2021 at University of Memphis"
+  ],
+  "specialty": "Neurosurgery (General Neurosurgery)",
+  "evidence": "Sidney Kimmel Medical College at Thomas Jefferson University/TJUH Residency, Neurological Surgery, 2014-2021",
+  "notes": "Only license listed: PA (active through 2026). Address is a residential-looking Memphis address; no hospital affiliation. Overlapping 2019-2021 entrepreneurship fellowship."
+ },
+ {
+  "key": "60:geo:alexopoulos",
+  "name": "Georgios Alexopoulos",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/georgios-alexopoulos-1018918",
+  "education": [
+   "MD, Medicine, 2002-2008 at University of Patras - Greece",
+   "Fellowship, Pediatric Neurosurgery, 2017-2018 at Children's Hospital/Harvard Medical School",
+   "Residency, Neurological Surgery, 2018-2024 at SSM Health/Saint Louis University School of Medicine",
+   "MS, Bioinformatics, 2020-2023 at University of Maine"
+  ],
+  "specialty": "Neurosurgery (Brain & Spinal Tumor, Epilepsy Surgery, Neurosurgical Spine Surgery, Pediatric Neurosurgery)",
+  "evidence": "SSM Health/Saint Louis University School of Medicine Residency, Neurological Surgery, 2018-2024",
+  "notes": "Supports completion (2018-2024). Address now Marousi, Athens (Greece; mislabeled GA). Licenses WI (2027), MO (2025), MA (2018), IL (2020)."
+ },
+ {
+  "key": "61:dan:lee",
+  "name": "Daniel Lee",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "Common name; several usnews Daniel Lee profiles (neurology/EM) but none identifiable as Stanford neurosurgery trainee (Daniel Kwangsuk Lee, Palo Alto per WebMD). Not opened."
+ },
+ {
+  "key": "61:rya:phelps",
+  "name": "Ryan Phelps",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile; search shows Stanford NS intern 2022, now Co-Founder/CEO Ora AI."
+ },
+ {
+  "key": "64:ben:leichty",
+  "name": "Benjamin Leichty",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/benjamin-liechty-823951",
+  "education": [
+   "Medical School at Sidney Kimmel Medical College at Thomas Jefferson University",
+   "Fellowship, Neuropathology at NYU Grossman School of Medicine"
+  ],
+  "specialty": "Pathology (Molecular Genetics, Neuropathology, Anatomic Pathology, Clinical Pathology)",
+  "evidence": "Dr. Benjamin L. Liechty is a pathologist in New York, New York ... medical degree from Sidney Kimmel Medical College at Thomas Jefferson University",
+  "notes": "IDENTITY UNCONFIRMED: profile is spelled Liechty (input: Leichty). Philadelphia MD (Jefferson), PA license active through 2018, early spine paper with Harrop (Jefferson) - plausible match to Temple 2010 NS entrant, but no Temple/NS residency listed (only no-year neuropathology fellowship at NYU). If same person, suggests switch NS -> pathology/neuropathology."
+ },
+ {
+  "key": "64:zak:hakma",
+  "name": "Zakaria Hakma",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No health.usnews.com profile URL in search results; other sites say neurology + neurosurgery residencies at Temple, now Drexel/Cooper neurosurgeon."
+ },
+ {
+  "key": "64:tam:fierst",
+  "name": "Tamara Fierst",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/tamara-baum-1102196",
+  "education": [
+   "Residency, Neurological Surgery, 2011-2018 at Temple University Hospital",
+   "Medical School at Lewis Katz School of Medicine at Temple University"
+  ],
+  "specialty": "Interventional Radiology (General Interventional Radiology)",
+  "evidence": "Temple University Hospital Residency, Neurological Surgery, 2011-2018",
+  "notes": "Profile name Tamara M. Baum (Jette); publications listed under Tamara Fierst and affiliation Penn Medicine Lancaster General match her. POSSIBLE CONTRADICTION: US News lists full 7-yr Temple NS residency 2011-2018 (suggests completion), while finding_outcome=switched_specialty; now practicing interventional radiology. No IR training line listed."
+ },
+ {
+  "key": "64:and:danziger",
+  "name": "Andrew Danziger",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile; search: Diagnostic Radiology resident at Zucker/Northwell (class 2028), internship at Temple."
+ },
+ {
+  "key": "64:jon:welch",
+  "name": "Jonathan Welch",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/jonathan-welch-2953741",
+  "education": [
+   "Medical School at Lewis Katz School of Medicine at Temple University",
+   "Residency, Neurological Surgery, 2021-2023 at Temple University Hospital",
+   "Residency, Radiology-Diagnostic, 2023-2027 at Atlantic Health"
+  ],
+  "specialty": "Radiology (General Radiology)",
+  "evidence": "Temple University Hospital Residency, Neurological Surgery, 2021-2023 ... Atlantic Health Residency, Radiology-Diagnostic, 2023-2027",
+  "notes": "Consistent with switched_specialty: left Temple NS after 2 yrs (2023) for diagnostic radiology at Atlantic Health (Morristown NJ). PA license through 2023."
+ },
+ {
+  "key": "65:emi:anderson",
+  "name": "Emily Anderson",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/emily-anderson-3033074",
+  "education": [
+   "Medical School at Tufts University School of Medicine"
+  ],
+  "specialty": "Pediatrics (General Pediatrics) per US News",
+  "evidence": "Dr. Emily Anderson is a pediatrician in Boston, Massachusetts and is affiliated with Newton-Wellesley Hospital. She received her medical degree from Tufts University School of Medicine",
+  "notes": "Identity supported by publications with James Kryzanski (Tufts NS) incl. 'Prognosis and futility in neurosurgical emergencies'. No residency lines listed. Address 55 Fruit St Boston (MGH). Specialty label Pediatrics may be a data artifact; unverified switch. MA license active through 2028."
+ },
+ {
+  "key": "65:oma:sorour",
+  "name": "Omar Sorour",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/omar-sorour-3333251",
+  "education": [
+   "Medical School at UMass Chan Medical School"
+  ],
+  "specialty": "Resident Physician (General Resident Physician)",
+  "evidence": "Dr. Omar Sorour is a resident physician in Boston, Massachusetts and is affiliated with Tufts Medical Center",
+  "notes": "No residency lines with years listed. Currently resident at Tufts Medical Center; neurosurgery publications with Tufts NS faculty. MA license active through 2026."
+ },
+ {
+  "key": "67:mur:gathinji",
+  "name": "Muraya Gathinji",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No health.usnews.com profile URL in search results (WebMD lists Surgery, Los Angeles)."
+ },
+ {
+  "key": "67:yag:muftuoglu",
+  "name": "Yagmur Muftuoglu",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile found; UCLA neurosurgery resident per other sites."
+ },
+ {
+  "key": "68:che:lim",
+  "name": "Chelsea Jeewoo Lim",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile; UMass neurosurgery resident per other sites."
+ },
+ {
+  "key": "69:ken:rajjoub",
+  "name": "Kenan Rajjoub",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile for him (only Rodwan K. Rajjoub, different person)."
+ },
+ {
+  "key": "70:log:powell",
+  "name": "Logan Powell",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile; UAB NS resident 2025 per X/Doximity."
+ },
+ {
+  "key": "72:whi:james",
+  "name": "Whitney Sheen James",
+  "usnews": "not_found",
+  "url": "https://health.usnews.com/doctors/whitney-sheen-james-1023498",
+  "education": [],
+  "specialty": "",
+  "evidence": "410 Page Not Found! Either something went wrong or the page doesn't exist anymore.",
+  "notes": "Profile URL from search now returns 410 (removed; she reportedly retired 2024). Search snippet (unverified, not from page) said NS residency at Univ of Arizona-Tucson 2012-2018, Transitional Year 2012-2013."
+ },
+ {
+  "key": "72:and:marrero",
+  "name": "Andres Monserrate Marrero",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile; University of Arizona NS resident per university site."
+ },
+ {
+  "key": "73:bla:phillips",
+  "name": "Blake Phillips",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/blake-phillips-778384",
+  "education": [
+   "Medical School at University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+   "Internship, Transitional Year, 2008-2009 at UAMS College of Medicine",
+   "Residency, Neurological Surgery, 2010-2015 at UAMS College of Medicine"
+  ],
+  "specialty": "Neurosurgery (General Neurosurgery)",
+  "evidence": "University of Arkansas for Medical Sciences (UAMS) College of Medicine Residency, Neurological Surgery, 2010-2015",
+  "notes": "Neurosurgeon, Baptist Health Little Rock. US News NS residency start 2010 (input entry_year 2011); end 2015. AR license thru 2028, MO thru 2011."
+ },
+ {
+  "key": "73:gau:gandhi",
+  "name": "Gautam Kanu Gandhi",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/gautam-gandhi-993429",
+  "education": [
+   "BS, Biology and Chemistry, 1998-2001 at Christian Brother University",
+   "Ph.D., Neurobiology and Developmental Sciences, 2003-2007 at University of Arkansas for Medical Sciences",
+   "Medical School at UAMS College of Medicine",
+   "Residency, Neurological Surgery, 2009-2016 at UAMS College of Medicine"
+  ],
+  "specialty": "Neurosurgery (General Neurosurgery)",
+  "evidence": "University of Arkansas for Medical Sciences (UAMS) College of Medicine Residency, Neurological Surgery, 2009-2016",
+  "notes": "Neurosurgeon, Little Rock AR (National Park Medical Center). US News NS residency start 2009 (input entry_year 2011); end 2016 supports completion."
+ },
+ {
+  "key": "73:pau:lee",
+  "name": "Paul Lee",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/paul-lee-1144641",
+  "education": [
+   "Medical School at New York Medical College",
+   "Residency, Neurological Surgery, 2016-2023 at UAMS College of Medicine",
+   "Residency, Neurological Surgery, 2016-2024 at UAMS College of Medicine"
+  ],
+  "specialty": "Neurosurgery (General Neurosurgery)",
+  "evidence": "UAMS College of Medicine Residency, Neurological Surgery, 2016-2023 / Residency, Neurological Surgery, 2016-2024",
+  "notes": "Two duplicate UAMS NS residency lines with end years 2023 and 2024 (9-yr span; likely includes research/enfolded year). Now neurosurgeon at CHI St. Vincent North, Sherwood AR; papers with Krisht. AR license through 2027."
+ },
+ {
+  "key": "73:olu:afuwape",
+  "name": "Olusoji Afuwape",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile for him (only Emmanuel A. Afuwape, different person)."
+ },
+ {
+  "key": "73:ale:gilman",
+  "name": "Alex Gilman",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "Only usnews Alex S. Gilman, DO (internist, >20 yrs practice, LECOM) - not a match for 2024 NS entrant."
+ },
+ {
+  "key": "73:aus:robbins",
+  "name": "Austin Robbins",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile; UAMS neurosurgery (Little Rock) per WebMD."
+ },
+ {
+  "key": "74:mar:mathews",
+  "name": "Marlon Mathews",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/marlon-mathews-684902",
+  "education": [
+   "Medical School at Grant Medical College",
+   "Residency, Surgery, 2004-2005 at Mayo Clinic College of Medicine and Science (Rochester)",
+   "Residency, Neurological Surgery, 2008-2010 at University at Buffalo",
+   "Residency, Neurological Surgery, 2010-2016 at University of California (Irvine)"
+  ],
+  "specialty": "Family Medicine (Sports Medicine, Non-Surgical)",
+  "evidence": "University at Buffalo Residency, Neurological Surgery, 2008-2010 ... University of California (Irvine) Residency, Neurological Surgery, 2010-2016",
+  "notes": "FLAG: US News shows 2008-2010 NS at Buffalo, UC Irvine NS only 2010-2016 (input: UCI entry 2008) - suggests transfer into UCI. Now listed as Family Medicine/Sports Medicine in Palm Springs CA (21+ yrs experience), not neurosurgery. Licenses CA (2028), UT (2018)."
+ },
+ {
+  "key": "74:isi:beach",
+  "name": "Isidora Beach",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile found."
+ },
+ {
+  "key": "75:har:birk",
+  "name": "Harjus Birk",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/harjus-birk-1433833",
+  "education": [
+   "Medical School at University of California (San Francisco) School of Medicine",
+   "Residency, Neurological Surgery, 2017-2019 at University of California (San Diego) Medical Center"
+  ],
+  "specialty": "Neurosurgery (General Neurosurgery)",
+  "evidence": "University of California (San Diego) Medical Center Residency, Neurological Surgery, 2017-2019",
+  "notes": "Consistent with transferred: UCSD NS only 2017-2019; later publications with LSU Health Shreveport NS faculty (Kosty, Guthikonda, Kandregula) though no second residency line listed. Address 4301 X St Sacramento (UC Davis). CA license through 2027."
+ },
+ {
+  "key": "77:chr:boudreau",
+  "name": "Christine Boudreau",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/christine-boudreau-649163",
+  "education": [
+   "Medical School at David Geffen School of Medicine at UCLA",
+   "Internship, Transitional Year, 2006-2007 at Beth Israel Deaconess Medical Center",
+   "Residency, Neurological Surgery, 2009-2011 at University of California Davis Health"
+  ],
+  "specialty": "Neurosurgery (General Neurosurgery)",
+  "evidence": "University of California Davis Health Residency, Neurological Surgery, 2009-2011",
+  "notes": "UC Davis NS residency listed only 2009-2011 (2 yrs) - suggests did not complete at UC Davis; address is UC Davis Dept of Neurological Surgery, Sacramento. No other residency listed. CA license through 2027. LinkedIn (search result) shows Los Rios Community College District."
+ },
+ {
+  "key": "77:ire:falk",
+  "name": "Irene Falk",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile; search says UC Davis residency June 2020-July 2021 (Doximity)."
+ },
+ {
+  "key": "78:jav:khader-eliyas",
+  "name": "Javed Khader-Eliyas",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/javed-khader-eliyas-691819",
+  "education": [
+   "Medical School at PSG Institute of Medical Sciences",
+   "Residency, Surgery, 2008-2009 at Rutgers Health/New Jersey Medical School",
+   "Residency, Surgery, 2009-2010 at University of Illinois College of Medicine at Chicago (Metropolitan Group)",
+   "Residency, Neurological Surgery, 2010-2016 at University of Chicago"
+  ],
+  "specialty": "Neurosurgery (Cerebrovascular Neurosurgery, Interventional Neuroradiology, Pituitary Surgery, Skull Base)",
+  "evidence": "University of Chicago Residency, Neurological Surgery, 2010-2016",
+  "notes": "Supports completion at UChicago (2010-2016). Now neurosurgeon at St. Francis Hospital, Hartford CT."
+ },
+ {
+  "key": "78:mel:mar",
+  "name": "Melody Mar",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile for her; WebMD/Healthgrades: diagnostic radiology, Colorado Springs."
+ },
+ {
+  "key": "78:nas:mendoza-elias",
+  "name": "Nasya Mendoza-Elias",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No dedicated usnews profile found; UChicago neurosurgery per other sites."
+ },
+ {
+  "key": "78:mar:torres",
+  "name": "Maria del Carmen Pons Torres",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile for her (only other Torres doctors); WebMD: Neurological Surgery, UChicago."
+ },
+ {
+  "key": "78:whi:griggs",
+  "name": "Whitney Griggs",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No usnews profile; UChicago neurosurgery trainee per other sites."
+ }
+]

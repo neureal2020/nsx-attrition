@@ -1,0 +1,230 @@
+{
+ "program_id": 42,
+ "name": "Medical College of Georgia Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "www.mcg.edu/som/neurosurgery/residents/index.htm (MCG; alumni under History/alumniNN-NN.htm)",
+   "from": "2010-05",
+   "to": "2011-01"
+  },
+  {
+   "url": "www.georgiahealth.edu/medicine/neurosurgery/residents/index.htm (GHSU; stale 2010-11 content)",
+   "from": "2011-09",
+   "to": "2011-09"
+  },
+  {
+   "url": "www.georgiahealth.edu/medicine/neurosurgery/residents/ (and index.html; GHSU/GRU footer)",
+   "from": "2012-12",
+   "to": "2013-09"
+  },
+  {
+   "url": "www.gru.edu/mcg/neurosurgery/residents/ (Georgia Regents University)",
+   "from": "2015-01",
+   "to": "2016-01"
+  },
+  {
+   "url": "www.augusta.edu/mcg/neurosurgery/residents/ (live; colleges/medicine/neurosurgery/* 301s here)",
+   "from": "2016-03",
+   "to": "2026-09-27"
+  },
+  {
+   "url": "www.augusta.edu/mcg/neurosurgery/residents/alumni.php (live alumni list, grads 1959-2026); older history/alumni00-09.php etc.",
+   "from": "2022",
+   "to": "2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "SIGNIFICANT. The only capture in the AY (georgiahealth.edu residents/index.htm, 2011-09-16) is the stale 2010-11 page (revised 2010-08-06; Ahmed Shakir, grad 2011, still chief). No other capture Jan 2011-Dec 2012 on mcg.edu/georgiahealth.edu (prefix CDX, any status). Common Crawl CC-MAIN-2012: 2 records on the georgiahealth prefix, none roster. PubMed affiliation scan 2011-15 found no unknown resident. Reconstructed 7 bracketed/alumni-confirmed people (Youssef 6, Hughes PGY ambiguous 5/6, Wang 5, B. Shakir 4, N. Woodall 3, Viers 2, Yowtak 2). The PGY-1 (2011 entrant) is unknown: the 2012-13 roster lists no PGY-2, so a 2011 intern could have entered and left unseen (or the program took no 2011 resident). PHASE 2: gapaudit of mcg.edu/georgiahealth.edu neurosurgery, surgery, GME and news hosts (2011-05..2012-12) and the whole www.georgiahealth.edu host (2011-07..2012-12): no roster in the AY. The 2011 GME programs booklet says neurosurgery accepts 1/year (7 years), but the 2010 class had two (Viers, Yowtak), so a 2011 slot may have been skipped. GHSU IRIS match table: 2 MCG graduates matched neurosurgery in 2011 (destinations not given). PubMed 2011-14 MCG/GHSU/GRU neurosurgery affiliation scan: the unknown names are students (Hester, Smitherman = Oklahoma 2013 entrant, Whitaker-Lea = VCU), plus the Cormican lead (see year_status). Still significant.",
+  "2012-2013": "Captures Dec 2012-Jun 2013 all identical (revised 8/9/12). No PGY-2 on page.",
+  "2014-2015": "No capture between 2013-09 and 2015-01; Jan 2015 gru.edu capture used (complete, 7 names, consistent with neighbours).",
+  "2018-2019": "Only capture Feb 2019. Kavianpour seen only here.",
+  "2020-2021": "No capture Nov 2019-Dec 2020; Jan 2021 capture used.",
+  "2021-2022": "Only capture 2022-06-30 (end of AY); content is 2021-22. A mid-year departure/arrival earlier in the year would be invisible, but all classes are continuous.",
+  "2022-2023": "Only capture 2023-06-07 (end of AY); content 2022-23. Carr (PGY-2) and Revuelta (PGY-1) seen only via this capture for this year.",
+  "2023-2024": "Only capture 2024-05-28 (+2024-06-03 index.php identical); content 2023-24.",
+  "2024-2025": "Only capture 2024-07-22, already advanced to 2024-25; no capture again until Oct 2025.",
+  "2026-2027": "Live page 2026-09-27, advanced vs 2025-26 (Debs graduated, Snyder new PGY-1)."
+ },
+ "alumni_page": "https://www.augusta.edu/mcg/neurosurgery/residents/alumni.php",
+ "departures": [
+  {
+   "name": "Sarah Kavianpour",
+   "last_ay": "2018-2019",
+   "last_pgy": 1,
+   "outcome": "left, destination unknown",
+   "note": "Only seen Feb 2019 as PGY-1; absent Oct 2019; not on alumni list; not on any other program roster in the study. NPPES only Neurological Surgery 2018 (uninformative). A 2021 JHU biochemistry/neuroscience paper by a Sarah Kavianpour (PMID 33705388) is unconfirmed. training_history th 3249."
+  },
+  {
+   "name": "Manuel Revuelta",
+   "last_ay": "2022-2023",
+   "last_pgy": 1,
+   "outcome": "transferred to Emory (program 20) PGY-2 2023-24",
+   "note": "= J. Manuel Revuelta-Barbero (MCG email jrevueltabarbero@augusta.edu). The NPI 'switched specialty' call was wrong. training_history th 3248 (Emory side th 2942)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Lydia Kaoutzani",
+   "first_ay": "2019-2020",
+   "first_pgy": 2,
+   "from": "surgical prelim at Beth Israel, Boston (per roster)",
+   "th_id": 3250
+  },
+  {
+   "name": "Christopher Carr",
+   "first_ay": "2022-2023",
+   "first_pgy": 2,
+   "from": "Tulane/Ochsner non-categorical neurosurgery-track trainee (program 66 phase 2)",
+   "th_id": 3251
+  },
+  {
+   "name": "David Baker",
+   "first_ay": "2023-2024",
+   "first_pgy": 2,
+   "from": "unconfirmed (May-2024 roster lists 'Vanderbilt University', year 2022)",
+   "th_id": 3252
+  }
+ ],
+ "residents_2011plus": 18,
+ "adjudication_summary": {
+  "COMPLETED": 15,
+  "IN TRAINING": 8,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> did not complete": 1,
+  "LEFT -> outcome unknown": 1,
+  "note": "Transferred = Revuelta (to Emory). Did not complete = Kavianpour (destination unknown). Outcome unknown = Ahmed Shakir (2005 entrant, pre-window, alumni-list graduate 2011)."
+ },
+ "problems": "None technical. No Common Crawl crawl exists for AY 2011-12 beyond CC-MAIN-2012 (phase 1: no roster record). The PMC full text of the Cormican case report (PMC3392641) is not open access.",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No 2011-12 roster exists (only the stale 2010-11 page). The 2011 PGY-1 is unknown and 2012-13 lists no PGY-2. Named lead: Michael T. Cormican (MCG MD 2011; NPI enumerated 2011-06-08 GA; first author of a Jul-2012 BMJ Case Rep with affiliation 'Neurosurgery Department, MCG at GHSU' and co-authors Viers (resident) and Alleyne (chair); later Emory general-surgery PGY-1 2013-14) may have been a 2011 intern who left. Not confirmed, so not added."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Complete roster (Dec 2012). The missing PGY-2 is the 2011-entry question above, not a separate gap."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster observed; classes continuous with neighbours."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster observed; classes continuous with neighbours."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster observed; classes continuous with neighbours."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster observed; classes continuous with neighbours."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster observed; classes continuous with neighbours."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster observed; classes continuous with neighbours."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster observed; classes continuous with neighbours."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster observed; classes continuous with neighbours."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Single capture, but every class is continuous with the neighbouring years. Joiners and leavers are explained (Carr in 2022, Revuelta out and Baker in 2023)."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Single capture, but every class is continuous with the neighbouring years. Joiners and leavers are explained (Carr in 2022, Revuelta out and Baker in 2023)."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Single capture, but every class is continuous with the neighbouring years. Joiners and leavers are explained (Carr in 2022, Revuelta out and Baker in 2023)."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Single capture, but every class is continuous with the neighbouring years. Joiners and leavers are explained (Carr in 2022, Revuelta out and Baker in 2023)."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster observed; classes continuous with neighbours."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster observed; classes continuous with neighbours."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 6,
+  "2006": 6
+ },
+ "phase2": {
+  "searched": [
+   "raw p42 folder re-check (no unparsed CC/Wayback rosters; cc/hits.json empty)",
+   "gapaudit 2011-05..2012-12: mcg.edu/som/neurosurgery, georgiahealth.edu/medicine/neurosurgery, GME, news.georgiahealth.edu, mcg.edu/news",
+   "gapaudit whole www.georgiahealth.edu 2011-07..2012-12",
+   "MCG/GHSU general surgery residents pages 2011-2014 (all digests), no neurosurgery interns listed",
+   "2011 GME programs booklet (1/year, 7 yrs)",
+   "GHSU IRIS match-by-program table (2011: 2 neurosurgery matches)",
+   "PubMed affiliation scan 2011-14",
+   "Emory surgery residents pages 2012-14 (Cormican lead)",
+   "PubMed/NPPES on Kavianpour, Cormican"
+  ],
+  "found": [
+   "Revuelta transfer to Emory confirmed and recorded",
+   "Kaoutzani/Carr/Baker transfer-in rows recorded",
+   "Lead: Michael T. Cormican as a possible unseen 2011 intern (unconfirmed)"
+  ],
+  "remaining": [
+   "2011-12: 2011 intern unknown (Cormican lead unconfirmed)",
+   "Kavianpour destination unknown"
+  ]
+ }
+}

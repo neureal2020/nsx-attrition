@@ -1,0 +1,1033 @@
+{
+ "82:meg:still": {
+  "key": "82:meg:still",
+  "name": "Megan Still",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened) lists UF Residency, Neurological Surgery 2019-2026 and UT Southwestern MD 2019; UF program page lists her as neurosurgery resident (PGY-7 in 2025-26); no longer on 2026-27 current-resident list",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency 2019-2026 at UF; absent from 2026-27 current residents page (graduated 2026). No ABNS listed (too recent).",
+  "current": "Recent UF neurosurgery graduate (Gainesville per Doximity)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/megan-still-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026; University of Texas Southwestern Medical School Class of 2019"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "2026-27 current residents list (PGY1-7) does not include Still"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:san:yan": {
+  "key": "82:san:yan",
+  "name": "Sandra Yan",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened) Neurosurgery Gainesville FL, Brown MD 2019; UF program resident page lists Sandra Yan MD as PGY-7; publications with UF neurosurgery coauthors",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "UF resident page listed her PGY-7 (2025-26); no longer on 2026-27 current list; Doximity specialty Neurosurgery, NC/SC licenses 2026-27 (likely fellowship/job). Doximity lists no residency dates.",
+  "current": "Neurosurgery (graduate of UF; new NC/SC licenses 2026-27)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sandra-yan-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Gainesville FL; Warren Alpert Medical School of Brown University Class of 2019"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/sandra-yan-md/",
+    "type": "search_snippet",
+    "evidence": "Sandra Yan, MD ... Program Year 7 resident"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:arn:obungu": {
+  "key": "82:arn:obungu",
+  "name": "Arnold Obungu",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): Indiana University School of Medicine Class of 2020 + UF Residency Neurological Surgery; UF resident page bio",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UF 2026-27 current residents as PGY-7 (expected graduation 2027).",
+  "current": "PGY-7 neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/arnold-obungu-md",
+    "type": "doximity",
+    "evidence": "Indiana University School of Medicine Class of 2020; University of Florida Residency, Neurological Surgery"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY 7: Rachel Moor, Derek Smart, Arnold Obungu"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:der:smart": {
+  "key": "82:der:smart",
+  "name": "Derek Smart",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): UF Residency Neurological Surgery 2020-2027, USUHS MD 2020; UF bio: West Point 2016, USU MD April 2020",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 on UF 2026-27 current list; scheduled to complete 2027.",
+  "current": "PGY-7 neurosurgery resident, UF (Army)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/derek-smart-md",
+    "type": "doximity",
+    "evidence": "University of Florida Residency, Neurological Surgery, 2020 - 2027"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/derek-smart-md",
+    "type": "search_snippet",
+    "evidence": "scheduled to complete his training in 2027"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:rac:moor": {
+  "key": "82:rac:moor",
+  "name": "Rachel Moor",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): Rachel Freedman Moor MD, UF College of Medicine Class of 2020, Gainesville; UF bio: UF MD 2020, neurosurgery resident",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 on UF 2026-27 current list. Doximity shows no residency entry.",
+  "current": "PGY-7 neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rachel-moor-md",
+    "type": "doximity",
+    "evidence": "University of Florida College of Medicine Class of 2020; Resident Physician, Gainesville FL"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY 7: Rachel Moor, MD"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:ama:stanton": {
+  "key": "82:ama:stanton",
+  "name": "Amanda Stanton",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): UF Residency Neurological Surgery 2021-2028, VCU MD 2021; UF bio matches (VCU, UVA). Name not ambiguous in this specialty context",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 on UF 2026-27 list; expected completion 2028.",
+  "current": "PGY-6 neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/amanda-stanton-md",
+    "type": "doximity",
+    "evidence": "University of Florida Residency, Neurological Surgery, 2021 - 2028; Virginia Commonwealth University School of Medicine Class of 2021"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:dav:mampre": {
+  "key": "82:dav:mampre",
+  "name": "David Mampre",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "UF bio: Johns Hopkins MD, began UF neurosurgery training 2021, complete 2028; Doximity profile (opened) is Johns Hopkins Class of 2021 (Baltimore, stale, no residency entry)",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 on UF 2026-27 list.",
+  "current": "PGY-6 neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/david-mampre/",
+    "type": "search_snippet",
+    "evidence": "began his neurosurgical training at the University of Florida in 2021 ... complete the program in 2028"
+   },
+   {
+    "url": "https://www.doximity.com/pub/david-mampre-md",
+    "type": "doximity",
+    "evidence": "Johns Hopkins University School of Medicine Class of 2021; Resident Physician, Baltimore MD (no residency listed)"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:mic:sun": {
+  "key": "82:mic:sun",
+  "name": "Michael Sun",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "probable",
+  "identity_basis": "UF current residents page lists Michael Sun, MD as PGY-5 (2026-27); search snippets call him a Program Year 4 UF neurosurgery resident (2025-26); no independent bio/Doximity found (common name; Doximity search returned only other Michael Suns)",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "On UF 2026-27 current residents list (PGY-5). No independent profile located.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY 5: Danyas Sarathy, Zachary Sorrentino, MD, PhD, Michael Sun"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  }
+ },
+ "82:zac:sorrentino": {
+  "key": "82:zac:sorrentino",
+  "name": "Zachary Sorrentino",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): UF Residency Neurological Surgery 2022-2029, UF MD 2022 (MD/PhD); UF bio matches",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5 on UF 2026-27 list.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/zachary-sorrentino-md",
+    "type": "doximity",
+    "evidence": "University of Florida Residency, Neurological Surgery, 2022 - 2029"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:dan:sarathy": {
+  "key": "82:dan:sarathy",
+  "name": "Danyas Sarathy",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): UF Residency Neurological Surgery 2022-2029, UVA MD 2022",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5 on UF 2026-27 list.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/danyas-sarathy-md",
+    "type": "doximity",
+    "evidence": "University of Florida Residency, Neurological Surgery, 2022 - 2029; University of Virginia School of Medicine Class of 2022"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:der:lewis": {
+  "key": "82:der:lewis",
+  "name": "Derrick Lewis",
+  "program_id": 82,
+  "year_left": 2025,
+  "destination_program": "University of Washington",
+  "destination_start_year": 2025,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "probable",
+  "identity_basis": "UW neurosurgery bio (Derrick Lewis, MS, MD; Mayo Clinic Alix School of Medicine) lists Resident PGY-4; search snippet: UF neurosurgery resident since June 2023, previously Mayo research fellow; input notes cite UW newsletter that he transferred as PGY-3 from UF. Same Mayo-trained name in both",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2025
+   },
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "UF PGY-1/2 (2023-25), transferred to University of Washington neurosurgery as PGY-3 in July 2025; UW bio lists him as PGY-4 in 2026-27 (consistent).",
+  "current": "Neurosurgery resident PGY-4, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/derrick-lewis-ms-md",
+    "type": "bio",
+    "evidence": "Resident, PGY-4; Medical School - Mayo Clinic Alix School of Medicine"
+   },
+   {
+    "url": "https://www.linkedin.com/in/derrick-lewis-b33295b7/",
+    "type": "search_snippet",
+    "evidence": "Derrick Lewis - Neurosurgery Resident at University of ... (UF since June 2023, Mayo research fellow 2020-2023)"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  }
+ },
+ "82:mea:mcgovern": {
+  "key": "82:mea:mcgovern",
+  "name": "Meaghan McGovern",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "UF bio: Army/West Point, USU MD, began UF neurosurgery training 2023, scheduled to complete 2030; on UF 2026-27 list PGY-4. Doximity search returned only other names",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-4 on UF 2026-27 list; expected completion 2030.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/meaghan-mcgovern-md",
+    "type": "search_snippet",
+    "evidence": "began her neurosurgical training at the University of Florida in 2023 and is scheduled to complete her training in 2030"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  }
+ },
+ "82:ser:negoita": {
+  "key": "82:ser:negoita",
+  "name": "Serban Negoita",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "UF resident page bio: JHU undergrad, U Maryland MD (2022/2023), UF PGY-3 in 2025-26, PGY-4 in 2026-27 list. Doximity page (opened) is Univ. of Maryland Class of 2022, Baltimore, no residency entry",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-4 on UF 2026-27 list.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/serban-negoita-md",
+    "type": "search_snippet",
+    "evidence": "Program Year 3 resident ... graduated from the University of Maryland School of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/serban-negoita-md",
+    "type": "doximity",
+    "evidence": "University of Maryland School of Medicine Class of 2022; Resident Physician, Baltimore MD (no residency listed)"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:abe:dagra": {
+  "key": "82:abe:dagra",
+  "name": "Abeer Dagra",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened) UF College of Medicine Class of 2024, Gainesville, pubs with UF neurosurgery coauthors; UF resident page bio: UF MD 2024, neurosurgery PGY2 in 2025-26",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 on UF 2026-27 list. Doximity lists specialty 'Other MD/DO' with no residency entry.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/abeer-dagra-md",
+    "type": "doximity",
+    "evidence": "University of Florida College of Medicine Class of 2024; Other MD/DO, Gainesville FL"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/abeer-dagra-md",
+    "type": "search_snippet",
+    "evidence": "Program Year 2 resident at the Lillian S. Wells Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:bri:liebenow": {
+  "key": "82:bri:liebenow",
+  "name": "Brittany Liebenow",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "UF resident page (MD, PhD, PGY-2 in 2025-26; PGY-3 in 2026-27 list); Wake Forest MD/PhD. No Doximity profile found",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 on UF 2026-27 list.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/brittany-liebenow-md/",
+    "type": "search_snippet",
+    "evidence": "Program Year 2 resident in the Lillian S. Wells Department of Neurosurgery ... holds both an MD and PhD"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  }
+ },
+ "82:lan:culjat": {
+  "key": "82:lan:culjat",
+  "name": "Lance Culjat",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "UF resident page bio: Navy, USU MD (valedictorian), UF neurosurgery expected completion 2031; PGY-3 on 2026-27 list. Doximity search returned no profile for him",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 on UF 2026-27 list; expected completion 2031.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/lance-culjat-md",
+    "type": "search_snippet",
+    "evidence": "undertaking his Neurosurgery residency at the University of Florida, with an expected completion date in 2031"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  }
+ },
+ "82:ale:eremiev": {
+  "key": "82:ale:eremiev",
+  "name": "Alex Eremiev",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Match announcement by UF chair (Brian Hoh, X post): 'Welcome Alex Eremiev (NYU)...matched with us at UF Neurosurgery'; UF page lists PGY-2. Doximity (opened) is stale: NYU Class of 2025, New York, no residency",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 on UF 2026-27 list. Doximity page has not been updated with residency.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://x.com/BrianHoh1/status/1903171477714681960",
+    "type": "search_snippet",
+    "evidence": "Welcome Alex Eremiev (NYU), Patrick DeSouza (Wash U), and Andrew MacNeil (UF) who matched with us at UF Neurosurgery"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alexander-eremiev-md",
+    "type": "doximity",
+    "evidence": "New York University School of Medicine Class of 2025 (no residency listed)"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:and:macneil": {
+  "key": "82:and:macneil",
+  "name": "Andrew MacNeil",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): UF Residency Neurological Surgery 2025-2032, UF MD 2025; UF bio matches",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 on UF 2026-27 list.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/andrew-macneil-md",
+    "type": "doximity",
+    "evidence": "University of Florida Residency, Neurological Surgery, 2025 - 2032"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:pat:desouza": {
+  "key": "82:pat:desouza",
+  "name": "Patrick DeSouza",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "UF resident page (MD, PhD; WashU MD/PhD 2025); UF chair match announcement lists 'Patrick DeSouza (Wash U)'; listed PGY-2 on 2026-27 page. No Doximity profile found",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 on UF 2026-27 current residents list.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://x.com/BrianHoh1/status/1903171477714681960",
+    "type": "search_snippet",
+    "evidence": "Welcome Alex Eremiev (NYU), Patrick DeSouza (Wash U), and Andrew MacNeil (UF) who matched with us at UF Neurosurgery"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY 2: Patrick DeSouza, MD, PhD"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  }
+ },
+ "82:cie:robles": {
+  "key": "82:cie:robles",
+  "name": "Cielo Robles",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "probable",
+  "identity_basis": "Only the UF 2026-27 current residents page lists Cielo Robles, MD as PGY-1; no independent bio found (searches returned unrelated people)",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 on UF 2026-27 list. No independent profile located (new intern).",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY 1: Cielo Robles, MD, Kent Marshall, MD, PhD, Habib Rafka, MD"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  }
+ },
+ "82:hab:rafka": {
+  "key": "82:hab:rafka",
+  "name": "Habib Rafka",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): UF Residency Neurological Surgery 2026-2033, MUSC MD 2026; Barrow/MUSC pages: Habib Emil Rafka matched neurosurgery at UF",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 on UF 2026-27 list.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/habib-rafka-md",
+    "type": "doximity",
+    "evidence": "University of Florida Residency, Neurological Surgery, 2026 - 2033; Medical University of South Carolina Class of 2026"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "82:ken:marshall": {
+  "key": "82:ken:marshall",
+  "name": "Kent Marshall",
+  "program_id": 82,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "usnews_note": null,
+  "identity": "probable",
+  "identity_basis": "Search: LinkedIn/X (Kent Marshall, MD/PhD, West Virginia University School of Medicine) reported matching UF neurosurgery; UF page lists Kent Marshall, MD, PhD as PGY-1. Doximity 'Kent Marshall' found is an Orem UT internist (namesake, rejected)",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 on UF 2026-27 list.",
+  "current": "neurosurgery resident, UF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/kent-marshall-80103216a/",
+    "type": "search_snippet",
+    "evidence": "Kent Marshall matched in Neurosurgery at the University of Florida; MD/PhD candidate at West Virginia University School of Medicine"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY 1: Kent Marshall, MD, PhD"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  }
+ },
+ "83:gre:arnone": {
+  "key": "83:gre:arnone",
+  "name": "Gregory Arnone",
+  "program_id": 83,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): UIC Residency Neurological Surgery 2011-2018, Drexel MD 2010; Penn State Health bio: UIC neurosurgery residency 2018",
+  "residency_stated": [
+   {
+    "institution": "University of Illinois College of Medicine at Chicago",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UIC neurosurgery 2011-2018; ABNS listed on Doximity; practising neurosurgeon.",
+  "current": "Neurosurgeon, Penn State Health, Camp Hill PA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/gregory-arnone-md",
+    "type": "doximity",
+    "evidence": "University of Illinois College of Medicine at Chicago Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.pennstatehealth.org/doctors/gregory-d-arnone-md",
+    "type": "bio",
+    "evidence": "neurosurgery residency at the University of Illinois at Chicago in 2018"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "83:saj:khan": {
+  "key": "83:saj:khan",
+  "name": "Sajeel Khan",
+  "program_id": 83,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): UIC Residency Neurological Surgery 2011-2018 (prior Family Medicine residency at Humboldt Park Health; KEMU MD 2003); Marshall Health bio",
+  "residency_stated": [
+   {
+    "institution": "University of Illinois College of Medicine at Chicago",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UIC neurosurgery 2011-2018 (earlier family medicine residency elsewhere, pre-dating); ABNS listed; practising neurosurgeon.",
+  "current": "Neurosurgeon, Marshall Health, Huntington WV",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sajeel-khan-md",
+    "type": "doximity",
+    "evidence": "University of Illinois College of Medicine at Chicago Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.marshallhealth.org/find-a-provider/provider-details/?ID=568",
+    "type": "search_snippet",
+    "evidence": "Sajeel R. Khan, MD, neurosurgeon Huntington WV"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ },
+ "83:ash:barks": {
+  "key": "83:ash:barks",
+  "name": "Ashley Barks",
+  "program_id": 83,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "usnews_note": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (opened): UIC Residency Neurological Surgery 2012-2019, Albany Medical College 2012; practice bios",
+  "residency_stated": [
+   {
+    "institution": "University of Illinois College of Medicine at Chicago",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UIC neurosurgery 2012-2019; ABNS listed; practising neurosurgeon.",
+  "current": "Neurosurgeon, Abay Neuroscience Center, Wichita KS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ashley-barks-md",
+    "type": "doximity",
+    "evidence": "University of Illinois College of Medicine at Chicago Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.abayneurosciencecenter.com/physicians/ashley-l-barks-md/",
+    "type": "bio",
+    "evidence": "Ashley L. Barks, MD - Abay Neuroscience Center"
+   }
+  ],
+  "searches_used": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  }
+ }
+}

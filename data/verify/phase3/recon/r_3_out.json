@@ -1,0 +1,130 @@
+[
+ {
+  "key": "40:arc:bhandarkar",
+  "name": "Archis Bhandarkar",
+  "answer_outcome": "in_training",
+  "event_year": "",
+  "completed_ns_by_june_2025": false,
+  "evidence_level": "program_only",
+  "evidence": "Seen on Mayo Rochester NS rosters 2023-24 through 2025-26, so in training at the 30 Jun 2025 cutoff. Not a Hopkins transfer: the current Johns Hopkins neurosurgery 'Meet Our Neurosurgery Residents' page (PGY1-7, opened 2026-09-29) does not list Bhandarkar. 2026 publications still list Mayo Clinic Neuro-Informatics Lab / Dept of Neurologic Surgery, consistent with a Mayo research period; the Hopkins NPI address/'adjunct' affiliation is unexplained.",
+  "sources": [
+   "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents"
+  ],
+  "queries_tried": [
+   "\"Archis Bhandarkar\" Johns Hopkins",
+   "\"Bhandarkar\" Johns Hopkins neurosurgery resident 2026",
+   "\"Archis R. Bhandarkar\" 2026 neurosurgery"
+  ],
+  "notes": "Status at cutoff is not attrition (still in training in Mayo NS). Post-cutoff status (2026-27) is unclear: most likely a research year at Mayo; no transfer to Hopkins NS residency shown. A search summary claimed he is an 'Assistant Professor of Neurosurgery (Adjunct)' at Hopkins; this is unverified and may be a mix-up with Shaan Bhandarkar (Hopkins student)."
+ },
+ {
+  "key": "82:mis:chakraborty",
+  "name": "Mishti Chakraborty",
+  "answer_outcome": "left_destination_unknown",
+  "event_year": "2017-2018",
+  "completed_ns_by_june_2025": false,
+  "evidence_level": "program_only",
+  "evidence": "UF neurosurgery residency alumni page lists 2018 graduates as 'Cory Hartman, Jerzy Rokicki' (2017: Weaver, Oliveria; 2019: Hilliard, Sindelar); no Chakraborty in any year. Legal name is Anindita Chakraborty (UF COM 2011): NPI 1073807194 = Neurological Surgery, 1600 SW Archer Rd Gainesville, last updated 2014; Doximity 'Residency, Neurological Surgery, 2011 - 2018', FL license 2013-2019.",
+  "sources": [
+   "https://neurosurgery.ufl.edu/residency/alumni/",
+   "https://www.doximity.com/pub/anindita-chakraborty-md",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Anindita&last_name=Chakraborty"
+  ],
+  "queries_tried": [
+   "\"Mishti Chakraborty\" neurosurgery",
+   "\"Chakraborty\" University of Florida neurosurgery residency graduate 2018",
+   "\"Mishti Chakraborty\" MD",
+   "\"Mishti Chakraborty\" psychiatry OR psychiatrist OR physician Florida",
+   "\"M. Chakraborty\" OR \"Mishti Chakraborty\" University of Florida neurosurgery Gainesville",
+   "\"Anindita Chakraborty\" MD",
+   "\"Anindita Chakraborty\" University of Florida -psychiatry 2019..2024"
+  ],
+  "notes": "Did NOT complete UF NS: absent from UF alumni list for 2018 (and all years). Psychiatry switch is a namesake merge: the ABPN psychiatry/child psychiatry certs on the merged Doximity profile belong to a separate Anindita Chakraborty, NPI 1487095857 (Child & Adolescent Psychiatry, Westland MI; Kasturba Medical College Manipal 2010; licenses MI/WA/PA/OH). Recommend changing outcome from switched_specialty to left_destination_unknown (attrition). No later career trace found for the UF-MD person; her NS NPI record has not been updated since 2014 and FL license ended 2019."
+ },
+ {
+  "key": "51:can:carpenter",
+  "name": "Candice Carpenter",
+  "answer_outcome": "left_medicine",
+  "event_year": "2019",
+  "completed_ns_by_june_2025": false,
+  "evidence_level": "program_only",
+  "evidence": "Last on OSU NS roster 2018-19; absent from current OSU roster and from OSU 2025/2026 graduate lists (prior checks). By 2023-24 she was a full-time UCLA Biodesign 'Discovery Fellow' (UCLA page: 'Candice Carpenter, MD, MBA, MPH ... 2023-24 Discovery Fellow'), and since 2021 is Co-Founder/Co-CEO of the Boston Congress of Public Health; current BCPH bio lists degrees only, with no residency, leave or clinical post.",
+  "sources": [
+   "https://biodesign.ucla.edu/people/candice-carpenter-md-mba-mph",
+   "https://bcph.org/bcph-co-ceo-dr-candice-d-carpenter/"
+  ],
+  "queries_tried": [
+   "\"Candice Carpenter\" neurosurgery residency Ohio State",
+   "\"Candice Carpenter\" Boston Congress of Public Health neurosurgery",
+   "\"Candice Carpenter\" MD MBA MPH physician"
+  ],
+  "notes": "No source documents a formal leave with planned return. The 'neurosurgeon-in-training' phrase (bcphr.org editor bio) comes from the 2020-21 period when she described the MBA/MPH as elective years. From 2021 on she has been in full-time non-clinical work (BCPH CEO, 2023-24 UCLA Biodesign fellowship, business lecturer). As of 30 Jun 2025 she was neither enrolled in nor graduated from OSU NS, so this is attrition. left_medicine = non-clinical career; the exact date of formal separation is unknown (off roster after 2018-19). Oxford EnSpire article is access-denied (not used)."
+ },
+ {
+  "key": "48:ann:filley",
+  "name": "Anna Filley",
+  "answer_outcome": "left_destination_unknown",
+  "event_year": "2022",
+  "completed_ns_by_june_2025": false,
+  "evidence_level": "program_only",
+  "evidence": "Not on Columbia NS current roster nor the 2022-2026 graduates list (2025 class = Z. Englander only), per prior verified checks. Since 2023 her publications and a 2025 AAOS presentation ('Depression Among Lumbar Spine Surgery Patients', with Berven) list UCSF Orthopaedic Surgery spine research, which does not fit Columbia NS residency. Not among UCSF Orthopaedic Surgery 2025 incoming residents (8 named; no Filley).",
+  "sources": [
+   "https://orthosurgery.ucsf.edu/about/news-media/congratulations-our-2025-ucsf-orthopedic-surgery-incoming-residents",
+   "https://www.neurosurgery.columbia.edu/research/gabriele-bartoli-brain-tumor-lab/lab-members/past-members",
+   "https://nprlab.org/anna-filley/"
+  ],
+  "queries_tried": [
+   "\"Anna Filley\" MD",
+   "\"Anna Filley\" orthopaedic OR resident OR fellow UCSF",
+   "\"Filley\" UCSF orthopaedic surgery spine research fellow Berven",
+   "\"Anna Filley\" 2026",
+   "\"Anna Filley\" Einstein OR Montefiore"
+  ],
+  "notes": "Did not complete Columbia NS by June 2025: not on the graduate list, and the Doximity '2018-2025' label is self-reported and uncertified. After leaving (~2022, last on roster 2021-22) she did orthopaedic spine research at UCSF (non-residency). No current residency roster or clinical bio found. A search summary linked her to a 2026 Einstein/Montefiore AI workshop series, but this is unverified (no page opened). Identity: Indiana Univ SOM MD; Purdue BME 2014."
+ },
+ {
+  "key": "85:wil:haselden",
+  "name": "William Haselden",
+  "answer_outcome": "left_destination_unknown",
+  "event_year": "2025",
+  "completed_ns_by_june_2025": false,
+  "evidence_level": "program_only",
+  "evidence": "Identity: William 'Davis' Haselden Jr., MD PhD (Penn State MSTP 2023; PhD Neuroscience 2020, Drew lab; BS BME Alabama 2014) matched Iowa NS in 2023 (Penn State MD/PhD 2023 match news). Current Iowa NS 'Our Residents' page (opened 2026-09-29) PGY-1 to PGY-7 plus pre-clinical fellows: no Haselden; his 2023 class slot (PGY-4) lists only Mani Ratnesh Sandhu. Current Iowa Neurology residents page (classes 2027-2030): no Haselden. NPI 1609560895 = Neurological Surgery, Iowa City, last updated 2023-06-08 (stale).",
+  "sources": [
+   "https://neurosurgery.medicine.uiowa.edu/education/neurological-surgery-residency/our-people/residents",
+   "https://neurology.medicine.uiowa.edu/education/neurology-residency/current-residents",
+   "https://pennstatehealthnews.org/topics/md-phd-match-day-2023/",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=William&last_name=Haselden"
+  ],
+  "queries_tried": [
+   "\"William Haselden\" MD",
+   "\"Haselden\" resident neurology OR radiology OR anesthesiology 2025",
+   "\"William Haselden\" OR \"Will Haselden\" resident Penn State MD PhD neurology",
+   "\"Haselden\" Iowa neurology residents 2025 2026",
+   "\"Davis Haselden\"",
+   "\"Haselden\" 2026 match OR PGY resident radiology/neurology/anesthesiology/psychiatry/pathology",
+   "\"Haselden WD\" OR \"W. Davis Haselden\" OR \"William D. Haselden\" 2025 OR 2026"
+  ],
+  "notes": "The neurology switch is unsupported: he is not on the Iowa neurology roster and no other roster or match list was found. He was last on the Iowa NS roster in 2024-25 (PGY-2), so he may still have been enrolled on 30 Jun 2025 and the departure may fall just after the cutoff. Iowa's current roster has no research-year listing for him. Destination unknown; the 'Davis' middle-name variant also returned nothing."
+ },
+ {
+  "key": "82:pat:miller",
+  "name": "Patricia Miller",
+  "answer_outcome": "left_other",
+  "event_year": "2024",
+  "completed_ns_by_june_2025": false,
+  "evidence_level": "gold",
+  "evidence": "Current Dermatology Solutions Group bio: 'Dr. Patricia Miller: 2024-2025 Clinical Research Fellow' ... 'strong attraction to dermatology was awakened during her neurosurgical residency'; My Derm Specialists bio says she 'completed her undergraduate studies, medical education, internship, and neurosurgical junior residency at the University of Florida' and 'Currently serves as a Clinical Research Fellow'.",
+  "sources": [
+   "https://dermsolutionsgroup.com/career-opportunities/clinical-research-fellowship/",
+   "https://mydermspecialists.com/about-us/our-providers/patricia-miller-md/",
+   "https://dermatology.med.ufl.edu/education/about-our-residency-program/current-residents/"
+  ],
+  "queries_tried": [
+   "\"Patricia Miller\" dermatology clinical research fellow neurosurgery residency Florida",
+   "\"Patricia Miller\" dermatology resident 2025 OR 2026 match",
+   "\"Patricia Miller\" dermatology residency PGY-2 OR incoming residents OR new residents Florida 2026"
+  ],
+  "notes": "She left UF NS after PGY-3 (2023-24) and was a non-residency dermatology clinical research fellow at Dermatology Solutions Group in 2024-25, the status at the 30 Jun 2025 cutoff. This is attrition. No dermatology residency match or roster found: she is not on the UF dermatology current residents page (PGY2-4). 'switched_specialty' is not yet supported, since she is only a pre-residency research fellow. left_other = non-residency research fellow pursuing dermatology; revise if a derm match surfaces. The UF honors in her bio (Rhoton award, James E. Boggan Award) confirm identity."
+ }
+]

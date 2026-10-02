@@ -1,0 +1,258 @@
+[
+ {
+  "key": "53:sam:alsalek",
+  "name": "Samir Alsalek",
+  "outcome": "transferred",
+  "destination": "Riverside University Health System (Moreno Valley/Riverside, CA) Neurological Surgery residency",
+  "year_started_destination": 2026,
+  "evidence": "Arrowhead Neurosurgical Medical Group's neurosurgery-residents page (the private group staffing RUHS neurosurgery) lists 'Samir Alsalek, MD - Riverside University Health Sciences Center - First Year Resident - KP Bernard J. Tyson School of Medicine' next to the RUHS PGY-1 class (Ku, Ghauri, Hall, Marsan). The page has no date. It must be from 2026-27, though: he was a PSU PGY-1 through 2025-26, with a PSU affiliation on a paper received 2026-06-02. So he moved back to Southern California (his KPSOM home) and restarted as a first-year resident in July 2026. The RUHS program's own page (ruhealth.org) has no resident list to cross-check.",
+  "sources": [
+   "https://anmg-ca.com/neurosurgery-residents.html",
+   "https://www.ruhealth.org/medical-center/medical-education/neurosurgery-residency",
+   "https://med.psu.edu/departments-faculty/directory/samir-alsalek"
+  ],
+  "rosters_checked": [
+   "https://anmg-ca.com/neurosurgery-residents.html (RUHS neurosurgery residents)",
+   "https://www.ruhealth.org/medical-center/medical-education/neurosurgery-residency (no roster)"
+  ],
+  "queries_tried": [
+   "site:med.psu.edu \"Alsalek\"",
+   "\"Alsalek\" residents PGY-1 OR PGY-2 2026-2027",
+   "site:pennstatehealth.org OR site:psu.edu \"Samir Alsalek\"",
+   "\"Alsalek\" site:kp.org OR kaiserpermanente.org OR kpsom.org",
+   "neurosurgery \"current residents\" \"Samir Alsalek\"",
+   "Riverside University Health System neurosurgery residency residents Alsalek",
+   "\"Andrew Ku\" OR \"Muhammad Ghauri\" OR \"Daniel Marsan\" neurosurgery Riverside 2026 match"
+  ]
+ },
+ {
+  "key": "56:jos:morrison",
+  "name": "Joseph Morrison",
+  "outcome": "switched_specialty",
+  "destination": "University of Colorado Anschutz (Aurora, CO) Radiation Oncology residency",
+  "year_started_destination": 2024,
+  "evidence": "The CU Anschutz Radiation Oncology 'Meet the Residents' page lists Joseph Morrison, MD as PGY3, with UIC College of Medicine and prior training in the 'Neurological Surgery residency at Rush University Medical Center'. The page shows the 2025-26 class: its PGY5, Ian Boor, trained in CU radiation oncology 2022-2026 (Doximity/LinkedIn). A PGY3 in 2025-26 means he started radiation oncology (PGY2) in July 2024, right after his last Rush year (2023-24). This matches the Doximity lead (Aurora CO, 1665 Aurora Ct = UCHealth Radiation Oncology Anschutz Cancer Pavilion). He left neurosurgery without completing it.",
+  "sources": [
+   "https://medschool.cuanschutz.edu/radiation-oncology/education/radiation-oncology-residency-program/meet-the-residents",
+   "https://www.doximity.com/pub/ian-boor-md"
+  ],
+  "rosters_checked": [
+   "https://medschool.cuanschutz.edu/radiation-oncology/education/radiation-oncology-residency-program/meet-the-residents"
+  ],
+  "queries_tried": [
+   "site:cuanschutz.edu \"Joseph Morrison\" OR \"Joe Morrison\" resident",
+   "\"Ian Boor\" radiation oncology resident Colorado (dating the roster)"
+  ]
+ },
+ {
+  "key": "63:jef:zhang",
+  "name": "Jeff Zhang",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": null,
+  "evidence": "Still unresolved. Strongest lead: the search index describes his UC College of Medicine profile (zhang6jf) as 'Research Fellow in Neurosurgery, University of Cincinnati College of Medicine'. But the profile opened by WebFetch, in Chrome, and on researchdirectory.uc.edu shows only his name (Jeff Fang Zhang) and email, with no title. Together with his 2025-26 UC Neurosurgery paper affiliations, this points to a non-residency UC neurosurgery research-fellow post starting around mid-2025. No opened page states the title, so it is not recorded as a destination. UC's Goodyear lab fellow list (up to 2022) and its research-fellowship/opportunities pages do not name him. Not on the UC radiation oncology fellows/residents list or the Roswell Park radiation oncology current residents list. No Upstate page names him.",
+  "sources": [
+   "https://www.med.uc.edu/departments/neurosurgery/directory/faculty-profile/Index/Pubs/zhang6jf",
+   "https://researchdirectory.uc.edu/p/zhang6jf",
+   "https://med.uc.edu/depart/radiation-oncology/directory/fellows-and-residents",
+   "https://www.roswellpark.org/education/residency-programs/radiation-oncology/current-residents-alumni"
+  ],
+  "rosters_checked": [
+   "https://med.uc.edu/depart/radiation-oncology/directory/fellows-and-residents",
+   "https://www.roswellpark.org/education/residency-programs/radiation-oncology/current-residents-alumni",
+   "https://med.uc.edu/depart/neurosurgery/education/goodyeartraininglab (fellows through 2022)",
+   "https://med.uc.edu/depart/neurosurgery/education/goodyeartraininglab/neurosurgery-research-fellowship",
+   "https://med.uc.edu/depart/neurosurgery/research/research-opportunities"
+  ],
+  "queries_tried": [
+   "site:med.uc.edu \"Jeff Zhang\" OR \"Jeff F. Zhang\"",
+   "University of Cincinnati neurosurgery \"research fellow\" Zhang 2026",
+   "site:upstate.edu \"Jeff Zhang\"",
+   "\"Jeff Zhang\" Roswell Park OR \"University at Buffalo\" resident 2025 OR 2026",
+   "site:med.uc.edu \"Zhang\" resident radiology OR neurology OR radiation oncology OR anesthesiology OR PM&R",
+   "site:med.uc.edu neurosurgery directory \"research fellows\" OR \"fellows\""
+  ]
+ },
+ {
+  "key": "65:oma:sorour",
+  "name": "Omar Sorour",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": null,
+  "evidence": "Still unresolved. A Tufts T32 research year remains the most likely explanation, but no dated source confirms it. He is a UMass Chan MD 2023 (UMass Chan class of 2023 list; UMass neurosurgery AANS student chapter co-president). The UMass Chan neurosurgery 'Our Residents' page (PGY1-7, with research-year residents Lambert and Qureshi) does not list him. Boston-area site searches (BU/BMC, BIDMC, MGH, BWH, Lahey) find no Omar Sorour resident; the hits are Laith Sorour (BMC fellow) and Ingie Sorour (a student), both different people. Tufts research-training and 'Our People' pages name no residents.",
+  "sources": [
+   "https://www.umassmed.edu/neurosurgery/neurosurgery-residency/who-we-are/our-residents/",
+   "https://www.tuftsmedicine.org/medical-professionals-trainees/training-education/training-programs/neurosurgery-residency-program-new/neurosurgery-residency-program-training-experience/neurosurgery-residency-program-research-training-teaching-opportunities"
+  ],
+  "rosters_checked": [
+   "https://www.umassmed.edu/neurosurgery/neurosurgery-residency/who-we-are/our-residents/ (UMass neurosurgery PGY1-7)",
+   "Tufts neurosurgery research-training page and old 'our people' page (no names)",
+   "site search: BU/BMC, BIDMC, MGH, BWH, Lahey resident pages"
+  ],
+  "queries_tried": [
+   "\"Sorour\" site:umassmed.edu OR site:ummhealth.org OR site:tuftsmedicine.org",
+   "UMass Chan neurological surgery residency current residents",
+   "\"Sorour\" resident site:bumc.bu.edu OR bmc.org OR bidmc.org OR massgeneral.org OR brighamandwomens.org OR lahey.org",
+   "Tufts Medical Center neurosurgery residency research year resident 2026 T32 Sorour"
+  ]
+ },
+ {
+  "key": "67:yag:muftuoglu",
+  "name": "Yagmur Muftuoglu",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": null,
+  "evidence": "Still unresolved. New background: Stanford MD 2020 (Stanford Medicine news 2017; LinkedIn snippet) and Yale PhD. UCLA JCCC trainee poster-competition page lists her as a 2024 awardee, 'Yagmur Muftuoglu, MD PhD (Postdoctoral Scholar)', working on a pediatric high-grade glioma TKI project. That was during her UCLA residency research time and is not a post-residency destination. UCLA/uclahealth site search returns only the old residents URL. Stanford neurosurgery residents page (chiefs, seniors, PGY1-5) does not list her. Site searches of Cedars-Sinai, Keck/USC, Stanford and UCSF find no resident or fellow page. Her LinkedIn location shows 'Stanford', which is a lead only.",
+  "sources": [
+   "https://trainees.cancer.ucla.edu/opportunities/funding-opportunities/poster-competition",
+   "https://med.stanford.edu/neurosurgery/residency/residents.html",
+   "https://med.stanford.edu/news/all-news/2017/04/students-organize-to-send-letters-of-support-to-syrian-refugees.html"
+  ],
+  "rosters_checked": [
+   "https://med.stanford.edu/neurosurgery/residency/residents.html",
+   "site search uclahealth.org/ucla.edu (all specialties)",
+   "site search cedars-sinai.org, keckmedicine.org, usc.edu, stanford.edu, ucsf.edu"
+  ],
+  "queries_tried": [
+   "\"Muftuoglu\" site:uclahealth.org OR site:ucla.edu",
+   "\"Muftuoglu\" resident OR fellow site:cedars-sinai.org OR keckmedicine.org OR usc.edu OR stanford.edu OR ucsf.edu",
+   "\"Yagmur Muftuoglu\" Stanford",
+   "\"Dr. Muftuoglu\" OR \"Yagmur Muftuoglu, MD\" 2025 OR 2026 joins OR fellowship OR resident"
+  ]
+ },
+ {
+  "key": "73:kev:thomas",
+  "name": "Kevin Thomas",
+  "outcome": "switched_specialty",
+  "destination": "Thomas Jefferson University (Philadelphia) Neurology residency, Class of 2027",
+  "year_started_destination": 2024,
+  "evidence": "Jefferson (SKMC) Neurology 'Residents & Program Alumni' page lists 'Kevin Thomas, MD - University of Arkansas College of Medicine' under the current Class of 2027. The same UAMS MD, era and neuro focus make a namesake unlikely. The page shows the 2025-26 roster (classes 2026-2029 current, alumni through 2025), so he was a PGY-3 in 2025-26 and graduates in 2027. The Doximity lead placed him in 'Temple' neurology 2024-2027. The program was actually Jefferson; the dates fit a neurology (PGY-2) start in July 2024, although a Jefferson PGY-1 start in 2023 cannot be excluded. He left UAMS neurosurgery in 2022-23 without completing it.",
+  "sources": [
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/neurology/education/residency/residents.html"
+  ],
+  "rosters_checked": [
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/neurology/education/residency/residents.html",
+   "site search uams.edu residents",
+   "site search jefferson.edu, pennmedicine.org, drexel.edu, towerhealth.org, einstein.edu"
+  ],
+  "queries_tried": [
+   "site:uams.edu \"Kevin Thomas\" resident",
+   "\"Kevin Thomas\" resident site:jefferson.edu OR pennmedicine.org OR drexel.edu OR towerhealth.org OR einstein.edu"
+  ]
+ },
+ {
+  "key": "74:isi:beach",
+  "name": "Isidora Beach",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": null,
+  "evidence": "Still unresolved. Confirmed background: the UVM Larner Class of 2023 residency appointment list shows Isidora (Rose) Beach, of Franklin TN, matched to UC Irvine Neurological Surgery. She is not on the UVM 2024 appointment list, so no re-match through UVM appears there. Rosters checked with no Beach: UCI Neurology (PGY2-4), UCI Diagnostic Radiology (the page names only the 2025-26 chiefs), and Dell Med EM, Pediatrics and IM listings. Site searches found nothing on uci.edu/ucihealth.org/medschool.uci.edu, UVM, VUMC or Tennessee programs.",
+  "sources": [
+   "https://www.uvm.edu/d10-files/documents/2025-02/2023_co2023_public_match_list.pdf",
+   "https://medschool.uci.edu/research/clinical-departments/neurology/education-training/residency-program/meet-our-residents",
+   "https://radiology.uci.edu/education/residents/"
+  ],
+  "rosters_checked": [
+   "https://medschool.uci.edu/research/clinical-departments/neurology/education-training/residency-program/meet-our-residents (via search listing)",
+   "https://radiology.uci.edu/education/residents/",
+   "https://dellmed.utexas.edu/education/academics/graduate-medical-education/emergency-medicine-residency/resident-listing",
+   "https://dellmed.utexas.edu/education/academics/graduate-medical-education/pediatric-residency/resident-listing",
+   "https://dellmed.utexas.edu/education/academics/graduate-medical-education/internal-medicine-residency/resident-listing",
+   "https://www.uvm.edu/d10-files/documents/2024-05/Residency_Appt_List.pdf"
+  ],
+  "queries_tried": [
+   "site:uci.edu OR site:ucihealth.org \"Isidora\"",
+   "\"Isidora Beach\" OR \"Beach, Isidora\" MD",
+   "\"Isidora\" resident site:uvmhealth.org OR med.uvm.edu OR vumc.org OR dellmed.utexas.edu",
+   "\"Isidora Beach\" OR \"Isidora R. Beach\" Tennessee/Knoxville/Memphis/Chattanooga resident physician",
+   "UC Irvine residents \"University of Vermont\" \"Beach\" neurology/anesthesiology/radiology/PM&R/psychiatry",
+   "UC Irvine neurology residency current residents PGY-2 PGY-3 PGY-4",
+   "site:medschool.uci.edu \"Isidora\" OR \"Beach, MD\""
+  ]
+ },
+ {
+  "key": "81:eri:shen",
+  "name": "Erica Shen",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": null,
+  "evidence": "Still unresolved. New lead: a Yale Cancer Center news item dated 2026-09-18 lists an 'Erica Shen' as poster presenter at ASTRO 2026 (Sept 28), on low dose-rate TBI pulmonary toxicity. It gives no title and could be a namesake. The Yale Therapeutic Radiology 'Our Residents' page (PGY1-5) does not list her; its only Shen is James Shen, MD PhD, PGY-4 (UMass MD/PhD 2023), a different person. There is no medicine.yale.edu profile (404). UConn Radiology Online case PDFs (2021) show her as 'Erica Shen, MD PhD' during her UConn residency. Together with the earlier Verhaak Lab 'Visiting Research Fellow' listing, this suggests a Yale research affiliation, but no dated program page states a resident or fellow position.",
+  "sources": [
+   "https://medicine.yale.edu/news-article/a-variety-of-yale-cancer-center-research-highlights-to-be-presented-at-radiation-and-oncology-conference/",
+   "https://medicine.yale.edu/therapeuticradiology/education/programs/training/our-residents/",
+   "https://health.uconn.edu/radiology-online/wp-content/uploads/sites/175/2021/03/Shen_NF2_FINAL.pdf"
+  ],
+  "rosters_checked": [
+   "https://medicine.yale.edu/therapeuticradiology/education/programs/training/our-residents/ (PGY1-5)",
+   "https://medicine.yale.edu/cancer/education/residents/ (no names)",
+   "site search yale.edu, ynhh.org, health.uconn.edu, hartfordhealthcare.org"
+  ],
+  "queries_tried": [
+   "\"Erica Shen\" site:yale.edu OR ynhh.org OR health.uconn.edu OR hartfordhealthcare.org",
+   "Yale therapeutic radiology radiation oncology residency current residents Shen",
+   "site:medicine.yale.edu \"Erica Shen\" profile"
+  ]
+ },
+ {
+  "key": "86:kev:chatley",
+  "name": "Kevin Chatley",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": null,
+  "evidence": "Still unresolved: neither completion nor a destination is established. A Kansas City metro site search (kumc.edu, kansashealthsystem.com, umkc.edu, saintlukeskc.org, hcamidwest.com) returns only a stale KU mirror page (prevmed.kumc.edu) listing him as KU neurosurgery PGY-5, i.e. 2021-22 content. It also returns a KUMC directory link ('Neurosurgery Housestaff') that now redirects to a dead directory. A name search returns only directory listings (Healthgrades, WebMD, Vitals, NPI) echoing the KUMC address. No current roster, fellowship, faculty or practice page in the KC metro or elsewhere names him. Non-training details in search results were deliberately not recorded.",
+  "sources": [
+   "https://prevmed.kumc.edu/school-of-medicine/neurosurgery/residency-program/current-residents.html",
+   "https://www.kumc.edu/Directory/Home/FetchDepartmentLink/266"
+  ],
+  "rosters_checked": [
+   "https://prevmed.kumc.edu/school-of-medicine/neurosurgery/residency-program/current-residents.html (stale mirror)",
+   "site search kumc.edu, kansashealthsystem.com, umkc.edu, saintlukeskc.org, hcamidwest.com"
+  ],
+  "queries_tried": [
+   "\"Chatley\" site:kumc.edu OR kansashealthsystem.com OR umkc.edu OR saintlukeskc.org OR hcamidwest.com",
+   "\"Kevin Chatley, MD\" OR \"Chatley, Kevin\""
+  ]
+ },
+ {
+  "key": "87:sar:thomas",
+  "name": "Sarah Thomas",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": null,
+  "evidence": "Still unresolved. Identity per a WebMD snippet (directory lead only): UK College of Medicine 2022 graduate who matched UK neurosurgery in 2022. New sweep results: UC (Cincinnati) Anesthesiology current residents do not list her. The VUMC anesthesiology 'Sarah Thomas, MD' is a UTHSC 2018 graduate, so a different person. A 'Sarah Jo Thomas' profile (medicine.uky.edu/users/sjth226, appearing in a UK Family Medicine users list) is access-denied, and its user ID differs from hers (shth223), so probably a namesake. Site searches of Louisville/UofL Health, UC, VUMC and WVU found no matching resident.",
+  "sources": [
+   "https://med.uc.edu/depart/anesthesiology/residency/current-residents",
+   "https://www.vumc.org/anesthesiology/person/sarah-thomas-md",
+   "https://medicine.uky.edu/users/sjth226"
+  ],
+  "rosters_checked": [
+   "https://med.uc.edu/depart/anesthesiology/residency/current-residents",
+   "site search louisville.edu, uoflhealth.org, med.uc.edu, vumc.org, wvumedicine.org"
+  ],
+  "queries_tried": [
+   "\"Sarah Thomas\" resident site:louisville.edu OR uoflhealth.org OR med.uc.edu OR vumc.org OR wvumedicine.org",
+   "\"Sarah H. Thomas\" OR \"Sarah Thomas\" University of Kentucky neurosurgery medical school match 2022"
+  ]
+ },
+ {
+  "key": "88:enz:viacava",
+  "name": "Enzo Fortuny Viacava",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": null,
+  "evidence": "Still unresolved. Background, from a search snippet of the now-redirecting UofL profile and ResearchGate: MD Universidad Catolica Boliviana 2015; UofL cerebrovascular research fellow with a master's in clinical investigation sciences; UofL neurosurgery resident from 2020. The UofL profile URL (louisville.edu/medicine/departments/neurosurgery/enzo-fortuny-viacava) now redirects to the department landing page. Regional sweep: UK GME current residents/fellows page (no roster names); site searches of uky.edu, nortonhealthcare.com, med.uc.edu (EM, radiation oncology, anesthesiology, orthopaedics, IM, ID fellow directories surfaced), vumc.org and iu.edu found no Fortuny. No other-program page, fellowship or current bio found.",
+  "sources": [
+   "https://louisville.edu/medicine/departments/neurosurgery/enzo-fortuny-viacava",
+   "https://www.researchgate.net/profile/Enzo-Fortuny-2",
+   "https://medicine.uky.edu/sites/gme/current-residents-and-fellows"
+  ],
+  "rosters_checked": [
+   "https://medicine.uky.edu/sites/gme/current-residents-and-fellows (no names)",
+   "site search uky.edu, nortonhealthcare.com, med.uc.edu, vumc.org, iu.edu resident/fellow pages"
+  ],
+  "queries_tried": [
+   "\"Fortuny\" resident OR fellow site:uky.edu OR nortonhealthcare.com OR med.uc.edu OR vumc.org OR iu.edu",
+   "\"Enzo Fortuny\" OR \"Fortuny Viacava\" medico OR neurocirujano OR research OR postdoctoral"
+  ]
+ }
+]

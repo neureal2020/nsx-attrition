@@ -1,0 +1,212 @@
+{
+ "program_id": 59,
+ "name": "Southern Illinois University School of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2014,
+ "hosts": [
+  {
+   "url": "http://www.siumed.edu/surgery/neurosurgery/ (residents.html, residency.html)",
+   "from": "2007",
+   "to": "2017-04"
+  },
+  {
+   "url": "https://www.siumed.edu/surgery/neuro (division home page with 'Neurosurgery Residents and Fellows' block)",
+   "from": "2017-07",
+   "to": "2019-12"
+  },
+  {
+   "url": "https://www.siumed.edu/surgery/neuro/resident-fellow",
+   "from": "2018-07",
+   "to": "2019-12"
+  },
+  {
+   "url": "https://www.siumed.edu/resident-fellow?field_resident_program_tid=481 (school-wide resident search, Drupal 7)",
+   "from": "2018-07",
+   "to": "2021-03"
+  },
+  {
+   "url": "https://www.siumed.edu/resident-fellow?f[0]=resident_program:481 (faceted search)",
+   "from": "2022-01",
+   "to": "live"
+  },
+  {
+   "url": "https://www.siumed.edu/surgery/neuro/residency.html, pgy-N.html, neurosurgery-residency (curriculum only, no names)",
+   "from": "2019-07",
+   "to": "live"
+  },
+  {
+   "url": "https://www.siumed.edu/surgery/neuro/neurosurgery-resident-research (+ research-day, research-awards; live, lists 2025-26 residents)",
+   "from": "live",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012..2013-2014": "Pre-program: initial ACGME accreditation 2013-06-29, first resident July 2014 (residents.html Dec-2014 lists one resident, Alex Michael). Not gaps.",
+  "2014-2017": "Old residents.html pages print no PGY; PGY derived from Class-of years (1 per class); Apr-2017 capture labels PGY-3/2/1 consistently.",
+  "2017-2018": "No resident-search capture; Dec-2017 capture of division home page lists all 4 residents (complete).",
+  "2021-2022": "No single-program capture; used Jan-2022 two-program facet page (431+481) that shows all 25 results on one page; 6 neurosurgery residents. Class of 2023 (Watson) empty.",
+  "2023-2024": "Used 2024-07-10 capture whose content is still 2023-24 (Lipson Class of 2024 listed, no 2024 intern). Dec-2023/Feb-2024 multi-program captures paginated but agree.",
+  "2024-2025": "Apr-2025 capture (gzip-encoded body), 7 of 7. Wayback captures after May 2025 of resident-fellow are 403.",
+  "2025-2026": "No roster capture (Wayback 403s after May 2025; Common Crawl pass started 2017-2026 but stopped once the year was covered). Year observed from the live program page neurosurgery-resident-research, section '2025-26 Resident Scholarly Activity' listing all 7 residents at the Apr-16-2026 research day; research-awards page gives Weber PGY7, Chin PGY5 in 2026. Loaded as source_type 'other'. Complete (7/7)."
+ },
+ "alumni_page": null,
+ "departures": [
+  {
+   "name": "Victoria Watson",
+   "last_ay": "2020-2021",
+   "last_pgy": 5,
+   "outcome": "switched_specialty",
+   "destination": "Internal Medicine residency, Marshall University Joan C. Edwards SOM (PGY-1 2023-24, PGY-2 2024-25)",
+   "evidence": [
+    "https://web.archive.org/web/20230928212739/https://www.jcesom.marshall.edu/residents-fellows/programs/internal-medicine/our-residents/ (PGY-1 section: 'Victoria Watson, MD, Hometown Pinch WV, Medical School Marshall University JCESOM, Future Goals: Neurocritical care Fellowship')",
+    "https://web.archive.org/web/20241213092557/https://www.jcesom.marshall.edu/residents-fellows/programs/internal-medicine/our-residents/ (PGY-2 section)",
+    "SIU profile https://web.archive.org/web/20210227063456/http://www.siumed.edu/resident-fellow/victoria-watson.html (Class of 2023, MD Marshall JCESOM): same med school",
+    "PubMed Victoria L Watson: Marshall Neurosurgery 2017 (28368482), SIU Neurosurgery 2019-2022 (30644009, 31442649, 33940271, 35231621, 35832686), Marshall Internal Medicine 2024 (39886699)"
+   ],
+   "note": "Left SIU between Mar 2021 and Jan 2022 (most likely June 2021). She is not on the Marshall IM pages of Mar 2022 or Sep 2022, and started IM PGY-1 in July 2023. She was not in any residency 2021-23 as far as the sources show. training_history th_id 3409."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 13,
+ "adjudication_summary": {
+  "IN TRAINING": 7,
+  "COMPLETED": 5,
+  "LEFT -> SWITCHED SPECIALTY": 1
+ },
+ "problems": "No program alumni page. Completions rest on PGY7 roster presence, now recorded as training_history program_page rows. Wayback CDX returned 504 on the first try; wayback.py's cdx worked. Phase-2 raw files are in data/raw/extraction/p59/phase2/.",
+ "years": {
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "1/1: Alex Michael PGY1 (program's first resident)."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2/2, one per class, Class-of years consecutive."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "3/3."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "4/4 (division home page block, Dec 2017)."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "5/5."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "6/6."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "7/7 (full complement)."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "6 listed; the missing PGY6 slot is Watson (Class of 2023), who left after 2020-21 and is now resolved (switched to internal medicine). Page shows all 25 results, no pagination."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "6 listed; no PGY7 because the Class-of-2023 slot is Watson's (left 2021). Single-program facet page, no pagination, 6 names in the raw HTML."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "7/7."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "7/7."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "7/7 from the live scholarly-activity page and not a roster, but it names every class 2026-2032, and the research-awards page confirms Weber PGY7."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "7/7 live roster."
+  },
+  "2011-2012..2013-2014": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Pre-program: initial ACGME accreditation 2013-06-29, first resident July 2014."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "training_history_rows": {
+  "added": 6,
+  "completed_yes": [
+   "Alex Michael 2021",
+   "Breck Jones 2022",
+   "Adam Lipson 2024",
+   "Nathan Nordmann 2025",
+   "Matthew Weber 2026"
+  ],
+  "switched_specialty": [
+   "Victoria Watson 2021 -> Marshall internal medicine"
+  ]
+ },
+ "phase2": {
+  "searched": [
+   "Re-parsed raw captures for 2021-22 (Jan-2022 facet 431+481), 2022-23 (Feb-2023 and Oct-2022 facet), 2023-24, 2024-25: program label per card, pagination links, PGY/Chief strings. There are no Chiefs headings, no PGY labels, no pagination, and the name counts match (6,6,7,7).",
+   "Wayback CDX /resident-fellow Mar 2021 to Jan 2022: only the unfiltered, paginated, relevance-sorted index was captured (Aug and Oct 2021); no neurosurgery-filtered capture in that window.",
+   "Wayback CDX of Watson's SIU profile: 8 captures from 2017-05 to 2021-02-27, none later.",
+   "PubMed author searches for Watson V / Victoria / VL / VE, 2012-2026.",
+   "PubMed affiliation mining 'Southern Illinois University' AND neurosurg 2014-2026 (pubmed_aff.py): every non-roster name is faculty, a medical student or staff. Jeffrey Nie became a resident at program 12 in 2023.",
+   "Marshall JCESOM internal medicine 'our-residents' page: Wayback captures 2022-03, 2022-09, 2023-09, 2024-12, 2025-08, plus the live page; chief-residents page 2024."
+  ],
+  "found": [
+   "Victoria Watson resolved: switched to internal medicine at Marshall (PGY-1 2023-24).",
+   "Short years 2021-22 and 2022-23 (and the 2022-23 missing PGY7) are fully explained by Watson's vacated Class-of-2023 slot. No parser misses."
+  ],
+  "remaining": [
+   "Watson's exact SIU exit date (Mar 2021 to Jan 2022) is unknown, and so is her activity 2021-23. Neither affects roster completeness."
+  ]
+ }
+}

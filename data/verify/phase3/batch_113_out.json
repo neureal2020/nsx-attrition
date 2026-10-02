@@ -1,0 +1,1068 @@
+[
+ {
+  "key": "88:ahm:alhourani",
+  "name": "Ahmad Alhourani",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Louisville faculty-directory page and UTSW bio name Louisville neurosurgery residency; Doximity KY license 2018-2024, Univ of Jordan MD 2013",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Louisville neurosurgery residency (entered 2017), then functional fellowship at UCSF; now UTSW faculty",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor neurosurgery (functional), UT Southwestern, Dallas TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://utswmed.org/doctors/ahmad-alhourani/",
+    "type": "bio",
+    "evidence": "search summary: MD University of Jordan; residency in neurological surgery at University of Louisville Hospital; functional fellowship UCSF; joined UTSW faculty 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ahmad-alhourani-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Dallas TX; University of Jordan Class of 2013; KY license 2018-2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:may:sharma",
+  "name": "Mayur Sharma",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Search snippet from Louisville/UMN bios: neurosurgery resident at Louisville from July 30, 2018; Doximity lists KY licence and ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Louisville neurosurgery resident from 2018 (after prior India neurosurgery residency and fellowships); snippet gives end Dec 9, 2022; then UMN faculty, now Marshall Health. ABNS certified per Doximity",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Marshall Health, Huntington WV (previously U Minnesota)",
+  "agrees_with_db": true,
+  "disagreement": "Input last_seen 2021-2022; sources say he left the resident role Dec 2022 (i.e. academic year 2022-23) - date only",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mayur-sharma-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery Huntington WV; Certifications: American Board of Neurological Surgery; Seth G.S. Medical College 2005"
+   },
+   {
+    "url": "https://www.marshallhealth.org/find-a-provider/provider-details/?ID=2007",
+    "type": "search_snippet",
+    "evidence": "search summary: resident physician in neurosurgery at University of Louisville from July 30, 2018 to December 9, 2022"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "88:raj:jani",
+  "name": "Raja Jani",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "WellSpan profile lists NYCOMEC/Saint Barnabas neurosurgery residency and University of Louisville neurosurgery residency; Rutgers/Doximity list Rutgers 2018-2025 (same person, DO Touro 2018)",
+  "residency_stated": [
+   {
+    "institution": "Rutgers Health/New Jersey Medical School (Saint Barnabas entry)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   },
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Entered neurosurgery 2018 at NYCOMEC/Saint Barnabas (Rutgers); Louisville listed as a residency by WellSpan; Doximity lists Rutgers 2018-2025 only; now practising neurosurgeon at WellSpan York. Completion attributed to 2025 either way; Louisville transfer-in consistent with WellSpan listing",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, WellSpan Health, York PA",
+  "agrees_with_db": true,
+  "disagreement": "Doximity/Rutgers credit residency to Rutgers 2018-2025; WellSpan names both Saint Barnabas and Louisville. Treat as transfer-in to Louisville (already noted phase 2); completed 2025",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.wellspan.org/doctors/raja-n-jani-york-pa-5836868",
+    "type": "bio",
+    "evidence": "lists NYCOMEC/Saint Barnabas Medical Center Neurological Surgery Residency and University of Louisville Neurosurgery Residency"
+   },
+   {
+    "url": "https://www.doximity.com/pub/raja-jani-do",
+    "type": "doximity",
+    "evidence": "Rutgers Health/New Jersey Medical School Residency, Neurological Surgery, 2018 - 2025; Touro Class of 2018; York PA Neurosurgery"
+   },
+   {
+    "url": "https://sites.rutgers.edu/neurological-surgery/people/raja-jani-do/",
+    "type": "program_page",
+    "evidence": "began his neurosurgery residency in 2018 (Rutgers page, PGY 6)"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "88:gar:oxford",
+  "name": "Gary Oxford",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Louisville bio Brent Garrison (Gary) Oxford, MD Univ of Louisville 2019, neurosurgery resident; UofL Neurosurgery Instagram congratulates him on graduating",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "UofL neurosurgery post: graduation congratulation (June 2026); absent from 2026-27 roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Recent Louisville neurosurgery graduate (placement not found)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.instagram.com/p/DZskWftkcJB/",
+    "type": "search_snippet",
+    "evidence": "Congratulations, Dr. Gary Oxford, on graduating from our ..."
+   },
+   {
+    "url": "https://louisville.edu/medicine/departments/neurosurgery/brent-garrison-oxford",
+    "type": "bio",
+    "evidence": "Brent (Gary) Oxford graduated from UofL School of Medicine in 2019; neurosurgery residency"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "88:viv:dang",
+  "name": "Vivien Dang",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Vivien Tuongvy Dang, Texas Tech MD 2019, address 220 Abraham Flexner Way Louisville (UofL neurosurgery); US News/WebMD list Neurological Surgery at UofL Hospital",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed by WebMD as Neurological Surgery, Louisville; PGY-7 in 2025-26 then absent from 2026-27 roster. No explicit graduation statement found (Doximity specialty 'Other MD/DO', no ABNS yet, expected for new grad)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurological surgery, Louisville KY (per WebMD snippet)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/vivien-dang-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Louisville KY; Texas Tech Univ HSC School of Medicine Class of 2019; 220 Abraham Flexner Way"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/vivien-dang-05215224-5144-477b-9bf9-b107ca3a756b-overview",
+    "type": "search_snippet",
+    "evidence": "Dr. Vivien Dang, MD, Neurological Surgery | Louisville, KY"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "88:nic:dietz",
+  "name": "Nicholas Dietz",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Program roster lists Nicholas Dietz PGY-7, MD Georgetown; Louisville bio page",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-7 (Neurosurgery Resident/Enfolded Spine Fellow); no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-7 (Neurosurgery Resident/Enfolded Spine Fellow), Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-7 (Neurosurgery Resident/Enfolded Spine Fellow)"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/nicholas-dietz-ef80cf55-f3cd-40a4-ad47-8ee8ad728db3-overview",
+    "type": "search_snippet",
+    "evidence": "Nicholas Dietz is a Neurosurgery Resident/Enfolded Spine Fellow at the University of Louisville ; Doximity search only returned a pathologist namesake in Omaha (not this person)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:mas:english",
+  "name": "Mason English",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Mason English: Louisville neurosurgery residency 2021-2028, Louisville MD 2020; program page PGY-6 chief",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-6 (Chief Resident); no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-6 (Chief Resident), Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-6 (Chief Resident)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/mason-english-md",
+    "type": "doximity",
+    "evidence": "University of Louisville School of Medicine Residency, Neurological Surgery, 2021 - 2028; ETSU surgery internship 2020-2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:sar:danehower",
+  "name": "Sarah Danehower",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Program page PGY-6 chief, MD Drexel; Doximity Drexel and Louisville address; Louisville bio",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-6 (Chief Resident); no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-6 (Chief Resident), Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-6 (Chief Resident)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sarah-danehower-md-0079a112",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Louisville KY, 530 S Jackson St; Drexel University College of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:phi:ostrov",
+  "name": "Philip Ostrov",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Philip Ostrov Louisville residency 2022-2029; Illinois MD 2022; program page PGY-5",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-5; no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-5, Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-5"
+   },
+   {
+    "url": "https://www.doximity.com/pub/philip-ostrov-md",
+    "type": "doximity",
+    "evidence": "University of Louisville School of Medicine Residency, Neurological Surgery, 2022 - 2029; University of Illinois College of Medicine Class of 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:sam:fageiry",
+  "name": "Samaher Fageiry",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Program page PGY-5 (MD Oxford, PhD Columbia); Doximity shows same publications with Brent Oxford and KY licence 2023-2027 (Philadelphia address is old)",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-5; no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-5, Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-5"
+   },
+   {
+    "url": "https://www.doximity.com/pub/samaher-fageiry-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO; KY State Medical License 2023-2027; PA licence 2021-2022; publications with Louisville coauthors (Tebha, Oxford)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:kon:walek",
+  "name": "Konrad Walek",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Program page PGY-4 (MD Brown); publications with Louisville coauthors (Alhourani, Danehower, Bridwell); UofL Instagram 'Dr. Konrad Walek, PGY-2'",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-4; no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-4, Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-4"
+   },
+   {
+    "url": "https://www.instagram.com/p/DKj7fr1sv_h/",
+    "type": "search_snippet",
+    "evidence": "In the OR with Dr. Konrad Walek, PGY-2, and tumor fellow ..."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:edd:ham",
+  "name": "Eddie Ham",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Program page PGY-3 (MD Stony Brook); Doximity Eddie Ham: Stony Brook Class of 2022, surgery internship MGB 2023-24 (prelim year before Louisville start)",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-3; no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-3, Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "Doximity profile does not list the Louisville residency (stale); year mapping (entry 2024 = PGY-1 vs prelim surgery year 2023-24) not verified",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-3"
+   },
+   {
+    "url": "https://www.doximity.com/pub/eddie-ham-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Roslyn NY; Mass General Brigham Internship, Surgery, 2023-2024; Stony Brook Class of 2022 (no neurosurgery residency listed)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:eli:bridwell",
+  "name": "Elizabeth Bridwell",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Louisville bio: Elizabeth Bridwell, UofL MD 2024; Instagram 'Welcoming our new PGY-1s, Dr. Elizabeth Bridwell'; program page PGY-3",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-3; no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-3, Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-3"
+   },
+   {
+    "url": "https://www.instagram.com/uoflneurosurgery/p/C9NJNuPOYum/",
+    "type": "search_snippet",
+    "evidence": "Welcoming our new PGY-1s, Dr. Elizabeth Bridwell & Dr. ..."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:and:gaitan",
+  "name": "Andrea Becerril Gaitan",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Andrea Becerril Gaitan, Louisville KY, UTHealth 2021; program page PGY-2 (TecSalud MD)",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-2; no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-2, Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "Doximity med school listed as UTHealth Class of 2021 whereas Louisville page says TecSalud MD (research fellowship at UTHealth); minor",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-2"
+   },
+   {
+    "url": "https://www.doximity.com/pub/andrea-becerril-gaitan-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Louisville KY, 220 Abraham Flexner Way; McGovern Medical School at UTHealth Class of 2021; KY license 2026-2027"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:ziq:wang",
+  "name": "Ziqi Wang",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Ziqi Wang: Louisville neurosurgery residency 2025-2033, Brown MD 2025; program page PGY-2",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-2; no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-2, Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-2"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ziqi-wang-md-72c5232e",
+    "type": "doximity",
+    "evidence": "University of Louisville School of Medicine Residency, Neurological Surgery, 2025 - 2033; Brown Class of 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:ann:pico",
+  "name": "Annie Pico",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Program page PGY-1 (MD Univ of Arizona); Annie Pico neurosurgery research at Arizona College of Medicine Phoenix",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-1; no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-1, Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-1"
+   },
+   {
+    "url": "https://phoenixmed.arizona.edu/newsroom/news/neurosurgery-department-research-hub-innovating-care",
+    "type": "search_snippet",
+    "evidence": "Annie Pico ... third-year medical student at University of Arizona College of Medicine - Phoenix, committed to neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:ben:klein",
+  "name": "Benjamin Klein",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Program page PGY-1 (MD Univ of Toledo College of Medicine); Doximity search returned only a family-medicine DO namesake in Florida, not this person",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Louisville neurosurgery residency 'Meet our Residents' page as PGY-1; no evidence of leaving",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, PGY-1, Univ of Louisville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+    "type": "program_page",
+    "evidence": "Meet our Residents lists PGY-1"
+   },
+   {
+    "url": "https://www.doximity.com/pub/benjamin-klein-do",
+    "type": "doximity",
+    "evidence": "Benjamin Klein DO, Plantation FL, Family Medicine - namesake, rejected"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "89:dav:hersh",
+  "name": "David Hersh",
+  "program_id": 89,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Univ of Maryland neurosurgery residency 2011-2018, NYU MD 2011; UMMC alumni page lists David Hersh 2018 (distinctive: pediatric neurosurgery fellowship)",
+  "residency_stated": [
+   {
+    "institution": "University of Maryland",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Maryland residency 2018; pediatric neurosurgery fellowship 2018-19; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Pediatric neurosurgeon, Connecticut Children's / UConn, Hartford CT",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-hersh-md-d6950be3",
+    "type": "doximity",
+    "evidence": "University of Maryland Residency, Neurological Surgery, 2011 - 2018; ABNS Neurological Surgery"
+   },
+   {
+    "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2018 - David Hersh, MD Fellowship: Pediatric Neurosurgery, Le Bonheur/St. Jude"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "89:eli:le",
+  "name": "Elizabeth Le",
+  "program_id": 89,
+  "identity": "confirmed",
+  "identity_basis": "UAB bio (listed as Liptrap): Maryland neurosurgery residency 2011-2018; Doximity (Elizabeth Julianne Le) same; UMMC alumni 2018 Elizabeth Le. Listed under a different surname at UAB",
+  "residency_stated": [
+   {
+    "institution": "University of Maryland",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2018; enfolded neuroendovascular fellowship 2015-16, then fellow/instructor 2018-19; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor neurosurgery, UAB, Birmingham AL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.uab.edu/medicine/neurosurgery/faculty/le",
+    "type": "bio",
+    "evidence": "completed neurological surgery internship and residency at the University of Maryland Medical Center 2011-2018"
+   },
+   {
+    "url": "https://www.doximity.com/pub/elizabeth-le-md-88d50318",
+    "type": "doximity",
+    "evidence": "University of Maryland Residency, Neurological Surgery, 2011 - 2018; ABNS"
+   },
+   {
+    "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2018 - Elizabeth Le, MD"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "89:eri:hayman",
+  "name": "Erik Hayman",
+  "program_id": 89,
+  "identity": "confirmed",
+  "identity_basis": "USF bio and search summaries: residency at University of Maryland, MD Colorado; UMMC alumni page lists Erik Hayman 2019",
+  "residency_stated": [
+   {
+    "institution": "University of Maryland",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Maryland 2019, then spine fellowship Swedish; USF faculty",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (spine), USF Health / Tampa General, Tampa FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://health.usf.edu/medicine/neurosurgery/profiles/erikhayman",
+    "type": "bio",
+    "evidence": "search summary: completed his residency training at the University of Maryland; MD University of Colorado; fellowship Swedish Neuroscience Institute"
+   },
+   {
+    "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2019 - Erik Hayman, MD Fellowship: Complex & Minimally Invasive Spine Surgery, Swedish"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "89:sal:jones",
+  "name": "Salazar Jones",
+  "program_id": 89,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Maryland residency 2012-2019, UCLA MD 2012; UMMC alumni 2019 Salazar Jones",
+  "residency_stated": [
+   {
+    "institution": "University of Maryland",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; ABNS certified; now Chief of Neurosurgery One Brooklyn Health",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Chief of Neurosurgery, One Brooklyn Health, Brooklyn NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/salazar-jones-md",
+    "type": "doximity",
+    "evidence": "University of Maryland Residency, Neurological Surgery, 2012 - 2019; ABNS Neurological Surgery"
+   },
+   {
+    "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2019 - Salazar Jones, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "89:har:mushlin",
+  "name": "Harry Mushlin",
+  "program_id": 89,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Maryland residency 2013-2020, NYU MD 2013; Stony Brook bio; UMMC alumni 2020",
+  "residency_stated": [
+   {
+    "institution": "University of Maryland",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020; Pittsburgh spine fellowship; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor/Director of Spine Surgery, Stony Brook University Hospital NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/harry-mushlin-md",
+    "type": "doximity",
+    "evidence": "University of Maryland Residency, Neurological Surgery, 2013 - 2020; ABNS"
+   },
+   {
+    "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2020 - Harry Mushlin, MD Fellowship: Complex and Minimally Invasive Spine Surgery, Pittsburgh"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "89:mat:kole",
+  "name": "Matthew Kole",
+  "program_id": 89,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Maryland residency 2013-2020, Baylor MD 2013; UMMC alumni 2020 Matthew J. Kole",
+  "residency_stated": [
+   {
+    "institution": "University of Maryland",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020, then cerebrovascular/endovascular fellowships at UT Houston (Doximity mislabels one as 'Gastroenterology' 2016-2022, a source data error); ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (cerebrovascular/endovascular), Memorial Hermann Katy TX (previously Geisinger)",
+  "agrees_with_db": true,
+  "disagreement": "Doximity lists 'Residency, Gastroenterology, UTHealth 2016-2022' - not credible (overlaps Maryland residency); ignored",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-kole-md",
+    "type": "doximity",
+    "evidence": "University of Maryland Residency, Neurological Surgery, 2013 - 2020; ABNS Neurological Surgery"
+   },
+   {
+    "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2020 - Matthew J. Kole, MD dual fellowships in cerebrovascular and endovascular neurosurgery at UT-Houston"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "89:aar:wessell",
+  "name": "Aaron Wessell",
+  "program_id": 89,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Maryland residency 2014-2021, GWU MD 2014; UMMC alumni 2021",
+  "residency_stated": [
+   {
+    "institution": "University of Maryland",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2021; Mayo Jacksonville endovascular fellowship; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Vascular/endovascular neurosurgeon, Sentara, Norfolk VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/aaron-wessell-md",
+    "type": "doximity",
+    "evidence": "University of Maryland Residency, Neurological Surgery, 2014 - 2021; ABNS"
+   },
+   {
+    "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2021 - Aaron Wessell, MD Fellowship: Cerebrovascular/Endovascular, Mayo Clinic Jacksonville"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "89:nat:pratt",
+  "name": "Nathan Pratt",
+  "program_id": 89,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Maryland residency 2014-2021, Oklahoma MD 2014; UTMB bio; UMMC alumni 2021 Nathan Pratt, MD, MS",
+  "residency_stated": [
+   {
+    "institution": "University of Maryland",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2021; Swedish spine fellowship 2021-22; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor neurosurgery (spine), UTMB Galveston TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/nathan-pratt-md",
+    "type": "doximity",
+    "evidence": "University of Maryland Residency, Neurological Surgery, 2014 - 2021; ABNS"
+   },
+   {
+    "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2021 - Nathan Pratt, MD, MS Fellowship: Complex Spine Surgery, Swedish"
+   }
+  ],
+  "searches_used": 2
+ }
+]

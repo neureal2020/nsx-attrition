@@ -1,0 +1,266 @@
+{
+ "program_id": 26,
+ "name": "Houston Methodist Hospital (Medical Center) Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "methodisthealth.com/tmhs/nineurosurgery.do?channelId=-98384 (Professional Education & Training; program description only)",
+   "from": "2010-01",
+   "to": "2010-02"
+  },
+  {
+   "url": "methodisthealth.com/nineurosurgery.cfm?id=34950 (Residency Program; later links 'Current Residents' nineurosurgery.cfm?id=43099, never archived)",
+   "from": "2010-04",
+   "to": "2013-06"
+  },
+  {
+   "url": "houstonmethodist.org/current-residents-43099 ('Current Residents 20xx-20xx'; photos under /images/neurological_institute/neurosurgery/residents/images/)",
+   "from": "2013-12",
+   "to": "2015-03"
+  },
+  {
+   "url": "houstonmethodist.org/nineurosurgery.cfm?id=34950",
+   "from": "2014-01",
+   "to": "2015-03"
+  },
+  {
+   "url": "houstonmethodist.org/education/gme-postgraduate/graduate-medical-education/neurosurgery-residency/our-residents",
+   "from": "2015-07",
+   "to": "2015-09"
+  },
+  {
+   "url": "houstonmethodist.org/1285_houstonmethodist/2623_education/2647_education_gmeandpostgraduateeducation/2649_graduatemedicaleducation/2685_education_neurosurgeryresidency/2689_education_ourresidents",
+   "from": "2015-10",
+   "to": "2016-03"
+  },
+  {
+   "url": "houstonmethodist.org/1285_houstonmethodist/2623_education/2647_education_gmeandpostgraduateeducation/2649_graduatemedicaleducation/gme%20programs/2685_education_neurosurgeryresidency/2689_education_ourresidents",
+   "from": "2016-04",
+   "to": "2016-11"
+  },
+  {
+   "url": "houstonmethodist.org/1285_houstonmethodist/2623_education/medical-education/graduatemedicaleducation/gme-programs/gme_neurosurgeryresidency/2689_education_ourresidents",
+   "from": "2017-02",
+   "to": "2018-08"
+  },
+  {
+   "url": "houstonmethodist.org/education/medical/graduate-medical-education/neurosurgery-residency/our-residents/ (+ /alumni/)",
+   "from": "2017-11",
+   "to": "2024-10"
+  },
+  {
+   "url": "houstonmethodist.org/academic-institute/gme/neurosurgery-residency/ (Our Residents + Alumni; server-rendered to 2025-10, then JS via POST /api/faculty/directory/)",
+   "from": "2024-11",
+   "to": "2026-09-27 (live)"
+  },
+  {
+   "url": "houstonmethodist.org/neurosurgery-residency/ (vanity URL; 404 live)",
+   "from": "2021-12",
+   "to": "2026-05"
+  }
+ ],
+ "observed_years": [
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "SIGNIFICANT. Roster page never archived. Phase 2: CC-MAIN-2014-10 retry (methodisthealth.com nineurosurgery.cfm: 0 records; houstonmethodist.org: 25 non-roster pages), CC-MAIN-2013-20 (12 nineurosurgery.cfm pages, no id=43099), linkaudit of id=34950/34948 2011-07..2013-12, CDX name filters, gapaudit methodisthealth.com 2007-2011, PubMed/OpenAlex HM-neurosurgery affiliation 2008-2014 (no new residents). The 'Dilorenzo'/'Moisi' photos were uploaded 9 Aug 2007 (Wayback orig Last-Modified, same batch as Krishna/Livingston), so they are 2007-08 residents, not 2011-13 evidence. DiLorenzo left HM for UTMB in 2010 (pre-window). Marc Moisi: HM affiliation on a paper e-published Jul 2011, UTMB research fellow by 2012; may have been an HM ~PGY5 in 2011-12 (not loaded: not bracketed). Reconstructed 8 alumni-confirmed graduates.",
+  "2012-2013": "SIGNIFICANT. Same searches as 2011-12. The id=43099 'Current Residents' page was created ~fall 2012 (CMS ids ~42700 in Aug 2012, ~44450 by Jun 2013) and never captured by Wayback or Common Crawl. Reconstructed 10 alumni-confirmed graduates; a 2012-13 leaver from the 2008-2010 classes would be unseen. Neither DiLorenzo (Rush-bound; whereabouts Nov 2012-2014 unknown but no HM evidence) nor Moisi (UTMB research 2012-13) is placed at HM this year.",
+  "2013-2014": "Observed via Common Crawl CC-MAIN-2014-10 (2014-03-08), page headed 'Current Residents 2013-2014'. Dec 2013 CC capture (CC-MAIN-2013-48) is the same list without the two PGY-1s. Only one resident each at PGY-4..7 (2007-2010 entry classes).",
+  "2017-2018": "Nov 2017 capture; identical in Wayback Dec 2017-Apr 2018 and Common Crawl Jan-Aug 2018.",
+  "2018-2019": "No Wayback capture May 2018-Jul 2019. Observed from Common Crawl CC-MAIN-2018-43 (2018-10-23), identical to CC-MAIN-2018-51 and 2019-09. Complete (13).",
+  "2019-2020": "Content unchanged Aug 2019-Sep 2020; Dec 2019 used.",
+  "2020-2021": "Dec 2020 capture; same content persisted to Nov 2021 (stale).",
+  "2021-2022": "Only 2021-22 content is the May 2022 capture (Nov 2021 still 2020-21). Complete for the year.",
+  "2022-2023": "Oct 2022. Amanda Jenson still listed PGY-7 but alumni Class of 2022 and classmate Sadrameli removed: stale carry-over, excluded.",
+  "2023-2024": "Sep 2023 capture lacked Ismail Mohiuddin (PGY-1); Jun 2024 capture (used) lists him. No capture in between.",
+  "2025-2026": "Sep 2025 academic-institute capture (last server-rendered). Sibi Rajendran labelled PGY6 while classmates PGY7; alumni API says completed 2026 as PGY-7.",
+  "2026-2027": "Live, via the page's directory API (POST https://www.houstonmethodist.org/api/faculty/directory/ scope 'fellow'). Advanced vs 2025-26; 3 new interns."
+ },
+ "alumni_page": "https://www.houstonmethodist.org/academic-institute/gme/neurosurgery-residency/#our-alumni (older: /education/medical/graduate-medical-education/neurosurgery-residency/alumni/)",
+ "departures": [
+  {
+   "name": "Marc Moisi",
+   "last_ay": "2010-2011 or 2011-2012",
+   "last_pgy": null,
+   "note": "HM resident (2007 photo; HM affiliation Jul 2011) -> UTMB neurosurgery research fellow (~2012-14) -> Swedish fellowships 2014-16 -> Wayne State (125) Year 6 2016-17, grad 2017. TRANSFER (th row, end_year 2012 uncertain). Not on any archived HM roster."
+  },
+  {
+   "name": "Chuan Liang",
+   "last_ay": "2014-2015",
+   "last_pgy": 1,
+   "note": "left; outcome unknown (NPI-only radiology hint)"
+  },
+  {
+   "name": "Ryan Jafrani",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "note": "TRANSFER -> Penn State (53) PGY-4 July 2017, grad 2021"
+  },
+  {
+   "name": "Michael Ghali",
+   "last_ay": "2018-2019",
+   "last_pgy": 1,
+   "note": "left; outcome unknown (on no other roster)"
+  },
+  {
+   "name": "Bradley Daniels",
+   "last_ay": "2021-2022",
+   "last_pgy": 5,
+   "note": "left; outcome unknown (NPI-only anesthesiology hint)"
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 34,
+ "adjudication_summary": {
+  "COMPLETED": 22,
+  "IN TRAINING": 14,
+  "LEFT -> did not complete": 3,
+  "LEFT -> TRANSFERRED (Penn State)": 1
+ },
+ "problems": "CC retries done: CC-MAIN-2014-10 (methodisthealth.com nineurosurgery.cfm 0 records; houstonmethodist.org 25 pages, none a roster) and CC-MAIN-2018-17 (Apr 2018 our-residents = 2017-18 list) both succeeded. CC-MAIN-2012 has no index. Wayback CDX regex-filter queries on wayne.edu/utmb.edu returned 500/504. Outcomes of Liang, Ghali, Daniels unknown (NPI hints only). Moisi's HM end year (2011 vs 2012) unresolved. Extended training: Desai repeated PGY-6. Name variants as in phase 1.",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No roster archived; the 2007-2010 entry classes show one resident each later, and Marc Moisi (HM resident, left 2011 or 2012) may have been present unseen; other second-class members unknown."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No roster archived (id=43099 page created ~fall 2012, never captured); a leaver from the 2008-2010 classes during 2012-13 would be invisible (2013-14 roster confirms who stayed)."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl Mar 2014 roster, complete 10 names with PGYs."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Feb 2015 roster, complete."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Nov 2015 roster, complete."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Sep 2016 roster, complete."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2017 roster; identical through Aug 2018 (Wayback + CC incl. retried CC-MAIN-2018-17 Apr 2018)."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl Oct 2018, identical Dec 2018/Feb 2019; complete (13)."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec 2019 roster, complete."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec 2020 roster, complete."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Only May 2022 capture (Nov 2021 still stale 2020-21); complete for the year."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Oct 2022 roster (stale Jenson excluded; alumni 2022)."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Jun 2024 capture used; Sep 2023 capture lacked intern Mohiuddin; no capture between."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Sep 2024 roster, complete."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Sep 2025 roster; Rajendran PGY label corrected by alumni API."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live directory API, advanced vs 2025-26."
+  }
+ },
+ "pre_window_departures": [
+  {
+   "name": "Daniel DiLorenzo",
+   "left": 2010,
+   "note": "HM resident (2007 photo, HM affiliation Jan 2010) -> UTMB 2010-12 (senior/chief) -> Rush (56), grad 2016. Not an HM resident in 2011+; the ~2012-13 HM stint hypothesis is not supported."
+  }
+ ],
+ "not_joiners": [
+  {
+   "name": "Mehmet Kadipasaoglu",
+   "note": "UTHealth (107) neurosurgery -> Houston Methodist NEUROLOGY residency PGY-1 2021-22 (HM neurology roster Apr 2022); different department, not a program 26 joiner. Recorded by program 107 (th 2926)."
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "CC-MAIN-2014-10 retry (com,methodisthealth)/nineurosurgery.cfm; org,houstonmethodist)/nineurosurgery.cfm)",
+   "CC-MAIN-2018-17 retry (gme_neurosurgeryresidency; education/medical/.../neurosurgery-residency)",
+   "CC-MAIN-2013-20 / 2013-48 / 2014-10 (nineurosurgery.cfm, residents image folder)",
+   "Wayback orig Last-Modified headers of the residents-folder photos",
+   "linkaudit id=34950/34948/education/gme 2011-07..2013-12",
+   "gapaudit methodisthealth.com 2007-2011",
+   "CDX domain name filters (moisi|dilorenzo) on methodisthealth.com/houstonmethodist.org",
+   "PubMed affiliation mining Methodist+neurosurgery 2008-2014 (145 PMIDs)",
+   "PubMed/OpenAlex per person: Moisi, DiLorenzo, Liang, Jafrani, Ghali, Daniels",
+   "UTMB currentresidents.html 2010-2013 captures",
+   "Wayne State faculty profile gn7885 (Moisi) 2018",
+   "HM neurology residents page Apr 2022 (Kadipasaoglu)",
+   "NPPES: Moisi, DiLorenzo, Jafrani, Liang, Ghali, Daniels"
+  ],
+  "found": [
+   "Dilorenzo/Moisi photos uploaded 2007-08-09 (2007-08 residents), not 2011-13 evidence",
+   "DiLorenzo left HM 2010 -> UTMB -> Rush (pre-window)",
+   "Moisi HM -> UTMB research fellow -> Swedish -> Wayne State PGY6 2016-17 (transfer, HM exit 2011/2012)",
+   "Jafrani -> Penn State July 2017 confirmed",
+   "Kadipasaoglu joined HM neurology, not neurosurgery",
+   "id=43099 page created ~fall 2012"
+  ],
+  "remaining": [
+   "2011-12 and 2012-13 rosters unarchived: possible unseen leavers from the 2008-2010 entry classes; Moisi's presence in 2011-12 unconfirmed",
+   "Destinations of Liang, Ghali, Daniels"
+  ],
+  "training_history_rows_added": 6
+ }
+}

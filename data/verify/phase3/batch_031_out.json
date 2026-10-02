@@ -1,0 +1,1010 @@
+[
+ {
+  "key": "26:mat:goldman",
+  "name": "Matthew Goldman",
+  "program_id": 26,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.neurosurgical.tv/108928-2/",
+    "type": "news",
+    "evidence": "Interview with Matthew Goldman MD ... Incoming Neurosurgical Intern at Houston Methodist"
+   },
+   {
+    "url": "https://www.doximity.com/pub/matthew-goldman-md-87337f0f",
+    "type": "doximity",
+    "evidence": "Family Medicine, Houston; University of Florida College of Medicine Class of 2023; ABFM listed (conflicts; probably mis-attributed)"
+   }
+  ],
+  "searches_used": 2,
+  "identity": "probable",
+  "identity_basis": "Search snippet: Matthew J. Goldman, Univ of Florida MD 2023, 'incoming neurosurgical intern at Houston Methodist' (Oct 2023). Doximity profile (Houston, UF class of 2023) is filed as Family Medicine (likely mis-categorised namesake profile with neurosurgery publications); year/name match but specialty listing conflicts.",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Neurosurgery resident at Houston Methodist (intern class entering 2024 per input); no evidence of departure.",
+  "current": "neurosurgery resident, Houston Methodist"
+ },
+ {
+  "key": "26:gra:koskay",
+  "name": "Grant Koskay",
+  "program_id": 26,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/grantkoskay/",
+    "type": "search_snippet",
+    "evidence": "Grant Koskay, MD - Neurosurgery Resident (Houston Methodist)"
+   },
+   {
+    "url": "https://www.zoominfo.com/p/Grant-Koskay/5227762611",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at Houston Methodist"
+   }
+  ],
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn/ZoomInfo snippets: Neurosurgery Resident at Houston Methodist; MD Creighton; email @houstonmethodist.org",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Neurosurgery resident at Houston Methodist.",
+  "current": "neurosurgery resident, Houston Methodist"
+ },
+ {
+  "key": "26:sha:shah",
+  "name": "Shalin Shah",
+  "program_id": 26,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/shalin-shah-md-5771b5142/",
+    "type": "search_snippet",
+    "evidence": "Shalin Shah, MD - Houston Methodist"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Shalin-Shah-3",
+    "type": "search_snippet",
+    "evidence": "Shalin SHAH | Medical Doctor | Houston Methodist Hospital"
+   }
+  ],
+  "searches_used": 2,
+  "identity": "probable",
+  "identity_basis": "LinkedIn 'Shalin Shah, MD - Houston Methodist'; ResearchGate lists Houston Methodist Hospital; described as first-year neurosurgery resident, McGovern Medical School alumnus. Doximity Shalin Shah profiles are radiation oncology/oncology namesakes (not this person).",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "First-year neurosurgery resident at Houston Methodist per search summary of profiles.",
+  "current": "neurosurgery resident, Houston Methodist"
+ },
+ {
+  "key": "26:zer:asfaw",
+  "name": "Zerubabbel Asfaw",
+  "program_id": 26,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/zerubabbel-asfaw-md",
+    "type": "doximity",
+    "evidence": "neurosurgery resident physician ... currently practicing at Houston Methodist since 2025 ... Icahn School of Medicine at Mount Sinai Class of 2025"
+   },
+   {
+    "url": "https://www.linkedin.com/in/zasfaw/",
+    "type": "search_snippet",
+    "evidence": "Zerubabbel Asfaw MD, MS - Houston Methodist"
+   }
+  ],
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Neurosurgery resident at Houston Methodist since 2025, Mount Sinai MD 2025 (co-authors with Mount Sinai faculty)",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Neurosurgery resident at Houston Methodist since 2025.",
+  "current": "neurosurgery resident, Houston Methodist"
+ },
+ {
+  "key": "26:dom:chau",
+  "name": "Dominic Chau",
+  "program_id": 26,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": null,
+  "disagreement": "",
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.utrgv.edu/school-of-medicine/medical-student-spotlights/profile-pages/dominic-chau.htm",
+    "type": "search_snippet",
+    "evidence": "Dominic Chau - Medical Student Spotlight (UTRGV, unconfirmed as same person)"
+   }
+  ],
+  "searches_used": 2,
+  "identity": "not_found",
+  "identity_basis": "No profile found tying Dominic Chau to Houston Methodist neurosurgery; only a UTRGV medical student (grad 2026) spotlight page surfaced, plausible but unconfirmed.",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Could not verify; PGY-1 in 2026-27 so no public profile expected. Program's public page names no residents.",
+  "current": null
+ },
+ {
+  "key": "26:mig:jimenez",
+  "name": "Miguel Jimenez",
+  "program_id": 26,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": null,
+  "disagreement": "",
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "sources": [],
+  "searches_used": 2,
+  "identity": "not_found",
+  "identity_basis": "Common name; no neurosurgery-specific Miguel Jimenez profile found; Doximity shows only orthopaedic/family/IM namesakes.",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Could not verify; PGY-1 in 2026-27.",
+  "current": null
+ },
+ {
+  "key": "26:nan:mize-gonzalez",
+  "name": "Nancy Mize-Gonzalez",
+  "program_id": 26,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/nancy-mize-gonzalez/",
+    "type": "search_snippet",
+    "evidence": "Nancy Mize Gonzalez - Graduate Research Fellow - HOUSTON METHODIST RESEARCH INSTITUTE"
+   }
+  ],
+  "searches_used": 2,
+  "identity": "probable",
+  "identity_basis": "Nancy Mize Gonzalez: MD/PhD at Texas A&M, Houston Methodist Research Institute graduate fellow, self-described aspiring neurosurgeon-scientist (AANS chapter VP). No resident-listing confirming match to Houston Methodist neurosurgery.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Consistent with matching into neurosurgery in 2026 as MD/PhD graduate but no source confirms the residency; treat as unverified.",
+  "current": "MD/PhD (Texas A&M), aspiring neurosurgeon"
+ },
+ {
+  "key": "27:chr:sarkiss",
+  "name": "Christopher A. Sarkiss",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Christopher_A._Sarkiss",
+    "type": "bio",
+    "evidence": "Chief Resident at Mount Sinai 2011-2018; then neuro-oncology fellowship at Miami"
+   },
+   {
+    "url": "https://www.doximity.com/cv/christophersarkissmd",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; Chief Residency 2017-2018; ABNS listed"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2011-2018",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "neurosurgeon, Los Angeles CA (Providence)"
+ },
+ {
+  "key": "27:jer:steinberger",
+  "name": "Jeremy M. Steinberger",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://profiles.mountsinai.org/jeremy-m-steinberger",
+    "type": "bio",
+    "evidence": "Neurosurgery Residency and Fellowship in Complex Spine Surgery at Icahn School of Medicine at Mount Sinai"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jeremy-steinberger-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 (also a duplicate 2010-2017 entry); ABNS listed"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2011-2018",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "spine neurosurgeon, Director MIS Spine, Mount Sinai"
+ },
+ {
+  "key": "27:jon:rasouli",
+  "name": "Jonathan J. Rasouli",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://opmed.doximity.com/authors/jonathan-rasouli-md",
+    "type": "bio",
+    "evidence": "In 2012, joined Mount Sinai neurosurgery residency; chief resident; Cleveland Clinic spine fellowship 2019-20"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jonathan-rasouli-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; ABNS listed"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2012-2019",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "spinal neurosurgeon, Neurospine Plus, Paramus NJ"
+ },
+ {
+  "key": "27:mar:pain",
+  "name": "Margaret E. Pain",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://sites.rutgers.edu/pediatric-neurosurgery/people/margaret-pain-md/",
+    "type": "bio",
+    "evidence": "completed her chief residency year in 2019 at Mount Sinai; pediatric neurosurgery, Rutgers"
+   },
+   {
+    "url": "https://www.doximity.com/pub/margaret-pain-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; Stanford peds fellowship 2019-20; ABNS listed"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2012-2019",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "pediatric neurosurgeon, Assistant Professor (Rutgers RWJ; Doximity lists Detroit MI)"
+ },
+ {
+  "key": "27:eri:oermann",
+  "name": "Eric K. Oermann",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://physicians.mountsinai.org/participant/eric-oermann-md",
+    "type": "bio",
+    "evidence": "completed his residency in Neurological Surgery at ... Mount Sinai in 2020"
+   },
+   {
+    "url": "https://www.doximity.com/pub/eric-oermann-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; ABNS listed"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2013-2020",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "Assistant Professor of Neurosurgery/Radiology/Data Science, NYU Langone"
+ },
+ {
+  "key": "27:ian:mcneill",
+  "name": "Ian T. McNeill",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://facultydirectory.uchc.edu/profile?profileId=McNeill-Ian",
+    "type": "bio",
+    "evidence": "neurosurgery residency and complex spine fellowship at Mount Sinai; assistant professor UConn Health; Chief Resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ian-mcneill-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; UCSF spine fellowship 2020-21 (no ABNS listed)"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2013-2020",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "spine neurosurgeon, Assistant Professor, UConn Health, Farmington CT"
+ },
+ {
+  "key": "27:ern:lemy",
+  "name": "Ernest J. Barthélemy",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.downstate.edu/news-events/news/2025/06-12-2025.html",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at Icahn School of Medicine at Mount Sinai (snippet)"
+   },
+   {
+    "url": "https://www.doximity.com/cv/dr-bart",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; UCSF neurotrauma fellowship 2021-22 (no ABNS listed)"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2014-2021",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "neurosurgeon, Chief of Neurosurgery, SUNY Downstate / Brookdale, Brooklyn"
+ },
+ {
+  "key": "27:rob:rothrock",
+  "name": "Robert J. Rothrock",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://physicianresources.baptisthealth.net/news/robert-j-rothrock-m-d-joins-baptist-health-s-miami-neuroscience-institute-as-neurosurgical-director-of-spinal-oncology",
+    "type": "bio",
+    "evidence": "Neurosurgical Director of Spinal Oncology, Baptist Health Miami Neuroscience Institute; Mount Sinai resident bio"
+   },
+   {
+    "url": "https://www.doximity.com/pub/robert-rothrock-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; Miami spine fellowship 2020-21; ABNS listed"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2014-2021",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "spinal neurosurgeon, Baptist Health / Hollywood FL"
+ },
+ {
+  "key": "27:jef:gilligan",
+  "name": "Jeffrey T. Gilligan",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://findcare.nuvancehealth.org/provider/jeffrey-t-gilligan/2296841",
+    "type": "bio",
+    "evidence": "completed neurosurgical residency at Mount Sinai; Chief Resident Class of 2022"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jeffrey-gilligan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 (also 2014-2021 duplicate)"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2015-2022",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "spine neurosurgeon, Nuvance/Northwell Health, Poughkeepsie/Danbury"
+ },
+ {
+  "key": "27:kur:yaeger",
+  "name": "Kurt A. Yaeger",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://neurosurgery.weillcornell.org/faculty/kurt-yaeger-md",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency and endovascular fellowship at Mount Sinai (snippet)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kurt-yaeger-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; endovascular fellowship 2022-23; ABNS listed"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2015-2022",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "endovascular neurosurgeon, Weill Cornell / Houston Methodist affiliation"
+ },
+ {
+  "key": "27:fra:yuk",
+  "name": "Frank J. Yuk",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://iuhealth.org/find-providers/provider/frank-j-yuk-md-4269406",
+    "type": "bio",
+    "evidence": "residency in Neurological Surgery from 2016 to 2023 (snippet); joined IU Health 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/frank-yuk-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; HSS ortho spine fellowship 2023-24"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2016-2023",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "spine neurosurgeon, IU Health, Carmel IN"
+ },
+ {
+  "key": "27:tra:ladner",
+  "name": "Travis R. Ladner",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://x.com/MountSinaiNeuro/status/1669107808401334273",
+    "type": "bio",
+    "evidence": "#7LongYears ago, Travis Ladner embarked on a journey as a Mount Sinai neurosurgery resident ... final case (June 2023)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/travis-ladner-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023"
+   }
+  ],
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2016-2023",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "neurosurgeon, California Neurosurgical Institute, Valencia CA"
+ },
+ {
+  "key": "27:ale:carrasquilla",
+  "name": "Alejandro Carrasquilla",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://texasback.com/physician/alejandro-carrasquilla/",
+    "type": "bio",
+    "evidence": "Chief Resident at Mount Sinai, PGY-7 Oct 2023; now neurosurgeon at Texas Back Institute, Plano"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alejandro-carrasquilla-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 (also 2016-2023 duplicate)"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2017-2024",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "spine neurosurgeon, Texas Back Institute, Plano TX"
+ },
+ {
+  "key": "27:jef:zimering",
+  "name": "Jeffrey H. Zimering",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.northwell.edu/about/leadership/jeffrey-zimering-md",
+    "type": "bio",
+    "evidence": "completed neurological surgery residency at Mount Sinai, chief resident final year; spine neurosurgeon Lenox Hill/Northwell"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jeffrey-zimering-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2017-2024",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "spine neurosurgeon, Lenox Hill / Northwell, New York"
+ },
+ {
+  "key": "27:rui:feng",
+  "name": "Rui Feng",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://x.com/MountSinaiNeuro/status/1936083322381414745",
+    "type": "bio",
+    "evidence": "2025 Mount Sinai residency grads: Dr. Rui Feng & Dr. Trevor Hardigan! Dr. Feng heads to TJUH for a skull base fellowship"
+   },
+   {
+    "url": "https://www.doximity.com/pub/rui-feng-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2025 (end year only); listed 'Resident Physician'"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2018-2025",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "skull base fellow, Thomas Jefferson University (2025-26)"
+ },
+ {
+  "key": "27:tre:hardigan",
+  "name": "Trevor H. Hardigan",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://x.com/MountSinaiNeuro/status/1936083322381414745",
+    "type": "bio",
+    "evidence": "2025 residency grads ... Dr. Hardigan will stay at Mount Sinai Cerebrovascular Center for a neuroendovascular fellowship"
+   },
+   {
+    "url": "https://www.doximity.com/pub/trevor-hardigan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2018-2025",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "neuroendovascular fellow / neurosurgeon (Doximity: Savannah GA)"
+ },
+ {
+  "key": "27:abh:bhimani",
+  "name": "Abhiraj D. Bhimani",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/abhiraj-bhimani-md",
+    "type": "bio",
+    "evidence": "Dr. Bhimani ... residency in neurological surgery at Icahn School of Medicine at Mount Sinai; fellowship at UIC; practices at UChicago Medicine AdventHealth Hinsdale (listed; some Doximity text inconsistent on timing)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/abhiraj-bhimani-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2019-2026",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "neurosurgeon, Hinsdale IL"
+ },
+ {
+  "key": "27:ale:schupper",
+  "name": "Alexander J. Schupper",
+  "program_id": 27,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://reports.mountsinai.org/article/neuro2026-06-neurosurgery-residency-schupper",
+    "type": "bio",
+    "evidence": "After he graduates from Mount Sinai in June 2026, he will begin a yearlong fellowship in adult complex spine surgery at Barrow (Co-Chief Resident)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alex-schupper-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026; complex spine fellow at Barrow"
+   }
+  ],
+  "searches_used": 1,
+  "identity": "confirmed",
+  "identity_basis": "Named Mount Sinai neurosurgery resident/alumnus in bio; Doximity Education lists Mount Sinai Neurological Surgery residency 2019-2026",
+  "residency_stated": [
+   {
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Mount Sinai",
+  "current": "complex spine fellow, Barrow Neurological Institute, Phoenix"
+ }
+]

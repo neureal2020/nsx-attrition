@@ -1,0 +1,229 @@
+{
+ "program_id": 89,
+ "name": "University of Maryland Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "complement_note": "2 per year on every observed roster 2009-2026 (class of 2015 had only Slavin on 2014-15 roster).",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://neurosurgery.umaryland.edu/residents.asp (UMSOM dept site, classic ASP; roster with PGY per name)",
+   "from": "2007-07",
+   "to": "2016-10 (content updated 2007-2009, not captured 2010-06..2014-11; the '2014-2015' list stayed frozen 2014-11..2016-10; 404 from 2016-11)"
+  },
+  {
+   "url": "http://neurosurgery.umaryland.edu/default.asp (Ektron-era dept homepage; no residents link)",
+   "from": "2012-09",
+   "to": "2016-05"
+  },
+  {
+   "url": "http://neurosurgery.umaryland.edu/Neurosurgery-Residency-Program/Neurosurgery-Residents/",
+   "from": "2017-03",
+   "to": "2019-08 (updated about once a year, usually late)"
+  },
+  {
+   "url": "http://www.umm.edu/neurosciences/residency_program.htm (UMMC program description, no names)",
+   "from": "2008-05",
+   "to": "2012-09"
+  },
+  {
+   "url": "http://umm.edu/programs/neurosciences/professionals/neurosurgery-residency (UMMC program description, no names)",
+   "from": "2013-07",
+   "to": "2017-12"
+  },
+  {
+   "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/current-residents",
+   "from": "2020-09",
+   "to": "2023-02"
+  },
+  {
+   "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/residents (+ /residents/bios, /alumni)",
+   "from": "2023-06",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "http://medschool.umaryland.edu/neurosurgery/ (faculty bios only)",
+   "from": "2002",
+   "to": "2008"
+  }
+ ],
+ "observed_years": [
+  "2014-2015",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2015-2016"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "SIGNIFICANT. residents.asp has no capture between 2010-06-12 (still the 2009-10 list) and 2014-11-22. Dept homepage 2012-2014 (Ektron default.asp) has no residents link (linkit.aspx IDs all resolve to medschool pages). umm.edu residency_program.htm / neurosurgery-residency pages carry no names. medschool.umaryland.edu and umm.edu year-by-year CDX scans found no other roster URL. Common Crawl 2012..2016 (30 crawls) had no roster-like URL on neurosurgery.umaryland.edu. Reconstructed 13 from 2009-10 and 2014-15 rosters and the alumni page. Ryan Nowak (PGY-2 on 2009-10, Slavin's classmate, not on alumni list) cannot be placed: he left sometime between 2009-10 and 2014-15.",
+  "2012-2013": "SIGNIFICANT. Same gap as 2011-12. Reconstructed 13; Hayman/Jones (PGY-1) placed from their PGY-3 listing on 2014-15 and alumni class of 2019.",
+  "2013-2014": "SIGNIFICANT. Same gap. Reconstructed 13; Kole/Mushlin PGY-1 from PGY-2 on 2014-15 and alumni class of 2020.",
+  "2014-2015": "residents.asp 2014-11-22, header 'Neurosurgery Residents ~ 2014-2015'. Complete: 13 (class of 2015 = Slavin only).",
+  "2015-2016": "SIGNIFICANT. All residents.asp captures 2015-05..2016-10 (5 content versions) still show the '2014-2015' list; new site's first capture 2017-03-31 also shows it. Reconstructed all 14 (bracketed by 2014-15 and 2016-17 rosters; Cannarsa/Chryssikos PGY-1 from PGY-2 on 2016-17 and alumni class of 2022).",
+  "2016-2017": "No Aug-Jan capture with the new list; 2017-04-13 (spring) is the first 2016-17 version (Lewis/Patel PGY-7).",
+  "2017-2018": "Page stale (2016-17 list) through 2018-03-31; 2018-05-15 capture is the 2017-18 list (Han/Sharma PGY-1, Hersh/Le PGY-7). Spring capture.",
+  "2019-2020": "2019-08-26 capture (last capture of the umaryland page; umms.org roster page not captured until 2020-09).",
+  "2026-2027": "Live page 2026-09-27; advanced (Class of 2033 PGY-1)."
+ },
+ "alumni_page": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+ "alumni_note": "Live alumni page lists graduates through 2024 only (no 2025/2026 entries). 25 graduates 2012-2024 inserted into training_history.",
+ "departures": [
+  {
+   "name": "Abdul-Kareem Ahmed",
+   "last_ay": "2023-2024",
+   "last_pgy": 6,
+   "outcome": "left, destination unknown",
+   "note": "On bios page 2024-04-21 (PGY-6, class of 2025); absent from residents page from 2024-07-13 on and from 2025-26/2026-27. Last UMSOM Neurosurgery PubMed affiliation Jul 2024; no later neurosurgery affiliation anywhere; not on any other program roster; NPPES not updated since 2018. training_history: completed=no, departure_type=unknown, end_year 2024."
+  },
+  {
+   "name": "Adam Hunt",
+   "last_ay": "2025-2026",
+   "last_pgy": 1,
+   "outcome": "left after PGY-1, destination unknown",
+   "note": "PGY-1 2025-10 (SKMC Jefferson MD); absent from live 2026-27 page; no 2025+ PubMed affiliation; not on any other program roster. training_history: completed=no, departure_type=unknown, end_year 2026."
+  },
+  {
+   "name": "Ryan Nowak (pre-window)",
+   "last_ay": "2009-2010",
+   "last_pgy": 2,
+   "outcome": "switched to radiation oncology before 2011-12",
+   "note": "UNMC Radiation Oncology 'Meet the Residents' (https://web.archive.org/web/20131029140200/http://www.unmc.edu/radonc/residents.htm) lists Ryan Nowak MD as PGY-4; with that page no later than Oct 2013 he started rad onc by 2011-12 at the latest, so he left Maryland by June 2011 (outside the study window). PubMed 2015 UNMC Radiation Oncology, 2020 Sanford Sioux Falls. Not loaded; no training_history row (pre-window)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Ujwal Boddeti",
+   "first_ay": "2026-2027",
+   "first_pgy": 2,
+   "note": "TRANSFER IN from SUNY Upstate (program 63): live bios page says he 'completed his PGY-1 neurosurgery year at Upstate University Hospital' (2025-26). Program 63 has no 2025-26 roster, so he is unseen there; its agent should record a transfer out after PGY-1 2025-26. training_history row added at program 89 (start 2026, PGY-2)."
+  }
+ ],
+ "residents_2011plus": 33,
+ "adjudication_summary": {
+  "COMPLETED": 28,
+  "IN_TRAINING": 14,
+  "LEFT_did_not_complete": 2,
+  "note": "16_adjudicate rerun 2026-09-28 after phase 2; Ahmed and Hunt are the 2 LEFT."
+ },
+ "problems": "No roster captures 2010-06..2014-11; 2015-16 page frozen. OpenAlex daily budget exhausted for this IP (not used). No failed Common Crawl crawls.",
+ "years": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster capture exists (2010-06..2014-11). Every class holds exactly the complement of 2 on both bracketing rosters and all graduated; NPPES enumeration dates match the inferred entry years (Hersh 2011-05, Hayman 2012-04, Jones 2012-04, Kole 2013-04, Mushlin 2013-04; Lewis 2010-07, Patel 2010-06), so these are straight PGY-1 entrants, not transfers-in; Le is Hersh's classmate (UMSOM MD, alumni class 2018). Nowak (only pre-window loss) was a Nebraska radiation oncology resident by 2011 (UNMC page), so he left before 2011-12. PubMed 2010-2016 affiliation mining found no unlisted resident. Residual: a 3rd, over-complement resident entering and leaving inside 2011-14 is unobservable."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster capture exists (2010-06..2014-11). Every class holds exactly the complement of 2 on both bracketing rosters and all graduated; NPPES enumeration dates match the inferred entry years (Hersh 2011-05, Hayman 2012-04, Jones 2012-04, Kole 2013-04, Mushlin 2013-04; Lewis 2010-07, Patel 2010-06), so these are straight PGY-1 entrants, not transfers-in; Le is Hersh's classmate (UMSOM MD, alumni class 2018). Nowak (only pre-window loss) was a Nebraska radiation oncology resident by 2011 (UNMC page), so he left before 2011-12. PubMed 2010-2016 affiliation mining found no unlisted resident. Residual: a 3rd, over-complement resident entering and leaving inside 2011-14 is unobservable."
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster capture exists (2010-06..2014-11). Every class holds exactly the complement of 2 on both bracketing rosters and all graduated; NPPES enumeration dates match the inferred entry years (Hersh 2011-05, Hayman 2012-04, Jones 2012-04, Kole 2013-04, Mushlin 2013-04; Lewis 2010-07, Patel 2010-06), so these are straight PGY-1 entrants, not transfers-in; Le is Hersh's classmate (UMSOM MD, alumni class 2018). Nowak (only pre-window loss) was a Nebraska radiation oncology resident by 2011 (UNMC page), so he left before 2011-12. PubMed 2010-2016 affiliation mining found no unlisted resident. Residual: a 3rd, over-complement resident entering and leaving inside 2011-14 is unobservable."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster capture in year."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Page frozen; all 14 bracketed by 2014-15 and 2016-17 rosters; Cannarsa/Chryssikos NPPES enumerated 2015-03/2015-07 (2015 PGY-1 entry confirmed); complement 2 full in every class, so an unseen joiner/leaver would need an extra slot."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Spring (2017-04) capture; bracketed by 2014-15 and 2017-18, all classes full."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Spring (2018-05) capture; all classes full."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster capture in year."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster capture in year."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster capture in year."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster capture in year."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster capture in year."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster capture in year."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster capture in year."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster capture in year."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Roster capture in year."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2010-2016 over neurosurgery.umaryland.edu, umm.edu/programs/neurosciences, umm.edu/neurosciences, umm.edu/professionals/gme, umm.edu/news, medschool.umaryland.edu/neurosurgery, /gme, /surgery (no roster; alumni.asp 404 2013-10)",
+   "linkaudit 2010-2015 from dept default.asp, dept root, UMMC neurosurgery-residency page, medschool/neurosurgery (no roster links)",
+   "Common Crawl 2011-2016 (30 crawls) on edu,umm)/programs/neurosciences/professionals/neurosurgery and edu,umaryland,medschool)/neurosurgery: 31 captures of the description page only, no names; phase-1 CC on neurosurgery.umaryland.edu already used the fixed filter; no failed crawls",
+   "PubMed affiliation mining 'University of Maryland' + neurosurg 2010-2016 (218 PMIDs)",
+   "NPPES enumeration dates for all 2009-2016 entrants",
+   "PubMed/Europe PMC per-person for Ahmed, Hunt, Boddeti, Nowak; live umms bios page; umms residents/bios/alumni CDX 2024-2026",
+   "UNMC radiation oncology residents pages (Nowak)",
+   "crossmatch.json: no entries for program 89"
+  ],
+  "found": [
+   "Boddeti transfer-in from SUNY Upstate PGY-1 2025-26 (live bios)",
+   "Nowak switched to UNMC radiation oncology, left Maryland by 2011 (pre-window)",
+   "NPPES dates confirm straight PGY-1 entry for Hersh, Hayman, Jones, Kole, Mushlin, Cannarsa, Chryssikos",
+   "Ahmed departure dated to between 2024-04-21 and 2024-07-13; no destination",
+   "No unlisted residents in PubMed 2010-2016"
+  ],
+  "remaining": [
+   "2011-12..2013-14 and 2015-16 still reconstructed (no roster exists); significance low",
+   "Ahmed and Hunt destinations unknown",
+   "Elizabeth Le has no NPPES record to confirm 2011 entry (low risk: UMSOM MD, class of 2018 with Hersh)"
+  ]
+ }
+}

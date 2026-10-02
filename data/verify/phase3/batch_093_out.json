@@ -1,0 +1,1045 @@
+[
+ {
+  "key": "70:dan:butler",
+  "name": "Danner Butler",
+  "program_id": 70,
+  "identity": "confirmed",
+  "identity_basis": "UAB Neurosurgery X post lists Dr. Danner Butler as PGY1 resident / new resident #UABMatchDay2025",
+  "residency_stated": [
+   {
+    "institution": "University of Alabama Hospital (Birmingham)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY1 in 2025-26 per UAB Neurosurgery X post; no completion expected",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/NeurosurgeryUab/status/1974132031220236597",
+    "type": "news",
+    "evidence": "PGY1 Resident Dr. Danner Butler analyzes malpractice litigation in skull base..."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "70:mad:patrick",
+  "name": "Madison Patrick",
+  "program_id": 70,
+  "identity": "confirmed",
+  "identity_basis": "UAB neurosurgery PGY2 resident page; Doximity Birmingham AL FSU College of Medicine Class of 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Alabama Hospital (Birmingham)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UAB current residents PGY2 page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uab.edu/medicine/neurosurgery/education/residency/current-residents/pgy2/patrick-madison-m-d",
+    "type": "program_page",
+    "evidence": "Patrick, Madison, M.D. | Neurosurgery (PGY2 page)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/madison-patrick-md-ad4f69da",
+    "type": "doximity",
+    "evidence": "Florida State University College of Medicine, Class of 2025; Birmingham AL; no residency listed"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "70:mat:jarrell",
+  "name": "Matthew Jarrell",
+  "program_id": 70,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery, University of Alabama Hospital (Birmingham) 2026-2033; UAB MD 2026",
+  "residency_stated": [
+   {
+    "institution": "University of Alabama Hospital (Birmingham)",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY1 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY1), UAB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-jarrell-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2026 - 2033"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "70:max:knott",
+  "name": "Maxon Knott",
+  "program_id": 70,
+  "identity": "confirmed",
+  "identity_basis": "UAB neurosurgery PGY-1 resident page; Univ of Miami MD",
+  "residency_stated": [
+   {
+    "institution": "University of Alabama Hospital (Birmingham)",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UAB PGY-1 page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY1), UAB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uab.edu/medicine/neurosurgery/education/residency/current-residents/pgy-1/knott-maxon-m-d",
+    "type": "program_page",
+    "evidence": "Knott, Maxon, M.D. | Neurosurgery (PGY-1)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "70:th:weidenkopf",
+  "name": "Thérèse Weidenkopf",
+  "program_id": 70,
+  "identity": "confirmed",
+  "identity_basis": "UAB PGY-1 residents page lists Thérèse Weidenkopf, M.D.; VCU med student with neurosurgery interest",
+  "residency_stated": [
+   {
+    "institution": "University of Alabama Hospital (Birmingham)",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as current PGY-1 on UAB page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAB (per DB)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://news.vcu.edu/article/2024/10/medical-students-gain-confidence-and-experience-through-neurosurgery-mentorship",
+    "type": "news",
+    "evidence": "VCU medical student, neurosurgery mentorship"
+   },
+   {
+    "url": "https://www.uab.edu/medicine/neurosurgery/education/residency/current-residents/pgy-1",
+    "type": "program_page",
+    "evidence": "Thérèse Weidenkopf, M.D. listed as PGY-1"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "71:kri:nosova",
+  "name": "Kristin Nosova",
+  "program_id": 71,
+  "identity": "confirmed",
+  "identity_basis": "Phoenix current-residents page lists Kristin Nosova MD (PGY 7), University of Louisville School of Medicine; Doximity: Louisville Class of 2018, AZ license",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine - Phoenix",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY 7 on Phoenix page. Web snippets describe her earlier as UC Davis neurosurgery resident (consistent with DB transfer-in note); Doximity does not list residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY7), Banner University Medical Center Phoenix",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://phoenixmed.arizona.edu/neurosurgery-residency/who-we-are/current-residents",
+    "type": "program_page",
+    "evidence": "PGY 7: Kristin Nosova, MD - University of Louisville School of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kristin-nosova-md",
+    "type": "doximity",
+    "evidence": "University of Louisville School of Medicine, Class of 2018; AZ State Medical License 2022-2028; CA license 2019-2027"
+   },
+   {
+    "url": "https://aans2024.eventscribe.net/ajaxcalls/presenterInfo.asp?PresenterId=1801954",
+    "type": "search_snippet",
+    "evidence": "search result summary: neurosurgery resident at UC Davis"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "71:zac:wetsel",
+  "name": "Zachary Wetsel",
+  "program_id": 71,
+  "identity": "confirmed",
+  "identity_basis": "Phoenix page lists Zachary Wetsel DO PGY 5 (William Carey COM); Doximity Phoenix neurosurgery, William Carey 2019, UMMC neurosurgery 2019-2022",
+  "residency_stated": [
+   {
+    "institution": "University of Mississippi Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2022
+   },
+   {
+    "institution": "HCA Florida Healthcare/Aventura Hospital",
+    "specialty": "emergency medicine",
+    "start": 2022,
+    "end": 2025
+   },
+   {
+    "institution": "University of Arizona College of Medicine - Phoenix",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Transfer in to Phoenix; Doximity shows UMMC neurosurgery 2019-2022, then EM residency at HCA Florida Aventura 2022-2025 (differs from DB note that says BMC/BU research interval; Doximity summary also lists Boston Medical Center as resident position)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY5), Banner University Medical Center Phoenix",
+  "agrees_with_db": true,
+  "disagreement": "Doximity lists an Emergency Medicine residency at HCA Florida Aventura 2022-2025 during the gap between UMMC and Phoenix (DB note: BMC/BU research interval); outcome at Phoenix unaffected",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/zach-wetsel-do",
+    "type": "doximity",
+    "evidence": "Residency, Emergency Medicine, 2022 - 2025 (HCA Florida Aventura); Residency, Neurological Surgery, 2019 - 2022 (UMMC)"
+   },
+   {
+    "url": "https://phoenixmed.arizona.edu/neurosurgery-residency/who-we-are/current-residents",
+    "type": "program_page",
+    "evidence": "PGY 5: Zachary Wetsel, DO - William Carey University College of Osteopathic Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "71:gio:barbagli",
+  "name": "Giovanni Barbagli",
+  "program_id": 71,
+  "identity": "confirmed",
+  "identity_basis": "Phoenix page lists Giovanni Barbagli MD PGY 3 (Firenze); Doximity: residency Neurological Surgery UACOM-P 2024-2032",
+  "residency_stated": [
+   {
+    "institution": "Universita degli Studi di Firenze - Careggi",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2019
+   },
+   {
+    "institution": "University of Arizona College of Medicine - Phoenix",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Italian-trained neurosurgeon repeating US residency; PGY3 in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY3), Banner University Medical Center Phoenix",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/giovanni-barbagli-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2032, University of Arizona College of Medicine - Phoenix"
+   },
+   {
+    "url": "https://phoenixmed.arizona.edu/neurosurgery-residency/who-we-are/current-residents",
+    "type": "program_page",
+    "evidence": "PGY 3: Giovanni Barbagli, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "71:ash:carter",
+  "name": "Ashley Carter",
+  "program_id": 71,
+  "identity": "probable",
+  "identity_basis": "Phoenix current-residents page lists Ashley Carter MD (PGY 2), Eastern Virginia Medical School; Barbagli 2026 SNI paper coauthors Ashley Carter at same program. Doximity/other 'Ashley Carter' results are unrelated (Glendale EM physician)",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine - Phoenix",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY2 in 2026-27 per program page; prior general surgery PGY1 not verified here",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY2), UACOM-Phoenix",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://phoenixmed.arizona.edu/neurosurgery-residency/who-we-are/current-residents",
+    "type": "program_page",
+    "evidence": "PGY 2: Ashley Carter, MD - Eastern Virginia Medical School"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "71:izz:bauer",
+  "name": "Izzi Bauer",
+  "program_id": 71,
+  "identity": "confirmed",
+  "identity_basis": "Phoenix match-day profile and current residents page (PGY 2, UACOM-P MD); Doximity Isabel Bauer MD UACOM-P Class of 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine - Phoenix",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY2 in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY2), UACOM-Phoenix",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://phoenixmed.arizona.edu/match2025-bauer",
+    "type": "program_page",
+    "evidence": "Match Day Profile: Izzi Bauer"
+   },
+   {
+    "url": "https://www.doximity.com/pub/isabel-bauer-md",
+    "type": "doximity",
+    "evidence": "University of Arizona College of Medicine - Phoenix, Class of 2025; Phoenix AZ"
+   },
+   {
+    "url": "https://phoenixmed.arizona.edu/neurosurgery-residency/who-we-are/current-residents",
+    "type": "program_page",
+    "evidence": "PGY 2: Izzi Bauer, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "71:a:davidar",
+  "name": "A. Daniel Davidar",
+  "program_id": 71,
+  "identity": "confirmed",
+  "identity_basis": "Phoenix page lists A. Daniel Davidar MBBS PGY 1 (PSG Coimbatore); publications with Arizona/Theodore lab",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine - Phoenix",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY1 2026-27; previously JHU research fellow",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY1), UACOM-Phoenix",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://phoenixmed.arizona.edu/neurosurgery-residency/who-we-are/current-residents",
+    "type": "program_page",
+    "evidence": "PGY 1: A. Daniel Davidar, MBBS - P.S.G. Institute of Medical Sciences and Research"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:she:palejwala",
+  "name": "Sheri Palejwala",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UA Tucson 2011-2017, Saint Louis Univ MD 2011; ABNS listed; bio says neurosurgical training at U of Arizona Tucson, chief resident",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2017
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Tucson residency; fellowships Barrow and John Wayne Cancer Institute; practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Coast Neurosurgical Associates, Long Beach CA",
+  "agrees_with_db": true,
+  "disagreement": "Doximity residency end 2017 vs DB last_pgy 6 (2011-12 to 2016-17 = 6 years; consistent)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sheri-palejwala-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2017; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.coastneurosurgery.com/provider/sheri-palejwala-m-d",
+    "type": "bio",
+    "evidence": "search snippet: completed her neurosurgical training at the University of Arizona in Tucson serving as chief resident"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:nik:martirosyan",
+  "name": "Nikolay Martirosyan",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UA Tucson 2012-2019; ABNS; Banner Phoenix bio",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed; then spine fellowship Barrow 2019",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Director of Spine Surgery, Banner University Medical Center Phoenix",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/nikolay-martirosyan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://doctors.bannerhealth.com/provider/nikolay-martirosyan/4851602",
+    "type": "bio",
+    "evidence": "search snippet: completed neurosurgery residency at the University of Arizona"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:rob:bina",
+  "name": "Robert Bina",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UA Tucson 2013-2020; UACOM-Phoenix MD 2013; ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed; fellowship Louisville 2021 (per Healthgrades snippet)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (functional/epilepsy), Banner University Medical Center Phoenix; faculty UACOM-P",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/robert-bina-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://phoenixmed.arizona.edu/directory/bina-robert",
+    "type": "bio",
+    "evidence": "UACOM-P faculty directory (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:wya:ramey",
+  "name": "Wyatt Ramey",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UA Tucson 2014-2021, Creighton MD 2014; ABNS; Memorial Hermann bio",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed; fellowships in complex spine (Tucson and Swedish Seattle)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Memorial Hermann/Houston Methodist, Cypress TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/wyatt-ramey-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://memorialhermann.org/about-us/newsroom/press-releases/wyatt-ramey-md-joins-mischer-neuroscience-associates-cypress",
+    "type": "bio",
+    "evidence": "search snippet: residency in neurosurgery at Banner-University Medical Center in Tucson"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:leo:brasiliense",
+  "name": "Leonardo Brasiliense",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UA Tucson 2015-2022; bio: neurosurgery residency at University of Arizona",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed; cerebrovascular/endovascular fellowships Baptist Jacksonville and Swedish Seattle",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Saint Alphonsus, Boise ID",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/leonardo-brasiliense-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022"
+   },
+   {
+    "url": "https://www.saintalphonsus.org/provider/leonardo-brasiliense",
+    "type": "bio",
+    "evidence": "search snippet: completed his Neurosurgery residency at University of Arizona"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:mau:avila",
+  "name": "Mauricio Avila",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "UA Tucson neurosurgery alumni list (2023); SLUCare bio: residency at Banner University Medical Center Tucson, Javeriana MD 2013",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023 per Tucson alumni list; now faculty",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), assistant professor, Saint Louis University / SSM Health",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.arizona.edu/neurosurgery//residency/current-residents",
+    "type": "program_page",
+    "evidence": "Alumni 2023: Mauricio J. Avila, MD"
+   },
+   {
+    "url": "https://www.getcare.ssmhealth.com/find-a-doctor/doctor-details/mauricio-avila-md",
+    "type": "bio",
+    "evidence": "search snippet: completed his residency at Banner University Medical Center Tucson"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "72:aar:burket",
+  "name": "Aaron Burket",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "UA Tucson alumni list (2024); Kettering Health bio: UNT MD, neurosurgical residency and complex spine fellowship at University of Arizona Tucson",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2024 per Tucson alumni list; spine fellowship; now USAF neurosurgeon per bio",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Kettering Health, Dayton OH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.arizona.edu/neurosurgery//residency/current-residents",
+    "type": "program_page",
+    "evidence": "Alumni 2024: Aaron R. Burket, DO"
+   },
+   {
+    "url": "https://ketteringhealth.org/doctors/aaron-burket-1750736997/",
+    "type": "bio",
+    "evidence": "search snippet: completed his neurosurgical residency training and a subspecialty fellowship in complex spine surgery at the University of Arizona"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "72:ped:salinas",
+  "name": "Pedro Aguilar Salinas",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UA Tucson 2018-2025; Tucson alumni list 2025; Baptist Health bio",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2025; then cerebrovascular fellowship Baptist Health Jacksonville",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon/cerebrovascular fellow, Baptist Health, Jacksonville FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/pedro-aguilarsalinas-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025, University of Arizona College of Medicine-Tucson"
+   },
+   {
+    "url": "https://medicine.arizona.edu/neurosurgery//residency/current-residents",
+    "type": "program_page",
+    "evidence": "Alumni 2025: Pedro Aguilar Salinas, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:nei:joshi",
+  "name": "Neil Joshi",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UA Tucson 2019-2026, Michigan State MD 2019; Tucson alumni list 2026",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2026 (Tucson alumni list); joining UA faculty per search snippet",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, University of Arizona Tucson (faculty)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/neil-joshi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026"
+   },
+   {
+    "url": "https://medicine.arizona.edu/neurosurgery//residency/current-residents",
+    "type": "program_page",
+    "evidence": "Alumni 2026: Neil D. Joshi, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:rya:palsma",
+  "name": "Ryan Palsma",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UA Tucson 2020-2027; Tucson current residents PGY-7; UA MD 2020",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": "2020",
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY7 in 2026-27; fellowship in complex spine planned per snippet",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY7, chief), Banner University Medical Center Tucson",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-palsma-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027"
+   },
+   {
+    "url": "https://medicine.arizona.edu/neurosurgery//residency/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-7: Ryan Palsma, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:has:sumdani",
+  "name": "Hasan Sumdani",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Tucson current residents PGY-6; UA neurosurgery profile page; Texas A&M MD",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": "2021",
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY6 in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY6), Banner University Medical Center Tucson",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.arizona.edu/neurosurgery//residency/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-6: Hasan Sumdani, MD"
+   },
+   {
+    "url": "https://neurosurgery.arizona.edu/profile/hasan-sumdani-md",
+    "type": "program_page",
+    "evidence": "Hasan Sumdani, MD | Neurosurgery Department"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:bre:sheldon",
+  "name": "Breanna Sheldon",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Tucson current residents page (PGY-5 chief); UA faculty directory profile; MD Albany Medical College",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": "2022",
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY5 in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY5), Banner University Medical Center Tucson",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.arizona.edu/neurosurgery//residency/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-5: Breanna L. Sheldon, MD, MS (Chief Resident)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:dar:farhadi",
+  "name": "Dara Farhadi",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Tucson current residents page (PGY-3 listing); UACOM-Phoenix MD white coat profile",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": "2023",
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on program page as PGY-3 (DB: PGY4 in 2026-27; page level may lag a year)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Banner University Medical Center Tucson",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.arizona.edu/neurosurgery//residency/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-3: Dara Sam Farhadi, MD, MS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:kar:naamani",
+  "name": "Kareem El Naamani",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Tucson current residents page (PGY-2 listing); UA profile; Lebanese American Univ MD; Match 2024 tweet",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": "2024",
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on program page as PGY-2 (DB: PGY3 in 2026-27; page level may lag a year)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Banner University Medical Center Tucson",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.arizona.edu/neurosurgery//residency/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-2: Kareem El Naamani, MD"
+   },
+   {
+    "url": "https://medicine.arizona.edu/person/kareem-el-naamani-md",
+    "type": "program_page",
+    "evidence": "Kareem El Naamani, MD | College of Medicine - Tucson"
+   }
+  ],
+  "searches_used": 2
+ }
+]

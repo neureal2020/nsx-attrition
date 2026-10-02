@@ -1,0 +1,413 @@
+[
+ {
+  "key": "60:naj:tecle",
+  "name": "Najib El Tecle",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "first_pgy": 1,
+  "last_seen": "2020-2021",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:mah:khan",
+  "name": "Maheen Khan",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2015,
+  "first_seen": "2015-2016",
+  "first_pgy": 1,
+  "last_seen": "2021-2022",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "recorded_notes": [],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:mic:prim",
+  "name": "Michael Prim",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2015,
+  "first_seen": "2015-2016",
+  "first_pgy": 1,
+  "last_seen": "2021-2022",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "verification batch 11 (high): Banner Health provider bio (Michael Prim, MD): MD from UTHealth Houston 2015. Residency in Neurosurgery at SSM Health Saint Louis University Hospital, completed 2022. Spi"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:dou:snyder",
+  "name": "Douglas Snyder",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2016,
+  "first_seen": "2016-2017",
+  "first_pgy": 1,
+  "last_seen": "2017-2018",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "recorded_notes": [
+   "SSM bio: 'Residency, 2017 Saint Louis University' (one year); internship 2019; ophthalmology residency NEOMED to 2022 -> ATTRITION + SPECIALTY SWITCH | Common Crawl Sep 2017 roster still lists him as ",
+   "verification batch 12: SLU NS 2016-2018; ophthalmology: prelim SLU 2018-19, residency SLU 2019-22, neuro-ophthalmology fellowship WashU 2022-23"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:rya:cleary",
+  "name": "Ryan Cleary",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "first_pgy": 1,
+  "last_seen": "2021-2022",
+  "last_pgy": 5,
+  "recorded_outcome": "LEFT -> TRANSFERRED (Washington University/B-JH/SLCH)",
+  "recorded_notes": [
+   "Program report: TRANSFERRED to another neurosurgery program. Left SLU roster after PGY-5 (AY2021-22). NPPES shows neurosurgery taxonomy in VA -- consistent with continuing elsewhere. | CONFIRMED 2026-"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:muh:kandel",
+  "name": "Muhammad Kandel",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2018,
+  "first_seen": "2023-2024",
+  "first_pgy": 6,
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "JOINED MID-PROGRAM: not on Sep 2021 roster (PGY4 = Alexopoulos only); first listed Dec 2023 as PGY6 (2022-23 page never updated, so join year 2022 or 2023); PGY7 chief 2024-25; MD Ain Shams 2003 (fore"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:jor:urquiaga",
+  "name": "Jorge Urquiaga",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "first_pgy": 1,
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "MD Peru 2015; roster PGY2 2020-21 .. PGY7 2025-26; not on 2026-27 page -> graduated 2026"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:nab:quadri",
+  "name": "Nabiha Quadri",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "first_pgy": 1,
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "SLU MD 2019; roster PGY1 (derived) .. PGY7 chief 2025-26; not on 2026-27 page -> graduated 2026"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:nic:musgrave",
+  "name": "Nicholas Musgrave",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "first_pgy": 1,
+  "last_seen": "2026-2027",
+  "last_pgy": 6,
+  "recorded_outcome": "IN TRAINING",
+  "recorded_notes": [],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:jak:hockman",
+  "name": "Jakob Hockman",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "first_pgy": 1,
+  "last_seen": "2026-2027",
+  "last_pgy": 5,
+  "recorded_outcome": "IN TRAINING",
+  "recorded_notes": [],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:mic:fiorino",
+  "name": "Michael Fiorino",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "first_pgy": 1,
+  "last_seen": "2026-2027",
+  "last_pgy": 5,
+  "recorded_outcome": "IN TRAINING",
+  "recorded_notes": [],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:may:patel",
+  "name": "Mayur Patel",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "first_pgy": 1,
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "recorded_notes": [],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:sar:zwick",
+  "name": "Sarah Zwick",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "first_pgy": 1,
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "recorded_notes": [],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "60:sam:baum",
+  "name": "Samuel Baum",
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "first_pgy": 1,
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "recorded_notes": [],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:der:southwell",
+  "name": "Derek Southwell",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2011,
+  "first_seen": "2011-2012",
+  "first_pgy": 1,
+  "last_seen": "2012-2013",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> TRANSFERRED (UCSF)",
+  "recorded_notes": [
+   "[phase2 p61] TRANSFER OUT to UCSF (program 76): Stanford PGY-1 2011-12, PGY-2 2012-13 (May 2013 roster); absent from the Dec 2013 Stanford roster; UCSF roster from Dec 2013 at PGY-3, UCSF alumni 2018 "
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:kai:miller",
+  "name": "Kai Miller",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2011,
+  "first_seen": "2011-2012",
+  "first_pgy": 1,
+  "last_seen": "2017-2018",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "recorded_notes": [
+   "Stanford DURA alumni page graduation year"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:lin:xu",
+  "name": "Linda Xu",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2011,
+  "first_seen": "2011-2012",
+  "first_pgy": 1,
+  "last_seen": "2017-2018",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "Stanford DURA alumni page graduation year"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:adr:moraff",
+  "name": "Adrienne Moraff",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2012,
+  "first_seen": "2013-2014",
+  "first_pgy": 2,
+  "last_seen": "2018-2019",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "Stanford DURA alumni page graduation year",
+   "[phase2 p61] TRANSFER IN from another specialty at PGY-2 in 2013-14: orthopaedic surgery PGY-1 2012-13 at University Hospitals Case Medical Center / Case Western Reserve University (DURA bio; CAP prof"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:jas:yoon",
+  "name": "Jason Yoon",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2012,
+  "first_seen": "2012-2013",
+  "first_pgy": 1,
+  "last_seen": "2014-2015",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "recorded_notes": [
+   "[phase2 p61] SWITCHED SPECIALTY to diagnostic radiology. Byung 'Jason' Yoon MD PhD (JHU MD 2012, Cambridge PhD): Stanford NS PGY-1 2012-13, PGY-2 2013-14, listed PGY-3 2014-15 until 2014-09-02, remove"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:lau:prolo",
+  "name": "Laura Prolo",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2012,
+  "first_seen": "2012-2013",
+  "first_pgy": 1,
+  "last_seen": "2018-2019",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "Stanford DURA alumni page graduation year"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:yi-:chen",
+  "name": "Yi-Ren Chen",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2012,
+  "first_seen": "2012-2013",
+  "first_pgy": 1,
+  "last_seen": "2018-2019",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "Stanford DURA alumni page graduation year"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:adi:iyer",
+  "name": "Aditya Iyer",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2013,
+  "first_seen": "2013-2014",
+  "first_pgy": 1,
+  "last_seen": "2019-2020",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "Stanford DURA alumni page graduation year"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:der:yecies",
+  "name": "Derek Yecies",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2013,
+  "first_seen": "2013-2014",
+  "first_pgy": 1,
+  "last_seen": "2019-2020",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "Stanford DURA alumni page graduation year"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:kev:chow",
+  "name": "Kevin Chow",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2013,
+  "first_seen": "2013-2014",
+  "first_pgy": 1,
+  "last_seen": "2019-2020",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "recorded_notes": [
+   "Stanford DURA alumni page graduation year (listed as Kwong-Hon (Kevin) Chow)"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ },
+ {
+  "key": "61:all:ho",
+  "name": "Allen Ho",
+  "program_id": 61,
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "first_pgy": 1,
+  "last_seen": "2020-2021",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "recorded_notes": [
+   "Stanford DURA alumni page graduation year"
+  ],
+  "tier": 3,
+  "question": "Confirm residency program and years (and completion if finished)."
+ }
+]

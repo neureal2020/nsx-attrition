@@ -1,0 +1,584 @@
+[
+ {
+  "source_url": "manual",
+  "source_type": "manual",
+  "captured_at": "2012-06-30",
+  "academic_year": "2011-2012",
+  "note": "No residents.php capture between 2011-02-03 and 2012-07-22 (Wayback) nor in Common Crawl; reconstructed from bracketing rosters, alumni page and the Nov-2011 new-resident news item.",
+  "rows": [
+   {
+    "name": "Mark Hoeprich",
+    "pgy": 7,
+    "context": "reconstructed: Resident Year 6 on 2011-02 roster; alumni page graduation 2012",
+    "reconstructed": true
+   },
+   {
+    "name": "Neelesh Nundkumar",
+    "pgy": 6,
+    "context": "reconstructed: Year 5 on 2011-02 roster, Chief Resident 2012-13; alumni grad 2013",
+    "reconstructed": true
+   },
+   {
+    "name": "David Hong",
+    "pgy": 5,
+    "context": "reconstructed: Year 4 on 2011-02 roster, listed 2012-13; alumni grad 2014",
+    "reconstructed": true
+   },
+   {
+    "name": "Verrad Nyame",
+    "pgy": 4,
+    "context": "reconstructed: Year 3 on 2011-02 roster, listed 2012-13; alumni grad 2015",
+    "reconstructed": true
+   },
+   {
+    "name": "Neena Marupudi",
+    "pgy": 3,
+    "context": "reconstructed: Year 2 on 2011-02 roster, Year 4 2012-13; alumni grad 2016",
+    "reconstructed": true
+   },
+   {
+    "name": "Matthew Schreckinger",
+    "pgy": 2,
+    "context": "reconstructed: Year 1 on 2011-02 roster, Year 3 2012-13; alumni grad 2017",
+    "reconstructed": true
+   },
+   {
+    "name": "Elizabeth Klein",
+    "pgy": 1,
+    "context": "reconstructed: 'Neurosurgery Welcomes New Resident' (new-resident-spotlight.php, Nov 2011) + Year 2 on 2012-13 roster",
+    "reconstructed": true
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20120916101821/http://neurosurgery.med.wayne.edu:80/residents.php",
+  "source_type": "wayback",
+  "captured_at": "2012-09-16",
+  "academic_year": "2012-2013",
+  "note": "'Year N' = PGY-N, 'Chief Resident' = PGY-7 (7-yr program; alumni years confirm). Same content captured 2012-07-22 through 2013-07-05 (page not updated in 2013).",
+  "rows": [
+   {
+    "name": "Neelesh Nundkumar",
+    "pgy": 7,
+    "context": "Neelesh Crumsan Nundkumar | Chief Resident"
+   },
+   {
+    "name": "David Hong",
+    "pgy": 6,
+    "context": "Resident, Year 5 (label not advanced; 2011-02 Year 4, alumni grad 2014 => PGY-6)"
+   },
+   {
+    "name": "Neena Marupudi",
+    "pgy": 4,
+    "context": "Neena Ishwari Marupudi | Resident, Year 4"
+   },
+   {
+    "name": "Verrad Nyame",
+    "pgy": 5,
+    "context": "Resident, Year 4 (label not advanced; 2011-02 Year 3, alumni grad 2015 => PGY-5)"
+   },
+   {
+    "name": "Matthew Schreckinger",
+    "pgy": 3,
+    "context": "Matthew R. Schreckinger | Resident, Year 3"
+   },
+   {
+    "name": "Elizabeth Klein",
+    "pgy": 2,
+    "context": "Elizabeth Delores Klein | Resident, Year 2"
+   },
+   {
+    "name": "Gary Rajah",
+    "pgy": 1,
+    "context": "Gary Benjamin Rajah, Jr., MD | Resident, Year 1 (matched Mar 2012 per news)"
+   }
+  ]
+ },
+ {
+  "source_url": "manual",
+  "source_type": "manual",
+  "captured_at": "2014-06-30",
+  "academic_year": "2013-2014",
+  "note": "No residents.php capture between 2013-07-05 (stale 2012-13 content) and 2015-01-19; no Common Crawl hit. Only bracketed residents reconstructed; Khaled, Boylan, Chamiraju (first seen 2014-15) not reconstructed.",
+  "rows": [
+   {
+    "name": "David Hong",
+    "pgy": 7,
+    "context": "reconstructed: listed 2012-13; alumni page graduation 2014",
+    "reconstructed": true
+   },
+   {
+    "name": "Verrad Nyame",
+    "pgy": 6,
+    "context": "reconstructed: listed 2012-13 and 2014-15 (Chief); alumni grad 2015",
+    "reconstructed": true
+   },
+   {
+    "name": "Neena Marupudi",
+    "pgy": 5,
+    "context": "reconstructed: Year 4 2012-13, Year 6 2014-15; alumni grad 2016",
+    "reconstructed": true
+   },
+   {
+    "name": "Matthew Schreckinger",
+    "pgy": 4,
+    "context": "reconstructed: Year 3 2012-13, Year 5 2014-15",
+    "reconstructed": true
+   },
+   {
+    "name": "Elizabeth Klein",
+    "pgy": 3,
+    "context": "reconstructed: Year 2 2012-13, Year 4 2014-15",
+    "reconstructed": true
+   },
+   {
+    "name": "Gary Rajah",
+    "pgy": 2,
+    "context": "reconstructed: Year 1 2012-13, Year 3 2014-15",
+    "reconstructed": true
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20150119222059/http://neurosurgery.med.wayne.edu:80/residents.php",
+  "source_type": "wayback",
+  "captured_at": "2015-01-19",
+  "academic_year": "2014-2015",
+  "note": "No Year 2 listed (Erick Garcia Gorbea, Year 3 in 2015-16, absent).",
+  "rows": [
+   {
+    "name": "Mohamad Khaled",
+    "pgy": 7,
+    "context": "Chief Resident"
+   },
+   {
+    "name": "Verrad Nyame",
+    "pgy": 7,
+    "context": "Chief Resident (alumni grad 2015)"
+   },
+   {
+    "name": "Neena Marupudi",
+    "pgy": 6,
+    "context": "Resident, Year 6"
+   },
+   {
+    "name": "Arianne Boylan",
+    "pgy": 5,
+    "context": "Resident, Year 5"
+   },
+   {
+    "name": "Matthew Schreckinger",
+    "pgy": 5,
+    "context": "Resident, Year 5"
+   },
+   {
+    "name": "Elizabeth Klein",
+    "pgy": 4,
+    "context": "Resident, Year 4"
+   },
+   {
+    "name": "Parthasarathi Chamiraju",
+    "pgy": 3,
+    "context": "Resident, Year 3"
+   },
+   {
+    "name": "Gary Rajah",
+    "pgy": 3,
+    "context": "Gary Benjamin Rajah, Jr., MD | Resident, Year 3"
+   },
+   {
+    "name": "R. Justin Garling",
+    "pgy": 1,
+    "context": "Richard Garling | Resident, Year 1"
+   },
+   {
+    "name": "Farzana Tariq",
+    "pgy": 1,
+    "context": "Resident, Year 1"
+   },
+   {
+    "name": "Blake Walker",
+    "pgy": 1,
+    "context": "Resident, Year 1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20151127091826/http://neurosurgery.med.wayne.edu:80/residents.php",
+  "source_type": "wayback",
+  "captured_at": "2015-11-27",
+  "academic_year": "2015-2016",
+  "note": "",
+  "rows": [
+   {
+    "name": "Neena Marupudi",
+    "pgy": 7,
+    "context": "Chief Resident"
+   },
+   {
+    "name": "Arianne Boylan",
+    "pgy": 6,
+    "context": "Resident, Year 6"
+   },
+   {
+    "name": "Matthew Schreckinger",
+    "pgy": 6,
+    "context": "Resident, Year 6"
+   },
+   {
+    "name": "Elizabeth Klein",
+    "pgy": 5,
+    "context": "Resident, Year 5"
+   },
+   {
+    "name": "Parthasarathi Chamiraju",
+    "pgy": 4,
+    "context": "Resident, Year 4"
+   },
+   {
+    "name": "Gary Rajah",
+    "pgy": 4,
+    "context": "Resident, Year 4"
+   },
+   {
+    "name": "Erick Garcia Gorbea",
+    "pgy": 3,
+    "context": "Resident, Year 3"
+   },
+   {
+    "name": "R. Justin Garling",
+    "pgy": 2,
+    "context": "Resident, Year 2"
+   },
+   {
+    "name": "Farzana Tariq",
+    "pgy": 2,
+    "context": "Resident, Year 2"
+   },
+   {
+    "name": "Blake Walker",
+    "pgy": 2,
+    "context": "Resident, Year 2"
+   },
+   {
+    "name": "Seong-Jin Moon",
+    "pgy": 1,
+    "context": "Seong-Jin Moon, MD | Resident, Year 1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20161028105712/http://neurosurgery.med.wayne.edu:80/residents.php",
+  "source_type": "wayback",
+  "captured_at": "2016-10-28",
+  "academic_year": "2016-2017",
+  "note": "Klein (Year 5 in 2015-16) no longer listed.",
+  "rows": [
+   {
+    "name": "Arianne Boylan",
+    "pgy": 7,
+    "context": "Chief Resident"
+   },
+   {
+    "name": "Matthew Schreckinger",
+    "pgy": 7,
+    "context": "Chief Resident"
+   },
+   {
+    "name": "Clay Elswick",
+    "pgy": 6,
+    "context": "Resident, Year 6"
+   },
+   {
+    "name": "Marc Moisi",
+    "pgy": 6,
+    "context": "Resident, Year 6 (alumni page: graduated 2017)"
+   },
+   {
+    "name": "Parthasarathi Chamiraju",
+    "pgy": 5,
+    "context": "Resident, Year 5"
+   },
+   {
+    "name": "Gary Rajah",
+    "pgy": 5,
+    "context": "Resident, Year 5"
+   },
+   {
+    "name": "Erick Garcia Gorbea",
+    "pgy": 4,
+    "context": "Resident, Year 4"
+   },
+   {
+    "name": "R. Justin Garling",
+    "pgy": 3,
+    "context": "Resident, Year 3"
+   },
+   {
+    "name": "Farzana Tariq",
+    "pgy": 3,
+    "context": "Resident, Year 3"
+   },
+   {
+    "name": "Blake Walker",
+    "pgy": 3,
+    "context": "Resident, Year 3"
+   },
+   {
+    "name": "Bryan Lieber",
+    "pgy": 2,
+    "context": "Resident, Year 2"
+   },
+   {
+    "name": "Seong-Jin Moon",
+    "pgy": 2,
+    "context": "Resident, Year 2"
+   },
+   {
+    "name": "Catherine Peterson",
+    "pgy": 1,
+    "context": "Catherine (Kate) Peterson, MD | Resident, Year 1"
+   },
+   {
+    "name": "Manan Shah",
+    "pgy": 1,
+    "context": "Resident, Year 1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20180107212757/http://neurosurgery.med.wayne.edu:80/residents",
+  "source_type": "wayback",
+  "captured_at": "2018-01-07",
+  "academic_year": "2017-2018",
+  "note": "New WordPress-style site (2017-08+). Moisi, Garcia Gorbea gone.",
+  "rows": [
+   {
+    "name": "Clay Elswick",
+    "pgy": 7,
+    "context": "Neurosurgery, Year 7"
+   },
+   {
+    "name": "Parthasarathi Chamiraju",
+    "pgy": 6,
+    "context": "Neurosurgery, Year 6"
+   },
+   {
+    "name": "Gary Rajah",
+    "pgy": 6,
+    "context": "Gary Rajah, Jr. | Neurosurgery, Year 6"
+   },
+   {
+    "name": "R. Justin Garling",
+    "pgy": 4,
+    "context": "Neurosurgery, Year 4"
+   },
+   {
+    "name": "Farzana Tariq",
+    "pgy": 4,
+    "context": "Neurosurgery, Year 4"
+   },
+   {
+    "name": "Blake Walker",
+    "pgy": 4,
+    "context": "Neurosurgery, Year 4"
+   },
+   {
+    "name": "Bryan Lieber",
+    "pgy": 3,
+    "context": "Neurosurgery, Year 3"
+   },
+   {
+    "name": "Joshua Loya",
+    "pgy": 3,
+    "context": "Neurosurgery, Year 3"
+   },
+   {
+    "name": "Seong-Jin Moon",
+    "pgy": 3,
+    "context": "Neurosurgery, Year 3"
+   },
+   {
+    "name": "Catherine Peterson",
+    "pgy": 2,
+    "context": "Catherine (Kate) Peterson | Neurosurgery, Year 2"
+   },
+   {
+    "name": "Manan Shah",
+    "pgy": 2,
+    "context": "Neurosurgery, Year 2"
+   },
+   {
+    "name": "Dylan Goodrich",
+    "pgy": 1,
+    "context": "Neurosurgery, Year 1"
+   },
+   {
+    "name": "Neil Klinger",
+    "pgy": 1,
+    "context": "Neurosurgery, Year 1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20190203162924/http://neurosurgery.med.wayne.edu:80/residents",
+  "source_type": "wayback",
+  "captured_at": "2019-02-03",
+  "academic_year": "2018-2019",
+  "note": "Only capture between 2018-07-26 (still 2017-18) and 2019-11-17 (roster emptied). Tariq, Elswick gone.",
+  "rows": [
+   {
+    "name": "Parthasarathi Chamiraju",
+    "pgy": 7,
+    "context": "Neurosurgery, Year 7"
+   },
+   {
+    "name": "Gary Rajah",
+    "pgy": 7,
+    "context": "Gary Rajah, Jr. | Neurosurgery, Year 7"
+   },
+   {
+    "name": "R. Justin Garling",
+    "pgy": 5,
+    "context": "Neurosurgery, Year 5"
+   },
+   {
+    "name": "Blake Walker",
+    "pgy": 5,
+    "context": "Neurosurgery, Year 5"
+   },
+   {
+    "name": "Bryan Lieber",
+    "pgy": 4,
+    "context": "Neurosurgery, Year 4"
+   },
+   {
+    "name": "Joshua Loya",
+    "pgy": 4,
+    "context": "Neurosurgery, Year 4"
+   },
+   {
+    "name": "Seong-Jin Moon",
+    "pgy": 4,
+    "context": "Neurosurgery, Year 4"
+   },
+   {
+    "name": "Catherine Peterson",
+    "pgy": 3,
+    "context": "Catherine (Kate) Peterson | Neurosurgery, Year 3"
+   },
+   {
+    "name": "Manan Shah",
+    "pgy": 3,
+    "context": "Neurosurgery, Year 3"
+   },
+   {
+    "name": "Dylan Goodrich",
+    "pgy": 2,
+    "context": "Neurosurgery, Year 2"
+   },
+   {
+    "name": "Neil Klinger",
+    "pgy": 2,
+    "context": "Neurosurgery, Year 2"
+   },
+   {
+    "name": "Shiwei Huang",
+    "pgy": 1,
+    "context": "Neurosurgery, Year 1"
+   },
+   {
+    "name": "Ari Kappel",
+    "pgy": 1,
+    "context": "Neurosurgery, Year 1"
+   }
+  ]
+ },
+ {
+  "source_url": "manual",
+  "source_type": "manual",
+  "captured_at": "2020-06-30",
+  "academic_year": "2019-2020",
+  "note": "Phase 2: no roster was archived (Wayback: none 2019-06-26..2019-11-17, then emptied; CC 2019-30/35/39/43 no roster URL). Reconstructed as the final year of the program: every non-graduating 2018-19 resident resurfaces elsewhere one PGY later than a 2019-20 year would imply (i.e. they trained a 2019-20 year, not at their destination, whose 2019-20 rosters lack them), plus the 2019 interns Gaulden (UC news, NPPES WSU address) and Abdulrazeq (PubMed/NPPES, probable). Chamiraju and Rajah graduated June 2019. Huang left mid-year (Minnesota by May 2020), Gaulden left March 2020; the rest left June 2020 (closure; ACGME accreditation lost).",
+  "rows": [
+   {
+    "name": "R. Justin Garling",
+    "pgy": 6,
+    "context": "reconstructed: Year 5 on 2018-19 roster (relabelled Year 6 in the Jun-2019 CC capture); Dept of Neurosurgery, Detroit Medical Center affiliation on papers received 2019-01 (PMID 31001600) and 2020-09 (PMID 33194287); NPPES 1841639986 address 4201 St Antoine (DMC)",
+    "reconstructed": true
+   },
+   {
+    "name": "Blake Walker",
+    "pgy": 6,
+    "context": "reconstructed: Year 5 2018-19; DMC neurosurgery affiliation on paper received 2019-11 (PMID 31974822); Carilion (program 8) PGY-7 2020-21",
+    "reconstructed": true
+   },
+   {
+    "name": "Bryan Lieber",
+    "pgy": 5,
+    "context": "reconstructed: Year 4 2018-19; PMID 32474091 (Sep 2020) lists Wayne State + Tulane; Tulane (program 66) from Jul 2020",
+    "reconstructed": true
+   },
+   {
+    "name": "Joshua Loya",
+    "pgy": 5,
+    "context": "reconstructed: Year 4 2018-19; UCSD (program 75) PGY-6 2020-21",
+    "reconstructed": true
+   },
+   {
+    "name": "Seong-Jin Moon",
+    "pgy": 5,
+    "context": "reconstructed: Year 4 2018-19; OHSU (program 52) PGY-6 2020-21",
+    "reconstructed": true
+   },
+   {
+    "name": "Catherine Peterson",
+    "pgy": 4,
+    "context": "reconstructed: Year 3 2018-19; UC Davis (program 77) PGY-5 2020-21; WSU/DMC affiliation through 2019-20",
+    "reconstructed": true
+   },
+   {
+    "name": "Manan Shah",
+    "pgy": 4,
+    "context": "reconstructed: Year 3 2018-19; Rutgers NJMS (program 57) PGY-5 2020-21; Rutgers bio: first four years at DMC/WSU",
+    "reconstructed": true
+   },
+   {
+    "name": "Dylan Goodrich",
+    "pgy": 3,
+    "context": "reconstructed: Year 2 2018-19; UC Davis PGY-4 2020-21",
+    "reconstructed": true
+   },
+   {
+    "name": "Neil Klinger",
+    "pgy": 3,
+    "context": "reconstructed: Year 2 2018-19; absent from BWH Nov-2019 roster; BWH (program 37) PGY-4 2020-21",
+    "reconstructed": true
+   },
+   {
+    "name": "Ari Kappel",
+    "pgy": 2,
+    "context": "reconstructed: Year 1 2018-19; absent from BWH 2019-20 roster; BWH PGY-3 2020-21",
+    "reconstructed": true
+   },
+   {
+    "name": "Shiwei Huang",
+    "pgy": 2,
+    "context": "reconstructed: Year 1 2018-19; left mid-year: absent from Minnesota captures 2019-09-30 and 2019-11-21, Minnesota (program 92) PGY-2 on 2020-05-27",
+    "reconstructed": true
+   },
+   {
+    "name": "Amber Gaulden",
+    "pgy": 1,
+    "context": "reconstructed: 2019 intern never listed on the WSU page; NPPES 1922662428 (enumerated 2019-04-30) practice address 4160 John R St Ste 930 = WSU Dept of Neurosurgery; UC news 2020-06-10: 'began her residency at Wayne State ... transfer to the University of Cincinnati when she learned of Wayne State losing its accreditation', joined UC March 2020",
+    "reconstructed": true
+   },
+   {
+    "name": "Hael Abdulrazeq",
+    "pgy": 1,
+    "context": "reconstructed: probable 2019 intern never listed: PubMed 31406942 (received May 2019) Wayne State Dept of Neurosurgery; NPPES 1659934289 enumerated 2019-04-18 (neurological surgery); absent from all 2019-20 Brown captures, Brown (program 54) PGY-2 2020-21",
+    "reconstructed": true
+   }
+  ]
+ }
+]

@@ -1,0 +1,911 @@
+[
+ {
+  "source_url": "reconstructed: Henry Ford neurosurgery 2016-2017",
+  "source_type": "manual",
+  "captured_at": "2026-09-27",
+  "academic_year": "2016-2017",
+  "note": "No 2016-17 roster (old residents page body_program.cfm?id=52416 never archived; Sitecore residents page first crawled 2017-07). Alumni-confirmed residents only, PGY = 2017-18 PGY minus 1. Jessin John (PGY-4 2017-18, not a graduate) is NOT reconstructed.",
+  "rows": [
+   {
+    "name": "Rushna Ali",
+    "pgy": 7,
+    "context": "alumni page graduation 2017 (not on any roster)",
+    "reconstructed": true
+   },
+   {
+    "name": "Azam Basheer",
+    "pgy": 7,
+    "context": "alumni page graduation 2017 (not on any roster)",
+    "reconstructed": true
+   },
+   {
+    "name": "Lynn Mubita",
+    "pgy": 6,
+    "context": "PGY-7 2017-18; alumni graduation 2018",
+    "reconstructed": true
+   },
+   {
+    "name": "Lara Massie",
+    "pgy": 6,
+    "context": "PGY-7 2017-18; alumni graduation 2019",
+    "reconstructed": true
+   },
+   {
+    "name": "Thomas Noh",
+    "pgy": 5,
+    "context": "PGY-6 2017-18; alumni graduation 2019",
+    "reconstructed": true
+   },
+   {
+    "name": "Richard Rammo",
+    "pgy": 5,
+    "context": "PGY-6 2017-18; alumni graduation 2019",
+    "reconstructed": true
+   },
+   {
+    "name": "Rizwan Tahir",
+    "pgy": 4,
+    "context": "PGY-5 2017-18; alumni graduation 2020",
+    "reconstructed": true
+   },
+   {
+    "name": "Hesham Zakaria",
+    "pgy": 4,
+    "context": "PGY-5 2017-18; alumni graduation 2020",
+    "reconstructed": true
+   },
+   {
+    "name": "Karam Asmaro",
+    "pgy": 3,
+    "context": "PGY-4 2017-18; alumni graduation 2021",
+    "reconstructed": true
+   },
+   {
+    "name": "Mohamed Macki",
+    "pgy": 2,
+    "context": "PGY-3 2017-18; alumni graduation 2022",
+    "reconstructed": true
+   },
+   {
+    "name": "Thomas Zervos",
+    "pgy": 2,
+    "context": "PGY-3 2017-18; alumni graduation 2022",
+    "reconstructed": true
+   },
+   {
+    "name": "Sameah Haider",
+    "pgy": 1,
+    "context": "PGY-2 2017-18; alumni graduation 2023",
+    "reconstructed": true
+   },
+   {
+    "name": "Seokchun Lim",
+    "pgy": 1,
+    "context": "PGY-2 2017-18; alumni graduation 2023",
+    "reconstructed": true
+   }
+  ]
+ },
+ {
+  "source_url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents (Common Crawl CC-MAIN-2017-39, 2017-09-20)",
+  "source_type": "other",
+  "captured_at": "2017-09-20",
+  "academic_year": "2017-2018",
+  "note": "Common Crawl; PGY-1 Hamilton/Hunt (entry 2017), PGY-7 Mubita (grad 2018) and Massie. Same content 2017-07-25..2018-10-19 (page not updated until late 2018).",
+  "rows": [
+   {
+    "name": "Lynn Mubita",
+    "pgy": 7,
+    "context": "Lynn Mubita, M.D."
+   },
+   {
+    "name": "Lara Massie",
+    "pgy": 7,
+    "context": "Lara Massie, M.D."
+   },
+   {
+    "name": "Thomas Noh",
+    "pgy": 6,
+    "context": "Thomas Noh, M.D."
+   },
+   {
+    "name": "Richard Rammo",
+    "pgy": 6,
+    "context": "Richard Rammo, M.D."
+   },
+   {
+    "name": "Rizwan Tahir",
+    "pgy": 5,
+    "context": "Rizwan Tahir, M.D."
+   },
+   {
+    "name": "Hesham Zakaria",
+    "pgy": 5,
+    "context": "Hesham Zakaria, M.D."
+   },
+   {
+    "name": "Karam Asmaro",
+    "pgy": 4,
+    "context": "Karam Asmaro, M.D."
+   },
+   {
+    "name": "Jessin John",
+    "pgy": 4,
+    "context": "Jessin John, M.D."
+   },
+   {
+    "name": "Mohamed Macki",
+    "pgy": 3,
+    "context": "Mohamed Macki, M.D."
+   },
+   {
+    "name": "Thomas Zervos",
+    "pgy": 3,
+    "context": "Thomas Zervos, M.D."
+   },
+   {
+    "name": "Sameah Haider",
+    "pgy": 2,
+    "context": "Sameah Haider, M.D."
+   },
+   {
+    "name": "Seokchun Lim",
+    "pgy": 2,
+    "context": "Seokchun Lim, M.D."
+   },
+   {
+    "name": "Travis Hamilton",
+    "pgy": 1,
+    "context": "Travis Hamilton, M.D."
+   },
+   {
+    "name": "Rachel Hunt",
+    "pgy": 1,
+    "context": "Rachel Hunt, M.D."
+   }
+  ]
+ },
+ {
+  "source_url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents (Common Crawl CC-MAIN-2018-51, 2018-12-16)",
+  "source_type": "other",
+  "captured_at": "2018-12-16",
+  "academic_year": "2018-2019",
+  "note": "Common Crawl; first updated version (Oct-2018 crawl still showed 2017-18). PGY-1 Mansour/Telemi. Same content to 2019-06-18.",
+  "rows": [
+   {
+    "name": "Thomas Noh",
+    "pgy": 7,
+    "context": "Thomas Noh, M.D."
+   },
+   {
+    "name": "Richard Rammo",
+    "pgy": 7,
+    "context": "Richard Rammo, M.D."
+   },
+   {
+    "name": "Rizwan Tahir",
+    "pgy": 6,
+    "context": "Rizwan Tahir, M.D."
+   },
+   {
+    "name": "Hesham Zakaria",
+    "pgy": 6,
+    "context": "Hesham Zakaria, M.D."
+   },
+   {
+    "name": "Karam Asmaro",
+    "pgy": 5,
+    "context": "Karam Asmaro, M.D."
+   },
+   {
+    "name": "Jessin John",
+    "pgy": 5,
+    "context": "Jessin John, M.D."
+   },
+   {
+    "name": "Mohamed Macki",
+    "pgy": 4,
+    "context": "Mohamed Macki, M.D."
+   },
+   {
+    "name": "Thomas Zervos",
+    "pgy": 4,
+    "context": "Thomas Zervos, M.D."
+   },
+   {
+    "name": "Sameah Haider",
+    "pgy": 3,
+    "context": "Sameah Haider, M.D."
+   },
+   {
+    "name": "Seokchun Lim",
+    "pgy": 3,
+    "context": "Seokchun Lim, M.D."
+   },
+   {
+    "name": "Travis Hamilton",
+    "pgy": 2,
+    "context": "Travis Hamilton, M.D."
+   },
+   {
+    "name": "Rachel Hunt",
+    "pgy": 2,
+    "context": "Rachel Hunt, M.D."
+   },
+   {
+    "name": "Tarek Mansour",
+    "pgy": 1,
+    "context": "Tarek Mansour, M.D."
+   },
+   {
+    "name": "Edvin Telemi",
+    "pgy": 1,
+    "context": "Edvin Telemi, M.D."
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20191016213759/https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents",
+  "source_type": "wayback",
+  "captured_at": "2019-10-16",
+  "academic_year": "2019-2020",
+  "note": "Sitecore residents page; PGY-1 Fadel/Pawloski (grad 2026). Same content as 2019-08-19.",
+  "rows": [
+   {
+    "name": "Rizwan Tahir",
+    "pgy": 7,
+    "context": "Rizwan Tahir, M.D."
+   },
+   {
+    "name": "Hesham Zakaria",
+    "pgy": 7,
+    "context": "Hesham Zakaria, M.D."
+   },
+   {
+    "name": "Karam Asmaro",
+    "pgy": 6,
+    "context": "Karam Asmaro, M.D."
+   },
+   {
+    "name": "Mohamed Macki",
+    "pgy": 5,
+    "context": "Mohamed Macki, M.D."
+   },
+   {
+    "name": "Thomas Zervos",
+    "pgy": 5,
+    "context": "Thomas Zervos, M.D."
+   },
+   {
+    "name": "Sameah Haider",
+    "pgy": 4,
+    "context": "Sameah Haider, M.D."
+   },
+   {
+    "name": "Seokchun Lim",
+    "pgy": 4,
+    "context": "Seokchun Lim, M.D."
+   },
+   {
+    "name": "Travis Hamilton",
+    "pgy": 3,
+    "context": "Travis Hamilton, M.D."
+   },
+   {
+    "name": "Rachel Hunt",
+    "pgy": 3,
+    "context": "Rachel Hunt, M.D."
+   },
+   {
+    "name": "Tarek Mansour",
+    "pgy": 2,
+    "context": "Tarek Mansour, M.D."
+   },
+   {
+    "name": "Edvin Telemi",
+    "pgy": 2,
+    "context": "Edvin Telemi, M.D."
+   },
+   {
+    "name": "Hassan Fadel",
+    "pgy": 1,
+    "context": "Hassan Fadel, M.D."
+   },
+   {
+    "name": "Jacob Pawloski",
+    "pgy": 1,
+    "context": "Jacob Pawloski, M.D."
+   }
+  ]
+ },
+ {
+  "source_url": "reconstructed: Henry Ford neurosurgery 2020-2021",
+  "source_type": "manual",
+  "captured_at": "2026-09-27",
+  "academic_year": "2020-2021",
+  "note": "No 2020-21 roster: the only capture (2020-08-08) is the unchanged 2019-20 page. Bracketed residents plus the entering interns (phase 2: placed at PGY-1 from image-file class suffix, NPPES trainee enumeration at HFH in the spring of that year, and PGY-2 listing the next year).",
+  "rows": [
+   {
+    "name": "Karam Asmaro",
+    "pgy": 7,
+    "context": "PGY-6 in 2019-20; alumni page graduation 2021",
+    "reconstructed": true
+   },
+   {
+    "name": "Mohamed Macki",
+    "pgy": 6,
+    "context": "PGY-5 2019-20, PGY-7 2021-22",
+    "reconstructed": true
+   },
+   {
+    "name": "Thomas Zervos",
+    "pgy": 6,
+    "context": "PGY-5 2019-20, PGY-7 2021-22",
+    "reconstructed": true
+   },
+   {
+    "name": "Sameah Haider",
+    "pgy": 5,
+    "context": "PGY-4 2019-20, PGY-6 2021-22",
+    "reconstructed": true
+   },
+   {
+    "name": "Seokchun Lim",
+    "pgy": 5,
+    "context": "PGY-4 2019-20, PGY-6 2021-22",
+    "reconstructed": true
+   },
+   {
+    "name": "Travis Hamilton",
+    "pgy": 4,
+    "context": "PGY-3 2019-20, PGY-5 2021-22",
+    "reconstructed": true
+   },
+   {
+    "name": "Rachel Hunt",
+    "pgy": 4,
+    "context": "PGY-3 2019-20, PGY-5 2021-22",
+    "reconstructed": true
+   },
+   {
+    "name": "Tarek Mansour",
+    "pgy": 3,
+    "context": "PGY-2 2019-20, PGY-4 2021-22",
+    "reconstructed": true
+   },
+   {
+    "name": "Edvin Telemi",
+    "pgy": 3,
+    "context": "PGY-2 2019-20, PGY-4 2021-22",
+    "reconstructed": true
+   },
+   {
+    "name": "Hassan Fadel",
+    "pgy": 2,
+    "context": "PGY-1 2019-20, PGY-3 2021-22",
+    "reconstructed": true
+   },
+   {
+    "name": "Jacob Pawloski",
+    "pgy": 2,
+    "context": "PGY-1 2019-20, PGY-3 2021-22",
+    "reconstructed": true
+   },
+   {
+    "name": "Jared Reese",
+    "pgy": 1,
+    "context": "2020/2023 intern (phase 2): PGY-2 2021-22 onward; image file 'past-residents/jared-reese20.jpg'; NPPES NPI 1457989147 enumerated 2020-03-30 at 2799 W Grand Blvd (HFH), trainee taxonomy; no prior residency affiliation in PubMed (first HFH neurosurgery paper 2022)",
+    "reconstructed": true
+   },
+   {
+    "name": "Heegook Yeo",
+    "pgy": 1,
+    "context": "2020/2023 intern (phase 2): PGY-2 2021-22 onward; image file 'past-residents/heegook-yeo20.jpg'; U Louisville MD; NPPES NPI 1487157541 updated 2020-05-19 to HFH 2799 W Grand Blvd with MI training license (from Louisville mailing address)",
+    "reconstructed": true
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20220813054759/https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents",
+  "source_type": "wayback",
+  "captured_at": "2022-08-13",
+  "academic_year": "2021-2022",
+  "note": "Aug-2022 capture still shows the 2021-22 roster (PGY-1 Chaker/Kantak, PGY-7 Macki/Zervos who graduated 2022); content-dated to 2021-22. No capture between 2020-08 and 2022-08.",
+  "rows": [
+   {
+    "name": "Mohamed Macki",
+    "pgy": 7,
+    "context": "Mohamed Macki, M.D."
+   },
+   {
+    "name": "Thomas Zervos",
+    "pgy": 7,
+    "context": "Thomas Zervos, M.D."
+   },
+   {
+    "name": "Sameah Haider",
+    "pgy": 6,
+    "context": "Sameah Haider, M.D."
+   },
+   {
+    "name": "Seokchun Lim",
+    "pgy": 6,
+    "context": "Seokchun Lim, M.D."
+   },
+   {
+    "name": "Travis Hamilton",
+    "pgy": 5,
+    "context": "Travis Hamilton, M.D."
+   },
+   {
+    "name": "Rachel Hunt",
+    "pgy": 5,
+    "context": "Rachel Hunt, M.D."
+   },
+   {
+    "name": "Tarek Mansour",
+    "pgy": 4,
+    "context": "Tarek Mansour, M.D."
+   },
+   {
+    "name": "Edvin Telemi",
+    "pgy": 4,
+    "context": "Edvin Telemi, M.D."
+   },
+   {
+    "name": "Hassan Fadel",
+    "pgy": 3,
+    "context": "Hassan Fadel, M.D."
+   },
+   {
+    "name": "Jacob Pawloski",
+    "pgy": 3,
+    "context": "Jacob Pawloski, M.D."
+   },
+   {
+    "name": "Jared Reese",
+    "pgy": 2,
+    "context": "Jared Reese, M.D."
+   },
+   {
+    "name": "Heegook Yeo",
+    "pgy": 2,
+    "context": "Heegook Yeo, M.D."
+   },
+   {
+    "name": "Anisse Chaker",
+    "pgy": 1,
+    "context": "Anisse Chaker, M.D."
+   },
+   {
+    "name": "Pranish Kantak",
+    "pgy": 1,
+    "context": "Pranish Kantak, M.D."
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20221130032149/https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents",
+  "source_type": "wayback",
+  "captured_at": "2022-11-30",
+  "academic_year": "2022-2023",
+  "note": "PGY-1 Anzalone/Shaftel; PGY-7 Haider/Lim (grad 2023).",
+  "rows": [
+   {
+    "name": "Sameah Haider",
+    "pgy": 7,
+    "context": "Sameah Haider, M.D."
+   },
+   {
+    "name": "Seokchun Lim",
+    "pgy": 7,
+    "context": "Seokchun Lim, M.D."
+   },
+   {
+    "name": "Travis Hamilton",
+    "pgy": 6,
+    "context": "Travis Hamilton, M.D."
+   },
+   {
+    "name": "Rachel Hunt",
+    "pgy": 6,
+    "context": "Rachel Hunt, M.D."
+   },
+   {
+    "name": "Tarek Mansour",
+    "pgy": 5,
+    "context": "Tarek Mansour, M.D."
+   },
+   {
+    "name": "Edvin Telemi",
+    "pgy": 5,
+    "context": "Edvin Telemi, M.D."
+   },
+   {
+    "name": "Hassan Fadel",
+    "pgy": 4,
+    "context": "Hassan Fadel, M.D."
+   },
+   {
+    "name": "Jacob Pawloski",
+    "pgy": 4,
+    "context": "Jacob Pawloski, M.D."
+   },
+   {
+    "name": "Jared Reese",
+    "pgy": 3,
+    "context": "Jared Reese, M.D."
+   },
+   {
+    "name": "Heegook Yeo",
+    "pgy": 3,
+    "context": "Heegook Yeo, M.D."
+   },
+   {
+    "name": "Anisse Chaker",
+    "pgy": 2,
+    "context": "Anisse Chaker, M.D."
+   },
+   {
+    "name": "Pranish Kantak",
+    "pgy": 2,
+    "context": "Pranish Kantak, M.D."
+   },
+   {
+    "name": "Anthony Anzalone",
+    "pgy": 1,
+    "context": "Anthony Anzalone, M.D."
+   },
+   {
+    "name": "Kelly Shaftel",
+    "pgy": 1,
+    "context": "Kelly Shaftel, M.D."
+   }
+  ]
+ },
+ {
+  "source_url": "reconstructed: Henry Ford neurosurgery 2023-2024",
+  "source_type": "manual",
+  "captured_at": "2026-09-27",
+  "academic_year": "2023-2024",
+  "note": "No 2023-24 roster: captures 2023-03-22 (still 2022-23) then 2024-06-25 (already 2024-25). Bracketed residents plus the entering interns (phase 2: placed at PGY-1 from image-file class suffix, NPPES trainee enumeration at HFH in the spring of that year, and PGY-2 listing the next year).",
+  "rows": [
+   {
+    "name": "Travis Hamilton",
+    "pgy": 7,
+    "context": "PGY-6 2022-23; alumni graduation 2024",
+    "reconstructed": true
+   },
+   {
+    "name": "Rachel Hunt",
+    "pgy": 7,
+    "context": "PGY-6 2022-23; alumni graduation 2024",
+    "reconstructed": true
+   },
+   {
+    "name": "Tarek Mansour",
+    "pgy": 6,
+    "context": "PGY-5 2022-23, PGY-7 2024-25",
+    "reconstructed": true
+   },
+   {
+    "name": "Edvin Telemi",
+    "pgy": 6,
+    "context": "PGY-5 2022-23, PGY-7 2024-25",
+    "reconstructed": true
+   },
+   {
+    "name": "Hassan Fadel",
+    "pgy": 5,
+    "context": "PGY-4 2022-23, PGY-6 2024-25",
+    "reconstructed": true
+   },
+   {
+    "name": "Jacob Pawloski",
+    "pgy": 5,
+    "context": "PGY-4 2022-23, PGY-6 2024-25",
+    "reconstructed": true
+   },
+   {
+    "name": "Jared Reese",
+    "pgy": 4,
+    "context": "PGY-3 2022-23, PGY-5 2024-25",
+    "reconstructed": true
+   },
+   {
+    "name": "Heegook Yeo",
+    "pgy": 4,
+    "context": "PGY-3 2022-23, PGY-5 2024-25",
+    "reconstructed": true
+   },
+   {
+    "name": "Anisse Chaker",
+    "pgy": 3,
+    "context": "PGY-2 2022-23, PGY-4 2024-25",
+    "reconstructed": true
+   },
+   {
+    "name": "Pranish Kantak",
+    "pgy": 3,
+    "context": "PGY-2 2022-23, PGY-4 2024-25",
+    "reconstructed": true
+   },
+   {
+    "name": "Anthony Anzalone",
+    "pgy": 2,
+    "context": "PGY-1 2022-23, PGY-3 2024-25",
+    "reconstructed": true
+   },
+   {
+    "name": "Kelly Shaftel",
+    "pgy": 2,
+    "context": "PGY-1 2022-23, PGY-3 2024-25",
+    "reconstructed": true
+   },
+   {
+    "name": "Seamus Bartlett",
+    "pgy": 1,
+    "context": "2020/2023 intern (phase 2): PGY-2 2024-25 onward; image file 'bartlett_seamus_23.jpg'; Wayne State MD (PubMed 2023 affiliation WSU School of Medicine); NPPES NPI 1912697731 enumerated 2023-05-15 at HFH, trainee taxonomy",
+    "reconstructed": true
+   },
+   {
+    "name": "Hangil Lee",
+    "pgy": 1,
+    "context": "2020/2023 intern (phase 2): PGY-2 2024-25 onward; image file 'lee_hangil_23.jpg'; Wayne State MD; NPPES NPI 1366198103 updated 2023-04-14 at HFH with MI training license, trainee taxonomy",
+    "reconstructed": true
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20241004075824/https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents",
+  "source_type": "wayback",
+  "captured_at": "2024-10-04",
+  "academic_year": "2024-2025",
+  "note": "PGY-1 Farmer/Szymanski; PGY-7 Mansour/Telemi (grad 2025). Page already on 2024-25 content from 2024-06-25.",
+  "rows": [
+   {
+    "name": "Tarek Mansour",
+    "pgy": 7,
+    "context": "Tarek Mansour, M.D."
+   },
+   {
+    "name": "Edvin Telemi",
+    "pgy": 7,
+    "context": "Edvin Telemi, M.D."
+   },
+   {
+    "name": "Hassan Fadel",
+    "pgy": 6,
+    "context": "Hassan Fadel, M.D."
+   },
+   {
+    "name": "Jacob Pawloski",
+    "pgy": 6,
+    "context": "Jacob Pawloski, M.D."
+   },
+   {
+    "name": "Jared Reese",
+    "pgy": 5,
+    "context": "Jared Reese, M.D."
+   },
+   {
+    "name": "Heegook Yeo",
+    "pgy": 5,
+    "context": "Heegook Yeo, M.D."
+   },
+   {
+    "name": "Anisse Chaker",
+    "pgy": 4,
+    "context": "Anisse Chaker, M.D."
+   },
+   {
+    "name": "Pranish Kantak",
+    "pgy": 4,
+    "context": "Pranish Kantak, M.D."
+   },
+   {
+    "name": "Anthony Anzalone",
+    "pgy": 3,
+    "context": "Anthony Anzalone, M.D."
+   },
+   {
+    "name": "Kelly Shaftel",
+    "pgy": 3,
+    "context": "Kelly Shaftel, M.D."
+   },
+   {
+    "name": "Seamus Bartlett",
+    "pgy": 2,
+    "context": "Seamus Bartlett, M.D."
+   },
+   {
+    "name": "Hangil Lee",
+    "pgy": 2,
+    "context": "Hangil Lee, M.D."
+   },
+   {
+    "name": "Matthew Farmer",
+    "pgy": 1,
+    "context": "Matthew Farmer, M.D."
+   },
+   {
+    "name": "Caleb Szymanski",
+    "pgy": 1,
+    "context": "Caleb Szymanski, M.D."
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20251118092812/https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents",
+  "source_type": "wayback",
+  "captured_at": "2025-11-18",
+  "academic_year": "2025-2026",
+  "note": "PGY-1 Liu/Rademacher/Shaffer; PGY-7 Fadel/Pawloski (grad 2026).",
+  "rows": [
+   {
+    "name": "Hassan Fadel",
+    "pgy": 7,
+    "context": "Hassan Fadel, M.D."
+   },
+   {
+    "name": "Jacob Pawloski",
+    "pgy": 7,
+    "context": "Jacob Pawloski, M.D."
+   },
+   {
+    "name": "Jared Reese",
+    "pgy": 6,
+    "context": "Jared Reese, M.D."
+   },
+   {
+    "name": "Heegook Yeo",
+    "pgy": 6,
+    "context": "Heegook Yeo, M.D."
+   },
+   {
+    "name": "Anisse Chaker",
+    "pgy": 5,
+    "context": "Anisse Chaker, M.D."
+   },
+   {
+    "name": "Pranish Kantak",
+    "pgy": 5,
+    "context": "Pranish Kantak, M.D."
+   },
+   {
+    "name": "Anthony Anzalone",
+    "pgy": 4,
+    "context": "Anthony Anzalone, M.D."
+   },
+   {
+    "name": "Kelly Shaftel",
+    "pgy": 4,
+    "context": "Kelly Shaftel, M.D."
+   },
+   {
+    "name": "Seamus Bartlett",
+    "pgy": 3,
+    "context": "Seamus Bartlett, M.D."
+   },
+   {
+    "name": "Hangil Lee",
+    "pgy": 3,
+    "context": "Hangil Lee, M.D."
+   },
+   {
+    "name": "Matthew Farmer",
+    "pgy": 2,
+    "context": "Matthew Farmer, M.D."
+   },
+   {
+    "name": "Caleb Szymanski",
+    "pgy": 2,
+    "context": "Caleb Szymanski, M.D."
+   },
+   {
+    "name": "Jiaqi Liu",
+    "pgy": 1,
+    "context": "Jiaqi Liu, MD"
+   },
+   {
+    "name": "Anneliese Rademacher",
+    "pgy": 1,
+    "context": "Anneliese Rademacher, MD"
+   },
+   {
+    "name": "Annabelle Shaffer",
+    "pgy": 1,
+    "context": "Annabelle Shaffer, MD, MS"
+   }
+  ]
+ },
+ {
+  "source_url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents",
+  "source_type": "live",
+  "captured_at": "2026-09-27",
+  "academic_year": "2026-2027",
+  "note": "Live page fetched 2026-09-27; PGYs advanced, new PGY-1 Haver/Lucarelli/Picton.",
+  "rows": [
+   {
+    "name": "Jared Reese",
+    "pgy": 7,
+    "context": "Jared Reese, M.D."
+   },
+   {
+    "name": "Heegook Yeo",
+    "pgy": 7,
+    "context": "Heegook Yeo, M.D."
+   },
+   {
+    "name": "Anisse Chaker",
+    "pgy": 6,
+    "context": "Anisse Chaker, M.D."
+   },
+   {
+    "name": "Pranish Kantak",
+    "pgy": 6,
+    "context": "Pranish Kantak, M.D."
+   },
+   {
+    "name": "Anthony Anzalone",
+    "pgy": 5,
+    "context": "Anthony Anzalone, M.D."
+   },
+   {
+    "name": "Kelly Shaftel",
+    "pgy": 5,
+    "context": "Kelly Shaftel, M.D."
+   },
+   {
+    "name": "Seamus Bartlett",
+    "pgy": 4,
+    "context": "Seamus Bartlett, M.D."
+   },
+   {
+    "name": "Hangil Lee",
+    "pgy": 4,
+    "context": "Hangil Lee, M.D."
+   },
+   {
+    "name": "Matthew Farmer",
+    "pgy": 3,
+    "context": "Matthew Farmer, M.D."
+   },
+   {
+    "name": "Caleb Szymanski",
+    "pgy": 3,
+    "context": "Caleb Szymanski, M.D."
+   },
+   {
+    "name": "Jiaqi Liu",
+    "pgy": 2,
+    "context": "Jiaqi Liu, MD"
+   },
+   {
+    "name": "Anneliese Rademacher",
+    "pgy": 2,
+    "context": "Anneliese Rademacher, MD"
+   },
+   {
+    "name": "Annabelle Shaffer",
+    "pgy": 2,
+    "context": "Annabelle Shaffer, MD, MS"
+   },
+   {
+    "name": "Jake Haver",
+    "pgy": 1,
+    "context": "Jake Haver, MD"
+   },
+   {
+    "name": "Vito Lucarelli",
+    "pgy": 1,
+    "context": "Vito Lucarelli, MD"
+   },
+   {
+    "name": "Bryce Picton",
+    "pgy": 1,
+    "context": "Bryce Picton, MD"
+   }
+  ]
+ }
+]

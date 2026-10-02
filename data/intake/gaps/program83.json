@@ -1,0 +1,249 @@
+{
+ "program_id": 83,
+ "name": "University of Illinois College of Medicine at Chicago Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "chicago.medicine.uic.edu/departments___programs/departments/neurosurgery/ (old CMS; residency page had no resident list 2011-13; medical_education/residency/current_residents/ roster from 2014-02)",
+   "from": "2008-08",
+   "to": "2017-06 (roster page last 2016-10)"
+  },
+  {
+   "url": "chicago.medicine.uic.edu/UserFiles/Servers/Server_442934/File/Neurosurgery_Chicago/Documents/ (residency booklets UIC_Residency_2010.pdf, Residency_Booklet_12.pdf, Residency_Booklet_2015.pdf with 'Current Residents' lists; Residency_Booklet_13.pdf linked but never archived)",
+   "from": "2010",
+   "to": "2015"
+  },
+  {
+   "url": "chicago.medicine.uic.edu/departments/academic-departments/neurosurgery/medical-education/residency/current-residents/ (+ previous-graduates/, current-recent-fellowship-graduates/)",
+   "from": "2017-08",
+   "to": "2024-03 (content frozen at 2022-23 from Dec 2022)"
+  },
+  {
+   "url": "chicago.medicine.uic.edu/neurosurgery/people/residents/ (+ /page/2/; WordPress wp-json/wp/v2/profile API; live)",
+   "from": "2024-03",
+   "to": "2026-09-27"
+  },
+  {
+   "url": "medicine.uic.edu/departments/neurosurgery, neurosurgery.uic.edu (no captures; neurosurgery.uic.edu does not resolve)",
+   "from": null,
+   "to": null
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "reconstructed_years": [
+  "2011-2012"
+ ],
+ "missing_years": [
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "LOW (was SIGNIFICANT). SIGNIFICANT. No 2011-12 roster anywhere: the old CMS had no resident page before Feb 2014 (full prefix listing of departments___programs/departments/neurosurgery), the residency page only linked a booklet (UIC_Residency_2010.pdf = 2010-11 list; Residency_Booklet_12.pdf = 2012-13 list). Reconstructed the 6 people listed in both 2010-11 and 2012-13 (Munson PGY6, Hage/Hari Krishna PGY4, Ivanov PGY3, Birk/Oh PGY2) plus Arnone/Khan PGY1 (PGY2 in 2012-13, alumni page graduation 2018). Sebastian Herrera (2010-11 booklet only, probably PGY6 then) not reconstructed; his completion is unconfirmed. 2010-11 booklet shows no PGY4 (2007 class empty) and 2012-13 no PGY6 - consistent. Common Crawl (cclocal, one pass): 2011-2013 on departments___programs/.../neurosurgery found only alumni pages (captures 2013-05, 2013-12), no roster; CC-MAIN-2012 (no index) and part of CC-MAIN-2013-20 FAILED (retry in phase 2). 2023-2024 on new-site people/ and old-site medical-education/residency found only the same frozen 2022-23 old-site page and 2024-05+ new-site pages already in Wayback; CC-MAIN-2023-06 and CC-MAIN-2024-42 (people/) index fetch FAILED. PHASE 2: CC-MAIN-2012 now readable (4 records: department home + 3 faculty pages, no roster); CC-MAIN-2013-20 retried OK (22 records, only alumni page); booklet folder (userfiles/.../neurosurgery_chicago) has 0 records in CC-MAIN-2013-20/2013-48; Wayback prefix listing of the booklet folder shows only UIC_Residency_2010.pdf, Residency_Booklet_12.pdf, Residency_Booklet_2015.pdf (plus 2008-09 on medicine.uic.edu); residency page captures 2011-04..2013-01 link only the booklets; PubMed 2011-13 UIC neurosurgery affiliations show no unknown resident (Vannemreddy, Qahwash, Calderon-Arnulphi, Rasskazoff, Carlson are research/clinical fellows or faculty). Herrera: 2010-11 booklet position between chief Chan (2004 class) and Munson (2006) implies 2005 class -> PGY7 2011-12, graduating 2012; UIC affiliation on papers to 2011; NPPES now neurological surgery (TX). Not reconstructed (not bracketed, not on alumni page).",
+  "2012-2013": "Residency_Booklet_12.pdf (PDF created 2012-11-20, Wayback 2014-12-29). 'Chief' = PGY7 (Munson). Complete (10 names, consistent with neighbours).",
+  "2013-2014": "Only capture of the roster in 2013-14 is Feb 2014 (first capture of current_residents page). Residency_Booklet_13.pdf never archived. Only one PGY1 (Dash).",
+  "2018-2019": "Captured July 2019, but page heading '(2018-2019)' and modified 2018-10-23; content is 2018-19.",
+  "2020-2021": "Page heading still '(2019-2020)', but PGYs advanced and 2020 intern (Pierce) added: content is 2020-21 (Oct 2020 - May 2021 captures identical).",
+  "2021-2022": "Sept 2021 capture had new interns but un-advanced PGYs; used Jan 2022 capture.",
+  "2023-2024": "LOW (was moderately significant). Moderately significant: old-site page frozen at 2022-23 content (Dec 2022 - Mar 2024); new site's first capture is Apr 2024 (spring). A 2023-24 departure before April 2024 would be unseen. Peter Theiss (PGY6 in 2022-23) is not on the residents list; his new-site profile (Sept 2024 capture, wp-json) says 'Fellow, Endovascular Neurosurgery Fellowship', category class-of-2025. 2024 'Class of' labels for Khalid/Patel (2027) and Marotta (2028) are one year early relative to their entry years and were corrected to 2028/2029 in Jan 2025; PGYs computed from entry year. PHASE 2: wp-json shows resident profiles created 2023-12-20 (Almadidy) and 2024-01-02 (Bram, Sadeh, Peng, Souter, Khalid, Patel, Marotta, Theiss as fellow), Brunozzi/Gonzales-Portillo 2024-04-03: same set as the Apr 2024 roster. Theiss profile: 'Fellow, Endovascular Neurosurgery Fellowship', 'Year: PGY-6', class-of-2025 -> added as 2023-24 'other' entry (pgy null). CC-MAIN-2023-06 retried OK (only residency/facilities pages, no roster); CC-MAIN-2024-42 retried OK (residents page 2024-10-12 = unchanged Apr 2024 list). Wayback gap audit Jun 2023-Apr 2024 of both hosts: no other roster/news page.",
+  "2024-2025": "Oct 2024 capture still the unchanged Apr 2024 list; used Jan 2025 (page 1) + Apr 2025 page 2 (Tiefenbach) as a separate 'other' entry, plus Theiss profile as 'other' (pgy null).",
+  "2025-2026": "Page 1 Jan 2026 (identical Sept 2025 and May 2026). Page 2 never archived in 2025-26; used the live page 2 (unchanged, fetched 2026-09-27; Rios Zermeno profile created 2025-08-21) as an 'other' entry.",
+  "2026-2027": "SIGNIFICANT. SIGNIFICANT. Live page (fetched 2026-09-27) is identical to the 2025-26 roster: Peng/Souter (Class of 2026) still listed, no Class of 2033 interns, no profile created after 2025-10-30 in wp-json. Not loaded as 2026-27. PHASE 2: re-fetched 2026-09-28, unchanged; wp-json profiles newest resident 2025-08-21; wp-json posts search (match/resident/residency/graduat/intern/welcome) empty; Wayback gap audit May-Sep 2026 only education/people pages (people/residents 2026-05-17 = 2025-26)."
+ },
+ "alumni_page": "https://chicago.medicine.uic.edu/departments/academic-departments/neurosurgery/medical-education/residency/previous-graduates/ (archived 2020-08..2023-12; not on the live site)",
+ "departures": [
+  {
+   "name": "Debadutta Dash",
+   "last_ay": "2014-2015",
+   "last_pgy": 2,
+   "note": "SWITCHED to emergency medicine: PubMed Stanford Dept of Emergency Medicine 2023-26, Case Western 2016; NPPES EM (MO, CA) + clinical informatics. training_history end_year 2015, switched_specialty."
+  },
+  {
+   "name": "Justin Scheer",
+   "last_ay": "2017-2018",
+   "last_pgy": 2,
+   "note": "TRANSFERRED to UCSF (program 76) at PGY3 2018-19; UCSF alumni 2023. Rows recorded at both programs."
+  },
+  {
+   "name": "Charles Pierce",
+   "last_ay": "2020-2021",
+   "last_pgy": 1,
+   "note": "left after PGY1; destination unknown (2022 neuroradiology review with UIC hospital address suggests radiology, unconfirmed). departure_type unknown."
+  },
+  {
+   "name": "Peter Theiss",
+   "last_ay": "2024-2025",
+   "last_pgy": null,
+   "note": "NOT attrition: in-program endovascular fellow 2023-25 (profile 'Year: PGY-6', class-of-2025), UIC affiliation continuous to 2026; expected completion 2025, not directly confirmed (training_history completed='unknown')."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Nauman Chaudhry",
+   "first_ay": "2015-2016",
+   "first_pgy": 2,
+   "note": "2014-15 roster exists and lacks him; entered PGY2 2015-16 (origin unknown; not in any other loaded roster); graduated 2021 with Behbahani."
+  }
+ ],
+ "residents_2011plus": 27,
+ "adjudication_summary": {
+  "COMPLETED": 17,
+  "IN TRAINING": 12,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> outcome unknown": 1,
+  "LEFT -> did not complete": 1,
+  "note": "Transferred = Scheer (UCSF); switched = Dash (EM); did not complete = Pierce (destination unknown); 'outcome unknown' = Theiss, who is not attrition (in-program fellow, class of 2025). Ravi Nunna (Rush, program 56) did research at UIC 2020-22 and was never a UIC resident: not counted here."
+ },
+ "problems": "Behbahani/Chaudhry listed under 2020 on the alumni page but rosters show them PGY-7 through May 2021 (training_history end_year 2021). 2024 new-site 'Class of' labels wrong for 3 residents (fixed 2025). All previously failed CC crawls now succeeded. Ravi Nunna (Rush) appears in UIC neurosurgery PubMed affiliations 2020-22 as a research fellow; not a UIC resident.",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "no roster exists (no resident page before 2014, no 2011 booklet); bracketed by 2010-11 and 2012-13 booklets: every 2010-11 member except graduating chief Chan and Herrera reappears in 2012-13, 2011 class (Arnone, Khan) = full complement of 2 and both graduated 2018; only Herrera (pre-2011 entrant, probably PGY7 graduating 2012) is unconfirmed"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster, consistent with neighbours"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Feb 2014 roster; single 2013 intern (Dash) consistent with 2014-15"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster, consistent with neighbours"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster, consistent with neighbours"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster, consistent with neighbours"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster, consistent with neighbours"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster, consistent with neighbours"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster, consistent with neighbours"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster, consistent with neighbours"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster, consistent with neighbours"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster, consistent with neighbours"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Apr 2024 roster; new-site profiles created 2023-12-20..2024-01-02 match it exactly (plus Theiss as in-program endovascular fellow); only a 2023 intern who left Jul-Dec 2023 could be unseen, and PubMed 2023-24 UIC neurosurgery affiliations show no unknown resident"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jan 2025 page 1 + Apr 2025 page 2; Theiss profile"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jan 2026 page 1 + live page 2"
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "live page (re-fetched 2026-09-28) and wp-json still the 2025-26 content: no profile created after 2025-10-30, Peng/Souter (Class of 2026) still listed, no Class of 2033; Wayback 2026 captures (Jan, May) identical; no news posts. 2026 interns and any 2025-26 departure unobservable"
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2004": 7,
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2017_note": "Theiss (2017) 8 years with enfolded endovascular year"
+ },
+ "phase2": {
+  "searched": [
+   "CC-MAIN-2012, CC-MAIN-2013-20 (old CMS neurosurgery prefix + booklet folder), CC-MAIN-2013-48 booklet folder, CC-MAIN-2023-06 (departments/academic-departments/neurosurgery), CC-MAIN-2024-42 (neurosurgery/people): all retried successfully",
+   "Wayback prefix listing of UserFiles/.../Neurosurgery_Chicago and medicine.uic.edu equivalents",
+   "old CMS alumni and residency page captures 2011-2013 (links)",
+   "Wayback gapaudit 2023-06..2024-04 and 2026-05..2026-09 on both hosts",
+   "live residents page, wp-json profiles and posts (2026-09-28)",
+   "PubMed affiliation mining UIC neurosurgery 2011-13 and 2023-26",
+   "PubMed/NPPES for Dash, Pierce, Scheer, Theiss, Herrera",
+   "crossmatch.json (Scheer->UCSF)",
+   "OpenAlex author search (Herrera)"
+  ],
+  "found": [
+   "Scheer transfer to UCSF PGY3 2018-19 confirmed on both rosters",
+   "Dash switch to emergency medicine (Stanford EM affiliations, NPPES EM)",
+   "Theiss in-program endovascular fellow from 2023-24 (profile created 2024-01-02), added 2023-24 entry",
+   "2023-24 profile set (Dec 2023-Jan 2024) matches Apr 2024 roster",
+   "PGY-terminal completions: Munson 2013, Hage 2015, Hari Krishna 2015, Almadidy 2024, Bram 2025, Sadeh 2025"
+  ],
+  "remaining": [
+   "2026-27 (stale live site) significant",
+   "Herrera 2011-12 status (pre-2011 entrant) unconfirmed",
+   "Pierce destination",
+   "Theiss completion (expected 2025)",
+   "Chaudhry origin before PGY2 2015-16",
+   "Peng/Souter 2026 completion unconfirmed (2026-27 missing)"
+  ]
+ }
+}

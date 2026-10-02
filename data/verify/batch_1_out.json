@@ -1,0 +1,994 @@
+[
+ {
+  "name": "Katie McCoy",
+  "program_id": 120,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Washington University/B-JH/SLCH Consortium",
+   "start": 2011,
+   "end": 2018
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, University of Iowa Health Care, Iowa City, IA",
+  "sources": [
+   "https://health.usnews.com/doctors/kathleen-mccoy-833233",
+   "https://www.doximity.com/pub/kathleen-mccoy-md",
+   "https://doctor.webmd.com/doctor/kathleen-mccoy-29fa6084-dec5-11e7-9f4c-005056a225bf-overview"
+  ],
+  "evidence": "US News/Doximity for Kathleen E. McCoy: WashU MD 2011; Neurosurgery Residency, Washington University/B-JH/SLCH Consortium 2011-2018.",
+  "confidence": "high",
+  "notes": "Listed as Kathleen E. McCoy; WebMD also lists her as Kathleen Dlouhy (married name variant). Identity tied via WashU MD + WashU neurosurgery residency."
+ },
+ {
+  "name": "Afshin Salehi",
+  "program_id": 120,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Washington University in St. Louis",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Pediatric neurosurgery",
+    "institution": "St. Louis Children's Hospital (WashU)",
+    "start": 2020,
+    "end": 2021
+   }
+  ],
+  "current_position": "Assistant Professor of Neurosurgery (pediatric), University of Nebraska Medical Center / Children's Nebraska",
+  "sources": [
+   "https://www.unmc.edu/neurosurgery/faculty/salehi.html",
+   "https://www.doximity.com/pub/afshin-salehi-md",
+   "https://neurosurgery.wustl.edu/people/afshin-salehi-md/"
+  ],
+  "evidence": "UNMC bio: internship and neurosurgery residency at Washington University in St. Louis 2013-2020 (incl. 6 months at Beaumont Dublin), then pediatric neurosurgery fellowship at St. Louis Children's.",
+  "confidence": "high",
+  "notes": "Fellowship years inferred (post-2020); exact end year not confirmed."
+ },
+ {
+  "name": "Rupen Desai",
+  "program_id": 120,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Washington University School of Medicine in St. Louis",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Minimally invasive skull base surgery",
+    "institution": "Weill Cornell Medicine",
+    "start": 2023,
+    "end": 2023
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Complex neuro-oncology/skull base",
+    "institution": "University of Oklahoma",
+    "start": 2023,
+    "end": 2024
+   }
+  ],
+  "current_position": "Assistant Professor of Neurosurgery, Medical College of Wisconsin",
+  "sources": [
+   "https://www.mcw.edu/departments/neurosurgery/people/rupen-desai-md",
+   "https://health.usnews.com/doctors/rupen-desai-1116709",
+   "https://neurosurgery.wustl.edu/neurosurgery-chiefs-prepare-for-their-next-chapter/"
+  ],
+  "evidence": "MCW bio/US News: Neurological Surgery residency, Washington University 2016-2023; fellowships at Weill Cornell (2023) and Univ. of Oklahoma (2024).",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Ridhima Guniganti",
+  "program_id": 120,
+  "verdict": "not_found",
+  "neurosurgery_residency": {
+   "institution": "Washington University in St. Louis",
+   "start": 2018,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Unknown; public directories (Doximity, Healthgrades, Zocdoc) still list her as a neurosurgeon at Barnes-Jewish Hospital, St. Louis; a Weill Cornell directory profile lists her as a 'Volunteer'",
+  "sources": [
+   "https://www.doximity.com/pub/ridhima-guniganti-md",
+   "https://www.healthgrades.com/physician/dr-ridhima-guniganti-xynvws3",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1659866580",
+   "https://directory.weill.cornell.edu/person/profile/rig7008"
+  ],
+  "evidence": "Doximity: WashU MD 2018, neurosurgeon at Barnes-Jewish; no residency end or later training listed. NPI 1659866580 taxonomy Neurological Surgery, last updated 2018-06-23 (WashU neurosurgery mailing address) - stale.",
+  "confidence": "low",
+  "notes": "Disagrees with current_outcome 'SWITCHED SPECIALTY': I found no source showing training or practice in another specialty; all directory listings are stale neurosurgery residency-era records. Not on current WashU roster. Weill Cornell 'volunteer' directory entry is unexplained (Preethi Guniganti, a WCM radiologist, is a different person). Search budget ran out before further checks; outcome after PGY3 (2020-21) remains unverified."
+ },
+ {
+  "name": "Kyle McGrath",
+  "program_id": 120,
+  "verdict": "not_found",
+  "neurosurgery_residency": {
+   "institution": "Washington University/B-JH/SLCH Consortium",
+   "start": 2025,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Unknown after 2025-26 PGY1 year",
+  "sources": [
+   "https://neurosurgery.wustl.edu/2025-residency-match-class/",
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://www.doximity.com/pub/kyle-mcgrath-md"
+  ],
+  "evidence": "WashU 2025 match class = Megan Bauman Graves, Riley Driscoll, Kyle McGrath (UF MD). Current WashU roster PGY2 lists Bauman Graves, Salil Bhole, Driscoll - McGrath absent and his WashU bio page now returns 404. Doximity still shows only 'WashU Residency in Neurological Surgery, 2025'.",
+  "confidence": "medium",
+  "notes": "Consistent with 'LEFT -> outcome unknown'. Departure after PGY1 appears real (replaced on roster by Salil Bhole). Not to be confused with Kyle McGrath, DO (Univ. of Cincinnati neurosurgery resident, Ohio Univ. DO) - a different person."
+ },
+ {
+  "name": "Christian B. Ricks",
+  "program_id": 116,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UPMC / University of Pittsburgh",
+   "start": 2012,
+   "end": 2019
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Neurocritical care (CAST/UCNS)",
+    "institution": "University of Pittsburgh",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Minimally invasive and deformity spine",
+    "institution": null,
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Associate Professor of Neurosurgery, University of New Mexico",
+  "sources": [
+   "https://www.doximity.com/pub/christian-ricks-md",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates",
+   "https://hsc.unm.edu/directory/ricks-christian.html"
+  ],
+  "evidence": "Doximity: Neurological Surgery residency, UPMC 2012-2019; Pitt graduates page lists him as 2019 graduate; UNM bio confirms Pitt neurosurgery residency.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Michael McDowell",
+  "program_id": 116,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UPMC / University of Pittsburgh",
+   "start": 2014,
+   "end": 2021
+  },
+  "other_training": [
+   {
+    "type": "internship",
+    "specialty": "Neurosurgery (PGY1)",
+    "institution": "UPMC",
+    "start": 2014,
+    "end": 2015
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Pediatric neurosurgery",
+    "institution": "UPMC Children's Hospital of Pittsburgh",
+    "start": 2021,
+    "end": 2022
+   }
+  ],
+  "current_position": "Associate Professor of Neurosurgery (pediatric), Penn State Health",
+  "sources": [
+   "https://www.pennstatehealth.org/doctors/michael-m-mcdowell-md",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates"
+  ],
+  "evidence": "Pitt graduates page lists Michael McDowell as 2021 graduate linking to Penn State Health bio; bio: Columbia MD 2014, residency UPMC 2021, pediatric neurosurgery fellowship UPMC Children's 2022.",
+  "confidence": "high",
+  "notes": "Identity tied via Pitt graduates page link (Michael M. McDowell)."
+ },
+ {
+  "name": "Edward Andrews",
+  "program_id": 116,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of Pittsburgh (UPMC)",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Neuro-oncologic surgery (enfolded)",
+    "institution": "University of Pittsburgh",
+    "start": 2020,
+    "end": 2022
+   }
+  ],
+  "current_position": "Assistant Professor, University of Pittsburgh Department of Neurological Surgery",
+  "sources": [
+   "https://www.doximity.com/pub/edward-andrews-md",
+   "https://www.neurosurgery.pitt.edu/people/edward-andrews",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates"
+  ],
+  "evidence": "Doximity: Neurological Surgery residency UPMC 2016-2023; Pitt faculty bio: completed residency 2023, joined faculty July 2023.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Arka N. Mallela",
+  "program_id": 116,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of Pittsburgh",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Epilepsy/functional neurosurgery (enfolded)",
+    "institution": "University of Pittsburgh",
+    "start": 2023,
+    "end": 2025
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Neurosurgical oncology (enfolded)",
+    "institution": "University of Pittsburgh",
+    "start": 2024,
+    "end": 2025
+   }
+  ],
+  "current_position": "Assistant Professor of Neurosurgery, Rush University, Chicago",
+  "sources": [
+   "https://www.doximity.com/pub/arka-mallela-md",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates"
+  ],
+  "evidence": "Doximity: residency University of Pittsburgh Dept. of Neurological Surgery 2018-2025; Pitt graduates page lists 2025, linking to Rush profile.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Ricardo Fernandez-de Thomas",
+  "program_id": 116,
+  "verdict": "joined_from_elsewhere",
+  "neurosurgery_residency": {
+   "institution": "UPMC (completed); started at University of Puerto Rico",
+   "start": 2017,
+   "end": 2025
+  },
+  "other_training": [
+   {
+    "type": "residency",
+    "specialty": "Neurological surgery (PGY1-4, prior program)",
+    "institution": "University of Puerto Rico",
+    "start": 2017,
+    "end": 2021
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Complex/minimally invasive spine deformity (AO Spine/CAST)",
+    "institution": "UPMC",
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Neurosurgeon (complex spine), Caguas, Puerto Rico",
+  "sources": [
+   "https://www.doximity.com/pub/ricardo-fernandez-de-thomas-md",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates"
+  ],
+  "evidence": "Doximity: Neurological Surgery residency University of Puerto Rico 2017-2021, then UPMC 2021-2025; Pitt graduates page lists him as 2025 graduate.",
+  "confidence": "high",
+  "notes": "Current_outcome 'COMPLETED' is right but he transferred IN from University of Puerto Rico in 2021 (explains entry_year_est 2021 with PGY7 in 2024-25). Name variant: Ricardo J. Fernandez-de Thomas."
+ },
+ {
+  "name": "Darryl Lau",
+  "program_id": 76,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of California, San Francisco",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon (spine), NYU Langone, New York, NY",
+  "sources": [
+   "https://www.doximity.com/pub/darryl-lau-md",
+   "https://neurosurgery.ucsf.edu/news/neurosurgery-department-celebrates-residency-program-graduates",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1801138060"
+  ],
+  "evidence": "Doximity: Neurological Surgery residency UCSF 2013-2020 (Michigan MD 2013); UCSF graduation news profiles him as a graduating chief resident.",
+  "confidence": "high",
+  "notes": "The UCSF article mentions a fellowship after residency, but I didn't capture its details."
+ },
+ {
+  "name": "Kunal Raygor",
+  "program_id": 76,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of California, San Francisco",
+   "start": 2015,
+   "end": 2022
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Endovascular neurosurgery",
+    "institution": "University at Buffalo",
+    "start": 2022,
+    "end": 2023
+   }
+  ],
+  "current_position": "Neurosurgeon, Vanderbilt University Medical Center, Nashville, TN",
+  "sources": [
+   "https://neurosurgery.ucsf.edu/news/neurosurgery-department-celebrates-residency-program-graduates-2022",
+   "https://www.doximity.com/pub/kunal-raygor-md",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1871987172"
+  ],
+  "evidence": "UCSF 2022 graduates article: Kunal P. Raygor completed UCSF neurosurgery residency, going on to Univ. at Buffalo endovascular fellowship. Doximity/NPI: NY license 2022, TN license 2024, practicing at Vanderbilt.",
+  "confidence": "high",
+  "notes": "Residency start 2015 is from the roster estimate (UCSF MD 2014); fellowship years inferred from the dates on his NY license."
+ },
+ {
+  "name": "John Andrews",
+  "program_id": 76,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of California, San Francisco",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Pediatric neurosurgery",
+    "institution": "Children's Hospital of Philadelphia",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "current_position": "Pediatric neurosurgery fellow, CHOP (per UCSF 2025 graduation article)",
+  "sources": [
+   "https://neurosurgery.ucsf.edu/news/neurosurgery-department-celebrates-residency-program-graduates-of-2025",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1780175786"
+  ],
+  "evidence": "UCSF 'Graduates of 2025' article profiles John Andrews, MD (Yale MD; UCSF resident mentored by Chang, Berger and Nowakowski), who after residency will do a pediatric neurosurgery fellowship at CHOP. NPI John Paul Andrews, neurosurgery, UCSF Parnassus.",
+  "confidence": "high",
+  "notes": "Ambiguous name resolved: the UCSF resident is John Paul Andrews (Yale MD). Doximity 'John James Andrews' in New York (Mount Sinai) is a different person."
+ },
+ {
+  "name": "Douglas Hardesty",
+  "program_id": 4,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute (St. Joseph's)",
+   "start": 2011,
+   "end": 2018
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Minimally invasive cranial surgery (enfolded)",
+    "institution": "The Ohio State University Wexner Medical Center",
+    "start": 2016,
+    "end": 2017
+   }
+  ],
+  "current_position": "Staff neurosurgeon, Golden, CO",
+  "sources": [
+   "https://www.doximity.com/pub/douglas-hardesty-md"
+  ],
+  "evidence": "Doximity: Penn MD 2011; Neurological Surgery residency Barrow/St Joseph's 2011-2018; fellowship Ohio State 2016-2017.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Macaulay Nwojo",
+  "program_id": 4,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute (St. Joseph's)",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Complex spine (enfolded)",
+    "institution": "Barrow Neurological Institute",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Cerebrovascular/skull base (enfolded, chief year)",
+    "institution": "Barrow Neurological Institute",
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Neurosurgeon, Odessa, TX",
+  "sources": [
+   "https://www.doximity.com/pub/macaulay-nwojo-md"
+  ],
+  "evidence": "Doximity: Mayo MD 2013; Neurological Surgery residency Barrow/St Joseph's 2013-2020.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Tyler Cole",
+  "program_id": 4,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute (St. Joseph's)",
+   "start": 2015,
+   "end": 2022
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Neuroendovascular intervention",
+    "institution": "Barrow Neurological Institute",
+    "start": 2022,
+    "end": 2023
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Epilepsy",
+    "institution": "UC Irvine",
+    "start": 2021,
+    "end": 2021
+   }
+  ],
+  "current_position": "Neurosurgeon (cerebrovascular/endovascular), Los Angeles, CA (Cedars-Sinai address)",
+  "sources": [
+   "https://www.doximity.com/pub/tyler-cole-md"
+  ],
+  "evidence": "Doximity (Tyler Scott Cole): Stanford MD 2015; Neurological Surgery residency Barrow 2015-2022; neuroendovascular fellowship Barrow 2022-2023.",
+  "confidence": "high",
+  "notes": "Ambiguous name resolved: Doximity lists his residency at Barrow."
+ },
+ {
+  "name": "Michelle Chua",
+  "program_id": 4,
+  "verdict": "not_found",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute (St. Joseph's)",
+   "start": 2017,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Unknown",
+  "sources": [
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1952831935",
+   "https://web.archive.org/web/20180812054505/https://www.barrowneuro.org/get-to-know-barrow/departments/department-of-neurosurgery/neurosurgery-residents/"
+  ],
+  "evidence": "Barrow roster lists Michelle Chua, MD as PGY-1 (2017-18) and PGY-2 (2018-19). Her only NPI (1952831935, Neurological Surgery, Arizona resident license R78196, Barrow address) was created 2017-06-13 and never updated; no later record found.",
+  "confidence": "low",
+  "notes": "Consistent with 'LEFT -> outcome unknown'. The web search limit was reached before I could search name variants. There is no other NPI under Michelle Chua; I didn't check for a possible name change. Her Barrow bio page returns 404 and has no archived copy."
+ },
+ {
+  "name": "Joelle Hartke",
+  "program_id": 4,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute (St. Joseph's)",
+   "start": 2019,
+   "end": 2026
+  },
+  "other_training": [],
+  "current_position": "Presumed recent graduate; NPI still shows trainee status at Barrow",
+  "sources": [
+   "https://www.doximity.com/pub/joelle-hartke-md"
+  ],
+  "evidence": "Doximity: Buffalo MD 2019; Neurological Surgery residency Barrow/St Joseph's '2019-2025'. Program roster has her as PGY-7 in 2025-26.",
+  "confidence": "medium",
+  "notes": "Doximity end year 2025 conflicts with the 7-year program/roster (PGY7 2025-26 -> grad 2026); likely Doximity shows an expected date. No post-residency job found yet."
+ },
+ {
+  "name": "Brian Hwang",
+  "program_id": 30,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Johns Hopkins",
+   "start": 2011,
+   "end": 2022
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Functional neurosurgery (enfolded)",
+    "institution": "Johns Hopkins",
+    "start": 2019,
+    "end": null
+   }
+  ],
+  "current_position": "Private practice neurosurgeon, Providence, Orange County, CA (Laguna Hills)",
+  "sources": [
+   "https://web.archive.org/web/20251015120251/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1699087908"
+  ],
+  "evidence": "Hopkins alumni list: Class of 2022 Brian Hwang - Private Practice, Providence, Orange County, CA. Hopkins roster: Brian Y. Hwang, Swarthmore 2005, Columbia MD 2011, enfolded functional fellowship. NPI: Brian Hwang MD, Neurological Surgery, Laguna Hills CA.",
+  "confidence": "high",
+  "notes": "Doximity 'brian-hwang-md' is a different person (plastic surgeon, West Hills CA). The 11-year span (2011-2022) suggests research years."
+ },
+ {
+  "name": "Christina Jackson",
+  "program_id": 30,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Johns Hopkins",
+   "start": 2014,
+   "end": 2021
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Skull base (endoscopic endonasal/open)",
+    "institution": "UPMC",
+    "start": 2021,
+    "end": 2022
+   }
+  ],
+  "current_position": "Assistant Professor of Neurosurgery, University of Pennsylvania",
+  "sources": [
+   "https://www.doximity.com/pub/christina-jackson-md",
+   "https://web.archive.org/web/20251015120251/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1821416397"
+  ],
+  "evidence": "Doximity: Harvard MD 2014; Neurological Surgery residency Johns Hopkins 2014-2021; UPMC fellowship 2021-2022; Penn faculty. Hopkins alumni list: Class of 2021 Christina Jackson - Faculty, University of Pennsylvania.",
+  "confidence": "high",
+  "notes": "NPI lists former name 'Christina Chen'."
+ },
+ {
+  "name": "Ann Liu",
+  "program_id": 30,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Johns Hopkins",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [],
+  "current_position": "Neurosurgery faculty, South Shore University Hospital (Northwell), Bay Shore, NY",
+  "sources": [
+   "https://web.archive.org/web/20251015120251/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1831552868"
+  ],
+  "evidence": "Hopkins alumni list: Class of 2023 Ann Liu - Faculty, South Shore University Hospital, NY. Hopkins roster: UNC 2011, Johns Hopkins MD 2016. NPI Ann Liu MD, Neurological Surgery, Bay Shore NY (enumerated 2016).",
+  "confidence": "high",
+  "notes": "Doximity 'ann-liu-md' is a different person (pediatrician, Dallas)."
+ },
+ {
+  "name": "Alice Hung",
+  "program_id": 30,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Johns Hopkins",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [],
+  "current_position": "Postdoctoral fellow, University of Pennsylvania (per Hopkins alumni list); NPI address Lancaster, PA",
+  "sources": [
+   "https://www.doximity.com/pub/alice-hung-md",
+   "https://web.archive.org/web/20251015120251/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni"
+  ],
+  "evidence": "Doximity: Johns Hopkins MD 2017; Neurological Surgery residency Johns Hopkins 2018-2025. Hopkins alumni list: Class of 2025 Alice Hung - Postdoctoral Fellow, University of Pennsylvania.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Anne Park",
+  "program_id": 41,
+  "verdict": "switched_specialty",
+  "neurosurgery_residency": {
+   "institution": "McGaw Medical Center of Northwestern University",
+   "start": 2011,
+   "end": null
+  },
+  "other_training": [
+   {
+    "type": "residency",
+    "specialty": "Anesthesiology (+ Pain Medicine fellowship)",
+    "institution": null,
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Anesthesiologist/pain medicine physician, California (NPI: Cedars-Sinai address, West Hollywood; Doximity Anne Park MD, board-certified Anesthesiology + Pain Medicine, Emeryville CA)",
+  "sources": [
+   "https://web.archive.org/web/20260312070056/https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1093001737",
+   "https://www.doximity.com/pub/anne-park-md"
+  ],
+  "evidence": "NPI 1093001737 (Anne Elizabeth Park MD, enumerated 2011-06-21) lists a secondary taxonomy 'Neurological Surgery' with an Illinois license (125-series, same series as Northwestern resident licenses), and primary 'Anesthesiology, Pain Medicine' with a CA license. Northwestern alumni list has no Anne Park (2018 class shows only Angela Bohnen, her 2011 co-intern).",
+  "confidence": "medium",
+  "notes": "DISAGREES with 'COMPLETED': she is not on Northwestern's graduate list, her last roster year was PGY4 (2014-15), and her NPI links an Illinois neurosurgery license to a physician now practicing anesthesiology/pain medicine in California. I couldn't find where or when she trained in anesthesiology (search limit reached). The Doximity profile in Emeryville is probably her but lists no training."
+ },
+ {
+  "name": "Madhav Sukumaran",
+  "program_id": 41,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "McGaw Medical Center of Northwestern University",
+   "start": 2014,
+   "end": 2021
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Cerebrovascular/endovascular neurosurgery",
+    "institution": "Brigham and Women's Hospital",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "current_position": "Neurosurgeon, UMass Memorial / UMass Chan, Worcester, MA",
+  "sources": [
+   "https://web.archive.org/web/20260312070056/https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+   "https://www.doximity.com/pub/madhav-sukumaran-md"
+  ],
+  "evidence": "Northwestern alumni list: Class of 2021 Madhav Sukumaran, MD, PhD - Cerebrovascular/Endovascular Fellowship, Brigham and Women's. Doximity: IL license 2014-2021, MA 2021-; NPI Neurological Surgery, Worcester MA.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Matthew Ordon",
+  "program_id": 41,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "McGaw Medical Center of Northwestern University",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Neuro-spine",
+    "institution": "University of Southern California",
+    "start": 2023,
+    "end": 2024
+   }
+  ],
+  "current_position": "Neurosurgeon, Boston, MA (NPI address Boston Medical Center, 725 Albany St)",
+  "sources": [
+   "https://web.archive.org/web/20260312070056/https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+   "https://www.doximity.com/pub/matthew-ordon-md"
+  ],
+  "evidence": "Northwestern alumni list: Class of 2023 Matthew Ordon, MD - Neuro-Spine Fellowship, USC. NPI: Neurological Surgery licenses IL, CA, MA.",
+  "confidence": "high",
+  "notes": "Doximity's dates are inconsistent (neurosurgery residency 2015-2022 alongside a 2016 USC MD), so I used the 2023 class year from the alumni page."
+ },
+ {
+  "name": "Kevin Chen",
+  "program_id": 91,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of Michigan",
+   "start": 2011,
+   "end": 2018
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Stereotactic/functional neurosurgery",
+    "institution": "Stanford University",
+    "start": 2018,
+    "end": 2019
+   }
+  ],
+  "current_position": "Clinical Assistant Professor of Neurosurgery and Neurology, Michigan Medicine (as of 2023-24)",
+  "sources": [
+   "https://web.archive.org/web/20240604225937/https://medicine.umich.edu/dept/neurosurgery/alumni",
+   "https://web.archive.org/web/20230402062446/https://medicine.umich.edu/dept/neurosurgery/kevin-chen-md",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1811223969"
+  ],
+  "evidence": "Michigan alumni list: 2018 Kevin Chen, M.D. - Michigan Medicine Dept of Neurosurgery, Clinical Assistant Professor. Michigan faculty bio: completed neurosurgical residency at Michigan Medicine and a stereotactic/functional fellowship at Stanford.",
+  "confidence": "high",
+  "notes": "Ambiguous name resolved through Michigan's own alumni and faculty pages; the faculty profile is the same URL the resident roster linked to. NPI name: Kevin Showen Chen MD. Fellowship years are inferred."
+ },
+ {
+  "name": "David Altshuler",
+  "program_id": 91,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of Michigan",
+   "start": 2014,
+   "end": 2021
+  },
+  "other_training": [],
+  "current_position": "Clinical Assistant Professor, Michigan Medicine Departments of Neurosurgery and Otolaryngology (as of 2024)",
+  "sources": [
+   "https://web.archive.org/web/20240604225937/https://medicine.umich.edu/dept/neurosurgery/alumni",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1740670330"
+  ],
+  "evidence": "Michigan alumni list: 2021 David Altshuler, M.D., M.S. - Michigan Medicine Neurosurgery & Otolaryngology, Clinical Assistant Professor. NPI David Bernard Altshuler MD, Neurological Surgery, Ann Arbor.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Sravanthi Koduri",
+  "program_id": 91,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of Michigan",
+   "start": 2017,
+   "end": 2024
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Allentown, PA (1250 S Cedar Crest Blvd - Lehigh Valley Health Network address)",
+  "sources": [
+   "https://www.doximity.com/pub/sravanthi-koduri-md"
+  ],
+  "evidence": "Doximity: Drexel MD 2017; Neurological Surgery residency University of Michigan 2017-2024; practicing in Allentown, PA.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Daniel Hirt",
+  "program_id": 67,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UCLA",
+   "start": 2011,
+   "end": 2018
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Los Angeles, CA",
+  "sources": [
+   "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/alumni/alumni-list",
+   "https://www.doximity.com/pub/daniel-hirt-md"
+  ],
+  "evidence": "UCLA alumni list: 2018 Daniel Hirt, M.D., Los Angeles. Doximity: UCSD MD 2011; UCLA Neurological Surgery residency 2011-2018.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Jos'lyn Woodard",
+  "program_id": 67,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UCLA",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [],
+  "current_position": "Assistant Professor, OHSU Neurological Surgery, Portland, OR",
+  "sources": [
+   "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/alumni/alumni-list",
+   "https://www.doximity.com/pub/joslyn-woodard-md"
+  ],
+  "evidence": "UCLA alumni list: 2020 Jos'lyn Woodard, M.D., Portland, OR. Doximity: Stanford MD 2013; UCLA Neurological Surgery residency 2013-2020; OHSU Assistant Professor.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Azim Laiwalla",
+  "program_id": 67,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UCLA",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Los Angeles, CA (UCLA address)",
+  "sources": [
+   "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/alumni/alumni-list",
+   "https://www.doximity.com/pub/azim-laiwalla-md"
+  ],
+  "evidence": "UCLA alumni list: 2023 Azim Laiwalla, M.D., Ph.D., Los Angeles. Doximity: UCLA MD 2015; UCLA Neurological Surgery residency 2016-2023.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "H. Milan Samarage",
+  "program_id": 67,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UCLA",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [],
+  "current_position": "Boston, MA (per UCLA alumni list; likely fellowship)",
+  "sources": [
+   "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/alumni/alumni-list"
+  ],
+  "evidence": "UCLA alumni list: 2025 H. Milan Samarage, M.D., Boston, MA.",
+  "confidence": "high",
+  "notes": "Full name Hasitha Milan Samarage, MBBS, MRCS (UK-trained; NPI issued 2018). I didn't identify his current role in Boston."
+ },
+ {
+  "name": "Mary Huang Cobb",
+  "program_id": 19,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Duke University",
+   "start": 2011,
+   "end": 2018
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Chesapeake Regional Medical Group, Chesapeake, VA",
+  "sources": [
+   "https://neurosurgery.duke.edu/education-and-training/residency-program/alumni",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1730492836"
+  ],
+  "evidence": "Duke alumni list: Mary In-Ping Huang Cobb, MD, graduated 2018 - Neurosurgeon, Chesapeake Regional Medical Group. NPI Mary In-Ping Huang Cobb MD, Neurological Surgery, Chesapeake VA.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Vadim Tsvankin",
+  "program_id": 19,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Duke University",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Neuro-oncology (enfolded)",
+    "institution": "Duke University",
+    "start": 2019,
+    "end": 2020
+   }
+  ],
+  "current_position": "Associate Professor of Neurosurgery, University of Colorado (Duke alumni list: Colorado Brain and Spine Institute)",
+  "sources": [
+   "https://neurosurgery.duke.edu/education-and-training/residency-program/alumni",
+   "https://www.doximity.com/pub/vadim-tsvankin-md"
+  ],
+  "evidence": "Doximity: Colorado MD 2013; Neurological Surgery residency Duke 2013-2020. Duke alumni list: graduated 2020.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Vikram Mehta",
+  "program_id": 19,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Duke University",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Hoag Physician Partners, Newport Beach, CA",
+  "sources": [
+   "https://neurosurgery.duke.edu/education-and-training/residency-program/alumni",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1043673684"
+  ],
+  "evidence": "Duke alumni list: Vikram Mehta, MD, MPH, graduated 2023 - Neurosurgeon, Hoag Physician Partners. NPI Vikram Mehta MD MPH, Neurological Surgery, Newport Beach (enumerated 2016).",
+  "confidence": "high",
+  "notes": "Doximity 'vikram-mehta-md' is a different person (family medicine, Elkhart IN)."
+ },
+ {
+  "name": "Prince Antwi",
+  "program_id": 19,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Duke University",
+   "start": 2019,
+   "end": 2026
+  },
+  "other_training": [
+   {
+    "type": "other",
+    "specialty": "MS Global Health",
+    "institution": "Duke University",
+    "start": 2022,
+    "end": 2024
+   }
+  ],
+  "current_position": "University of Oklahoma, Oklahoma City (likely fellowship; NPI OK neurosurgery license)",
+  "sources": [
+   "https://neurosurgery.duke.edu/education-and-training/residency-program/alumni",
+   "https://www.doximity.com/pub/prince-antwi-md",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1346733888"
+  ],
+  "evidence": "Doximity: Yale MD 2019; Neurological Surgery residency Duke 2019-2026. Duke alumni list: Prince Antwi, MD, graduated 2026 - University of Oklahoma.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Maheen Khan",
+  "program_id": 60,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Saint Louis University (SSM Health)",
+   "start": 2015,
+   "end": 2022
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Orange, CA (NPI address UC Irvine Medical Center, 101 The City Dr S)",
+  "sources": [
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1144601386"
+  ],
+  "evidence": "SLU roster: Maheen Khan, M.D., UMKC MD, neuro-oncology/skull base interest, PGY-7 in 2021-22. NPI 1144601386 Maheen Qamar Khan MD (enumerated 2015-06-12, i.e., SLU start) holds Neurological Surgery licenses in Missouri and California, practice location UC Irvine.",
+  "confidence": "medium",
+  "notes": "No bio, US News or Doximity source confirms she completed residency (search limit reached). Identity is inferred from the NPI: neurosurgery taxonomy, a Missouri license, and a 2015 enumeration date. Other 'Maheen Khan' NPIs (nephrology in St. Louis, etc.) are different people."
+ },
+ {
+  "name": "Anthony Burrows",
+  "program_id": 40,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic (Rochester)",
+   "start": 2011,
+   "end": 2018
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Duluth, MN",
+  "sources": [
+   "https://www.doximity.com/pub/anthony-burrows-md"
+  ],
+  "evidence": "Doximity (Anthony M. Burrows): UMass MD 2011; Neurological Surgery residency Mayo Clinic Rochester 2011-2018; ABNS certified.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Ross Puffer",
+  "program_id": 40,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic (Rochester)",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Bethesda, MD (NPI address 8901 Wisconsin Ave - Walter Reed)",
+  "sources": [
+   "https://www.doximity.com/pub/ross-puffer-md"
+  ],
+  "evidence": "Doximity: Mayo MD 2013; Neurological Surgery residency Mayo Clinic Rochester 2013-2020; ABNS certified.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Megan Kaszuba Everson",
+  "program_id": 40,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic (Rochester)",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Eau Claire, WI (Mayo Clinic Health System address)",
+  "sources": [
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1417311069"
+  ],
+  "evidence": "NPI 1417311069: Megan C. Everson MD (former name Megan C. Kaszuba), Neurological Surgery, WI and MN licenses, practice in Eau Claire WI; enumerated 2016 (Mayo start). Mayo roster listed 'Megan Kaszuba, M.D.'",
+  "confidence": "medium",
+  "notes": "No bio confirms her completion year (search limit reached); roster shows PGY7 in 2022-23. Doximity 'megan-everson-md' is a different person (Megan M. Everson, family medicine, Appleton WI)."
+ },
+ {
+  "name": "Ryan Naylor",
+  "program_id": 40,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic (Rochester)",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [],
+  "current_position": "Assistant Professor of Neurosurgery, University of Chicago",
+  "sources": [
+   "https://www.doximity.com/pub/ryan-naylor-md",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1215433206"
+  ],
+  "evidence": "Doximity: Mayo MD 2016; Neurological Surgery residency Mayo Clinic Rochester 2018-2025; Asst Prof, University of Chicago. NPI Ryan Marcus Naylor MD PhD, neurosurgery, Chicago (also MN, CA licenses).",
+  "confidence": "high",
+  "notes": ""
+ }
+]

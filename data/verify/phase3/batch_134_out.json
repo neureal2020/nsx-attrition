@@ -1,0 +1,1007 @@
+[
+ {
+  "key": "105:mar:pernik",
+  "name": "Mark Pernik",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "UTHSC roster lists Mark Pernik PGY-5; search snippet/LinkedIn 'UTHSC Neurosurgery Resident', UT Southwestern MD 2018-2022",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-5), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Mark Pernik, MD\" under PGY-5"
+   },
+   {
+    "url": "https://www.linkedin.com/in/mark-n-pernik-868204102/",
+    "type": "search_snippet",
+    "evidence": "Mark N. Pernik - UTHSC Neurosurgery Resident"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "105:cli:yudkoff",
+  "name": "Cliff Yudkoff",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "UTHSC roster + Doximity: Residency Neurological Surgery UT College of Medicine 2023-2030, Sidney Kimmel MC 2023",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-4), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Cliff Yudkoff, MD\" under PGY-4"
+   },
+   {
+    "url": "https://www.doximity.com/pub/clifford-yudkoff-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030 (University of Tennessee College of Medicine); Sidney Kimmel Medical College Class of 2023"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "105:dav:matichak",
+  "name": "David Matichak",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "UTHSC roster + Doximity: Residency Neurological Surgery UT COM 2023-2030, Univ of Miami MD 2023",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-4), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"David Matichak, MD\" under PGY-4"
+   },
+   {
+    "url": "https://www.doximity.com/pub/david-matichak-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030; Univ of Miami Miller SOM Class of 2023"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "105:jac:mcnulty",
+  "name": "Jack McNulty",
+  "program_id": 105,
+  "identity": "probable",
+  "identity_basis": "UTHSC roster lists Jack McNulty PGY-4; Doximity pub/jack-mcnulty-md is an Iowa City neurosurgery profile (not confirmed same person, not opened) so not used",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. Doximity search returned only namesake profiles (Iowa City; New York resident); none matched Memphis.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-4), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Jack McNulty, MD\" under PGY-4"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "105:emi:estes",
+  "name": "Emily Estes",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "UTHSC roster + Doximity Memphis: Residency Neurological Surgery UT COM 2024-2031",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-3), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Emily Estes, MD\" under PGY-3"
+   },
+   {
+    "url": "https://www.doximity.com/pub/emily-estes-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031 (University of Tennessee College of Medicine), Memphis TN"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:ho:yun",
+  "name": "Ho Jun Yun",
+  "program_id": 105,
+  "identity": "probable",
+  "identity_basis": "UTHSC roster lists Ho Jun Yun PGY-3; search snippet: 'Ho Jun Yun, MD is a PGY-3 neurosurgery resident at UTHSC'; Doximity pub/ho-yun-pa is Springfield MA PA (different)",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-3), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Ho Jun Yun, MD\" under PGY-3"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:tay:orr",
+  "name": "Taylor Orr",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "UTHSC roster + Doximity Memphis: Residency 2024-2031 UT COM; UTHSC COM Class of 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-3), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Taylor Orr, MD\" under PGY-3"
+   },
+   {
+    "url": "https://www.doximity.com/pub/taylor-orr-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031; UTHSC College of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:ale:fabiano",
+  "name": "Alex Fabiano",
+  "program_id": 105,
+  "identity": "probable",
+  "identity_basis": "UTHSC roster lists Alex Fabiano PGY-2; LinkedIn/ResearchGate show an Alexander Fabiano at UT Southwestern neurosurgery research/med student (consistent)",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-2), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Alex Fabiano, MD\" under PGY-2"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:con:jacob",
+  "name": "Connor Jacob",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "UTHSC roster + Doximity Memphis: Residency 2025-2032 UT COM; Ohio State MD 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-2), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Connor Jacob, MD\" under PGY-2"
+   },
+   {
+    "url": "https://www.doximity.com/pub/connor-jacob-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2025 - 2032; Ohio State University College of Medicine Class of 2025"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:kai:young",
+  "name": "Kailah Young",
+  "program_id": 105,
+  "identity": "probable",
+  "identity_basis": "UTHSC roster lists Kailah Young PGY-2; snippet on UTHSC page; no independent profile",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-2), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Kailah Young, MD\" under PGY-2"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:alh:nagm",
+  "name": "Alhusain Nagm",
+  "program_id": 105,
+  "identity": "probable",
+  "identity_basis": "UTHSC roster lists Alhusain Nagm PGY-1; the widely visible Alhusain Nagm (consultant skull-base neurosurgeon, Univ of Maryland 360 Skull Base Lab) may be the same person doing US residency but not confirmed",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. Possible same person as a previously trained/consultant neurosurgeon abroad; not confirmed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Alhusain Nagm, MD\" under PGY-1"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:edw:robinson",
+  "name": "Edward Robinson",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "UTHSC roster + Doximity Memphis: Residency 2026-2033 UT COM; Morehouse SOM Class of 2026; Morehouse blog on matching at UTHSC",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Edward Robinson, MD\" under PGY-1"
+   },
+   {
+    "url": "https://www.doximity.com/pub/edward-robinson-md-507cc7e3",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2026 - 2033; Morehouse School of Medicine Class of 2026 (redirected to -b468da5a)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:jen:naquin",
+  "name": "Jenae' Naquin",
+  "program_id": 105,
+  "identity": "probable",
+  "identity_basis": "UTHSC roster lists Jenae' Naquin PGY-1; LinkedIn snippet 'Medical Student at LSU Health Shreveport' (consistent)",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Jenae' Naquin, MD\" under PGY-1"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:max:bassett",
+  "name": "Maxon Bassett",
+  "program_id": 105,
+  "identity": "probable",
+  "identity_basis": "UTHSC roster lists Maxon Bassett PGY-1; publication affiliation University of South Alabama Neurosurgery (medical student)",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (UTHSC/Semmes Murphey), Memphis",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on the UTHSC neurosurgery current-residents page in 2026-27; no completion or departure evidence. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), UTHSC Memphis, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents page lists \"Maxon Bassett, MD\" under PGY-1"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "106:vik:kohli",
+  "name": "Vik Kohli",
+  "program_id": 106,
+  "identity": "confirmed",
+  "identity_basis": "Dell listing PGY-5, Dell MD/MBA 2022; Doximity Neurosurgery Austin, Dell MD Class of 2022",
+  "residency_stated": [
+   {
+    "institution": "University of Texas at Austin Dell Medical School, Austin",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Dell Medical School neurosurgery resident listing; no departure evidence.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-5), Dell Medical School, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://dellmed.utexas.edu/education/academics/graduate-medical-education/neurosurgery-residency/resident-listing",
+    "type": "program_page",
+    "evidence": "Dell Neurosurgery resident listing shows Vik Kohli as PGY-5"
+   },
+   {
+    "url": "https://www.doximity.com/pub/vik-kohli-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Austin TX; Dell Medical School Class of 2022 (no residency entry shown)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "106:vic:o",
+  "name": "Victor Castaño",
+  "program_id": 106,
+  "identity": "confirmed",
+  "identity_basis": "Dell listing PGY-4, Columbia VP&S MD/MS; Doximity Victor Castano, Resident Physician Austin, Columbia Class of 2022",
+  "residency_stated": [
+   {
+    "institution": "University of Texas at Austin Dell Medical School, Austin",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Dell Medical School neurosurgery resident listing; no departure evidence.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-4), Dell Medical School, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://dellmed.utexas.edu/education/academics/graduate-medical-education/neurosurgery-residency/resident-listing",
+    "type": "program_page",
+    "evidence": "Dell Neurosurgery resident listing shows Victor Castaño as PGY-4"
+   },
+   {
+    "url": "https://www.doximity.com/pub/victor-castano-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Austin TX; Columbia VP&S Class of 2022"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "106:lia:goldman",
+  "name": "Liam Goldman",
+  "program_id": 106,
+  "identity": "confirmed",
+  "identity_basis": "Dell listing PGY-3, Medical College of Georgia MD; Doximity Liam Goldman Austin (a second Liam Goldman neurosurgery profile in Atlanta is a namesake)",
+  "residency_stated": [
+   {
+    "institution": "University of Texas at Austin Dell Medical School, Austin",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Dell Medical School neurosurgery resident listing; no departure evidence.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-3), Dell Medical School, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://dellmed.utexas.edu/education/academics/graduate-medical-education/neurosurgery-residency/resident-listing",
+    "type": "program_page",
+    "evidence": "Dell Neurosurgery resident listing shows Liam Goldman as PGY-3"
+   },
+   {
+    "url": "https://www.doximity.com/pub/liam-goldman-md",
+    "type": "doximity",
+    "evidence": "Liam Vining Goldman MD, Neurosurgery, Austin TX, Dell Medical School address; search snippet says residency 2024-2031"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "106:vin:provasek",
+  "name": "Vincent Provasek",
+  "program_id": 106,
+  "identity": "confirmed",
+  "identity_basis": "Dell listing PGY-2, TAMU MD/PhD; Doximity: Dell Neurosurgery 2025-2032, TAMU HSC Class of 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Texas at Austin Dell Medical School, Austin",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Dell Medical School neurosurgery resident listing; no departure evidence.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-2), Dell Medical School, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://dellmed.utexas.edu/education/academics/graduate-medical-education/neurosurgery-residency/resident-listing",
+    "type": "program_page",
+    "evidence": "Dell Neurosurgery resident listing shows Vincent Provasek as PGY-2"
+   },
+   {
+    "url": "https://www.doximity.com/pub/vincent-provasek-md",
+    "type": "doximity",
+    "evidence": "University of Texas at Austin Dell Medical School, Neurosurgery, 2025 - 2032; Texas A&M HSC College of Medicine Class of 2025"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "106:ryl:wackerly",
+  "name": "Rylie Wackerly",
+  "program_id": 106,
+  "identity": "confirmed",
+  "identity_basis": "Dell listing PGY-1, Sam Houston State COM DO; X post by Dell neurosurgery faculty welcoming incoming intern Rylie Wackerly (Match 2026)",
+  "residency_stated": [
+   {
+    "institution": "University of Texas at Austin Dell Medical School, Austin",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Dell Medical School neurosurgery resident listing; no departure evidence.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), Dell Medical School, 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://dellmed.utexas.edu/education/academics/graduate-medical-education/neurosurgery-residency/resident-listing",
+    "type": "program_page",
+    "evidence": "Dell Neurosurgery resident listing shows Rylie Wackerly as PGY-1"
+   },
+   {
+    "url": "https://x.com/kevinkumar/status/2035131305759818021",
+    "type": "search_snippet",
+    "evidence": "Welcome our new incoming intern, Rylie Wackerly, to @DellMedSchool at Austin Neurosurgery!"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "107:ali:turkmani",
+  "name": "Ali Turkmani",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UTHealth Houston 2013-2017, ABNS; earlier MD/neurosurgery AUB; Mayo Clinic AZ bio",
+  "residency_stated": [
+   {
+    "institution": "UT Health Science Center at Houston (McGovern) neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2017
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transfer-in to UTHealth at PGY-3 (2013) after AUB neurosurgery; completed UTHealth residency; ABNS certified. Doximity lists 2013-2017 (alumni page says graduated 2018).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (cerebrovascular), Mayo Clinic Arizona, Phoenix",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ali-hassoun-turkmani-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2017 (UTHealth Houston); American Board of Neurological Surgery; American University of Beirut Neurological Surgery"
+   },
+   {
+    "url": "https://www.mayoclinic.org/biographies/turkmani-ali-m-d/bio-20407526",
+    "type": "search_snippet",
+    "evidence": "Mayo Clinic neurosurgeon, cerebrovascular/endovascular"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "107:sai:morris",
+  "name": "Saint-Aaron Morris",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UTHealth Houston 2011-2018, McGovern MD 2011, ABNS; Northside Hospital bio",
+  "residency_stated": [
+   {
+    "institution": "UT Health Science Center at Houston (McGovern) neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UTHealth neurosurgery residency 2018; ABNS certified; practising spine/neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Northside Hospital Cherokee, Canton GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/saint-aaron-morris-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; McGovern Medical School Class of 2011; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "107:wes:jones",
+  "name": "Wesley Jones",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Wesley Harris Jones: Residency UTHealth Houston 2011-2018 (chief 2016-17), ABNS; co-authored chapters with Morris and abstracts with Monsivais/Kerr (same cohort); Memorial Hermann bio. Another Katy Wesley Jones Doximity page exists (same physician per press release)",
+  "residency_stated": [
+   {
+    "institution": "UT Health Science Center at Houston (McGovern) neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UTHealth residency (chief resident) 2018; dual fellowships; ABNS.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Memorial Hermann/Katy area, Texas",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/wesley-jones-md-d93a1794",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; Chief Residency 2016 - 2017; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://memorialhermann.org/about-us/newsroom/press-releases/wesley-jones-joins-mischer-neuroscience-associates-katy-neurosurgery",
+    "type": "search_snippet",
+    "evidence": "residency at Vivian L. Smith Department of Neurosurgery, McGovern Medical School UTHealth"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "107:dan:monsivais",
+  "name": "Daniel Monsivais",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency UTHealth Houston 2012-2019, UTMB MD 2012, ABNS; practice bio 'residency at University of Texas at Houston'",
+  "residency_stated": [
+   {
+    "institution": "UT Health Science Center at Houston (McGovern) neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UTHealth residency 2019; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, San Antonio TX (formerly USAF, SAMMC)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-monsivais-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; UTMB Class of 2012; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://danielmonsivaismd.com/about-dr-monsivais",
+    "type": "search_snippet",
+    "evidence": "completing his neurosurgical residency at the University of Texas at Houston"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "107:jes:stark",
+  "name": "Jessica Stark",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Jessica Ruby Stark: Residency UTHealth 2012-2018/19, fellowship spine 2018-19, ABNS; UTHealth faculty bio: residency at UTHealth, chief resident",
+  "residency_stated": [
+   {
+    "institution": "UT Health Science Center at Houston (McGovern) neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UTHealth residency (chief); spine fellowship same institution; ABNS.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor, spine neurosurgeon, UTHealth Houston",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jessica-stark-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; Fellowship Neurosurgical Spine Surgery 2018-2019; ABNS"
+   },
+   {
+    "url": "https://med.uth.edu/neurosurgery/2022/11/01/jessica-r-stark-md-mph/",
+    "type": "search_snippet",
+    "evidence": "completed residency training at UTHealth Houston, where she was chief resident"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "107:kei:kerr",
+  "name": "Keith Kerr",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency UTHealth Houston 2013-2020, McGovern MD 2013, ABNS; Memorial Hermann bio",
+  "residency_stated": [
+   {
+    "institution": "UT Health Science Center at Houston (McGovern) neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UTHealth residency 2020; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Cypress TX (Memorial Hermann / HCA)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/keith-kerr-md-bfbad5de",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; McGovern Class of 2013; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 3
+ }
+]

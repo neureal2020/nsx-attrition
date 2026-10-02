@@ -1,0 +1,283 @@
+{
+ "program_id": 108,
+ "name": "University of Texas Health Science Center San Antonio Joe and Teresa Lozano Long School of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "complement_note": "Not stated on pages seen; observed intern classes 2-3 (3 in 2010-14, 2017-18, 2020-21, 2024-26; 2 in 2015-16, 2019, 2022-23).",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://neurosurgery.uthscsa.edu/gallery_photos_display.php?type=residents (old PHP dept site; resident gallery with PGY roman numerals; also served un-parameterised as gallery_photos_display.php?)",
+   "from": "2010-06",
+   "to": "2017-10"
+  },
+  {
+   "url": "http://neurosurgery.uthscsa.edu/residents.php, education.php, display_education.php (program text only, no names)",
+   "from": "2009",
+   "to": "2017-10"
+  },
+  {
+   "url": "https://neurosurgery.uthscsa.edu/ WordPress: /residents/ (2017-11..2018-01), /academics/residency/residents/ (2018-04), /residency/residents/ (2018-12), /team-members/residents/ (2019-08); alumni at /academics/residency/alumni/, /academics/alumni/, /alumni/. Wayback has almost nothing 2017-11..2019-07 (robots 403); these pages come from Common Crawl.",
+   "from": "2017-11",
+   "to": "2019-09"
+  },
+  {
+   "url": "https://lsom.uthscsa.edu/neurosurgery/team-members/residents/",
+   "from": "2019-10",
+   "to": "2021-01"
+  },
+  {
+   "url": "https://lsom.uthscsa.edu/neurosurgery/team-members/?...wpv-directory-type[]=resident (paginated 15/page directory; page 2 rarely archived) and unfiltered all-staff directory pages ?wpv_paged=N",
+   "from": "2021-03",
+   "to": "2026-05"
+  },
+  {
+   "url": "https://lsom.uthscsa.edu/neurosurgery/education/residency/current-residents/ (by PGY)",
+   "from": "2025-03",
+   "to": "live 2026-09-27 (Cloudflare blocks curl; WebFetch works)"
+  },
+  {
+   "url": "https://lsom.uthscsa.edu/neurosurgery/alumni/ (Alumni Directory with graduation year)",
+   "from": "2019-10",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2023-2024"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "LOW (phase 2). No resident-gallery capture between 2011-03-21 (2010-11) and 2013-05-15; residents.php/education.php captures in the window carry no names; no resident profile pages archived in window; Common Crawl CC-MAIN-2012 has only 3 unrelated records. Reconstructed 10 bracketed/alumni-confirmed residents. Not reconstructed: Bradley Dengler (first seen PGY III May 2013; not on Mar 2011 roster although his cohort-mates Kura/Son were PGY I then, so he joined in 2011-12 or 2012-13) and Mical Samuelson (PGY II Mar 2011, gone by May 2013, not on alumni list).",
+  "2012-2013": "Only capture is 2013-05-15 (spring). Complete 13-name list.",
+  "2013-2014": "Only resident listing is the un-parameterised gallery URL on 2014-03-17/2014-04-19 (spring); complete 14 names.",
+  "2014-2015": "Aug 2014 capture lists 13 (2014 interns not yet added); Feb 2015 capture (15) used.",
+  "2016-2017": "Sep 2016 used (17, incl. joiner David Wallace PGY IV). Apr 2017 capture no longer lists Kevin Carr (PGY IV): he left during 2016-17. Phase 2: Common Crawl CC-MAIN-2017-13 (2017-03-24) gallery lists 16 without Carr, so he left between Sep 2016 and Mar 2017.",
+  "2017-2018": "Aug/Sep 2017 captures lack interns; Oct 2017 used (16). Common Crawl Nov 2017/Jan 2018/Apr 2018 WP pages identical.",
+  "2018-2019": "No Wayback capture of any roster URL (host robots-blocked Nov 2017..mid 2019). Common Crawl CC-MAIN-2018-51 (2018-12-17) /residency/residents/ gives a complete 17-name list (source_type other). It includes Erick Garcia, PGY V, on no other roster (not on Oct 2017/Jan 2018/Apr 2018 lists, not on Aug/Oct 2019 lists, not on alumni list).",
+  "2019-2020": "Aug 2019 (neurosurgery.uthscsa.edu) and Oct/Nov 2019 (lsom) identical; only 2 interns (confirmed by 2020-21 PGY II).",
+  "2021-2022": "Resident-filtered directory is paginated (15 per page, alphabetical); page 1 (Farrell..Tavakoli) Oct 2021; residents after Tavakoli (Villahermosa PGY I, Webb PGY V) taken from the Jan 2022 all-staff directory page 4 (source_type other). Aaron Chance (surname sorts first) is absent: left after 2020-21.",
+  "2022-2023": "LOW (phase 2). Only page 1 of the resident directory archived (Aug 2022 and Feb 2023, identical). The 2018 class (Fischer, Fisher, Mahadev) is still labelled PGY IV there (label not advanced; PGY V Jun 2023) and is stored as PGY 5 with the listed label in context. Villahermosa (PGY 2) and Webb (PGY 6), bracketed, added as manual rows. Phase 2: CC 2022-33..2023-23 hold only the same page 1, unfiltered directory pages (Farrell; Murtha p3) and profiles; no unknown resident name anywhere.",
+  "2023-2024": "LOW (phase 2). No complete roster archived in Wayback or Common Crawl (CC-MAIN-2022..2024 on lsom.uthscsa.edu/neurosurgery/). Observed pieces (source_type other): all-staff directory page 2 May 2024 (8 residents, still 2023-24 content), page 3 Sep 2023 (Mahadev), Leary profile Sep 2023, Mar 2023 intern announcement (Padir, Kaculini). Reconstructed bracketed: Patterson, Murtha, Shaffer, Villahermosa, Webb (alumni 2024). Daniel Li Smerin (PGY II 2022-23) cannot be placed: not reconstructed; he is absent from the complete Jul 2024 and Mar 2025 lists. Phase 2: CC-MAIN-2023-40 (293 records: unfiltered directory p1 Oct 2023 = Lafuente PGY III, p3 = Mahadev, ~30 profile pages; no Smerin profile) and 2023-50/2024-10/2024-18 (1-4 records each) add no roster. Graduation 2024 news (Ghamasaee, Webb) makes Webb observed. Intern announcement (Mar 2023) names only Padir and Kaculini, both on the 2024-25 roster. Smerin: UTHSA neurosurgery affiliation on manuscripts received Apr and Aug 2024, absent Jul 2024.",
+  "2024-2025": "Jul 2024 resident directory (14, no 2024 interns yet, no pagination) and Mar 2025 current-residents page (16) agree; Mar 2025 used. Conor Cunningham not listed (appears Sep 2025 as PGY II).",
+  "2025-2026": "Current-residents page Sep/Nov 2025 and Mar 2026 identical (17).",
+  "2026-2027": "Live page 2026-09-27 via WebFetch: 18, advanced (3 new interns; Johnson and Patterson graduated)."
+ },
+ "alumni_page": "https://lsom.uthscsa.edu/neurosurgery/alumni/",
+ "departures": [
+  {
+   "name": "Mical Samuelson",
+   "last_ay": "2010-2011",
+   "last_pgy": 2,
+   "note": "PGY II Jan/Mar 2011; absent May 2013; 2011-12 unobserved so the leave year is 2011-12 or 2012-13; not on alumni list. Pre-2011 entrant (2009), listed for completeness.",
+   "outcome": "unknown (pre-2011 entrant; no publication after 2011)"
+  },
+  {
+   "name": "Stephen Melnyk",
+   "last_ay": "2014-2015",
+   "last_pgy": 2,
+   "note": "2013 intern; PGY II Feb 2015; absent Oct 2015. SWITCHED to diagnostic radiology (Army): Dept of Radiology, Madigan Army Medical Center, PubMed 30581524 (2018).",
+   "outcome": "switched_specialty (radiology)"
+  },
+  {
+   "name": "Kevin Carr",
+   "last_ay": "2016-2017",
+   "last_pgy": 4,
+   "note": "2013 intern; PGY IV Sep 2016; absent Mar 2017 (CC) and Apr 2017. SWITCHED to radiology: Dept of Radiology, Aventura Hospital, Miami FL 2018-2021 (PubMed 30109383, 31194096, 31699574).",
+   "outcome": "switched_specialty (radiology)"
+  },
+  {
+   "name": "Erick Garcia",
+   "last_ay": "2018-2019",
+   "last_pgy": 5,
+   "note": "= Erick Garcia Gorbea: UTMB PGY1-2 2013-15 -> Wayne State PGY3-4 2015-17 -> UTHSA (NPPES address UTHSA Neurosurgery from 2017-11-02; unlisted until the Dec 2018 roster, PGY V). Absent Aug 2019; not on alumni page; no NPPES update or publication after 2018. Destination unknown.",
+   "outcome": "unknown"
+  },
+  {
+   "name": "Aaron Chance",
+   "last_ay": "2020-2021",
+   "last_pgy": 4,
+   "note": "2017 intern; PGY IV Oct 2020; absent from the complete-by-alphabet Oct 2021 directory page 1 and every later list. Not on alumni list. Probable SWITCH to psychiatry (medium confidence): Aaron B. Chance at Albert Einstein (adolescent mood research, 2023-25) and University of Miami Dept of Psychiatry (2026, PubMed 41757375).",
+   "outcome": "switched_specialty (psychiatry, probable)"
+  },
+  {
+   "name": "Daniel Li Smerin",
+   "last_ay": "2022-2023",
+   "last_pgy": 2,
+   "note": "2021 intern; PGY II Aug 2022/Feb 2023 (Natus award Jan 2023, AANS Apr 2023); 2023-24 unobserved; absent Jul 2024 and later. Left after 2022-23 or during 2023-24. Phase 2: UTHSA neurosurgery affiliation on manuscripts received Apr/Aug 2024 (PubMed 38761781, 39675010), none later; profile 404 by Apr 2025. Outcome unknown.",
+   "outcome": "unknown"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "David Wallace",
+   "first_ay": "2016-2017",
+   "first_pgy": 4,
+   "note": "From Rush (program 56): Rush residency 2012-2015 (UTHSA bio), PGY IV 2016-17 at UTHSA; graduated 2020.",
+   "origin": "Rush University (56)"
+  },
+  {
+   "name": "Erick Garcia",
+   "first_ay": "2018-2019",
+   "first_pgy": 5,
+   "note": "UTMB (109) 2013-15 -> Wayne State (125) 2015-17 -> UTHSA; NPPES address UTHSA Neurosurgery from Nov 2017; first listed PGY V Dec 2018; left after 2018-19.",
+   "origin": "Wayne State (125), originally UTMB (109)"
+  },
+  {
+   "name": "Conor Cunningham",
+   "first_ay": "2025-2026",
+   "first_pgy": 2,
+   "note": "PGY1 2024-25 in surgery at MUSC (NPPES taxonomy Surgery, MUSC address, enumerated Jun 2024; MUSC Dept of Neurosurgery publications 2023-26). Not on the MUSC neurosurgery roster. Joined UTHSA at PGY II 2025-26.",
+   "origin": "MUSC surgery PGY1 (not a neurosurgery transfer)"
+  },
+  {
+   "name": "Bradley Dengler",
+   "first_ay": "2012-2013",
+   "first_pgy": 3,
+   "note": "PROBABLE: Army (USMA 2005, USUHS MD 2009, NPPES 2009-06); internship 2009-10 elsewhere, probably then a military tour; not on the Mar 2011 roster, PGY III May 2013; joined 2011-12 (PGY2) or 2012-13 (PGY3); graduated 2017.",
+   "origin": "Army/USUHS 2009 (military internship elsewhere)"
+  }
+ ],
+ "residents_2011plus": 43,
+ "adjudication_summary": {
+  "COMPLETED": 28,
+  "IN TRAINING": 18,
+  "LEFT -> SWITCHED SPECIALTY": 3,
+  "LEFT -> did not complete": 2,
+  "left_list": [
+   "Stephen Melnyk (switched: radiology, publication)",
+   "Kevin Carr (switched: radiology, publication)",
+   "Aaron Chance (switched: psychiatry, probable)",
+   "Erick Garcia (unknown; transfer-in who left)",
+   "Daniel Li Smerin (unknown)"
+  ]
+ },
+ "problems": "All phase-1 Common Crawl failures retried successfully in phase 2 (2017-13, 2018-47, 2019-43, 2024-42; 2017-47 and 2021-04 needed a second try). CC holds no 2023-24 resident directory beyond page 1/3 slices. Live lsom.uthscsa.edu still 403 to curl. Johnson and Patterson are counted COMPLETED from the PGY-7 2025-26 roster (not yet on the alumni page).",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture exists (Wayback, CC-MAIN-2012, PubMed 2011-13 affiliations add no one). All 10 reconstructed residents are bracketed or alumni-confirmed; 2011 intern class of 3 (Hawksworth, Maknojia, McGinity) matches the complement. Open: Samuelson (2009 entrant) left 2011-12 or 2012-13; Dengler joined 2011-12 (PGY2) or 2012-13 (PGY3)."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete spring 2013 gallery (13)."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster observed."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster observed."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster observed."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Sep 2016 gallery; Carr absent by Mar 2017 (CC-MAIN-2017-13, new in phase 2) and Apr 2017."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster observed."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster observed."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster observed."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Directory page 1 (Oct 2021) + page 4 (Jan 2022); intern class of 3 confirmed by the Mar/Jun 2021 match and orientation news."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster observed."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster observed."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster observed."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Dec 2018 Common Crawl roster (17). Retried crawl CC-MAIN-2018-47 has no roster page; other 2017-19 crawls with the broad filter found no extra resident or profile pages."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Directory page 1 only (A..Tavakoli, 15); Villahermosa and Webb bracketed (manual rows). Only a 2022 entrant or joiner with a surname after Tavakoli who left before Jul 2024 could be unseen; CC 2022-23 crawls (5) and PubMed 2021-25 affiliations show no such person."
+  },
+  "2023-2024": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Still no full roster (all CC 2023-24 crawls incl. unfiltered directory and /profile/ URLs checked). Every 2022-23 resident is accounted for: Peitz/Tavakoli graduated 2023 (news), Ghamasaee/Webb graduated Jun 2024 (Graduation 2024 news, Webb now observed), 2023 interns = Padir + Kaculini only (Mar 2023 announcement), everyone else bracketed. Only Li Smerin's 2023-24 status is unknown (his exit year, not his existence)."
+  }
+ },
+ "training_history_phase2": "8 rows, notes start '[phase2]': switched specialty 3 (Melnyk, Carr, Chance), left-unknown 2 (Li Smerin, Erick Garcia), transfer/late entry in 4 (Wallace 2016 PGY4, Erick Garcia 2018 PGY5, Cunningham 2025 PGY2, Dengler 2012 probable PGY3).",
+ "phase2": {
+  "searched": [
+   "Local p108 cc/ and cc2/ captures (parsed 2023-24 news: new-residents, thank-a-resident 2023, graduation 2024, 2021 match/orientation news)",
+   "Common Crawl, broad filter (team-member, profile, directory, news): all 30 crawls 2021-04..2024-51 on lsom.uthscsa.edu/neurosurgery/ (full index listings saved), all 24 crawls 2017-47..2019-51 on neurosurgery.uthscsa.edu, retries CC-MAIN-2017-13, 2018-47, 2019-43 (both hosts), 2024-42 (all succeeded)",
+   "Wayback CDX: Smerin/Garcia/Chance profile and team-member URLs, 2023-24 intern announcement",
+   "PubMed affiliation mining UTHSA neurosurgery 2011-2013 and 2021-2025; PubMed/OpenAlex per person: Smerin, Garcia Gorbea, Chance, Melnyk, Carr, Samuelson, Wallace, Cunningham, Dengler",
+   "NPPES: Smerin, Erick Garcia (Gorbea), Chance, Melnyk, Carr, Cunningham, Dengler, Wallace, Samuelson",
+   "Cross-program rosters: 109 (UTMB), 125 (Wayne State), 56 (Rush), 44 (MUSC), 2 (AHN, different Cunningham)"
+  ],
+  "found": [
+   "Carr absent from Mar 2017 gallery (CC-MAIN-2017-13): left Sep 2016-Mar 2017",
+   "Graduation 2024 news: Webb (and Ghamasaee) PGY7 in 2023-24 -> Webb observed",
+   "2023 intern class = Padir + Kaculini only (announcement), 2021 class = Farrell, Smerin, Villahermosa (news)",
+   "Melnyk -> Army diagnostic radiology (Madigan, 2018 publication)",
+   "Carr -> radiology, Aventura Hospital FL (2018-2021 publications)",
+   "Chance -> probable psychiatry (Einstein 2023-25, Miami psychiatry 2026)",
+   "Erick Garcia (Gorbea): NPPES address at UTHSA Neurosurgery from Nov 2017; no trace after 2018",
+   "Smerin: UTHSA neurosurgery affiliation on manuscripts received Apr/Aug 2024",
+   "Cunningham: PGY1 2024-25 surgery at MUSC (NPPES), MUSC neurosurgery research publications",
+   "Dengler: Army, USUHS 2009 (alumni bio)"
+  ],
+  "remaining": [
+   "No full 2023-24 roster; Li Smerin's exit (after 2022-23 or after 2023-24) and destination unknown",
+   "Erick Garcia's destination after 2018-19 unknown; his 2017-18 role at UTHSA unlisted",
+   "2011-12 unobserved: Samuelson exit year and Dengler entry year (2011 vs 2012) unresolved",
+   "Chance's psychiatry switch rests on publication affiliations only (medium confidence)"
+  ]
+ }
+}

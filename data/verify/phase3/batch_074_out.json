@@ -1,0 +1,964 @@
+[
+ {
+  "key": "54:sum:sayeed",
+  "name": "Sumaiya Sayeed",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Brown Neurosurgery people page lists Sumaiya Sayeed PGY-2; Yale MD; Brown BME undergrad",
+  "residency_stated": [
+   {
+    "institution": "Brown University Health/Rhode Island Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 neurosurgery resident at Brown (2026-27)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Brown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.med.brown.edu/people/sumaiya-sayeed-md-0",
+    "type": "program_page",
+    "evidence": "PGY-2 at LPG Neurosurgery; Yale School of Medicine MD, Brown BME"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "54:car:porto",
+  "name": "Carl Porto",
+  "program_id": 54,
+  "identity": "probable",
+  "identity_basis": "Search snippet: incoming PGY-1 neurosurgery resident, Brown residency began 2026; also on BRAINIAC lab team at Brown",
+  "residency_stated": [
+   {
+    "institution": "Brown University Health/Rhode Island Hospital",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Incoming PGY-1 Brown neurosurgery 2026",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Brown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://sites.brown.edu/brainiac/our-team/",
+    "type": "search_snippet",
+    "evidence": "Carl Porto, MD, Brown Neurosurgery Resident from Hamden, Connecticut"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "54:dan:miyagishima",
+  "name": "Danielle Miyagishima",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists Danielle Miyagishima MD PhD Neurosurgery Providence RI, Yale class of 2025; search snippets: matched to Brown neurosurgery 2026",
+  "residency_stated": [
+   {
+    "institution": "Brown University Health/Rhode Island Hospital",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 Brown neurosurgery 2026-27 (Yale MD-PhD 2025; did not match 2025, matched 2026)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Providence RI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/danielle-miyagishima-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Providence RI; Yale School of Medicine Class of 2025"
+   },
+   {
+    "url": "https://medicine.yale.edu/profile/danielle-miyagishima/",
+    "type": "search_snippet",
+    "evidence": "incoming neurosurgeon at Brown University neurosurgery residency program for 2026"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:jam:mistry",
+  "name": "Jamshid Mistry",
+  "program_id": 55,
+  "identity": "probable",
+  "identity_basis": "Name/Arrowhead affiliation match; DO Touro Nevada 2010; Doximity board AOA Emergency Medicine; ARMC lists him as Emergency Medicine provider (no source states neurosurgery residency years)",
+  "residency_stated": [],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Now emergency medicine physician/assistant professor at ARMC (Colton CA); Doximity certification AOA Board of Emergency Medicine; no neurosurgery credentials",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "emergency medicine physician, Arrowhead Regional Medical Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jamshid-mistry-do",
+    "type": "doximity",
+    "evidence": "AOA Board of Emergency Medicine; Touro Univ Nevada COM Class of 2010"
+   },
+   {
+    "url": "https://www.arrowheadregional.org/providers/jamshid-mistry-do/",
+    "type": "program_page",
+    "evidence": "Emergency Medicine provider, Arrowhead Regional Medical Center"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "55:mar:cabanne",
+  "name": "Marc Cabanne",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Sutter/Dignity: residency Neurological Surgery at Riverside University Health System; DO Touro California 2011; PubMed with RUHS co-residents",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2017
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at RUHS (2017); Complex Spine fellowship Kaiser Oakland; neurosurgeon Folsom CA",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Northern California NeuroSpine Institute, Folsom CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/marc-cabanne-do",
+    "type": "doximity",
+    "evidence": "AOA Board of Surgery Neurological Surgery; Touro College of Osteopathic Medicine Class of 2011"
+   },
+   {
+    "url": "https://www.dignityhealth.org/ourdoctors/1578848347-marc-cabanne",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery at Riverside University Health System; fellowship Complex Spine Kaiser Oakland"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:omi:hariri",
+  "name": "Omid Hariri",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Education: Riverside University Health System Residency Neurological Surgery 2011-2017",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2017
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS residency 2011-2017; Stanford spine fellowship 2017-2018; neurosurgeon Kaiser Orange County",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Kaiser Permanente Orange County Anaheim",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/omid-hariri-do",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2017; Stanford fellowship 2017-2018"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:rob:dahlin",
+  "name": "Robert Dahlin",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "St Luke's announcement: residency Riverside University Health System; Touro Nevada DO 2012; Doximity Duluth neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed RUHS neurosurgery residency, UC Davis spine fellowship; St. Luke's Duluth from 2019",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, St. Luke's Neurosurgery Associates, Duluth MN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.slhduluth.com/news/2019/july/st-lukes-neurosurgery-associates-welcomes-dr-rob/",
+    "type": "news",
+    "evidence": "completed his neurosurgery residency at Riverside University Health System; spine fellowship UC Davis"
+   },
+   {
+    "url": "https://www.doximity.com/pub/robert-dahlin-do",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Duluth MN; AOA Board of Surgery Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:tyl:carson",
+  "name": "Tyler Carson",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Palmdale neurosurgery, CA license 2013; coauthors are RUHS residents; snippet: residency 2018 Riverside University Health System",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency 2018 at RUHS; spine fellowships Tennessee/Semmes Murphey; NeuroSpine Institute Palmdale",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, NeuroSpine Institute, Palmdale CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/tyler-carson-do",
+    "type": "doximity",
+    "evidence": "Neurosurgery Palmdale; AOA Board of Surgery Neurological Surgery"
+   },
+   {
+    "url": "https://www.nsica.org/tyler-carson-do-neurosurgeon-palmdale-sherman-oaks-valencia-ca/",
+    "type": "search_snippet",
+    "evidence": "completed a Neurosurgery Residency in 2018 from Riverside University Health System"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:bai:zampella",
+  "name": "Bailey Zampella",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/practice site: neurosurgeon, functional fellowship Swedish Seattle; coauthors RUHS residents; CA license 2014",
+  "residency_stated": [],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgeon (functional fellowship Swedish Seattle), practices Long Island NY; RUHS residency named indirectly via co-authored RUHS papers; program not explicitly stated in fetched text",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Centereach/Stony Brook NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/bailey-zampella-do",
+    "type": "doximity",
+    "evidence": "Neurosurgery Centereach NY; AOA Board of Surgery Neurological Surgery"
+   },
+   {
+    "url": "https://drbaileyzampella.com/",
+    "type": "search_snippet",
+    "evidence": "trained in functional neurosurgery at Swedish Medical Center in Seattle"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:chr:elia",
+  "name": "Christopher Elia",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Corewell/Trinity: residency RUHS; Doximity MSU-COM 2013; Spine fellowships Swedish and Jefferson",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed RUHS neurosurgery residency (source says 2020; DB expected 2019); dual spine fellowships; Royal Oak MI. Doximity also shows American Board of Family Medicine cert",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon spine, Royal Oak MI",
+  "agrees_with_db": true,
+  "disagreement": "Only year differs: sources say completion 2020 vs DB expected 2019",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christopher-elia-do",
+    "type": "doximity",
+    "evidence": "Neurosurgery Royal Oak MI; AOA Board of Surgery Neurological Surgery"
+   },
+   {
+    "url": "https://providers.corewellhealth.org/provider/christopher-j-elia/3189954",
+    "type": "search_snippet",
+    "evidence": "completed his neurosurgery residency at Riverside University Health System Medical Center in 2020"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:jas:duong",
+  "name": "Jason Duong",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Touro California Class of 2013; RUHS abstracts 2016-17; search snippet residency RUHS 2019; City of Hope fellowship 2020",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency RUHS completed 2019; fellowship City of Hope; neurosurgeon Duarte CA. Namesake caution noted; matched via RUHS abstracts",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, City of Hope, Duarte CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jason-duong-do",
+    "type": "doximity",
+    "evidence": "Abstracts: Arrowhead Regional Medical Center and RUHS Annual Research Symposium 2016-2017; AOA Board of Surgery Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:mar:billings",
+  "name": "Marc Billings",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Practice page/snippet: chief resident RUHS 2018-2019, Wash U spine fellowship; Doximity Bellingham",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Chief resident RUHS 2018-19, then WashU spine fellowship; PeaceHealth Bellingham",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Fourth Corner Neurosurgical Associates, Bellingham WA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://fourthcornerneuro.com/dr-marc-billings-d-o/",
+    "type": "search_snippet",
+    "evidence": "chief resident at Riverside University Health System from 2018-2019, then spine fellowship Washington University"
+   },
+   {
+    "url": "https://www.doximity.com/pub/marc-billings-do",
+    "type": "doximity",
+    "evidence": "Neurosurgery Bellingham; AOA Board of Surgery Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:goh:majeed",
+  "name": "Gohar Majeed",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Riverside University Health System neurological surgery; OHSU cerebrovascular fellowship; LECOM Bradenton 2014",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS residency; OHSU cerebrovascular/skull base fellowship; now HCA Florida North Florida Hospital Gainesville",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, HCA Florida North Florida Hospital, Gainesville FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/gohar-majeed-do",
+    "type": "doximity",
+    "evidence": "Riverside university health system Neurological surgery; Fellowship OHSU Cerebrovascular & Skull Base; AOA Board of Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:joh:ogunlade",
+  "name": "John Ogunlade",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "WashU bio and Doximity: Residency RUHS 2014-2021",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS 2014-2021; UW spine fellowship 2021-22; WashU assistant professor",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, assistant professor, Washington University St. Louis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/john-ogunlade-do",
+    "type": "doximity",
+    "evidence": "Riverside University Health System Residency, Neurological Surgery, 2014 - 2021"
+   },
+   {
+    "url": "https://neurosurgery.wustl.edu/people/john-i-ogunlade-do/",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency at Riverside University Health System"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:kev:ray",
+  "name": "Kevin Ray",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Riverside residency 2014-2021 with RUHS coauthors; Legacy Health bio; Yale spine fellow 2022",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS 2014-2021; Yale complex spine fellowship; Legacy Emanuel Portland",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Legacy Health, Portland OR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kevin-ray-do",
+    "type": "doximity",
+    "evidence": "Riverside University Health System Residency, Neurological Surgery, 2014 - 2021"
+   },
+   {
+    "url": "https://medicine.yale.edu/neurosurgery/news-article/yale-department-of-neurosurgery-hosts-2022-change-of-chiefs/",
+    "type": "news",
+    "evidence": "Yale spine fellow acknowledged (per search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:mar:krel",
+  "name": "Mark Krel",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/practice bios: DO Pacific 2014; RUHS DBS coauthors; Stanford clinical instructor functional",
+  "residency_stated": [],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgery residency (RUHS per co-authored RUHS papers; program name not stated in fetched text), functional/epilepsy training at Stanford; Community Neurosciences Fresno",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Community Neurosciences Institute Fresno CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mark-krel-do",
+    "type": "doximity",
+    "evidence": "Neurosurgery; AOA Board of Surgery Neurological Surgery; co-author Ray/Bernstein/Kashyap RUHS paper"
+   },
+   {
+    "url": "https://www.communitymedical.org/for-patients-families/find-a-doctor/mark-krel",
+    "type": "search_snippet",
+    "evidence": "clinical instructor in stereotactic, functional, epilepsy neurosurgery at Stanford"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:ham:ghanchi",
+  "name": "Hammad Ghanchi",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: RUHS Residency 2015-2022, chief 2021-22, Stanford fellowship 2022-23",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS 2015-2022; Stanford spine fellowship; Kaiser Woodland Hills",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Kaiser Permanente Woodland Hills",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/hammad-ghanchi-do",
+    "type": "doximity",
+    "evidence": "Riverside University Health System Residency, Neurological Surgery, 2015 - 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:jac:bernstein",
+  "name": "Jacob Bernstein",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Banner/Doximity: DO KCU 2015; residency RUHS 2022; internship ARMC 2016; RUHS coauthors",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS residency 2022; Colorado fellowship 2023; Banner North Colorado Greeley",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Banner North Colorado Medical Center, Greeley CO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jacob-bernstein-do",
+    "type": "doximity",
+    "evidence": "Neurosurgery Greeley CO; AOA Board of Surgery Neurological Surgery"
+   },
+   {
+    "url": "https://doctors.bannerhealth.com/provider/jacob-bernstein/2597183",
+    "type": "search_snippet",
+    "evidence": "residency at Riverside University Health System Medical Center in 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:jam:berry",
+  "name": "James Berry",
+  "program_id": 55,
+  "identity": "probable",
+  "identity_basis": "Snippet: James Berry DO Brownsville TX residency ACGME Neurological Surgery RUHS; Nova Southeastern DO; matches RUHS 'James A. D. Berry' Cureus author",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practises neurosurgery (Rio Grande Valley Brain and Spine, board-certified AOBS) with RUHS residency; namesake risk but training matches",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Rio Grande Valley Brain and Spine, Brownsville TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://care.healthline.com/find-care/provider/dr-james-berry-1245631100",
+    "type": "search_snippet",
+    "evidence": "completed a residency at ACGME Neurological Surgery Residency: Riverside University Health System"
+   },
+   {
+    "url": "https://www.cureus.com/users/102455-james-a-berry",
+    "type": "search_snippet",
+    "evidence": "Cureus author James A Berry (RUHS)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "55:sam:kashyap",
+  "name": "Samir Kashyap",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity RUHS residency 2015-2022, chief 2021-22, Mayo cerebrovascular fellowship 2022-23",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS 2015-2022; Mayo Jacksonville fellowship; later Community Medical Centers Fresno",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (cerebrovascular), Fresno CA (previously Mayo Jacksonville)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/samir-kashyap-do",
+    "type": "doximity",
+    "evidence": "Riverside University Health System Residency, Neurological Surgery, 2015 - 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:har:toor",
+  "name": "Harjyot Toor",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Touro 2016; WashU St Louis; RUHS coauthors; search snippet WashU/Barnes-Jewish neurosurgery",
+  "residency_stated": [],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgeon at Barnes-Jewish/WashU per Doximity; RUHS residency inferred via RUHS coauthored papers, not explicitly stated",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon/physician, Barnes-Jewish Hospital, St. Louis MO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/harjyot-toor-do",
+    "type": "doximity",
+    "evidence": "Neurosurgery St. Louis MO; Touro Class of 2016; AOA Board of Surgery Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:ira:bowen",
+  "name": "Ira Bowen",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: RUHS Residency Neurological Surgery 2016-2023; WVSOM 2015",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS 2016-2023; pediatric neurosurgeon at OU Oklahoma",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, pediatric, OU Health, Oklahoma City",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ira-bowen-do",
+    "type": "doximity",
+    "evidence": "Riverside University Health System Residency, Neurological Surgery, 2016 - 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:sam:farr",
+  "name": "Saman Farr",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Arkansas Surgical Hospital bio: residency RUHS, UC Davis spine fellowship; RUHS co-authors",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS residency then UC Davis spine fellowship; Arkansas Surgical Hospital. Doximity page returned 'not found' (search shows it listed as Other MD/DO)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon spine, Arkansas Surgical Hospital, North Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://arksurgicalhospital.com/welcome-dr-saman-farr/",
+    "type": "search_snippet",
+    "evidence": "completed his neurosurgery residency at Riverside University Health Systems; spine fellowship at UC-Davis"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:jam:wiginton",
+  "name": "James Wiginton",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Riverside University Health System Neurosurgery 2017-2024; EVCOM Carolinas 2017 DO",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS 2017-2024; endovascular fellowship Prisma Health; Greenville SC",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "endovascular neurosurgeon, Prisma Health, Greenville SC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/drchp",
+    "type": "doximity",
+    "evidence": "Riverside University Health System Neurosurgery, 2017 - 2024; AOA Board of Surgery Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:sta:podkovik",
+  "name": "Stacey Podkovik",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: OPTI-West/RUHS Residency Neurological Surgery 2017-2024; LECOM 2017",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS 2017-2024; pediatric neurosurgery (LA, CHLA/Nicklaus per search)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, pediatric, Los Angeles CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/stacey-podkovik-do",
+    "type": "doximity",
+    "evidence": "OPTI-West/Riverside University Health System MC Residency, Neurological Surgery, 2017 - 2024"
+   }
+  ],
+  "searches_used": 2
+ }
+]

@@ -1,0 +1,1032 @@
+[
+ {
+  "key": "22:max:fleisher",
+  "name": "Max Fleisher",
+  "program_id": 22,
+  "identity": "confirmed",
+  "identity_basis": "GW residents page lists Max Fleisher, MD, graduate 2026; Doximity Resident Physician Washington DC, UF College of Medicine 2019 (same as PubMed co-authors with GW residents)",
+  "residency_stated": [
+   {
+    "institution": "George Washington University",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "GW program page lists him under Recent Graduates, year 2026, next position TBD (PGY7 in 2025-26; completion is by program list, not yet ABNS)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Recent GW neurosurgery graduate (2026), next position TBD",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.smhs.gwu.edu/our-residents",
+    "type": "program_page",
+    "evidence": "Max Fleisher, MD | 2026 | TBD"
+   },
+   {
+    "url": "https://www.doximity.com/pub/max-fleisher-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Washington DC; University of Florida College of Medicine Class of 2019"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "22:pet:harris",
+  "name": "Peter Harris",
+  "program_id": 22,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (peter-harris-md-b3f6b4d0) lists GWU Residency Neurological Surgery 2020-2027, Tufts MD 2020; GW page lists PGY7 Peter Harris, Tufts. Two other Harris Doximity URLs exist (448a30d6 redirected to b3f6b4d0; aa039725 not opened)",
+  "residency_stated": [
+   {
+    "institution": "George Washington University",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-7 at GW per program page; Doximity residency 2020-2027",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "GW neurosurgery resident (PGY-7, 2026-27)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.smhs.gwu.edu/our-residents",
+    "type": "program_page",
+    "evidence": "Peter Harris, MD | PGY 7 | Tufts University"
+   },
+   {
+    "url": "https://www.doximity.com/pub/peter-harris-md-b3f6b4d0",
+    "type": "doximity",
+    "evidence": "George Washington University Residency, Neurological Surgery, 2020 - 2027; Tufts Class of 2020"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "22:dou:chung",
+  "name": "Douglas Chung",
+  "program_id": 22,
+  "identity": "confirmed",
+  "identity_basis": "GW page: PGY6 Douglas Chung, FIU Herbert Wertheim; search snippet: Douglas J. Chung neurosurgery resident GW, Herbert Wertheim MD 2021, expected completion 2028",
+  "residency_stated": [
+   {
+    "institution": "George Washington University",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-6 at GW (expected completion 2028 per snippet)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "GW neurosurgery resident (PGY-6)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.smhs.gwu.edu/our-residents",
+    "type": "program_page",
+    "evidence": "Douglas Chung, MD | PGY 6 | FIU Herbert Wertheim College of Medicine"
+   },
+   {
+    "url": "https://appointments.childrensnational.org/provider/douglas-j-chung/6375335",
+    "type": "search_snippet",
+    "evidence": "Douglas J Chung, MD - at Children's National Hospital - Washington, DC - Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "22:mad:smith",
+  "name": "Madeleine Smith",
+  "program_id": 22,
+  "identity": "confirmed",
+  "identity_basis": "GW page: PGY6 Madeleine Smith, Univ of Maryland; ResearchGate GW Dept of Neurological Surgery; WebMD lists Madeleine Smith neurological surgery DC, UMD MD 2021",
+  "residency_stated": [
+   {
+    "institution": "George Washington University",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-6 at GW",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "GW neurosurgery resident (PGY-6)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.smhs.gwu.edu/our-residents",
+    "type": "program_page",
+    "evidence": "Madeleine Smith, MD | PGY 6 | University of Maryland"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Madeleine-Smith-18",
+    "type": "search_snippet",
+    "evidence": "Madeleine SMITH | George Washington University | Department of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "22:tim:singer",
+  "name": "Timothy Singer",
+  "program_id": 22,
+  "identity": "confirmed",
+  "identity_basis": "GW page PGY5 Timothy Singer, Stanford, prior pediatrics; GW Today article and X post from GW Neurosurgery name him a neurosurgery resident",
+  "residency_stated": [
+   {
+    "institution": "George Washington University",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-5 at GW; prior pediatrics residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "GW neurosurgery resident (PGY-5)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.smhs.gwu.edu/our-residents",
+    "type": "program_page",
+    "evidence": "Timothy Singer, MD | PGY 5 | Stanford University"
+   },
+   {
+    "url": "https://x.com/GWnsgy/status/1716985271986672078",
+    "type": "search_snippet",
+    "evidence": "Dr. Tim Singer, a pediatrician & #Neurosurgery resident"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "22:dal:soyland",
+  "name": "Dallas Soyland",
+  "program_id": 22,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: GWU Residency Neurological Surgery 2023-2030, USD Sanford MD 2023; GW page PGY4",
+  "residency_stated": [
+   {
+    "institution": "George Washington University",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-4 at GW; Doximity residency listed 2023-2030",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "GW neurosurgery resident (PGY-4)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dallas-soyland-md",
+    "type": "doximity",
+    "evidence": "George Washington University Residency, Neurological Surgery, 2023 - 2030; University of South Dakota Class of 2023"
+   },
+   {
+    "url": "https://neurosurgery.smhs.gwu.edu/our-residents",
+    "type": "program_page",
+    "evidence": "Dallas Soyland | PGY 4 | University of South Dakota"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "22:nid:kedda",
+  "name": "Nidhi Kedda",
+  "program_id": 22,
+  "identity": "confirmed",
+  "identity_basis": "GW page PGY4 Nidhi Kedda, GW SMHS; search snippet: neurosurgery resident GW, MD GW SMHS, Johns Hopkins undergrad",
+  "residency_stated": [
+   {
+    "institution": "George Washington University",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-4 at GW",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "GW neurosurgery resident (PGY-4)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.smhs.gwu.edu/our-residents",
+    "type": "program_page",
+    "evidence": "Nidhi Kedda | PGY 4 | George Washington University SMHS"
+   },
+   {
+    "url": "https://x.com/nidhikedda",
+    "type": "search_snippet",
+    "evidence": "Nidhi Kedda PGY-1 neurosurgery resident at George Washington University; MD GW SMHS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "22:ale:miner",
+  "name": "Alexandra Miner",
+  "program_id": 22,
+  "identity": "confirmed",
+  "identity_basis": "GW page PGY3 Alexandra Miner MD MS, Virginia Tech Carilion; LinkedIn lists Alex Miner neurosurgery resident GW Hospital",
+  "residency_stated": [
+   {
+    "institution": "George Washington University",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-3 at GW",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "GW neurosurgery resident (PGY-3)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.smhs.gwu.edu/our-residents",
+    "type": "program_page",
+    "evidence": "Alexandra Miner, MD, MS | PGY 3 | Virginia Tech Carilion School of Medicine"
+   },
+   {
+    "url": "https://www.linkedin.com/in/alex-miner-7468a7b8/",
+    "type": "search_snippet",
+    "evidence": "Alex Miner - Neurosurgery Resident - The George Washington University Hospital"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "22:chr:gamma",
+  "name": "Christina La Gamma",
+  "program_id": 22,
+  "identity": "confirmed",
+  "identity_basis": "GW page PGY2 Christina La Gamma, Penn State College of Medicine; Doximity Christina LaGamma Penn State MD 2023; Google Scholar lists Christina LaGamma at GW Neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "George Washington University",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-2 at GW; Doximity profile (Hershey PA, stale) shows only med school",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "GW neurosurgery resident (PGY-2)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.smhs.gwu.edu/our-residents",
+    "type": "program_page",
+    "evidence": "Christina La Gamma, MD | PGY 2 | Penn State College of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/christina-lagamma-md",
+    "type": "doximity",
+    "evidence": "Pennsylvania State University College of Medicine Class of 2023 (no residency listed)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "22:lan:ashby",
+  "name": "Landon Ashby",
+  "program_id": 22,
+  "identity": "confirmed",
+  "identity_basis": "GW page PGY1 Landon Ashby, UT Austin Dell Medical; LinkedIn/ResearchGate: MD MBA Dell, neurosurgery resident GW",
+  "residency_stated": [
+   {
+    "institution": "George Washington University",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-1 at GW",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "GW neurosurgery resident (PGY-1)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.smhs.gwu.edu/our-residents",
+    "type": "program_page",
+    "evidence": "Landon Ashby, MD | PGY 1 | University of Texas at Austin Dell Medical School"
+   },
+   {
+    "url": "https://www.linkedin.com/in/landonashby/",
+    "type": "search_snippet",
+    "evidence": "Landon S. Ashby MD, MBA - Neurosurgery Resident"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:lar:massie",
+  "name": "Lara Massie",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HFH neurological surgery residency, Toledo MD 2012; ABNS",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity: HFH neurosurgery residency 2013-2019, Duke spine fellowship 2019-2020; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (spine), Allegheny Health Network, Monroeville PA",
+  "agrees_with_db": true,
+  "disagreement": "Doximity residency start 2013 vs DB entry 2011 (prior Toledo surgery residency 2012-13 listed); completion agrees",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/lara-massie-md",
+    "type": "doximity",
+    "evidence": "Henry Ford Health/Henry Ford Hospital Residency, Neurological Surgery, 2013 - 2019; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:lyn:mubita",
+  "name": "Lynn Mubita",
+  "program_id": 24,
+  "identity": "probable",
+  "identity_basis": "Multiple directory/practice sources: MD Weill Cornell, residency Henry Ford Hospital, neurotrauma fellowship Miami; practising neurosurgeon Grand Island NE",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "CHI Health bio/Midwest Medical Edition: completed residency at Henry Ford Hospital then neurotrauma fellowship; practises neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, CHI Health St. Francis, Grand Island NE",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.midwestmedicaledition.com/articles/st-francis-welcomes-neurosurgeon-dr-mubita",
+    "type": "news",
+    "evidence": "Neurosurgeon Dr. Mubita, residency at Henry Ford Hospital in Detroit; neurotrauma fellowship Jackson Memorial"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:ric:rammo",
+  "name": "Richard Rammo",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HFH neurosurgery residency 2012-2019, Miami MD 2012; ABNS",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity HFH residency 2012-2019, Cleveland Clinic fellowships 2019-2021; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (epilepsy/functional), Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/richard-rammo-md",
+    "type": "doximity",
+    "evidence": "Henry Ford Health/Henry Ford Hospital Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:tho:noh",
+  "name": "Thomas Noh",
+  "program_id": 24,
+  "identity": "probable",
+  "identity_basis": "Practice bios: JABSOM MD, neurosurgical residency Henry Ford Hospital; Henry Ford Health post 2014 lists Thomas Noh, M.D., Neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Hawaii Pacific Health/WebMD bio: neurosurgical residency at Henry Ford Hospital, fellowships Brigham and U Michigan; practising neurosurgeon Honolulu",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Hawaii Pacific Health, Honolulu",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.hawaiipacifichealth.org/find-a-provider/thomas-noh/2422/",
+    "type": "bio",
+    "evidence": "completed his neurosurgical residency at Henry Ford Hospital"
+   },
+   {
+    "url": "https://x.com/HenryFordHealth/status/538142862052192256",
+    "type": "news",
+    "evidence": "Thomas Noh, M.D., Neurosurgery: Moving here from Hawaii"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:hes:zakaria",
+  "name": "Hesham Zakaria",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HFH residency, GWU MD 2013; ABNS; Sutter/CPMC bio",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity HFH neurosurgery residency 2014-2020 (prelim surgery UMich 2013-14), Johns Hopkins spine fellowship; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, California Pacific Medical Center, San Francisco",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/hesham-zakaria-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents",
+    "type": "program_page",
+    "evidence": "Hesham Zakaria, M.D. Graduated 2020; Spine/Spinal Oncology, Johns Hopkins"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:riz:tahir",
+  "name": "Rizwan Tahir",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (MedStar DC) lists HFH neurosurgery residency, Wayne State 2013; HFH past-residents page 2020",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "HFH page: graduated 2020, cerebrovascular/endovascular fellowship Jefferson; Doximity ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, MedStar Washington Hospital Center / Georgetown, DC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rizwan-tahir-md-87ee3367",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents",
+    "type": "program_page",
+    "evidence": "Rizwan Tahir, M.D. Graduated 2020"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:jes:john",
+  "name": "Jessin John",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Jessin Koshy John: HFH neurosurgery residency 2014-2019, HFH anesthesiology 2019-2022, Wayne State MD 2014; PubMed co-author with HFH neurosurgery (Rammo 2017)",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2019
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left neurosurgery after 5 years (last neurosurgery roster 2018-19, ends 2019), stayed at HFH for anesthesiology residency 2019-2022, then Pain Medicine fellowship Ochsner 2022-23",
+  "year_left": 2019,
+  "destination_program": "Henry Ford Health/Henry Ford Hospital anesthesiology",
+  "destination_start_year": 2019,
+  "current": "Anesthesiologist / pain medicine, New Orleans LA (Ochsner area)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jessin-john-md",
+    "type": "doximity",
+    "evidence": "Henry Ford Residency, Anesthesiology, 2019 - 2022; Residency, Neurological Surgery, 2014 - 2019; American Board of Anesthesiology"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:kar:asmaro",
+  "name": "Karam Asmaro",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HFH residency 2014-2020 plus chief year, Wayne State 2014; ABNS; HFH page",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "HFH page: graduated 2021 (chief year 2020-21), Stanford skull base fellowship; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Atlas Spine + Brain, Royal Oak MI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/karam-asmaro-md",
+    "type": "doximity",
+    "evidence": "Residency 2014 - 2020; Chief Residency 2020 - 2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents",
+    "type": "program_page",
+    "evidence": "Karam Asmaro, M.D. Graduated 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:moh:macki",
+  "name": "Mohamed Macki",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HFH residency 2015-2022, Wayne State 2015, UCSF spine fellowship; HFH page 2022",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "HFH page: graduated 2022, spine fellowship UCSF 2022-23; practising neurosurgeon Cleveland Clinic",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (spine), Cleveland Clinic, Mentor/Mayfield Heights OH (per directories)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mohamed-macki-md",
+    "type": "doximity",
+    "evidence": "Henry Ford Residency, Neurological Surgery, 2015 - 2022; UCSF Fellowship 2022-2023"
+   },
+   {
+    "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents",
+    "type": "program_page",
+    "evidence": "Mohamed Macki, M.D. Graduated 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:tho:zervos",
+  "name": "Thomas Zervos",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HFH residency 2015-2022, Wayne State 2015; HFH page 2022; UB Neurosurgery faculty",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "HFH page: graduated 2022, pediatric neurosurgery fellowship Barrow/Phoenix Children's",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Pediatric neurosurgeon, University at Buffalo (UBNS)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/thomas-zervos-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022"
+   },
+   {
+    "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents",
+    "type": "program_page",
+    "evidence": "Thomas Zervos, M.D. Graduated 2022; Pediatric Neurosurgery, Barrow"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:sam:haider",
+  "name": "Sameah Haider",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Sameah Adeeb Haider: HFH residency 2016-2023, Albany MD 2016; HFH page lists Sam Haider 2023",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "HFH page: graduated 2023, neuro-oncology fellowship Univ of Miami; practising neurosurgeon Greeley/Fort Collins CO",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Banner/North Colorado (Greeley CO)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sameah-haider-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; Albany Medical College Class of 2016"
+   },
+   {
+    "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents",
+    "type": "program_page",
+    "evidence": "Sam Haider, M.D. Graduated 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:seo:lim",
+  "name": "Seokchun Lim",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HFH residency 2016-2023, Rosalind Franklin MD 2016; ABNS; HFH page",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "HFH page: graduated 2023; Doximity ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Sanford Health, Sioux Falls SD",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/seokchun-lim-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents",
+    "type": "program_page",
+    "evidence": "Seokchun Lim, M.D. Graduated 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:rac:hunt",
+  "name": "Rachel Hunt",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Rachel Hunt: HFH residency 2017-2024, Oakland Univ Beaumont MD; HFH physician directory Rachel Hunt Qayed (listed under different surname at HFH)",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "HFH page: graduated 2024, endovascular fellowship Univ of Michigan; now Henry Ford neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (neuroendovascular), Henry Ford Health, Detroit",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rachel-hunt-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024; Neurointerventional Surgery"
+   },
+   {
+    "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents",
+    "type": "program_page",
+    "evidence": "Rachel Hunt, M.D. Graduated 2024; University of Michigan Endovascular"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:tra:hamilton",
+  "name": "Travis Hamilton",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HFH residency 2017-2024, MSU CHM 2017; HFH page; Corewell Health bio",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "HFH page: graduated 2024, spine fellowship Semmes Murphey; practising neurosurgeon Corewell Health",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (spine), Corewell Health, Grand Rapids MI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/travis-hamilton-md-5bcb8344",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents",
+    "type": "program_page",
+    "evidence": "Travis Hamilton, M.D. Graduated 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "24:edv:telemi",
+  "name": "Edvin Telemi",
+  "program_id": 24,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HFH residency 2018-2025, Arizona MD 2018; HFH page lists Edwin Telemi 2025; UCLA provider page",
+  "residency_stated": [
+   {
+    "institution": "Henry Ford Health/Henry Ford Hospital",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "HFH page: graduated 2025, spine fellowship UCLA",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Spine fellow / neurosurgeon, UCLA Health, Los Angeles",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/edvin-telemi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025"
+   },
+   {
+    "url": "https://www.uclahealth.org/providers/edvin-telemi",
+    "type": "bio",
+    "evidence": "Edvin Telemi, MD - Neurosurgery | UCLA Health"
+   }
+  ],
+  "searches_used": 2
+ }
+]

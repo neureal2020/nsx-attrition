@@ -1,0 +1,1069 @@
+[
+ {
+  "key": "41:sha:fang",
+  "name": "Shanna Fang",
+  "program_id": 41,
+  "identity": "probable",
+  "identity_basis": "Name + neurosurgeon at Mayo Clinic-Rochester (Healthgrades, NPI 1992199806); UCSF neurosurgery publications per search summary; no page states residency program",
+  "residency_stated": [],
+  "outcome": "transferred",
+  "outcome_detail": "Not in Northwestern alumni list; practising neurosurgeon so completed neurosurgery elsewhere; destination program not stated by any source found",
+  "year_left": 2016,
+  "destination_program": "unknown",
+  "destination_start_year": null,
+  "current": "neurosurgeon, Mayo Clinic-Rochester MN (Healthgrades also lists Virginia Beach VA / Austin MN)",
+  "agrees_with_db": true,
+  "disagreement": "Program still unconfirmed",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-shanna-fang-xylgb79",
+    "type": "search_snippet",
+    "evidence": "Dr. Shanna Fang, MD - Neurosurgeon in Virginia Beach, VA; Mayo Clinic-Rochester, accepting new patients (education section not shown)"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "Fang not listed among Northwestern alumni"
+   },
+   {
+    "url": "https://www.doximity.com/pub/shannon-fang-md",
+    "type": "search_snippet",
+    "evidence": "Doximity search returned only 'Shannon Fang, Resident Physician, Los Angeles' (different name); no Shanna Fang profile found"
+   }
+  ],
+  "searches_used": 5
+ },
+ {
+  "key": "41:h:frankel",
+  "name": "H. Greg Frankel",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "NJ Brain and Spine bio: Residency Northwestern Neurological Surgery (Chief Resident), NYU MD; alumni page 2023 lists H. Greg Frankel",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery residency 2023, then complex spine fellowship at Northwestern; board-certified neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), New Jersey Brain and Spine / Hackensack Meridian, Paramus NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://njbrainspine.com/doctor/h-gregory-frankel/",
+    "type": "bio",
+    "evidence": "Residency: Northwestern University Department of Neurological Surgery (served as Chief Resident); board-certified in neurological surgery"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2023: H. Greg Frankel, MD: Complex and Reconstructive Spine Surgery Fellowship, Northwestern"
+   },
+   {
+    "url": "https://www.doximity.com/pub/hyman-frankel-md",
+    "type": "doximity",
+    "evidence": "Hyman Gregory Frankel MD, Paramus NJ (Other MD/DO); NYU School of Medicine Class of 2016; IL license 2016-2026; no residency line"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "41:mat:ordon",
+  "name": "Matthew Ordon",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Northwestern neurological surgery residency + Keck USC MD 2016; BMC bio says Northwestern residency 2023",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2023 (alumni page), USC spine fellowship, now attending",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Boston Medical Center / assistant professor BU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-ordon-md",
+    "type": "doximity",
+    "evidence": "McGaw Medical Center of Northwestern University Residency, Neurological Surgery, 2015 - 2022; Keck USC Class of 2016"
+   },
+   {
+    "url": "https://www.bmc.org/about-us/directory/doctor/matthew-p-ordon-md",
+    "type": "bio",
+    "evidence": "completed his residency in neurosurgery at Northwestern University in Chicago in 2023"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2023: Matthew Ordon, MD: Neuro-Spine Fellowship, USC"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:mic:cloney",
+  "name": "Michael Cloney",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 2023 (Michael Cloney MD MPH, Penn spine/neurotrauma fellowship); Columbia P&S 2016 and IL license 2016-2023 on Doximity; U Michigan neurosurgeon",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2023, fellowships in spine and neurocritical care; faculty at U Michigan",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, University of Michigan (Ann Arbor)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2023: Michael Cloney, MD, MPH: Spine and Neurotrauma Fellowship, University of Pennsylvania"
+   },
+   {
+    "url": "https://www.doximity.com/pub/michael-cloney-md-3c37ccfb",
+    "type": "doximity",
+    "evidence": "Columbia Vagelos P&S Class of 2016; IL license 2016-2023, PA 2023-2024, MI 2024-2027 (no residency listed)"
+   },
+   {
+    "url": "https://www.uofmhealth.org/profile/1164885000/michael-brendan-cloney",
+    "type": "search_snippet",
+    "evidence": "Assistant Clinical Professor, Department of Neurosurgery ... dually fellowship-trained in complex spine surgery as well as neurocritical care"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "41:aar:palmer",
+  "name": "Aaron Palmer",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 2024 lists Aaron H. Palmer, MD; Summa Health bio: Wright State MD, neurological surgical residency at McGaw/Northwestern",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2024; practising neurosurgeon at Summa Health",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Summa Health, Akron/Fairlawn OH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2024: Aaron H. Palmer, MD: General Neurosurgery / Summa Health, Akron"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-aaron-palmer-xynxmw4",
+    "type": "search_snippet",
+    "evidence": "completed a neurological surgical residency at McGaw Medical Center of Northwestern University (Wright State MD)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:con:karras",
+  "name": "Constantine Karras",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Northwestern neurological surgery 2017-2024, Ohio State MD 2017; alumni page 2024; NU faculty",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2024; OSU skull base fellowship 2024-25; now NM Central DuPage clinical faculty. Doximity also lists a Family Medicine residency at NEOMED 2020-2023 overlapping (likely a data artifact)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Northwestern Medicine Central DuPage Hospital (Winfield IL)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/constantine-karras-md",
+    "type": "doximity",
+    "evidence": "McGaw Medical Center of Northwestern University Residency, Neurological Surgery, 2017 - 2024; Skull Base fellowship OSU 2024-2025; Western Reserve/NEOMED Residency Family Medicine 2020-2023"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2024: Constantine Karras, MD: Skull Base and Minimally Invasive Cranial Surgery/Fellowship, Ohio State University"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:joy:trybula",
+  "name": "Joy Trybula",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Listed as Siting (Joy) Trybula on NU faculty/Doximity: Northwestern neurological surgery 2017-2024, Pitt MD 2017",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2024; clinical faculty at NM Central DuPage",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Northwestern Medicine Central DuPage Hospital, Warrenville IL",
+  "agrees_with_db": true,
+  "disagreement": "Name listed as Siting (S. Joy) Trybula in alumni/Doximity",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/siting-trybula-md",
+    "type": "doximity",
+    "evidence": "McGaw Medical Center of Northwestern University Residency, Neurological Surgery, 2017 - 2024; University of Pittsburgh Class of 2017"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2024: Siting Trybula, MD, PhD: Clinical Faculty / Department of Neurological Surgery / Northwestern Medicine, Central DuPage Hospital"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:dan:oyon",
+  "name": "Daniel Oyon",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 2025 lists Daniel Oyon; NU Feinberg MD 2017; Goodman Campbell bio",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2025; skull base fellowship at Northwestern; now Goodman Campbell",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Goodman Campbell Brain and Spine (ProHealth, Waukesha WI)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2025: Daniel Oyon, MD: Skull Base Neurosurgery Fellowship, Northwestern Memorial"
+   },
+   {
+    "url": "https://www.doximity.com/pub/daniel-oyon-md",
+    "type": "doximity",
+    "evidence": "Northwestern Feinberg Class of 2017; Neurosurgery, Chicago IL; IL license 2018-2026 (no residency listed)"
+   },
+   {
+    "url": "http://www.goodmancampbell.com/2026/08/meet-dr-daniel-e-oyon-a-cranial-and-spine-neurosurgeon-bringing-compassion-and-innovation-to-goodman-campbell/",
+    "type": "bio",
+    "evidence": "Meet Dr. Daniel E. Oyon: A Cranial and Spine Neurosurgeon ... Goodman Campbell"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:lui:fernandez",
+  "name": "Luis Fernandez",
+  "program_id": 41,
+  "identity": "probable",
+  "identity_basis": "Alumni page 2025 lists Luis Fernandez III (Cleveland Clinic skull base fellowship); Doximity Neurosurgery profile Baylor 2018, IL license 2018-2025, OH 2025, skull base",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2025 then Cleveland Clinic skull base fellowship; now neurosurgeon in Tyler TX (Doximity)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, brain and spinal tumor / skull base, Tyler TX (per Doximity)",
+  "agrees_with_db": true,
+  "disagreement": "Namesake risk (several Luis Fernandez); Doximity page shows no residency line",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2025: Luis Fernandez III, MD: Advanced Endoscopic & Open Skull Base Surgery Fellowship, Cleveland Clinic"
+   },
+   {
+    "url": "https://www.doximity.com/pub/luis-fernandez-md-bae2f13f",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Tyler TX; Brain & Spinal Tumor, Skull Base; Baylor College of Medicine Class of 2018; IL license 2018-2025; OH 2025-2027"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "41:wil:gibson",
+  "name": "William Gibson",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 2025 (William Gibson MD PhD, functional fellowship UTSW); Doximity: residency Northwestern Memorial 2025, Mayo MD 2019, TX license 2025; UTSW faculty",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2025; functional fellowship UTSW; now UTSW faculty",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (stereotactic/functional), UT Southwestern, Dallas TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2025: William Gibson, MD, PhD: Functional Neurosurgery Fellowship, UT Southwestern"
+   },
+   {
+    "url": "https://www.doximity.com/pub/william-gibson-md-1a498888",
+    "type": "doximity",
+    "evidence": "Northwestern Memorial Hospital Residency, 2025; Mayo Clinic College of Medicine Class of 2019; Neurosurgery, Dallas TX"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "41:han:kemeny",
+  "name": "Hanna Kemeny",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 2026 (Hanna Kemeny MD MBA, spine fellowship NM); Duke MD; NM affiliated",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2026 per alumni page; spine fellowship at Northwestern Memorial",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgery fellow, Northwestern Memorial Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2026: Hanna Kemeny, MD, MBA: Spine Neurosurgery Fellowship, Northwestern Memorial"
+   },
+   {
+    "url": "https://www.doximity.com/pub/hanna-kemeny-md",
+    "type": "doximity",
+    "evidence": "Duke University School of Medicine Class of 2019; Neurosurgery, Chicago IL 251 E Huron St (no residency line)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:mar:youngblood",
+  "name": "Mark Youngblood",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Northwestern neurological surgery 2019-2026, Yale 2019; NU faculty page",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2026; now assistant professor at Northwestern",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor of neurological surgery, Northwestern",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mark-youngblood-md",
+    "type": "doximity",
+    "evidence": "McGaw Medical Center of Northwestern University Residency, Neurological Surgery, 2019 - 2026; Yale Class of 2019"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2026: Mark Youngblood, MD, PhD: Assistant Professor of Neurological Surgery, Northwestern"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:myk:krushelnytskyy",
+  "name": "Mykhaylo Krushelnytskyy",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Northwestern neurological surgery 2019-2026, Mayo MD 2019; alumni page 2026",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2026; private practice Little Rock AR (alumni page; AR license 2025-26)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, private practice, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mykhaylo-krushelnytskyy-md",
+    "type": "doximity",
+    "evidence": "McGaw Medical Center of Northwestern University Residency, Neurological Surgery, 2019 - 2026; Mayo Clinic Class of 2019"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2026: Mykhaylo Krushelnytskyy, MD: Private Practice, Little Rock, Arkansas"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:ben:hopkins",
+  "name": "Benjamin Hopkins",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "USC Keck resident page: Benjamin Hopkins MD MBA, PGY7, Northwestern Feinberg MD, BYU; WebMD: Feinberg 2020, affiliated Keck USC and Northwestern Memorial",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2022
+   },
+   {
+    "institution": "Keck School of Medicine of USC",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Started Northwestern neurosurgery 2020; now PGY7 at USC Keck neurosurgery, so transferred (after Northwestern PGY2 2021-22, USC start about 2022)",
+  "year_left": 2022,
+  "destination_program": "Keck School of Medicine of USC",
+  "destination_start_year": 2022,
+  "current": "neurosurgery resident PGY7, USC Keck",
+  "agrees_with_db": true,
+  "disagreement": "USC start year inferred from PGY7 in 2026-27",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "Benjamin Hopkins, MD, MBA; PGY7; Northwestern Feinberg School of Medicine"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/benjamin-hopkins-a7776e18-6486-446e-9e93-4771ea662cab-overview",
+    "type": "search_snippet",
+    "evidence": "medical degree from Northwestern Feinberg 2020; affiliated with Keck Hospital of USC, Northwestern Memorial Hospital"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "41:jam:mossner",
+  "name": "James Mossner",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/search: Northwestern neurological surgery 2022-2027 after Ohio State residency 2020-2022; Michigan MD 2020; NU current roster PGY7",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Transferred INTO Northwestern from Ohio State neurosurgery (2020-22); now PGY7 at Northwestern, in training. Doximity public page returned 'Public profile not found or disabled' when opened",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Northwestern (McGaw)",
+  "agrees_with_db": true,
+  "disagreement": "Prior OSU neurosurgery residency 2020-2022 (joined NU 2022); consistent with DB note that he joined the 2020 class in 2022-23",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY7: James Mossner, MD, MS, University of Michigan"
+   },
+   {
+    "url": "https://www.doximity.com/pub/james-mossner-md",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery at McGaw Medical Center of Northwestern University from 2022-2027, following a previous residency at Ohio State University Hospital from 2020-2022 (page itself showed no public profile)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:pav:texakalidis",
+  "name": "Pavlos Texakalidis",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "NU current roster PGY7 (Aristotle Univ.); Doximity: Aristotle Univ. Thessaloniki 2018, IL license, Chicago resident physician",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training, PGY7 at Northwestern in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Northwestern (McGaw)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY7: Pavlos Texakalidis, MD, Aristotle University"
+   },
+   {
+    "url": "https://www.doximity.com/pub/pavlos-texakalidis-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Chicago; Aristotle University of Thessaloniki School of Medicine Class of 2018; IL license 2020-2027"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:reb:du",
+  "name": "Rebecca Du",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "NU current roster PGY7 (Baylor); Doximity Baylor 2019, IL license 2020",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training, PGY7 at Northwestern in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Northwestern (McGaw)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY7: Rebecca Du, MD, Baylor College of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/rebecca-du-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Chicago 251 E Huron St; Baylor College of Medicine Class of 2019; IL license 2020-2029 (no residency line)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:ann:sprau",
+  "name": "Annelise Sprau",
+  "program_id": 41,
+  "identity": "probable",
+  "identity_basis": "Miami Miller MD 2021, IL license 2021, Northwestern Memorial affiliation, NPI Neurological Surgery (Healthgrades, Doximity); no source states her residency program",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "NOT on the Northwestern 2026-27 current-resident list (which shows PGY7 Du/Mossner/Texakalidis, PGY6 Medina/Selner only, and no one else from the 2021 class), while DB last saw her 2025-26 (PGY5). She would be PGY6 in 2026-27 and cannot have graduated (finish about 2028), so she appears to have left the program after 2025-26; destination unknown. No page found naming a later program",
+  "year_left": 2026,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown (directory sites still list her as Northwestern Memorial neurosurgeon; Doximity address 420 E Superior St, Chicago)",
+  "agrees_with_db": false,
+  "disagreement": "DB says IN TRAINING but she is absent from the current Northwestern resident roster; likely left after 2025-26, unresolved",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "Roster lists Du, Mossner, Texakalidis (PGY7), Medina, Selner (PGY6), ... no Sprau"
+   },
+   {
+    "url": "https://www.doximity.com/pub/annelise-sprau-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Chicago, 420 East Superior Street; University of Miami Miller School of Medicine Class of 2021; IL license 2021-2027; no residency line"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "41:ash:selner",
+  "name": "Ashley Selner",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Northwestern neurological surgery residency 2021-2028, UIC MD 2021; NU current roster PGY6",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training, PGY6 at Northwestern in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Northwestern (McGaw)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY6: Ashley Selner, MD, PhD, University of Illinois in Chicago"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ashley-selner-md",
+    "type": "doximity",
+    "evidence": "McGaw Medical Center of Northwestern University Residency, Neurological Surgery, 2021 - 2028; University of Illinois College of Medicine Class of 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:rog:medina",
+  "name": "Rogelio Medina",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "NU current roster PGY6 (UCLA); Doximity UCLA Geffen 2010, IL license 2021",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training, PGY6 at Northwestern in 2026-27 (UCLA MD 2010, so had prior research years)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Northwestern (McGaw)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY6: Rogelio Medina, MD, David Geffen School of Medicine at UCLA"
+   },
+   {
+    "url": "https://www.doximity.com/pub/rogelio-medina-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Chicago; David Geffen School of Medicine at UCLA Class of 2010; IL license 2021-2029"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:jaw:fares",
+  "name": "Jawad Fares",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Northwestern neurological surgery 2022-2029 (research fellowship 2018-22), AUB MD 2017; NU current roster PGY5",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training, PGY5 at Northwestern in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Northwestern (McGaw)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY5: Jawad Fares, MD, American University of Beirut"
+   },
+   {
+    "url": "https://www.doximity.com/cv/drjawadfares",
+    "type": "doximity",
+    "evidence": "McGaw Medical Center of Northwestern University Residency, Neurological Surgery, 2022 - 2029; American University of Beirut MD Class of 2017"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:lei:liu",
+  "name": "Lei Liu",
+  "program_id": 41,
+  "identity": "probable",
+  "identity_basis": "NU current roster PGY5 (Univ. Virginia); Doximity Lei Liu at 251 E Huron St Chicago, UVA School of Medicine Class of 2022, IL license 2022 (publications shown belong to namesakes)",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training, PGY5 at Northwestern in 2026-27. Doximity profile categorised Other MD/DO",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Northwestern (McGaw)",
+  "agrees_with_db": true,
+  "disagreement": "Common name; other Lei Liu neurosurgery profiles (Lurie) are a different person",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY5: Lei Liu, MD, University of Virginia"
+   },
+   {
+    "url": "https://www.doximity.com/pub/lei-liu-md-d1472c0e",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Chicago 251 E Huron St; University of Virginia School of Medicine Class of 2022; IL license 2022-2029"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:mar:dapash",
+  "name": "Mark Dapash",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "NU current roster PGY5 (Univ. of Chicago); Doximity Pritzker (class year listed 2021; other sites 2022), IL license 2022, resident physician",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training, PGY5 at Northwestern in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Northwestern (McGaw)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY5: Mark Dapash, MD, University of Chicago"
+   },
+   {
+    "url": "https://www.doximity.com/pub/mark-dapash-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Chicago; Pritzker School of Medicine Class of 2021; IL license 2022-2028"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:ana:roumeliotis",
+  "name": "Anastasios Roumeliotis",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Northwestern neurological surgery 2023-2030, Feinberg MD 2023; NU current roster PGY4",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training, PGY4 at Northwestern in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Northwestern (McGaw)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY4: Anastasios Roumeliotis, MD, Northwestern Feinberg"
+   },
+   {
+    "url": "https://www.doximity.com/pub/anastasios-roumeliotis-md",
+    "type": "doximity",
+    "evidence": "McGaw Medical Center of Northwestern University Residency, Neurological Surgery, 2023 - 2030"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:anr:li",
+  "name": "Anran Li",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Northwestern neurological surgery 2023-2030, Michigan MD 2023; NU current roster PGY4",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training, PGY4 at Northwestern in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Northwestern (McGaw)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY4: Anran Li, MD, University of Michigan Medical School"
+   },
+   {
+    "url": "https://www.doximity.com/pub/anran-li-md",
+    "type": "doximity",
+    "evidence": "McGaw Medical Center of Northwestern University Residency, Neurological Surgery, 2023 - 2030; University of Michigan Medical School Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ }
+]

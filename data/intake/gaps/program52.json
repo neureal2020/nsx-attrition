@@ -1,0 +1,267 @@
+{
+ "program_id": 52,
+ "name": "Oregon Health & Science University (OHSU Health) Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/neurosurgery/academics-residency/residency/current-residents.cfm (xd CMS; single roster page, 'Nth Year Residents' headings; alumni at academics-residency/alumni.cfm)",
+   "from": "2009-04",
+   "to": "2019-05"
+  },
+  {
+   "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/residents (Drupal; hub linking seven per-PGY pages: 1st-year-residents-intern-neurological-surgery ... 7th-year-residents-chief; 5th/6th renamed -senior-research / -research-clinical 2021-02)",
+   "from": "2019-05",
+   "to": "2021-05"
+  },
+  {
+   "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents (single page, 'PGY-n (...)' accordions; links yearly roster PDF under /sites/default/files/)",
+   "from": "2021-06",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni (alumni by year 2000-2025; earlier alumni-2007-2011 / alumni-2012-2016 pages 2019-2021)",
+   "from": "2019-08",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "Note: the xd path is .../clinical-departments/neurosurgery/, not .../neurological-surgery (that prefix has no captures).",
+   "from": "",
+   "to": ""
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No Wayback capture of current-residents.cfm between 2010-06-07 and 2012-12-23. Common Crawl CC-MAIN-2012 capture 2012-02-12 used (source_type other). Complete, 14 names PGY1-7.",
+  "2012-2013": "Wayback 2012-12-23. Complete (15).",
+  "2013-2014": "No Wayback capture 2013-01..2015-01 (CDX all statuses). Common Crawl CC-MAIN-2013-48 2013-12-09 used; identical list in CC 2014-03..2014-09. Complete (15).",
+  "2014-2015": "Wayback 2015-01-30 (also in CC 2014-10..12). Complete (16).",
+  "2015-2016": "Wayback 2015-11-16. Complete (16).",
+  "2016-2017": "Wayback 2016-10-13. Complete (17).",
+  "2017-2018": "Wayback 2017-12-06. Complete (17). Yimo Lin (PGY3) dropped between 2018-03-14 and 2018-05-20 captures.",
+  "2018-2019": "Wayback 2018-11-22, last xd-era roster. Mantovani listed under 1st Year (joined 2018, prior residency in Italy).",
+  "2019-2020": "Roster split across seven per-PGY pages; all seven captured 2019-11-23 and loaded as seven entries. Complete (18).",
+  "2020-2021": "Per-PGY pages captured 2020-11-24 (seven entries). Complete (20).",
+  "2021-2022": "Wayback /current-residents 2021-09-30. Complete (21).",
+  "2022-2023": "Wayback 2022-11-17. Complete (22).",
+  "2023-2024": "Wayback 2023-10-16. Complete (21).",
+  "2024-2025": "Wayback 2024-10-08 (21). Stedelin removed by 2024-11-02; Greisman added by 2025-03-20 (partial 'other' entry with his row only).",
+  "2025-2026": "Wayback 2025-09-09; matches live PDF 'Neurosurgery Resident and Fellow Roster 2025-26'. Complete (21).",
+  "2026-2027": "Live page fetched 2026-09-28: advanced (new PGY1 Khalifeh/Lim/Tang-Tan). Complete (21). Page still links the 2025-26 PDF."
+ },
+ "alumni_page": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+ "departures": [
+  {
+   "name": "Paul McMahon",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "outcome": "left, destination unknown",
+   "training_history": "completed=no, departure_type=unknown, end 2017",
+   "note": "Entered 2014. Listed through 2017-06-13, absent 2017-12-06 onward; not on alumni list. No neurosurgery/medical affiliation after 2015 in PubMed/OpenAlex; on no other program roster. Phase-1 NPI 'switched specialty' hint discarded (not evidence)."
+  },
+  {
+   "name": "Yimo Lin",
+   "last_ay": "2017-2018",
+   "last_pgy": 3,
+   "outcome": "left, destination unknown",
+   "training_history": "completed=no, departure_type=unknown, end 2018",
+   "note": "Entered 2015. Listed through 2018-03-15, absent 2018-05-20; not on alumni list. PubMed/OpenAlex: only OHSU neurosurgery papers (last 2021), no later training affiliation; on no other program roster. Slot filled by Moon (2020)."
+  },
+  {
+   "name": "Brittany Stedelin",
+   "last_ay": "2024-2025",
+   "last_pgy": 2,
+   "outcome": "left, destination unknown",
+   "training_history": "completed=no, departure_type=unknown, end 2024",
+   "note": "Entered 2023. Listed 2024-10-08, absent 2024-11-02 onward. Still OHSU Dept of Neurological Surgery affiliation on 2025-11 and 2026-08 papers (research; not listed as resident). On no other program roster. Slot filled by Greisman."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Alessandra Mantovani",
+   "first_ay": "2018-2019",
+   "first_pgy": 1,
+   "outcome": "joiner with advanced standing (foreign-trained), graduated 2023",
+   "training_history": "start 2018, end 2023, completed=yes",
+   "note": "Bio: 'joined the program in 2018 from Boston Children's/Harvard'; neurosurgery residency Modena, Italy + fellowships UW/UF/Stanford/BCH. Listed 1st Year 2018-19 (4th intern, above complement), PGY5 2019-20, PGY6 2020-21 and 2021-22, PGY7 2022-23; alumni 2023. Not a US-program transfer, filled no vacancy."
+  },
+  {
+   "name": "Seong-Jin Moon",
+   "first_ay": "2020-2021",
+   "first_pgy": 6,
+   "outcome": "transfer in from Wayne State/DMC (125) after its accreditation loss, graduated 2022",
+   "training_history": "start 2020, end 2022, completed=yes (OHSU); p125 row 3274 transferred end 2020",
+   "note": "WSU rosters PGY1 2015-16..Year 4 2018-19, PubMed WSU neurosurgery affiliation 2018-19; OHSU per-PGY pages: absent through 2020-02-25, on 6th-year page from 2020-08-25; PGY7 2021-22; alumni 2022. Fills Lin's 2015-class slot."
+  },
+  {
+   "name": "Jacob Greisman",
+   "first_ay": "2024-2025",
+   "first_pgy": 2,
+   "outcome": "joined mid-year at PGY2 (vacancy after Stedelin), in training PGY4 2026-27",
+   "training_history": "start 2024, completed=unknown (in training)",
+   "note": "Bio: NYMC MD; 'Intern Year: Tulane University Neurosurgery/General Surgery' (not on Tulane (66) neurosurgery PGY1 roster 2023-24, so likely a prelim year); PubMed University at Buffalo neurosurgery affiliations 2024-25 (research). First listed 2025-03-20 ('Gresiman'); photo file dated 2025-02."
+  }
+ ],
+ "residents_2011plus": 48,
+ "adjudication_summary": {
+  "COMPLETED": 36,
+  "IN TRAINING": 21,
+  "LEFT -> did not complete (destination unknown)": 3,
+  "alumni_rows_inserted_phase1": 33,
+  "phase2_training_history_rows": 9
+ },
+ "problems": "None blocking. 2011-12 and 2013-14 rest on Common Crawl captures (consistent with neighbouring years). Departure destinations unknown for 3 residents.",
+ "years": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl 2012-02-12 only (no Wayback 2010-06..2012-12). 14 = 2 per PGY1-7, every class continuous with 2010-06 and 2012-12 rosters; interns Bridges/Hardaway = 2 in 2012-13 PGY2."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2012-12-23 + CC 2013-05-26 identical. 15 (3 interns Gupta/Krause/Stani, all carried to PGY7 2018-19). Raw text re-read: headings '7th Year Residents (Chiefs)' parsed."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "CC 2013-12-09 and 8 more CC captures 2014-03..2014-09 identical (15). 2013 class = 2 (Bullis, Simpson), both carried to PGY7 2019-20; no third intern seen in any capture."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "CC 2014-10..12 and Wayback 2015-01..05 identical (16). 2014 class 3 (Bagley, Goh, McMahon)."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2015-09..2016-07, 12 captures identical (16). 2015 class 2 (Brown, Lin)."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2016-08..2017-06, 9 captures identical (17). McMahon PGY3 through 2017-06-13."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2017-12..2018-06, 8 captures. 17 until Lin (PGY3) drops 2018-05-20 (departure recorded); McMahon absent from 2017-12 (departure recorded)."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2018-07..2019-05, 6 captures (18; 2018-07 double-listed Munger). 4 interns incl. Mantovani (foreign-trained joiner, recorded)."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Seven per-PGY pages, 8 captures each 2019-08..2020-02, all identical (3/3/3/3/2/2/2 = 18, matching cohorts)."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Seven per-PGY pages, 4-7 captures each 2020-08..2021-05, identical (20). Moon first on 6th-year page 2020-08-25 (transfer-in recorded)."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "/current-residents, 18 captures 2021-06..2022-05 identical (21)."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "/current-residents, 19 captures 2022-07..2023-06 identical (22)."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "/current-residents, 14 captures 2023-07..2024-06 identical (21)."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "/current-residents, 13 captures 2024-07..2025-06: 21; Stedelin out between 2024-10-08 and 2024-11-02, Greisman in by 2025-03-20 (both recorded)."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "/current-residents 2025-09..2026-05, 5 captures identical (21) + roster PDF."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page 2026-09-28 (21), 3 per PGY; 2026 PGY7s (Lopez Ramos, Shahin, Yamamoto) gone -> graduation rows added."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "7-year program throughout (ACGME). Mantovani (joined 2018 at 'PGY1' with foreign residency) advanced to PGY5 in 2019-20 and finished PGY7 2023; Moon joined at PGY6 2020-21 and finished PGY7 2022.",
+ "crossmatch": "data/intake/crossmatch.json has no pair involving program 52 (Moon's WSU->OHSU transfer was already recorded by the p125 phase-2 agent, row 3274; OHSU-side row added here).",
+ "phase2": {
+  "searched": [
+   "Every Wayback capture of the xd current-residents.cfm (42 captures 2009-04..2019-05) re-read with an independent loose name detector (any degree-bearing line under an 'Nth Year Residents' heading, incl. '(Chiefs)' headings)",
+   "All 17 Common Crawl roster captures in data/raw/extraction/p52/cc (2012-02..2014-12)",
+   "All captures of the seven Drupal per-PGY pages 2019-08..2021-05 (~90 captures)",
+   "All 68 Wayback captures of /current-residents 2021-06..2026-05",
+   "Alumni page (live) for McMahon/Lin/Stedelin/Moon/Mantovani",
+   "PubMed author+affiliation: Moon SJ, McMahon P/PJ, Yimo Lin, Stedelin B, Greisman J",
+   "OpenAlex author works after departure: Paul McMahon, Yimo Lin, Brittany Stedelin",
+   "All rosters_program*.json for McMahon/Lin/Stedelin/Greisman/Mantovani; Tulane (66) and Buffalo (69) rosters 2023-26",
+   "Wayne State (125) roster and captures for Moon",
+   "data/intake/crossmatch.json"
+  ],
+  "found": [
+   "No resident missed in any year: every capture in every year lists the same set; class sizes follow cohorts exactly (2/yr 2005-11, 2013, 2015; 3 for 2012, 2014, 2016+; plus Mantovani 2018)",
+   "Exact departure windows: McMahon 2017-06-13..2017-12-06, Lin 2018-03-15..2018-05-20, Stedelin 2024-10-08..2024-11-02",
+   "Moon confirmed as WSU transfer (first on OHSU 6th-year page 2020-08-25)",
+   "Mantovani joined 2018 with Italian neurosurgery residency (advanced standing)",
+   "Greisman: prior Tulane intern year and Buffalo neurosurgery research affiliation",
+   "2026 PGY7 graduates recorded from roster (not yet on alumni page)"
+  ],
+  "remaining": [
+   "Destinations of McMahon, Lin and Stedelin unknown (no program page or publication evidence; recorded as departure_type unknown)"
+  ]
+ }
+}

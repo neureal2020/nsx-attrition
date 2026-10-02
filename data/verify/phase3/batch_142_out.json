@@ -1,0 +1,1064 @@
+[
+ {
+  "key": "111:mar:loe",
+  "name": "Maren Loe",
+  "program_id": 111,
+  "identity": "confirmed",
+  "identity_basis": "Utah neurosurgery Match Day 2025 post and Utah resident page (MD/PhD WashU 2025); LinkedIn snippet lists her as resident at Brigham and Women's; MGB brochure lists her",
+  "residency_stated": [
+   {
+    "institution": "University of Utah Health Program",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2025
+   },
+   {
+    "institution": "Brigham and Women's Hospital/Mass General Brigham",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred from Utah to Brigham/MGB neurosurgery as PGY-1 (2025-26); Utah profile page now 404 and absent from Utah roster",
+  "year_left": 2025,
+  "destination_program": "Mass General Brigham/Brigham and Women's Hospital",
+  "destination_start_year": 2025,
+  "current": "neurosurgery resident (PGY-1), Brigham and Women's Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/maren-loe-4bb00b82/",
+    "type": "search_snippet",
+    "evidence": "Maren Loe - Resident Doctor at Brigham and Women's ..."
+   },
+   {
+    "url": "https://medicine.utah.edu/neurosurgery/residents/maren-loe",
+    "type": "program_page",
+    "evidence": "Utah resident page earlier listed; WebFetch now returns HTTP 404; not on current-residents page"
+   },
+   {
+    "url": "https://x.com/UofUNeurosurg/status/1903140654814990708",
+    "type": "news",
+    "evidence": "Welcome Dr. Matthew Findlay, Dr. Maren Loe, and Dr. Adi Mittal (Match 2025)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "111:mat:findlay",
+  "name": "Matthew Findlay",
+  "program_id": 111,
+  "identity": "confirmed",
+  "identity_basis": "Utah resident page, Match Day 2025 post, MD University of Utah",
+  "residency_stated": [
+   {
+    "institution": "University of Utah Health Program",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Utah neurosurgery class of 2025 (PGY-2 in 2026-27); Doximity 'Matthew Findlay' hit is a family physician in NC (different person)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, University of Utah",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.utah.edu/neurosurgery/residents/matthew-findlay",
+    "type": "program_page",
+    "evidence": "welcomed as part of the newest class of neurosurgery residents at the University of Utah in 2025"
+   },
+   {
+    "url": "https://x.com/UofUNeurosurg/status/1903140654814990708",
+    "type": "news",
+    "evidence": "Welcome Dr. Matthew Findlay..."
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "111:aud:paepe",
+  "name": "Audrey De Paepe",
+  "program_id": 111,
+  "identity": "confirmed",
+  "identity_basis": "Utah resident page; MD Columbia, PhD Barcelona; incoming Utah resident 2026",
+  "residency_stated": [
+   {
+    "institution": "University of Utah Health Program",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Incoming/current PGY-1 at Utah (2026-27)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, University of Utah",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.utah.edu/neurosurgery/residents/audrey-de-paepe",
+    "type": "program_page",
+    "evidence": "Audrey De Paepe | Neurosurgery Department"
+   },
+   {
+    "url": "https://www.linkedin.com/in/audreydepaepe/",
+    "type": "search_snippet",
+    "evidence": "Audrey De Paepe - Neurosurgery Resident at University of ..."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "111:diw:gautam",
+  "name": "Diwas Gautam",
+  "program_id": 111,
+  "identity": "confirmed",
+  "identity_basis": "Utah neurosurgery roster (2026 photo) and Utah campus directory GME trainee, neurosurgery research at Utah",
+  "residency_stated": [
+   {
+    "institution": "University of Utah Health Program",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Utah neurosurgery resident page 2026; campus directory GME trainee Neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, University of Utah",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.utah.edu/neurosurgery/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Diwas Gautam, MD listed"
+   },
+   {
+    "url": "https://people.utah.edu/basic.hml?eid=276002782",
+    "type": "search_snippet",
+    "evidence": "Gautam, Diwas - Campus Directory"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "112:kat:ducis",
+  "name": "Katrina Ducis",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UVM Neurological Surgery residency 2011-2018, Toledo MD 2011; UVM pediatric neurosurgeon",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVM neurosurgery 2018; ABNS certified; faculty at UVM",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, UVM Medical Center, Burlington VT",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/katrina-ducis-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/katrina-ducis-922925",
+    "type": "search_snippet",
+    "evidence": "US News listing seen (not opened)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "112:eri:akture",
+  "name": "Erinc Akture",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Doximity + AdventHealth bio: UVM neurosurgery residency 2013-2019",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVM; also listed Utah neurosurgery 2015-16 (visiting) and Miami surgery 2012-13 (prelim); fellowships Baptist Neurological Inst and OHSU; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, AdventHealth Daytona Beach, FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/erinc-akture-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.adventhealthneuroinstitute.com/team/erinc-akture",
+    "type": "bio",
+    "evidence": "complete a neurosurgery residency at the University of Vermont Medical Center"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "112:xun:li",
+  "name": "Xun Li",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Temple MD 2013, Brown neurosurgery residency 2021; UVM roster 2014-16 with Temple MD per DB",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": 2021
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred from UVM to Rhode Island Hospital/Brown; completed Brown residency 2021 (Brown alumni page: graduation 2021), then fellowships at Penn and Shriners 2021-22; Doximity/bios do not list UVM",
+  "year_left": 2016,
+  "destination_program": "Rhode Island Hospital/Brown University Health",
+  "destination_start_year": 2016,
+  "current": "neurosurgeon (spine), Richmond Hill NY (Queens)",
+  "agrees_with_db": true,
+  "disagreement": "Transfer year not stated by any source; DB estimates 2016; sources only confirm Brown finish 2021",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/xunlimd",
+    "type": "doximity",
+    "evidence": "Rhode Island Hospital/Brown University Health Residency, Neurological Surgery, 2021; Temple Class of 2013"
+   },
+   {
+    "url": "https://neurosurgery.med.brown.edu/education/residency-program/current-residents-alumni",
+    "type": "program_page",
+    "evidence": "Xun Li graduation 2021, Penn spinal deformity fellowship 2021-2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "112:ada:olszewski",
+  "name": "Adam Olszewski",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UVM residency 2016-2022, Jefferson MD 2015",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVM 2022; skull base fellowship House Clinic 2022-23; neurosurgeon at Mercy Springfield",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Mercy Hospital Springfield, MO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adam-olszewski-md-2f5ac700",
+    "type": "doximity",
+    "evidence": "University of Vermont Medical Center Residency, Neurological Surgery, 2016 - 2022"
+   },
+   {
+    "url": "https://www.mercy.net/doctor/adam-michael-olszewski-md/",
+    "type": "bio",
+    "evidence": "Mercy neurosurgeon"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "112:nat:limoges",
+  "name": "Natalie Limoges",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UVM residency 2017-2022, COMP Pacific 2015; pediatric fellowship Stanford",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVM 2022; Stanford pediatric neurosurgery fellowship 2022-23; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, University Hospitals Rainbow Babies, Cleveland OH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/natalie-limoges-do",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2022; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "112:joh:muse",
+  "name": "John Muse",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UVM residency 2016-2023, Tufts MD 2016",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVM 2023; cerebrovascular fellowship Baptist Neurological Institute",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "cerebrovascular neurosurgeon, Mary Washington Healthcare, Fredericksburg VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/john-muse-md-4646ab74",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://www.marywashingtonhealthcare.com/find-a-doctor/john-c-muse-md-mba/",
+    "type": "bio",
+    "evidence": "Mary Washington Healthcare provider page"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "112:raj:thakrar",
+  "name": "Raj Thakrar",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UVM residency 2017-2024, UVM MD 2016",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVM 2024; spine fellowship at Brown",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Southcoast Health, North Dartmouth MA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/rajkthakrar",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://www.southcoast.org/doctors/raj-k-thakrar-md/",
+    "type": "bio",
+    "evidence": "Southcoast Health"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "112:luk:silveira",
+  "name": "Luke Silveira",
+  "program_id": 112,
+  "identity": "probable",
+  "identity_basis": "Search snippets/Doximity: BU MD 2018, UVM neurosurgery resident, publications with UVM faculty",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "UVM neurosurgery resident then cerebrovascular neurosurgery fellowship at Semmes Murphey (2025 per search snippet). Doximity oddly lists 'Residency, Neurology, University of Utah Health 2022-2025' (likely mislabeled visiting rotation; UT license 2022-2024) and specialty Neurology, Memphis TN",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "cerebrovascular fellow / neurosurgery at Semmes Murphey Clinic, Memphis TN",
+  "agrees_with_db": true,
+  "disagreement": "Doximity lists neurology at Utah 2022-2025 and specialty Neurology, unexplained; search snippet says neurosurgery fellowship at Semmes Murphey",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/luke-silveira-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurology, University of Utah Health, 2022 - 2025; Boston University Class of 2018; VT license 2018-2025"
+   },
+   {
+    "url": "https://www.linkedin.com/in/luke-antonio-silveira-9152ab9b/",
+    "type": "search_snippet",
+    "evidence": "Luke Antonio Silveira - Semmes Murphey Clinic"
+   },
+   {
+    "url": "https://www.doximity.com/pub/katrina-ducis-md",
+    "type": "doximity",
+    "evidence": "Silveira coauthor with UVM neurosurgery faculty 2024"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "112:eri:agostino",
+  "name": "Erin D'Agostino",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Erin D'Agostino Neurology residency UVM; roster PGY4 neurosurgery 2022-23; Emerg Med Pract author",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2023
+   },
+   {
+    "institution": "University of Vermont Medical Center (Neurology)",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Neurosurgery PGY4 at UVM through 2022-23, then switched to neurology residency at UVM (Doximity Neurology, Burlington VT)",
+  "year_left": 2023,
+  "destination_program": "University of Vermont Medical Center (Neurology)",
+  "destination_start_year": 2023,
+  "current": "neurology resident, UVM Medical Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/erin-d-agostino-md-aa6c68f3",
+    "type": "doximity",
+    "evidence": "Neurology, Burlington VT; Residency, Neurology, University of Vermont Medical Center"
+   },
+   {
+    "url": "https://2023aansannualmeeting.eventscribe.net/ajaxcalls/posterPresenterInfo.asp?PresenterID=1428459",
+    "type": "search_snippet",
+    "evidence": "neurosurgery resident at UVMMC, having completed PGY4"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "112:dyl:adams",
+  "name": "Dylan Adams",
+  "program_id": 112,
+  "identity": "probable",
+  "identity_basis": "UVM roster lists PGY7 (South Alabama MD); search snippet: MSKCC spine oncology fellow 2026-2027, residency UVM",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "MSKCC neurosurgical spine oncology fellow 2026-27 with UVM residency implies completed UVM in mid-2026; UVM page still lists him as PGY7",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgical spine oncology fellow, MSKCC (2026-27)",
+  "agrees_with_db": false,
+  "disagreement": "DB says IN TRAINING; evidence suggests completed June 2026 (fellowship at MSKCC 2026-27)",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.mskcc.org/departments/neurosurgery/neurosurgical-oncology/fellows",
+    "type": "search_snippet",
+    "evidence": "Neurosurgical Spine Oncology Fellow (2026-2027); residency University of Vermont"
+   },
+   {
+    "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+    "type": "program_page",
+    "evidence": "Dylan Adams, MD PGY 7 University of South Alabama"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "112:kat:callahan",
+  "name": "Katherine Callahan",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "UVM roster PGY6, Larner MD 2021; Doximity summary 'Neurosurgical Resident University of Vermont Medical Center'",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UVM neurosurgery resident PGY6; Doximity shows Utah address/UT license 2024-26 (visiting rotation)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY6, UVM",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/katherine-callahan-md-6414766a",
+    "type": "doximity",
+    "evidence": "Neurosurgical Resident University of Vermont Medical Center; University of Vermont College of Medicine Class of 2021"
+   },
+   {
+    "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+    "type": "program_page",
+    "evidence": "Katherine Callahan, MD PGY 6"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "112:chr:ng",
+  "name": "Christina Ng",
+  "program_id": 112,
+  "identity": "probable",
+  "identity_basis": "UVM roster PGY5, New York Medical College MD; ResearchGate Christina Ng NYMC Department of Neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UVM PGY5; Doximity search returned only unrelated Christina Ng (family medicine Oakland)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY5, UVM",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+    "type": "program_page",
+    "evidence": "Christina Ng, MD PGY 5 New York Medical College"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Christina-Ng-13",
+    "type": "search_snippet",
+    "evidence": "Christina NG, New York Medical College, Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "112:kat:zerebiec",
+  "name": "Katherine Zerebiec",
+  "program_id": 112,
+  "identity": "probable",
+  "identity_basis": "UVM roster PGY5, Jagiellonian MD; Doximity MD Jagiellonian 2019, UVM neurology residency 2020-2023, Utah address (same as Callahan, visiting)",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "On UVM neurosurgery roster PGY5 2026-27. Doximity lists Neurology specialty and UVM neurology residency 2020-2023 (overlaps neurosurgery entry 2022; may mean started neurology first or stale label)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY5, UVM",
+  "agrees_with_db": true,
+  "disagreement": "Doximity shows neurology residency 2020-2023, unexplained overlap with DB neurosurgery entry 2022",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/katherine-zerebiec-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurology, University of Vermont Medical Center, 2020 - 2023; Jagiellonian Class of 2019"
+   },
+   {
+    "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+    "type": "program_page",
+    "evidence": "Katherine Zerebiec, MD PGY 5"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "112:eli:wicks",
+  "name": "Elizabeth Wicks",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "UVM roster PGY4, Ole Miss MD 2023; WebMD Neurological Surgery Burlington",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UVM PGY4",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY4, UVM",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+    "type": "program_page",
+    "evidence": "Elizabeth Wicks, MD PGY 4 University of Mississippi"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/elizabeth-wicks-302e101c-338a-4f91-a631-4d753ba1c5f6-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery specialist practicing in Burlington, VT"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "112:cra:methot",
+  "name": "Craig Methot",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "UVM roster PGY3, Drexel MD; UVM Instagram welcome post",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UVM PGY3 (DB first seen 2025-26 PGY2)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY3, UVM",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+    "type": "program_page",
+    "evidence": "Craig Methot PGY 3 Drexel University College of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "112:eri:werheim",
+  "name": "Erik Werheim",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "UVM roster PGY2, Temple MD 2024; Doximity Burlington VT PGY-1 preliminary general surgery, Temple 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UVM PGY2 (Doximity page shows older prelim-year label)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY2, UVM",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/erik-werheim-md",
+    "type": "doximity",
+    "evidence": "General Surgery, Burlington VT, PGY-1 - Preliminary Year; Temple Class of 2024"
+   },
+   {
+    "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+    "type": "program_page",
+    "evidence": "Erik Werheim, MD PGY 2 Lewis Katz"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "112:con:mcnamee",
+  "name": "Conor McNamee",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "UVM roster Intern, UCD MB; LinkedIn neurosurgery resident/PhD candidate",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UVM intern (PGY1); Doximity hit is a Michigan family physician (different)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY1, UVM",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+    "type": "program_page",
+    "evidence": "Conor McNamee, MB Intern University College Dublin"
+   },
+   {
+    "url": "https://ie.linkedin.com/in/conor-mcnamee-23a41223b",
+    "type": "search_snippet",
+    "evidence": "Conor McNamee - Neurosurgery Resident, PhD Candidate"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "113:aar:bond",
+  "name": "Aaron Bond",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UVA neurosurgery residency 2011-2018, Keck MD 2011; UVA former-resident list",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVA 2018; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, ECU Health (Greenville NC) / Centra Lynchburg VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/aaron-bond-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/uva-former-neurosurgery-resident-current-positions/",
+    "type": "program_page",
+    "evidence": "Aaron Bond, MD \u2013 Centra Medical Group Neurosurgery, Lynchburg, VA"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "113:pau:schmitt",
+  "name": "Paul Schmitt",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UVA residency 2011-2018, Rutgers NJMS 2011; UVA former-resident list",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVA 2018; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, CHRISTUS Spohn, Corpus Christi TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/paul-schmitt-md-0de88568",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/uva-former-neurosurgery-resident-current-positions/",
+    "type": "program_page",
+    "evidence": "Paul Schmitt, MD \u2013 CHRISTUS Spohn"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "113:dan:raper",
+  "name": "Daniel Raper",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UVA residency 2012-2019, Sydney MD 2010; UCSF bio; UVA former-resident list",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVA 2019 with neuroendovascular fellowship; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor of neurosurgery (cerebrovascular), UCSF",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-raper-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.ucsfhealth.org/providers/daniel-raper",
+    "type": "bio",
+    "evidence": "residency in neurosurgery and fellowship in neuroendovascular surgery at the University of Virginia"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "113:jam:nguyen",
+  "name": "James Nguyen",
+  "program_id": 113,
+  "identity": "probable",
+  "identity_basis": "UVA former-resident list names James Nguyen at Providence St. Joseph, Burbank; Providence/Healthgrades bio: UVA MD 2012 and UVA neurosurgery residency with spine fellowship; no years stated",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising neurosurgeon at Providence St. Joseph, Burbank CA, trained at UVA; no Doximity profile found",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Providence St. Joseph Medical Center, Burbank CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/uva-former-neurosurgery-resident-current-positions/",
+    "type": "program_page",
+    "evidence": "James Nguyen, MD \u2013 Neurosurgeon, Providence St. Joseph Medical Center, Burbank, CA"
+   },
+   {
+    "url": "https://www.providence.org/doctors/neurosurgery/ca/burbank/james-nguyen-1700144045",
+    "type": "bio",
+    "evidence": "James H. Nguyen, MD, Burbank"
+   }
+  ],
+  "searches_used": 2
+ }
+]

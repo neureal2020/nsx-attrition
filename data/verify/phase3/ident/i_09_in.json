@@ -1,0 +1,747 @@
+[
+ {
+  "key": "28:tre:line",
+  "name": "Trenton Line",
+  "program_id": 28,
+  "program": "Indiana University School of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine)",
+   "outcome": "in_training",
+   "outcome_detail": "Listed on IU current residents page; PGY-1 neurosurgery resident, IU",
+   "current": "PGY-1 neurosurgery resident, IU",
+   "residency_stated": [
+    {
+     "institution": "Indiana University School of Medicine Program",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+     "type": "program_page",
+     "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "28:whi:brown",
+  "name": "Whitney Brown",
+  "program_id": 28,
+  "program": "Indiana University School of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine); common name; only the IU roster confirms, Doximity results were a different Whitney Brown (pediatric endocrinology, Columbia SC)",
+   "outcome": "in_training",
+   "outcome_detail": "Listed on IU current residents page; PGY-1 neurosurgery resident, IU",
+   "current": "PGY-1 neurosurgery resident, IU",
+   "residency_stated": [
+    {
+     "institution": "Indiana University School of Medicine Program",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+     "type": "program_page",
+     "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine); common name; only the IU roster confirms, Doximity results were a different Whitney Brown (pediatric e"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "31:geo:hanna",
+  "name": "George Hanna",
+  "program_id": 31,
+  "program": "Loma Linda University Health Education Consortium Program",
+  "entry_year": 2013,
+  "first_seen": "2014-2015",
+  "last_seen": "2016-2017",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> TRANSFERRED (University of California, Irvine) [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity (West Hollywood neurosurgery, Cedars-Sinai): LL residency 2013-2017, UC Irvine 2017-2020, Cedars spine fellowship; UCI alumni class 2020. Name is common but training path matches exactly",
+   "outcome": "transferred",
+   "outcome_detail": "LL 2013-2017 then UC Irvine neurosurgery 2017-2020 (PGY5), spine fellowship Cedars-Sinai 2020-21",
+   "current": "Assistant Professor of Neurosurgery, Cedars-Sinai, Los Angeles",
+   "residency_stated": [
+    {
+     "institution": "Loma Linda",
+     "specialty": "neurosurgery",
+     "start": 2013,
+     "end": 2017
+    },
+    {
+     "institution": "UC Irvine",
+     "specialty": "neurosurgery",
+     "start": 2017,
+     "end": 2020
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/george-hanna-md-cb6cb182",
+     "type": "doximity",
+     "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2017 - 2020; Loma Linda ... Residency 2013 - 2017; ABNS"
+    },
+    {
+     "url": "https://www.neurosurgery.uci.edu//resident-alumni.asp",
+     "type": "program_page",
+     "evidence": "UC Irvine Neurological Surgery residency alumni page listed in search (Class of 2020 George Hanna per snippet)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "31:and:song",
+  "name": "Andrew Song",
+  "program_id": 31,
+  "program": "Loma Linda University Health Education Consortium Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LL alumni page lists 'Andrew Song, MD, PhD' (LL MD, residency completed June 2025, Stanford spine fellowship). The Doximity Andrew Song found is a radiologist (different person)",
+   "outcome": "completed",
+   "outcome_detail": "LL alumni page lists him under 2025 with Stanford spine fellowship (search snippet: completed neurosurgery residency training in June 2025)",
+   "current": "spine fellow, Stanford (neurosurgery)",
+   "residency_stated": [
+    {
+     "institution": "Loma Linda",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/alumni",
+     "type": "program_page",
+     "evidence": "2025: Andrew Song, MD, PhD - Currently at Stanford (spine fellowship)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "31:you:hamade",
+  "name": "Youssef Hamade",
+  "program_id": 31,
+  "program": "Loma Linda University Health Education Consortium Program",
+  "entry_year": 2020,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 7,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LL residents page PGY-7 Youssef Hamade (American University of Beirut); search snippet and UMN Neurosurgery Facebook posts list Dr. Youssef Hamade as U of M neurosurgery resident; AUB MD matches",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-7 at LL in 2026-27; earlier University of Minnesota resident (consistent with DB transfer in 2025-26); a search snippet claims a UMN residency completion and a clinical fellowship, unresolved",
+   "current": "neurosurgery resident PGY7, Loma Linda",
+   "residency_stated": [
+    {
+     "institution": "University of Minnesota",
+     "specialty": "neurosurgery",
+     "start": 2017,
+     "end": 2023
+    },
+    {
+     "institution": "Loma Linda",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": 2027
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+     "type": "program_page",
+     "evidence": "PGY-7: Youssef Hamade, MD (American University of Beirut)"
+    },
+    {
+     "url": "https://www.facebook.com/UMNNeurosurgery/photos/u-of-m-neurosurgery-resident-dr-youssef-hamade-during-his-neurosafe-2019-abstrac/2342165045839229/",
+     "type": "search_snippet",
+     "evidence": "U of M Neurosurgery Resident Dr. Youssef Hamade during his NeuroSAFE 2019 abstract"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "32:nim:adeeb",
+  "name": "Nimer Adeeb",
+  "program_id": 32,
+  "program": "Louisiana State University (Shreveport) Program",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "last_seen": "2023-2024",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Distinctive name; LSUHSC Shreveport neurosurgery (ResearchGate), earlier BMC pre-residency fellow 2016-17 before LSU",
+   "outcome": "completed",
+   "outcome_detail": "UTHealth Houston (McGovern) neurosurgery faculty list (Massin Congress) titles him 'Fellow in Skull Base and Cerebrovascular surgery' (Sept 2024), i.e. post-residency fellowship after LSU residency ended 2023-24. No LSU alumni page confirms explicitly.",
+   "current": "fellow, skull base/cerebrovascular, UTHealth Houston (2024)",
+   "residency_stated": [
+    {
+     "institution": "Louisiana State University Shreveport",
+     "specialty": "neurosurgery",
+     "start": 2017,
+     "end": 2024
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://med.uth.edu/neurosurgery/8th-massin-congress/faculty-list/",
+     "type": "bio",
+     "evidence": "Nimer Adeeb: Fellow in Skull Base and Cerebrovascular surgery, Department of Neurosurgery, McGovern Medical School, UTHealth Houston"
+    },
+    {
+     "url": "https://www.researchgate.net/profile/Nimer-Adeeb",
+     "type": "search_snippet",
+     "evidence": "Neurosurgeon, Louisiana State University Health Sciences Center Shreveport"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "32:eli:jee",
+  "name": "Elizabeth Jee",
+  "program_id": 32,
+  "program": "Louisiana State University (Shreveport) Program",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2026-2027",
+  "last_pgy": 4,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSU roster/Instagram/Facebook list Dr. Elizabeth Jee, House Officer IV, LSU Shreveport neurosurgery",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as current neurosurgery resident (House Officer IV)",
+   "current": "neurosurgery resident, LSU Shreveport",
+   "residency_stated": [
+    {
+     "institution": "LSU Shreveport",
+     "specialty": "neurosurgery",
+     "start": 2023,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.instagram.com/lsuhsneurosurgery/p/C5V56QtyCvc/",
+     "type": "search_snippet",
+     "evidence": "LSU Health Shreveport Neurosurgery | Dr. Elizabeth Jee ..."
+    },
+    {
+     "url": "https://www.lsuhs.edu/departments/school-of-medicine/neurosurgery/residency/residents",
+     "type": "program_page",
+     "evidence": "roster lists Elizabeth Jee, House Officer IV"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "32:mat:palfreeman",
+  "name": "Matthew Palfreeman",
+  "program_id": 32,
+  "program": "Louisiana State University (Shreveport) Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSU roster lists Matthew Palfreeman PGY III, Texas Tech Foster MD; coauthor on LSU neurosurgery pub (Neurosurgical Focus 2025)",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as current neurosurgery resident",
+   "current": "neurosurgery resident, LSU Shreveport",
+   "residency_stated": [
+    {
+     "institution": "LSU Shreveport",
+     "specialty": "neurosurgery",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.lsuhs.edu/departments/school-of-medicine/neurosurgery/residency/residents",
+     "type": "program_page",
+     "evidence": "roster (per search): Matthew Palfreeman, Texas Tech Paul L. Foster"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "32:bay:stevens",
+  "name": "Baylee Stevens",
+  "program_id": 32,
+  "program": "Louisiana State University (Shreveport) Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSU roster lists Baylee Stevens (Univ. Oklahoma MD), ResearchGate: LSU Shreveport Dept of Neurosurgery",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY-2 per roster (listed PGY-1 in a 2025 secondary source)",
+   "current": "neurosurgery resident, LSU Shreveport",
+   "residency_stated": [
+    {
+     "institution": "LSU Shreveport",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.researchgate.net/profile/Baylee-Stevens",
+     "type": "search_snippet",
+     "evidence": "Louisiana State University Health Sciences Center Shreveport | Department of Neurosurgery"
+    },
+    {
+     "url": "https://www.lsuhs.edu/departments/school-of-medicine/neurosurgery/residency/residents",
+     "type": "program_page",
+     "evidence": "roster"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "32:cha:jokerst",
+  "name": "Chandler Jokerst",
+  "program_id": 32,
+  "program": "Louisiana State University (Shreveport) Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSU roster lists Chandler Jokerst (Meharry MD); LinkedIn medical student at Meharry",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY-2 per roster",
+   "current": "neurosurgery resident, LSU Shreveport",
+   "residency_stated": [
+    {
+     "institution": "LSU Shreveport",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.lsuhs.edu/departments/school-of-medicine/neurosurgery/residency/residents",
+     "type": "program_page",
+     "evidence": "roster lists Chandler Jokerst, Meharry"
+    },
+    {
+     "url": "https://www.linkedin.com/in/chandler-jokerst-1bb42a151/",
+     "type": "search_snippet",
+     "evidence": "Medical Student - Meharry Medical College"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "32:log:eskin",
+  "name": "Logan Eskin",
+  "program_id": 32,
+  "program": "Louisiana State University (Shreveport) Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSU roster lists Logan Eskin (UTHSC MD), PGY-2",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY-2 per roster",
+   "current": "neurosurgery resident, LSU Shreveport",
+   "residency_stated": [
+    {
+     "institution": "LSU Shreveport",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.lsuhs.edu/departments/school-of-medicine/neurosurgery/residency/residents",
+     "type": "program_page",
+     "evidence": "roster lists Logan Eskin"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "32:jac:vanderhoof",
+  "name": "Jaclyn Vanderhoof",
+  "program_id": 32,
+  "program": "Louisiana State University (Shreveport) Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSU roster lists Jaclyn Vanderhoof, PGY-1, Marshall Univ. MD",
+   "outcome": "in_training",
+   "outcome_detail": "Incoming PGY-1 2026",
+   "current": "neurosurgery resident (PGY-1), LSU Shreveport",
+   "residency_stated": [
+    {
+     "institution": "LSU Shreveport",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.lsuhs.edu/departments/school-of-medicine/neurosurgery/residency/residents",
+     "type": "program_page",
+     "evidence": "roster lists Jaclyn Vanderhoof, Marshall"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "32:ste:odafe",
+  "name": "Stephen Odafe",
+  "program_id": 32,
+  "program": "Louisiana State University (Shreveport) Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSU roster lists Stephen Odafe, PGY-1, USUHS MD",
+   "outcome": "in_training",
+   "outcome_detail": "Incoming PGY-1 2026",
+   "current": "neurosurgery resident (PGY-1), LSU Shreveport",
+   "residency_stated": [
+    {
+     "institution": "LSU Shreveport",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.lsuhs.edu/departments/school-of-medicine/neurosurgery/residency/residents",
+     "type": "program_page",
+     "evidence": "roster lists Stephen Odafe, Uniformed Services University"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "32:ste:nichols",
+  "name": "Stewart Nichols",
+  "program_id": 32,
+  "program": "Louisiana State University (Shreveport) Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSU roster lists Stewart Nichols, PGY-1, UTHSC MD",
+   "outcome": "in_training",
+   "outcome_detail": "Incoming PGY-1 2026",
+   "current": "neurosurgery resident (PGY-1), LSU Shreveport",
+   "residency_stated": [
+    {
+     "institution": "LSU Shreveport",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.lsuhs.edu/departments/school-of-medicine/neurosurgery/residency/residents",
+     "type": "program_page",
+     "evidence": "roster lists Stewart Nichols, UTHSC"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "33:car:ramos",
+  "name": "Cara Ramos",
+  "program_id": 33,
+  "program": "Louisiana State University School of Medicine Program \u00a9 2026 Accredita",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LSU residents page lists Cara Ramos, M.D., LSU 2026, first-year; no independent profile found",
+   "outcome": "in_training",
+   "outcome_detail": "1st-year resident on LSU page",
+   "current": "PGY-1 neurosurgery resident, LSU New Orleans",
+   "residency_stated": [
+    {
+     "institution": "LSU neurosurgery",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+     "type": "program_page",
+     "evidence": "First Year Residents: Cara Ramos, M.D. LSU School of Medicine, New Orleans, 2026"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "34:nat:pecoraro",
+  "name": "Nathan Pecoraro",
+  "program_id": 34,
+  "program": "Loyola University Medical Center Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Healthgrades/Sharecare: neurosurgeon Maywood IL affiliated Loyola, Stritch MD; ResearchGate/RocketReach: Loyola neurological surgery resident; co-author on Loyola resident papers (2025 Tourette DBS paper); not on Loyola current resident page",
+   "outcome": "completed",
+   "outcome_detail": "Neurosurgeon Maywood IL affiliated with Loyola (Healthgrades); no longer on Loyola current-resident page (Sept 2026), consistent with completing 2026. Exact years not stated by sources seen.",
+   "current": "neurosurgeon, Loyola (Healthgrades), Maywood IL",
+   "residency_stated": [
+    {
+     "institution": "Loyola University Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.healthgrades.com/physician/dr-nathan-pecoraro-t6u2lme825",
+     "type": "search_snippet",
+     "evidence": "Dr. Nathan Pecoraro, MD - Neurosurgeon in Maywood, IL; affiliated with Loyola University Medical Center; MD Loyola Stritch"
+    },
+    {
+     "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+     "type": "program_page",
+     "evidence": "not listed among current residents"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "35:cas:norton",
+  "name": "Casey Norton",
+  "program_id": 35,
+  "program": "MaineHealth Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "not_found",
+   "identity_basis": "Searches for Casey Norton + neurosurgery/MaineHealth returned no matching resident; Doximity search returned only a women's health NP (different person). Roster page not accessible via search.",
+   "outcome": "in_training",
+   "outcome_detail": "No independent public confirmation found; recorded PGY-1 entrant 2026 in input (too recent for profiles).",
+   "current": null,
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.mainehealth.org/maine-medical-center/education-research/medical-education/residency-programs/neurological-surgery-residency",
+     "type": "program_page",
+     "evidence": "program page surfaced by search; no roster with Norton seen"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "36:wil:smith",
+  "name": "William Smith",
+  "program_id": 36,
+  "program": "Mass General Brigham",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2025-2026",
+  "last_pgy": 4,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippets: William J. Smith, MGH neurosurgery resident, Dartmouth Geisel MD 2022 (matches 2022 MGH match class); common name; Doximity 'William Smith' in Portland OR is a different person, so doximity not_found",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2022); no sign of leaving; consistent with in training",
+   "current": "neurosurgery resident, MGH (William J. Smith, MD)",
+   "residency_stated": [
+    {
+     "institution": "Mass General Brigham/Massachusetts General Hospital",
+     "specialty": "neurosurgery",
+     "start": 2022,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/william-smith-md-93552654/",
+     "type": "search_snippet",
+     "evidence": "William Smith, MD - Massachusetts General Hospital (Geisel MD 2022)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "36:nat:hughes",
+  "name": "Natasha Hughes",
+  "program_id": 36,
+  "program": "Mass General Brigham",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LinkedIn/Vitals/Scholar snippets: Natasha C. Hughes, neurosurgery resident at MGH, Vanderbilt MD 2025. Doximity search only returned an unrelated pediatrician (FL), not used",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2025); no sign of leaving; consistent with in training",
+   "current": "PGY-1 neurosurgery resident, MGH (Vanderbilt MD 2025)",
+   "residency_stated": [
+    {
+     "institution": "Mass General Brigham/Massachusetts General Hospital",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/natasha-hughes-063ab3209/",
+     "type": "search_snippet",
+     "evidence": "Natasha Hughes - Neurosurgery Resident at ..."
+    },
+    {
+     "url": "https://www.vitals.com/doctors/natasha-hughes-rlxt36",
+     "type": "search_snippet",
+     "evidence": "Dr. Natasha C. Hughes | Boston, MA | Neurosurgeon"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "36:roh:jha",
+  "name": "Rohan Jha",
+  "program_id": 36,
+  "program": "Mass General Brigham",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippets: Rohan Jha, MD, neurosurgery resident at MGB (MEND Lab), HMS graduate; Doximity search returned only unrelated people",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2025); no sign of leaving; consistent with in training",
+   "current": "neurosurgery resident, MGB (per search snippet)",
+   "residency_stated": [
+    {
+     "institution": "Mass General Brigham/Massachusetts General Hospital",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.massgeneral.org/neurosurgery/education-and-training.page",
+     "type": "search_snippet",
+     "evidence": "Rohan Jha appears in MGH neurosurgery residency search result; MEND Lab affiliation"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

@@ -1,0 +1,143 @@
+{
+ "program_id": 81,
+ "name": "University of Connecticut School of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2020,
+ "hosts": [
+  {
+   "url": "https://health.uconn.edu/graduate-medical-education/neurological-surgery-residency-program/ (program home; no roster until the Current Residents subpage)",
+   "from": "2019-09-19 (first capture)",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://health.uconn.edu/graduate-medical-education/neurological-surgery-residency-program/current-residents/ (WP page created 2021-10-18; linked from Jan 2022)",
+   "from": "2024-07-08 (first capture)",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://health.uconn.edu/neurosurgery/our-team/ (dept Our Team page, 'Residents' section with PGY)",
+   "from": "2021-07-03 (first capture with residents; 2019 captures have no residents; no 2020 captures)",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://health.uconn.edu/neurosurgery/ (dept home: 'Welcome' news items per new resident)",
+   "from": "2020-08-01 (Shen inaugural-resident item)",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "http://gme.uchc.edu/programs/sponsored.html (old GME host: sponsored-program list, 2012-2018, no neurosurgery residency)",
+   "from": "2012-05",
+   "to": "2018-02"
+  }
+ ],
+ "observed_years": [
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012..2019-2020": "Program did not exist. UConn GME sponsored-program list (gme.uchc.edu/programs/sponsored.html, 27 captures 2012-2018) lists Neurology, Neuromuscular, Neurovascular but no neurosurgery residency; gapaudit 2010-2020 on neurosurgery.uchc.edu, uchc.edu/neurosurgery, health.uconn.edu/neurosurgery, gme.uchc.edu/programs/neuro* found no neurosurgery residency pages. Residency home page first archived 2019-09-19 (recruiting for 2020); dept home Aug 2020 welcomes Erica Shen as 'our inaugural neurosurgery resident'.",
+  "2020-2021": "No roster page captured (our-team: captures 2019-09 then 2021-07; GME current-residents page not yet created). Year taken from dept home-page news item (2020-11-01 capture): Erica Shen, inaugural (sole) resident; PGY-1 inferred from PGY2 in 2021-22. Common Crawl 2020-2021 checked for our-team/GME pages (see problems).",
+  "2021-2022": "Our Team 2021-10-29: Diaz PGY1, Shen PGY2.",
+  "2022-2023": "Our Team 2022-11-26: Shen PGY3, Diaz PGY2, Burch PGY1.",
+  "2023-2024": "Our Team 2023-12-10: Shen PGY4, Diaz PGY3, Burch PGY2, Patil PGY1.",
+  "2024-2025": "Our Team 2024-12-07 (= GME current-residents 2024-07-08): Diaz PGY4, Shen PGY4 (second year at PGY4), Burch PGY3, Patil PGY2, Nwankwo PGY1.",
+  "2025-2026": "Our Team 2025-11-11 (= GME 2026-02-12): Diaz 5, Burch 4, Patil 3, Nwankwo 2, Venero 1. GME page 2025-08-09 still listed Shen PGY4 (stale carry-over); she is absent from every later list.",
+  "2026-2027": "Live GME current-residents 2026-09-27 (advanced, new intern): Rao 1, Venero 2, Nwankwo 3, Patil 4, Burch 5, Diaz 6. Dept Our Team live and 2026-06-13 capture agree."
+ },
+ "alumni_page": null,
+ "departures": [
+  {
+   "name": "Erica Shen",
+   "last_ay": "2024-2025",
+   "last_pgy": 4,
+   "note": "Inaugural resident (entry 2020). PGY4 in 2023-24 AND 2024-25 (consistent with a research year). GME page 2025-08-09 still listed her unadvanced at PGY4; dropped from dept page by 2025-11-11 and GME page by 2026-02-12; absent 2026-27. PHASE 2: July 2025 bioRxiv (doi 10.1101/2025.07.11.664189, PMID 40791422) lists her at Department of Neurosurgery, Yale University (Verhaak lab; same OpenAlex author A5062832120 as her UConn/JAX papers; 2022 paper co-authored with Verhaak). She is on no Yale NS residency roster (program 123) -> research affiliation, not a transfer. Outcome: LEFT, did not complete; destination/specialty unknown. training_history row inserted (completed='no', departure_type='unknown', end_year 2025). NPPES 'switch' = wrong person, not used.",
+   "phase2_outcome": "left_did_not_complete; last affiliation Yale Neurosurgery research (Jul 2025); departure_type unknown"
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 7,
+ "adjudication_summary": {
+  "IN TRAINING": 6,
+  "LEFT -> did not complete": 1,
+  "note": "after phase 2 training_history row; the NPI switch call no longer drives Shen's outcome"
+ },
+ "problems": "Common Crawl pass 2020-2021 (our-team and GME residency prefixes) found no 2020-21 roster page, only GME program home/application/contact pages; failed crawls to retry: CC-MAIN-2020-24 (our-team prefix), CC-MAIN-2021-39 (GME residency prefix) - range request failures. 2020-21 rests on the inaugural-resident news item (single resident, PGY inferred). Name variant: 'Aliana Rao' (GME bio, NPPES 1750194445 Farmington CT) vs 'Alina Rao' (dept page) - canonicalised to Aliana Rao. Adjudicator's former SWITCHED SPECIALTY call for Erica Shen (wrong-person NPPES) is superseded by the phase-2 training_history row (now 'LEFT -> did not complete'). No alumni page; no graduates yet (first class 2020, 7-yr program; first possible graduation June 2027). Phase-1 failed CC crawls (CC-MAIN-2020-24, 2021-39) not retried: 2020-21 can hold only the one inaugural resident, so they cannot change any count. Hartford Hospital is listed only as a clinical site; it hosts no separate program roster.",
+ "terminal_pgy_by_entry_year": {
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "year_status": {
+  "2011-2012..2019-2020": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "program did not exist (first class 2020)"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "no roster page, but dept news names the sole inaugural resident; complement 1 and the 2021-22 roster (Shen PGY2 + one PGY1) leave no room for an unseen resident"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2 residents = 2 classes x complement 1; PGY1-2 both present"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "3 residents, PGY1-3 all present"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "4 residents, PGY1-4 all present"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "5 residents = 5 classes; Shen held at PGY4 alongside Diaz PGY4 (her research year); no PGY5 cohort exists"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "5 residents (entries 2021-2025) + Shen departed; GME Aug 2025 unadvanced Shen listing is the only trace"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "6 residents PGY1-6 (entries 2021-2026); no PGY7 exists because the only 2020 entrant left"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Re-read every parsed roster capture (wb_rosters.txt: our-team 2021-07..2026-06, GME current-residents 2024-07..2026-06) and live pages: no Chiefs heading, no residents on faculty menus, no inline 'Name, PGY' entries, no suffixed (III/Jr) names; counts equal classes x complement 1 every year",
+   "Unparsed cc/ captures (GME program home 2020-02..2021-05, application/contact/clinical-sites, a faculty bio): none list residents",
+   "WordPress search on health.uconn.edu/neurosurgery and /graduate-medical-education for Shen/resident/graduat/match: no Shen hit for neurosurgery; other GME 'Shen' hits are different people (Shenod, Shenoy, Shen YC)",
+   "Wayback dept home 2025-02, 2025-06, 2025-09, 2026-01 (saved in phase2/): news items only about Nwankwo/Venero matches",
+   "UConn Today 2025-08-21 residency feature (Burch): no mention of Shen",
+   "PubMed author search 'Shen Erica' (20 PMIDs) and OpenAlex author A5062832120 works with affiliations",
+   "Yale: rosters_program123 2024-25..2026-27, medicine.yale.edu/profile/erica-shen (404 live; Wayback CDX returned no captures), Verhaak lab URLs on medicine.yale.edu (none)",
+   "crossmatch.json: no entries for program 81"
+  ],
+  "found": [
+   "Erica Shen: Yale Department of Neurosurgery affiliation on July 2025 GLASS preprint (Verhaak lab); not a Yale resident -> left UConn after 2024-25, did not complete, destination unknown",
+   "GME current-residents 2025-08-09 kept Shen at PGY4 while advancing everyone else: residual chance she was nominally enrolled into early 2025-26"
+  ],
+  "remaining": [
+   "Shen's post-2025 clinical status (whether she continues neurosurgery training anywhere) is not public on allowed sources"
+  ]
+ }
+}

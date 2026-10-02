@@ -1,0 +1,200 @@
+{
+ "program_id": 16,
+ "name": "Corewell Health Grand Rapids / Michigan State University (formerly Spectrum Health / MSU, GRMEP), Grand Rapids MI",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2018,
+ "hosts": [
+  {
+   "url": "https://www.grmep.org/programs/neurological-surgery/ (+ /resident-bios/)",
+   "from": "2016-08",
+   "to": "2017-12 (CC; resident-bios still empty)",
+   "note": "pre-accreditation page ('seeking ACGME approval ... to begin summer 2017'); resident-bios empty"
+  },
+  {
+   "url": "https://www.spectrumhealth.org/medicaleducation/residencies/neurological-surgery (+ /neurological-surgery-resident-bios)",
+   "from": "2018-10 (CC; Wayback from 2019-10)",
+   "to": "2022-01",
+   "note": "'Class of' roster on the program page itself"
+  },
+  {
+   "url": "https://www.spectrumhealth.org/medical-education/residencies/neurological-surgery-residency (+ -residency-bios)",
+   "from": "2022-01",
+   "to": "2025-03",
+   "note": "program page is the complete roster; the -bios page omitted Nina Shank"
+  },
+  {
+   "url": "https://corewellhealth.org/graduate-medical-education/west-michigan/residencies/neurological-surgery (+ /bios)",
+   "from": "2025-02",
+   "to": "live",
+   "note": "Gatsby site; roster also in /page-data/.../page-data.json"
+  }
+ ],
+ "observed_years": [
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012..2017-2018": "Before the program existed. The grmep.org page (2017-03) says the program was seeking ACGME approval, and spectrumhealth.org (2019) says 'Beginning in the summer of 2018, a single resident per year'. The first entrant is Verhey, Class of 2025.",
+  "2018-2019": "No Wayback capture (gapaudit on grmep.org and spectrumhealth.org/medicaleducation, 2017-04..2019-11). Observed through Common Crawl: program page in CC-MAIN-2018-47 (2018-11-17) lists Verhey, Class of 2025. Same content in CC 2018-43, 2019-04, 2019-13 and 2019-26. The shared cclocal.py ROST filter skips '/residencies/<program>' URLs, so a narrow-prefix copy (p16/cc_ns.py) was used.",
+  "2022-2023": "The only Aug-Jan capture of the program page (2022-09-26) had not yet added the 2022 intern. The 2023-03-25 capture was used (Shank, Class of 2029, listed; no incoming interns)."
+ },
+ "alumni_page": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt0e53860815696e90/neurological-surgery-residency-graduate-information-guide.pdf",
+ "departures": [
+  {
+   "name": "Nina Shank",
+   "last_ay": "2025-2026",
+   "last_pgy": 4,
+   "outcome": "switched_specialty",
+   "destination": "Carilion Clinic General Surgery residency, PGY-1 2026-27",
+   "evidence": "https://gme.carilionclinic.org/general-surgery-residency/residents (live 2026-09-28, saved data/raw/extraction/p16/phase2/carilion_general-surgery-residency_residents.html): 'Nina Shank, MD, Medical School: Tulane University School of Medicine' under PGY1 Residents. Corewell listed her as 'Nina Shank, MD / Tulane University' (Wayback 2025-10-07). Not on the Carilion neurosurgery (program 8) roster.",
+   "training_history_th_id": 3387
+  },
+  {
+   "name": "Jeffrey Farooq",
+   "last_ay": "2025-2026",
+   "last_pgy": 2,
+   "outcome": "transferred",
+   "destination": "University of Chicago neurosurgery (program 78), PGY-3 2026-27",
+   "evidence": "UChicago live 2026-27 roster 'Jeffrey Farooq, MD | PGY 3' and June 2026 UChicago Neurosurgery Newsletter (program 78 th 2670).",
+   "training_history_th_id": 3388
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 9,
+ "adjudication_summary": {
+  "IN TRAINING": 5,
+  "COMPLETED": 2,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> TRANSFERRED": 1
+ },
+ "problems": "None significant. The CC-MAIN-2026-39 copy of the /bios page (2026-09-12) is stale (still lists Restrepo Orozco and Farooq, no Looman); the live program page and live /bios page (2026-09-27) are the 2026-27 source. DB programs.website points to neurology.msu.edu, not the neurosurgery page.",
+ "year_status": {
+  "2011-2012": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Before the program existed (first class summer 2018)."
+  },
+  "2012-2013": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Before the program existed (first class summer 2018)."
+  },
+  "2013-2014": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Before the program existed (first class summer 2018)."
+  },
+  "2014-2015": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Before the program existed (first class summer 2018)."
+  },
+  "2015-2016": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Before the program existed (first class summer 2018)."
+  },
+  "2016-2017": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Before the program existed (first class summer 2018)."
+  },
+  "2017-2018": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Before the program existed (first class summer 2018)."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "count": 1,
+   "significance": "none",
+   "reason": "1 of 1 expected (Verhey). CC 2018-10, 2018-11, 2019-01, 2019-03, 2019-06 captures all agree."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "count": 2,
+   "significance": "none",
+   "reason": "2 of 2 expected. Wayback/CC 2019-10 and CC 2020-07 agree."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "count": 3,
+   "significance": "none",
+   "reason": "3 of 3 expected. Wayback 2020-10; CC 2021-02/2021-03/2021-06 program and bios pages agree."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "count": 4,
+   "significance": "none",
+   "reason": "4 of 4 expected. Wayback 2021-11; CC 2021-09 to 2022-05 agree."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "count": 5,
+   "significance": "none",
+   "reason": "5 of 5 expected (Shank added by 2023-03). CC 2022-09 predates the intern update; 2023-03 capture complete."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "count": 6,
+   "significance": "none",
+   "reason": "6 of 6 expected. Wayback/CC 2023-09 and CC 2024-05 agree."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "count": 7,
+   "significance": "none",
+   "reason": "7 of 7 (full complement). CC 2024-09, 2024-12, 2025-02, 2025-04 agree."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "count": 7,
+   "significance": "none",
+   "reason": "7 of 7 (full complement). CC 2025-07, 2025-10, 2026-02, 2026-05 agree; Shank PGY4 and Farooq PGY2 still listed 2026-05-20."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "count": 5,
+   "significance": "none",
+   "reason": "5 of 7: the two absent classes are explained (Shank -> Carilion general surgery PGY1; Farooq -> UChicago PGY3). No joiners possible unseen: live program page and /bios agree."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "phase2": {
+  "date": "2026-09-28",
+  "searched": [
+   "Completeness check: every year's count equals the number of active classes at complement 1/yr (1,2,3,4,5,6,7,7), 2026-27 = 7 minus the 2 departures",
+   "Re-read live program page and page-data JSON (PGY 1/2/4/6/7 headings; no Chiefs heading, inline entries or suffix names)",
+   "Common Crawl, fixed filter, all 84 crawls 2018-2026 over org,spectrumhealth)/medicaleducation/residencies/neurological, org,spectrumhealth)/medical-education/residencies/neurological, org,corewellhealth)/graduate-medical-education/west-michigan/residencies/neurological: 41 captures saved in phase2/cc_all, all parsed; no unknown resident names (extras are faculty)",
+   "Carilion (program 8) neurosurgery roster: no Shank",
+   "Carilion GME residency roster pages (12 specialties, live)",
+   "Europe PMC author search for Nina Shank",
+   "Program 78 roster/gap file and training_history for Farooq"
+  ],
+  "found": [
+   "Nina Shank = Carilion Clinic General Surgery PGY-1 2026-27 (same Tulane MD) -> switched specialty",
+   "Farooq program-16 transfer-out row was missing; written (th 3388)"
+  ],
+  "remaining": []
+ }
+}

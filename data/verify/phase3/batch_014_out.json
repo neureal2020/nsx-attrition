@@ -1,0 +1,1094 @@
+[
+ {
+  "key": "9:pet:drossopoulos",
+  "name": "Peter Drossopoulos",
+  "program_id": 9,
+  "identity": "probable",
+  "identity_basis": "Atrium Health Neurological Surgery residents page lists Peter Drossopoulos as PGY-1, UNC School of Medicine; no Doximity/US News profile found",
+  "residency_stated": [
+   {
+    "institution": "Atrium Health Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 in Carolinas Medical Center neurosurgery residency (2025-26); listed on the program residents page. (Web search snippets attributing Duke awards to a 'Peter Drossopoulos' were not used: likely a namesake/unreliable.)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Atrium Health Carolinas Medical Center, Charlotte NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://atriumhealth.org/education/graduate-medical-education/physician-residencies/neurological-surgery/residents",
+    "type": "program_page",
+    "evidence": "Peter Drossopoulos, PGY-1, UNC School of Medicine (WebFetch summary)"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "10:efr:cox",
+  "name": "Efrem Cox",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Residency Neurological Surgery at Case Western/UH Cleveland 2011-2018; MD Univ of Iowa 2011; ABNS listed",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed CWRU/UH neurosurgery residency 2018 (enfolded spine fellowship 2016-17), then spine fellowship Univ of Miami 2018-19; practising neurosurgeon at The Spine & Brain Institute, Las Vegas",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, The Spine & Brain Institute / Sunrise Hospital, Las Vegas NV",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/efrem-cox-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 (CWRU/UH); American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/efrem-cox-745843",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2011-2018; Neurosurgery, Las Vegas"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:fer:alonso",
+  "name": "Fernando Alonso",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News list residency CWRU/UH Cleveland 2011-2018 and MD CWRU 2011; CWRU resident page",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed residency 2018; spine fellowship Swedish Neurological Institute; neurosurgeon Kaiser San Diego",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Kaiser Permanente San Diego",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/fernando-alonso-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/fernando-alonso-3241328",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2011-2018"
+   },
+   {
+    "url": "https://case.edu/medicine/neurosurgery/meet-our-team/current-residents/fernando-alonso-md",
+    "type": "program_page",
+    "evidence": "CWRU neurosurgery resident page"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:gab:smith",
+  "name": "Gabriel Smith",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: residency CWRU/UH 2011-2018, MD Temple 2011; CWRU faculty page; name is common but profile matches program and years",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2018; spine fellowship Cleveland Clinic 2016-17; now UH faculty (Spine Institute director)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Associate Professor CWRU, UH Spine Institute Director",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/gabriel-smith-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/gabriel-smith-745558",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2011-2018"
+   },
+   {
+    "url": "https://case.edu/medicine/neurosurgery/meet-our-team/faculty/gabriel-smith",
+    "type": "bio",
+    "evidence": "CWRU neurosurgery faculty page"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:jef:nelson",
+  "name": "Jeffrey Nelson",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News (Cleveland neurosurgery): residency CWRU/UH 2011-2019, MD UTHealth 2011; CWRU resident page",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019 (incl. neuroradiology/neurointerventional fellowship 2015-17 per bio); attending neurosurgeon UH and Cleveland VA",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor and attending neurosurgeon, UH Cleveland / Louis Stokes VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://doximity.com/pub/jeffrey-nelson-md-d7e82370",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2019; American Board of Neurological Surgery (page resolved to jeffrey-nelson-md-4818cc80)"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/jeffrey-nelson-1011312",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2011-2019"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:osm:wu",
+  "name": "Osmond Wu",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: residency CWRU/UH 2012-2019, MD CWRU 2012; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; spine fellowship; neurosurgeon Sentara Martha Jefferson (VA) 2019 then South Bend IN",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, South Bend IN (Beacon)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/osmond-wu-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/osmond-wu-1231059",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2012-2019"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:tho:ostergard",
+  "name": "Thomas Ostergard",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: residency CWRU/UH 2012-2019, MD CWRU 2012; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; neurosurgeon Greensboro NC then Huntsville AL",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Huntsville AL (spineandneuro.org)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/thomas-ostergard-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/thomas-ostergard-1086510",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2012-2019"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:chr:wright",
+  "name": "Christina Huang Wright",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists Residency Neurological Surgery CWRU/UH 2014-2020 and USC/LA General 2013-2014, MD Penn State 2013; CWRU resident page 'Christina Huang-Wright'; matches phase2 transfer-in from USC",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/LA General",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2014
+   },
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transferred IN to CWRU/UH at PGY2 in 2014 from USC (2013-14 PGY1); completed CWRU neurosurgery 2020; now spine neurosurgeon at OHSU Portland",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), OHSU, Portland OR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christina-huang-wright-md",
+    "type": "doximity",
+    "evidence": "Residency 2014-2020 CWRU/UH; USC/LA General 2013-2014; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/christina-huang-wright-1066108",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2014-2020 and 2013-2014 (institution labels garbled on page)"
+   },
+   {
+    "url": "https://www.ohsu.edu/providers/christina-wright-md-mph",
+    "type": "bio",
+    "evidence": "OHSU provider page (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:jam:wright",
+  "name": "James Wright",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News (James Wright III / James M. Wright): residency 2013-2020, MD West Virginia 2013, fellowship CWRU/UH 2020-21; CWRU resident page James M. Wright; UH news item",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020; neurocritical care and complex spine fellowships CWRU/UH and Cleveland Clinic 2020-21; now neurosurgeon Portland OR (OHSU)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, OHSU Portland OR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/james-wright-md-f3d5baf7",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; Fellowship 2020-2021; American Board of Neurological Surgery (institution label on page appears garbled)"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/james-wright-1054073",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2013-2020; Fellowship 2020-2021"
+   },
+   {
+    "url": "https://www.newswise.com/articles/uh-neurosurgery-resident-james-wright-md-receives-funding-for-proposal-using-surgical-theater-to-improve-patient-and-resident-experience",
+    "type": "news",
+    "evidence": "UH Neurosurgery Resident James Wright, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:jon:pace",
+  "name": "Jonathan Pace",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Lahey bio: MD Medical College of Wisconsin 2013, internship/residency/fellowship CWRU School of Medicine, board certified Neurological Surgery; CWRU resident page; no Doximity/US News profile found",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising neurosurgeon (neurointerventional/cerebrovascular) at Lahey Hospital, Burlington MA; residency plus neuroendovascular fellowship at UH Cleveland per bio snippet; exact end year not shown",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Lahey Hospital and Medical Center, Burlington MA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://physicians.lahey.org/details/4928/jonathan-pace-neurosurgery-burlington",
+    "type": "bio",
+    "evidence": "search result: Jonathan R. Pace, MD - Lahey Health, neurosurgery, Burlington"
+   },
+   {
+    "url": "https://case.edu/medicine/neurosurgery/meet-our-team/current-residents/jonathan-pace-md",
+    "type": "program_page",
+    "evidence": "CWRU Jonathan Pace, M.D. resident page"
+   },
+   {
+    "url": "https://physicians.lahey.org/details/4928/jonathan-pace-neurosurgery-burlington",
+    "type": "bio",
+    "evidence": "Lahey profile: Residency and Fellowship Case Western Reserve University School of Medicine; Board Certification Neurological Surgery; MD Medical College of Wisconsin 2013"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "10:mic:smith",
+  "name": "Mickey Smith",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Mickey Lee Smith, Residency CWRU/UH 2013-2020, MD Rutgers NJMS 2013; CWRU resident page Mickey L. Smith; co-author with CWRU residents",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020, neuroendovascular fellowship UH; neurosurgeon Houston Methodist The Woodlands",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (cerebrovascular), Houston Methodist The Woodlands TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "blocked"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mickey-smith-md-e0a65a2f",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.houstonmethodist.org/doctor/mickey-l-smith/",
+    "type": "bio",
+    "evidence": "search result: Dr. Mickey L. Smith - Neurosurgeon in The Woodlands, TX"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:ber:shammassian",
+  "name": "Berje Shammassian",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: residency CWRU/UH 2014-2021, MD Maryland 2014; Penn faculty bio; CWRU resident page",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2021; neurocritical care fellowship Miami 2021-22; now Assistant Professor of Neurosurgery, Penn",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurosurgery, Penn Medicine, Philadelphia",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/berje-shammassian-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/berje-shammassian-1100011",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2014-2021"
+   },
+   {
+    "url": "https://www.pennmedicine.org/providers/berje-shammassian",
+    "type": "bio",
+    "evidence": "Berje H. Shammassian, MD, MPH, FAANS (Penn Medicine)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:byr:hills",
+  "name": "Byron Hills",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: residency CWRU/UH 2014-2021, MD LSU New Orleans 2014; co-author with CWRU residents; Sentara bio",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2021 (neurocritical care and spine fellowships); attending neurosurgeon Sentara Norfolk VA",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "attending neurosurgeon, Sentara Neurosurgery Specialists, Norfolk VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/byron-hills-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 (no ABNS listed)"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/byron-hills-1099804",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2014-2021"
+   },
+   {
+    "url": "https://www.sentara.com/find-a-doctor-or-provider/Hills-Byron-136009",
+    "type": "bio",
+    "evidence": "Byron B Hills, M.D. practices Neurosurgery at Sentara Neurosurgery Specialists"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:yif:duan",
+  "name": "Yifei Duan",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: residency CWRU/UH 2015-2022, MD CWRU 2015; Saint Luke's bio",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2022; cerebrovascular neurosurgeon Saint Luke's, Kansas City",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Saint Luke's Neurological & Spine Surgery, Kansas City MO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/yifei-duan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/yifei-duan-1060548",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2015-2022"
+   },
+   {
+    "url": "https://www.saintlukeskc.org/provider/yifei-duan-1982090973",
+    "type": "bio",
+    "evidence": "Yifei Duan | Saint Luke's"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:aru:chugh",
+  "name": "Arunit Chugh",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News (A. Jessey Chugh): Residency CWRU/UH 2016-2023, MD CWRU 2016, ABNS; neurotucson bio",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023; cerebrovascular/skull base fellowship UH 2021-22; Director of Neurovascular Surgery, Tucson",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Center for Neurosciences / Tucson Medical Center, Tucson AZ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/a-jessey-chugh-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/a-jessey-chugh-2672856",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2016-2023"
+   },
+   {
+    "url": "https://neurotucson.com/bio/arunit-jessey-chugh-md/",
+    "type": "bio",
+    "evidence": "Arunit (Jessey) Chugh, MD | Center for Neurosciences"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "10:xia:zhou",
+  "name": "Xiaofei Zhou",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "UH bio: MD CWRU 2016, neurological surgery residency UH Cleveland Medical Center 2016-2023, ABNS; CWRU resident page 'Xiaofei Sophie Zhou'; Southwest General bio",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023; dual neurocritical care and spine fellowships; neurosurgeon, Southwest General/UH, Associate Program Director",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, UH / Southwest General Health Center, Middleburg Heights OH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.uhhospitals.org/doctors/zhou-xiaofei-1558724898",
+    "type": "bio",
+    "evidence": "Residency UH Cleveland Medical Center (2016 - 2023); Neurological Surgery - American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://case.edu/medicine/neurosurgery/meet-our-team/current-residents/xiaofei-sophie-zhou-md",
+    "type": "program_page",
+    "evidence": "CWRU resident page Xiaofei Sophie Zhou, M.D."
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "10:aub:mcmillan",
+  "name": "Aubrey McMillan",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News list Aubrey (Claire) McMillan, MD Boston University 2017, radiology; Cleveland Clinic bio lists internship CWRU/UH 2018 and radiology residency CWRU (MetroHealth) 2022; CWRU neurosurgery resident page exists",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Case Medical Center (internship / neurosurgery PGY1)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2018
+   },
+   {
+    "institution": "Case Western Reserve University (MetroHealth) Program",
+    "specialty": "diagnostic radiology",
+    "start": 2018,
+    "end": 2022
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left neurosurgery after PGY1 (2017-18) and switched to diagnostic radiology (MetroHealth/CWRU, residency completed 2022), then neuroradiology fellowship Mass General (2024)",
+  "year_left": 2018,
+  "destination_program": "Case Western Reserve (MetroHealth) Diagnostic Radiology",
+  "destination_start_year": 2018,
+  "current": "neuroradiologist, Cleveland Clinic (also Mass General affiliation)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://providers.clevelandclinic.org/provider/aubrey-mc-millan/4271566",
+    "type": "bio",
+    "evidence": "Internship: CWRU/UH Case Medical Center 2018; Residency: CWRU (MetroHealth) Program 2022; Fellowship: Mass General/Harvard 2024; ABR Diagnostic Radiology 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/aubrey-mcmillan-md",
+    "type": "doximity",
+    "evidence": "Radiology, Cleveland OH; Boston University School of Medicine Class of 2017; American Board of Radiology"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/aubrey-mcmillan-1189681",
+    "type": "usnews",
+    "evidence": "Radiology / Neuroradiology, Cleveland Clinic and Mass General; BU School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:moh:patel",
+  "name": "Mohit Patel",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: Residency Neurological Surgery CWRU/UH 2017-2024, MD Medical College of Wisconsin 2017; UH bio (chief resident, spine fellowships)",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2024; complex spine fellowship UH and deformity fellowship Johns Hopkins (Baltimore); now UH Spine Center faculty per search snippet",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon (Johns Hopkins fellowship, Baltimore MD; UH Spine Center faculty per bio)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mohit-patel-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 (CWRU/UH); Medical College of Wisconsin Class of 2017"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/mohit-patel-1182638",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2017-2024"
+   },
+   {
+    "url": "https://www.uhhospitals.org/doctors/Patel-Mohit-1285166041",
+    "type": "bio",
+    "evidence": "search result: UH doctor profile Mohit Patel MD (spine and scoliosis neurosurgeon)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:roh:mauria",
+  "name": "Rohit Mauria",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "US News: Residency CWRU/UH 2018-2025, MD Creighton; residency co-authors are CWRU residents; Emory/Novant bios",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2025; spine fellowship Emory; complex spine neurosurgeon Novant Health Spine, Charlotte NC (US News lists Charlotte NC)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "complex spine neurosurgeon, Novant Health, Charlotte NC (Emory spine fellowship)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://health.usnews.com/doctors/rohit-mauria-3045954",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2018-2025 (CWRU/UH); Creighton University School of Medicine"
+   },
+   {
+    "url": "https://www.novanthealth.org/pf/providers/1144724121/rohit-mauria",
+    "type": "bio",
+    "evidence": "search result: Rohit Mauria, MD | Neurological Surgery | Novant Health"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "10:col:labak",
+  "name": "Collin Labak",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery CWRU/UH 2019-2026, MD Univ of Illinois 2019; IL license 2026-2029 (Chicago address) indicating post-residency move",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency 2019-2026 per Doximity (finished; now Chicago-based, likely fellowship per IL licence 2026-2029, not confirmed)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Chicago IL (post-residency; role not stated)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/collin-labak-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026; IL State Medical License 2026 - 2029; Neurosurgical Spine Surgery"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "10:dan:defta",
+  "name": "Dana Defta",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency CWRU/UH 2019-2026, MD Wright State 2019; Neenah WI neurosurgery practice",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2026; WI licence 2026-2027, Doximity lists neurosurgery practice Neenah WI",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Neenah WI (Doximity)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dana-defta-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026; Wright State Class of 2019; Neurosurgery, Neenah WI"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "10:eri:herring",
+  "name": "Eric Herring",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency CWRU/UH 2019-2026, MD CWRU 2019; co-author with CWRU residents",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2026; Doximity lists neurosurgery Phoenix AZ (AZ licence 2026-2027), likely fellowship",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Phoenix AZ, neurosurgery (fellowship likely; not stated)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "blocked"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/eric-herring-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026; AZ State Medical License 2026 - 2027"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "10:oli:wijesekera",
+  "name": "Olindi Wijesekera",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/UW bio: Residency CWRU/UH 2019-2026, MD Boston University 2019; UW spine fellow",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2026; clinical fellow in Endoscopic and Complex Spine at University of Washington (Seattle)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine fellow, University of Washington, Seattle WA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "blocked"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/olindi-wijesekera-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026; Boston University Class of 2019; Seattle WA"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/bio/olindi-wijesekera-md-ms",
+    "type": "bio",
+    "evidence": "search result: Olindi Wijesekera, MD, MS | UW Department of Neurological Surgery (spine fellow)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "10:qua:nguyen",
+  "name": "Quang Nguyen",
+  "program_id": 10,
+  "identity": "probable",
+  "identity_basis": "UH neurosurgery residents page lists Quang Nguyen PGY-7, Texas Tech HSC School of Medicine; WebMD/Vitals list Quang Nguyen neurosurgery, Cleveland, MD Texas Tech 2020; no Doximity/US News neurosurgery profile found (other-specialty namesakes only)",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 senior resident, CWRU/UH neurosurgery (entered 2020)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, University Hospitals Cleveland",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Quang Nguyen, PGY 7, Texas Tech University Health Sciences Center School of Medicine (WebFetch summary)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "10:seb:norrdahl",
+  "name": "Sebastian Norrdahl",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency CWRU/UH 2020-2027, MD Univ of Tennessee HSC 2020; UH residents page PGY-7",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 resident, expected completion 2027",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, University Hospitals Cleveland",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sebastian-norrdahl-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027; Resident Physician"
+   },
+   {
+    "url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Sebastian Norrdahl, PGY 7 (WebFetch summary)"
+   }
+  ],
+  "searches_used": 3
+ }
+]

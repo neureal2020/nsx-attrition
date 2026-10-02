@@ -1,0 +1,1078 @@
+[
+ {
+  "key": "8:chr:busch",
+  "name": "Christopher Busch",
+  "program_id": 8,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News both list Carilion Clinic-VTC neurological surgery residency 2014-2021, PCOM DO 2014 (matches entry 2014)",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Carilion neurosurgery residency 2021; joined LewisGale Medical Center then HCA Florida Jacksonville",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, HCA Florida Memorial Hospital / Jacksonville FL",
+  "agrees_with_db": true,
+  "disagreement": "End year 2021 now confirmed (DB had 2020 or 2021).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christopher-busch-do",
+    "type": "doximity",
+    "evidence": "Carilion Clinic-Virginia Tech Carilion School of Medicine Residency, Neurological Surgery, 2014 - 2021; PCOM Class of 2014"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/christopher-busch-1167022",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2014-2021; Neurosurgery, HCA Florida Memorial Hospital"
+   },
+   {
+    "url": "https://m.facebook.com/LewisGaleRegionalHealthSystem/photos/a.385100767102/10159377693257103/?type=3",
+    "type": "search_snippet",
+    "evidence": "completed his neurosurgery residency at Virginia Tech Carilion"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "8:mic:benko",
+  "name": "Michael Benko",
+  "program_id": 8,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Carilion neurological surgery residency 2015-2022; Nova Southeastern DO 2015 (entry 2015)",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2022; ABNS certified; USAF staff neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Major, USAF; staff neurosurgeon, David Grant USAF Medical Center, Travis AFB CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-benko-do",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; American Board of Neurological Surgery, Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/michael-benko-1119869",
+    "type": "usnews",
+    "evidence": "Carilion Clinic-Virginia Tech Carilion School of Medicine Residency, Neurological Surgery, 2015-2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "8:bre:klein",
+  "name": "Brendan Klein",
+  "program_id": 8,
+  "identity": "probable",
+  "identity_basis": "Carilion Clinic provider page/search snippets list Brendan J. Klein DO as pediatric neurosurgery provider at Carilion Clinic Neurosurgery Roanoke; Rocky Vista DO 2015; co-author of Carilion neurosurgery resident papers (with Busch, Benko, Cuoco, Guilliams). Doximity/US News list no residency line.",
+  "residency_stated": [],
+  "outcome": "completed",
+  "outcome_detail": "Now practising as pediatric neurosurgery provider at Carilion Clinic (search snippet); exact graduation year (2023 per DB inference) not stated by sources",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Carilion Clinic / Carilion Children's, Roanoke VA",
+  "agrees_with_db": true,
+  "disagreement": "Neither Doximity nor US News lists residency dates or specialty Neurosurgery; completion rests on Carilion pediatric neurosurgery provider snippet.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.carilionclinic.org/providers/brendan-j-klein-do",
+    "type": "program_page",
+    "evidence": "Search snippet: Brendan J. Klein, D.O. is a Pediatric Neurosurgery provider ... Carilion Clinic Neurosurgery - Roanoke; medical degree Rocky Vista University"
+   },
+   {
+    "url": "https://www.doximity.com/pub/brendan-klein-do-6c9dfe14",
+    "type": "doximity",
+    "evidence": "Rocky Vista University College of Osteopathic Medicine Class of 2015; specialty listed Other MD/DO; no residency line"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/brendan-klein-3374987",
+    "type": "usnews",
+    "evidence": "Specialty Other or Unknown; affiliated Carilion Roanoke Memorial Hospital; Rocky Vista medical school; no residency line"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "8:evi:guilliams",
+  "name": "Evin Guilliams",
+  "program_id": 8,
+  "identity": "probable",
+  "identity_basis": "Search snippets: neurosurgeon Evin Guilliams DO, Edward Via COM 2017 (entry 2017), Roanoke VA then UK King's Daughters (Ashland KY); co-author of Carilion neurosurgery resident papers",
+  "residency_stated": [],
+  "outcome": "completed",
+  "outcome_detail": "Practising neurosurgeon (King's Daughters Brain & Spine, Ashland KY; earlier listing Wolfson Children's/Baptist Jacksonville); no profile states residency years",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, UK King's Daughters, Ashland KY (per search snippets)",
+  "agrees_with_db": true,
+  "disagreement": "Residency start/end years not stated by any source; both site searches returned no Doximity/US News profile.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.kingsdaughtershealth.com/providers/evin-guilliams-d-o-/",
+    "type": "search_snippet",
+    "evidence": "UK King's Daughters neurosurgeon Evin Guilliams, D.O., didn't take the traditional path to becoming a physician"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-evin-guilliams-xyn6qpy",
+    "type": "search_snippet",
+    "evidence": "Dr. Evin Guilliams, DO - Neurosurgeon ... graduated from the Edward Via Virginia College of Osteopathic Medicine in 2017"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "8:jos:cuoco",
+  "name": "Joshua Cuoco",
+  "program_id": 8,
+  "identity": "confirmed",
+  "identity_basis": "Carilion GME residents page: Dr. Joshua Cuoco's Graduation 6/2025; NYIT-COM 2018 (entry 2018); Carilion neurosurgery author",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated 6/2025 per Carilion; search snippets list Joshua Cuoco DO, Neurological Surgery at Ohio State Wexner (role not verified)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Ohio State University Wexner Medical Center, neurological surgery (per search snippet; role unverified)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Dr. Joshua Cuoco's Graduation 6/2025"
+   },
+   {
+    "url": "https://wexnermedical.osu.edu/find-a-doctor/joshua-cuoco-do-183270",
+    "type": "search_snippet",
+    "evidence": "Joshua Cuoco, DO specializes in Neurological Surgery at The Ohio State University Wexner Medical Center"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "8:sri:adhikari",
+  "name": "Srijan Adhikari",
+  "program_id": 8,
+  "identity": "probable",
+  "identity_basis": "Doximity/US News Quinnipiac Netter MD 2019 (matches DB entry), VA license 2019-2022, publications co-authored with Carilion neurosurgery faculty; NOT the Ypsilanti/Chicago neurocritical care physician (Nepal Medical College)",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Absent from Carilion 2026-27 resident page after PGY7 in 2025-26 (graduated ~June 2026). Doximity and US News now list Resident Physician, Portland OR (3181 SW Sam Jackson Park Rd, OHSU address); OHSU neurosurgery resident page does not list him, so the Portland role (fellowship vs other residency) is unverified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Resident Physician, Portland OR (OHSU address); specialty not stated",
+  "agrees_with_db": true,
+  "disagreement": "Cannot confirm what the Portland 'Resident Physician' role is (neurosurgery fellowship, other residency?). Needs follow-up before assuming pure completion.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/srijan-adhikari-md-e522a16e",
+    "type": "doximity",
+    "evidence": "Resident Physician, Portland OR; Quinnipiac Class of 2019; VA State License 2019 - 2022; no residency line"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/srijan-adhikari-3073787",
+    "type": "usnews",
+    "evidence": "Resident Physician, Portland, OR; Quinnipiac Netter MD; VA license active through 2022; no residency line"
+   },
+   {
+    "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Current resident list has no Adhikari (PGY7 slot held by Hoggarth)"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "8:aus:hoggarth",
+  "name": "Austin Hoggarth",
+  "program_id": 8,
+  "identity": "confirmed",
+  "identity_basis": "Carilion page lists Austin Hoggarth MD PGY7 Sr. Chief Resident; Doximity summary: resident in neurosurgery at Carilion Roanoke Memorial since 2020, UND MD 2020",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY7 senior chief 2026-27; expected graduation June 2027",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery chief resident, Carilion Clinic, Roanoke VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Austin Hoggarth, MD - PGY7 Sr. Chief Resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/austin-hoggarth-md",
+    "type": "doximity",
+    "evidence": "resident physician specializing in neurosurgery at Carilion Roanoke Memorial Hospital since 2020; UND class of 2020"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/austin-hoggarth-2553035",
+    "type": "usnews",
+    "evidence": "Resident Physician; Univ of North Dakota SMHS; VA license through 2022; no residency line"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "8:col:sloboda",
+  "name": "Cole Sloboda",
+  "program_id": 8,
+  "identity": "confirmed",
+  "identity_basis": "Carilion page lists Cole Sloboda DO PGY5; snippet: began Carilion neurosurgery residency July 2022, Campbell Univ SOM 2022 (matches entry 2022)",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY5 in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY5, Carilion, Roanoke VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Cole Sloboda, DO - PGY5 Resident"
+   },
+   {
+    "url": "https://blogs.campbell.edu/class-of-2022-spotlight-cole-sloboda/",
+    "type": "search_snippet",
+    "evidence": "began his Neurological Surgery Residency with Carilion Clinic in Roanoke, Virginia in July 2022"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "8:kri:ravina",
+  "name": "Kristine Ravina",
+  "program_id": 8,
+  "identity": "confirmed",
+  "identity_basis": "Carilion page lists Kristine Ravina MD PGY5; Riga Stradins MD 2015; Carilion neurosurgery resident (ResearchGate/LinkedIn snippets)",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY5 in 2026-27; earlier pre-residency research fellow at Boston Medical Center (Doximity Boston profile)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY5, Carilion, Roanoke VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Kristine Ravina, MD - PGY5 Resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kristine-ravina-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Boston MA; no education section; publications only"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "8:eva:courville",
+  "name": "Evan Courville",
+  "program_id": 8,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News both list Carilion neurological surgery residency 2024-2030 and Ochsner surgery internship 2021-2022; LSU MD 2021 (matches DB note)",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Transfer-in/late entry: surgery internship Ochsner 2021-22, UNM neurosurgery research 2022-24, then Carilion from 2024; PGY4 in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY4, Carilion, Roanoke VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/evan-courville-md",
+    "type": "doximity",
+    "evidence": "Carilion Clinic-Virginia Tech Carilion School of Medicine Residency, Neurological Surgery, 2024 - 2030; Ochsner Internship, Surgery, 2021 - 2022"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/evan-courville-2953796",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2024-2030; Internship, Surgery, 2021-2022"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "8:abh:bhutada",
+  "name": "Abhishek Bhutada",
+  "program_id": 8,
+  "identity": "confirmed",
+  "identity_basis": "Carilion page lists Abhishek Bhutada MD PGY3; VTCSOM class of 2024 (Doximity 'Abhi Bhutada'); VT news article",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY3 in 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY3, Carilion, Roanoke VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Abhishek Bhutada, MD - PGY3 Resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/abhi-bhutada-md",
+    "type": "doximity",
+    "evidence": "Virginia Tech Carilion School of Medicine Class of 2024; Roanoke VA"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "8:ous:jallow",
+  "name": "Ousman Jallow",
+  "program_id": 8,
+  "identity": "probable",
+  "identity_basis": "Carilion page lists Ousman Jallow MD PGY2; WebMD lists Ousman Jallow neurological surgery at Carilion Roanoke Memorial address; Doximity Roanoke (Carilion address) record is garbled",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY2 in 2026-27. CONFLICTS: Doximity shows Meharry class 2024 plus an orthopaedic residency UCSD 2020-2025 (impossible, likely merged record); WebMD shows Univ of Wisconsin school; an ASBN X snippet says he matched at OU Neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY2, Carilion, Roanoke VA",
+  "agrees_with_db": true,
+  "disagreement": "Identity/program consistent with Carilion roster but three outside records conflict (medical school, OU match snippet, Doximity ortho line). Verify directly with Carilion.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Ousman Jallow, MD - PGY2 Resident"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/ousman-jallow-1b229ddc-7223-4aca-9345-f52148166dd9-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery, 1906 Belleview Ave SE, Roanoke (Carilion Roanoke Memorial)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ousman-jallow-md",
+    "type": "doximity",
+    "evidence": "Orthopaedic Surgery, Roanoke VA; Meharry Class of 2024; Residency Orthopaedic Surgery UCSD 2020-2025 (inconsistent)"
+   },
+   {
+    "url": "https://x.com/amsobns/status/1910815129576354041",
+    "type": "search_snippet",
+    "evidence": "Ousman Jallow matched at @OU_Neurosurgery (post could not be opened, HTTP 402)"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "8:ann:haymov",
+  "name": "Anna Haymov",
+  "program_id": 8,
+  "identity": "probable",
+  "identity_basis": "Carilion page lists Anna Haymov DO PGY1; search shows Anna Haymov as MS-4 at LECOM with neurosurgery case reports (2025-26), consistent with a 2026 entrant",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY1 2026-27 (intern year)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY1, Carilion, Roanoke VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Anna Haymov, DO - PGY1 Resident"
+   },
+   {
+    "url": "https://surgicalneurologyint.com/surgicalint-articles/resolution-of-progressive-aphasia-following-resection-of-a-left-frontotemporal-glioblastoma-a-6-month-outcome-case-report/",
+    "type": "search_snippet",
+    "evidence": "Anna Haymov, Department of Neurosurgery, Lake Erie College of Osteopathic Medicine (MS-4)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "8:vin:mathew",
+  "name": "Vincy Mathew",
+  "program_id": 8,
+  "identity": "probable",
+  "identity_basis": "Carilion page lists Vincy Mathew DO PGY1; NYITCOM DO student with neurosurgery research (St. Barnabas). Doximity hits are NP/pharmacist namesakes",
+  "residency_stated": [
+   {
+    "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY1 2026-27 per Carilion page. UNRESOLVED CONFLICT: a search snippet says Vincy Mathew is training as a neurosurgery resident at OU Health OU Neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY1, Carilion, Roanoke VA (per program page)",
+  "agrees_with_db": true,
+  "disagreement": "Possible OU vs Carilion discrepancy; confirm.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Vincy Mathew, DO - PGY1 Resident"
+   },
+   {
+    "url": "https://www.linkedin.com/in/vincy-mathew-55a204220/",
+    "type": "search_snippet",
+    "evidence": "training as a neurosurgery resident at OU Health OU Neurosurgery (LinkedIn page not openable, HTTP 999)"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "9:tyl:atkins",
+  "name": "Tyler Atkins",
+  "program_id": 9,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Carolinas Medical Center neurological surgery residency 2014-2021; IU SOM 2014",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed June 2021; ABNS certified; Parkview Health Fort Wayne",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Parkview Physicians Group Neurosurgery, Fort Wayne IN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/tyler-atkins-md",
+    "type": "doximity",
+    "evidence": "Carolinas Medical Center Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/tyler-atkins-1241911",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2014-2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "9:jon:parish",
+  "name": "Jonathan Parish",
+  "program_id": 9,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list CMC neurological surgery residency 2015-2022; IU SOM 2015; CNSA bio",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2022; first graduate of the CMC program; ABNS certified; CNSA attending",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Carolina Neurosurgery & Spine Associates, Charlotte NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jonathan-parish-md",
+    "type": "doximity",
+    "evidence": "Carolinas Medical Center Residency, Neurological Surgery, 2015 - 2022; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/jonathan-parish-1172738",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2015-2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "9:vin:rossi",
+  "name": "Vincent Rossi",
+  "program_id": 9,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list CMC neurological surgery residency 2016-2023; Rush Medical College 2016",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023; ABNS certified; CNSA spine surgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (minimally invasive spine), Carolina Neurosurgery & Spine Associates, Charlotte NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/vincent-rossi-md",
+    "type": "doximity",
+    "evidence": "Carolinas Medical Center Residency, Neurological Surgery, 2016 - 2023; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/vincent-rossi-1038872",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2016-2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "9:dav:peters",
+  "name": "David Peters",
+  "program_id": 9,
+  "identity": "confirmed",
+  "identity_basis": "David R. Peters MD, Univ of Iowa 2017 (matches entry 2017): Doximity and US News list CMC neurological surgery residency 2017-2024; UCHealth bio says neurosurgery residency at Carolinas Medical Center. Resolves the 'ambiguous name' flag (two Doximity profiles exist for Colorado Springs David Peters; the 595b28ed one has the CMC training)",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2024; fellowships: Lausanne CHUV 2022-23 (during residency), Mayo skull base oncology 2024-25; now attending",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, UCHealth, Colorado Springs CO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-peters-md-595b28ed",
+    "type": "doximity",
+    "evidence": "Carolinas Medical Center Residency, Neurological Surgery, 2017 - 2024; Mayo Clinic Neurosurgical Skull Base Oncology 2024 - 2025"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/david-peters-1433728",
+    "type": "usnews",
+    "evidence": "Carolinas Medical Center Residency, Neurological Surgery, 2017-2024"
+   },
+   {
+    "url": "https://www.uchealth.org/provider/david-peters-md/",
+    "type": "bio",
+    "evidence": "Residency: Neurosurgery at Atrium Health - Carolinas Medical Center"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "9:gra:mulvaney",
+  "name": "Graham Mulvaney",
+  "program_id": 9,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Graham Garfield Mulvaney MD, UNC 2018 (matches CMC 2018 entry), NC license 2021, OK license 2024, Resident Physician Neurosurgery Oklahoma City; co-authored CMC papers with Parish/Wait/Peters/Monk",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2024
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left CMC after 2023-24 (PGY6); now neurosurgery resident at University of Oklahoma HSC (OK license 2024; OU College of Medicine resident directory and LinkedIn snippets)",
+  "year_left": 2024,
+  "destination_program": "University of Oklahoma Health Sciences Center neurosurgery",
+  "destination_start_year": 2024,
+  "current": "neurosurgery resident, University of Oklahoma Health Sciences Center, Oklahoma City OK",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/graham-mulvaney-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Oklahoma City OK, Resident Physician; UNC Class of 2018; OK State Medical License 2024 - 2027"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents/details/graham-mulvaney",
+    "type": "search_snippet",
+    "evidence": "Graham Mulvaney - OU College of Medicine neurosurgery residency residents page"
+   },
+   {
+    "url": "https://www.linkedin.com/in/graham-mulvaney-033a3b25",
+    "type": "search_snippet",
+    "evidence": "Graham Mulvaney - Neurosurgery Resident at OU Health"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "9:ste:monk",
+  "name": "Steve Monk",
+  "program_id": 9,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list CMC neurological surgery residency 2019-2026; Vanderbilt MD 2019 (entry 2019)",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed CMC residency 2026; now practising neurosurgery in Baton Rouge (LA license 2025-); Atrium resident page still lists him as PGY-7 chief (stale)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Baton Rouge LA (10101 Park Rowe Ave)",
+  "agrees_with_db": true,
+  "disagreement": "DB had graduation unconfirmed; now supported (June 2026).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/steve-monk-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Baton Rouge LA; Carolinas Medical Center Residency, Neurological Surgery, 2019 - 2026"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/steve-monk-1813321",
+    "type": "usnews",
+    "evidence": "Neurosurgery, Baton Rouge LA; Residency, Neurological Surgery, 2019-2026"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "9:reb:decarlo",
+  "name": "Rebecca DeCarlo",
+  "program_id": 9,
+  "identity": "confirmed",
+  "identity_basis": "Atrium residents page lists Rebecca DeCarlo MD PGY-6; MCG 2020 (entry 2020); news 'future Atrium neurosurgery resident'",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 on Atrium page (page not yet rolled forward; likely PGY-7 chief in 2026-27)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Carolinas Medical Center, Charlotte NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://atriumhealth.org/education/graduate-medical-education/physician-residencies/neurological-surgery/residents",
+    "type": "program_page",
+    "evidence": "PGY-6: Rebecca DeCarlo, MD"
+   },
+   {
+    "url": "https://atriumhealth.org/dailydose/2020/06/23/future-atrium-health-neurosurgery-resident-honored-at-the-white-house",
+    "type": "news",
+    "evidence": "Future Atrium Health Neurosurgery Resident Honored at the White House"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "9:tre:vanhorn",
+  "name": "Trent VanHorn",
+  "program_id": 9,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: CMC neurological surgery residency 2021-2028, Wake Forest MD 2021; Atrium page PGY-5",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5; residency listed through 2028 (includes research time)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Carolinas Medical Center, Charlotte NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/trent-vanhorn-md",
+    "type": "doximity",
+    "evidence": "Carolinas Medical Center Residency, Neurological Surgery, 2021 - 2028; Wake Forest Class of 2021"
+   },
+   {
+    "url": "https://atriumhealth.org/education/graduate-medical-education/physician-residencies/neurological-surgery/residents",
+    "type": "program_page",
+    "evidence": "PGY-5: Trent VanHorn, MD"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "9:dan:zeitouni",
+  "name": "Daniel Zeitouni",
+  "program_id": 9,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: CMC neurological surgery residency 2022-2029, UNC MD 2022; Atrium page PGY-4",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-4; expected 2029",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Carolinas Medical Center, Charlotte NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-zeitouni-md",
+    "type": "doximity",
+    "evidence": "Carolinas Medical Center Residency, Neurological Surgery, 2022 - 2029"
+   },
+   {
+    "url": "https://atriumhealth.org/education/graduate-medical-education/physician-residencies/neurological-surgery/residents",
+    "type": "program_page",
+    "evidence": "PGY-4: Daniel Zeitouni, MD"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "9:eri:miller",
+  "name": "Erin Miller",
+  "program_id": 9,
+  "identity": "probable",
+  "identity_basis": "Atrium page lists Erin Miller MD PGY-3; 'L Erin Miller' (Lindsey Erin Miller, UTHSC MD 2023, Charlotte neurological surgery, 1000 Blythe Blvd) co-authors CMC faculty papers with Peters/Wait. Doximity 'Erin Miller' hit is a Raleigh PA (namesake)",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Carolinas Medical Center, Charlotte NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://atriumhealth.org/education/graduate-medical-education/physician-residencies/neurological-surgery/residents",
+    "type": "program_page",
+    "evidence": "PGY-3: Erin Miller, MD"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/MedicalDoctors_Lindsey_Erin_Miller.html",
+    "type": "search_snippet",
+    "evidence": "Dr. Lindsey Erin Miller - Charlotte, NC - Neurological Surgery ... graduated medical school in 2023"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "9:aus:allen",
+  "name": "Austin Allen",
+  "program_id": 9,
+  "identity": "probable",
+  "identity_basis": "Atrium page lists Austin Allen MD PGY-2; Austin J. Allen, UNC MD 2024, began CMC neurosurgery residency 2024 (UNC news, WebMD Charlotte neurosurgery listing); Doximity/US News hits absent",
+  "residency_stated": [
+   {
+    "institution": "Carolinas Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Carolinas Medical Center, Charlotte NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://atriumhealth.org/education/graduate-medical-education/physician-residencies/neurological-surgery/residents",
+    "type": "program_page",
+    "evidence": "PGY-2: Austin Allen, MD"
+   },
+   {
+    "url": "https://news.unchealthcare.org/2024/04/five-questions-with-austin-allen/",
+    "type": "search_snippet",
+    "evidence": "Five Questions with Austin Allen (UNC; matched at Carolinas Medical Center)"
+   }
+  ],
+  "searches_used": 4
+ }
+]

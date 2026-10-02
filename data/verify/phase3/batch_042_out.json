@@ -1,0 +1,1031 @@
+[
+ {
+  "key": "34:jeh:zakaria",
+  "name": "Jehad Zakaria",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/UChicago/Rush pages: neurosurgeon, UW MD 2014, affiliated Loyola University Medical Center; ResearchGate lists Loyola Dept of Neurological Surgery",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising endovascular neurosurgeon, ABNS certified (Doximity); Loyola affiliation. Residency years not stated on pages seen (input 2015-2022).",
+  "current": "endovascular neurosurgeon, UChicago Medicine, Chicago IL",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jehad-zakaria-md",
+    "type": "doximity",
+    "evidence": "Neurological surgeon; University of Wisconsin School of Medicine Class of 2014; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.uchicagomedicine.org/find-a-physician/physician/jehad-zakaria",
+    "type": "bio",
+    "evidence": "search snippet: endovascular neurosurgeon at UChicago; affiliated Loyola University Medical Center"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:mir:kim",
+  "name": "Miri Kim",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Search snippets: Swedish Seattle neurosurgeon Miri Kim, MD PhD, UIC MD 2015, residency Loyola University Chicago 2023, fellowship Yale 2024; Loyola alumni page lists her; Doximity shows IL license 2016-2023",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Loyola neurosurgery residency 2023, Yale fellowship 2024, now neurosurgeon in Seattle. Note Doximity lists ABIM Internal Medicine cert (likely unrelated/quirk); not ABNS.",
+  "current": "neurosurgeon (neuro-oncology), Swedish, Seattle WA",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/miri-kim-md",
+    "type": "doximity",
+    "evidence": "University of Illinois College of Medicine Class of 2015; IL license 2016-2023; Neurosurgery, Seattle"
+   },
+   {
+    "url": "https://www.swedish.org/doctors/neurosurgery/wa/seattle/miri-kim-1376997197",
+    "type": "search_snippet",
+    "evidence": "snippet: completed residency at Loyola University of Chicago in 2023; fellowship Yale New Haven 2024"
+   },
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "Loyola neurosurgery alumni page (search result)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:jor:iordanou",
+  "name": "Jordan Iordanou",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Search results: Jordan C. Iordanou MD PhD, SUNY Downstate MD 2015, residency neurosurgery Loyola 2024, UTSW fellowship 2025; WebMD Maywood IL listing",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Loyola neurosurgery residency 2024; fellowship UT Southwestern 2025; practising neurosurgeon (board certified per aggregator).",
+  "current": "neurosurgeon, Back & Neck Specialists of New York / GK neurosurgery, Long Island NY",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.everydayhealth.care/providers/1396107710/dr-jordan-christopher-iordanou-md-phd/",
+    "type": "search_snippet",
+    "evidence": "snippet: medical school Downstate 2015, residency in neurosurgery from Loyola University Medical Center in 2024, fellowship UT Southwestern 2025"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-jordan-iordanou-xymqc5r",
+    "type": "search_snippet",
+    "evidence": "Neurosurgeon in Huntington, NY"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:jos:simon",
+  "name": "Joshua Simon",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery Loyola 2017-2024, MSU CHM class 2017; Loyola alumni page lists Joshua Simon",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising neurosurgeon at Powers Health, Munster IN.",
+  "current": "neurosurgeon, Powers Health/Community Hospital, Munster IN",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/joshua-simon-md",
+    "type": "doximity",
+    "evidence": "Loyola University Medical Center Residency, Neurological Surgery, 2017 - 2024; Michigan State University College of Human Medicine Class of 2017"
+   },
+   {
+    "url": "https://www.powershealth.org/find-a-doctor/s/simon-joshua",
+    "type": "bio",
+    "evidence": "Dr. Joshua Simon, Neurosurgery | Powers Health"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:bra:zsigray",
+  "name": "Brandon Zsigray",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola residency neurological surgery 2018-2025, UTHealth MD 2018; Loyola faculty profile",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2025; now Loyola neurosurgery faculty (Maywood).",
+  "current": "neurosurgeon, Loyola University Medical Center, Maywood IL",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brandon-zsigray-md",
+    "type": "doximity",
+    "evidence": "Loyola University Medical Center Residency, Neurological Surgery, 2018 - 2025"
+   },
+   {
+    "url": "https://www.luc.edu/stritch/neurosurgery/faculty/profiles/zsigraybrandon.shtml",
+    "type": "bio",
+    "evidence": "Loyola faculty profile (search result)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:joh:tsiang",
+  "name": "John Tsiang",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurological surgery residency 2019-2026, Case Western MD 2019; ResearchGate lists Loyola neurosurgery resident",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency 2019-2026 per Doximity, with Loyola enfolded neuroendovascular fellowship 2023-24; Rush endovascular fellowship 2026. Not on Loyola current-resident page (Sept 2026), consistent with graduation.",
+  "current": "endovascular neurosurgery fellow, Rush University (2026)",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/john-tsiang-md",
+    "type": "doximity",
+    "evidence": "Loyola University Medical Center Residency, Neurological Surgery, 2019 - 2026; Rush University Fellowship, Endovascular Neurosurgery, 2026"
+   },
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "Loyola current residents page does not list Tsiang"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:nat:pecoraro",
+  "name": "Nathan Pecoraro",
+  "program_id": 34,
+  "identity": "probable",
+  "identity_basis": "Healthgrades/Sharecare: neurosurgeon Maywood IL affiliated Loyola, Stritch MD; ResearchGate/RocketReach: Loyola neurological surgery resident; co-author on Loyola resident papers (2025 Tourette DBS paper); not on Loyola current resident page",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgeon Maywood IL affiliated with Loyola (Healthgrades); no longer on Loyola current-resident page (Sept 2026), consistent with completing 2026. Exact years not stated by sources seen.",
+  "current": "neurosurgeon, Loyola (Healthgrades), Maywood IL",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-nathan-pecoraro-t6u2lme825",
+    "type": "search_snippet",
+    "evidence": "Dr. Nathan Pecoraro, MD - Neurosurgeon in Maywood, IL; affiliated with Loyola University Medical Center; MD Loyola Stritch"
+   },
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "not listed among current residents"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:isa:ng",
+  "name": "Isaac Ng",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Loyola residents page lists Isaac Ng, MD (Tufts) as PGY-7 chief; Doximity Isaac Bing-yi Ng Maywood, Tufts class of 2020, co-author on Loyola papers",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-7 chief resident on Loyola page (Sept 2026).",
+  "current": "chief resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "PGY-7 (Chief Residents) Isaac Ng, MD | Tufts University School of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/isaac-ng-md-fb7a2afa",
+    "type": "doximity",
+    "evidence": "Isaac Bing-yi Ng MD, Maywood IL; Tufts University School of Medicine Class of 2020 (listed as Other MD/DO)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:ron:jani",
+  "name": "Ronak Jani",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurological surgery residency 2020-2027, Pitt MD 2019, Brigham internship; Loyola residents page PGY-7",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 chief resident, expected completion 2027; endovascular fellowship planned at University of Michigan. Prelim surgery internship at Brigham 2019-20 then Loyola.",
+  "current": "chief resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ronak-jani-md-75bdeea4",
+    "type": "doximity",
+    "evidence": "Loyola University Medical Center Residency, Neurological Surgery, 2020 - 2027; PGY-7 Neurosurgery"
+   },
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "PGY-7 Ronak Jani, MD | University of Pittsburgh"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:jos:frazzetta",
+  "name": "Joseph Frazzetta",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurological surgery residency 2021-2028, Loyola Stritch MD 2021; Loyola residents page PGY-6",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 (Sept 2026).",
+  "current": "PGY-6 resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joseph-frazzetta-md",
+    "type": "doximity",
+    "evidence": "Loyola University Medical Center Residency, Neurological Surgery, 2021 - 2028"
+   },
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "PGY-6 Joseph Frazzetta, MD | Loyola University Stritch School of Medicine"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:die:luy",
+  "name": "Diego Luy",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Loyola residents page (PGY-5, Pittsburgh); ResearchGate Loyola Dept of Neurological Surgery resident physician; LinkedIn/X",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-5 on Loyola residents page (Sept 2026). No Doximity pub profile found by search.",
+  "current": "PGY-5 resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "Loyola current residents page lists PGY-5"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Diego-Luy",
+    "type": "search_snippet",
+    "evidence": "Diego LUY | Resident Physician | Loyola University Medical Center, Maywood | Department of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:seu:yang",
+  "name": "Seunghyuk Daniel Yang",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurological surgery residency 2022-2029, Stritch MD 2022; Loyola residents page",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-5 on Loyola residents page (Sept 2026). Doximity residency 2022-2029; search snippet: accepted to spine fellowship (June 2025 PGY-4).",
+  "current": "PGY-5 resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "Loyola current residents page lists PGY-5"
+   },
+   {
+    "url": "https://www.doximity.com/pub/seunghyuk-yang-md",
+    "type": "doximity",
+    "evidence": "Loyola University Medical Center Residency, Neurological Surgery, 2022 - 2029"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:sha:choe",
+  "name": "Shawn Choe",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Shawn Choe, resident physician Maywood, Stritch class of 2023; Loyola residents page; co-author on Loyola neurosurgery papers",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-4 on Loyola residents page (Sept 2026). Doximity lists him as Resident Physician (no program years).",
+  "current": "PGY-4 resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "Loyola current residents page lists PGY-4"
+   },
+   {
+    "url": "https://www.doximity.com/pub/shawn-choe-md",
+    "type": "doximity",
+    "evidence": "Shawn Choe MD, Resident Physician, Maywood IL; Loyola Stritch Class of 2023"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:shi:ciecierska",
+  "name": "Shiau-Sing Ciecierska",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Loyola residents page (PGY-3, Buffalo); WebMD: Neurological Surgery Maywood; co-author on Loyola papers with Prabhu; MD Buffalo 2024",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-3 on Loyola residents page (Sept 2026). No Doximity profile found by site-specific search.",
+  "current": "PGY-3 resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "Loyola current residents page lists PGY-3"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/shiau-sing-ciecierska-04c7e5aa-924c-475d-a7ac-f6da216a713d-overview",
+    "type": "search_snippet",
+    "evidence": "Dr. Shiau-Sing Ciecierska, Neurological Surgery | Maywood, IL; Jacobs School of Medicine 2024"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:zac:uram",
+  "name": "Zachary Uram",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Zachary Uram MD Maywood, Loyola Stritch class of 2024; Loyola residents page; co-author with Loyola neurosurgery residents/faculty",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-3 on Loyola residents page (Sept 2026). Doximity lists as Other MD/DO, no program years.",
+  "current": "PGY-3 resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "Loyola current residents page lists PGY-3"
+   },
+   {
+    "url": "https://www.doximity.com/pub/zachary-uram-md",
+    "type": "doximity",
+    "evidence": "Loyola University Chicago Stritch School of Medicine Class of 2024; co-author with Zsigray, Iordanou, Zakaria, Tsiang, Pecoraro"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:and:payman",
+  "name": "Andre Payman",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Loyola residents page (PGY-2, Stritch); LinkedIn: Resident Physician - Neurological Surgery, Loyola; author of History of Loyola Neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-2 on Loyola residents page (Sept 2026). No Doximity profile found by site-specific search.",
+  "current": "PGY-2 resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "Loyola current residents page lists PGY-2"
+   },
+   {
+    "url": "https://www.linkedin.com/in/andre-payman-md-523473b9/",
+    "type": "search_snippet",
+    "evidence": "Andre Payman, MD - Resident Physician - Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:ano:chinthala",
+  "name": "Anoop Chinthala",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Anoop Chinthala MD Maywood IL, Indiana Univ SOM class 2025, IL license 2026; Loyola residents page PGY-1 (Indiana University School of Medicine)",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-1 on Loyola residents page (Sept 2026). Doximity lists as Other MD/DO.",
+  "current": "PGY-1 resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "Loyola current residents page lists PGY-1"
+   },
+   {
+    "url": "https://www.doximity.com/pub/anoop-chinthala-md",
+    "type": "doximity",
+    "evidence": "Indiana University School of Medicine Class of 2025; Maywood, IL"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "34:yoo:ahn",
+  "name": "Yoo Jin Ahn",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Loyola residents page (PGY-1, Rush Medical College); Loyola Neurosurgery Instagram welcome post 'Very excited to welcome Yoo Jin and Anoop'",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-1 on Loyola residents page (Sept 2026). No Doximity profile found (search returned only different people).",
+  "current": "PGY-1 resident, Loyola neurosurgery",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "Loyola current residents page lists PGY-1"
+   },
+   {
+    "url": "https://www.instagram.com/p/DWH1vyNjEHA/",
+    "type": "search_snippet",
+    "evidence": "Very excited to welcome Yoo Jin and Anoop to the Loyola ..."
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "35:cas:norton",
+  "name": "Casey Norton",
+  "program_id": 35,
+  "identity": "not_found",
+  "identity_basis": "Searches for Casey Norton + neurosurgery/MaineHealth returned no matching resident; Doximity search returned only a women's health NP (different person). Roster page not accessible via search.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "No independent public confirmation found; recorded PGY-1 entrant 2026 in input (too recent for profiles).",
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.mainehealth.org/maine-medical-center/education-research/medical-education/residency-programs/neurological-surgery-residency",
+    "type": "program_page",
+    "evidence": "program page surfaced by search; no roster with Norton seen"
+   }
+  ],
+  "searches_used": 3,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null
+ },
+ {
+  "key": "36:and:venteicher",
+  "name": "Andrew Venteicher",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGH neurological surgery residency 2011-2018, Stanford MD 2011, ABNS; UMN bio 'trained at Harvard Medical School for his residency'",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed MGH 2018; fellowship UPitt cerebrovascular/skull base; now UMN faculty.",
+  "current": "associate professor of neurosurgery, University of Minnesota",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/andrew-venteicher-md",
+    "type": "doximity",
+    "evidence": "Mass General Brigham/Massachusetts General Hospital Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "36:chr:stapleton",
+  "name": "Christopher Stapleton",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Boston profile): MGH neurological surgery residency 2011-2018, Harvard MD 2011, ABNS; MGH bio: Harvard grad, residency and endovascular fellowship at MGH, UIC cerebrovascular fellowship (matches IL license 2017-20)",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed MGH residency 2018; MGH faculty. The other Doximity Christopher Stapleton (Chicago) is a different/separate listing; Boston profile is the match.",
+  "current": "neurosurgeon / assistant professor, Massachusetts General Hospital",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christopher-stapleton-md-d85de68e",
+    "type": "doximity",
+    "evidence": "Mass General Brigham/Massachusetts General Hospital Residency, Neurological Surgery, 2011 - 2018; Harvard Medical School Class of 2011"
+   },
+   {
+    "url": "https://www.massgeneral.org/doctors/20633/christopher-stapleton",
+    "type": "bio",
+    "evidence": "search snippet: completed neurosurgery residency and endovascular fellowship at MGH; Assistant Program Director"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "36:joh:berry-candelario",
+  "name": "John Berry-Candelario",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Harvard MD 2011, MGH neurological surgery residency (listed 2014), Duke neurological surgery residency 2015-2018, MSK fellowship 2018-19; name is distinctive; ABNS",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2015
+   },
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2018
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Started MGH 2011, left after ~PGY-4 (mid-2015), completed neurosurgery residency at Duke 2015-2018; MSK neurosurgical oncology fellowship 2018-19.",
+  "year_left": 2015,
+  "destination_program": "Duke University Hospital",
+  "destination_start_year": 2015,
+  "current": "spine/neuro-oncology neurosurgeon, UCHealth University of Colorado, Aurora CO",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/john-berry-candelario-md",
+    "type": "doximity",
+    "evidence": "Duke University Hospital Residency, Neurological Surgery, 2015 - 2018; Mass General Brigham/MGH Residency, Neurological Surgery, 2014; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "disagreement": ""
+ },
+ {
+  "key": "36:mar:zachariah",
+  "name": "Marcus Zachariah",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGH neurological surgery residency 2012-2019, UCSF MD 2012, ABNS; Sharp/Scripps bios chief resident MGH",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed MGH 2019; Ohio State fellowship; practising neurosurgeon San Diego.",
+  "current": "neurosurgeon, Sharp/Scripps affiliated, San Diego CA",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/marcus-zachariah-md",
+    "type": "doximity",
+    "evidence": "Mass General Brigham/Massachusetts General Hospital Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "36:mat:mian",
+  "name": "Matthew Mian",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGH neurological surgery residency 2012-2018, Harvard MD 2012, ABNS; practice site: Harvard-trained, residency at MGH, Emory fellowship",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed MGH 2018; Emory functional fellowship; practising neurosurgeon Denver.",
+  "current": "director of functional neurosurgery, Swedish Medical Center, Englewood CO",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-mian-md",
+    "type": "doximity",
+    "evidence": "Mass General Brigham/Massachusetts General Hospital Residency, Neurological Surgery, 2012 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://mian-neurosurgery.com/about-dr-mian",
+    "type": "bio",
+    "evidence": "search snippet: completed residency in neurosurgery at Massachusetts General Hospital, fellowship at Emory"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ },
+ {
+  "key": "36:vij:yanamadala",
+  "name": "Vijay Yanamadala",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Harvard MD 2012, MGH neurological surgery residency 2012-2019, spine fellowships, ABNS",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed MGH residency 2019 (with research/spine fellowship years in between); practising spine neurosurgeon.",
+  "current": "neurosurgeon (spine), Hartford HealthCare, Westport CT; also Chief Medical Officer, Sword Health (search result)",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/vijay-yanamadala-md",
+    "type": "doximity",
+    "evidence": "Mass General Brigham/Massachusetts General Hospital Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "disagreement": ""
+ }
+]

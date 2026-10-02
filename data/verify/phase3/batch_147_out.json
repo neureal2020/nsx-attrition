@@ -1,0 +1,972 @@
+[
+ {
+  "key": "115:kel:bowman",
+  "name": "Kelsey Bowman",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "UH Hospitals bio: neurosurgery residency at University of Wisconsin 2018-2025, MD Northwestern; Doximity 'Neurosurgery Resident at UW Hospitals and Clinic', Northwestern",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW neurosurgery residency 2018-2025, endovascular fellowship UW 2023-2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Skull-base fellow, UH Cleveland Medical Center (2025-2026)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uhhospitals.org/doctors/Bowman-Kelsey-1649662396",
+    "type": "bio",
+    "evidence": "Completed neurological surgery residency at University of Wisconsin Hospital and Clinics (2018-2025); endovascular fellowship (2023-2025); skull-base fellowship UH Cleveland (2025-2026)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kelsey-bowman-md",
+    "type": "doximity",
+    "evidence": "Northwestern Feinberg; WI license 2020-2025; OH license 2025-2027; headline UW Hospitals resident"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "115:nia:buckley",
+  "name": "Niall Buckley",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Search snippet: completed neurological surgery residency at University of Wisconsin-Madison; UCSF Health neurosurgery profile; UW staff page buckley-niall; MD Rutgers RWJ",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "UW neurosurgery residency completed; now neurosurgeon at UCSF (likely fellow/faculty); Doximity search returned only an unrelated Durham urologist (not this person)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery, UCSF Health, San Francisco",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ucsfhealth.org/providers/niall-buckley",
+    "type": "search_snippet",
+    "evidence": "Niall Anthony Buckley, MD - Neurosurgery | UCSF Health"
+   },
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/buckley-niall",
+    "type": "program_page",
+    "evidence": "UW staff page listed in search; snippet: completed residency at the University of Wisconsin @ Madison in neurological surgery"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "115:you:youn",
+  "name": "Youngwon Youn",
+  "program_id": 115,
+  "identity": "probable",
+  "identity_basis": "UCLA Health neurosurgery profile + Doximity lists WI license 2021-2025 and UW neurosurgery coauthors (Buckley, Larson, Koueik); Albany Medical College",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practises neurosurgery (UCLA Health, epilepsy surgery); Healthgrades lists Madison neurosurgeon. Doximity Education oddly lists a Family Medicine residency (Kaiser Fontana 2020-2023) which conflicts with UW neurosurgery 2018-2025 and looks like a mis-merged/erroneous profile; not adopted",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery (epilepsy), UCLA Health, Los Angeles",
+  "agrees_with_db": true,
+  "disagreement": "Doximity shows a family medicine residency 2020-2023 conflicting with UW neurosurgery; UCLA neurosurgery listing supports completion. Flag for manual review.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uclahealth.org/providers/youngwon-youn",
+    "type": "search_snippet",
+    "evidence": "Youngwon Youn, MD - Neurosurgery | UCLA Health"
+   },
+   {
+    "url": "https://www.doximity.com/pub/youngwon-youn-md",
+    "type": "doximity",
+    "evidence": "Residency, Family Medicine, 2020-2023 Kaiser Fontana; Albany Medical College 2018 (conflicting, flag)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:gar:greeneway",
+  "name": "Garret Greeneway",
+  "program_id": 115,
+  "identity": "probable",
+  "identity_basis": "UW neurosurgery staff page greeneway-garret: resident, MD Wake Forest, from De Pere WI; LinkedIn Combined Neurological Surgery",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "No independent confirmation of graduation found; UW staff page snippet still lists as neurosurgery resident (may be stale). Consistent with PGY7 in 2025-26 finishing June 2026. Doximity search did not return his profile",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident/graduate, UW (unconfirmed)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/greeneway-garret",
+    "type": "program_page",
+    "evidence": "Garret Greeneway is a neurosurgery resident at UW-Madison with an M.D. from Wake Forest"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "115:sar:larson",
+  "name": "Sarah Larson",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "UAB news Aug 2026 + WebMD: UW MD 2019, neurosurgery residency at UW, now UAB pediatric neurosurgery fellow; Doximity Sarah Christine Larson UW SMPH 2019, WI license, AL license 2026",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW neurosurgery residency 2026; joined UAB Division of Pediatric Neurosurgery as fellow (Aug 2026)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Pediatric neurosurgery fellow, UAB / Children's of Alabama",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uab.edu/medicine/news/neurosurgery/neurosurgery-welcomes-larson-as-pediatric-fellow",
+    "type": "news",
+    "evidence": "completed her neurosurgical residency at the University of Wisconsin; joined UAB pediatric neurosurgery as fellow"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sarah-larson-md-aeea2fd7",
+    "type": "doximity",
+    "evidence": "University of Wisconsin School of Medicine & Public Health Class of 2019; AL license 2026"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "115:joy:koueik",
+  "name": "Joyce Koueik",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "UW neurosurgery Facebook: Dr. Joyce Koueik PGY-6 resident; UW Dept of Surgery staff page; MD Balamand 2015; hydrocephalus research team",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 resident at UW neurosurgery (Grand Rounds post); Doximity search returned no profile",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident PGY-6/7, UW",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.facebook.com/uwneurosurgery/posts/dr-joyce-koueik-pgy-6-resident-presented-at-grand-rounds-today-highlighting-her-/1440588911447868/",
+    "type": "search_snippet",
+    "evidence": "Dr. Joyce Koueik, PGY-6 resident, presented at Grand Rounds"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:lar:meisner",
+  "name": "Lars Meisner",
+  "program_id": 115,
+  "identity": "probable",
+  "identity_basis": "Search snippets: Lars Meisner neurosurgeon Madison WI, MD Brown Alpert; UW staff page meisner-lars",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "UW neurosurgery resident (PGY-7 in 2026-27 per input); no doximity profile found",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://health.usnews.com/doctors/lars-meisner-3271962",
+    "type": "search_snippet",
+    "evidence": "Dr. Lars Meisner, MD | Madison, WI (MD Brown; snippet only)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:kat:bunch",
+  "name": "Katherine Bunch",
+  "program_id": 115,
+  "identity": "probable",
+  "identity_basis": "UW staff page bunch-katherine: current neurosurgery resident, SUNY Upstate MD, Syracuse BS; LinkedIn UW Health; WebMD Madison neurological surgery",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/bunch-katherine",
+    "type": "program_page",
+    "evidence": "current neurosurgery resident from upstate New York at the University of Wisconsin; SUNY Upstate MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:sim:ammanuel",
+  "name": "Simon Ammanuel",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "WebMD/snippet: neurological surgery Madison WI, UCSF MD 2021, affiliated UW Dept of Neurological Surgery; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/simon-ammanuel-f9c955fa-ad91-4418-b38d-659f60548f02-overview",
+    "type": "search_snippet",
+    "evidence": "graduated from UCSF School of Medicine in 2021; affiliated with Dept of Neurological Surgery at UW"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:dar:ansari",
+  "name": "Darius Ansari",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn/UW staff page: neurosurgery resident at UW Hospital and Clinics, MD University of Illinois",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery resident (PGY-5)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/ansari-darius/",
+    "type": "program_page",
+    "evidence": "UW neurosurgery staff page (resident); Doximity search returned other people"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:jac:bethel",
+  "name": "Jacob Bethel",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UW Hospitals and Clinics 2022-2029, UT Health San Antonio class of 2022; UW staff page",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training; Doximity lists UW neurosurgery 2022-2029 (7-yr program; end year as projected on profile)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jacob-bethel-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2022 - 2029, University of Wisconsin Hospitals and Clinics"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:ben:lee",
+  "name": "Benjamin Lee",
+  "program_id": 115,
+  "identity": "probable",
+  "identity_basis": "Doximity Benjamin Lee: Neurosurgery Madison WI resident, Oklahoma College of Medicine 2023; UW staff page lee-benjamin. (Doximity lists an American Board of Ophthalmology cert, likely a merged namesake record; ignored)",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/benjamin-lee-md-131b0460",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Madison WI, Resident; University of Oklahoma College of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:jon:blalock",
+  "name": "Jonathan Blalock",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn: neurosurgery resident UW Health from March 2024; USC Greenville MD 2023; Doximity Madison resident physician",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jonathan-blalock-md",
+    "type": "doximity",
+    "evidence": "Resident Physician Madison WI; University of South Carolina School of Medicine Greenville Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:adi:kannan",
+  "name": "Adithya Kannan",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "UW staff page kannan-adithya + Columbia news: matched neurosurgery at UW in 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Matched UW neurosurgery 2024; current resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/kannan-adithya/",
+    "type": "program_page",
+    "evidence": "UW neurosurgery staff page; Columbia Match Day 2024 mention"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:els:nico",
+  "name": "Elsa Nico",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Elsa Nico resident physician Madison WI, UW Hospital and Clinics, Illinois COM 2023; UW staff page: matched UW Neurosurgery March 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/elsa-nico-md",
+    "type": "doximity",
+    "evidence": "UW Hospital and Clinics; University of Illinois College of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:hen:stonnington",
+  "name": "Henry Stonnington",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "UW staff page stonnington-henry; UW Health neurosurgery listing; co-author publications with UW affiliation",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/stonnington-henry/",
+    "type": "program_page",
+    "evidence": "UW neurosurgery staff page (resident)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:bra:lundin",
+  "name": "Brady Lundin",
+  "program_id": 115,
+  "identity": "probable",
+  "identity_basis": "UW neurosurgery newest residents note: Dr. Brady Lundin, UW PhD in Cellular and Molecular Pathology; LinkedIn UW Health",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery resident (MD-PhD)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/brady-lundin-32741685/",
+    "type": "search_snippet",
+    "evidence": "Brady Lundin - UW Health; one of the newest residents in UW Dept of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:ros:caston",
+  "name": "Rose Caston",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "UW staff page caston-rose: neurosurgery resident MD-PhD Utah; Doximity Rose Caston Class of 2025 Utah",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rose-caston-md",
+    "type": "doximity",
+    "evidence": "University of Utah School of Medicine Class of 2025; Madison WI"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:ros:greenberg",
+  "name": "Ross Greenberg",
+  "program_id": 115,
+  "identity": "ambiguous",
+  "identity_basis": "LinkedIn: Ross Greenberg MD Neurosurgery Resident; but UW Dept of Surgery site lists a Ross Greenberg (Emory MD) as General Surgery Resident, possibly same person or namesake; unresolved",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Unclear whether this is the neurosurgery intern or a UW general surgery resident; needs verification",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Unknown (UW resident, specialty unclear)",
+  "agrees_with_db": false,
+  "disagreement": "UW Dept of Surgery lists Ross Greenberg as General Surgery Resident; identity unresolved",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.surgery.wisc.edu/staff/ross-greenberg/",
+    "type": "program_page",
+    "evidence": "General Surgery Resident; MD, Emory University School of Medicine"
+   },
+   {
+    "url": "https://www.linkedin.com/in/ross-greenberg-md-a0650b1b0",
+    "type": "search_snippet",
+    "evidence": "Ross Greenberg, MD - Neurosurgery Resident"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "115:tif:chu",
+  "name": "Tiffany Chu",
+  "program_id": 115,
+  "identity": "probable",
+  "identity_basis": "UW neurosurgery news welcomed new resident Dr. Chu (search snippet only); no independent profile",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as new UW neurosurgery resident; only snippet-level evidence; Doximity results were other Tiffany Chus",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery intern, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/more-news/",
+    "type": "search_snippet",
+    "evidence": "welcomed Dr. Chu as new neurosurgery resident (snippet summary; unverified)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:uye:tran",
+  "name": "Uyen Tran",
+  "program_id": 115,
+  "identity": "probable",
+  "identity_basis": "LinkedIn: Uyen Tran neurosurgery resident at UW Hospital and Clinics, UNMC background; new residents welcome page",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery intern",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery intern, UW Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/uyen-tran-976378189/",
+    "type": "search_snippet",
+    "evidence": "Uyen Tran - Neurosurgery Resident at University of Wisconsin Hospital and Clinics"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "116:dav:panczykowski",
+  "name": "David Panczykowski",
+  "program_id": 116,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UPMC neurosurgery residency 2011-2018, Miami MD 2011; Pitt graduates page 2018; chief resident 2017",
+  "residency_stated": [
+   {
+    "institution": "UPMC Medical Education",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UPMC 2018; ABNS certified; cerebrovascular/skull base neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Queen's/Honolulu HI (also Houston/Tampa)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-panczykowski-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011-2018 UPMC; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.neurosurgery.pitt.edu/training/residency-program/graduates",
+    "type": "program_page",
+    "evidence": "David Panczykowski (2018)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "116:geo:zenonos",
+  "name": "Georgios Zenonos",
+  "program_id": 116,
+  "identity": "confirmed",
+  "identity_basis": "Doximity UPMC residency 2011-2018, Athens 2008; Pitt faculty page",
+  "residency_stated": [
+   {
+    "institution": "UPMC Medical Education",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UPMC 2018 plus skull-base fellowships; UPMC faculty",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Director Center for Cranial Base Surgery, UPMC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/georgios-zenonos-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011-2018 UPMC; ABNS"
+   },
+   {
+    "url": "https://www.neurosurgery.pitt.edu/people/georgios-zenonos",
+    "type": "program_page",
+    "evidence": "Georgios Zenonos faculty page"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "116:gre:weiner",
+  "name": "Gregory Weiner",
+  "program_id": 116,
+  "identity": "confirmed",
+  "identity_basis": "Doximity + Geisinger news: UPMC neurosurgery residency 2011-2018, Tulane MD 2011",
+  "residency_stated": [
+   {
+    "institution": "UPMC Medical Education",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UPMC 2018; Pitt fellowship 2015-2017; ABNS; joined Geisinger 2018",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Geisinger Wyoming Valley, Wilkes-Barre PA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/gregory-weiner-md",
+    "type": "doximity",
+    "evidence": "Residency 2011-2018 UPMC; ABNS"
+   },
+   {
+    "url": "https://www.geisinger.org/about-geisinger/news-and-media/news-releases/2018/09/19/14/36/neurosurgeon-joins-geisinger-wyoming-valley-medical-center",
+    "type": "news",
+    "evidence": "neurosurgeon joins Geisinger Wyoming Valley"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "116:phi:lee",
+  "name": "Philip Lee",
+  "program_id": 116,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Philip S Lee MD PhD: UPMC residency 2011-2018, Pitt MD 2011; Geisinger; Pitt graduates page 'Philip Sokjoo Lee (2018)'",
+  "residency_stated": [
+   {
+    "institution": "UPMC Medical Education",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UPMC 2018; ABNS; functional neurosurgery Geisinger",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Director of Functional Neurosurgery, Geisinger, Wilkes-Barre PA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/philip-lee-md-1ae98f55",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011-2018 UPMC; ABNS"
+   },
+   {
+    "url": "https://www.neurosurgery.pitt.edu/training/residency-program/graduates",
+    "type": "program_page",
+    "evidence": "Philip Sokjoo Lee (2018)"
+   }
+  ],
+  "searches_used": 2
+ }
+]

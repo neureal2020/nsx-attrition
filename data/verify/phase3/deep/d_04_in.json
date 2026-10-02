@@ -1,0 +1,626 @@
+[
+ {
+  "key": "118:dea:leonard",
+  "name": "Dean Leonard",
+  "program_id": 118,
+  "program": "Virginia Commonwealth University Health System Program",
+  "entry_year": 2019,
+  "first_seen": "2022-2023",
+  "last_seen": "2024-2025",
+  "last_pgy": 6,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "Doximity: Texas A&M MD 2019, Richmond VA resident physician at VCU address, publications in neurosurgical topics; US News snippet lists VCU affiliation",
+   "outcome_detail": "Doximity (Resident Physician, Richmond VA, VA license to 2025) shows no residency entry; no destination found.",
+   "current": "unknown",
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/dean-leonard-md",
+     "type": "doximity",
+     "evidence": "Resident Physician, Richmond VA; Texas A&M Health Science Center College of Medicine Class of 2019; VA license 2019-2025"
+    }
+   ]
+  }
+ },
+ {
+  "key": "118:bra:toll",
+  "name": "Brandon Toll",
+  "program_id": 118,
+  "program": "Virginia Commonwealth University Health System Program",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2024-2025",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "phase3_finding": {
+   "identity": "confirmed",
+   "identity_basis": "VCU program page and Doximity: DO UNE 2022, VCU neurosurgery 2023-2030; Lahey/Shriners research",
+   "outcome_detail": "Doximity (likely stale, self-reported) still lists VCU NS 2023-2030; new PA state license 2026-2028 suggests possible move to a Pennsylvania program; no destination found (Penn State current residents page did not list him in excerpt).",
+   "current": "unknown",
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/brandon-toll-do",
+     "type": "doximity",
+     "evidence": "VCU Residency, Neurological Surgery, 2023 - 2030; PA State License 2026 - 2028"
+    }
+   ]
+  }
+ },
+ {
+  "key": "118:sha:souza",
+  "name": "Shawn D'Souza",
+  "program_id": 118,
+  "program": "Virginia Commonwealth University Health System Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2024-2025",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "phase3_finding": {
+   "identity": "confirmed",
+   "identity_basis": "VCU Neuro X post welcomes D'Souza as 2024 neurosurgery resident; Doximity VCU SOM class 2024",
+   "outcome_detail": "Doximity lists only VCU MD 2024 (Neurosurgery, VCU Medical Center address) with no residency entry. Search for a WashU affiliation returned nothing new (WashU affiliation in DB note not independently verified here).",
+   "current": "unknown",
+   "sources": [
+    {
+     "url": "https://x.com/VCUNeuro/status/1770517150371090480",
+     "type": "search_snippet",
+     "evidence": "welcome to our newest #Neurosurgery residents, Shawn D'Souza and William Mualem #MatchDay2024"
+    },
+    {
+     "url": "https://www.doximity.com/pub/shawn-d-souza-md-57694df1",
+     "type": "doximity",
+     "evidence": "Virginia Commonwealth University School of Medicine Class of 2024"
+    }
+   ]
+  }
+ },
+ {
+  "key": "119:phi:dagostino",
+  "name": "Phillip Dagostino",
+  "program_id": 119,
+  "program": "Wake Forest University Baptist Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2011,
+  "first_seen": "2011-2012",
+  "last_seen": "2014-2015",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "Doximity stub 'Phillip Robert Dagostino, Neurosurgery, Winston-Salem NC' at Hawthorne Rd (Wake Forest campus); RateMDs listing Winston-Salem; no training detail",
+   "outcome_detail": "Only stub profiles (Doximity, RateMDs) with no education; no evidence of completion or destination.",
+   "current": "unknown",
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/phillip-dagostino-md",
+     "type": "doximity",
+     "evidence": "Dr. Phillip Dagostino, MD is a neurosurgeon in Winston-Salem, North Carolina (no education listed)"
+    }
+   ]
+  }
+ },
+ {
+  "key": "119:kri:pawlowski",
+  "name": "Kristen Pawlowski",
+  "program_id": 119,
+  "program": "Wake Forest University Baptist Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2024-2025",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "Wake neurosurgery Instagram intern post (2023) and Wake NS listing; LinkedIn snippet MD Michigan Medicine; doctor.com lists MD, Winston-Salem",
+   "outcome_detail": "No Doximity MD profile (site search returned only an NP namesake); no destination found.",
+   "current": "unknown",
+   "sources": [
+    {
+     "url": "https://www.instagram.com/wfneurosurgery/p/Cvcq9s7gMCd/",
+     "type": "search_snippet",
+     "evidence": "One month down for interns, Dr. Kristen Pawlowski and ..."
+    }
+   ]
+  }
+ },
+ {
+  "key": "120:tat:mahlokozera",
+  "name": "Tatenda Mahlokozera",
+  "program_id": 120,
+  "program": "Washington University/B-JH/SLCH Consortium Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2024-2025",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "phase3_finding": {
+   "identity": "confirmed",
+   "identity_basis": "WashU MD/PhD (thesis 2020); WashU Neurosurgery 2022-2023 intern class; US News/Doximity search snippets list Resident Physician St. Louis",
+   "outcome_detail": "Not on WashU current-residents page; Doximity URL returns 'No Public Profile' (search snippet: Resident Physician, St. Louis). No evidence of leaving medicine or switching; consistent with a research leave but unconfirmed.",
+   "current": "unknown; St. Louis resident physician per search snippets",
+   "sources": [
+    {
+     "url": "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+     "type": "program_page",
+     "evidence": "Current residents page does not list Mahlokozera"
+    },
+    {
+     "url": "https://www.doximity.com/pub/tatenda-mahlokozera-md",
+     "type": "doximity",
+     "evidence": "Public profile not found or disabled"
+    }
+   ]
+  }
+ },
+ {
+  "key": "120:mic:jin",
+  "name": "Michael Jin",
+  "program_id": 120,
+  "program": "Washington University/B-JH/SLCH Consortium Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2025-2026",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> outcome unknown [ambiguous name]",
+  "tier": 1,
+  "phase3_finding": {
+   "identity": "confirmed",
+   "identity_basis": "Doximity: WashU/B-JH/SLCH Neurological Surgery residency 2024-2031, Stanford MD 2024, St. Louis address; search snippet: PGY1 WashU, Stanford MD/MS",
+   "outcome_detail": "Doximity (self-reported) still lists WashU neurosurgery 2024-2031, St. Louis; not on WashU current-residents page (research leave possible). No evidence of departure.",
+   "current": "neurosurgery resident (self-reported), St. Louis",
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/michael-jin-md-0f58b74d",
+     "type": "doximity",
+     "evidence": "Washington University/B-JH/SLCH Consortium Residency, Neurological Surgery, 2024 - 2031; Stanford Class of 2024"
+    }
+   ]
+  }
+ },
+ {
+  "key": "120:kyl:mcgrath",
+  "name": "Kyle McGrath",
+  "program_id": 120,
+  "program": "Washington University/B-JH/SLCH Consortium Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "phase3_finding": {
+   "identity": "confirmed",
+   "identity_basis": "Doximity: UF College of Medicine 2025, WashU neurosurgery residency 2025; WashU profile snippet PGY1, UF MD",
+   "outcome_detail": "Not on WashU current-residents page or UF neurosurgery current residents; Doximity still lists WashU residency 2025 with Gainesville FL address; 2026 papers with no destination. Probable departure after PGY-1 but destination not found.",
+   "current": "unknown",
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/kyle-mcgrath-md",
+     "type": "doximity",
+     "evidence": "Washington University/B-JH/SLCH Consortium Residency, Neurological Surgery, 2025; University of Florida College of Medicine Class of 2025"
+    },
+    {
+     "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+     "type": "program_page",
+     "evidence": "McGrath not listed"
+    }
+   ]
+  }
+ },
+ {
+  "key": "121:jam:smith",
+  "name": "James Smith",
+  "program_id": 121,
+  "program": "West Virginia University Program",
+  "entry_year": 2013,
+  "first_seen": "2014-2015",
+  "last_seen": "2014-2015",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "phase3_finding": {
+   "identity": "ambiguous",
+   "identity_basis": "Common name; searches returned only unrelated neurosurgeons named James Smith (Myrtle Beach SC, WashU alum)",
+   "outcome_detail": "No profile found matching MD Saint Louis University / WVU PGY-2 2014-15.",
+   "current": "unknown",
+   "sources": [
+    {
+     "url": "https://medicine.hsc.wvu.edu/neurosurgery/faculty-staff/",
+     "type": "search_snippet",
+     "evidence": "WVU neurosurgery faculty list; no James Smith match"
+    }
+   ]
+  }
+ },
+ {
+  "key": "123:ula:cikla",
+  "name": "Ulas Cikla",
+  "program_id": 123,
+  "program": "Yale-New Haven Medical Center Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2019-2020",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "phase3_finding": {
+   "identity": "confirmed",
+   "identity_basis": "UF Health bio: fellowship at Yale-New Haven 2020 (endovascular), Istanbul MD 2003; DB note: Turkish-trained neurosurgeon, Yale associate scientist from 2019",
+   "outcome_detail": "Foreign-trained neurosurgeon; not a US resident-track attritor. UF bio lists Yale endovascular neurosurgery fellowship 2020, BIDMC fellowship 2022, UW-Madison cerebrovascular/skull base fellowships 2024, then UF Health Jacksonville assistant professor of neurosurgery (2024). He practises neurosurgery; left the PGY-1 resident role at Yale in 2019-20 (converted to fellow 2020).",
+   "current": "Assistant professor of neurosurgery, UF Health Jacksonville",
+   "sources": [
+    {
+     "url": "https://ufhealthjax.org/doctors/ulas-cikla/bio",
+     "type": "bio",
+     "evidence": "Endovascular Neurosurgery Fellowship at Yale - New Haven Medical Center, 2020; Assistant Professor at University of Florida, 2024"
+    },
+    {
+     "url": "https://www.doximity.com/pub/ulas-cikla-md",
+     "type": "doximity",
+     "evidence": "Public profile not found or disabled"
+    }
+   ]
+  }
+ },
+ {
+  "key": "5:joh:mcginnis",
+  "name": "John McGinnis",
+  "program_id": 5,
+  "program": "Baylor College of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2020-2021",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "BCM people page 'JP McGinnis' neurosurgery resident, KU MD 2019 (matches Doximity/US News KU 2019 at 1 Baylor Plz); joined June 2019",
+   "outcome_detail": "Doximity/US News profiles list only KU MD 2019 (no residency, no specialty). Not on current BCM resident roster (Sept 2026), consistent with June 2026 graduation, but no source states completion.",
+   "current": "unknown",
+   "sources": [
+    {
+     "url": "https://www.doximity.com/cv/john-mcginnis-1",
+     "type": "doximity",
+     "evidence": "John McGinnis MD, Other MD/DO, Houston, 1 Baylor Plz; University of Kansas School of Medicine Class of 2019"
+    },
+    {
+     "url": "https://health.usnews.com/doctors/john-mcginnis-1070621",
+     "type": "usnews",
+     "evidence": "Other or Unknown Specialty; University of Kansas School of Medicine"
+    },
+    {
+     "url": "https://www.bcm.edu/people-search/jp-mcginnis-26499",
+     "type": "search_snippet",
+     "evidence": "JP McGinnis, Neurosurgery Resident, Baylor; MD University of Kansas 2019, residency began June 2019 (search summary)"
+    }
+   ]
+  }
+ },
+ {
+  "key": "12:aus:barnett",
+  "name": "Austin Barnett",
+  "program_id": 12,
+  "program": "Cleveland Clinic Foundation Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2018-2019",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "Doximity Austin Andrew Barnett: CWRU MD Class of 2017, Cleveland Clinic address (9500 Euclid), Cleveland OH; matches entry 2018 after MD 2017",
+   "outcome_detail": "Doximity lists him only as 'Resident Physician', Cleveland; Education shows CWRU MD 2017 and NO residency entry and no neurosurgery specialty. Publications are stroke/neurogenesis basic science. No source found naming his destination specialty/program. Not confirmed as neurosurgery completer; consistent with DB leaving neurosurgery but destination unverified.",
+   "current": "resident physician (specialty not stated), Cleveland Clinic address per Doximity",
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/austin-barnett-md",
+     "type": "doximity",
+     "evidence": "Resident Physician - Cleveland, OH; Case Western Reserve University School of Medicine Class of 2017 (no residency listed)"
+    },
+    {
+     "url": "https://www.linkedin.com/in/austin-barnett-70326a105/",
+     "type": "search_snippet",
+     "evidence": "Austin Barnett - MD graduate seeking to improve ..."
+    }
+   ]
+  }
+ },
+ {
+  "key": "14:mar:mizrachi",
+  "name": "Mark Mizrachi",
+  "program_id": 14,
+  "program": "Clinical Center at the National Institutes of Health Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> TRANSFERRED",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "Georgetown/WHC X post welcoming incoming intern Mark Mizrachi (Match 2025); Hofstra/Northwell MD/PhD class 2025 (Doximity); NIH slot is the Georgetown-affiliated position",
+   "outcome_detail": "Not on MedStar current residents page (checked 2026-09). No public source found for Loma Linda or any other destination; a search for Mizrachi + Loma Linda neurosurgery returned only generic program pages. Doximity lists only Hofstra MD 2025 (no residency).",
+   "current": "unknown",
+   "sources": [
+    {
+     "url": "https://x.com/MGUHNeurosurg/status/1903117473257226691",
+     "type": "search_snippet",
+     "evidence": "We have the absolute pleasure to announce our three amazing new incoming interns! Georgia Wong, Alex Waldman, and Mark Mizrachi"
+    },
+    {
+     "url": "https://www.medstarhealth.org/education/residency-programs/neurosurgery/current-residents",
+     "type": "program_page",
+     "evidence": "Mizrachi not listed among current residents (fetch summary)"
+    },
+    {
+     "url": "https://www.doximity.com/pub/mark-mizrachi-md",
+     "type": "doximity",
+     "evidence": "Donald and Barbara Zucker School of Medicine at Hofstra/Northwell Class of 2025"
+    }
+   ]
+  }
+ },
+ {
+  "key": "17:lay:nachar",
+  "name": "Layla Nachar",
+  "program_id": 17,
+  "program": "Corewell Health/William Beaumont University (Dearborn/Royal Oak) Progr",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2021-2022",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "confirmed",
+   "identity_basis": "Doximity Layla Nachar MD: LSU New Orleans 2020, MI license 2020-2021, Neurosurgery/Resident Physician; NPI 1164044871 formerly Royal Oak MI",
+   "outcome_detail": "Left Beaumont after PGY2 (2021-22) and now appears at Ochsner, New Orleans (1514/1516 Jefferson Hwy) as a resident/trainee. Doximity/Healthgrades still label her specialty Neurosurgery (labels may be inherited from NPI). Not on Tulane neurosurgery resident roster (Tulane/Ochsner is the local neurosurgery program) and no Ochsner resident page found, so switch of specialty is NOT confirmed",
+   "current": "Trainee/physician at Ochsner, New Orleans LA (specialty unconfirmed)",
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/layla-nachar-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery, New Orleans LA, Resident Physician; 1514 Jefferson Hwy; LSU New Orleans Class of 2020; MI State Medical License 2020-2021"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-layla-nachar-buz1enc454",
+     "type": "search_snippet",
+     "evidence": "Neurosurgery; affiliated with Ochsner Medical Center; 1516 Jefferson Hwy New Orleans"
+    },
+    {
+     "url": "https://medicine.tulane.edu/medical-resident/neurosurgery",
+     "type": "program_page",
+     "evidence": "Tulane neurosurgery resident list: Nachar not listed"
+    }
+   ]
+  }
+ },
+ {
+  "key": "26:dor:mambelli",
+  "name": "Dorian Mambelli",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "Doximity: MD Drexel 2019, HM residency (no dates), 'Resident Physician'; HM affiliated publications 2026",
+   "outcome_detail": "No public source independently confirms completion in 2026; profiles still call him a resident (may be stale). HM alumni list (per DB) says 2026.",
+   "current": "listed as neurosurgery resident, Houston Methodist (Doximity/WebMD)",
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/dorian-mambelli-md",
+     "type": "doximity",
+     "evidence": "Resident Physician; Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery (no dates)"
+    }
+   ]
+  }
+ },
+ {
+  "key": "26:dom:chau",
+  "name": "Dominic Chau",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "not_found",
+   "identity_basis": "No profile found tying Dominic Chau to Houston Methodist neurosurgery; only a UTRGV medical student (grad 2026) spotlight page surfaced, plausible but unconfirmed.",
+   "outcome_detail": "Could not verify; PGY-1 in 2026-27 so no public profile expected. Program's public page names no residents.",
+   "current": null,
+   "sources": [
+    {
+     "url": "https://www.utrgv.edu/school-of-medicine/medical-student-spotlights/profile-pages/dominic-chau.htm",
+     "type": "search_snippet",
+     "evidence": "Dominic Chau - Medical Student Spotlight (UTRGV, unconfirmed as same person)"
+    }
+   ]
+  }
+ },
+ {
+  "key": "26:mig:jimenez",
+  "name": "Miguel Jimenez",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "not_found",
+   "identity_basis": "Common name; no neurosurgery-specific Miguel Jimenez profile found; Doximity shows only orthopaedic/family/IM namesakes.",
+   "outcome_detail": "Could not verify; PGY-1 in 2026-27.",
+   "current": null,
+   "sources": []
+  }
+ },
+ {
+  "key": "30:rya:planchard",
+  "name": "Ryan Planchard",
+  "program_id": 30,
+  "program": "Johns Hopkins University Program",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "last_seen": "2022-2023",
+  "last_pgy": 6,
+  "recorded_outcome": "LEFT -> LEFT MEDICINE/OTHER",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "confirmed",
+   "identity_basis": "Doximity lists Rylie/Ryan Francis Planchard, Mayo MD 2017, Hopkins neurosurgery residency 2017-2022; Hopkins roster PGY-6",
+   "outcome_detail": "Sources say residency 2017-2022, ~PGY-5/6 by Hopkins roster; no ABNS, no faculty/practice bio as neurosurgeon; matches DB view that he left before completing. Current role not established from sources reviewed.",
+   "current": "not established (no neurosurgery practice or ABNS found)",
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/rylie-planchard-md",
+     "type": "doximity",
+     "evidence": "Residency, Neurological Surgery, 2017 - 2022; no ABNS certification listed; no practice address"
+    },
+    {
+     "url": "https://www.doximity.com/pub/ryan-planchard-md",
+     "type": "search_snippet",
+     "evidence": "completed his residency in Neurological Surgery at Johns Hopkins University from 2017 to 2022 (search snippet)"
+    }
+   ]
+  }
+ },
+ {
+  "key": "31:ras:ahmed",
+  "name": "Rasha Elbadry Ahmed",
+  "program_id": 31,
+  "program": "Loma Linda University Health Education Consortium Program",
+  "entry_year": 2019,
+  "first_seen": "2024-2025",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "LinkedIn/WebMD/PubMed list Rasha Elbadry Ahmed as Loma Linda neurosurgery resident; LL papers 2025 list 'Rasha Elbadry'; Doximity profile (Providence RI, incomplete) lists CA license 2024-2028",
+   "outcome_detail": "Not on LL current residents page for 2026-27; likely finished 2026 but no source states completion or graduation; Doximity now shows Providence RI (593 Eddy St) with no residency data",
+   "current": "possibly Providence RI (Doximity address), specialty unstated",
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/rasha-elbadry-34a020185/",
+     "type": "search_snippet",
+     "evidence": "Rasha Elbadry - Neurosurgery Resident at Loma Linda ..."
+    },
+    {
+     "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+     "type": "program_page",
+     "evidence": "LL current residents page (PGY-7: Hamade, Gospodarev) does not list Ahmed"
+    },
+    {
+     "url": "https://www.doximity.com/pub/rasha-elbadry-ahmed-md",
+     "type": "doximity",
+     "evidence": "Rasha Elbadry Ahmed MD, Other MD/DO, Providence RI; Loma Linda University School of Medicine Class of 2028 (unreliable); CA license 2024-2028"
+    }
+   ]
+  }
+ },
+ {
+  "key": "32:nim:adeeb",
+  "name": "Nimer Adeeb",
+  "program_id": 32,
+  "program": "Louisiana State University (Shreveport) Program",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "last_seen": "2023-2024",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "ResearchGate/LSU: Nimer Adeeb (Abushehab) neurosurgeon LSUHSC Shreveport; PGY-4 at LSU in a procedure report; name distinctive; coauthored 2024 LSU paper with Burkhardt/Terrell",
+   "outcome_detail": "Confirmed as LSU neurosurgery resident; graduation/fellowship not found in sources reached. No Doximity profile found. DB last-seen PGY7 2023-24 suggests completion, unverified.",
+   "current": "unknown (LSU neurosurgery affiliation on ResearchGate)",
+   "sources": [
+    {
+     "url": "https://www.researchgate.net/profile/Nimer-Adeeb",
+     "type": "search_snippet",
+     "evidence": "Neurosurgeon, Louisiana State University Health Sciences Center Shreveport, Department of Neurosurgery"
+    }
+   ]
+  }
+ },
+ {
+  "key": "36:amy:wang",
+  "name": "Amy Wang",
+  "program_id": 36,
+  "program": "Mass General Brigham",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "MGH CNTR page: Amy Wang MD, neurosurgery resident at MGH and Ziv Lab research fellow; Vitals: Amy Julia Wang, neurological surgery, MD 2019, 55 Fruit St Boston (matches 2019 entry)",
+   "outcome_detail": "No source states completion or departure. Sources show only that she was an MGH neurosurgery resident. Doximity search returned only unrelated Amy Wang family medicine/pharmacy/CRNA profiles (no neurosurgery profile).",
+   "current": "Unknown",
+   "sources": [
+    {
+     "url": "https://www.cntr.mgh.harvard.edu/our-team/amy-wang,-md",
+     "type": "bio",
+     "evidence": "neurosurgery resident interested in social neuroscience, art and disco; Research Fellow MGH Ziv Lab"
+    },
+    {
+     "url": "https://www.vitals.com/doctors/Amy_Julia_Wang.html",
+     "type": "search_snippet",
+     "evidence": "Dr. Amy Julia Wang - Boston, MA - Neurological Surgery"
+    }
+   ]
+  }
+ },
+ {
+  "key": "41:ann:sprau",
+  "name": "Annelise Sprau",
+  "program_id": 41,
+  "program": "McGaw Medical Center of Northwestern University Program \u00a9 2026 Accredi",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2025-2026",
+  "last_pgy": 5,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "phase3_finding": {
+   "identity": "probable",
+   "identity_basis": "Miami Miller MD 2021, IL license 2021, Northwestern Memorial affiliation, NPI Neurological Surgery (Healthgrades, Doximity); no source states her residency program",
+   "outcome_detail": "NOT on the Northwestern 2026-27 current-resident list (which shows PGY7 Du/Mossner/Texakalidis, PGY6 Medina/Selner only, and no one else from the 2021 class), while DB last saw her 2025-26 (PGY5). She would be PGY6 in 2026-27 and cannot have graduated (finish about 2028), so she appears to have left the program after 2025-26; destination unknown. No page found naming a later program",
+   "current": "unknown (directory sites still list her as Northwestern Memorial neurosurgeon; Doximity address 420 E Superior St, Chicago)",
+   "sources": [
+    {
+     "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+     "type": "program_page",
+     "evidence": "Roster lists Du, Mossner, Texakalidis (PGY7), Medina, Selner (PGY6), ... no Sprau"
+    },
+    {
+     "url": "https://www.doximity.com/pub/annelise-sprau-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Chicago, 420 East Superior Street; University of Miami Miller School of Medicine Class of 2021; IL license 2021-2027; no residency line"
+    }
+   ]
+  }
+ }
+]

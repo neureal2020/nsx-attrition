@@ -1,0 +1,248 @@
+[
+ {
+  "key": "2:kev:sexton",
+  "name": "Kevin Sexton",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": "",
+  "evidence": "Roster sweep found no program page naming him. Checked Emory DR residents 2026-27 and Emory radiology fellows 2026-27 (no Sexton), MCG/Augusta DR graduates through Class of 2026 (no Sexton), UF DR Class of 2026 (no Sexton), Geisinger DR residents/alumni (no Sexton). UPMC DR resident page (403/access denied) and SUNY Upstate DR residents page (Cloudflare bot wall, not bypassed) could not be read. Lead remains NPPES DR taxonomy + GA license at Marietta (Quantum Radiology/Wellstar) - unconfirmed.",
+  "sources": [],
+  "rosters_checked": [
+   "https://med.emory.edu/departments/radiology/education/our-residents.html",
+   "https://med.emory.edu/departments/radiology/education/fellowships/our-fellows.html",
+   "https://www.augusta.edu/mcg/radiology/residency/graduates.php",
+   "https://xray.ufl.edu/2026/06/05/class-of-2026-congratulations-to-our-graduating-radiology-residents/",
+   "https://www.geisinger.edu/gchs/education/residencies-fellowships/residencies/radiology-residency/residents-alumni",
+   "https://www.rad.pitt.edu/meet-our-residents.html (access denied)",
+   "https://www.upstate.edu/radiology/education/residency/residents.php (bot wall)"
+  ],
+  "queries_tried": [
+   "\"Sexton\" diagnostic radiology resident Pittsburgh UPMC OR Allegheny OR Emory OR Wellstar",
+   "\"Kevin Sexton\" Upstate OR Syracuse radiology residency",
+   "\"Dr. Kevin Sexton\" radiologist OR \"radiology\" 2026",
+   "radiology residency \"Sexton\" graduating residents 2026 fellowship",
+   "\"Kevin Sexton, MD\" radiology resident OR fellow Georgia OR Pennsylvania OR \"New York\"",
+   "site:med.emory.edu Sexton radiology fellow OR resident"
+  ]
+ },
+ {
+  "key": "4:mic:chua",
+  "name": "Michelle Chua",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": "",
+  "evidence": "No program page, announcement or current bio names her. Checked MGB (MGH/BWH) neurology and BIDMC neurology current residents (no Chua); site searches of barrowneuro.org/dignityhealth.org (no Chua); Phoenix radiology/neurology/anesthesiology residency search (Mayo AZ, Banner/UA-Phoenix, Creighton) returned no Chua; Lahey DR residents page 404. Only hits remain directories (MediFind/Vitals: neurosurgeon at 350 W Thomas Rd, derived from stale 2017 residency NPI). Given she left ~2019, any second residency would likely be completed by now, so current rosters are low-yield.",
+  "sources": [],
+  "rosters_checked": [
+   "https://www.mghbwhneurology.org/ourteam/current-residents",
+   "https://bidmcneurology.org/about-us/current-residents/",
+   "https://lahey.org/research-education/education/residencies/diagnostic-radiology/residents (404)"
+  ],
+  "queries_tried": [
+   "\"Michelle Chua\" radiologist OR neuroradiology OR \"radiology resident\"",
+   "Lahey diagnostic radiology residency residents alumni Chua",
+   "site:barrowneuro.org OR site:dignityhealth.org \"Chua\" resident OR physician",
+   "\"Michelle Chua\" MD Massachusetts General Brigham OR \"Beth Israel\" OR Brigham resident",
+   "\"Chua\" resident Phoenix Mayo Clinic Arizona OR \"Banner University\" OR \"St. Joseph's\" radiology OR neurology OR anesthesiology",
+   "\"Michelle H. Chua\" OR \"Chua, Michelle H\" MD",
+   "\"Michelle Chua\" neurosurgery OR neurosurgeon 2024 OR 2025 fellowship OR alumni -Barrow"
+  ]
+ },
+ {
+  "key": "5:mil:douglas",
+  "name": "Miller Douglas",
+  "outcome": "switched_specialty",
+  "destination": "Internal Medicine residency, Emory University (completed); now Addiction Medicine fellow, Brigham and Women's Hospital (2026-27)",
+  "year_started_destination": "2023 (Emory IM; inferred from 2026 fellowship match) / 2026 (BWH fellowship)",
+  "evidence": "Identity link: Baylor NSGY roster (Wayback 2022-11-30) lists PGY-1 'Miller Douglas, M.D., Medical School: Emory University'. Emory Dept of Medicine fellowship match page lists 'J. Miller Douglas, Brigham and Women's Hospital' under Addiction Medicine in the 2026 Fellowship Match Results for Emory IM residents. BWH HMS Psychiatry Addiction Medicine Fellowship page (opened 2026-09-29) lists 'J. Miller Douglas, MD - Internal Medicine Residency at Emory University School of Medicine; Emory University School of Medicine' in the current fellow-format entries (alongside Aaron Schumacher; 2025-26 fellows listed separately). Same name + same med school + consistent timeline (Baylor NSGY 2022-23 -> Emory IM ~2023-2026 -> BWH fellowship 2026). The earlier 'timeline conflict' rested on an unverified snippet ('PGY3 2024-25', PDF 404) and is superseded. IM start year not stated on a page; inferred.",
+  "sources": [
+   "https://web.archive.org/web/20221130131845/https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+   "https://med.emory.edu/departments/medicine/education/fellowship-programs/fellowship-match-results.html",
+   "https://www.bwhhmspsychiatry.org/addiction-medicine"
+  ],
+  "rosters_checked": [
+   "https://web.archive.org/web/20221130131845/https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+   "https://med.emory.edu/departments/medicine/education/fellowship-programs/fellowship-match-results.html",
+   "https://www.bwhhmspsychiatry.org/addiction-medicine"
+  ],
+  "queries_tried": [
+   "\"Miller Douglas\" MD resident",
+   "\"Miller Douglas\" neurosurgery OR \"neurological surgery\" Baylor OR match 2022",
+   "\"Miller Douglas\" Emory internal medicine OR addiction medicine OR Brigham"
+  ]
+ },
+ {
+  "key": "12:cha:nelson",
+  "name": "Charlie Nelson",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": "",
+  "evidence": "Cleveland sweep found no roster naming him: CCF adult neurology (no Nelson), CCF PM&R 2026-27 (no Nelson), CCF adult psychiatry 2026-27 (no Nelson); site searches of uhhospitals.org/metrohealth.org/summahealth.org and CCF (incl. Akron General) found no Charlie/Charles Nelson resident; MetroHealth incoming-residents page has no names. Doximity (lead only) still 'Resident Physician, Cleveland', 9500 Euclid Ave, Ohio license 2024-2028; ResearchGate 403. No destination found.",
+  "sources": [],
+  "rosters_checked": [
+   "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/adult-neurology",
+   "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/physical-medicine-rehabilitation",
+   "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/adult-psychiatry",
+   "https://gme.metrohealth.org/en/about-gme/incoming-residents-fellows/"
+  ],
+  "queries_tried": [
+   "\"Charlie Nelson\" OR \"Charles Nelson\" resident physician \"NEOMED\" OR \"Northeast Ohio Medical University\"",
+   "site:my.clevelandclinic.org residents \"Nelson\" \"Northeast Ohio Medical University\"",
+   "Cleveland Clinic \"Nelson\" resident 2026 radiology OR neurology OR anesthesiology OR \"physical medicine\" OR psychiatry Charlie",
+   "\"Charlie N. Nelson\" OR \"Nelson, Charlie\" neurosurgery OR medicine 2025 OR 2026",
+   "site:uhhospitals.org OR site:metrohealth.org OR site:summahealth.org \"Charlie Nelson\" OR \"Charles Nelson\" resident"
+  ]
+ },
+ {
+  "key": "12:col:lamb",
+  "name": "Colin Lamb",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": "",
+  "evidence": "Identity: Doximity (lead) Colin Lamb, MD, Icahn School of Medicine at Mount Sinai Class of 2024, 'Other MD/DO', address 1 Gustave L. Levy Pl, New York (Mount Sinai). LinkedIn 'MD Candidate 2024' (HTTP 999). Swept: Mount Sinai neurology residency brochure 2025-26 (no Lamb); MetroHealth incoming residents page (no names); name searches with Mount Sinai/Cleveland Clinic and multiple specialties found only an unrelated Maine psychiatrist (GWU 2010). No roster, match post or bio names him in a new program.",
+  "sources": [
+   "https://www.doximity.com/pub/colin-lamb-md-febe2f33"
+  ],
+  "rosters_checked": [
+   "https://icahn.mssm.edu/files/ISMMS/Assets/Departments/Neurology/IcahnNeurologyResidencyBrochure.pdf",
+   "https://gme.metrohealth.org/en/about-gme/incoming-residents-fellows/",
+   "https://physicians.northwell.edu/sites/northwell.edu/files/2025-09/pgy-2-internal-medicine-residents.pdf (404)"
+  ],
+  "queries_tried": [
+   "\"Colin Lamb\" MD resident",
+   "\"Colin Lamb\" \"Mount Sinai\" OR \"Cleveland Clinic\" resident OR residency OR PGY",
+   "\"Colin Lamb\" neurosurgery OR neurology OR radiology OR anesthesiology OR psychiatry Icahn 2024",
+   "\"Colin Lamb\" 2025 OR 2026 intern OR \"PGY-2\" OR \"resident physician\" -psychiatrist",
+   "FETCH doximity colin-lamb-md-febe2f33",
+   "FETCH linkedin colin-lamb-007 (999)"
+  ]
+ },
+ {
+  "key": "12:aus:barnett",
+  "name": "Austin Barnett",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": "",
+  "evidence": "No residency roster, announcement or current bio names Austin Andrew Barnett (CWRU MD 2017) after CCF NSGY PGY-1 2018-19. Checked Cleveland Clinic Innovations team page and Cleveland Clinic Laboratories staff directory (Sept 2025) - not listed; MetroHealth incoming residents page has no names. Only hits: stale Doximity 'Resident Physician, Cleveland' and unopenable LinkedIn ('MD graduate seeking to improve...'), consistent with leaving clinical training but unverifiable; a 2021 Lerner Research Institute paper is the last dated activity. Not upgraded to left_medicine without a dated source.",
+  "sources": [
+   "https://pubmed.ncbi.nlm.nih.gov/34700192/"
+  ],
+  "rosters_checked": [
+   "https://my.clevelandclinic.org/innovations/about/our-team",
+   "https://clevelandcliniclabs.com/wp-content/uploads/2025/09/Staff-Directory-September-2025-Cleveland-Clinic-Laboratories-2.pdf",
+   "https://gme.metrohealth.org/en/about-gme/incoming-residents-fellows/"
+  ],
+  "queries_tried": [
+   "\"Austin Barnett\" Cleveland OR Ohio physician OR scientist OR \"medical director\" OR startup",
+   "\"Austin A. Barnett\" OR \"Barnett AA\" OR \"Austin Barnett, MD\""
+  ]
+ },
+ {
+  "key": "15:mic:bamimore",
+  "name": "Michael Bamimore",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": "",
+  "evidence": "Swept all main Cooper (Camden) current trainee pages: diagnostic radiology, integrated IR, neurology, anesthesiology, general surgery, emergency medicine, orthopaedics, psychiatry, internal medicine - no Bamimore. Search across Philadelphia/NJ NSGY programs (Jefferson, Temple, Penn, Einstein, Rutgers, Tower Health) found no roster naming him. The Dec 2025 Cureus paper in Tower Health's Reading neurosurgery repository has a Tower Health NSGY co-author, but no Bamimore affiliation stated there. Doximity still shows Cooper NSGY 2022-2029 (stale lead). Possible unlisted research year cannot be confirmed; no destination found.",
+  "sources": [],
+  "rosters_checked": [
+   "https://www.cooperhealth.edu/graduate-medical-education/residencies/diagnostic-radiology/trainees",
+   "https://www.cooperhealth.edu/graduate-medical-education/residencies/integrated-interventional-radiology/trainees",
+   "https://www.cooperhealth.edu/graduate-medical-education/residencies/neurology/trainees",
+   "https://www.cooperhealth.edu/graduate-medical-education/residencies/anesthesiology/trainees",
+   "https://www.cooperhealth.edu/graduate-medical-education/residencies/general-surgery/trainees",
+   "https://www.cooperhealth.edu/graduate-medical-education/residencies/emergency-medicine/trainees",
+   "https://www.cooperhealth.edu/graduate-medical-education/residencies/orthopaedic-surgery/trainees",
+   "https://www.cooperhealth.edu/graduate-medical-education/residencies/psychiatry/trainees",
+   "https://www.cooperhealth.edu/graduate-medical-education/residencies/internal-medicine/trainees"
+  ],
+  "queries_tried": [
+   "\"Bamimore\" resident OR residency 2026 Philadelphia OR Camden OR \"New Jersey\"",
+   "\"Bamimore\" Jefferson OR Temple OR Penn OR Einstein OR Rutgers OR \"Tower Health\" neurosurgery"
+  ]
+ },
+ {
+  "key": "16:nin:shank",
+  "name": "Nina Shank",
+  "outcome": "left_destination_unknown",
+  "destination": "Lead only: Carilion Clinic-VTC neurosurgery, Roanoke VA (Doximity address) - unconfirmed",
+  "year_started_destination": "",
+  "evidence": "Carilion NSGY residents page re-opened 2026-09-29: still labelled Academic Year 2025-2026 (Hoggarth, Sloboda, Ravina, Courville, Bhutada, Jallow, Haymov, Mathew) - no Shank; 2026-27 roster not posted. Carilion neurology current residents: no Shank. Searches for Shank + Carilion/Roanoke and 2026 plastics/neurosurgery return only directories (WebMD/Vitals, stale Dartmouth/Grand Rapids addresses). Transfer to Carilion NSGY remains plausible (Doximity Roanoke neurosurgery address) but no program page, announcement or bio confirms it. Recommend re-checking Carilion residents page once 2026-27 roster is posted.",
+  "sources": [
+   "https://www.doximity.com/pub/nina-shank-md"
+  ],
+  "rosters_checked": [
+   "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+   "https://gme.carilionclinic.org/neurology-residency/current-residents-0"
+  ],
+  "queries_tried": [
+   "\"Shank\" Carilion Clinic neurosurgery 2026 OR \"Dr. Shank\" Roanoke",
+   "\"Nina Shank\" OR \"Shank, Nina\" 2026 plastic surgery OR neurosurgery OR resident OR fellow",
+   "Carilion Clinic neurosurgery residency 2026-2027 residents Haymov Mathew Jallow"
+  ]
+ },
+ {
+  "key": "18:ste:ihezie",
+  "name": "Stephanie Ihezie",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": "",
+  "evidence": "Left Dartmouth NSGY around mid-2026 (still Dartmouth-affiliated on Apr 2026 paper). Checked UTHealth Houston NSGY current residents (page current 2026; PGY-7 Chandra, Sheinberg) - no Ihezie; BWH Izzy Lab team - not listed; site search of UVM/Brown/Yale/MaineHealth found only an unrelated 'Ihezie C'. 2026-27 fellowship searches found nothing. No destination found. Note Dartmouth lists only one PGY-7 (Stewart); an unlisted off-site/enfolded year cannot be excluded but has no dated source.",
+  "sources": [],
+  "rosters_checked": [
+   "https://med.uth.edu/neurosurgery/education/residency/current-residents/",
+   "https://izzylab.bwh.harvard.edu/our-team/"
+  ],
+  "queries_tried": [
+   "\"Ihezie\" fellow OR fellowship OR resident 2026-2027",
+   "\"Stephanie Ihezie\" OR \"Dr. Ihezie\" neurosurgery Boston OR Vermont OR Houston OR Yale OR \"enfolded\"",
+   "UTHealth Houston Vivian L. Smith neurosurgery residency current residents",
+   "\"Ihezie\" site:uvm.edu OR site:uvmhealth.org OR site:brown.edu OR site:brownhealth.org OR site:yale.edu OR site:mainehealth.org"
+  ]
+ },
+ {
+  "key": "22:kri:terrani",
+  "name": "Kristina Terrani",
+  "outcome": "left_destination_unknown",
+  "destination": "",
+  "year_started_destination": "",
+  "evidence": "DC sweep: GW internal medicine residents (no Terrani), GW general surgery residents incl. research residents (2026 images; no Terrani); site search across gwu.edu/medstarhealth.org/georgetown.edu/howard.edu/inova.org found no Terrani. Neighbouring NSGY: MedStar Georgetown current residents (PGY-2 Waldman, Wong; no Terrani), Inova NSGY residents (no Terrani; page appears stale). Arizona site search (arizona.edu, Banner, HonorHealth, Mayo, Valleywise) returned only her UArizona 2024 MD/student records. No destination found.",
+  "sources": [],
+  "rosters_checked": [
+   "https://medicineresidency.smhs.gwu.edu/our-residents",
+   "https://surgery.smhs.gwu.edu/general-surgery-residency-program/general-surgery-residents",
+   "https://www.medstarhealth.org/education/residency-programs/neurosurgery/current-residents",
+   "https://www.inova.org/education/gme/neurosurgical-residency-program/residents"
+  ],
+  "queries_tried": [
+   "\"Terrani\" resident site:gwu.edu OR site:medstarhealth.org OR site:georgetown.edu OR site:howard.edu OR site:inova.org",
+   "George Washington University general surgery residency \"our residents\" OR \"current residents\" smhs",
+   "\"Terrani\" site:arizona.edu OR site:bannerhealth.com OR site:honorhealth.com OR site:mayo.edu OR site:valleywisehealth.org",
+   "\"Terrani\" neurosurgery resident Georgetown OR MedStar OR Maryland OR Hopkins OR VCU OR UVA OR Inova"
+  ]
+ },
+ {
+  "key": "25:gre:koller",
+  "name": "Gretchen Koller",
+  "outcome": "left_destination_unknown",
+  "destination": "Lead only: Henry Ford Hospital, Detroit (possibly anesthesiology) - unconfirmed",
+  "year_started_destination": "",
+  "evidence": "Henry Ford Health Publication Lists April and May 2026 (sladenopac.hfhs.org) index the ACC.26 abstract (Rabbani Z, Gelovani D, Allouch H, Koller G, Dionisio O, Pekar A, Mitchell J; JACC 2026;87(13):A1247) under 'Anesthesiology' and 'Cardiology', with all authors affiliated 'Henry Ford Hosp, Detroit, MI USA'. This supports her being at Henry Ford Hospital in 2025-26 but does not state a program/role. HFH anesthesiology 'Meet the Residents' page (Chrome) renders only a 'Class of 2026' heading with no names; the only named roster is the July 2024 composite (2024-25; predates her likely start) - no Koller. HFH psychiatry achievements 2025-26 and HF Oct 2025 publication list: no Koller. No roster, announcement or bio confirms a program.",
+  "sources": [
+   "https://sladenopac.hfhs.org/pub/May%202026%20Henry%20Ford%20Health%20Publication%20List.pdf",
+   "https://sladenopac.hfhs.org/pub/April%202026%20Henry%20Ford%20Health%20Publication%20List.pdf"
+  ],
+  "rosters_checked": [
+   "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/anesthesiology/residents (JS, no names)",
+   "https://www.henryford.com/-/media/files/henry-ford/hcp/med-ed/residencies-hfh/july-2024-composite-for-website.pdf (2024-25, no Koller)",
+   "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/psychiatry/program-achievements"
+  ],
+  "queries_tried": [
+   "\"Koller\" anesthesiology resident Detroit OR Michigan 2026 Gretchen DO",
+   "\"Gretchen Koller\" Henry Ford OR Detroit OR \"Wayne State\" OR Corewell 2025 OR 2026",
+   "Henry Ford Hospital anesthesiology residents \"Dionisio\" OR \"Gelovani\" OR \"Pekar\"",
+   "site:henryford.com \"Koller\" residents OR \"Class of 2028\" OR \"Class of 2029\"",
+   "FETCH HF publication lists Oct 2025, Apr-Aug 2026 (Koller only in Apr/May 2026 ACC abstract)"
+  ]
+ }
+]

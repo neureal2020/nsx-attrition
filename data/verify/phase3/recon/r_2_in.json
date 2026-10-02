@@ -1,0 +1,84 @@
+[
+ {
+  "key": "120:rid:guniganti",
+  "name": "Ridhima Guniganti",
+  "program": "Washington University/B-JH/SLCH Consortium Program",
+  "first_seen": "2018-2019",
+  "last_seen": "2020-2021",
+  "current_outcome": "switched_specialty",
+  "question": "WashU NS 2018-21 roster, recorded switched to ophthalmology (unconfirmed); Doximity still says neurosurgery; not on WashU alumni. Find current role: ophthalmology resident/bio, or other.",
+  "prior_notes": [],
+  "gold_evidence": "No bio found in 3 searches. Doximity (Chrome): 'Ridhima Rao Guniganti MD, Neurosurgery, St. Louis MO' (1 Barnes Jewish Hospital Plz); WashU Medicine Class of 2018; MO license 2018-2021, KY license 2025-2027; no residency or board certification listed; 2025 Can J Ophthalmol paper. WashU neurosurgery ",
+  "gold_url": "https://www.doximity.com/pub/ridhima-guniganti-md"
+ },
+ {
+  "key": "75:har:birk",
+  "name": "Harjus Birk",
+  "program": "University of California (San Diego) Medical Center Program",
+  "first_seen": "2017-2018",
+  "last_seen": "2019-2020",
+  "current_outcome": "transferred",
+  "question": "Recorded transferred out of program 75 after 2019-20. NPI (2026-08) primary taxonomy Neurology at UC Davis. Where did he go, and did he complete NS residency by June 2025 or switch to neurology?",
+  "prior_notes": [],
+  "gold_evidence": "NPI 1275064396, Dr. Harjus Singh Birk, M.D.; Taxonomy: Psychiatry & Neurology, Neurology (Primary); Practice Location: 4301 X ST, Sacramento, CA; last updated 2026-08-24. Doximity (opened in Chrome): 'Neurosurgery - Sacramento, CA'; UCSD Residency, Neurological Surgery, 2017 - 2019; certifications s",
+  "gold_url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Harjus&last_name=Birk"
+ },
+ {
+  "key": "63:geo:koutsouras",
+  "name": "George Koutsouras",
+  "program": "SUNY Upstate Medical University Program",
+  "first_seen": "2018-2019",
+  "last_seen": "2024-2025",
+  "current_outcome": "completed",
+  "question": "Recorded completed (last on roster 2024-25) but AANS 2024 page lists him PGY-4. Was he still a resident on 1 July 2025 (in training at cutoff) or did he graduate by June 2025?",
+  "prior_notes": [],
+  "gold_evidence": "X profile (snippet): 'Pediatric Neurosurgical Fellow at Vanderbilt, future Endovascular Fellow at PennNSGY'. Doximity (opened): still 'Resident Physician', Upstate Neurosurgery address; PA license 2025-2028, NJ 2026-2027",
+  "gold_url": "https://x.com/gkouts8"
+ },
+ {
+  "key": "116:eri:nturibi",
+  "name": "Eric Nturibi",
+  "program": "UPMC Medical Education Program",
+  "first_seen": "2022-2023",
+  "last_seen": "2023-2024",
+  "current_outcome": "possible_research_year",
+  "question": "Pitt NS, rosters 2022-23 to 2023-24 only. Was he on a research/flex year (still a Pitt resident) in 2024-25, or did he leave by June 2025? Need a dated source.",
+  "prior_notes": [
+   "[unk2] disagreement: recorded LEFT unproven; possible research year omitted from roster",
+   "[dest] evidence: NOT proven left. Pitt profile URL (neurosurgery.pitt.edu/people/eric-nturibi) now redirects to the generic people directory; full people directory (revised 09/29/26) contains no Nturibi (nor Yoon or Garcia). Of the 2022 match class (Garcia,",
+   "[city] evidence: No destination found, and leaving is NOT proven. The Pitt residents page (2026-27) omits him along with most of his cohort: PGY-5 lists only Shuman and PGY-6 only Faramand. The Pitt rotations page describes PGY-5 as a 'Research/Flexible Yea",
+   "[coordinator] Pitt PGY-5 is a research/flex year; 2026-27 roster lists one PGY-5 (y_5). Unresolved."
+  ],
+  "gold_evidence": null,
+  "gold_url": null
+ },
+ {
+  "key": "116:jam:yoon",
+  "name": "James Yoon",
+  "program": "UPMC Medical Education Program",
+  "first_seen": "2022-2023",
+  "last_seen": "2023-2024",
+  "current_outcome": "possible_research_year",
+  "question": "Same as Nturibi (Pitt cohort 2022). Research year in 2024-25, or left by June 2025?",
+  "prior_notes": [
+   "[unk2] disagreement: recorded LEFT unproven; possible research year omitted",
+   "[dest] evidence: NOT proven left. Absent from Pitt residents page and full people directory (revised 09/29/26); pre.neurosurgery.pitt.edu profile host no longer resolves. Same class pattern as Nturibi/Garcia (only Shuman of the 2022 class listed) suggests p",
+   "[city] evidence: No destination found, and leaving is NOT proven. He fits the same cohort pattern as Nturibi: Pitt's rotations page makes PGY-5 a research/flexible year (21-month paths), and the 2026-27 roster lists only Shuman at PGY-5. His Doximity profil",
+   "[coordinator] Same Pitt cohort pattern as Nturibi (y_5). Unresolved."
+  ],
+  "gold_evidence": null,
+  "gold_url": null
+ },
+ {
+  "key": "UCDAVIS2024",
+  "name": null,
+  "program": null,
+  "first_seen": null,
+  "last_seen": null,
+  "current_outcome": null,
+  "question": "UC Davis MD 2024 public match list shows 3 rows matching UC Davis Neurological Surgery; our UC Davis roster has only 2 entrants in 2024-25 (Khadija Soufi, Sirjan Mor). Who was the third, and did that person start UC Davis NS in July 2024 and then leave by June 2025 (missed attrition) - or is the third row a prelim/other?",
+  "prior_notes": [],
+  "gold_evidence": null,
+  "gold_url": null
+ }
+]

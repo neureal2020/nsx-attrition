@@ -1,0 +1,23 @@
+import sys; sys.path.insert(0,'scratch/054')
+from add import add
+add({"key":"78:nas:mendoza-elias","identity":"confirmed","identity_basis":"ResearchGate lists Nasya Mendoza-Elias as Instructor, University of Chicago Medical Center Dept of Neurological Surgery; Instagram post 'Meet Nasya Mendoza-Elias, MD, MA! The Resident (PGY4)'; Healthgrades lists neurosurgery specialist at UChicago locations; DB PGY-6 2024-25",
+"residency_stated":[{"institution":"University of Chicago","specialty":"neurosurgery","start":2019}],
+"outcome":"unknown","outcome_detail":"No source states completion or departure. Healthgrades/Vitals list her as a neurosurgery specialist (Chicago; Burr Ridge IL office) and ResearchGate as UChicago Instructor, which is consistent with having finished or being on staff, but she is not on the UChicago clinical faculty page (2026), not on the active residents page, no ABNS listing seen. (An older ResearchGate profile shows 'Resident Fellow, Lahey Hospital, 2019', pre-residency.)",
+"year_left":None,"destination_program":None,"destination_start_year":None,
+"current":"neurosurgery specialist per Healthgrades, Chicago IL (unverified)","agrees_with_db":True,"disagreement":"",
+"checks":{"google":"found","doximity":"not_found"},"abns_certified":False,
+"sources":[{"url":"https://www.healthgrades.com/physician/dr-nasya-mendoza-elias-xypy5ct","type":"search_snippet","evidence":"Nasya Mendoza-Elias - Neurosurgery Specialist in Chicago, IL"},{"url":"https://www.researchgate.net/scientific-contributions/Nasya-Mendoza-Elias-2161469170","type":"search_snippet","evidence":"Instructor | Doctor of Medicine | The University of Chicago Medical Center, Chicago"},{"url":"https://neurosurgery.uchicago.edu/people/clinical-faculty","type":"program_page","evidence":"not listed among faculty (Horowitz, Herman, Naylor, Polster, Satzer ...)"}],"searches_used":4})
+add({"key":"78:mar:torres","identity":"confirmed","identity_basis":"UChicago neurosurgery resident Carmen Pons MD PhD (PGY3); WebMD lists Maria del Carmen Pons Torres neurological surgery Chicago, Universidad Miguel Hernandez 2013; NPI 'student' record; PhD SUNY College of Optometry",
+"residency_stated":[{"institution":"University of Chicago","specialty":"neurosurgery","start":2023}],
+"outcome":"switched_specialty","outcome_detail":"PROBABLE switch to ophthalmology: the LinkedIn profile carmen-pons-02ba7b44 (which Google also shows as 'Carmen Pons - UChicago Medicine') now carries the headline 'Carmen Pons - Ophthalmology Resident'. Program and year not stated; not on UChicago ophthalmology physicians page and not on 2026-27 UChicago neurosurgery list.",
+"year_left":2026,"destination_program":"ophthalmology residency (program unknown)","destination_start_year":2026,
+"current":"ophthalmology resident (per LinkedIn headline snippet)","agrees_with_db":True,"disagreement":"DB outcome unknown; found probable switch to ophthalmology",
+"checks":{"google":"found","doximity":"not_found"},"abns_certified":False,
+"sources":[{"url":"https://www.linkedin.com/in/carmen-pons-02ba7b44/","type":"search_snippet","evidence":"Carmen Pons - Ophthalmology Resident"},{"url":"https://doctor.webmd.com/doctor/maria-del-carmen-pons-torres-869de05f-53ca-4460-aa75-5204e9f78694-overview","type":"search_snippet","evidence":"Neurological Surgery specialist practicing in Chicago, IL ... Universidad Miguel Hernandez Facultad De Medicina in 2013"}],"searches_used":4})
+add({"key":"78:whi:griggs","identity":"confirmed","identity_basis":"LinkedIn/ZoomInfo/ResearchGate: Whitney Griggs neurosurgery resident UChicago, started June 2025; MD-PhD UCLA-Caltech MSTP; X post applying to neurosurgery Match 2025",
+"residency_stated":[{"institution":"University of Chicago","specialty":"neurosurgery","start":2025}],
+"outcome":"unknown","outcome_detail":"Started UChicago neurosurgery June 2025; absent from the 2026-27 residents page. No source states a departure or destination. Her personal site headline reads 'Neuroscientist - Arbor Neuroscience' (no dates; unclear whether current). Not treated as evidence of leaving.",
+"year_left":2026,"destination_program":None,"destination_start_year":None,
+"current":"unknown","agrees_with_db":True,"disagreement":"",
+"checks":{"google":"found","doximity":"not_found"},"abns_certified":False,
+"sources":[{"url":"https://www.linkedin.com/in/whitneysgriggs/","type":"search_snippet","evidence":"started his neurosurgery residency in June 2025"},{"url":"https://neurosurgery.uchicago.edu/education/meet-our-residents","type":"program_page","evidence":"Griggs not among active 2026-27 residents"}],"searches_used":4})

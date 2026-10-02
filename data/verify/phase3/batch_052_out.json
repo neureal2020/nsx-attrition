@@ -1,0 +1,1021 @@
+[
+ {
+  "key": "43:amo:ladouceur",
+  "name": "Amos Ladouceur",
+  "program_id": 43,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/WebMD: Columbia P&S MD 2006, residency Neurological Surgery at Medical College of Wisconsin Affiliated Hospitals (listed 2010-2014); distinctive name",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Wisconsin Affiliated Hospitals",
+    "specialty": "neurosurgery",
+    "start": 2010,
+    "end": 2014
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity lists MCW neurosurgery residency 2010-2014 but no ABNS certification; specialty listed General Surgery/family medicine; now urgent care/occupational medicine physician (Clinical Site Director, Reliant Urgent Care-LAX per search snippet). WI license 2012-2015, CA from 2016. Not practising neurosurgery; year left not stated (DB last seen 2011-12 PGY5).",
+  "year_left": 2012,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "urgent care / occupational medicine physician, Los Angeles CA",
+  "agrees_with_db": true,
+  "disagreement": "DB: outcome unknown (NPI hint other specialty); sources support did not complete/practice neurosurgery; destination is non-residency urgent care/family medicine practice",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/amos-ladouceur-md",
+    "type": "doximity",
+    "evidence": "Medical College of Wisconsin Affiliated Hospitals Residency, Neurological Surgery, 2010 - 2014; Cedars-Sinai Residency, Surgery, 2006-2007; General Surgery, Los Angeles; no board certification listed"
+   },
+   {
+    "url": "https://www.doximity.com/pub/amos-ladouceur-md",
+    "type": "search_snippet",
+    "evidence": "practiced in Los Angeles ... focus in urgent care and occupational medicine over the past 5 years, Clinical Site Director at Reliant Urgent Care-LAX"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "43:jos:jimenez",
+  "name": "Jose Sanchez Jimenez",
+  "program_id": 43,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Jose Gerardo Sanchez Jimenez, Milwaukee WI Neurosurgery: MCW Neurological Surgery 2021-2026, UPR School of Medicine 2019 (matches transfer from UPR)",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Wisconsin Affiliated Hospitals",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2026
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity lists MCW neurosurgery residency 2021-2026 (expected finish), Milwaukee WI address at MCW (8701 Watertown Plank Rd); WebMD lists him in Milwaukee. Not on current MCW resident roster page (checked mcw.edu residents page, classes 2027-2033 only) - MCW roster page lists no Class of 2026 so he may have graduated 2026 or the roster is stale. No evidence of leaving.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident / recent graduate, MCW Milwaukee",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT/did not complete; sources show continuing at MCW through 2026 (likely completed 2026 or in final year). A second Mayaguez PR Doximity profile exists (jose-sanchez-jimenez-md-c9d8d17e), possibly same person after graduation - not opened.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jose-sanchez-jimenez-md",
+    "type": "doximity",
+    "evidence": "Medical College of Wisconsin Affiliated Hospitals Residency, Neurological Surgery, 2021 - 2026; University of Puerto Rico School of Medicine Class of 2019"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/jose-sanchez-jimenez-3210153",
+    "type": "search_snippet",
+    "evidence": "Dr. Jose G. Sanchez Jimenez, MD | Mayaguez, PR | Neurosurgeon (search result title)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "44:lui:liogier-weyback",
+  "name": "Luis Liogier-Weyback",
+  "program_id": 44,
+  "identity": "probable",
+  "identity_basis": "Search snippets: Luis E. Liogier-Weyback, MUSC-area Charleston SC address (96 Jonathan Lucas St), EVMS MD 2014, WebMD lists Neurological Surgery, 'neurosurgery-trained physician'; distinctive name (residency at MUSC not directly stated)",
+  "residency_stated": [
+   {
+    "institution": "Medical University of South Carolina",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Now a 'neurosurgery-trained physician' who founded Doctor Jane, a concierge medical cannabis practice in South Florida (Wellington FL); specialties listed Neurological Surgery and Family Medicine/General Practice; no evidence of practising neurosurgery or ABNS certification. Left MUSC after 2016-17; destination program not found.",
+  "year_left": 2017,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "founder/CEO Doctor Jane medical cannabis practice, Wellington FL; Chair Board of Editors, Journal of Cannabinoid Medicine",
+  "agrees_with_db": true,
+  "disagreement": "DB: did not complete; destination now identified as non-neurosurgery (medical cannabis/family medicine practice)",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://cannadelic.miami/speaker/dr-luis-enrique-r-liogier-weyback/",
+    "type": "search_snippet",
+    "evidence": "As a United States Navy veteran and a neurosurgery-trained physician ... President and founder of Doctor Jane, South Florida's most professional and discreet concierge medical cannabis practice"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-luis-rick-liogier-weyback-xylwq7k",
+    "type": "search_snippet",
+    "evidence": "Charleston SC General Medical Practice; Vitals: Wellington FL; specializes in Neurological Surgery and Family Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "44:dav:brogan",
+  "name": "David Brogan",
+  "program_id": 44,
+  "identity": "confirmed",
+  "identity_basis": "Doximity David Shea Brogan: Wayne State MD 2017, SC license 2017-2018 (matches MUSC PGY-1 2017-18); WebMD lists Neurological Surgery and Diagnostic Radiology, Charleston SC, Wayne State 2017",
+  "residency_stated": [
+   {
+    "institution": "University of California (San Diego) Medical Center",
+    "specialty": "diagnostic radiology",
+    "start": 2018,
+    "end": 2022
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left MUSC neurosurgery mid-year 2017-18; diagnostic radiology residency UCSD 2018-2022, ABR certified; now radiologist Chicago",
+  "year_left": 2018,
+  "destination_program": "UC San Diego diagnostic radiology",
+  "destination_start_year": 2018,
+  "current": "radiologist, Endeavor Health Swedish Hospital, Chicago IL",
+  "agrees_with_db": true,
+  "disagreement": "DB: destination not found; now found: diagnostic radiology (UCSD 2018-2022). The WashU orthopaedic hand David Brogan is a different person.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-brogan-md-4c359787",
+    "type": "doximity",
+    "evidence": "University of California (San Diego) Medical Center Residency, Radiology-Diagnostic, 2018 - 2022; Wayne State University School of Medicine Class of 2017; SC State Medical License 2017 - 2018; American Board of Radiology"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/david-brogan-29b533e2-dec5-11e7-9f4c-005056a225bf-overview",
+    "type": "search_snippet",
+    "evidence": "specializes in Neurological Surgery and Diagnostic Radiology ... Charleston, SC ... Wayne State University School of Medicine in 2017"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "45:rae:moustafa",
+  "name": "Raed Moustafa",
+  "program_id": 45,
+  "identity": "probable",
+  "identity_basis": "WebMD Raed Moustafa Neurological Surgery, BU School of Medicine 2014; CareDash 'Raed Moustafa, MD, MPH, MA - Resident, Washington DC, Medstar Georgetown'",
+  "residency_stated": [
+   {
+    "institution": "MedStar Georgetown University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "WebMD lists a neurological surgery specialist in West Hollywood CA (BU MD 2014), originally from New York; no residency history or ABNS evidence found; could not confirm he completed or where he went. No Doximity profile.",
+  "year_left": 2017,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "listed in West Hollywood CA (WebMD; unverified)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/raed-moustafa-7f0ab97c-fbca-4d15-8c5d-31d25984ef9d-overview",
+    "type": "search_snippet",
+    "evidence": "Raed Moustafa, Neurological Surgery, West Hollywood CA, graduated Boston University School of Medicine 2014"
+   },
+   {
+    "url": "https://www.caredash.com/doctors/raed-moustafa-md-mph-ma-washington-dc",
+    "type": "search_snippet",
+    "evidence": "Dr. Raed Moustafa, MD, MPH, MA - Resident (Washington DC, Medstar Georgetown)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "46:ada:sandler",
+  "name": "Adam Sandler",
+  "program_id": 46,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Adam Lance Sandler MD MPH: Montefiore/Einstein Neurological Surgery 2010-2016, Mount Sinai MD 2009; Montefiore pediatric neurosurgery publications with Goodrich",
+  "residency_stated": [
+   {
+    "institution": "Montefiore Medical Center/Albert Einstein College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2010,
+    "end": 2016
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity lists Montefiore neurosurgery residency 2010-2016, then Icahn Mount Sinai occupational medicine residency 2020-2022; ABPM Occupational Medicine certified; no ABNS. Practices occupational medicine in New Rochelle NY. Left/finished neurosurgery 2016 without evidence of neurosurgery practice; 2016-2020 unobserved.",
+  "year_left": 2016,
+  "destination_program": "Icahn School of Medicine at Mount Sinai (occupational medicine)",
+  "destination_start_year": 2020,
+  "current": "occupational medicine physician, New Rochelle NY",
+  "agrees_with_db": true,
+  "disagreement": "DB: outcome unknown; found: switched to occupational medicine (residency 2020-22)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adam-sandler-md",
+    "type": "doximity",
+    "evidence": "Montefiore Medical Center/Albert Einstein College of Medicine Residency, Neurological Surgery, 2010 - 2016; Icahn School of Medicine at Mount Sinai Residency, 2020 - 2022; American Board of Preventive Medicine Occupational Medicine"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "48:gau:gupta",
+  "name": "Gaurav Gupta",
+  "program_id": 48,
+  "identity": "confirmed",
+  "identity_basis": "Paul & Daisy Soros Fellow bio: Stanford MD 2011, residency in neurological surgery at the Neurological Institute of New York, Columbia (matches 2011 entry). NOT the Rutgers neurosurgeon Gaurav Gupta (NJMS residency 2004-2010).",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Columbia Campus)",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": null
+   }
+  ],
+  "outcome": "left_medicine",
+  "outcome_detail": "Soros bio: 'Managing Partner, Life Sciences Private Capital, J.P. Morgan Asset Management', previously founded Ascendant BioCapital; neurosurgery residency at Columbia not completed (DB: left during 2014-15 PGY4). Left clinical medicine for healthcare/biotech investing.",
+  "year_left": 2015,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Managing Partner, Life Sciences Private Capital, J.P. Morgan Asset Management",
+  "agrees_with_db": true,
+  "disagreement": "DB: did not complete [ambiguous name]; now resolved: left medicine for finance",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://pdsoros.org/fellows/gaurav-gupta/",
+    "type": "bio",
+    "evidence": "attended the Stanford University School of Medicine, graduating in 2011; residency training in neurological surgery at the Neurological Institute of New York at Columbia University Medical Center; Managing Partner, Life Sciences Private Capital, J.P. Morgan Asset Management"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "48:pau:mccormick",
+  "name": "Paul McCormick",
+  "program_id": 48,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Paul Christian McCormick Jr: Columbia P&S MD 2016 and NYP-Columbia Neurological Surgery residency 2016-2017 (matches DB: son of faculty, Columbia MD 2016, intern 2016-17)",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Columbia Campus)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2017
+   },
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "psychiatry",
+    "start": 2018,
+    "end": 2021
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left neurosurgery after PGY-1 (2016-17); psychiatry residency Weill Cornell/NYP 2018-2021; child & adolescent psychiatry fellowship Columbia/NYSPI 2021-2023; board certified psychiatry & child psychiatry (ABPN); now attending psychiatrist, Site Director Weill Cornell psychiatry residency at NYP Westchester (White Plains). Note 2017-18 year unobserved.",
+  "year_left": 2017,
+  "destination_program": "NYP Cornell psychiatry",
+  "destination_start_year": 2018,
+  "current": "child & adolescent psychiatrist, NewYork-Presbyterian Westchester, White Plains NY",
+  "agrees_with_db": true,
+  "disagreement": "DB: did not complete; now resolved to psychiatry",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/paul-mccormick-md-d98c89c3",
+    "type": "doximity",
+    "evidence": "NYP (Cornell Campus) Residency, Psychiatry, 2018 - 2021; NYP (Columbia Campus) Residency, Neurological Surgery, 2016 - 2017; Columbia Vagelos P&S Class of 2016 (page redirected to /pub/paul-mccormick-md-91d8cfca)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:ste:addo-yobo",
+  "name": "Steven Addo-Yobo",
+  "program_id": 49,
+  "identity": "probable",
+  "identity_basis": "Doximity Steven O Addo-Yobo MD: NYP Cornell Neurological Surgery 2011-2018 (listed as 'Internship'), Pittsburgh MD 2011, NY license 2012; matches entry year 2011 at Cornell",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity lists Neurosurgery (Neurocritical Care) practice in New York (685 3rd Ave, 7th Fl) and Cornell neurosurgery 2011-2018, but no ABNS certification, and he is NOT on the Weill Cornell neurosurgery alumni list (1947-2026). Unclear whether he finished there, left early, or went into another track (neurocritical care/other). Not resolved.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "listed neurosurgery/neurocritical care, New York NY (Doximity; unverified)",
+  "agrees_with_db": false,
+  "disagreement": "DB: left 2012-13 destination unknown; Doximity lists Cornell neurosurgery through 2018 and a neurosurgery specialty label, suggesting he may have stayed longer (possibly off-roster) - needs review",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/steven-addo-yobo-md",
+    "type": "doximity",
+    "evidence": "New York Presbyterian Hospital (Cornell Campus) Internship, Neurological Surgery, 2011 - 2018; University of Pittsburgh School of Medicine Class of 2011; Neurosurgery, Neurocritical Care; no board certification listed"
+   },
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Cornell neurosurgery alumni list (1947-2026) does not contain Addo-Yobo"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "49:lee:wheeler",
+  "name": "Lee Adam Wheeler",
+  "program_id": 49,
+  "identity": "probable",
+  "identity_basis": "HMS MD-PhD Class of 2015 page: Lee A. Wheeler residency 'Neurological Surgery at Cornell/Memorial Sloan Kettering'; Doximity Lee Adam Wheeler Harvard Class of 2015 with neurosurgery publications; WebMD Lee Adam Wheeler Neurological Surgery NYC",
+  "residency_stated": [
+   {
+    "institution": "Cornell/Memorial Sloan Kettering (NYP Cornell)",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Only match-time residency (Harvard MD-PhD alumni page) and NPI/WebMD Neurological Surgery in New York NYC found; Doximity lists Boston address, 'Other MD/DO', no residency; not on the Weill Cornell neurosurgery alumni list. Could not establish whether he left or finished/still trains.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "WebMD: Neurological Surgery, New York NY (unverified)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.hms.harvard.edu/MD_PhD/alumni/2015.html",
+    "type": "program_page",
+    "evidence": "Neurological Surgery at Cornell/Memorial Sloan Kettering, New York, NY"
+   },
+   {
+    "url": "https://www.doximity.com/pub/lee-wheeler-md-797e5a01",
+    "type": "doximity",
+    "evidence": "Harvard Medical School Class of 2015; Other MD/DO, Boston MA; no residency listed"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/lee-adam-wheeler-3b5829d8-d4b6-4d85-a22c-6a1331672744-overview",
+    "type": "search_snippet",
+    "evidence": "Specialty: Neurological Surgery, New York NY, Harvard Medical School 2015"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "51:can:carpenter",
+  "name": "Candice Carpenter",
+  "program_id": 51,
+  "identity": "probable",
+  "identity_basis": "Univ. of Cincinnati MD 2016 (matches 2016 OSU entry); WebMD/US News list Candice D. Carpenter neurosurgeon at OSU Wexner; distinctive name; Doximity (cv/c88cmd) Neurosurgery Cincinnati, Class of 2016 only",
+  "residency_stated": [
+   {
+    "institution": "Ohio State University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No residency dates or ABNS on Doximity; UCLA Biodesign 2023-24 Discovery Fellow (MD, MBA Oxford, MPH Harvard, EdM Harvard); co-CEO Boston Congress of Public Health; 'physician-serial entrepreneur'. Not on OSU current roster or alumni list. Pattern suggests she left clinical neurosurgery training for degrees/entrepreneurship, but no source states it.",
+  "year_left": 2019,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "physician-entrepreneur, Co-CEO Boston Congress of Public Health; UCLA Biodesign fellow 2023-24",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/c88cmd",
+    "type": "doximity",
+    "evidence": "Candice Danielle Carpenter MD Neurosurgery Cincinnati; University of Cincinnati College of Medicine Class of 2016 (no residency listed)"
+   },
+   {
+    "url": "https://bcph.org/bcph-co-ceo-dr-candice-d-carpenter/",
+    "type": "bio",
+    "evidence": "BCPH Co-CEO, Chief of Strategy and Innovation; MD Cincinnati, MBA Oxford, MPH Harvard Chan, Ed.M. Harvard"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "51:ore:zaninovich",
+  "name": "Orel Zaninovich",
+  "program_id": 51,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Orel Anthony Zaninovich: Univ. of Arizona MD 2017, OH license 2019-2022 (matches OSU 2019 entry), NM license 2018-2020; neurosurgery publications",
+  "residency_stated": [],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Now board-certified anesthesiologist (ABA), Oro Valley AZ; left OSU neurosurgery after PGY-1 2019-20; anesthesiology residency program/dates not stated on public page.",
+  "year_left": 2020,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "anesthesiologist, Oro Valley AZ",
+  "agrees_with_db": true,
+  "disagreement": "DB: did not complete; destination now found: anesthesiology",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/orel-zaninovich-md",
+    "type": "doximity",
+    "evidence": "Anesthesiology, Oro Valley AZ; University of Arizona College of Medicine Class of 2017; OH State Medical License 2019 - 2022; American Board of Anesthesiology"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "51:ahm:jorge",
+  "name": "Ahmed Jorge",
+  "program_id": 51,
+  "identity": "probable",
+  "identity_basis": "OSU Neurosurgery X post: Match 2021 welcomed Mark Damante, Ahmed Jorge, Josh Weinberg; Pitt MD 2021; Doximity Ahmed Jorge at OSU Doan Hall address",
+  "residency_stated": [
+   {
+    "institution": "Ohio State University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Classmates Damante and Weinberg are PGY-6 on the current OSU roster; Jorge is absent from the roster and OSU alumni list. Doximity profile is empty (Other MD/DO, OSU address). No destination found. (Match-2021 class implies July 2021 or 2022 start.)",
+  "year_left": 2024,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/NeurosurgeryOSU/status/1372971646819004420",
+    "type": "search_snippet",
+    "evidence": "We are so thrilled to welcome Mark Damante, Ahmed Jorge, and Josh Weinberg to our Neurosurgery family! #NeuroMatch2021"
+   },
+   {
+    "url": "https://medicine.osu.edu/departments/neurosurgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "PGY 6: Mark Damante, Joshua Weinberg; Jorge not listed"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ahmed-jorge-md",
+    "type": "doximity",
+    "evidence": "Ahmed Jorge MD, Other MD/DO, Columbus OH, 410 W 10th Ave Doan Hall; no education listed"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "51:chr:swann",
+  "name": "Christen O'Neal Swann",
+  "program_id": 51,
+  "identity": "probable",
+  "identity_basis": "Doximity 'Christen O'Neal MD' OSU neurosurgery 2022-2028, Univ. of Oklahoma MD 2022; search results link Christen O'Neal Swann to the same OSU neurosurgery research profile (listed under a different surname at OSU)",
+  "residency_stated": [
+   {
+    "institution": "Ohio State University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2028
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity (possibly stale) shows OSU neurosurgery residency 2022-2028, PGY-4, OH license 2026-2028. She is not on the current OSU resident roster page (PGY-5 class shows other names), so her status after 2025-26 is unresolved; may have left or be on a leave/research track.",
+  "year_left": 2026,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "OSU neurosurgery resident per Doximity (unverified/stale)",
+  "agrees_with_db": false,
+  "disagreement": "DB: left after 2025-26; Doximity still lists her as continuing OSU 2022-2028 (may be stale)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christen-o-neal-md",
+    "type": "doximity",
+    "evidence": "Ohio State University Hospital Residency, Neurological Surgery, 2022 - 2028; University of Oklahoma College of Medicine Class of 2022; PGY-4"
+   },
+   {
+    "url": "https://medicine.osu.edu/departments/neurosurgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "current OSU roster does not list her"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "52:pau:mcmahon",
+  "name": "Paul McMahon",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Paul J McMahon: Univ. of Miami MD 2014, OHSU Neurological Surgery residency from 2014 (matches 2014 entry); WebMD lists him with Neurological Surgery and Psychiatry at OHSU",
+  "residency_stated": [
+   {
+    "institution": "OHSU",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2017
+   },
+   {
+    "institution": "OHSU",
+    "specialty": "psychiatry",
+    "start": 2017,
+    "end": 2020
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity: OHSU neurosurgery residency 2014-2017, then OHSU psychiatry residency 2017-2020 (a further duplicate line 'Neurological Surgery 2014-2021' also appears, apparently an unclosed record); ABPN psychiatry certified; practices psychiatry (neuropsychiatry) in Portland OR.",
+  "year_left": 2017,
+  "destination_program": "OHSU psychiatry (internal switch)",
+  "destination_start_year": 2017,
+  "current": "psychiatrist (neuropsychiatry/TBI), Portland OR",
+  "agrees_with_db": true,
+  "disagreement": "DB: did not complete; now resolved: switched to psychiatry at OHSU 2017",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/paul-mcmahon-md",
+    "type": "doximity",
+    "evidence": "OHSU Residency, Neurological Surgery, 2014 - 2017; OHSU Residency, Psychiatry, 2017 - 2020; ABPN Psychiatry; University of Miami Class of 2014"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:yim:lin",
+  "name": "Yimo Lin",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU Neurological Surgery resident Yimo Lin (ResearchGate OHSU affiliation, pediatric neurosurgery papers); OHSU Neurosurgery Facebook memorial post; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "OHSU",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Search results (OHSU Neurological Surgery Facebook memorial post, GoFundMe memorial, legacy.com) indicate Dr. Yimo Lin died on March 6, 2018 while an OHSU neurosurgery resident. Not a voluntary departure; no Doximity profile. Attrition should be classified as died/other, not transfer or switch.",
+  "year_left": 2018,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "deceased March 2018 (resident at time)",
+  "agrees_with_db": true,
+  "disagreement": "DB: LEFT did not complete; cause was death in training (not transfer/switch/left medicine)",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.facebook.com/OHSUNeurologicalSurgery/posts/recently-we-were-all-deeply-saddened-to-learn-of-the-passing-of-one-of-our-dear-/1729333807089922/",
+    "type": "search_snippet",
+    "evidence": "Remembering Dr. Yimo Lin with memorial tree donations (OHSU Neurological Surgery post)"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Yimo-Lin",
+    "type": "search_snippet",
+    "evidence": "Yimo LIN | Oregon Health & Science University, Portland | OHSU | Department of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:bri:stedelin",
+  "name": "Brittany Stedelin",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU Brain Institute X post: Match 2023 neurosurgery interns Jefferson Abaricia, Joe Nugent, Brittany Stedelin (@OHSUNews); OHSU medical student; OHSU Neurosurgery Campagna Scholar",
+  "residency_stated": [
+   {
+    "institution": "OHSU",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Absent from current OHSU neurosurgery roster while classmates Abaricia and Nugent are PGY-4 (checked ohsu.edu current-residents page). Oregon Medical Board record for Brittany Ann Stedelin appears (search result title 'OR License Verification 09/21/2026'), so likely still in Oregon; destination specialty/program not found. No Doximity profile.",
+  "year_left": 2025,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown; Oregon licensed physician",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/OHSUBrain/status/1636802702498725889",
+    "type": "search_snippet",
+    "evidence": "newest #neurosurgery #interns who will be joining the program in July 2023 ... Brittany Stedelin (@OHSUNews)"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-4: Jefferson Abaricia, Jacob Greisman, Joe Nugent; Stedelin not listed"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "53:dav:mcdermott",
+  "name": "David McDermott",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity David McDermott MD (Salisbury MD): Penn State Hershey Neurological Surgery residency 2014-2016, Commonwealth Medical College MD 2014, PA license 2014-2016",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2016
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Penn State neurosurgery after 2 years (2016); board-certified radiation oncology (American Board of Radiology); WV license 2018-2021 (WVU radiation oncology residency per search snippet), now radiation oncologist TidalHealth, Salisbury MD.",
+  "year_left": 2016,
+  "destination_program": "West Virginia University radiation oncology",
+  "destination_start_year": 2017,
+  "current": "radiation oncologist, TidalHealth, Salisbury MD",
+  "agrees_with_db": true,
+  "disagreement": "DB: outcome unknown; now resolved: switched to radiation oncology",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-mcdermott-md-da10cb08",
+    "type": "doximity",
+    "evidence": "Penn State Milton S Hershey Medical Center Residency, Neurological Surgery, 2014 - 2016; Commonwealth Medical College Class of 2014; American Board of Radiology Radiation Oncology"
+   },
+   {
+    "url": "https://tidalhealth.org/doctor/david-mcdermott",
+    "type": "search_snippet",
+    "evidence": "David McDermott, MD, Radiation Oncology (residency in radiation oncology at West Virginia University per search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:den:madden",
+  "name": "Dennis Madden",
+  "program_id": 53,
+  "identity": "ambiguous",
+  "identity_basis": "Only NPI-type directory listings: 'Dennis Madden, Student in an Organized Health Care Education/Training Program' at 500 University Dr, Hershey PA (NPI assigned April 2021), CareDash 'Resident - Hershey PA'; nothing else",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "No bio, no Doximity, no destination found; directory listings only show a Hershey trainee NPI from April 2021. Not on the current Penn State neurosurgery roster.",
+  "year_left": 2022,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://opennpi.com/provider/1982285599",
+    "type": "search_snippet",
+    "evidence": "Dennis Madden, 500 University Dr, Hershey, PA, Student in an Organized Health Care Education/Training Program"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "53:sam:alsalek",
+  "name": "Samir Alsalek",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Penn State College of Medicine directory / LinkedIn: 'Samir Alsalek, MD - Neurosurgery Resident', PGY-1 Neurosurgery Residency at Penn State; AANS 2024 neurosurgery posters",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Search snippet: 'PGY-1 Resident in the Neurosurgery Residency at Penn State College of Medicine'. Not on current Penn State neurosurgery resident roster (PGY-1: Basem, Halloran). No destination found; Doximity profile not found.",
+  "year_left": 2026,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/samir-alsalek",
+    "type": "search_snippet",
+    "evidence": "Samir Alsalek | College of Medicine | Penn State (PGY-1 Resident, Neurosurgery Residency)"
+   },
+   {
+    "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+    "type": "program_page",
+    "evidence": "current roster PGY-1: Jade Basem, Patrick Halloran; Alsalek not listed"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "55:amb:oros",
+  "name": "Amber Oros",
+  "program_id": 55,
+  "identity": "probable",
+  "identity_basis": "Amber M. Oros DO, MSU College of Osteopathic Medicine 2012 (matches 2012 entry), residency at Arrowhead Regional Medical Center (Colton CA, Riverside/San Bernardino area), internship McLaren Macomb 2013; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "Arrowhead Regional Medical Center (WebMD residency)",
+    "specialty": "unspecified",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Directory profiles list emergency medicine / family medicine / surgery specialties and occupational & environmental medicine (West Covina CA, Sarasota FL); no neurosurgery practice or ABNS. Program dates not stated; left RUHS neurosurgery (DB last seen 2016-17) for a non-neurosurgery career (emergency/occupational medicine).",
+  "year_left": 2017,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "emergency/occupational medicine physician, California/Florida",
+  "agrees_with_db": true,
+  "disagreement": "DB: outcome unknown; sources indicate non-neurosurgery career",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/amber-oros-29cd4fae-dec5-11e7-9f4c-005056a225bf-overview",
+    "type": "search_snippet",
+    "evidence": "Dr. Amber Oros, DO, Emergency Medicine Physician; MSU College of Osteopathic Medicine 2012; residency at Arrowhead Regional Medical Center; specialties Emergency Medicine, Family Medicine, Surgery"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-amber-oros-ze4cf",
+    "type": "search_snippet",
+    "evidence": "Occupational & Environmental Medicine, West Covina CA; internship McLaren Macomb 2013"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "55:jus:watkins",
+  "name": "Justen Watkins",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Justen Gregory Watkins DO: 'OPTI-West/Riverside University Health System MC, Residency, Neurological Surgery, 2013-2019', AZCOM Midwestern MD/DO 2013; ETV publication with Miulli (RUHS) 2017",
+  "residency_stated": [
+   {
+    "institution": "OPTI-West/Riverside University Health System MC",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2019
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity lists neurosurgery residency 2013-2019 (6 years) but he practises family/integrative/functional medicine and urgent care (Logan UT; certified by American Board of Urgent Care Medicine, not ABNS). Unclear whether he finished the RUHS program or left; not practising neurosurgery. UT license from 2019. No neurosurgery practice evidence.",
+  "year_left": 2019,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "family/integrative/functional medicine physician, Logan UT",
+  "agrees_with_db": true,
+  "disagreement": "DB: last seen 2016-17; Doximity lists residency through 2019 - may have finished or left later than roster suggests; either way not practising neurosurgery",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/justen-watkins-do",
+    "type": "doximity",
+    "evidence": "OPTI-West/Riverside University Health System MC Residency, Neurological Surgery, 2013 - 2019; Family Medicine Logan UT; American Board of Urgent Care Medicine Diplomat"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "56:jos:morrison",
+  "name": "Joseph Morrison",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Joe Morrison: 'Neurosurgical Resident at Rush University Medical Center', Univ. of Illinois College of Medicine Class of 2017, IL license 2018-2024; Rush neurointerventional publications",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity now shows 'Resident Physician', Aurora CO (University of Colorado Anschutz campus address 1665 Aurora Ct), IL license lapses 2024; not on Rush current roster. Destination program/specialty not stated (possibly a radiology/neuro-endovascular pathway - unverified).",
+  "year_left": 2024,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident physician, Aurora CO (specialty unstated)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joe-morrison-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Aurora CO; Summary: Neurosurgical Resident at Rush University Medical Center; University of Illinois College of Medicine Class of 2017; IL license 2018 - 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "56:ayo:otun",
+  "name": "Ayodamola Otun",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Ayodamola Otun MD: WashU Medicine MD 2022, IL license 2022-2025 (Rush), neurosurgery hydrocephalus publications; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Healthgrades lists specialty Anesthesiology at Froedtert/Medical College of Wisconsin (9200 W Wisconsin Ave, Milwaukee), verified April 2026; Doximity 'Resident Physician' Milwaukee, WI license 2025. Program/start year not stated; left Rush neurosurgery after 2023-24.",
+  "year_left": 2024,
+  "destination_program": "Medical College of Wisconsin/Froedtert (anesthesiology; program not explicitly stated)",
+  "destination_start_year": 2025,
+  "current": "anesthesiology resident, MCW/Froedtert Milwaukee",
+  "agrees_with_db": true,
+  "disagreement": "DB: did not complete; now resolved: switched to anesthesiology (probable)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ayodamola-otun-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Milwaukee WI, 9200 W Wisconsin Ave; WashU Medicine Class of 2022; WI license 2025 - 2027; IL license 2022 - 2025"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-ayodamola-otun-tpvxpyp506",
+    "type": "search_snippet",
+    "evidence": "Anesthesiology; Froedtert and the Medical College of Wisconsin Froedtert Hospital"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "56:myc:delgardo",
+  "name": "Mychael Delgardo",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Mychael Delgardo: Columbia MD 2024, IL license 2024-2027 (Rush), Rush neurosurgery listing on WebMD/Healthgrades, neurosurgery publications",
+  "residency_stated": [
+   {
+    "institution": "Greenwich Hospital",
+    "specialty": "preliminary internal medicine",
+    "start": 2025,
+    "end": 2026
+   },
+   {
+    "institution": "BayCare (Tampa)",
+    "specialty": "anesthesiology",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity summary: incoming CA-1 anesthesiology resident at BayCare (Tampa FL) after preliminary internal medicine at Greenwich Hospital; left Rush neurosurgery after PGY-1 2024-25.",
+  "year_left": 2025,
+  "destination_program": "BayCare anesthesiology (Tampa FL)",
+  "destination_start_year": 2026,
+  "current": "anesthesiology resident (CA-1), BayCare, Tampa FL",
+  "agrees_with_db": true,
+  "disagreement": "DB: did not complete; now resolved: switched to anesthesiology (with prelim IM year)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mychael-delgardo-md",
+    "type": "doximity",
+    "evidence": "I am an incoming CA-1 anesthesiology resident at BayCare ... completed preliminary training in internal medicine at Greenwich Hospital; Columbia Vagelos Class of 2024; IL license 2024 - 2027"
+   }
+  ],
+  "searches_used": 2
+ }
+]

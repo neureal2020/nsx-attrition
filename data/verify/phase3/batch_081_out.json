@@ -1,0 +1,1056 @@
+[
+ {
+  "key": "60:naj:tecle",
+  "name": "Najib El Tecle",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists residency SSM Health/SLU Neurological Surgery 2015-2022 and Lebanese University MD 2011; Northwestern faculty",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed SLU neurosurgery residency (Doximity 2015-2022); now spine neurosurgeon faculty at Northwestern",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurological Surgery, Northwestern Medicine, Chicago",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/najib-el-tecle-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 SSM Health/Saint Louis University School of Medicine"
+   },
+   {
+    "url": "https://www.nm.org/doctors/1982022471/najib-el-tecle-md",
+    "type": "search_snippet",
+    "evidence": "Spine Surgery physician at Northwestern Medicine in Chicago"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:mah:khan",
+  "name": "Maheen Khan",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "SLU/St. Bernards bios: neurosurgery residency and complex spine fellowship at SLU Hospital; UMKC MD 2015 (entry 2015 matches)",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at SLU, then spine fellowship SLU and skull base/cerebrovascular/functional fellowship UC Irvine; SLU faculty then joined St. Bernards Oct 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, St. Bernards Healthcare, Jonesboro AR (from Oct 2025)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.stbernards.info/newsroom/2025/neurosurgeon-dr-maheen-khan-joins-st-bernards/",
+    "type": "search_snippet",
+    "evidence": "completed a neurosurgery residency and a fellowship in complex spine surgery at Saint Louis University Hospital"
+   },
+   {
+    "url": "https://www.doximity.com/pub/maheen-khan-md",
+    "type": "search_snippet",
+    "evidence": "Doximity result is a Nephrology profile (different person); no neurosurgery Doximity profile found"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:mic:prim",
+  "name": "Michael Prim",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "Banner bio: MD UTHealth 2015, neurosurgery residency at SSM Health SLU Hospital completed 2022",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed SLU neurosurgery residency 2022; Banner faculty",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurosurgery, Banner University Medical Center Phoenix",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://doctors.bannerhealth.com/provider/michael-prim/2275824",
+    "type": "bio",
+    "evidence": "Banner provider page: neurosurgery and spine surgery, Phoenix AZ; board certified (per aggregator snippets)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/michael-prim-b68161ba/",
+    "type": "search_snippet",
+    "evidence": "Assistant Professor of Neurosurgery, Banner University Medical Center - Phoenix"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:dou:snyder",
+  "name": "Douglas Snyder",
+  "program_id": 60,
+  "identity": "probable",
+  "identity_basis": "SSM bio: residency SLU '2017' one-year; MD Northeast Ohio Medical Univ 2016; SLU ophthalmology; matches input's prior notes (input already resolved identity)",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2018
+   },
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "ophthalmology",
+    "start": 2019,
+    "end": 2022
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left SLU neurosurgery ~2018; internship SLU 2019; ophthalmology residency SLU (alumni class 2022); neuro-ophthalmology fellowship WashU 2022-23",
+  "year_left": 2018,
+  "destination_program": "SLU ophthalmology (prelim/internship 2018-19, residency 2019-22)",
+  "destination_start_year": 2019,
+  "current": "Neuro-ophthalmologist, SLU/SSM Health (assistant professor of ophthalmology)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.getcare.ssmhealth.com/find-a-doctor/doctor-details/douglas-w-snyder-md",
+    "type": "bio",
+    "evidence": "Northeastern Ohio Univ College of Medicine 2016; Residency Saint Louis University 2017, 2022; Internship 2019; Fellowship WashU 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/douglas-snyder-md-a025c72c",
+    "type": "doximity",
+    "evidence": "Ophthalmology, Neuro-Ophthalmology; Northeast Ohio Medical University Class of 2016"
+   },
+   {
+    "url": "https://www.slu.edu/medicine/ophthalmology/ophthalmology-residency/alumni.php",
+    "type": "program_page",
+    "evidence": "Class 2022, neuro-ophthalmology fellowship at Washington University"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "60:rya:cleary",
+  "name": "Ryan Cleary",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD SLU 2017, residency SLU neurosurgery 2017-2021; VCU bio MD SLU",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2021
+   },
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2025
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Doximity lists SLU neurosurgery 2017-2021 then Washington University/B-JH/SLCH neurosurgery 2021-2025 (WashU announced him as first Advanced Surgical Neuro-oncology fellow, Mar 2022, so he may have finished at WashU rather than transferred; sources conflict on whether the SLU stint was 4 years then resumed at WashU as PGY-5)",
+  "year_left": 2021,
+  "destination_program": "Washington University/B-JH/SLCH Consortium",
+  "destination_start_year": 2021,
+  "current": "Assistant Professor of Neurosurgery, VCU, Richmond VA",
+  "agrees_with_db": true,
+  "disagreement": "Input says left after PGY-5 (2021-22 SLU roster); Doximity ends SLU 2021 and WashU begins 2021. Minor date difference only.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/ryan-cleary-md",
+    "type": "doximity",
+    "evidence": "Washington University/B-JH/SLCH Residency, Neurological Surgery, 2021 - 2025; SSM Health/SLU Residency 2017 - 2021"
+   },
+   {
+    "url": "https://neurosurgery.vcu.edu/about/our-team/ryan-cleary-md.html",
+    "type": "bio",
+    "evidence": "Assistant Professor, Department of Neurosurgery at VCU; MD Saint Louis University"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:muh:kandel",
+  "name": "Muhammad Kandel",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "SLU resident page/ResearchGate: chief resident; Doximity MD Ain Shams 2003 matches input note",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "SLU chief resident 2024-25; Doximity now lists Neurosurgery, Hot Springs AR (Mercy) with AR license 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Hot Springs, AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/muhammad-kandel-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Hot Springs AR; Ain Shams University Faculty of Medicine Class of 2003; AR license 2025-2028"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Muhammad-Kandel",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Chief Resident, Saint Louis University"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:jor:urquiaga",
+  "name": "Jorge Urquiaga",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "Healthgrades/LinkedIn/Cureus: SLU neurosurgery, Cayetano Heredia MD 2015 (matches)",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgeon in St. Louis affiliated with SSM Health SLU Hospital, listed as neurosurgeon on Healthgrades (2026); not on 2026-27 resident roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, St. Louis, MO (SSM Health SLU Hospital)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-jorge-urquiaga-xyn8hc4",
+    "type": "search_snippet",
+    "evidence": "neurosurgeon in Saint Louis, MO affiliated with SSM Health Saint Louis University Hospital; Cayetano Heredia 2015"
+   },
+   {
+    "url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+    "type": "program_page",
+    "evidence": "2026-27 roster lists PGY-1 to PGY-6 only; Urquiaga absent"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:nab:quadri",
+  "name": "Nabiha Quadri",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: SLU School of Medicine Class of 2019, St. Louis neurosurgery; Healthgrades same",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "SLU MD 2019 then neurosurgery resident; not on 2026-27 roster (graduated 2026); MA license 2026-27 suggests new position",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (new attending, MA licence 2026)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/nabiha-quadri-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, St. Louis MO; Saint Louis University School of Medicine Class of 2019; MA State License 2026-2027"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-nabiha-quadri-0zib7xu992",
+    "type": "search_snippet",
+    "evidence": "currently a seventh year neurosurgery resident"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:nic:musgrave",
+  "name": "Nicholas Musgrave",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "SLU resident page: PGY-6 Nicholas Musgrave, Ohio State MD; LinkedIn Nick Musgrave SLU 6th year",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 on 2026-27 SLU roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident (PGY-6), SLU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+    "type": "program_page",
+    "evidence": "PGY-6 Nicholas Musgrave, M.D. Ohio State University School of Medicine"
+   },
+   {
+    "url": "https://www.linkedin.com/in/nick-musgrave-34675a101/",
+    "type": "search_snippet",
+    "evidence": "6th year resident Neurosurgery St. Louis University"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:jak:hockman",
+  "name": "Jakob Hockman",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "SLU roster PGY-5 Jakob Hockman, SLU MD; Doximity SLU MD 2021, St. Louis resident",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5 on 2026-27 roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident (PGY-5), SLU",
+  "agrees_with_db": true,
+  "disagreement": "Input last_pgy 6 vs roster PGY-5 (numbering only)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jakob-hockman-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, St. Louis MO; Saint Louis University School of Medicine Class of 2021"
+   },
+   {
+    "url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+    "type": "program_page",
+    "evidence": "PGY-5 Jakob Hockman, M.D. Saint Louis University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:mic:fiorino",
+  "name": "Michael Fiorino",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "SLU roster PGY-5 Michael Fiorino, UCF MD; Doximity UCF Class of 2022, St. Louis resident",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5 on 2026-27 roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident (PGY-5), SLU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-fiorino-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, St. Louis; University of Central Florida College of Medicine Class of 2022"
+   },
+   {
+    "url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+    "type": "program_page",
+    "evidence": "PGY-5 Michael Fiorino, M.D. University of Central Florida College of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:may:patel",
+  "name": "Mayur Patel",
+  "program_id": 60,
+  "identity": "probable",
+  "identity_basis": "SLU roster PGY-3 Mayur Patel (SLU MD); Doximity neurosurgery St. Louis profile at 1201 S Grand Blvd with SLU co-authors; page URL slug differed from requested (18519f35 vs 2dde029b) but same name/location",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 on 2026-27 roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident (PGY-3), SLU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mayur-patel-md-18519f35",
+    "type": "doximity",
+    "evidence": "Neurosurgery, St. Louis MO; publications with Prim, Botterbush (SLU)"
+   },
+   {
+    "url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+    "type": "program_page",
+    "evidence": "PGY-3 Mayur Patel, M.D. Saint Louis University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:sar:zwick",
+  "name": "Sarah Zwick",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "SLU roster PGY-2 Sarah Zwick, Loyola Stritch MD; LinkedIn Loyola MD 2021-2025",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 on 2026-27 roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident (PGY-2), SLU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+    "type": "program_page",
+    "evidence": "PGY-2 Sarah Zwick, M.D. Loyola University Chicago Stritch School of Medicine"
+   },
+   {
+    "url": "https://www.linkedin.com/in/sarah-zwick-44754b100/",
+    "type": "search_snippet",
+    "evidence": "MD Loyola University Chicago Stritch School of Medicine (2021-2025)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:sam:baum",
+  "name": "Samuel Baum",
+  "program_id": 60,
+  "identity": "probable",
+  "identity_basis": "SLU roster PGY-1 Samuel Baum, LSU School of Medicine; no independent profile found",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 on 2026-27 roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident (PGY-1), SLU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+    "type": "program_page",
+    "evidence": "PGY-1 Samuel Baum, M.D. Louisiana State University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:der:southwell",
+  "name": "Derek Southwell",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Duke bio: MD/PhD UCSF, residency Stanford 2011-2013 then UCSF 2013-2018; ABNS; input entry 2011 matches",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2013
+   },
+   {
+    "institution": "University of California, San Francisco",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2018
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left Stanford after PGY-2 (2011-13) and transferred to UCSF neurosurgery 2013-2018",
+  "year_left": 2013,
+  "destination_program": "UCSF neurosurgery",
+  "destination_start_year": 2013,
+  "current": "Associate Professor of Neurosurgery, Duke; surgical director Comprehensive Epilepsy Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.dukehealth.org/find-doctors-physicians/derek-southwell-md-phd",
+    "type": "bio",
+    "evidence": "Neurosurgery, UCSF (2013-2018); Neurosurgery, Stanford University (2011-2013); ABNS certified"
+   },
+   {
+    "url": "https://www.doximity.com/pub/derek-southwell-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery UCSF 2011-2018 (Doximity merges the two); ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:kai:miller",
+  "name": "Kai Miller",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Stanford NS residency 2011-2018, UW MD 2011; Mayo bio: residency at Stanford, joined Mayo 2019",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Stanford neurosurgery residency 2011-2018; Utrecht fellowship 2018-19",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Professor of Neurosurgery, Mayo Clinic Rochester",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kai-miller-md",
+    "type": "doximity",
+    "evidence": "Stanford Residency, Neurological Surgery, 2011 - 2018; ABNS Neurological Surgery"
+   },
+   {
+    "url": "https://www.mayoclinic.org/biographies/miller-kai-j-m-d-ph-d/bio-20456021",
+    "type": "bio",
+    "evidence": "neurosurgery residency at Stanford; joined Mayo 2019 (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:lin:xu",
+  "name": "Linda Xu",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Stanford NS residency 2011-2018, Maryland MD 2011; Stanford chief resident",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Stanford neurosurgery residency 2018 and ABNS-certified; Doximity also lists Neurology residency at Penn 2022-2025 (additional later training; still practises neurosurgery at Kaiser Redwood City)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Kaiser Permanente Redwood City",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/linda-xu-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; Neurology residency Penn 2022-2025; ABNS"
+   },
+   {
+    "url": "https://www.doximity.com/pub/linda-xu-md-8d93106e",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery on Doximity, Redwood City CA"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:adr:moraff",
+  "name": "Adrienne Moraff",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Stanford NS residency 2012-2019, Maryland MD 2012, Dartmouth faculty; Stanford profile",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity: transitional-year internship at Case Western/University Hospitals 2012-13 (listed as transitional year, not orthopaedics), Stanford NS residency 2012-2019 (roster PGY-2 from 2013-14), IR fellowship 2015-17; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurosurgery, Dartmouth Health (cerebrovascular/endovascular)",
+  "agrees_with_db": true,
+  "disagreement": "Input note says prior year was orthopaedic surgery PGY-1; Doximity lists Transitional Year internship at the same institution",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adrienne-moraff-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; Internship, Transitional Year, 2012 - 2013 Case Western/UH; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:jas:yoon",
+  "name": "Jason Yoon",
+  "program_id": 61,
+  "identity": "probable",
+  "identity_basis": "Stanford radiology resident profile: Byung 'Jason' Yoon MD PhD, JHU MD 2012, Cambridge PhD, matches input's phase-2 identification (JHU 2012, Cambridge PhD, Stanford NS 2012-14)",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2014
+   },
+   {
+    "institution": "Stanford Radiology",
+    "specialty": "diagnostic radiology",
+    "start": 2017,
+    "end": 2022
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Stanford neurosurgery in 2014; now diagnostic/neuroradiology at Stanford (radiology residency alumni 2017-2022 page; Stanford neuroradiology faculty). Public sources found did not themselves state the NS stint, which rests on input/phase-2 evidence",
+  "year_left": 2014,
+  "destination_program": "Diagnostic radiology (Stanford)",
+  "destination_start_year": 2017,
+  "current": "Assistant Professor of Neuroradiology, Stanford and VA Palo Alto",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://profiles.stanford.edu/byung-yoon",
+    "type": "bio",
+    "evidence": "Stanford radiology; MD Johns Hopkins 2012, PhD Cambridge; diagnostic neuroradiology"
+   },
+   {
+    "url": "https://med.stanford.edu/xray/AlumniMain/Alumni2017-2022.html",
+    "type": "program_page",
+    "evidence": "Stanford Radiology Residency Alumni 2017-2022 list"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "61:lau:prolo",
+  "name": "Laura Prolo",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Stanford profile: MD/PhD Stanford, pediatric neurosurgery fellowship UW; Doximity Stanford MD 2012, ABNS",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Stanford neurosurgery resident 2012-2019 (input roster); Stanford faculty, pediatric neurosurgery, ABNS-certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurosurgery, Stanford / Lucile Packard Children's",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/laura-prolo-md",
+    "type": "doximity",
+    "evidence": "Stanford University School of Medicine Class of 2012; ABNS Neurological Surgery; Pediatric Neurosurgery Palo Alto"
+   },
+   {
+    "url": "https://biox.stanford.edu/people/laura-prolo",
+    "type": "bio",
+    "evidence": "Assistant Professor of Neurosurgery (Stanford)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:yi-:chen",
+  "name": "Yi-Ren Chen",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Stanford MD 2011, Stanford NS residency 2012-2019, spine fellowship 2016-17",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Stanford neurosurgery residency 2012-2019 with enfolded spine fellowship; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Chief of Neurosurgery, Mercy Medical Group (Dignity Health), Sacramento",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/yi-ren-chen-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:adi:iyer",
+  "name": "Aditya Iyer",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Stanford NS residency, Pittsburgh MD 2012; Pacific Neuroscience Institute bio",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Stanford neurosurgery residency (Doximity lists 2012-2020; input entry 2013, graduating class 2020 per Stanford Neurosurgery Facebook post); INR fellowship 2017-19; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (cerebrovascular/endovascular), Pacific Neuroscience Institute / Providence, Burbank CA",
+  "agrees_with_db": true,
+  "disagreement": "Start year 2012 (Doximity) vs 2013 (input); minor",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adi-iyer-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2020; Fellowship Interventional Neuroradiology 2017-2019; ABNS"
+   },
+   {
+    "url": "https://www.facebook.com/StanfordNeurosurgery/posts/congratulations-to-our-graduating-residents-drs-kevin-chow-aditya-iyer-and-derek/2770525909844343/",
+    "type": "search_snippet",
+    "evidence": "Congratulations to our graduating residents Drs Kevin Chow, Aditya Iyer and Derek [Yecies]"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:der:yecies",
+  "name": "Derek Yecies",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: BU MD 2013, Stanford NS residency 2013-2020; Stanford faculty",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Stanford neurosurgery residency 2013-2020; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Clinical Instructor (pediatric neurosurgery), Stanford",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/derek-yecies-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:kev:chow",
+  "name": "Kevin Chow",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Kwong-Hon Chow): Stanford NS residency 2013-2020, Baylor MD 2013; SCL bio 'Stanford trained neurosurgeon'",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 7-year Stanford neurosurgery residency 2013-2020; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Medical Director of Neurosurgery, Good Samaritan Medical Center, Lafayette CO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kwong-hon-chow-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; Baylor Class of 2013; ABNS"
+   },
+   {
+    "url": "https://doctors.sclhealth.org/provider/Kwong-Hon+Chow/1737640",
+    "type": "search_snippet",
+    "evidence": "completed a 7 year residency in Neurological Surgery at Stanford University"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:all:ho",
+  "name": "Allen Ho",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Harvard MD 2014, Stanford NS residency 2014-2021; Kaiser bio; complex spine fellowship Cleveland Clinic",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Stanford neurosurgery residency 2014-2021 (enfolded spine), Cleveland Clinic spine fellowship; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (spine), Kaiser Permanente Anaheim CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/allen-ho-md-b863309f",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; Harvard Medical School Class of 2014; ABNS"
+   }
+  ],
+  "searches_used": 2
+ }
+]

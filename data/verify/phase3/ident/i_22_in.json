@@ -1,0 +1,800 @@
+[
+ {
+  "key": "118:dev:mitchell",
+  "name": "Devon Mitchell",
+  "program_id": 118,
+  "program": "Virginia Commonwealth University Health System Program",
+  "entry_year": 2024,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "VCU roster PGY-3 + VCU resident page (Georgetown MD; matched 2025 to VCU). Doximity search returned only other Mitchells; entry year db 2024 with PGY-2 in 2025-26 consistent with joining a vacated slot",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-3 on 2026-27 VCU roster; a search summary says she matched in Match 2025 (consistent with joining at PGY-2 in 2025-26)",
+   "current": "neurosurgery resident, VCU",
+   "residency_stated": [
+    {
+     "institution": "Virginia Commonwealth University Health System",
+     "specialty": "neurosurgery",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.vcu.edu/education/residency/",
+     "type": "program_page",
+     "evidence": "PGY-3: Devon Mitchell, M.D."
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "118:emi:heldman",
+  "name": "Emily Heldman",
+  "program_id": 118,
+  "program": "Virginia Commonwealth University Health System Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "VCU roster PGY-2 (name match; program listing only)",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-2 on 2026-27 roster; no independent bio found",
+   "current": "neurosurgery resident, VCU",
+   "residency_stated": [
+    {
+     "institution": "Virginia Commonwealth University Health System",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.vcu.edu/education/residency/",
+     "type": "program_page",
+     "evidence": "PGY-2: Emily Heldman, M.D."
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "118:mia:cranmer",
+  "name": "Mia Cranmer",
+  "program_id": 118,
+  "program": "Virginia Commonwealth University Health System Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "VCU roster PGY-1 + EVMS MD2026 student record (co-authored neurosurgery papers)",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 in 2026-27",
+   "current": "neurosurgery intern, VCU",
+   "residency_stated": [
+    {
+     "institution": "Virginia Commonwealth University Health System",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.vcu.edu/education/residency/",
+     "type": "program_page",
+     "evidence": "PGY-1: Mia Cranmer, M.D."
+    },
+    {
+     "url": "https://www.linkedin.com/in/mia-cranmer-18b703368",
+     "type": "search_snippet",
+     "evidence": "EVMS MD Program student, MD2026 class"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "119:jam:west",
+  "name": "James West",
+  "program_id": 119,
+  "program": "Wake Forest University Baptist Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "last_seen": "2017-2018",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippets: a James West of Wake Forest Dept of Neurosurgery (2018 CNS SANS Challenge winner) who is an FIU MD graduate; UAB news: James 'Jim' West MD, FIU MD, neurology residency Dartmouth-Hitchcock, neurocritical care fellowship Duke; no single page links Wake NS to Dartmouth neurology",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Probable switch from Wake Forest neurosurgery to neurology (Dartmouth-Hitchcock), then neurocritical care fellowship at Duke (class of 2026), then neuroendovascular fellowship at UAB (Aug 2026). Year of switch not established (DB: last on roster 2017-18/2018-19). Link between the Wake NS resident and this neurologist is inferred (same name, FIU MD).",
+   "current": "neuroendovascular fellow, UAB (from Aug 2026)",
+   "residency_stated": [
+    {
+     "institution": "Dartmouth-Hitchcock Medical Center",
+     "specialty": "neurology",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.uab.edu/medicine/news/neurosurgery/neurosurgery-welcomes-west-as-endovascular-fellow",
+     "type": "news",
+     "evidence": "medical degree from Florida International University. He completed his neurology residency at Dartmouth-Hitchcock Medical Center, followed by a fellowship in neurocritical care at Duke University."
+    },
+    {
+     "url": "https://school.wakehealth.edu/education-and-training/residencies-and-fellowships/neurosurgery-residency",
+     "type": "search_snippet",
+     "evidence": "James West, neurosurgery resident, with Mark Frenkel won first place in the 2018 CNS SANS Challenge; graduate of FIU Herbert Wertheim College of Medicine"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "119:tay:wilson",
+  "name": "Taylor Wilson",
+  "program_id": 119,
+  "program": "Wake Forest University Baptist Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2014,
+  "first_seen": "2015-2016",
+  "last_seen": "2016-2017",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> TRANSFERRED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search results: Taylor (Anne) Wilson MD, NYU School of Medicine 2014; training listed at Wake Forest and UAMS neurosurgery; UAMS neurosurgery resident (AANS 2018 presentation). Namesakes exist (Doximity profiles for other Taylor Wilsons were not this person)",
+   "outcome": "transferred",
+   "outcome_detail": "Left Wake Forest neurosurgery after 2016-17 (PGY-3); UAMS neurosurgery resident by 2018 (transfer confirmed by search evidence). Later appears as Loma Linda neurology residency Class of 2025 with epilepsy fellowship at LLU, i.e. apparently left neurosurgery for neurology after UAMS (identity link to the same person is probable, not certain)",
+   "current": "neurologist/epilepsy fellow-trained, Loma Linda University Health (per LLU, WebMD, Healthgrades; probable same person)",
+   "residency_stated": [
+    {
+     "institution": "Wake Forest University",
+     "specialty": "neurosurgery",
+     "start": 2015,
+     "end": 2017
+    },
+    {
+     "institution": "University of Arkansas for Medical Sciences",
+     "specialty": "neurosurgery",
+     "start": 2017,
+     "end": 2018
+    },
+    {
+     "institution": "Loma Linda University",
+     "specialty": "neurology",
+     "start": null,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.uams.edu/neurosurgery/about/news/page/7/",
+     "type": "search_snippet",
+     "evidence": "Dr. Taylor Wilson was a neurosurgery resident at UAMS ... 2018 AANS Annual meeting (search summary)"
+    },
+    {
+     "url": "https://doctor.webmd.com/doctor/taylor-wilson-7f16715d-321f-4b09-93ff-0958a3bba80c-overview",
+     "type": "bio",
+     "evidence": "Graduated from New York University School Of Medicine in 2014; Neurological Surgery and Neurology"
+    },
+    {
+     "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurology-residency/meet-us",
+     "type": "program_page",
+     "evidence": "Class of 2025: Fellowship: Epilepsy, Loma Linda University Medical Center"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "119:tho:wilson",
+  "name": "Thomas Wilson",
+  "program_id": 119,
+  "program": "Wake Forest University Baptist Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Cape Cod Healthcare bio (Thomas L. Wilson, MD, FAANS): MD Wake Forest 2018, neurosurgery residency and neuro-spine fellowship at Atrium Health Wake Forest Baptist; Wake resident page (Thomas Lawrence Wilson, residency 2025); no Doximity page found for him",
+   "outcome": "completed",
+   "outcome_detail": "Completed Wake Forest neurosurgery residency 2025 then neuro-spine fellowship; joined Cape Cod Healthcare neurosurgery Aug 2025",
+   "current": "neurosurgeon (spine), Cape Cod Healthcare, Hyannis MA",
+   "residency_stated": [
+    {
+     "institution": "Wake Forest Baptist Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://providers.capecodhealth.org/ma/hyannis/46-north-street-wilson-thomas",
+     "type": "bio",
+     "evidence": "Residency: Atrium Health Wake Forest Baptist Medical Center (Neurological Surgery); Fellowship: Neuro-Spine; joined Cape Cod Healthcare neurosurgery in August 2025"
+    },
+    {
+     "url": "https://school.wakehealth.edu/residents-and-fellows/w/thomas-lawrence-wilson",
+     "type": "search_snippet",
+     "evidence": "Thomas Lawrence Wilson, MD completed his Residency in Neurological Surgery at Wake Forest Baptist Medical Center in 2025 (search summary)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "119:bri:freeman",
+  "name": "Bridger Freeman",
+  "program_id": 119,
+  "program": "Wake Forest University Baptist Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Bridger H. Freeman, UTHealth Houston med student with neurosurgery (Vivian L. Smith Dept) research; no Wake Forest resident page found (direct URL 404), so program not directly confirmed",
+   "outcome": "in_training",
+   "outcome_detail": "No contradicting evidence; recorded roster PGY-1 2026-27; no public page confirms Wake placement",
+   "current": "probable neurosurgery PGY-1 (unconfirmed publicly)",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/bridger-freeman-958aa4199/",
+     "type": "search_snippet",
+     "evidence": "Bridger Freeman - 4th-Year Medical Student at UTHealth"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "120:san:indrakanti",
+  "name": "Santoshi Indrakanti",
+  "program_id": 120,
+  "program": "Washington University/B-JH/SLCH Consortium Program",
+  "entry_year": 2013,
+  "first_seen": "2013-2014",
+  "last_seen": "2013-2014",
+  "last_pgy": null,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Santoshi Shalini Indrakanti, WashU MD 2013 (per Trinity Health MA provider page and Healthgrades snippet); radiology bio does not mention WashU neurosurgery, so the neurosurgery roster entry is matched by rare full name + WashU MD 2013",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Left WashU neurosurgery after 2013-14 (PGY-1 year); now board-certified diagnostic radiologist. Trinity Health: internship St. Mary's Medical Center, residencies Santa Clara Valley Medical Center and Boston Medical Center, fellowship MGH, American Board of Diagnostic Radiology",
+   "current": "diagnostic radiologist (Baystate / Trinity Health MA / RWJBarnabas)",
+   "residency_stated": [
+    {
+     "institution": "Washington University/B-JH/SLCH Consortium",
+     "specialty": "neurosurgery",
+     "start": 2013,
+     "end": 2014
+    },
+    {
+     "institution": "Santa Clara Valley Medical Center / Boston Medical Center",
+     "specialty": "diagnostic radiology",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.trinityhealthma.org/provider/santoshi-indrakanti-md",
+     "type": "bio",
+     "evidence": "Medical School: Washington University in St Louis; Residency Santa Clara Valley Medical Center and Boston Medical Center; American Board of Diagnostic Radiology"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-santoshi-indrakanti-y9v78bz",
+     "type": "search_snippet",
+     "evidence": "Diagnostic radiologist; graduated from Washington University in 2013"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "121:dav:arsanious",
+  "name": "David Arsanious",
+  "program_id": 121,
+  "program": "West Virginia University Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2020-2021",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: UVM MD 2018 (matches WVU entry 2018); Vitals lists David Arsanious, Morgantown WV; radiosurgery/neurosurgical publications",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Left WVU neurosurgery during/after 2020-21; radiation oncology residency at Penn 2021-2025; now board-certified radiation oncologist.",
+   "current": "Radiation oncologist, Dayton Physicians Network, Kettering/Dayton OH",
+   "residency_stated": [
+    {
+     "institution": "University of Pennsylvania Health System",
+     "specialty": "radiation oncology",
+     "start": 2021,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/david-arsanious-md",
+     "type": "doximity",
+     "evidence": "University of Pennsylvania Health System Residency, Radiation Oncology, 2021 - 2025; University of Vermont College of Medicine Class of 2018"
+    },
+    {
+     "url": "https://www.vitals.com/doctors/MedicalDoctors_David_Arsanious.html",
+     "type": "search_snippet",
+     "evidence": "Dr. David Arsanious | Morgantown, WV | Radiation Oncology"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "121:lou:onyewadume",
+  "name": "Louisa Onyewadume",
+  "program_id": 121,
+  "program": "West Virginia University Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2021-2022",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Case Western MD 2019 (Doximity) matches WVU entry 2019; Duke Radiation Oncology bio lists Case Western Reserve MD, MPH; Duke/WVU page not directly fetched (403); identity from unique name + CWRU 2019",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Left WVU neurosurgery (removed from directory by 2022-07; absent 2022-23). Now a radiation oncology resident (Duke, PGY3 in Sept 2025, class of 2028; an Emory transitional/preliminary intern listing 2023-24 also appeared in a snippet). Exact intermediate steps not verified; snippet also mentioned Kaiser LA class of 2029 (likely mis-merged).",
+   "current": "radiation oncology resident, Duke University (PGY3, 2025-26)",
+   "residency_stated": [
+    {
+     "institution": "West Virginia University",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2022
+    },
+    {
+     "institution": "Duke University (Radiation Oncology) per search snippet",
+     "specialty": "radiation oncology",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/louisa-onyewadume-md",
+     "type": "doximity",
+     "evidence": "Louisa Onyewadume MD Neurosurgery (label) Cleveland OH; Case Western Reserve Class of 2019; publications in radiation oncology (NAVAH); no residency listed"
+    },
+    {
+     "url": "https://radonc.duke.edu/personnel/louisa-onyewadume-md-mph",
+     "type": "search_snippet",
+     "evidence": "Resident in Radiation Oncology (Class of 2028); Case Western Reserve University School of Medicine"
+    },
+    {
+     "url": "https://x.com/DukeRadOnc/status/1966473162666778798",
+     "type": "search_snippet",
+     "evidence": "PGY3 Dr. Louisa Onyewadume on the well-rounded training"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "121:jes:mcclure",
+  "name": "Jesse McClure",
+  "program_id": 121,
+  "program": "West Virginia University Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "WVU neurosurgery current-residents page lists Jesse McClure, MD, PGY-3 (2026-27); Doximity 'Jesse McClure MD, Resident Physician, Boca Raton FL, UVA School of Medicine class of 2023' with neurosurgery publications (spine/radiosurgery) - consistent with prelim year then WVU 2024 start; Doximity profile does not name WVU",
+   "outcome": "in_training",
+   "outcome_detail": "Listed PGY-3 on WVU current residents page 2026-27",
+   "current": "neurosurgery resident PGY-3, WVU",
+   "residency_stated": [
+    {
+     "institution": "West Virginia University",
+     "specialty": "neurosurgery",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+     "type": "program_page",
+     "evidence": "WVU neurosurgery current residents list: Resident, PGY-3"
+    },
+    {
+     "url": "https://www.doximity.com/pub/jesse-mcclure-md",
+     "type": "doximity",
+     "evidence": "University of Virginia School of Medicine, Class of 2023; Resident Physician, Boca Raton FL"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "122:art:wang",
+  "name": "Arthur Wang",
+  "program_id": 122,
+  "program": "Westchester Medical Center Program",
+  "entry_year": 2011,
+  "first_seen": "2011-2012",
+  "last_seen": "2017-2018",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Tulane bio: neurosurgery residency at New York Medical College, endovascular fellowship Columbia; 2016-17 World Neurosurgery papers with Westchester authors. Doximity 'arthur-wang-md' is a different person (family medicine, Martinez CA) so not used; no Tulane bio gives residency years",
+   "outcome": "completed",
+   "outcome_detail": "Practising board-certified neurosurgeon (Professor, Tulane; endovascular) with NYMC residency; years not stated in sources",
+   "current": "Professor of neurosurgery, endovascular division director, Tulane University, New Orleans",
+   "residency_stated": [
+    {
+     "institution": "New York Medical College / Westchester Medical Center",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.tulane.edu/departments/neurosurgery/faculty/arthur-wang-md-faans",
+     "type": "bio",
+     "evidence": "Completed neurosurgery residency at New York Medical College; fellowship endovascular neurosurgery at Columbia; board-certified, FAANS"
+    },
+    {
+     "url": "https://www.doximity.com/pub/arthur-wang-md",
+     "type": "doximity",
+     "evidence": "Different person: Arthur Francis Wang, family medicine, Martinez CA (rejected; only shows two NYMC-neurosurgery PubMed items mis-attributed)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "122:mic:kim",
+  "name": "Michael Kim",
+  "program_id": 122,
+  "program": "Westchester Medical Center Program",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "last_seen": "2020-2021",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity/UCI bio: Michael Kim, Brown MD 2014, Westchester Medical Center neurosurgery residency 2014-2021 (matches input years); co-authors Westchester residents Zeller, Cooper. Common name but years match exactly",
+   "outcome": "completed",
+   "outcome_detail": "Residency 2014-2021 then UCI skull base fellowship 2021-22; ABNS",
+   "current": "neurosurgeon (skull base/cerebrovascular), UCI Health, Orange CA",
+   "residency_stated": [
+    {
+     "institution": "Westchester Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2014,
+     "end": 2021
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/michael-kim-md-5c5a7760",
+     "type": "doximity",
+     "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2014 - 2021; Brown MD Class of 2014; American Board of Neurological Surgery"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "122:aus:carpenter",
+  "name": "Austin Carpenter",
+  "program_id": 122,
+  "program": "Westchester Medical Center Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2025-2026",
+  "last_pgy": 5,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search: Austin B. Carpenter, MD, Resident Physician Dept of Neurosurgery Westchester Medical Center (LinkedIn/ResearchGate); coauthor with Westchester residents on 2024 'Critical Care of Spinal Cord Injury' (listed on Rawanduzy Doximity page). No Doximity profile",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as neurosurgery resident at Westchester; no dated source",
+   "current": "neurosurgery resident, Westchester Medical Center",
+   "residency_stated": [
+    {
+     "institution": "Westchester Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2021,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/austinbcarpenter/",
+     "type": "search_snippet",
+     "evidence": "Austin B. Carpenter, MD - Westchester Medical Center (Resident Physician, Department of Neurosurgery)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "122:eri:feldstein",
+  "name": "Eric Feldstein",
+  "program_id": 122,
+  "program": "Westchester Medical Center Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2025-2026",
+  "last_pgy": 4,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search: Eric Feldstein matched neurosurgery at Westchester in 2022, NYMC class 2021 (NYMC news, ResearchGate 'Resident, Westchester Medical Center'); no Doximity profile found",
+   "outcome": "in_training",
+   "outcome_detail": "Matched 2022 at Westchester; listed as resident",
+   "current": "neurosurgery resident, Westchester Medical Center",
+   "residency_stated": [
+    {
+     "institution": "Westchester Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2022,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.researchgate.net/profile/Eric-Feldstein-2",
+     "type": "search_snippet",
+     "evidence": "Eric FELDSTEIN | Resident | Doctor of Medicine | Westchester Medical Center, Valhalla"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "122:ilo:cazorla-morales",
+  "name": "Ilona Cazorla-Morales",
+  "program_id": 122,
+  "program": "Westchester Medical Center Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Name matches: Ilona Cazorla-Morales, Hackensack Meridian SOM medical student with neurosurgery research; NPI 1326842568 (Apr 2025) lists 'student in an organized health care training program, Valhalla NY' (Westchester). No source names program/specialty explicitly",
+   "outcome": "in_training",
+   "outcome_detail": "NPI registered Valhalla NY Apr 2025 as resident-in-training; consistent with entry 2025",
+   "current": "neurosurgery resident (PGY-1/2), Westchester Medical Center",
+   "residency_stated": [
+    {
+     "institution": "Westchester Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://npiprofile.com/npi/1326842568",
+     "type": "search_snippet",
+     "evidence": "ILONA JOAN CAZORLA-MORALES - Student in an Organized Health Care Education/Training Program in Valhalla, NY"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "123:gab:sneh",
+  "name": "Gabriel Sneh",
+  "program_id": 123,
+  "program": "Yale-New Haven Medical Center Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2018-2019",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 2,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: Harvard MD 2016, CT license 2018-2020 (Yale PGY-1 2018-19); 2019 MVD paper with Eskandar and 2024 Hopkins neurology paper under same name",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Search results: completed neurology residency at Johns Hopkins, then Fogarty Global Health Fellow in Zambia; Harvard MD 2016; 2024 paper affiliation Dept of Neurology, JHU. Hopkins alumni page blocked (403) so class years not seen.",
+   "current": "Neurologist / global health fellow (Indiana license 2026-27)",
+   "residency_stated": [
+    {
+     "institution": "Yale-New Haven",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2019
+    },
+    {
+     "institution": "Johns Hopkins",
+     "specialty": "neurology",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/gabriel-sneh-md",
+     "type": "doximity",
+     "evidence": "Harvard Medical School Class of 2016; CT State Medical License 2018 - 2020; Opalski syndrome (Acta Neurologica Belgica 2024)"
+    },
+    {
+     "url": "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurology-residency/alumni",
+     "type": "search_snippet",
+     "evidence": "search result title: Alumni | Johns Hopkins Neurology Residency (page not readable, 403)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "123:chr:hong",
+  "name": "Christopher Hong",
+  "program_id": 123,
+  "program": "Yale-New Haven Medical Center Program",
+  "entry_year": 2016,
+  "first_seen": "2016-2017",
+  "last_seen": "2022-2023",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity (Christopher Sungwoon Hong, Ohio State MD 2016, Yale residency 2016-2023); Yale news says Christopher Hong from Ohio State matched to Yale July 2016; PubMed 'Christopher S. Hong' Yale co-author. US News lists Boston (Brigham) vs Doximity Portland OR (OHSU); same person moved",
+   "outcome": "completed",
+   "outcome_detail": "Completed Yale neurosurgery 2023; MA license 2023-25 (Brigham), OR license 2025 (OHSU, Portland)",
+   "current": "Neurosurgeon, Oregon Health & Science University area, Portland OR (Doximity)",
+   "residency_stated": [
+    {
+     "institution": "Yale-New Haven Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2016,
+     "end": 2023
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/christopher-hong-md-0b3d2197",
+     "type": "doximity",
+     "evidence": "Christopher Sungwoon Hong MD; Yale-New Haven Residency 2016 - 2023; Ohio State Class of 2016"
+    },
+    {
+     "url": "https://medicine.yale.edu/news-article/12419/",
+     "type": "news",
+     "evidence": "Christopher Hong, Ohio State, matched to Yale Neurosurgery beginning July 2016"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "123:bre:gu",
+  "name": "Brett Gu",
+  "program_id": 123,
+  "program": "Yale-New Haven Medical Center Program",
+  "entry_year": 2024,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Yale profile: Brett Gu MD, Yale MD 2024, Hospital Resident, Neurosurgery dept, Damisah Lab; presented at 2026 Collins Neurosurgery Resident Research Symposium; co-author with Yale neurosurgery residents",
+   "outcome": "in_training",
+   "outcome_detail": "Appears as Yale neurosurgery resident presenting at the 2026 resident symposium; consistent with joining neurosurgery at PGY2 in 2025-26 after preliminary year. No Doximity/bio stating start year",
+   "current": "Neurosurgery resident, Yale-New Haven",
+   "residency_stated": [
+    {
+     "institution": "Yale New Haven Hospital",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.yale.edu/profile/brett-gu/",
+     "type": "bio",
+     "evidence": "Brett Gu, MD; Hospital Resident; affiliated with Neurosurgery / Damisah Lab"
+    },
+    {
+     "url": "https://medicine.yale.edu/neurosurgery/education/residencyprogram/currentresidents/",
+     "type": "program_page",
+     "evidence": "search result: Current Residents | Neurosurgery (search snippet: presented at 2026 Collins symposium)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "123:all:toth",
+  "name": "Allison Toth",
+  "program_id": 123,
+  "program": "Yale-New Haven Medical Center Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Yale profile lists Allison Toth as Hospital Resident, Neurosurgery dept; not listed on cached Yale current-residents page (likely PGY1 2026). Doximity Allison Toth is Drexel MD class 2026 (Philadelphia, no residency listed) - consistent but unconfirmed",
+   "outcome": "in_training",
+   "outcome_detail": "Yale School of Medicine profile: Hospital Resident, Neurosurgery. Doximity shows only Drexel class of 2026",
+   "current": "neurosurgery resident (PGY-1), Yale",
+   "residency_stated": [
+    {
+     "institution": "Yale-New Haven Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.yale.edu/profile/allison-toth/",
+     "type": "program_page",
+     "evidence": "Hospital Resident, Neurosurgery"
+    },
+    {
+     "url": "https://www.doximity.com/pub/allison-toth-md",
+     "type": "doximity",
+     "evidence": "Drexel University College of Medicine, Class of 2026 (no residency listed)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

@@ -1,0 +1,281 @@
+{
+ "program_id": 53,
+ "name": "Penn State Milton S Hershey Medical Center Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.pennstatehershey.org/web/neurosurgery/education/residency/current",
+   "from": "2009",
+   "to": "2017-03 (302 thereafter)"
+  },
+  {
+   "url": "http://www.med.psu.edu/web/neurosurgery/education/residency/current",
+   "from": "2013-07",
+   "to": "2015-09"
+  },
+  {
+   "url": "http://www.hmc.psu.edu/neurosurgery/residency/",
+   "from": "pre-2010",
+   "to": "2010 (302)"
+  },
+  {
+   "url": "https://residency.med.psu.edu/programs/neurosurgery-residency/ (roster = JS 'Hersheytable' accordion)",
+   "from": "2017-10",
+   "to": "2025-01 (host now dead)"
+  },
+  {
+   "url": "https://psh-newsroom.vmhost.psu.edu/datatables/viewer.php?sheet_id=1KFE66XhImOELM4cAmwXNsCwZRcKuIieosB_yDNfxKF0... (roster JSON, 2017-2019; again 2025+)",
+   "from": "2017",
+   "to": "2026"
+  },
+  {
+   "url": "https://pennstatehealthnews.org/datatables/viewer.php?sheet_id=1KFE66XhImOELM4cAmwXNsCwZRcKuIieosB_yDNfxKF0... (roster JSON)",
+   "from": "2020",
+   "to": "2025"
+  },
+  {
+   "url": "https://med.psu.edu/neurosurgery (dept, no roster)",
+   "from": "2019-10",
+   "to": "2025-02"
+  },
+  {
+   "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+   "from": "2025-06",
+   "to": "live"
+  },
+  {
+   "url": "http://www2.hmc.psu.edu/web/neurosurgery/education/residency/current (mirror of pennstatehershey.org)",
+   "from": "2010-07",
+   "to": "2010-07 (single capture)"
+  },
+  {
+   "url": "https://residency.med.psu.edu/programs/neurosurgery-residency/commencement/ (graduates table, JS sheet 1YaV4E1...)",
+   "from": "2021-02",
+   "to": "2021-02"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2021-2022",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2022-2023",
+  "2023-2024"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No capture of pennstatehershey.org .../residency/current between 2010-07-06 (2009-10 content) and 2013-05 (2012-13 content); med.psu.edu/web/neurosurgery first captured 2013-07. CC-MAIN-2012 had 0 records for both SURTs. Reconstructed 12 (bracketed 2009-10/2012-13 or alumni-confirmed). Not reconstructed: Koijan Kainth (joined 2010-12, first seen 2012-13 PGY-6), Wonsuk Kim (PGY-1 2009-10, gone by 2012-13). The 2010 class shows only Brandmeir; a lost 2010 entrant would be invisible. PHASE 2: gapaudit 2010-2013 over pennstatehershey.org/web/neurosurgery, med.psu.edu/web/neurosurgery, hmc.psu.edu (incl. www2.hmc.psu.edu mirror), GME paths: /residency/current captured only 2010-07 (both hosts) and from 2013-05; residency overview captured 2012-05/06 ('accepting two residents per year'), department home/news 2011-2012 (no resident names). PubMed 2009-2014 affiliation mining: no unlisted resident.",
+  "2012-2013": "Observed from a July 2013 capture content-dated 2012-13 (Kelleher PGY-7, Anderson/Payne PGY-1); same list in CC May 2013. No Aug-Jan capture.",
+  "2017-2018": "Roster moved to residency.med.psu.edu, rendered client-side from a Google Sheet via viewer.php JSON. Wayback holds no neurosurgery-filtered JSON before 2024-09 and no unfiltered sheet except 2022-02-12. CC (2017-2026) for both viewer hosts: see problems. Reconstructed from 2016-17 + 2021-22 bracketing and alumni list; Jafrani (transfer in July 2017 per teaching-award text) added via alumni list. 2018 entrants (Jareczek, Padmanaban) and 2019/2020 entrants NOT reconstructed for years before 2021-22 (not bracketed). PHASE 2: see year_status and phase2 block; partial observed entries added (nominations sheet, Research Day sheet, Penn State Health News).",
+  "2018-2019": "Same as 2017-18. PGY-1 (2018 class) and later-entering classes absent from reconstruction. PHASE 2: see year_status and phase2 block; partial observed entries added (nominations sheet, Research Day sheet, Penn State Health News).",
+  "2019-2020": "Same as 2017-18. PHASE 2: see year_status and phase2 block; partial observed entries added (nominations sheet, Research Day sheet, Penn State Health News).",
+  "2020-2021": "Same as 2017-18; partial 'other' row: Chanju Fritch (teaching nomination Jul 2020). PHASE 2: see year_status and phase2 block; partial observed entries added (nominations sheet, Research Day sheet, Penn State Health News).",
+  "2022-2023": "Between 2021-22 sheet (Feb 2022) and 2024-25 JSON (Sep 2024) no capture. Bracketed people reconstructed; 2022 entrants (Akel, Bailey, Tuohy) not reconstructed. Dennis Madden left somewhere in 2022-2024. PHASE 2: partial observed entries added (nominations, news, Research Day 2023). Madden: NPPES shows only a 2021 'Student' NPI (not a switch); not on any archived capture of other Penn State programs' current-residents sheets (44 captures) nor on any other study roster.",
+  "2023-2024": "Same as 2022-23; partial 'other' rows Akel (Jul 2023), Paro (Apr 2024) from teaching-award nominations. 2023 entrants not reconstructed. PHASE 2: partial observed entries added (nominations, news, Research Day 2023). Madden: NPPES shows only a 2021 'Student' NPI (not a switch); not on any archived capture of other Penn State programs' current-residents sheets (44 captures) nor on any other study roster."
+ },
+ "alumni_page": "https://psh-newsroom.vmhost.psu.edu/datatables/viewer.php?sheet_id=1H1QUukjgGc2k8ADiUsmEXpHVSMep-3xpTw02bMA1T2o&split_on_column=1&values=1&value1=neurosurgeryresidency&suppress_split=true (Program Alumni table, grads 1996-2024)",
+ "departures": [
+  {
+   "name": "Endrit Ziu",
+   "last_ay": "2015-2016",
+   "last_pgy": 3,
+   "note": "2013 entrant; absent from Jul-2016 onward rosters; not on alumni list; TRANSFERRED to Missouri-Columbia (program 94): PGY-4 there 2017-18, PGY-6 2019-20 (training_history row added)"
+  },
+  {
+   "name": "David McDermott",
+   "last_ay": "2015-2016",
+   "last_pgy": 2,
+   "note": "2014 entrant; absent from Jul-2016 onward; not on alumni list (Jafrani transferred into the 2014 class Jul 2017)"
+  },
+  {
+   "name": "Dennis Madden",
+   "last_ay": "2021-2022",
+   "last_pgy": 1,
+   "note": "2021 entrant; PGY-1 Feb 2022, absent Sep 2024; exit Feb 2022 - Sep 2024. Adjudicator's NPI 'switch' was a 2021 Student NPI; recorded as completed='unknown' (training_history)."
+  },
+  {
+   "name": "Samir Alsalek",
+   "last_ay": "2025-2026",
+   "last_pgy": 1,
+   "note": "absent from live 2026-27 roster; James Cooper appears at PGY-2 in his place"
+  },
+  {
+   "name": "Wonsuk Kim",
+   "last_ay": "2009-2010",
+   "last_pgy": 1,
+   "note": "pre-window: PGY-1 with Bogason in Jul 2010 capture, absent 2012-13; departure 2010-12"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Koijan Kainth",
+   "first_ay": "2012-2013",
+   "first_pgy": 6,
+   "note": "transfer from Minnesota (program 92; PGY-3 there 2009-10, not a UMN alumnus); absent PS 2009-10; arrival Jul 2010 - Jul 2012, probably 2012; graduated 2013 (training_history row, start_year 2012)"
+  },
+  {
+   "name": "Namath Hussain",
+   "first_ay": "2013-2014",
+   "first_pgy": 5
+  },
+  {
+   "name": "Christine Mau",
+   "first_ay": "2016-2017",
+   "first_pgy": 2
+  },
+  {
+   "name": "Ryan Jafrani",
+   "first_ay": "2017-2018",
+   "first_pgy": 4,
+   "note": "transfer from Houston Methodist (program 26, PGY-3 2016-17); July 2017 per nomination text; placed 2018-19 by a Jun 2019 nomination; alumni 2021 (training_history row, start_year 2017)"
+  },
+  {
+   "name": "James Cooper",
+   "first_ay": "2026-2027",
+   "first_pgy": 2
+  }
+ ],
+ "residents_2011plus": 41,
+ "adjudication_summary": {
+  "COMPLETED": 31,
+  "IN TRAINING": 19,
+  "LEFT -> outcome unknown": 3,
+  "LEFT -> TRANSFERRED": 1
+ },
+ "problems": "Seven of sixteen years unobserved (2011-12, 2017-21, 2022-24) because the 2017-2025 roster was JS-loaded from a Google Sheet and rarely archived. Live Google Sheet CSV export now holds a post-June-2025 state (2024-25 minus PGY-7s), not history. Kimberly Major = Kimberly Kray (identical photo digest on residency.med.psu.edu/photos). Class size 2/yr through 2018 entrants, 3/yr from 2019. COMMON CRAWL: 2010-2013 pass complete (CC-MAIN-2012 0 records; 2013-20/2013-48 only duplicate 2012-13 and 2013-14 lists). 2017-2026 pass over org,pennstatehealthnews)/datatables/viewer.php, edu,psu,vmhost,psh-newsroom)/datatables/viewer.php and edu,psu,med)/residencies-fellowships/professional-programs/neurosurgery-residency completed (96 crawls): no viewer.php record in any crawl; med.psu.edu hits only 2025-06..2026-09 (same pages already used). Range requests FAILED for CC-MAIN-2018-05 and 2023-40 (med.psu.edu SURT), 2019-22, 2025-05 and 2026-39 (pennstatehealthnews), 2020-45 and 2022-05 (psh-newsroom), 2025-43 (med.psu.edu) -- phase 2 may retry these; 2022-05 and 2023-40 are the ones that could touch the 2022-24 gap. PHASE 2: stale gap.py not rerun (the gap files were hand-edited; this update is data/raw/extraction/p53/phase2/gap2.py). Stray CC process pid 6267 from phase 1 was not running. CC retries all succeeded with 0 records. New CC scan of residency.med.psu.edu neurosurgery paths (87 crawls 2017-2025): range requests FAILED for CC-MAIN-2017-47, 2019-13, 2021-49, 2023-50 (programs/neurosurgery) and 2020-24, 2024-33 (department/neurosurgery); low value, since every successful capture held only page HTML (the roster is JS-loaded).",
+ "terminal_pgy_by_entry_year": {
+  "2004": 6,
+  "2005": 7,
+  "note": "6-year through the 2004 entrants (Douds finished PGY-6 in 2010); 7-year from the 2005 entrants (Horton, Rizk PGY-7 grads 2012). Koijan Kainth (2007 entrant, transfer from Minnesota) graduated after PGY-6 in 2013: individual exception."
+ },
+ "complement_by_entry_year": {
+  "<=2018": 2,
+  "2019+": 3,
+  "note": "Program page: 'accepting two residents per year' (2012-05), 'admits two residents per year' (2017-10 to 2019-07), 'admits three residents per year' (2019-09 onward). The 2011 class had 3 and the 2015 class 3 after Mau joined."
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "All 12 residents bracketed by the 2009-10 and 2012-13 rosters or the alumni list; the 2011 class is seen at 3 (above the complement of 2) in 2012-13 and all graduated 2018, so the only possible unseen event is a pre-2011 entrant (Wonsuk Kim's exit, Kainth's arrival), outside the 2011+ cohort."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Jul 2013 capture content-dated 2012-13; same list in CC-MAIN-2013-20."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Oct 2013."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Sep 2014."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Sep 2015."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Sep 2016."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Bracketed reconstruction plus partial observations (Research Day 2018: Mau, Davanzo, Zammar; Jafrani's July 2017 transfer stated in nomination text). Every 2016-17 resident is accounted for by the alumni list; the 2017 class is at complement (2) in Feb 2022; the alumni list has no unlisted graduate."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Bracketed reconstruction plus nomination (Jafrani, Jun 2019). 2018 class at complement (2) in Feb 2022; 2018 entrants (Jareczek, Padmanaban) not placed because not bracketed."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Bracketed reconstruction plus nominations (Daggubati, Mau). 2020 commencement page: a single 2020 graduate (= Davanzo, whose classmate Ziu left in 2016). 2019 class at the new complement (3) in Feb 2022."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Bracketed reconstruction plus nominations (Fritch Jul 2020, Daggubati) and news (Daggubati 'PGY-6 chief resident', Jun 2021). 2020 class at complement (3) in Feb 2022."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Feb 2022 unfiltered GME current-residents sheet, filtered to Neurosurgery (18)."
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Bracketed reconstruction plus nominations (Kray/Major, Tachie-Baffour, Zammar), news (Fritch 'third-year', Mar 2023) and Research Day 2023 (Tuohy, PGY-1). 2022 class at complement (3) in Sep 2024. Only open item: Madden's exit falls in Feb 2022 - Sep 2024."
+  },
+  "2023-2024": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Reconstruction plus 8 residents placed by nominations dated Jul 2023 - Apr 2024 (Kray 'fourth year'). 2023 class at complement (3) in Sep 2024. Madden's exit year still unknown (2022-23 or 2023-24)."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Sep 2024 neurosurgery-filtered sheet JSON (19)."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Apr 2026 med.psu.edu current-residents (20)."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page (19): PGYs advanced, 2 new interns, Cooper joined PGY-2, Alsalek gone."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2017-2024: residency.med.psu.edu, med.psu.edu/neurosurgery, pennstatehershey.org/web/neurosurgery, pennstatehealthnews.org, news.pennstatehealth.org, psh-newsroom.vmhost.psu.edu, med.psu.edu/residencies-fellowships, med.psu.edu/gme, pennstatehealth.org HMC location pages",
+   "gapaudit 2010-2013: pennstatehershey.org/web/neurosurgery, med.psu.edu/web/neurosurgery, hmc.psu.edu (+www2), pennstatehershey.org/web/gme, med.psu.edu/web/gme",
+   "link audit: 36 digests of residency.med.psu.edu/programs/neurosurgery-residency/ (2017-10..2025-01; tracked 'admits two/three residents per year' and its Hersheytable sheet ids), new-residents-and-fellows (34 digests, no roster), video and department feed pages; 2011-2012 department home/education/news captures",
+   "every Wayback capture of pennstatehealthnews.org and psh-newsroom viewer.php (all sheet ids): 1KFE66 current-residents sheet has only the 2022-02-12 unfiltered and 2024-09-04 neurosurgery captures usable; the other 42 are filtered to other programs (grepped for Madden/Ziu/McDermott/Alsalek/Jafrani: none); all 48 unfiltered captures of other sheets grepped (no neurosurgery residents)",
+   "Wayback CDX for docs.google.com / spreadsheets.google.com / sheets.googleapis.com copies of the roster, alumni, commencement and nomination sheets: none",
+   "residency.med.psu.edu/photos/ CDX (2172 captures): resident photos only from 2022-02 onward",
+   "Common Crawl retries of the 8 phase-1 failed (crawl, prefix) pairs (2018-05, 2019-22, 2020-45, 2022-05, 2023-40, 2025-05, 2025-43, 2026-39): all ok, 0 records",
+   "Common Crawl 2017-2025 (new) over residency.med.psu.edu/programs/neurosurgery* and /department/neurosurgery*: page HTML only (roster is JS; no names)",
+   "Penn State Health News: Daggubati (Jun 2021) and Fritch (Mar 2023) teaching features; 2016/2020 match-day and MD/PhD match articles 2019-2024 (no neurosurgery names); international neurosurgery resident course (2019)",
+   "GME sheets (live CSV): Exceptional Teachers nominations (1D-2jjk), Resident Research Day (1B2BSzVQ), alumni (1H1QUuk)",
+   "PubMed affiliation mining 2009-2014 and 2016-2025 ('Neurosurgery' + Penn State/Hershey): no unlisted resident; unknown names are faculty, lab staff, students and research fellows",
+   "NPPES/OpenAlex/Europe PMC for Madden, Kainth, Kim; other programs' rosters for Madden, McDermott, Alsalek, Cooper, Hussain, Mau, Wonsuk Kim (none)"
+  ],
+  "found": [
+   "Program intake: 2 per year (2012 and 2017-10..2019-07 page text), 3 per year from 2019-09: matches the observed class sizes",
+   "2020 commencement page (Feb 2021): 'the 2020 graduate' (singular) = Davanzo",
+   "Partial observed rows for gap years: 2017-18 (Mau, Davanzo, Zammar), 2018-19 (Jafrani), 2019-20 (Daggubati, Mau), 2020-21 (Fritch, Daggubati PGY-6 stated), 2022-23 (Kray, Tachie-Baffour, Zammar, Fritch PGY-3 stated, Tuohy), 2023-24 (Akel, Tachie-Baffour, Hallan, McNutt, Kray PGY-4 stated, Majid, Jareczek, Paro)",
+   "Ziu -> Missouri (94) confirmed on both rosters; Jafrani <- Houston Methodist (26); Kainth <- Minnesota (92)",
+   "Madden: no evidence of a specialty switch (NPPES entry is a 2021 Student NPI)"
+  ],
+  "remaining": [
+   "Dennis Madden's exit year (2022-23 or 2023-24) and destination",
+   "Koijan Kainth's arrival year (2010-11, 2011-12 or 2012-13) and Wonsuk Kim's exit year (2010-12): both pre-2011 entrants",
+   "Outcomes of McDermott (after 2015-16) and Alsalek (after 2025-26): not gap-related",
+   "Gap years stay reconstructed: the JS-rendered roster sheet was never archived for 2017-21 or 2022-24"
+  ]
+ }
+}

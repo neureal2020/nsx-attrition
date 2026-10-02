@@ -1,0 +1,119 @@
+[
+ {
+  "key": "125:eli:klein",
+  "name": "Elizabeth Klein",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/elizabeth-klein-834755",
+  "education": [
+   "Residency, Neurological Surgery, 2011-2018 at Detroit Medical Center/Wayne State University",
+   "Medical School: Loyola University Chicago Stritch"
+  ],
+  "specialty": "Neurosurgery",
+  "evidence": "Residency, Neurological Surgery, 2011-2018",
+  "notes": "Carmel IN; consistent with completed"
+ },
+ {
+  "key": "125:r:garling",
+  "name": "R. Justin Garling",
+  "usnews": "not_found",
+  "url": "",
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "search returned no US News profile"
+ },
+ {
+  "key": "88:luk:pearson",
+  "name": "Luke Pearson",
+  "usnews": "not_found",
+  "url": "",
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "search returned no US News profile"
+ },
+ {
+  "key": "61:sta:hoang",
+  "name": "Stanley Hoang",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/stanley-hoang-2560135",
+  "education": [
+   "Medical School: Stanford University School of Medicine"
+  ],
+  "specialty": "Neurosurgery",
+  "evidence": "Neurosurgery, Bossier City LA; no residency line listed",
+  "notes": "No residency info on profile; practicing neurosurgeon"
+ },
+ {
+  "key": "60:vin:mathur",
+  "name": "Vin Mathur",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/vin-mathur-1033973",
+  "education": [
+   "Residency, Neurological Surgery, 2013-2020 at SSM Health/Saint Louis University School of Medicine",
+   "Residency, Surgery, 2001-2002 at New York Presbyterian Hospital (Cornell Campus)",
+   "Residency, Neurological Surgery, 2006-2007 at University of Missouri-Columbia",
+   "Medical School, 1997-2001 Columbia University Vagelos College of Physicians and Surgeons"
+  ],
+  "specialty": "General Surgery",
+  "evidence": "Residency, Neurological Surgery, 2013-2020 (SSM/SLU)",
+  "notes": "Now general surgeon Modesto CA; SLU neurosurgery years 2013-2020 (input entry 2012); earlier Missouri neurosurgery 2006-07. Consistent with switched_specialty."
+ },
+ {
+  "key": "97:wil:mckay",
+  "name": "William McKay",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/william-mckay-1464617",
+  "education": [
+   "Residency, Neurological Surgery, 2017-2019 at University of New Mexico School of Medicine",
+   "Residency, Neurological Surgery, 2019-2024 at University of Colorado",
+   "Medical School: Wake Forest"
+  ],
+  "specialty": "Neurosurgery",
+  "evidence": "Residency, Neurological Surgery, 2017-2019 (UNM); 2019-2024 (Colorado)",
+  "notes": "Consistent with transferred UNM->Colorado"
+ },
+ {
+  "key": "101:ces:cuello",
+  "name": "Cesar M. Carballo Cuello",
+  "usnews": "not_found",
+  "url": "https://health.usnews.com/doctors/cesar-carballo-1121690",
+  "education": [
+   "Medical School: Universidad Central del Caribe"
+  ],
+  "specialty": "Other or Unknown Specialty",
+  "evidence": "",
+  "notes": "Only a bare 'Cesar M. Carballo' San Juan PR profile with no residency; not confirmed same person; no training data"
+ },
+ {
+  "key": "101:gab:flores-milan",
+  "name": "Gabriel Flores-Milan",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/gabriel-flores-milan-1176193",
+  "education": [
+   "Residency, Neurological Surgery, 2015-2019 at University of Puerto Rico",
+   "Residency, Neurological Surgery, 2019-2023 at University of South Florida Morsani",
+   "Chief Residency, Neurological Surgery, 2022-2023 at USF",
+   "Fellowship, Neurosurgical Spine Surgery, 2021 at USF",
+   "Fellowship, Cerebrovascular & Skull Base Surgery, 2023-2024 at USF",
+   "Medical School: Ponce Health Sciences University"
+  ],
+  "specialty": "Neurosurgery",
+  "evidence": "Residency, Neurological Surgery, 2015-2019 (UPR); 2019-2023 (USF)",
+  "notes": "Consistent with transferred; UPR entry 2015 matches"
+ },
+ {
+  "key": "101:ale:cruz",
+  "name": "Alejandro J. Matos Cruz",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/alejandro-matos-cruz-1489176",
+  "education": [
+   "Residency, Neurological Surgery, 2016-2023 at University of Puerto Rico",
+   "Residency, Neurological Surgery, 2021-2024 at Allegheny Health Network Medical Education Consortium (AGH)",
+   "M.D. University of Puerto Rico School of Medicine"
+  ],
+  "specialty": "Neurosurgery",
+  "evidence": "Residency, Neurological Surgery, 2021-2024 (AGH); 2016-2023 (UPR)",
+  "notes": "Consistent with transferred (UPR -> AGH); UPR start 2016 vs input entry 2017"
+ }
+]

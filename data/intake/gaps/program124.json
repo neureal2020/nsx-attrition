@@ -1,0 +1,322 @@
+{
+ "program_id": 124,
+ "name": "Zucker School of Medicine at Hofstra/Northwell (North Shore University Hospital / formerly North Shore-LIJ, 'Neurosurgery Residency at LIJMC')",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.northshorelij.com/NSLIJ/... ('Neurosurgery Residency at LIJMC' CMS; faculty page only archived, no roster)",
+   "from": "2009",
+   "to": "2012"
+  },
+  {
+   "url": "http://www.northshorelij.com/cushing-neuroscience-institute/for-residents-and-medical-students/neurosurgery-current-residents (+ /neurosurgery-residents-2012-2013, dead by Dec 2013)",
+   "from": "2013-06 (linked)",
+   "to": "2014-11"
+  },
+  {
+   "url": "http://www.northshorelij.com/hospitals/professional-education/neurosurgery-residency-at-lijmc (description only)",
+   "from": "2013-05",
+   "to": "2014-08"
+  },
+  {
+   "url": "http://neuro.northshorelij.com/for-residents-and-medical-students/neurosurgery-current-residents (stale 2014-15 list)",
+   "from": "2014-12",
+   "to": "2016-05"
+  },
+  {
+   "url": "https://www.northshorelij.com/research-and-education/graduate-medical-education/residency-neurosurgery-north-shore-lij-health-system (no roster)",
+   "from": "2015-03",
+   "to": "2015-12"
+  },
+  {
+   "url": "https://www.northwell.edu/research-and-education/graduate-medical-education/residency-neurosurgery-northwell-health/current-residents (Common Crawl only)",
+   "from": "2017-12",
+   "to": "2018-05 (301 by 2024)"
+  },
+  {
+   "url": "https://professionals.northwell.edu/graduate-medical-education/residency-neurosurgery-zucker-school-of-medicine-hofstra-northwell (+ /current-residents, never archived)",
+   "from": "2018-08",
+   "to": "2018-12"
+  },
+  {
+   "url": "https://professionals.northwell.edu/graduate-medical-education/residency-neurosurgery-nsuh-lij (main page only archived)",
+   "from": "2019-01",
+   "to": "2019-10"
+  },
+  {
+   "url": "https://professionals.northwell.edu/graduate-medical-education/residency-neurosurgery-nsuh/current-residents",
+   "from": "2020-12",
+   "to": "2023-05 (403) / 301 2024"
+  },
+  {
+   "url": "https://physicians.northwell.edu/education/graduate-medical-education/residency-neurosurgery-nsuh/current-residents (live target of the programs.website redirect)",
+   "from": "2024-07",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://www.northwell.edu/sites/northwell.edu/files/<yyyy-mm>/...neurosurgery...residents...pdf (roster PDFs linked from current-residents; 2020-09, 2021-10, 2023-07, 2024-08, 2026-08 still live)",
+   "from": "2020-08",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2013-2014",
+  "2014-2015",
+  "2016-2017",
+  "2017-2018",
+  "2020-2021",
+  "2021-2022",
+  "2023-2024",
+  "2024-2025",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2015-2016",
+  "2018-2019",
+  "2019-2020",
+  "2022-2023",
+  "2025-2026"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No roster anywhere. Wayback CDX of northshorelij.com (domain, regex neurosurg / resident) finds only NSLIJ/Faculty+Neurosurgery+Residency+at+LIJMC (Mar 2011, faculty list) and NSLIJ/Neurosurgery+Program. No Common Crawl for 2011. Not reconstructed (no earlier roster to bracket). [phase2] Reconstructed from bios (Doximity start/end years) of 2013-14 residents + Vadivelu (Doximity 2007-2012). Gapaudit 2011-2013 of northshorelij.com cushing-neuroscience-institute / NSLIJ / hospitals: only neuronews-cni-residents (2012-10, Zavarella + Vadivelu) and the training/faculty page. PubMed affiliation mining 2010-2014 surfaced Nathaniel Stetson DO (NSUH 2012; Doximity lists NSLIJ neurosurgery residency, NY licence 2009-2012, OK licence 2013) and Shawn Belverud DO (NSLIJ 2008/2010; NY licence 2010; later Navy) - pre-2011 entrants, finish year unconfirmed, not loaded.",
+  "2012-2013": "cushing-neuroscience-institute/.../neurosurgery-current-residents linked from Jun 2013 but first captured Dec 2013 (CC); /neurosurgery-residents-2012-2013 is 'Page Not Found' in every CC capture (2013-12..2014-09), never in Wayback. CC-MAIN-2012 / 2013-20 have only the training/faculty page. News item (Wayback 2012-11 / 2013-06) names residents Sal Zavarella DO and Sudhakar Vadivelu DO only. Not reconstructed. [phase2] Reconstructed as for 2011-12 plus Chakraborty/Du (Doximity 2012-2019). PGY7 (Class of 2013) group unknown - pre-2011 entrants (possibly Stetson), outside the 2011+ entry cohorts.",
+  "2013-2014": "Observed via Common Crawl CC-MAIN-2013-48 (2013-12-20); same content Mar/Apr/Jul/Sep 2014 in CC. 'Class of' headings only; PGY = 7-(class-2014). Fellow Ami Raval excluded.",
+  "2014-2015": "Observed Wayback 2014-11-13 (same in CC Oct 2014-Jul 2015). Lists Class of 2016..2021 only: no Class of 2015/PGY-7 listed (incomplete for PGY-7). DO residents' class years +1 vs 2013-14 page. [phase2] RESOLVED: the page shifted the DO residents one class late. Loven Doximity 2008-2015, Beecher at UTSW by early 2016, Januszewski Doximity 2010-2016. So Beecher/Loven = PGY7 chiefs (graduated 2015), Januszewski/Virojanapa = PGY6. Roster complete.",
+  "2015-2016": "Page never updated: neuro.northshorelij.com current-residents (Wayback 2015-09-12, 2015-11-02, 2016-04-10; CC 2015-40/48, 2016-07/18) identical to 2014-15 (no 2015 interns). Reconstructed bracketed 8 of ~14. SIGNIFICANT. [phase2] Added Januszewski/Virojanapa as PGY7 (graduated June 2016, Doximity) and 2015 interns Sun/Bonda (Doximity 2015-2022).",
+  "2016-2017": "Only content = CC-MAIN-2017-51 capture (Dec 2017) of northwell.edu .../current-residents which is stale 2016-17 content (explicit PGY labels, Pruitt/Shah PGY 1). PGY-7 class (Januszewski, Virojanapa) not listed -> incomplete. CC 2017-04 (retried) had no records. SIGNIFICANT for PGY-7. [phase2] RESOLVED: no PGY7 class existed - Januszewski/Virojanapa graduated June 2016 (Doximity; USF and Yale spine fellowships 2016-17). Roster complete.",
+  "2017-2018": "Observed CC-MAIN-2018-22 (2018-05-26), complete with PGY-7.",
+  "2018-2019": "No capture of current-residents: professionals.northwell.edu/.../residency-neurosurgery-zucker-school-of-medicine-hofstra-northwell/current-residents linked (CC Oct/Dec 2018) but never crawled; Wayback nothing. PDF name guesses for files/2018-05..2019-04 all 404. Reconstructed 8 bracketed. SIGNIFICANT. [phase2] Gapaudit Jun 2018-Sep 2020 over professionals.northwell.edu/graduate-medical-education, www.northwell.edu/sites/northwell.edu/files, /research-and-education: only the residency main page; no roster/PDF. Added bio-confirmed PGY7 Chakraborty/Du, PGY6 Chiluwal/Gandhi, PGY1 Schneider.",
+  "2019-2020": "Wayback 2019-08/10 and CC 2019 only have residency-neurosurgery-nsuh-lij main page; current-residents never captured; PDF guesses 404. Reconstructed 8 bracketed. SIGNIFICANT. [phase2] Added PGY7 Chiluwal/Gandhi (Doximity), Schneider PGY2, Unadkat PGY2 (joined July 2019 after BWH surgery year), 2019 interns Turpin/Toscano.",
+  "2020-2021": "Observed Wayback 2020-12-22 (+ live PDF files/2020-09/neurosurgery-program-residents.pdf, same people).",
+  "2021-2022": "No HTML capture (Wayback Dec 2021 is main page; CC 2021-43/49 non-roster). Observed via still-live program PDF files/2021-10/neurosurgery-program-residents-2021.pdf (PGY-1 = 2021 entrants). Unadkat not on it.",
+  "2022-2023": "Wayback current-residents 2023-05-28 = 403 firewall; no CC; PDF name guesses (11+18 patterns x files/2022-04..2023-06) all 404. Reconstructed 10 bracketed. SIGNIFICANT. [phase2] Gapaudit Jun 2022-Sep 2023: only the 403 current-residents capture and an unrelated files/2022-03 PDF. Added PGY7 Pruitt/Green/Shah, Unadkat PGY4, interns Gluski/Kashanian.",
+  "2023-2024": "Observed via live program PDF files/2023-07/zucker-school-of-medicine-neurosurgery-residents-2023-2024.pdf.",
+  "2024-2025": "Observed Wayback 2025-04-16 (matches PDF files/2024-08/...2024-2025.pdf).",
+  "2025-2026": "Wayback only Apr 2025 and Sep 2026; CC physicians.northwell.edu 2025 crawls empty; PDF guesses files/2025-04..2026-06 404. Reconstructed 12 bracketed. SIGNIFICANT. [phase2] Gapaudit May 2025-Sep 2026 over physicians.northwell.edu/education and files/2025, files/2026: nothing for 2025-26 (main page Aug 2025, current-residents only Sep 2026). Added PGY7 Turpin/Toscano (Northwell bios)/Unadkat (inferred) and 2025 interns Pecorari/McBriar/Donaldson.",
+  "2026-2027": "Live page 2026-09-27, advanced vs 2024-25 with 3 new PGY-1s; matches PDF files/2026-08/...2026-2027.pdf."
+ },
+ "alumni_page": null,
+ "departures": [],
+ "joiners": [
+  {
+   "name": "Ross Green",
+   "first_ay": "2020-2021",
+   "first_pgy": 5,
+   "origin": "University of New Mexico (97), forced transfer after UNM accreditation withdrawal effective 2020-06-30; UNM row th 2817",
+   "grad": 2023
+  },
+  {
+   "name": "Prashin Unadkat",
+   "first_ay": "2019-2020",
+   "first_pgy": 2,
+   "origin": "BWH general-surgery year 2018-19 (Doximity), not a neurosurgery transfer; joined the 2018 class",
+   "grad": 2026
+  }
+ ],
+ "residents_2011plus": 36,
+ "adjudication_summary": {
+  "completed": 26,
+  "in_training": 18,
+  "left": 0,
+  "note": "After phase 2 every former resident resolves as a graduate (training_history rows for 15 incl. Vadivelu); 2 inferred (Shah, Unadkat)."
+ },
+ "problems": "No program alumni/graduates page on any host (so no training_history rows inserted). 2011-12 and 2012-13 unobservable. Pages in 2014-15 and 2016-17 omit the PGY-7 class. DO residents (Beecher, Loven, Januszewski, Virojanapa, Gamble) were relabelled one class year later between the Dec-2013 and Nov-2014 pages, so their entry years are inconsistent (e.g. Gamble 2010 by 2013-14 labels, 2011 by later ones; adjudicator used 2010). Ross Green (Class of 2023) not on 2016-17/2017-18 class-of-2023 lists (Pruitt, Shah) but on 2020-21 at PGY-5: probable transfer-in/late addition between 2018 and 2020, not classed as joiner because 2019-20 is unobserved. Program appears to have been 1 resident/yr, 5 residents total before ~2010 ('evolving from a five-resident, one-hospital program to a full 12-resident'), 2/yr from ~2009, 2-3/yr from 2016. Common Crawl: all crawls completed (19 initially failed pairs retried successfully). residents_2011plus=36 counts Gamble as a 2010 entrant (37 if his later Class-of-2018 label is used). [phase2] Doximity gives Virojanapa residency 2011-2015 (with Northwell internship 2010-11) but fellowship 2016-17 and classmate Januszewski 2010-2016; end year recorded 2016. No Doximity/bio with years for Kevin Shah or Unadkat. Chabot Doximity profile is wrong (lists a Barrow neurology residency).",
+ "complement_note": "2/yr for 2007-2020 entrants (Class-of groups of 2), 3 in 2021, then alternating 2/3 (2022:2, 2023:3, 2024:2, 2025:3, 2026:3).",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster exists; all 2010/2011 entrants (Januszewski, Virojanapa, Mehan, Gamble) have bio-confirmed continuous training, both cohorts are full at the 2/yr complement; only pre-2011 finishers (Stetson, Belverud) are unplaced."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster; 2012 entrants Chakraborty/Du bio-confirmed 2012-2019 (complement 2 full); only the Class-of-2013 PGY7 group (pre-2011 entrants) is unknown."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete page (Class-of headings); Gamble PGY corrected to 3 from bios."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete: the 'missing Class of 2015' was a mislabel; Beecher/Loven (Chief Residents) are the PGY7s (Loven Doximity 2008-2015)."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "none",
+   "reason": "Every class bio-confirmed: PGY7 Januszewski/Virojanapa (grad 2016), 2015 interns Sun/Bonda (Doximity 2015-2022), others bracketed; no class could lose or gain anyone unseen at the 2/yr complement."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete: no PGY7 class existed (the 2010 cohort Januszewski/Virojanapa graduated June 2016 per Doximity)."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete CC capture."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "PGY7/PGY6 bio-confirmed (Doximity), others bracketed; only open point: whether the 2018 class had a second PGY-1 who left after 2018-19 (Unadkat joined that class at PGY2 in July 2019 after a BWH surgery year). No trace of such a person in PubMed affiliation mining 2018-2020."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "none",
+   "reason": "PGY7 Chiluwal/Gandhi Doximity 2013-2020; all others bracketed (2019 interns Turpin/Toscano, Unadkat PGY2)."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete (HTML + PDF)."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Program PDF; Unadkat off roster (research year) - explained."
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "none",
+   "reason": "PGY7 Pruitt (Doximity 2016-2023), Green (Northwell bio, chief resident), Shah (inferred, Northwell-affiliated through 2025); 2022 interns Gluski (Doximity 2022-2029)/Kashanian bracketed forward; all others bracketed."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Program PDF, complete."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2025-2026": {
+   "status": "reconstructed",
+   "significance": "none",
+   "reason": "PGY7 Turpin/Toscano confirmed graduates (Northwell faculty bios), Unadkat inferred; 2025 interns (Donaldson Doximity 2025-2032) and all others bracketed by 2024-25 and 2026-27."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page + PDF."
+  }
+ },
+ "graduates_resolved": [
+  {
+   "name": "Jeffrey Beecher",
+   "grad": 2015,
+   "evidence": "Chief Resident 2014-15; UTSW by early 2016 (PMID 27379827)"
+  },
+  {
+   "name": "Tina Loven",
+   "grad": 2015,
+   "evidence": "Doximity 2008-2015"
+  },
+  {
+   "name": "Jacob Januszewski",
+   "grad": 2016,
+   "evidence": "Doximity 2010-2016; USF fellowship 2016-17"
+  },
+  {
+   "name": "Justin Virojanapa",
+   "grad": 2016,
+   "evidence": "Doximity internship 2010-11 + residency 2011-2015(sic); Yale fellowship 2016-17"
+  },
+  {
+   "name": "Shamik Chakraborty",
+   "grad": 2019,
+   "evidence": "Doximity 2012-2019"
+  },
+  {
+   "name": "Victor Du",
+   "grad": 2019,
+   "evidence": "Doximity 2012-2019"
+  },
+  {
+   "name": "Amrit Chiluwal",
+   "grad": 2020,
+   "evidence": "Doximity 2013-2020; Northwell bio chief resident"
+  },
+  {
+   "name": "Shashank Gandhi",
+   "grad": 2020,
+   "evidence": "Doximity 2013-2020"
+  },
+  {
+   "name": "Rachel Pruitt",
+   "grad": 2023,
+   "evidence": "Doximity 2016-2023; Northwell bio chief resident"
+  },
+  {
+   "name": "Kevin Shah",
+   "grad": 2023,
+   "evidence": "INFERRED: not on 2023-24 roster; Northwell neurosurgery affiliation through 2025; NPPES neurosurgery practice NC"
+  },
+  {
+   "name": "Ross Green",
+   "grad": 2023,
+   "evidence": "Northwell bio: chief resident, then NSUH fellowship, faculty"
+  },
+  {
+   "name": "Justin Turpin",
+   "grad": 2026,
+   "evidence": "Northwell faculty bio"
+  },
+  {
+   "name": "Daniel Toscano",
+   "grad": 2026,
+   "evidence": "Northwell bio; NPPES practice Aug 2026"
+  },
+  {
+   "name": "Prashin Unadkat",
+   "grad": 2026,
+   "evidence": "INFERRED: Class of 2026; Northwell affiliation Dec 2025; TX licence 2026"
+  },
+  {
+   "name": "Sudhakar Vadivelu",
+   "grad": 2012,
+   "evidence": "Doximity 2007-2012 (pre-2011 entrant, in 2011-12 reconstruction)"
+  }
+ ],
+ "out_of_cycle": [
+  {
+   "name": "Prashin Unadkat",
+   "note": "PGY3 2020-21 (Class of 2025) -> off roster 2021-22 (research year; Feinstein/Elmezzi) -> PGY4 2022-23 -> PGY5 2023-24 (Class of 2026)"
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "phase-1 cc/ cc_a/ cc_b/ cc_retry captures re-read (no unparsed roster in gap years; 2019 'day in the life of a neuro resident' link = program main page)",
+   "gapaudit 2011-2013 northshorelij.com (cushing-neuroscience-institute, NSLIJ, hospitals, news)",
+   "gapaudit 2018-06..2020-09 professionals.northwell.edu/graduate-medical-education, www.northwell.edu/sites/northwell.edu/files, /research-and-education, /education-and-residency",
+   "gapaudit 2022-06..2023-09 and 2025-05..2026-09 (professionals./physicians.northwell.edu, files/2022, 2023, 2025, 2026)",
+   "PubMed affiliation mining 2010-2014, 2018-2020, 2021-2023, 2024-2026 (Northwell/Hofstra/NSLIJ neurosurgery)",
+   "PubMed per-author histories for all 14 phase-1 'left' residents + Chabot, Zavarella, Gamble, Mehan, Vadivelu, Stetson, Belverud",
+   "NPPES for all of the above",
+   "Doximity public profiles (~30) and Northwell find-a-doctor bios (Turpin, Toscano, Pruitt, Green, Chiluwal)",
+   "crossmatch.json (only Ross Green UNM->Northwell)",
+   "Common Crawl not rerun: phase 1 ran for program 124 with the fixed filter and all crawls completed (19 failed pairs retried successfully)"
+  ],
+  "found": [
+   "DO class-year mislabel explained: 2014-15 page shifts Beecher/Loven/Januszewski/Virojanapa one class late; Gamble mislabelled on 2013-14 instead -> 2014-15 and 2016-17 rosters are complete",
+   "Januszewski and Virojanapa graduated June 2016 (Doximity)",
+   "Graduation evidence for all 14 phase-1 'left' residents (12 from bios, Shah and Unadkat inferred)",
+   "Ross Green transfer-in PGY5 July 2020 from UNM recorded",
+   "Unadkat joined at PGY2 July 2019 after a BWH surgery year; research year 2021-22",
+   "2011-12/2012-13 rebuilt from bio start/end years; Vadivelu (2007-2012) added; Stetson and Belverud identified as pre-2011 residents"
+  ],
+  "remaining": [
+   "2018 class: possible second 2018 PGY-1 who left after one year (vacancy filled by Unadkat at PGY2 in 2019) - not found anywhere, low",
+   "2011-13: the Class-of-2012/2013 groups (pre-2011 entrants; Stetson, Belverud) have unconfirmed finish years - outside 2011+ entry cohorts",
+   "Shah and Unadkat graduation years inferred, not stated by a bio"
+  ]
+ }
+}

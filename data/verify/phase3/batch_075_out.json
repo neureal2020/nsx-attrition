@@ -1,0 +1,1045 @@
+[
+ {
+  "key": "55:ari:takayanagi",
+  "name": "Ariel Takayanagi",
+  "program_id": 55,
+  "identity": "probable",
+  "identity_basis": "ResearchGate lists 'Neurosurgery Resident, Riverside University Health System'; Touro Univ. California DO 2018 (Doximity) matches input DO Touro; Stanford neurosurgery fellow per search summaries",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Search summary states RUHS neurosurgery residency completed 2025; now Stanford (fellow). Doximity page oddly lists Internal Medicine with ABIM (likely data error/auto-classification); Healthgrades/Convene/MediFind list neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery fellow, Stanford (Palo Alto/Stanford CA); Healthgrades also lists Santa Clara Valley Medical Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.researchgate.net/profile/Ariel-Takayanagi",
+    "type": "search_snippet",
+    "evidence": "Ariel TAKAYANAGI | Neurosurgery Resident | Riverside University Health System, Moreno Valley"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ariel-takayanagi-do",
+    "type": "doximity",
+    "evidence": "Touro University California Class of 2018; listed Internal Medicine, ABIM (anomalous); publications on neuroendovascular therapy"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-ariel-takayanagi-xynv8l9",
+    "type": "search_snippet",
+    "evidence": "Neurosurgeon in Palo Alto, CA"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "55:jam:brazdzionis",
+  "name": "James Brazdzionis",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Search results list him as Resident Neurosurgeon with Riverside University Health System; UNECOM DO 2018 (Doximity) matches input; co-authors with RUHS residents",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity (neurosurgery, Seattle, 'Fellow', cerebrovascular/neurointerventional fellowship) implies neurosurgery residency finished ~2025; Doximity education section lists only UNE COM class of 2018, no residency dates",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "cerebrovascular/neurointerventional fellow, Seattle WA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/james-brazdzionis-do",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Seattle WA; Cerebrovascular Neurosurgery, Neurointerventional Surgery; Fellow; UNECOM Class of 2018"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-james-brazdzionis-xynv9lx",
+    "type": "search_snippet",
+    "evidence": "affiliated with Arrowhead Regional Medical Center; Resident Neurosurgeon with Riverside University Health System"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "55:tye:patchana",
+  "name": "Tye Patchana",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity education: Riverside University Health System Residency Neurological Surgery 2018-2025; LECOM class of 2018 matches input",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Chief Resident Award RUHS 2025; cerebrovascular fellowship Swedish 2025-26; Stanford complex spine clinical instructorship 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "complex spine clinical instructor, Stanford (from 2026); to join Trinity Health ND as attending",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/tye-patchana-do",
+    "type": "doximity",
+    "evidence": "Riverside University Health System Residency, Neurological Surgery, 2018 - 2025"
+   },
+   {
+    "url": "https://brainbyte.stanford.edu/2026/07/meet-our-new-clinical-instructors/",
+    "type": "news",
+    "evidence": "new Stanford clinical instructors (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "55:par:savla",
+  "name": "Paras Savla",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: RUHS Medical Center Residency 2026, Touro University California class of 2019; input Touro DO",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity neurosurgery, San Francisco (UCSF address, 400 Parnassus), residency end 2026; LinkedIn earlier 'Neurosurgery Resident PGY-7'",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery (neurosurgical spine), San Francisco CA (UCSF address; likely fellow)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/paras-savla-do",
+    "type": "doximity",
+    "evidence": "Riverside University Health System - Medical Center Residency, 2026; Touro University California Class of 2019"
+   },
+   {
+    "url": "https://www.linkedin.com/in/paras-savla-57a84566/",
+    "type": "search_snippet",
+    "evidence": "Paras Savla - Neurosurgery Resident PGY-7"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "55:max:marino",
+  "name": "Maxwell Marino",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "WebMD/LinkedIn: neurosurgery resident RUHS Moreno Valley; Touro Univ. California DO 2020 matches entry 2020; co-author with RUHS residents",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as Resident Physician at RUHS neurological surgery; expected completion ~2026-27 (PGY-7)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, RUHS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/maxwell-marino-68a21dd6-5685-420c-b390-44ed7ae4b60a-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery, Moreno Valley; graduated Touro University California College of Osteopathic Medicine 2020; Resident Physician at Riverside University Health System"
+   },
+   {
+    "url": "https://linkedin.com/in/maxwell-marino-6b620642",
+    "type": "search_snippet",
+    "evidence": "Maxwell Marino - Neurosurgery Resident | Public Health"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:imr:siddiqi",
+  "name": "Imran Siddiqi",
+  "program_id": 55,
+  "identity": "probable",
+  "identity_basis": "Healthgrades/ResearchGate/Cureus: DO, neurosurgery, RUHS Moreno Valley; Doximity profile at RUHS address (26520 Cactus Ave) with COMP class of 2021 matches entry 2021",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Neurosurgery at RUHS, PGY-5 in 2025-26. Doximity profile is odd: lists Family Medicine, UIC FM residency 2019-2022 and COMP 2021 (likely merged with another Imran Siddiqi record); disregarded for outcome.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, RUHS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-imran-siddiqi-od2rtgh128",
+    "type": "search_snippet",
+    "evidence": "Dr. Imran Siddiqi, DO - Neurosurgeon in Moreno Valley, CA"
+   },
+   {
+    "url": "https://www.doximity.com/pub/imran-siddiqi-do",
+    "type": "doximity",
+    "evidence": "Family Medicine, Moreno Valley; UIC FM residency 2019-2022; COP class of 2021; RUHS address; neurosurgery RUHS publications"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:ali:wang",
+  "name": "Alice Wang",
+  "program_id": 55,
+  "identity": "probable",
+  "identity_basis": "Vitals: Dr. Alice S. Wang, DO, Neurological Surgery, 26520 Cactus Ave Moreno Valley (RUHS); ResearchGate affiliation Riverside University Health System; Cureus papers with RUHS residents (Savla, Brazdzionis, Siddiqi)",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Neurological surgery at RUHS, PGY-4 in 2025-26",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, RUHS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.vitals.com/doctors/DoctorsOfOsteopathy_Alice_ShihYu_Wang.html",
+    "type": "search_snippet",
+    "evidence": "Dr. Alice S. Wang | Moreno Valley, CA | Neurological Surgery"
+   },
+   {
+    "url": "https://www.doximity.com/pub/tye-patchana-do",
+    "type": "doximity",
+    "evidence": "Cureus 2025: Alice S Wang, Raphia K Rahman, Paras Savla, James Brazdzionis, Tye Patchana"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "55:rap:rahman",
+  "name": "Raphia Rahman",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn snippet PGY-2 neurosurgery resident at RUHS, Rowan Virtua SOM DO; Doximity DO at 26520 Cactus Ave Moreno Valley",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 at RUHS neurosurgery (2024-25); Doximity page has no training section",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, RUHS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/raphia-k-rahman-223429129/",
+    "type": "search_snippet",
+    "evidence": "PGY-2 Neurosurgery Resident, Riverside University Health System"
+   },
+   {
+    "url": "https://www.doximity.com/pub/raphia-rahman-do",
+    "type": "doximity",
+    "evidence": "Raphia Khan Rahman DO, Other MD/DO, Moreno Valley CA, 26520 Cactus Ave; no education section"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:ste:munich",
+  "name": "Stephan Munich",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush Residency Neurological Surgery 2011-2017; Rush faculty bio",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2017
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Rush residency then fellowships Miami and Buffalo; Rush faculty since 2019; ABNS listed",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor neurosurgery, director skull base, Rush University Medical Center Chicago",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/stephan-munich-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2011 - 2017; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.rushu.rush.edu/faculty/stephan-munich-md",
+    "type": "bio",
+    "evidence": "Rush faculty (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:sum:ahuja",
+  "name": "Sumeet Ahuja",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush Residency Neurological Surgery 2011-2018, Indiana Univ. SOM 2011",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgeon, Chicago; Healthgrades states board certified; residency listed to 2018 (roster last seen 2016-17 PGY6, i.e. maybe extra research year)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Chicago IL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sumeet-ahuja-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2011 - 2018"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-sumeet-ahuja-3rcwy",
+    "type": "search_snippet",
+    "evidence": "completed residency in Neurological Surgery at Rush 2011 to 2018; board certified"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:dav:wallace",
+  "name": "David Wallace",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush Medical College 2012, Rush neurosurgery residency 2012-2015, UT Health San Antonio fellowship; UTHSA bio",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2015
+   },
+   {
+    "institution": "UT Health San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2020
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left Rush 2015 after 3 years; completed neurosurgery residency at UT Health San Antonio (graduation 2020 page: 'Graduation 2020: Celebrating David Wallace, M.D.'); MISS fellowship UTHSA 2018-19; ABNS",
+  "year_left": 2015,
+  "destination_program": "University of Texas Health Science Center San Antonio",
+  "destination_start_year": 2015,
+  "current": "neurosurgeon, Erlanger, Chattanooga TN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-wallace-md-0b1b2619",
+    "type": "doximity",
+    "evidence": "Rush Residency 2012-2015; UTHSCSA Fellowship MISS 2018-2019; ABNS"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/graduation-2020-celebrating-david-wallace-m-d/",
+    "type": "program_page",
+    "evidence": "Graduation 2020: Celebrating David Wallace, M.D."
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:jos:wewel",
+  "name": "Joshua Wewel",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush Residency Neurological Surgery 2012-2019, Univ Nebraska 2012; Atlanta Brain and Spine bio",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Rush residency then Barrow fellowship; board certified neurosurgeon in Atlanta (ABNS on Doximity)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Atlanta Brain and Spine Care, GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joshua-wewel-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://atlantabrainandspine.com/team/dr-joshua-wewel/",
+    "type": "bio",
+    "evidence": "practice page (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:owo:adogwa",
+  "name": "Owoicho Adogwa",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush neurosurgery residency 2015-2018; Duke 2012-2015; Vanderbilt MD 2012; UC/UT Southwestern bios",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2015
+   },
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery at Rush (2018) after starting at Duke 2012-15 (joined Rush ~PGY4; input entry_year 2012 at Rush appears to be the overall start year). ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, University of Cincinnati (spine)",
+  "agrees_with_db": true,
+  "disagreement": "Rush start likely 2015 (transfer in from Duke residency 2012-15), not 2012; outcome completed at Rush agrees",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/owoicho-adogwa-md",
+    "type": "doximity",
+    "evidence": "Rush Residency, Neurological Surgery, 2015 - 2018; Duke University Hospital Residency 2012 - 2015; ABNS"
+   },
+   {
+    "url": "https://med.uc.edu/landing-pages/faculty-profile/Index/Pubs/adogwaoo",
+    "type": "bio",
+    "evidence": "residencies in neurological surgery at Duke University Medical Center and Rush (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:men:kerolus",
+  "name": "Mena Kerolus",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush residency 2013-2019, chief 2019-20, UMKC MD 2013",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush 2013-2019 plus chief year 2020; Columbia spine fellowship 2020-21; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Atlanta Brain and Spine Care, GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mena-kerolus-md",
+    "type": "doximity",
+    "evidence": "Rush Residency 2013 - 2019; Chief Residency 2019 - 2020; ABNS"
+   },
+   {
+    "url": "https://atlantabrainandspine.com/team/dr-mena-g-kerolus/",
+    "type": "bio",
+    "evidence": "practice page (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:rya:kochanski",
+  "name": "Ryan Kochanski",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush residency 2013-2020, Wayne State MD 2013",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush 2020; UCSF functional fellowship 2020-21; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Chief of Neurosurgery Methodist Hospital, San Antonio TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-kochanski-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2013 - 2020; ABNS"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:and:furlan",
+  "name": "Andre Beer Furlan",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush residency 2016-2021; Moffitt bio 'second neurosurgery residency at Rush'",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush 2021 (second residency after prior Brazil residency); ABNS. Input entry 2014 vs Doximity 2016 start (roster may include a research/observership period)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Moffitt Cancer Center / USF, Tampa FL",
+  "agrees_with_db": true,
+  "disagreement": "Doximity residency start 2016 vs roster first seen 2014-15; completion agrees",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/andre-beer-furlan-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2016 - 2021; ABNS"
+   },
+   {
+    "url": "https://www.moffitt.org/providers/andre-beer-furlan/",
+    "type": "bio",
+    "evidence": "second neurosurgery residency at Rush University (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:dan:eddelman",
+  "name": "Daniel Eddelman",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush residency 2014-2021, Indiana Univ SOM 2014",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush 2021; IU oncology/skull base fellowship; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Community Health Network, Indianapolis IN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-eddelman-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2014 - 2021; ABNS"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:jos:molenda",
+  "name": "Joseph Molenda",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush residency 2014-2021, Johns Hopkins MD 2014; WellSpan York bio (search result) says JHU MD, neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush 2021; ABNS; practising neurosurgery (WellSpan York PA per WellSpan; Doximity shows Greenfield WI)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, WellSpan Neurosurgery, York PA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joseph-molenda-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2014 - 2021; ABNS"
+   },
+   {
+    "url": "https://www.wellspan.org/provider-search/profile/Joseph-Molenda-MD-Neurosurgery-York-PA/26535",
+    "type": "bio",
+    "evidence": "WellSpan Neurosurgery York PA (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:ble:brahimaj",
+  "name": "Bledi Brahimaj",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush residency 2015-2022, Univ Cincinnati MD 2015",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush 2022; MD Anderson skull base fellowship; neurosurgeon at Baylor University Medical Center Dallas (no ABNS listed on Doximity)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Baylor University Medical Center, Dallas TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/bledi-brahimaj-md",
+    "type": "doximity",
+    "evidence": "completed his residency in neurological surgery at Rush University Medical Center in 2022; Residency 2015 - 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:rav:nunna",
+  "name": "Ravi Nunna",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush residency 2015-2019, Cincinnati MD 2015; Missouri residency 2021-2024",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2019
+   },
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2024
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left Rush after PGY4 (2019); Swedish spine fellowship 2020-21; completed neurosurgery residency at University of Missouri-Columbia 2021-2024; now Rush faculty area (Chicago)",
+  "year_left": 2019,
+  "destination_program": "University of Missouri-Columbia",
+  "destination_start_year": 2021,
+  "current": "neurosurgeon (spine), Chicago IL (Doximity: 1650 W Harrison St, Rush); earlier Mosaic Life Care St Joseph MO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ravi-nunna-md",
+    "type": "doximity",
+    "evidence": "University of Missouri-Columbia Residency, Neurological Surgery, 2021 - 2024; Rush Residency 2015 - 2019"
+   },
+   {
+    "url": "https://www.mymlc.com/Main/Doctor/Dr-Ravi-S-Nunna-MD/",
+    "type": "bio",
+    "evidence": "completed residencies at Rush and University of Missouri - Columbia (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:jos:woodward",
+  "name": "Josha Woodward",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Multiple bios (Healthgrades/OHSU snippets): OHSU MD, Rush neurosurgery residency, Miami endoscopic spine fellowship; Doximity OHSU class of 2016 (no residency section)",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush neurological surgery residency (~2023) then University of Miami endoscopic/MIS spine fellowship; practising neurosurgeon (OHSU/Kaiser Oregon/Tuality). Exact Rush years not stated on Doximity.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Portland OR (OHSU / Kaiser Permanente / Tuality)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/josha-woodward-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Portland OR; Oregon Health and Science University School of Medicine Class of 2016"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-josha-woodward-y9w27yz",
+    "type": "search_snippet",
+    "evidence": "completed his neurological surgery residency at Rush University and a fellowship in endoscopic and minimally invasive spine surgery at the University of Miami"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:rya:khanna",
+  "name": "Ryan Khanna",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush residency 2016-2023, Northwestern Feinberg MD; Rush research page",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush 2023 (roster last seen PGY6 2021-22, then MSK oncology fellowship 2022-23 during residency period per Doximity); Scripps spine fellowship 2023-24",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Munster IN (Community Healthcare System)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-khanna-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2016 - 2023; fellowships MSK 2022-23, Scripps 2023-24"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:sha:ahmad",
+  "name": "Shahjehan Ahmad",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush residency 2016-2023, Univ Arizona Phoenix MD 2016 + MPH (matches 'Shahjehan Ahmad, MD, MPH' on Rush alumni page)",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush 2023; Indiana Spine Group ortho spine fellowship 2023-24; now Indiana Spine Group",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Indiana Spine Group, Carmel IN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shahjehan-ahmad-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2016 - 2023; Indiana Spine Group Orthopedic Spine Surgery 2023-2024"
+   },
+   {
+    "url": "https://indianaspinegroup.com/ahmad/",
+    "type": "bio",
+    "evidence": "Shah Ahmad, MD, MPH (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "56:and:wong",
+  "name": "Andrew Wong",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Multiple sources: Andrew K. Wong, Buffalo MD 2017, Rush neurosurgery residency (Pacific Neuroscience Institute profile; Rush publications with Eddelman/Munich)",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush neurosurgery residency 2024; skull base fellowship Pacific Neuroscience Institute 2025 (search snippet). Doximity: only a namesake neurologist (San Antonio) returned, not this person.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "skull base / neurosurgery fellow-faculty, Pacific Neuroscience Institute, Santa Monica CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pacificneuroscienceinstitute.org/people/andrew-wong/",
+    "type": "bio",
+    "evidence": "Andrew K. Wong, MD; Rush University Medical Center neurosurgery residency 2024, Pacific Neuroscience Institute fellowship (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "56:dav:fessler",
+  "name": "David Fessler",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rush residency 2017-2024, Univ Cincinnati MD 2017; LinkedIn/search: R. David Fessler MD PhD (Rush alumni listing 'R. David Fessler'); not Richard Fessler (Rush faculty)",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rush 2024; neurosurgeon at Beacon Health System, South Bend IN (Doximity)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Beacon Health System, South Bend IN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-fessler-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2017 - 2024; Univ Cincinnati class of 2017"
+   }
+  ],
+  "searches_used": 1
+ }
+]

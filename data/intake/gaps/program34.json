@@ -1,0 +1,245 @@
+{
+ "program_id": 34,
+ "name": "Loyola University Medical Center Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.luhs.org/depts/neurosurg/ (resident_staff.htm roster)",
+   "from": "2003",
+   "to": "2008-07 (last roster capture); host gone by 2011-01"
+  },
+  {
+   "url": "http://stritch.luc.edu/neurosurgery/ (Drupal; roster = /neurosurgery/node/6 'Resident Staff')",
+   "from": "2011-01",
+   "to": "2016-02 (last node/6 capture); 301 by 2017-02"
+  },
+  {
+   "url": "http://ssom.luc.edu/neurosurgery/ (SSOM dept site, no roster; residency links -> stritch then loyolamedicine GME)",
+   "from": "2016-01",
+   "to": "2024-01"
+  },
+  {
+   "url": "https://www.loyolamedicine.org/gme/neuro-surgery-residency/residents",
+   "from": "2017-01 (section first captured; residents page first captured 2019-04)",
+   "to": "2021-12 (section); residents page last captured 2020-01"
+  },
+  {
+   "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/residents (+ /alumni)",
+   "from": "2023-06",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://www.luc.edu/stritch/neurosurgery/ (dept site, no roster)",
+   "from": "2025-07",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2013-2014",
+  "2014-2015",
+  "2018-2019",
+  "2019-2020",
+  "2022-2023",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2020-2021",
+  "2021-2022",
+  "2023-2024"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Observed via STALE capture: stritch node/6 captured 2013-07-14 but footer 'Last updated: Aug. 26, 2011'; Perry PGY7 (2012 grad) .. Wemhoff PGY1. 10 names.",
+  "2012-2013": "No capture of stritch node/6 between 2011 content and 2013-09 (CDX digest list: 2013-07 [2011 content], 2013-09, 2013-10, 2014-06, 2014-07, 2015-10, 2016-02). Common Crawl 2012-2013 crawls only hold /neurosurgery/ and /content/physicians. Reconstructed 10 (bracketed 2011-12/2013-14, plus Patel by alumni 2013, Johans/Swong PGY1 by alumni 2019 + PGY2 2013-14). SIGNIFICANT: David Liniewski (PGY4 2011-12) is absent 2013-14; his exit year (2012 or 2013) is unseen.",
+  "2013-2014": "Wayback 2013-09-14 stritch node/6; 11 names.",
+  "2014-2015": "Observed via STALE capture: node/6 captured 2015-10-14 (and 2016-02-10 identical) shows Hayward PGY7 (2015 grad), Li PGY1 (2021 grad) = 2014-15 content. 11 names.",
+  "2015-2016": "Stritch page not updated after 2014-15 content; loyolamedicine.org/gme/neuro-surgery-residency section first archived 2017-01 but its /residents page has no capture before 2019-04-15. CC 2015-2016 crawls: no roster URL. Reconstructed 11 (bracketed 2014-15/2018-19 or alumni-confirmed). SIGNIFICANT: Drew Spencer (PGY5 2014-15) and Tarik Ibrahim (died summer 2016) leave in this window. PHASE 2: Drew Spencer added as PGY6 (reconstructed): absent from Northwestern roster through Wayback 2016-05-12, on it as PGY7 from 2016-08-01.",
+  "2016-2017": "No roster capture (Wayback or CC). Reconstructed 9.",
+  "2017-2018": "No roster capture; CC-MAIN-2017/2018 crawls hold nothing under loyolamedicine.org/gme/neuro-surgery-residency. Reconstructed 11. PHASE 2: awards page (2018 TIGER) observes Jusue Torres.",
+  "2018-2019": "Wayback 2019-04-15 loyolamedicine residents page (only capture in AY); 11 names.",
+  "2019-2020": "Wayback 2020-01-15 (same list 2019-08-15); 11 names.",
+  "2020-2021": "Residents page has no Wayback capture after 2020-01-15 (section landing page captured 2020-09, 2020-11, 2021-07, 2021-10, 2021-12 without roster); CC 2020-2021 crawls captured only the landing page. Reconstructed 9 bracketed; PHASE 2: awards page 2021 recipients observe Li, Pecoraro, Zsigray, Kim; Jani/Ng reconstructed PGY1 (PubMed: Pitt and Tufts student affiliations through 2020). 11 total.",
+  "2021-2022": "Same as 2020-21. Reconstructed 8; PHASE 2: awards page 2022 recipients observe Zakaria, Jani, Iordanou; Ng PGY2 and Frazzetta PGY1 reconstructed (Frazzetta: Stritch student affiliations 2020-21). 11 total.",
+  "2022-2023": "Wayback 2023-06-19 new-CMS residents page (only capture in AY), content 2022-23 (Kim PGY7 = 2023 grad); 11 names.",
+  "2023-2024": "No residents-page capture between 2023-06-19 and 2024-10-04 (only an individual bio page /residents/joshua-simon 2023-11 with a stale menu). CC 2023-2024 crawls hold nothing under /gme/residencies/neurosurgery. Reconstructed 10 bracketed; PHASE 2: awards page 2024 recipients observe Zsigray, Yang, Luy; Choe reconstructed PGY1 (Stritch MD). 11 total.",
+  "2024-2025": "Wayback 2025-01-14 (same list 2024-10-04, 2024-11-23, 2025-04/05; 2025-09-05 capture is stale 2024-25 content); 11 names. Oct-2024 layout lists PGY1 last and uses bare 'Research Residents'/'Chief Residents' headings (=PGY5/PGY6) - parsed with custom p34parse.py.",
+  "2025-2026": "Wayback 2025-12-09 (same 2026-03, 2026-06); 11 names.",
+  "2026-2027": "Live page 2026-09-27; advanced vs 2025-26, new interns Chinthala and Ahn; 11 names."
+ },
+ "alumni_page": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/alumni",
+ "departures": [
+  {
+   "name": "David Liniewski",
+   "last_ay": "2011-2012",
+   "last_pgy": 4,
+   "note": "Entry 2008. Absent 2013-14, not on alumni list. Exit 2012 or 2013 (2012-13 unobserved). Phase 2: no PubMed papers, no page on any Loyola host; NPPES lists 'Dawid Liniewski' with Neurological Surgery taxonomy and a Maywood address (enumerated 2008, i.e. at residency start; not evidence of outcome). Outcome unknown; no training_history row added."
+  },
+  {
+   "name": "Drew Spencer",
+   "last_ay": "2015-2016",
+   "last_pgy": 6,
+   "note": "Entry 2010. TRANSFERRED to McGaw/Northwestern (program 41): not on the Northwestern roster in any capture through 2016-05-12, listed there as PGY7 from 2016-08-01; Northwestern alumni 2017. Left Loyola at end of 2015-16 (PGY6). training_history: program 34 completed='no', departure_type='transferred', end_year 2016; program 41 transfer-in row start_year 2016 (PGY7).",
+   "source": "https://web.archive.org/web/20160801105245/http://www.feinberg.northwestern.edu/sites/neurosurgery/education/residency/current-residents.html"
+  },
+  {
+   "name": "Tarik Ibrahim",
+   "last_ay": "2015-2016",
+   "last_pgy": 6,
+   "note": "Entry 2010. DIED during residency, summer 2016, with one year left (TIGER fund page; CV residency 7/2010-8/2016; posthumous certificate 2016-08-03; alumni page lists him under 2016). Separate outcome: training_history row changed to completed='no', notes='died during training', no departure_type. Count as neither completion nor attrition. NOTE: 16_adjudicate prints him as 'LEFT -> did not complete' because it has no 'died' category; downstream analysis must key on notes='died during training'.",
+   "source": "https://www.loyolamedicine.org/gme/residencies/neurology/tarik-ibrahim-education-fund"
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 25,
+ "adjudication_summary": {
+  "COMPLETED": 20,
+  "IN TRAINING": 11,
+  "LEFT -> TRANSFERRED (Northwestern)": 1,
+  "LEFT -> outcome unknown": 1,
+  "DIED during training (printed as 'LEFT -> did not complete')": 1
+ },
+ "problems": "No full roster exists in Wayback or Common Crawl for 2012-13, 2015-18, 2020-22 or 2023-24; these years are reconstructed, with partial observations from the awards page. All CC crawls have now completed (the two phase-1 failures were retried, 0 records). 16_adjudicate has no 'died' outcome: Ibrahim prints as 'LEFT -> did not complete' though training_history marks him notes='died during training'. programs.website points to the NEUROLOGY residency page; correct URL is https://www.loyolamedicine.org/gme/residencies/neurosurgery. Drew Spencer transfer-in row was added to training_history for program 41 (per brief step 9).",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "years": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "stritch node/6 (2013-07 capture, content dated Aug 2011), full roster."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster capture anywhere; all 10 bracketed or alumni-confirmed; 2011 class (1) seen as PGY1 in 2011-12, 2012 class (Johans, Swong) full at 2. Only Liniewski's exit year (2012 vs 2013) is unresolved; his departure is recorded either way."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "stritch node/6 2013-09-14."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "stritch node/6 2015-10 capture, content = 2014-15."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "All 11 residents of 2014-15 accounted for (2 alumni 2016, Ibrahim died summer 2016 per TIGER page/CV, Spencer placed at Loyola until Northwestern took him at PGY7 Aug 2016, rest bracketed); 2015 class (Jusue Torres, Zakaria) full at 2."
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Everyone bracketed 2014-15/2018-19 or alumni-confirmed; no known resident can have left; 2016 class of 1 (Kim) matches the program's stated 1/2 alternation (2015: 2, 2017: 2)."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Bracketed; Jusue Torres observed via awards page (2018 TIGER); 2017 class (Simon, Iordanou) full at 2."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "loyolamedicine residents page 2019-04-15."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "loyolamedicine residents page 2020-01-15."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "4 observed on awards page (2021 recipients), 5 bracketed, Jani/Ng added as PGY1 (med-school affiliations Pitt/Tufts through 2020, PGY3 2022-23). All classes full (2) or seen alone on observed rosters (2018 class)."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "3 observed on awards page (2022 recipients; Jani bio '2021-2022 Shea Award'), rest bracketed; Frazzetta added as PGY1 (Stritch student through 2021). Residual: 2021 class of 1 could in principle have had an unseen second intern who left within the year; class sizes 2020-2026 alternate 2/1, consistent with 1."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "residents page 2023-06-19."
+  },
+  "2023-2024": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "3 observed on awards page (2024 recipients), 7 bracketed, Choe added as PGY1 (Stritch MD, PGY2 2024-25). 2023 class of 1 fits the 2/1 alternation (2022: 2, 2024: 2)."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "residents page 2025-01-14."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "residents page 2025-12-09."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page 2026-09-27, advanced vs 2025-26."
+  }
+ },
+ "observed_partial_years": {
+  "2017-2018": "awards page (1 name)",
+  "2020-2021": "awards page (4)",
+  "2021-2022": "awards page (3)",
+  "2023-2024": "awards page (3)"
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2012-13 (stritch.luc.edu, www.stritch.luc.edu, ssom.luc.edu, luhs.org, luc.edu/stritch), 2015-18 (+loyolamedicine.org/gme), 2020-24 (loyolamedicine.org/gme, ssom.luc.edu, luc.edu/stritch)",
+   "full CDX prefix listings of stritch.luc.edu/neurosurgery 2012-16, ssom.luc.edu/neurosurgery 2016-24, loyolamedicine.org/gme/neuro-surgery-residency 2015-23 and /gme/residencies/neurosurgery 2023-25; fetched all stritch Drupal nodes, graduation-2012/2013 pages (photos only), ssom residency/education/photo-gallery pages",
+   "linkaudit on department, SSOM and GME parent pages for 2012-13, 2015-18, 2020-22, 2023-24 (GME incoming/current-housestaff pages have no names)",
+   "Common Crawl: retried the two failed crawls (CC-MAIN-2014-42 loyolamedicine gme; CC-MAIN-2020-50 both GME paths): both OK, 0 records",
+   "awards page (old CMS 2019-2020 and new CMS 2024-25) and live resident bios",
+   "PubMed affiliation mining 2011-2026 ('Loyola' + neurosurgery, 599 PMIDs) with per-author affiliation checks",
+   "Northwestern current-residents captures 2015-2016 for Spencer; TIGER fund page for Ibrahim; NPPES for Liniewski"
+  ],
+  "found": [
+   "Awards page names residents by award year: observes Jusue Torres 2017-18; Li, Pecoraro, Zsigray, Kim 2020-21; Zakaria, Jani, Iordanou 2021-22; Zsigray, Yang, Luy 2023-24 (loaded as source_type 'other')",
+   "Spencer transfer to Northwestern dated to summer 2016 (NW roster absent 2016-05-12, PGY7 2016-08-01)",
+   "Ibrahim: TIGER page confirms death with a year left and posthumous certificate",
+   "Entry years of Jani/Ng (2020), Frazzetta (2021), Choe (2023) supported by pre-entry med-school affiliations/bios; added as reconstructed PGY1/PGY2",
+   "PubMed surfaced no unlisted resident: other Loyola-neurosurgery authors were medical students (Stritch), research staff, or trainees in other departments (e.g. Behzadi: general surgery then research)"
+  ],
+  "remaining": [
+   "Liniewski exit year (2012 or 2013) and outcome unknown",
+   "No full roster for 2012-13, 2015-18, 2020-22, 2023-24; an unseen second intern who left within the year in the 1-intern classes of 2016, 2021 or 2023 cannot be excluded outright, but the program's stated 1/2 alternation and all class sizes are consistent with none"
+  ]
+ }
+}

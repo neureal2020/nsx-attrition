@@ -1,0 +1,1025 @@
+[
+ {
+  "key": "57:geo:sinclair",
+  "name": "George Sinclair",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery, Rutgers Health/New Jersey Medical School 2009-2014; MD UTHSC 2009; Newark NJ neurosurgery (matches entry 2009)",
+  "residency_stated": [
+   {
+    "institution": "Rutgers Health/New Jersey Medical School",
+    "specialty": "neurosurgery",
+    "start": 2009,
+    "end": 2014
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity and US News snippet both list full NJMS neurosurgery residency 2009-2014 (5 years), specialty Neurosurgery, Newark NJ; no ABNS listed. Not a specialty switch.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Newark NJ (per Doximity/US News listing)",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT/other specialty hint; sources show 2009-2014 completion (record ended 2014; last_seen 2013-14 PGY5)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/george-sinclair-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2009 - 2014, Rutgers Health/New Jersey Medical School; UTHSC class of 2009"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/george-sinclair-871549",
+    "type": "search_snippet",
+    "evidence": "Dr. George L. Sinclair, MD | Newark, NJ | Neurosurgeon | US News Doctors"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "57:mic:cohen",
+  "name": "Michael Cohen",
+  "program_id": 57,
+  "identity": "probable",
+  "identity_basis": "Doximity: Neurosurgery Bangor ME, MD Drexel 2011, residency neurological surgery 2011-2018 at St Barnabas Medical Center; press: neurosurgery residency at Rutgers/NJ (Drexel MD 2011 matches entry 2011); ABNS certified",
+  "residency_stated": [
+   {
+    "institution": "St Barnabas Medical Center (Rutgers/NJMS-affiliated per Northern Light bio: Rutgers)",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 7-year neurosurgery residency 2011-2018 (Doximity), then skull base/cerebrovascular fellowship Utah; practises neurosurgery in Bangor ME; ABNS listed",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Northern Light Eastern Maine Medical Center, Bangor ME",
+  "agrees_with_db": false,
+  "disagreement": "DB says left; source says completed 2011-2018 (Doximity names St Barnabas, Northern Light/Becker's bio says Rutgers; identity is probable, not absolute because of common name)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-cohen-md-c6d8d956",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 St Barnabas Medical Center; Drexel class of 2011; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://doctors.northernlighthealth.org/provider/michael-cohen/1902237",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency at Rutgers followed by fellowship in skull base and cerebrovascular neurosurgery at University of Utah; Drexel"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "57:dav:slottje",
+  "name": "David Slottje",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery Rutgers Health/NJMS 2013-2019 (prior PGY1 neurosurgery UVM 2012-13), Weill Cornell MD 2012; entry 2012 matches",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2013
+   },
+   {
+    "institution": "Rutgers Health/New Jersey Medical School",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed NJMS neurosurgery 2019 (Doximity), ABNS listed; neurocritical care fellowship; Sentara 2019 then Providence Missoula",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Providence, Missoula MT",
+  "agrees_with_db": false,
+  "disagreement": "DB says left; sources show completion at NJMS 2019 (last_seen 2016-17 PGY5 = roster gap)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-slottje-md",
+    "type": "doximity",
+    "evidence": "Rutgers Health/New Jersey Medical School Residency, Neurological Surgery, 2013 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.providence.org/doctors/neurosurgery/mt/missoula/david-slottje-1720353873",
+    "type": "bio",
+    "evidence": "David F. Slottje, MD, neurosurgery, Missoula MT"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "57:rya:radwanski",
+  "name": "Ryan Radwanski",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Hunterdon bio: Weill Cornell MD (2020), background in neurological surgery, CEO Brain and Spine Group; Rutgers NJMS neurosurgery affiliation on 2022-23 papers",
+  "residency_stated": [],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Now Family Medicine (Doximity: Family Medicine, Milford NJ; Hospital Medicine/Headache Medicine/Clinical Informatics; Hunterdon Health bio specialty Family Medicine, 'background in neurological surgery'). Residency program for family medicine not stated.",
+  "year_left": 2022,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "family medicine physician, Hunterdon Health, Milford NJ",
+  "agrees_with_db": true,
+  "disagreement": "DB says left/did not complete; sources refine to switch to family medicine (year approx 2022-23, program not stated)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-radwanski-md",
+    "type": "doximity",
+    "evidence": "Family Medicine, Milford NJ; Weill Cornell Medicine Class of 2020"
+   },
+   {
+    "url": "https://www.hunterdonhealth.org/doctors/ryan-radwanski-md",
+    "type": "bio",
+    "evidence": "Specialty Family Medicine; career shaped by his background in neurological surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "58:eri:dillard",
+  "name": "Erika Dillard",
+  "program_id": 58,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery, Sidney Kimmel/TJUH 2014-2021, UTHSC MD 2013 (matches entry 2014); Vanderbilt article: neurosurgery resident at Jefferson",
+  "residency_stated": [
+   {
+    "institution": "Sidney Kimmel Medical College at Thomas Jefferson University/TJUH",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity (self-reported) lists TJU neurosurgery residency 2014-2021 with a University of Memphis post-doctoral fellowship 2019-2021 (research years explain absence from 2018-19 roster onward); PA license 2020-2026; no ABNS listed. Now founder/CEO of PopCheck Technologies (Vanderbilt: moved away from clinical practice). Completion is probable, not independently confirmed by a program page.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "founder and CEO, PopCheck Technologies, Memphis TN (Doximity specialty Neurosurgery)",
+  "agrees_with_db": false,
+  "disagreement": "DB says left/did not complete after 2017-18 PGY4; Doximity says residency 2014-2021 incl. research years 2019-21",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/erika-dillard-mdphd",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 (Sidney Kimmel/TJUH); Post-Doctoral Fellowship, University of Memphis 2019 - 2021"
+   },
+   {
+    "url": "https://news.vanderbilt.edu/2022/04/05/dr-erika-dillard-bs01-biomedical-entrepreneur/",
+    "type": "news",
+    "evidence": "developed PopCheck idea during neurosurgery residency at Thomas Jefferson University Hospitals; now full-time CEO"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "60:geo:alexopoulos",
+  "name": "Georgios Alexopoulos",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery SSM Health/Saint Louis University 2018-2024; Patras MD 2008; SLU neurosurgery research profile",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2024
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity self-lists SLU residency 2018-2024 (6 years, 7-year program) and now Staff Neurosurgeon, co-founder neuroknife.gr, Athens Greece; consistent with DB non-completion (dismissed 2024 per prior news check), practises neurosurgery in Greece after prior Greek/other training. Not a transfer or specialty switch.",
+  "year_left": 2024,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "staff neurosurgeon, co-founder neuroknife.gr, Athens/Marousi Greece",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/georgios-alexopoulos-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2024, SSM Health/Saint Louis University; Staff Neurosurgeon, co-founder @ neuroknife.gr"
+   },
+   {
+    "url": "https://neuroknife.gr/en/georgios-alexopoulos-md-msc/",
+    "type": "search_snippet",
+    "evidence": "Georgios Alexopoulos Neurosurgeon - Pediatrics & Adults | Neuroknife"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:dan:lee",
+  "name": "Daniel Lee",
+  "program_id": 61,
+  "identity": "ambiguous",
+  "identity_basis": "WebMD lists a Daniel Lee, Neurological Surgery, Stanford Health Care Stroke Center, Harvard MD 2019 (snippet: neurosurgery resident Stanford 2019-2021), but no page confirms this is the same person or shows an outcome; Doximity Daniel Lee profile found is an unrelated 1964 graduate neurologist",
+  "residency_stated": [
+   {
+    "institution": "Stanford University (per third-party snippet)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2021
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No source shows where Daniel Lee went after Stanford 2020-21. WebMD entry (Harvard 2019, Palo Alto, 'Neurological Surgery', Stanford Stroke Center) may indicate he is still at Stanford but is unverified; no Doximity/bio found.",
+  "year_left": 2021,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/daniel-lee-ed39918f-9ad5-4ee8-9633-1c39e5509ada-overview",
+    "type": "search_snippet",
+    "evidence": "Graduated from Harvard Medical School in 2019; Neurological Surgery; Stanford Health Care Stroke Center, Palo Alto"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "61:rya:phelps",
+  "name": "Ryan Phelps",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Internship Neurological Surgery Stanford 2022-2023, UCSF MD 2021; LinkedIn/YC bio: UCSF med student, Stanford neurosurgery resident, now CEO Ora AI",
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University",
+    "specialty": "neurosurgery (internship)",
+    "start": 2022,
+    "end": 2023
+   }
+  ],
+  "outcome": "left_medicine",
+  "outcome_detail": "Left Stanford neurosurgery residency during PGY-1 (2022-23) to found Ora AI / Synaptiq (YC bio: 'dropped out of residency to go full-time on Synaptiq').",
+  "year_left": 2023,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "co-founder and CEO, Ora AI (medical education AI company)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-phelps-md",
+    "type": "doximity",
+    "evidence": "Internship, Neurological Surgery, 2022 - 2023, Stanford; UCSF Class of 2021"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/ora-ai",
+    "type": "bio",
+    "evidence": "he dropped out of residency to go full-time on Synaptiq"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "64:ben:leichty",
+  "name": "Benjamin Leichty",
+  "program_id": 64,
+  "identity": "not_found",
+  "identity_basis": "No physician named Benjamin Leichty found; searches only surface Benjamin Liechty (pathology, Jefferson MD/NYU path residency - different training path) and a Peter Leichty (UAB). Not enough to link.",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "No public profile or bio located for this name; only seen in Temple 2010-11 roster. Benjamin L. Liechty (neuropathologist, NYC; anatomic pathology residency NYU) is a possible spelling variant but unconfirmed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/benjamin-liechty-a8d8cfe7-b120-4dde-ba92-2cd1efeced3a-overview",
+    "type": "search_snippet",
+    "evidence": "Dr. Benjamin Liechty, Neurosurgeon | New York, NY | WebMD (spelling variant, unverified)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "64:zak:hakma",
+  "name": "Zakaria Hakma",
+  "program_id": 64,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery Temple University Hospital 2006-2012 (rare full name; Temple program)",
+  "residency_stated": [
+   {
+    "institution": "Temple University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2006,
+    "end": 2012
+   },
+   {
+    "institution": "Temple University Hospital",
+    "specialty": "neurology",
+    "start": 2004,
+    "end": 2006
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Temple neurosurgery 2006-2012 (was chief-year in 2010-11 roster); ABNS certified; endovascular/vascular neurosurgeon at GNI, Drexel assistant professor",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Global Neurosciences Institute NJ; Drexel assistant professor",
+  "agrees_with_db": false,
+  "disagreement": "DB says left after 2010-11; Doximity shows completion 2012 (first/last seen 2010-11 only reflects roster coverage)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/zakaria-hakma-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2006 - 2012, Temple University Hospital; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://drexel.edu/medicine/faculty/profiles/zakaria-hakma/",
+    "type": "bio",
+    "evidence": "Zakaria Hakma, MD: Neurosurgery - Drexel University College of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "64:tam:fierst",
+  "name": "Tamara Fierst",
+  "program_id": 64,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (listed under a different surname at Temple): Residency Neurological Surgery Temple University Hospital 2011-2018, Temple MD 2011; PubMed papers under Tamara Fierst (Temple neurosurgery 2016-17)",
+  "residency_stated": [
+   {
+    "institution": "Temple University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Now board-certified (ABR) in Interventional Radiology and Diagnostic Radiology, practising IR (Valhalla NY; previously Lancaster PA per Healthgrades/WebMD). Doximity still lists Temple neurosurgery residency 2011-2018 but no ABNS; roster last seen 2016-17 PGY6. Radiology residency program/dates not stated.",
+  "year_left": 2018,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "interventional radiologist, Valhalla NY (Westchester)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/tamara-baum-md",
+    "type": "doximity",
+    "evidence": "Interventional Radiology; Residency, Neurological Surgery, 2011 - 2018 Temple University Hospital; American Board of Radiology: Interventional Radiology and Diagnostic Radiology"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/tamara-fierst-29b303ec-dec5-11e7-9f4c-005056a225bf-overview",
+    "type": "search_snippet",
+    "evidence": "Dr. Tamara Fierst, MD, Vascular & Interventional Radiology | Lancaster, PA"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "64:and:danziger",
+  "name": "Andrew Danziger",
+  "program_id": 64,
+  "identity": "probable",
+  "identity_basis": "Northwell radiology residency page lists Andrew Danziger, SUNY Downstate medical school, Internship: Temple University Hospital; WebMD lists SUNY Downstate MD 2019",
+  "residency_stated": [
+   {
+    "institution": "Northwell (North Shore University Hospital & LIJ) Diagnostic Radiology",
+    "specialty": "diagnostic radiology",
+    "start": null,
+    "end": 2028
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Listed as diagnostic radiology resident, class of 2028, Northwell NSUH/LIJ; internship at Temple University Hospital (consistent with 2019-20 neurosurgery PGY1). Timing between 2020 and radiology start not stated. Name is uncommon but identity not fully certain.",
+  "year_left": 2020,
+  "destination_program": "Northwell Health (NSUH/LIJ) Diagnostic Radiology",
+  "destination_start_year": null,
+  "current": "diagnostic radiology resident (class of 2028), Northwell",
+  "agrees_with_db": true,
+  "disagreement": "DB unknown (NPI hint other specialty); sources indicate diagnostic radiology",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://physicians.northwell.edu/education/graduate-medical-education/residency-diagnostic-radiology-nsuh-lij/about-us",
+    "type": "program_page",
+    "evidence": "Andrew Danziger, Class of 2028; Medical School: SUNY Downstate; Internship: Temple University Hospital"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/andrew-danziger-29bda41f-30ac-4f21-9c83-61f0681bef8a-overview",
+    "type": "search_snippet",
+    "evidence": "graduated from SUNY Downstate Medical Center College of Medicine in 2019; neurology, neurological surgery, family medicine"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "64:jon:welch",
+  "name": "Jonathan Welch",
+  "program_id": 64,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery Temple University Hospital 2021-2023, Temple Lewis Katz MD 2021; publications with Temple neurosurgery authors",
+  "residency_stated": [
+   {
+    "institution": "Temple University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2023
+   },
+   {
+    "institution": "Atlantic Health (Morristown NJ)",
+    "specialty": "diagnostic radiology",
+    "start": 2023,
+    "end": 2027
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Temple neurosurgery in 2023 for diagnostic radiology residency at Atlantic Health System (Morristown NJ), 2023-2027, chief resident; matched neuroradiology fellowship at UPenn July 2027.",
+  "year_left": 2023,
+  "destination_program": "Atlantic Health System Diagnostic Radiology (Morristown NJ)",
+  "destination_start_year": 2023,
+  "current": "chief resident, diagnostic radiology, Atlantic Health, Morristown NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/jonathanwelchmd",
+    "type": "doximity",
+    "evidence": "Residency, Radiology-Diagnostic, 2023 - 2027, Atlantic Health; Residency, Neurological Surgery, 2021 - 2023, Temple University Hospital"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "65:emi:anderson",
+  "name": "Emily Anderson",
+  "program_id": 65,
+  "identity": "ambiguous",
+  "identity_basis": "WebMD lists Emily Potter Anderson, Tufts MD 2019, specialties Neurological Surgery and Pediatrics, Boston (MGH, Tufts Medical Center); no page states residency dates or that she is the Tufts resident; common name",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "No source shows where she went after Tufts 2020-21. WebMD candidate (Tufts MD 2019, MGH/Tufts Medical Center affiliations, specialties neurosurgery+pediatrics) is unconfirmed; no Doximity profile found. Cannot determine.",
+  "year_left": 2021,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/emily-anderson-b2d73944-0345-407e-b684-7888f3543dae-overview",
+    "type": "search_snippet",
+    "evidence": "Tufts University School Of Medicine in 2019; Neurological Surgery and Pediatrics; Boston, MA"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "65:oma:sorour",
+  "name": "Omar Sorour",
+  "program_id": 65,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UMass Chan MD 2023, Resident Physician Boston MA 800 Washington St (Tufts Medical Center); AANS/ResearchGate: matched neurosurgery at Tufts, incoming PGY-1",
+  "residency_stated": [
+   {
+    "institution": "Tufts Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Third-party profiles (Doximity 'Resident Physician' at Tufts address; Healthgrades neurosurgeon Tufts Medical Center; LinkedIn 'Neurosurgery Resident at Tufts Medicine') still show him at Tufts, so no public source documents leaving or a destination; these listings may simply be stale. A Dec 2025 J Neurosurg Case Lessons paper lists UMass-affiliated coauthors (site of medical school). Cannot confirm departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "listed as neurosurgery resident, Tufts Medical Center (unverified/stale)",
+  "agrees_with_db": false,
+  "disagreement": "DB says left after 2025-26 PGY3; public sources still show him at Tufts, none show departure",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/omar-sorour-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Boston MA, 800 Washington St; UMass Medical School Class of 2023"
+   },
+   {
+    "url": "https://www.linkedin.com/in/omar-sorour-md-66b01783/",
+    "type": "search_snippet",
+    "evidence": "Omar Sorour, MD - Neurosurgery Resident at Tufts Medicine"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "67:mur:gathinji",
+  "name": "Muraya Gathinji",
+  "program_id": 67,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Internship Transitional Year UCLA 2008-2009, Johns Hopkins MD 2008; neurosurgery outcomes papers as Hopkins student; NPI student-in-training UCLA",
+  "residency_stated": [
+   {
+    "institution": "UCLA David Geffen School of Medicine/UCLA Medical Center",
+    "specialty": "transitional year internship",
+    "start": 2008,
+    "end": 2009
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity/Vitals/WebMD list him as General Surgery, UCLA Westwood Plaza, Los Angeles; the only listed training is a UCLA transitional-year internship 2008-09 (roster showed PGY2 in 2009-10). No neurosurgery residency completion listed; a general surgery path (or other) is probable but training details are not stated. Confidence moderate.",
+  "year_left": 2010,
+  "destination_program": "UCLA (general surgery per Doximity specialty label)",
+  "destination_start_year": null,
+  "current": "general surgeon, UCLA, Los Angeles",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/muraya-gathinji-md",
+    "type": "doximity",
+    "evidence": "General Surgery, Los Angeles; Internship, Transitional Year, 2008 - 2009 UCLA; Johns Hopkins Class of 2008"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/muraya-gathinji-28928690-dec5-11e7-9f4c-005056a225bf-overview",
+    "type": "search_snippet",
+    "evidence": "Dr. Muraya Gathinji, MD, Surgery | Los Angeles, CA"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "67:yag:muftuoglu",
+  "name": "Yagmur Muftuoglu",
+  "program_id": 67,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn/ResearchGate/WebMD/SNS press: MD-PhD (Stanford MD 2020, Yale PhD), resident physician-scientist UCLA Neurosurgery, SNS NSTP awardee",
+  "residency_stated": [
+   {
+    "institution": "UCLA David Geffen School of Medicine/UCLA Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "All public profiles (LinkedIn, WebMD, Vitals, CareDash) still describe her as a UCLA neurosurgery resident-scientist; nothing indicates she left or transferred. UCLA Health current-residents page no longer lists her (NS1-NS7), which could reflect graduation/roster change or leave; no source explains. Cannot determine.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "listed as resident physician-scientist, UCLA Neurosurgery (per LinkedIn; undated)",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT; no source shows departure, only absence from UCLA current-resident page",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/yagmur-muftuoglu/",
+    "type": "search_snippet",
+    "evidence": "Yagmur Muftuoglu, MD PhD - resident physician-scientist, UCLA Neurosurgery"
+   },
+   {
+    "url": "https://www.newswise.com/articles/sns-announces-inaugural-neurosurgeon-scientist-training-program-recipients",
+    "type": "news",
+    "evidence": "SNS Announces Inaugural Neurosurgeon-Scientist Training Program Recipients (UCLA)"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "68:che:lim",
+  "name": "Chelsea Jeewoo Lim",
+  "program_id": 68,
+  "identity": "confirmed",
+  "identity_basis": "UMass Neurosurgery social posts: Chelsea Lim, MD (UMass Chan), sixth neurosurgery resident joining the UMass program, intern PGY1; Instagram bio 'Neurosurgery PGY-2 at UMass neurosurgery'",
+  "residency_stated": [
+   {
+    "institution": "UMass Chan Medical School Program",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Program's own posts and Instagram bio show her as neurosurgery PGY-1 then PGY-2 at UMass; no evidence of leaving. DB 'left' (last seen 2024-25 PGY1) likely reflects a stale/incomplete roster. No Doximity profile found.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-2), UMass Chan Medical School",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT; public sources show continuing at UMass as PGY-2 (undated; verify against current UMass roster)",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.instagram.com/umass_neurosurgery/reel/C4i6nrQunWc/",
+    "type": "search_snippet",
+    "evidence": "Welcome to Chelsea Lim, MD, (UMass Chan Medical School) our new ..."
+   },
+   {
+    "url": "https://m.facebook.com/UMassNeurologicalSurgery/posts/happy-birthday-to-our-superstar-neurosurgery-intern-chelsea-lim-md-pgy1/1589276409107070/",
+    "type": "search_snippet",
+    "evidence": "Happy Birthday to our superstar, neurosurgery intern Chelsea Lim, MD PGY1"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "69:ken:rajjoub",
+  "name": "Kenan Rajjoub",
+  "program_id": 69,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/WebMD/ResearchGate: GWU MD 2020, UB neurosurgery resident (Buffalo, 100 High St); UB neurosurgery 'Meet our residents' PGY-1; LinkedIn now Mayo Clinic researcher",
+  "residency_stated": [
+   {
+    "institution": "University at Buffalo",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2022
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity lists no residency at all (only GWU MD 2020) and still labels Neurosurgery/Buffalo. LinkedIn snippet: 'Researcher - Mayo Clinic'; 2025 Interventional Neuroradiology paper lists Mayo Clinic Radiology affiliation (per DB note). Not found on Mayo Minnesota diagnostic radiology resident profiles. Destination training program not confirmed; a radiology-related path is suggested but not proven.",
+  "year_left": 2022,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "researcher, Mayo Clinic (Radiology) per LinkedIn/publication affiliation",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kenan-rajjoub-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Buffalo NY; George Washington University School of Medicine Class of 2020 (no residency listed)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/kenan-r-rajjoub-md-85248261/",
+    "type": "search_snippet",
+    "evidence": "Kenan R. Rajjoub MD - Researcher - Mayo Clinic"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "70:log:powell",
+  "name": "Logan Powell",
+  "program_id": 70,
+  "identity": "confirmed",
+  "identity_basis": "UAB Neurosurgery post and UAB resident page: new PGY1 Logan (Kerrington) Powell, Texas A&M MD 2025; Doximity: residency Neurological Surgery 2025-2032 UAB",
+  "residency_stated": [
+   {
+    "institution": "University of Alabama Hospital (Birmingham)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Started UAB neurosurgery PGY1 in 2025. UAB's current PGY-2 page (2026-27) lists only Butler and Patrick, not Powell, consistent with leaving after PGY1. No source states where he went; Doximity listing (2025-2032) is a stale self-listing. Destination unknown.",
+  "year_left": 2026,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/NeurosurgeryUab/status/1937920012708180187",
+    "type": "search_snippet",
+    "evidence": "Our new PGY1 residents Drs. Madison Patrick, Logan Powell and Danner Butler"
+   },
+   {
+    "url": "https://www.uab.edu/medicine/neurosurgery/education/residency/current-residents/pgy-2",
+    "type": "program_page",
+    "evidence": "PGY-2 list shows Butler, Danner and Patrick, Madison only"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "72:whi:james",
+  "name": "Whitney Sheen James",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Search-result profiles (Doximity title, WebMD, Vitals, Healthgrades, US News): Whitney Sheen James, MD, Yale MD, residency neurological surgery Univ of Arizona-Tucson 2012-2018 (transitional intern year 2012-13); rare name; Doximity page itself now returns 'no public profile' in Chrome",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Search snippet (Doximity): completed Arizona neurosurgery residency 2012-2018, practised as neurosurgeon in Prescott AZ ~12 years (Vitals/WebMD/Medicare list Neurosurgery, Prescott AZ); retired 2024 to start concierge practice. Doximity profile URL (doximity.com/cv/whitney-sheen-james-md) no longer loads a public profile, so the snippet is the evidence.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "concierge physician (James Marco Health), Prescott AZ; formerly neurosurgeon (retired from neurosurgery practice 2024)",
+  "agrees_with_db": false,
+  "disagreement": "DB says left/outcome unknown; sources show completion 2018 and neurosurgery practice afterward",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/whitney-sheen-james-md",
+    "type": "search_snippet",
+    "evidence": "Dr. Whitney Sheen James, MD - Prescott, AZ; residency Neurological Surgery, University of Arizona College of Medicine-Tucson 2012-2018, transitional year 2012-2013 (snippet); page now not public"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/whitney-sheen-pm2pjc",
+    "type": "search_snippet",
+    "evidence": "Dr. Whitney A. James, MD | Prescott, AZ | Neurosurgeon"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "72:and:marrero",
+  "name": "Andres Monserrate Marrero",
+  "program_id": 72,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (listed as Andres Enrique Monserrate): Residency Neurological Surgery Univ of Arizona-Tucson 2021-2024, Univ of Puerto Rico MD 2016; Arizona College of Medicine directory entry 'Andres Monserrate Marrero' resident (andresmonserrate@arizona.edu); UPR transfer-in in 2021",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico (prior)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2021
+   },
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transferred in from UPR in 2021; Doximity lists Arizona neurosurgery residency ending 2024 (entry 2017 + 7 yr program = 2024), PR medical license 2024-2026; Doximity specialty label 'General Surgery' with a Pittsburgh address is probably a data quirk. No ABNS listed yet. Completion probable, not confirmed by a Arizona graduate/alumni page.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown (Doximity lists Pittsburgh PA / San Juan PR)",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT (absent after 2022-23 PGY6); Doximity shows residency through 2024, i.e. completion (roster gap)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/andres-monserrate-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 - 2024, University of Arizona College of Medicine-Tucson; UPR Class of 2016"
+   },
+   {
+    "url": "https://medicine.arizona.edu/person/andres-monserrate-marrero",
+    "type": "program_page",
+    "evidence": "Andres Monserrate Marrero, Resident/Fellow, College of Medicine - Tucson"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "73:bla:phillips",
+  "name": "Blake Phillips",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UAMS 2010-2015 (transitional-year internship UAMS 2008-09), UAMS MD 2008; distinguished from a psychiatrist Blake A. Phillips (NYU) with a different training path",
+  "residency_stated": [
+   {
+    "institution": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2010,
+    "end": 2015
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UAMS neurosurgery 2015 (5-year post-intern), ABNS listed; practising neurosurgeon at Baptist Health, Little Rock AR. Roster last_seen 2014-15 is the completing year.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Baptist Health, Little Rock AR",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT; sources show completion in 2015 (last roster year = final year)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/blake-phillips-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2010 - 2015 UAMS; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:gau:gandhi",
+  "name": "Gautam Kanu Gandhi",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Gautam Kanu Gandhi MD, PhD): Residency Neurological Surgery UAMS 2009-2016, UAMS MD 2009, PhD UAMS; distinct from Sacramento gastroenterologist Gautam N. Gandhi",
+  "residency_stated": [
+   {
+    "institution": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2009,
+    "end": 2016
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UAMS neurosurgery 2016 (with spine fellowship at UAMS per bio snippet), ABNS certified, practising neurosurgery in Little Rock AR (Pinnacle Spine & Neurosurgery per search results).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Little Rock AR (Pinnacle Spine & Neurosurgery)",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT after 2014-15; sources show completion 2016 (likely research/extra year absent from roster)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/gautam-gandhi-md-a98555bb",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2009 - 2016 UAMS; American Board of Neurological Surgery; M.D., Ph.D."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:pau:lee",
+  "name": "Paul Lee",
+  "program_id": 73,
+  "identity": "probable",
+  "identity_basis": "Doximity: Paul Lee MD, Residency Neurological Surgery UAMS 2016-2024, New York Medical College MD 2016 (entry 2016 matches); UAMS program page listed Paul Lee PGY-3 with NYMC; common name so probable, and the listing also shows an odd ABR Radiology certification",
+  "residency_stated": [
+   {
+    "institution": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity: UAMS neurosurgery residency 2016-2024 (second entry 2016-2023); practising neurosurgery in Sherwood AR (Arkansas Neuroscience/Krisht-associated publications), AR license 2019-2027. Roster last_seen 2018-19 PGY3 is likely a stale/coverage gap. Note: page lists ABR Radiology (probable data artifact); no ABNS yet.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Sherwood AR (CHI St. Vincent North)",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT after 2018-19; Doximity shows UAMS residency continuing to 2023/2024",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/paul-lee-md-6cb1eef7",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2024 UAMS; New York Medical College Class of 2016; Neurosurgery Sherwood AR"
+   },
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/",
+    "type": "search_snippet",
+    "evidence": "UAMS listing: Paul Lee, PGY-3, New York Medical College (per search summary)"
+   }
+  ],
+  "searches_used": 3
+ }
+]

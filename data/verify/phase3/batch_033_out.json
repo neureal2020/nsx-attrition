@@ -1,0 +1,685 @@
+[
+ {
+  "key": "28:jas:hill",
+  "name": "Jason Hill",
+  "program_id": 28,
+  "identity": "probable",
+  "identity_basis": "Jason D. Hill, Case Western MD 2008 (matches entry 2008), residency listed at Indiana University Hospital; now board-certified neurologist. A different Jason Hill (UTenn MD 2006, radiology, Kingsport TN) was excluded.",
+  "residency_stated": [
+   {
+    "institution": "Indiana University Hospital",
+    "specialty": "not stated (neurosurgery per DB)",
+    "start": 2008,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left IU neurosurgery after PGY4 (2011-12); now practising neurology (ABPN neurology cert 2018, neurohospitalist Colorado). Neurology residency programme/dates not found.",
+  "year_left": 2012,
+  "destination_program": "neurology (program not found)",
+  "destination_start_year": null,
+  "current": "neurologist (inpatient neurology), UCHealth Poudre Valley Hospital, Fort Collins CO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/jason-hill-e1144c41-5472-4271-b192-e7f72496df69-overview",
+    "type": "search_snippet",
+    "evidence": "Case Western Reserve University School Of Medicine 2008; residency Indiana University Hospital"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jason-hill-md-627c735f",
+    "type": "doximity",
+    "evidence": "Neurology, Fort Collins; Case Western Class of 2008; American Board of Psychiatry and Neurology - Neurology"
+   },
+   {
+    "url": "https://www.uchealth.org/provider/jason-hill-md/",
+    "type": "bio",
+    "evidence": "board certified in Neurology (ABPN) 2018; formerly neurohospitalist in Denver area"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "28:bla:priddy",
+  "name": "Blake Priddy",
+  "program_id": 28,
+  "identity": "probable",
+  "identity_basis": "Blake H. Priddy, Ohio State MD 2018 (entry 2018), IU Neurological Surgery affiliation on 2019-2021 papers, Indiana license 2021; publications with Prevedello (OSU).",
+  "residency_stated": [],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left IU neurosurgery in 2021; now listed in family medicine (Carmel IN, Riverview Health) and as complex wound care physician (Miramar FL). No residency listed.",
+  "year_left": 2021,
+  "destination_program": "family medicine / wound care (program unknown)",
+  "destination_start_year": null,
+  "current": "family medicine / complex wound physician, Carmel IN and Miramar FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/blake-priddy-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO Miramar FL, Complex Wound Physician; Ohio State University College of Medicine Class of 2018; IN license 2021-2027"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-blake-priddy-xyntg73",
+    "type": "bio",
+    "evidence": "Specialty: Family Medicine, Carmel IN, Riverview Health"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "30:dav:mcmullen",
+  "name": "David McMullen",
+  "program_id": 30,
+  "identity": "probable",
+  "identity_basis": "David P. McMullen, Rutgers RWJ MD 2014 (matches DB), neurosurgical training at Johns Hopkins per Kavli participant page and Doximity 'Neurosurgery, Baltimore'.",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Hopkins NS PGY1 2014-15 only per DB. Sources say 'clinical neurosurgical training from Johns Hopkins' but no completion, ABNS certification, or clinical practice found; publishes neural-engineering work; now FDA neuro-device office director (per Kavli page summary). Exit year and destination not documented.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Office Director, FDA (neuromodulation / BCI devices) per Kavli page",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-mcmullen-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Baltimore; Rutgers Robert Wood Johnson Medical School Class of 2014; VA license 2015-2022; no ABNS cert"
+   },
+   {
+    "url": "https://neurotech2018.kavlimeetings.org/participants/david-mcmullen/",
+    "type": "bio",
+    "evidence": "neuroscientist and MD with clinical neurosurgical training from JHU (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "31:meg:mcclure",
+  "name": "Meghan McClure",
+  "program_id": 31,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Meghan Elizabeth McClure, UC Davis MD 2012, Residency Neurological Surgery Loma Linda 2012-2018 (listed), CNS member; matches entry 2012.",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University Health Education Consortium",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2015
+   },
+   {
+    "institution": "University of Nebraska Medical Center",
+    "specialty": "diagnostic radiology",
+    "start": 2015,
+    "end": 2020
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Loma Linda NS after PGY3 (2014-15); diagnostic radiology residency at Nebraska (to 2020 per directory summary), pediatric radiology fellowship Boston Children's 2021. Doximity retains a stale NS 2012-2018 line.",
+  "year_left": 2015,
+  "destination_program": "University of Nebraska Medical Center (diagnostic radiology)",
+  "destination_start_year": 2015,
+  "current": "pediatric radiologist, Children's Minnesota, Minneapolis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/meghan-mcclure-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2018 (Loma Linda); American Board of Radiology Diagnostic Radiology and Pediatric Radiology"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/meghan-mcclure-894016",
+    "type": "search_snippet",
+    "evidence": "search summary: neurosurgery residency Loma Linda 2015, diagnostic radiology residency UNMC 2020, pediatric radiology fellowship Boston Children's 2021 (US News page not opened)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "32:cor:markham",
+  "name": "Cory Markham",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Cory Michael Markham, LSU Shreveport MD 2015, 'Intern in Department of Neurosurgery', Donald R. Smith Award for Excellence in Neurosurgery 2015 (LSUHSC); matches entry 2015.",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University School of Medicine (Shreveport)",
+    "specialty": "emergency medicine",
+    "start": 2016,
+    "end": 2019
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left neurosurgery after PGY1 (2015-16); Emergency Medicine residency at LSU 2016-2019, then ABEM and Internal Medicine-Critical Care certified.",
+  "year_left": 2016,
+  "destination_program": "LSU Shreveport emergency medicine",
+  "destination_start_year": 2016,
+  "current": "critical care physician, Willis-Knighton, Shreveport LA",
+  "agrees_with_db": true,
+  "disagreement": "Agrees with NPI hint (other specialty); now confirmed EM then critical care",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/cory-markham-md",
+    "type": "doximity",
+    "evidence": "Residency, Emergency Medicine, 2016 - 2019; American Board of Emergency Medicine; Internal Medicine-Critical Care Medicine"
+   },
+   {
+    "url": "https://directory.wkhs.com/provider/dr-cory-m-markham-md",
+    "type": "search_snippet",
+    "evidence": "Willis Knighton directory (critical care)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:sia:lee",
+  "name": "Siang Liao Lee",
+  "program_id": 32,
+  "identity": "ambiguous",
+  "identity_basis": "Siang Liao Lee: Northwestern MD 2014, directories (Healthgrades/WebMD/US News) list neurosurgeon at LSUHSC Shreveport; but not on LSU faculty page or current resident roster; no bio or training dates found. Doximity has no public profile.",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Directories list him as a neurosurgeon at LSUHSC Shreveport (NPI 1770994774) but unverified by faculty page or alumni list; could not establish completion vs departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "listed as neurosurgeon, LSUHSC Shreveport (directory data only)",
+  "agrees_with_db": true,
+  "disagreement": "Possible that he is practising neurosurgery (would mean completed/other), unresolved",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-siang-lee-xylljpr",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery; Northwestern Feinberg 2014; primary practice LSUHSC Shreveport, 1501 Kings Hwy"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "34:dav:liniewski",
+  "name": "David Liniewski",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Dawid Liniewski (input 'David'), Loyola University Medical Center neurosurgery residency 2009-2015, transitional year MacNeal 2008-09; Doximity address '# Loyola', Maywood IL.",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2009,
+    "end": 2015
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity and Loyola-affiliated listings show neurosurgery residency 2009-2015 and a neurosurgery practice at Loyola (Maywood IL).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Loyola University Medical Center, Maywood IL",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT after 2011-12 PGY4; sources show he completed 2015 (listed as 'David' vs 'Dawid')",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dawid-liniewski-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2009 - 2015 Loyola University Medical Center; Neurosurgery Maywood IL"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/dawid-liniewski-1c9e1251-45ba-411f-8254-3b6dcfe86b95-overview",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery at Loyola University Medical Center 2009-2015 (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "36:rob:gramer",
+  "name": "Robert Gramer",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Robert Gramer, Duke MD 2020, began MGH neurosurgery residency fall 2020 (search result text); Doximity 'Resident Physician, Boston'.",
+  "residency_stated": [
+   {
+    "institution": "Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity still lists him as Resident Physician in Boston with 2026 publication; no evidence found of departure destination or of continued MGH neurosurgery status.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident physician, Boston MA (program not stated)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/robert-gramer-md",
+    "type": "doximity",
+    "evidence": "Resident Physician Boston MA; Duke Class of 2020; MA license 2020-2027"
+   },
+   {
+    "url": "https://www.dukeglobalneurosurgery.com/people/robert-gramer/",
+    "type": "bio",
+    "evidence": "Duke Global Neurosurgery profile"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "37:jac:kushkuley",
+  "name": "Jacob Kushkuley",
+  "program_id": 37,
+  "identity": "probable",
+  "identity_basis": "Jacob Kushkuley, UMass Medical School MD (2015/2016), HHMI research fellow; neurosurgery case-report authorship 2015 (Stanford/Steinberg); MA license 2016-2018 only.",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity: 'Other MD/DO', MA license 2016-2018 only, no residency listed; NPI taxonomy 'student in organized training program' Ashland MA; no evidence of destination.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "not stated (Ashland MA address per directories)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jacob-kushkuley-md-391e2846",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Ashland MA; UMass Medical School Class of 2015; MA State Medical License 2016 - 2018"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "38:jam:ebot",
+  "name": "James Ebot",
+  "program_id": 38,
+  "identity": "confirmed",
+  "identity_basis": "James Ebot, DO (UNT), intern/residency Mayo Clinic Jacksonville per WellMed profile; matches entry 2017.",
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic Jacksonville",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2020
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Mayo Jacksonville NS around 2020; later practised as wound care physician (Vohra Post Acute Care Physicians of Texas, Irving TX). Some directories still tag him neurosurgeon (taxonomy). Resident/fellow programme after Mayo not found.",
+  "year_left": 2020,
+  "destination_program": "wound care (no ACGME programme found)",
+  "destination_start_year": null,
+  "current": "wound care physician, Irving/Dallas TX",
+  "agrees_with_db": true,
+  "disagreement": "Agrees (did not complete); destination found = wound care",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://doctors.wellmedhealthcare.com/details/156883/james-ebot-wound_care-irving",
+    "type": "bio",
+    "evidence": "Specialty wound care; internship and residency at Mayo Clinic Jacksonville; Vohra Post Acute Care Physicians of Texas, Irving"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "38:ans:goyal",
+  "name": "Ansh Goyal",
+  "program_id": 38,
+  "identity": "probable",
+  "identity_basis": "Anshit (Ansh) Goyal, AIIMS 2017, Mayo Rochester post-doctoral research fellowship 2017-2020, Mayo Jacksonville neurosurgery affiliations; Doximity Neurosurgery Jacksonville.",
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic Rochester (research fellowship)",
+    "specialty": "neurological surgery research",
+    "start": 2017,
+    "end": 2020
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Not on the current Mayo Florida resident page (PGY1-7 listed); no destination found; still shows Mayo Jacksonville Neurosurgery address on Doximity (FL license 2023-2027). Possibly research/leave or departure; unresolved.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Mayo Clinic Jacksonville neurosurgery affiliation (role unclear)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anshit-goyal-md-8ef88f0b",
+    "type": "doximity",
+    "evidence": "Neurosurgery Jacksonville FL; Post-Doctoral Fellowship Neurological Surgery Mayo Rochester 2017-2020; FL license 2023-2027"
+   },
+   {
+    "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/resident-profiles/",
+    "type": "program_page",
+    "evidence": "Goyal not among PGY-1 to PGY-7 listed"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "40:han:gilder",
+  "name": "Hannah Gilder",
+  "program_id": 40,
+  "identity": "confirmed",
+  "identity_basis": "Hannah Gilder MD, Mayo Rochester neurosurgery resident (5th-year, AANS 2023 poster); directories list neurosurgeon affiliated with Mayo Clinic Rochester (verified May 2026).",
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic Rochester",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Entered 2018 (7-year programme) so PGY7 in 2024-25; absent from current resident page and listed as practising neurosurgeon (Healthgrades: Mayo Clinic Hospital St Marys, 200 1st St SW Rochester). Likely completed 2025; practice location conflicting (earlier Virginia Beach listing).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Mayo Clinic Rochester MN / Virginia Beach VA listing",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT-unknown; evidence indicates completion (June 2025)",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-hannah-gilder-xynt8d2",
+    "type": "bio",
+    "evidence": "Neurosurgery; affiliated Mayo Clinic Hospital, Saint Marys Campus; page verified May 29, 2026"
+   },
+   {
+    "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-minnesota/meet-our-trainees/",
+    "type": "program_page",
+    "evidence": "Gilder not among current residents (PGY1-7)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "40:arc:bhandarkar",
+  "name": "Archis Bhandarkar",
+  "program_id": 40,
+  "identity": "probable",
+  "identity_basis": "Archis R. Bhandarkar, MIT undergrad, matched Mayo Rochester Neurosurgery 2023 (Mayo Alumni Assoc.); July 2026 paper with Mayo Rochester affiliation.",
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic Rochester",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Not on the current PGY1-7 resident page (class ahead PGY4 listed without him) but still publishing from Mayo Rochester (Sept 2026); likely research year or leave, no evidence of departure from neurosurgery.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Mayo Clinic Rochester, neurosurgery/neuro-informatics research",
+  "agrees_with_db": false,
+  "disagreement": "DB LEFT-unknown; no evidence of leaving; probably research time",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://alumniassociation.mayo.edu/news/get-to-know-2023-matching-med-students/",
+    "type": "news",
+    "evidence": "Bhandarkar matched Neurological Surgery, Mayo Clinic Rochester"
+   },
+   {
+    "url": "https://www.researchgate.net/scientific-contributions/Archis-R-Bhandarkar-2161996985",
+    "type": "search_snippet",
+    "evidence": "Mayo Clinic - Rochester affiliation; 2026 publication (search summary)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "41:ben:yang",
+  "name": "Benson Yang",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Benson P. Yang, Yale MD 2001, Northwestern neurosurgery residency 2002-2007; Northwestern alumni list 2007.",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2002,
+    "end": 2007
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2007; ABNS certified; spine fellowship; Assistant Professor Northwestern; practising in Chicago.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Chicago IL (Northwestern Neurosurgical Associates / AMITA)",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT; actually completed 2007 (roster artifact at final year)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/benson-yang-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2002 - 2007 Northwestern; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "Benson P Yang, MD (2007) Neurological Surgeon, AMITA Health, Chicago"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "41:pat:hsieh",
+  "name": "Patrick Hsieh",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Patrick C. Hsieh, USC MD 2001, Northwestern neurosurgery residency 2001/02-2007; USC faculty.",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2002,
+    "end": 2007
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2007 (alumni list); fellowships Northwestern and Johns Hopkins; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Director Spine Program, Keck Medicine of USC, Los Angeles",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT; actually completed 2007",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/patrick-hsieh-md-slash-1",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2001 - 2007 Northwestern; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "Patrick C Hsieh, MD (2007) Keck Medicine of USC"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "41:rob:thiele",
+  "name": "Robert Thiele",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Robert H. Thiele, Vanderbilt MD 2006; Northwestern internship (transitional year) 2006-2007 then anesthesiology; listed on Northwestern neurosurgery alumni page as 2007.",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "transitional year internship",
+    "start": 2006,
+    "end": 2007
+   },
+   {
+    "institution": "University of Virginia",
+    "specialty": "anesthesiology",
+    "start": 2008,
+    "end": 2011
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Only a transitional-year intern at Northwestern (2006-07); anesthesiology residency UVA 2008-2011, critical care fellowship Duke 2011-12; UVA anesthesiology faculty. Never a neurosurgery resident per Doximity; still on Northwestern NS alumni page.",
+  "year_left": 2007,
+  "destination_program": "UVA anesthesiology",
+  "destination_start_year": 2008,
+  "current": "Division Chief Critical Care Anesthesiology, UVA, Charlottesville VA",
+  "agrees_with_db": true,
+  "disagreement": "Left after intern year (2007); DB dates 2007-08 PGY1 slightly off (internship 2006-07)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/robert-thiele-md",
+    "type": "doximity",
+    "evidence": "Residency, Anesthesiology, 2008 - 2011 UVA; Internship, Transitional Year, 2006 - 2007 Northwestern"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "Robert H Thiele, MD (2007) Anesthesiology, UVA"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "42:sar:kavianpour",
+  "name": "Sarah Kavianpour",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "Sarah Kavianpour, Chicago Medical School MD 2018 (matches entry 2018); Doximity lists Medical College of Georgia Residency, Neurological Surgery (no dates).",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity still lists MCG neurosurgery residency (no end date), GA licence 2018-2019 only; no evidence of completion or of a destination programme. She holds MBA/MSc. Outcome not established.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "not stated (Augusta GA listing)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sarah-kavianpour-md",
+    "type": "doximity",
+    "evidence": "Medical College of Georgia Residency, Neurological Surgery; GA State Medical License 2018 - 2019; Class of 2018 MD"
+   }
+  ],
+  "searches_used": 2
+ }
+]

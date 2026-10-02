@@ -1,0 +1,914 @@
+[
+ {
+  "key": "119:jon:gordon",
+  "name": "Jonah Gordon",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest School of Medicine resident directory lists Jonah Phillip Gordon, Neurological Surgery Residency PGY-2, MD USF 2025",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2, projected graduation 2032",
+  "current": "neurosurgery resident PGY-2, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/g/jonah-phillip-gordon",
+    "type": "program_page",
+    "evidence": "Neurological Surgery Residency, PGY-2, projected graduation 2032, USF MD 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:jua:giraldo",
+  "name": "Juan Giraldo",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page: Juan Pedro Giraldo PGY-2 neurological surgery, MD Universidad CES 2020; Barrow bio/LinkedIn consistent",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2, projected graduation 2032",
+  "current": "neurosurgery resident PGY-2, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/g/juan-pedro-giraldo",
+    "type": "program_page",
+    "evidence": "Neurological Surgery Residency PGY-2, projected 2032, Universidad CES MD 2020"
+   },
+   {
+    "url": "https://www.linkedin.com/in/juan-p-giraldo-md-5a50bb22b/",
+    "type": "search_snippet",
+    "evidence": "Juan P. Giraldo, MD - PGY-2 Neurosurgery Resident"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:wum:shali",
+  "name": "Wumairehan Shali",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page: Wumairehan Shali, Neurological Surgery PGY-2, MD Shanghai Jiao Tong 2017 (distinctive name)",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2, projected graduation 2031",
+  "current": "neurosurgery resident PGY-2, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/s/wumairehan-shali",
+    "type": "program_page",
+    "evidence": "Neurological Surgery Residency PGY-2, projected graduation 2031"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:bra:benedict",
+  "name": "Braeden Benedict",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page: Braeden Christopher Benedict PGY-1 neurological surgery, MD WashU 2026; WashU med student neurosurgery-interested per Greenberg lab page",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1, projected graduation 2033",
+  "current": "neurosurgery resident PGY-1, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/b/braeden-christopher-benedict",
+    "type": "program_page",
+    "evidence": "Neurological Surgery Residency PGY-1, projected 2033, WashU MD 2026"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "119:bri:freeman",
+  "name": "Bridger Freeman",
+  "program_id": 119,
+  "identity": "probable",
+  "identity_basis": "Bridger H. Freeman, UTHealth Houston med student with neurosurgery (Vivian L. Smith Dept) research; no Wake Forest resident page found (direct URL 404), so program not directly confirmed",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "No contradicting evidence; recorded roster PGY-1 2026-27; no public page confirms Wake placement",
+  "current": "probable neurosurgery PGY-1 (unconfirmed publicly)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/bridger-freeman-958aa4199/",
+    "type": "search_snippet",
+    "evidence": "Bridger Freeman - 4th-Year Medical Student at UTHealth"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "119:jac:midtlien",
+  "name": "Jackson Midtlien",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page and Doximity: Jackson Porter Midtlien, Wake Forest MD 2026, Winston-Salem",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1, projected graduation 2033",
+  "current": "neurosurgery resident PGY-1, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/m/jackson-porter-midtlien",
+    "type": "program_page",
+    "evidence": "Neurological Surgery Residency PGY-1, projected 2033"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jackson-midtlien-md",
+    "type": "doximity",
+    "evidence": "Wake Forest School of Medicine Class of 2026; NC license 2026; no residency listed"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "120:jar:roland",
+  "name": "Jarod Roland",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency Neurological Surgery 2011-2018 + pediatric neurosurgery fellowship 2018-19, TTUHSC MD 2011; WashU dept bio calls him WashU alumnus resident",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU neurosurgery residency 2018, then peds fellowship WashU 2018-19",
+  "current": "pediatric neurosurgeon, WashU/St. Louis Children's Hospital, assistant professor",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jarod-roland-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; Fellowship Pediatric Neurosurgery 2018-2019; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.wustl.edu/people/jarod-l-roland-md/",
+    "type": "bio",
+    "evidence": "returned after medical school as a resident in the Department of Neurosurgery, followed by fellowship in pediatric neurosurgery (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:kat:mccoy",
+  "name": "Katie McCoy",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Listed as Kathleen (Katie) Dlouhy (different surname) at WashU; Doximity WashU MD 2011, ABNS; UIHC bio: neurosurgery residency at WashU/Barnes-Jewish, Chief Resident",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU neurosurgery residency (chief resident); endovascular neuroradiology fellowship WashU; ABNS certified",
+  "current": "neurosurgeon (cerebrovascular/endovascular), University of Iowa, Iowa City",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kathleen-dlouhy-md",
+    "type": "doximity",
+    "evidence": "WashU Medicine Class of 2011; American Board of Neurological Surgery; Neurosurgery, Iowa City"
+   },
+   {
+    "url": "https://uihc.org/providers/kathleen-dlouhy",
+    "type": "bio",
+    "evidence": "neurosurgery residency at Washington University in St. Louis/Barnes Jewish Hospital, Chief Resident; Endovascular Surgical Neuroradiology fellowship WashU"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "120:zoh:zohny",
+  "name": "Zohny Zohny",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "WVU Medicine listing and Google results identify Zohny S. Zohny as WashU neurosurgery residency alumnus; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "WashU neurosurgery alumnus per search results; practising neurosurgeon (WVU, later Tulsa/St. Joseph MO) so completed",
+  "current": "neurosurgeon; LinkedIn: founder Zeta Analytica; previously WVU/Mosaic/Tulsa",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://wvumedicine.org/doctors/details/?ser=61730",
+    "type": "bio",
+    "evidence": "Neurological Surgery (Neurosurgery), WVU Medicine"
+   },
+   {
+    "url": "https://neurosurgery.wustl.edu/education/residency/alumni/",
+    "type": "search_snippet",
+    "evidence": "Zohny S. Zohny listed as WashU neurosurgery residency alumnus, currently WVU Rockefeller Neuroscience Institute (search summary)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "120:ana:vellimana",
+  "name": "Ananth Vellimana",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency Neurological Surgery 2012-2019 incl chief 2018-19, ABNS; Baylor Scott & White bio",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2019; fellowships UW cerebrovascular 2019-20 and WashU neuroradiology 2020-21",
+  "current": "neurosurgeon (cerebrovascular/skull base), Dallas TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ananth-vellimana-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; Chief Residency 2018-2019; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:ash:kamath",
+  "name": "Ashwin Kamath",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency 2012-2019, Mount Sinai MD 2012; NeuroTexas bio matches",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2019; OHSU functional fellowship 2019-20",
+  "current": "neurosurgeon, NeuroTexas, Austin TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ashwin-kamath-md-bfe4b53b",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; Class of 2012 Mount Sinai; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:s:akbari",
+  "name": "S. Hassan Akbari",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency 2012-2019, WashU MD 2012, peds fellowship UAB 2019-20; JHACH bio matches",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency (chief) 2019; pediatric fellowship UAB",
+  "current": "pediatric neurosurgeon, Johns Hopkins All Children's, St. Petersburg FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/syed-hassan-akbari-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; Fellowship Pediatric Neurosurgery 2019-2020; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:afs:salehi",
+  "name": "Afshin Salehi",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency 2013-2020, UCSD MD 2013; UNMC bio matches",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2020; peds fellowship WashU 2020-21",
+  "current": "pediatric neurosurgeon, UNMC/Children's Nebraska, Omaha",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/afshin-salehi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; Fellowship Pediatric Neurosurgery 2020-2021; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:bre:fong",
+  "name": "Brendan Fong",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency 2013-2020, UCLA MD 2013; practice bio matches",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2020; skull base fellowship UC Irvine",
+  "current": "neurosurgeon, Neurosurgery of St. Louis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brendan-fong-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:san:indrakanti",
+  "name": "Santoshi Indrakanti",
+  "program_id": 120,
+  "identity": "probable",
+  "identity_basis": "Santoshi Shalini Indrakanti, WashU MD 2013 (per Trinity Health MA provider page and Healthgrades snippet); radiology bio does not mention WashU neurosurgery, so the neurosurgery roster entry is matched by rare full name + WashU MD 2013",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2014
+   },
+   {
+    "institution": "Santa Clara Valley Medical Center / Boston Medical Center",
+    "specialty": "diagnostic radiology",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left WashU neurosurgery after 2013-14 (PGY-1 year); now board-certified diagnostic radiologist. Trinity Health: internship St. Mary's Medical Center, residencies Santa Clara Valley Medical Center and Boston Medical Center, fellowship MGH, American Board of Diagnostic Radiology",
+  "year_left": 2014,
+  "destination_program": "Diagnostic radiology (Santa Clara Valley Medical Center; Boston Medical Center)",
+  "destination_start_year": null,
+  "current": "diagnostic radiologist (Baystate / Trinity Health MA / RWJBarnabas)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.trinityhealthma.org/provider/santoshi-indrakanti-md",
+    "type": "bio",
+    "evidence": "Medical School: Washington University in St Louis; Residency Santa Clara Valley Medical Center and Boston Medical Center; American Board of Diagnostic Radiology"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-santoshi-indrakanti-y9v78bz",
+    "type": "search_snippet",
+    "evidence": "Diagnostic radiologist; graduated from Washington University in 2013"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "120:ada:bevan",
+  "name": "Adam Bevan",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency (2014-2021 and duplicate 2013-2020 line), Ohio State MD 2014",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2021 (Doximity shows both 2014-2021 and 2013-2020 lines; MD 2014 supports 2014-21)",
+  "current": "neurosurgeon, Utah Neurological Clinic, Provo UT",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adam-bevan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; also 2013 - 2020; Ohio State MD Class of 2014"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:dan:hafez",
+  "name": "Daniel M. Hafez",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency Neurological Surgery 2014-2021, MD/PhD Chicago Medical School 2014; WashU faculty bio",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2021; spine fellowship UPMC 2021-22",
+  "current": "assistant professor and associate program director, WashU neurosurgery, St. Louis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-hafez-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; Fellowship Neurosurgical Spine Surgery UPMC 2021-2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:pet:sylvester",
+  "name": "Peter Sylvester",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (St. Louis profile): WashU residency 2014-2021, EVMS MD 2014, ABNS; Mercy bio says WashU residency",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2021",
+  "current": "neurosurgeon (spine/skull base), Mercy/St. Luke's, St. Louis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/peter-sylvester-md-031a29ab",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; Eastern Virginia Medical School Class of 2014; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:ric:price",
+  "name": "Richard L. Price",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Richard Price III, MD PhD, Ohio State MD 2014): WashU residency Neurological Surgery 2014-2021, ABNS; UC Davis bio: residency WashU. Input roster last seen 2019-20 but residency ends 2021",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU neurosurgery residency (Doximity end 2021; roster last_seen 2019-20 probably research/other years); spine fellowship Swedish Seattle",
+  "current": "assistant professor, neurological surgery (spine), UC Davis Health, Sacramento",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/richard-price-md-a1bd9a99",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; Ohio State Class of 2014; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.wustl.edu/education/residency/current-residents/richard-l-price-md-phd-362",
+    "type": "program_page",
+    "evidence": "WashU alumni page lists Richard L. Price, MD, PhD (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:bhu:patel",
+  "name": "Bhuvic Patel",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency 2015-2022, WashU MD 2015; WashU faculty bio",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2022; Van Wagenen 2022-23; cerebrovascular/skull base fellowship UPMC 2023-24",
+  "current": "assistant professor, WashU neurosurgery (skull base), St. Louis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/bhuvic-patel-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; Fellowship UPMC 2023-2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:chr:dibble",
+  "name": "Christopher Dibble",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (as Chris Dibble): WashU residency 2015-2022, UNC MD 2015; Wake Forest faculty bio",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2022; complex spine fellowship Duke",
+  "current": "assistant professor neurosurgery, Atrium Health Wake Forest Baptist, Winston-Salem",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/chris-dibble-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; UNC Class of 2015"
+   },
+   {
+    "url": "https://school.wakehealth.edu/faculty/d/christopher-francis-dibble",
+    "type": "bio",
+    "evidence": "Wake Forest faculty page (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:jac:greenberg",
+  "name": "Jacob Greenberg",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (St. Louis profile, Jacob Kalman Greenberg): WashU MD 2015, residency 2015-2022, ABNS; WashU dept bio: WashU residency alumnus, Cleveland Clinic spine fellowship",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2022; complex spine fellowship Cleveland Clinic 2022-23",
+  "current": "associate professor of neurosurgery (spine), WashU, St. Louis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jacob-greenberg-md-b46a5eeb",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; WashU Class of 2015; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.wustl.edu/greenberg-joins-spine/",
+    "type": "bio",
+    "evidence": "Washington University alumnus Greenberg joins Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:ann:huguenard",
+  "name": "Anna Huguenard",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency 2016-2023, Emory MD 2016; WashU dept bio",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2023; endovascular neuroradiology fellowship WashU",
+  "current": "cerebrovascular neurosurgeon; rejoined WashU faculty Sept 2025",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anna-huguenard-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; Emory Class of 2016"
+   },
+   {
+    "url": "https://neurosurgery.wustl.edu/washu-neurosurgery-welcomes-back-dr-anna-huguenard/",
+    "type": "bio",
+    "evidence": "WashU Neurosurgery Welcomes Back Dr. Anna Huguenard"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:pet:yang",
+  "name": "Peter Yang",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Peter Huayue Yang, WashU residency 2016-2023, Columbia MD 2016, pediatric fellowship WashU 2023-24; UTHealth bio matches",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2023; peds neurosurgery fellowship WashU 2023-24",
+  "current": "assistant professor pediatric neurosurgery, McGovern/UTHealth Houston",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/peter-yang-md-dac8354c",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; Fellowship Pediatric Neurosurgery 2023 - 2024"
+   },
+   {
+    "url": "https://med.uth.edu/neurosciences/peter-yang-md/",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at Washington University School of Medicine (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:rup:desai",
+  "name": "Rupen Desai",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU residency 2016-2023, Duke MD 2016; MCW bio",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed WashU residency 2023; fellowships Cornell 2023 and Oklahoma complex neuro-oncology 2024",
+  "current": "assistant professor of neurosurgery, Medical College of Wisconsin, Wauwatosa/Milwaukee",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rupen-desai-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; Duke Class of 2016"
+   },
+   {
+    "url": "https://www.mcw.edu/departments/neurosurgery/people/rupen-desai-md",
+    "type": "bio",
+    "evidence": "residency in Neurosurgery at Washington University in St. Louis (2016-2023) (search summary)"
+   }
+  ],
+  "searches_used": 2
+ }
+]

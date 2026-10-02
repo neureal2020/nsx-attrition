@@ -1,0 +1,1091 @@
+[
+ {
+  "key": "112:dyl:adams",
+  "name": "Dylan Adams",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Live UVM neurosurgery 'Our Residents' page (Sep 2026): 'Dylan Adams, MD PGY7 Senior Resident, University of South Alabama College of Medicine'; UVM roster captures 2020-21 PGY-1 onward. External: MSKCC Neurosurgery fellows page: 'Dylan Adams, MD, Neurosurgical Spine Oncology Enfolded Fellowship 2026-2027, Residency: University of Vermont'. Name + program agree. (Healthgrades 'Dylan Adams, Salt Lake City' not examined; not used.)",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UVM PGY-7 (2026-27) doing an ENFOLDED spine oncology fellowship at MSKCC during PGY-7; the MSKCC page says 'Enfolded Fellowship', so he has not yet completed UVM residency (expected June 2027). Prior phase-3 'completed' was based on the snippet without the word 'enfolded'.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, UVM; enfolded neurosurgical spine oncology fellow, MSKCC 2026-27",
+  "agrees_with_db": true,
+  "disagreement": "Agrees with DB IN TRAINING; corrects prior phase-3 'completed' (fellowship is enfolded within PGY-7)",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.uvmhealth.org/gme-uvm-medical-center/residencies/neurosurgery/our-residents",
+  "external_url": "https://www.mskcc.org/departments/neurosurgery/neurosurgical-oncology/fellows",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.uvmhealth.org/gme-uvm-medical-center/residencies/neurosurgery/our-residents",
+    "type": "program_page",
+    "evidence": "Dylan Adams, MD - PGY7 Senior Resident, University of South Alabama College of Medicine"
+   },
+   {
+    "url": "https://www.mskcc.org/departments/neurosurgery/neurosurgical-oncology/fellows",
+    "type": "program_page",
+    "evidence": "Dylan Adams, MD, Neurosurgical Spine Oncology Enfolded Fellowship 2026-2027, Residency: University of Vermont"
+   }
+  ],
+  "searches_used": 1,
+  "ident_searches": 1,
+  "sources_count": 2
+ },
+ {
+  "key": "112:chr:ng",
+  "name": "Christina Ng",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Live UVM neurosurgery 'Our Residents' page (Sep 2026): 'Christina Ng, MD PGY5 Junior Resident, New York Medical College'. External: WebMD profile Dr. Christina Ng, Neurological Surgery, MD New York Medical College 2022, hospital affiliation University of Vermont Medical Center, 111 Colchester Ave Burlington (plus old Valhalla NY address). Name + school + program agree. Doximity family-medicine Christina Ng (Oakland) is a namesake. ResearchGate/Cureus NYMC neurosurgery affiliation is publication background only.",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-5 on live UVM neurosurgery resident page (Sep 2026).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, UVM",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.uvmhealth.org/gme-uvm-medical-center/residencies/neurosurgery/our-residents",
+  "external_url": "https://doctor.webmd.com/doctor/christina-ng-fbc35756-c0ea-48b9-a4f4-19acf7addb51-overview",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.uvmhealth.org/gme-uvm-medical-center/residencies/neurosurgery/our-residents",
+    "type": "program_page",
+    "evidence": "Christina Ng, MD - PGY5 Junior Resident, New York Medical College"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/christina-ng-fbc35756-c0ea-48b9-a4f4-19acf7addb51-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery; New York Medical College 2022; University of Vermont Medical Center, 111 Colchester Ave, Burlington VT"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 2
+ },
+ {
+  "key": "112:kat:zerebiec",
+  "name": "Katherine Zerebiec",
+  "program_id": 112,
+  "identity": "confirmed",
+  "identity_basis": "Live UVM neurosurgery 'Our Residents' page (Sep 2026): 'Katherine Zerebiec, MD PGY5 Junior Resident, Jagiellonian University Medical College'. External: WebMD 'Dr. Katherine Wanda Zerebiec, MD', specialties Neurology and Neurological Surgery, Jagiellonian University Medical College 2019, 111 Colchester Ave Burlington VT; Doximity also Jagiellonian 2019 + UVM. Unique name, school and program agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurology",
+    "start": 2020,
+    "end": 2022
+   },
+   {
+    "institution": "University of Vermont Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-5 on live UVM neurosurgery page (Sep 2026). Doximity's 'Neurology residency UVM 2020-2023' likely reflects UVM neurology training before entering UVM neurosurgery (on neurosurgery roster from 2022-23 as PGY-1); not attrition from neurosurgery.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, UVM",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.uvmhealth.org/gme-uvm-medical-center/residencies/neurosurgery/our-residents",
+  "external_url": "https://doctor.webmd.com/doctor/katherine-zerebiec-a65f7d01-665e-4958-8728-7d3642f618de-overview",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.uvmhealth.org/gme-uvm-medical-center/residencies/neurosurgery/our-residents",
+    "type": "program_page",
+    "evidence": "Katherine Zerebiec, MD - PGY5 Junior Resident, Jagiellonian University Medical College"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/katherine-zerebiec-a65f7d01-665e-4958-8728-7d3642f618de-overview",
+    "type": "search_snippet",
+    "evidence": "Neurology; Neurological Surgery; Jagiellonian University Medical College 2019; 111 Colchester Ave, Burlington VT"
+   },
+   {
+    "url": "https://www.doximity.com/pub/katherine-zerebiec-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurology, University of Vermont Medical Center, 2020 - 2023; Jagiellonian Class of 2019 (prior phase)"
+   }
+  ],
+  "searches_used": 1,
+  "ident_searches": 1,
+  "sources_count": 3
+ },
+ {
+  "key": "113:jam:nguyen",
+  "name": "James Nguyen",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "UVA neurosurgery resident rosters 2012-13 (PGY-1) to 2018-19 (PGY-7) (Wayback/Common Crawl captures in program_sources) and UVA 'Former Residents - Current Positions' page: 'James Nguyen, MD - Neurosurgeon, Providence St. Joseph Medical Center, Burbank, CA'. External: Providence bio James H. Nguyen, MD: MD University of Virginia 2012; 'Residency: University of Virginia Medical Center, 2019' (neurological surgery); board certified American Board of Neurological Surgery. Program, years (2012 MD / 2019 residency end) agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UVA neurosurgery 2019 (Providence bio: residency UVA 2019; complex spine fellowship UVA; Christchurch NZ general neurosurgery fellowship 2017 during residency). ABNS certified; practising neurosurgeon in Burbank.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Providence St. Joseph Medical Center, Burbank CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "program_site_url": "https://med.virginia.edu/neurosurgery/resident-training/uva-former-neurosurgery-resident-current-positions/",
+  "external_url": "https://www.providence.org/doctors/neurosurgery/ca/burbank/james-nguyen-1700144045",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/uva-former-neurosurgery-resident-current-positions/",
+    "type": "program_page",
+    "evidence": "James Nguyen, MD - Neurosurgeon, Providence St. Joseph Medical Center, Burbank, CA"
+   },
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/ (Common Crawl CC-MAIN-2018-43)",
+    "type": "program_page",
+    "evidence": "listed PGY-7 2018-19 (program_sources)"
+   },
+   {
+    "url": "https://www.providence.org/doctors/neurosurgery/ca/burbank/james-nguyen-1700144045",
+    "type": "bio",
+    "evidence": "Medical School: University of Virginia School of Medicine, 2012; Residency: University of Virginia Medical Center, 2019; Board Certification: American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 0,
+  "ident_searches": 0,
+  "sources_count": 2
+ },
+ {
+  "key": "114:sco:boop",
+  "name": "Scott Boop",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW neurosurgery current-residents rosters 2019-20 (PGY-1) through Nov 2025 capture (PGY-7); UW 'Our Newest UW Neurological Surgery Residents' post (UAMS MD May 2019, Little Rock). External: UW department's 5/20/2026 'Chief Residents Graduation Talks' grand rounds (page on neurosurgery.uw.edu, YouTube description lists 'Dr. Scott Boop, Dr. Margaret McGrath, Dr. Evgeniya Tyrtova'); WebMD Scott Harris Boop, Neurological Surgery, UAMS 2019, Harborview/UW Medical Center Montlake; Doximity UAMS 2019. Absent from live UW current-residents pages (Sep 2026).",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduating chief resident, gave UW Chief Resident Graduation Talk 20 May 2026; no longer on UW roster Sep 2026. Doximity shows IL licence 2026-2029 and Chicago address (225 E Chicago Ave, i.e. Lurie Children's area), consistent with a post-residency fellowship; exact current role not found in bios.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "UW neurosurgery graduate 2026; likely fellowship in Chicago (IL licence 2026), role unconfirmed",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://web.archive.org/web/20251114130751/https://neurosurgery.uw.edu/index.php/education/residency-program/current-residents",
+  "external_url": "https://neurosurgery.uw.edu/news-and-resources/chief-resident-graduation-talks-uw-medicine-neurological-surgery-grand-rounds",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20251114130751/https://neurosurgery.uw.edu/index.php/education/residency-program/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-7 2025-26 (program_sources)"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/news-and-resources/chief-resident-graduation-talks-uw-medicine-neurological-surgery-grand-rounds",
+    "type": "program_page",
+    "evidence": "Chief Resident Graduation Talks 5/20/2026; linked video youtu.be/tFxC-H9gRiA description: 'Dr. Scott Boop, Dr. Margaret McGrath, Dr. Evgeniya Tyrtova'"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/scott-boop-b4b655b5-a812-41fa-849e-c45dfdc6dd80-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery; UAMS 2019; Harborview Medical Center, UW Medical Center Montlake"
+   },
+   {
+    "url": "https://www.doximity.com/pub/scott-boop-md",
+    "type": "doximity",
+    "evidence": "UAMS Class of 2019; IL State Medical License 2026-2029 (prior phase)"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 3
+ },
+ {
+  "key": "114:der:lewis",
+  "name": "Derrick Lewis",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Live UW current-residents page (Sep 2026, page 2): 'Derrick Lewis, MS, MD | Resident, PGY-4'; UW bio: BU undergraduate and postgraduate, MD Mayo Clinic Alix School of Medicine. External: LinkedIn 'Derrick Lewis - Neurosurgery Resident at University of ...' with Mayo Clinic School of Medicine education (search snippet). Name + Mayo MD + UW agree. Unrelated LinkedIn namesakes (New Orleans; biomedical engineer) ignored. UF current-residents page does not list him.",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery PGY-4 (2026-27). DB records a PGY-3 transfer in from University of Florida in 2025; UF prior training not independently verified here (UF page does not list him now, consistent with leaving UF).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-4, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://neurosurgery.uw.edu/education/residency-program/current-residents?title=&page=2",
+  "external_url": "https://www.linkedin.com/in/derrick-lewis-b33295b7/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/education/residency-program/current-residents?title=&page=2",
+    "type": "program_page",
+    "evidence": "Derrick Lewis, MS, MD | Resident, PGY-4"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/bio/derrick-lewis-ms-md",
+    "type": "program_page",
+    "evidence": "Resident, PGY-4; MD Mayo Clinic Alix School of Medicine; Boston University"
+   },
+   {
+    "url": "https://www.linkedin.com/in/derrick-lewis-b33295b7/",
+    "type": "search_snippet",
+    "evidence": "Derrick Lewis - Neurosurgery Resident at University of ... (Mayo Clinic School of Medicine)"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "UF current residents page does not list Derrick Lewis"
+   }
+  ],
+  "searches_used": 1,
+  "ident_searches": 1,
+  "sources_count": 2
+ },
+ {
+  "key": "114:kea:chee",
+  "name": "Keanu Chee",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Live UW current-residents page (Sep 2026, page 1): 'Keanu Chee, MD | Resident, PGY-3'; archived UW bio 2024-07 (program_sources). External: University of Colorado Hankinson Lab team page (past members): 'Keanu Chee (2020-2024) - Neurosurgery Resident, University of Washington'; ResearchGate Univ of Colorado medical student. Name + program + CU 2024 MD agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW neurosurgery PGY-3 (2026-27).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://neurosurgery.uw.edu/education/residency-program/current-residents?title=&page=1",
+  "external_url": "https://medschool.cuanschutz.edu/neurosurgery/research-and-innovation/research-labs/hankinson-lab/team-members",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/education/residency-program/current-residents?title=&page=1",
+    "type": "program_page",
+    "evidence": "Keanu Chee, MD | Resident, PGY-3"
+   },
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/research-and-innovation/research-labs/hankinson-lab/team-members",
+    "type": "bio",
+    "evidence": "Keanu Chee (2020-2024) - Neurosurgery Resident, University of Washington"
+   }
+  ],
+  "searches_used": 1,
+  "ident_searches": 1,
+  "sources_count": 2
+ },
+ {
+  "key": "115:you:youn",
+  "name": "Youngwon Youn",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "UW-Madison neurosurgery rosters 2018-19 (PGY-1) to Nov 2024 (PGY-7) (program_sources) and UW Neurosurgery Alumni List, Former Residents 2025: 'Youngwon Youn | Functional Fellowship | UCLA'. External: UCLA Health provider page 'Youngwon Youn, MD - Neurosurgery' and Healthgrades (Neurosurgery; Ronald Reagan UCLA Medical Center; Westwood Neurosurgery, 300 Stein Plz, LA; NPI 1316434145); search summary of listings: MD Albany Medical College 2018, neurosurgery residency University of Wisconsin Hospitals and Clinics 2025. Doximity family-medicine (Kaiser Fontana) residency entry is a mis-merge and is not adopted.",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated UW-Madison neurosurgery 2025 (program alumni list), then functional neurosurgery fellowship at UCLA; UCLA Health lists her under Neurosurgery (Westwood Neurosurgery). UCLA Health profile URL now redirects to the generic provider search (checked in Chrome Sep 2026), consistent with the 1-year fellowship having ended; Healthgrades still lists her as Neurosurgery at Ronald Reagan UCLA / Westwood Neurosurgery and also Mile Bluff Medical Center (Mauston WI).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "UW-Madison neurosurgery graduate 2025; functional neurosurgery fellowship UCLA (2025-26); UCLA provider page now redirects to provider search (Sep 2026), current post-fellowship position not found",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.neurosurgery.wisc.edu/alumni/alumni-list/",
+  "external_url": "https://www.uclahealth.org/providers/youngwon-youn",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/alumni/alumni-list/",
+    "type": "program_page",
+    "evidence": "Former Residents 2025: Youngwon Youn | Functional Fellowship | UCLA"
+   },
+   {
+    "url": "https://web.archive.org/web/20241109042412/https://www.neurosurgery.wisc.edu/people/",
+    "type": "program_page",
+    "evidence": "PGY-7 2024-25 (program_sources)"
+   },
+   {
+    "url": "https://www.uclahealth.org/providers/youngwon-youn",
+    "type": "search_snippet",
+    "evidence": "Youngwon Youn, MD - Neurosurgery | UCLA Health (page JS-rendered; body not readable)"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-youngwon-youn-xynrm3g",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery; Ronald Reagan UCLA Medical Center; Westwood Neurosurgery 300 Stein Plz Los Angeles; search summary: MD Albany Medical College 2018, residency UW Hospitals and Clinics 2025"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3
+ },
+ {
+  "key": "115:gar:greeneway",
+  "name": "Garret Greeneway",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "UW-Madison neurosurgery rosters 2019-20 (PGY-1) to Jan 2026 (PGY-7) and UW staff bio (MD Wake Forest, De Pere WI); UW Neurosurgery Alumni List, Former Residents 2026: 'Garret Greeneway | Spine Fellowship, Cleveland Clinic'. External: Cleveland Clinic Spine Surgery Fellowship page, current fellows 2026-2027: 'Garret Greeneway, MD - Residency: University of Wisconsin Hospitals and Clinics'. Absent from live UW people page (Sep 2026).",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated UW-Madison neurosurgery 2026; now spine surgery fellow at Cleveland Clinic 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine surgery fellow, Cleveland Clinic (2026-27)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.neurosurgery.wisc.edu/alumni/alumni-list/",
+  "external_url": "https://my.clevelandclinic.org/departments/orthopaedics-rheumatology/medical-professionals/fellowship-programs/spine-surgery-fellowship",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/alumni/alumni-list/",
+    "type": "program_page",
+    "evidence": "Former Residents 2026: Garret Greeneway | Spine Fellowship, Cleveland Clinic"
+   },
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/greeneway-garret",
+    "type": "program_page",
+    "evidence": "neurosurgery resident, M.D. Wake Forest"
+   },
+   {
+    "url": "https://my.clevelandclinic.org/departments/orthopaedics-rheumatology/medical-professionals/fellowship-programs/spine-surgery-fellowship",
+    "type": "bio",
+    "evidence": "Current fellows 2026-2027: Garret Greeneway, MD - Residency: University of Wisconsin Hospitals and Clinics"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 2
+ },
+ {
+  "key": "115:lar:meisner",
+  "name": "Lars Meisner",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Live UW-Madison people page (Sep 2026) lists 'Lars Meisner, MD' under PGY-7 and under Fellows as 'Endovascular Fellow'; UW staff bio: 'current neurosurgery resident', from Glenwood MN, BS Hamline 2014, MD Warren Alpert Medical School of Brown University 2020. External: EverydayHealth/NPI listing Dr. Lars Meisner, Neurosurgeon, 600 Highland Ave Madison (UW Health University Hospital), NPI 1437778131; UW Dept of Neurological Surgery social post (search snippet) describing resident Meisner on a Solidarity Bridge neurosurgical mission to Paraguay; directory snippets give MD Brown Alpert. Name + Brown MD + UW agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 (2026-27) at UW-Madison, currently doing the in-program (enfolded) endovascular fellowship year; expected completion June 2027.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7 / endovascular fellow, UW-Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.neurosurgery.wisc.edu/people/",
+  "external_url": "https://www.everydayhealth.care/providers/4060799/lars-meisner/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/people/",
+    "type": "program_page",
+    "evidence": "PGY-7: Joyce Koueik; Lars Meisner (Position title: Endovascular Fellow)"
+   },
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/meisner-lars/",
+    "type": "program_page",
+    "evidence": "Lars Meisner is a current neurosurgery resident ... Medical School: MD, Warren Alpert Medical School of Brown University, 2020"
+   },
+   {
+    "url": "https://www.everydayhealth.care/providers/4060799/lars-meisner/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgeon; 600 Highland Ave, Madison WI; UW Health University Hospital; NPI 1437778131"
+   },
+   {
+    "url": "https://www.linkedin.com/in/university-of-wisconsin-department-of-neurological-surgery-539b26342/",
+    "type": "search_snippet",
+    "evidence": "UW Dept of Neurological Surgery post: resident Dr. Lars Meisner took part in a neurosurgical mission to Paraguay with Solidarity Bridge (search summary)"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3
+ },
+ {
+  "key": "115:kat:bunch",
+  "name": "Katherine Bunch",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Live UW-Madison people page (Sep 2026): 'Katherine Bunch, MD' under PGY-6; UW staff bio: current neurosurgery resident, BS Syracuse 2015, MS Tufts 2017, MD SUNY Upstate 2021. External: WebMD 'Katherine M Bunch', Neurological Surgery, SUNY Upstate Medical University 2021, Madison WI, UW Health University Hospital. Name + school + year + program agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW-Madison neurosurgery PGY-6 (2026-27).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-6, UW-Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.neurosurgery.wisc.edu/people/",
+  "external_url": "https://doctor.webmd.com/doctor/katherine-bunch-4b6191a5-2d48-4594-ab7f-f28f6b3e924d-overview",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/people/",
+    "type": "program_page",
+    "evidence": "PGY-6: Simon Ammanuel; Katherine Bunch"
+   },
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/bunch-katherine/",
+    "type": "program_page",
+    "evidence": "current neurosurgery resident ... Medical School: SUNY Upstate Medical University, 2021"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/katherine-bunch-4b6191a5-2d48-4594-ab7f-f28f6b3e924d-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery; SUNY Upstate 2021; Madison WI; UW Health University Hospital"
+   }
+  ],
+  "searches_used": 1,
+  "ident_searches": 1,
+  "sources_count": 2
+ },
+ {
+  "key": "115:ben:lee",
+  "name": "Benjamin Lee",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Live UW-Madison people page (Sep 2026): 'BJ Lee, MD' under PGY-4; UW staff bio (lee-benjamin): University of Oklahoma BS, University of Oklahoma Medical School Class of 2023. External: Doximity Benjamin Lee (131b0460): Neurosurgery, Madison WI, Resident, University of Oklahoma College of Medicine Class of 2023 (its ABO ophthalmology certification is a merged namesake; ignored); search summary of OU sources: 2023 OU College of Medicine graduate, UW neurosurgery resident, 600 Highland Ave Madison. Pitt's Benjamin B. Lee MD PhD is a different person.",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW-Madison neurosurgery PGY-4 (2026-27), listed as 'BJ Lee'.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-4, UW-Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.neurosurgery.wisc.edu/people/",
+  "external_url": "https://www.doximity.com/pub/benjamin-lee-md-131b0460",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/people/",
+    "type": "program_page",
+    "evidence": "PGY-4: Jonathan Blalock; BJ Lee"
+   },
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/lee-benjamin/",
+    "type": "program_page",
+    "evidence": "BJ Lee MD ... University of Oklahoma Medical School, Class of 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/benjamin-lee-md-131b0460",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Madison WI, Resident; University of Oklahoma College of Medicine Class of 2023 (prior phase)"
+   }
+  ],
+  "searches_used": 1,
+  "ident_searches": 1,
+  "sources_count": 2
+ },
+ {
+  "key": "115:bra:lundin",
+  "name": "Brady Lundin",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Live UW-Madison people page (Sep 2026): 'Brady Lundin, MD' under PGY-2; UW staff bio: current neurosurgery resident from Crandon WI, BS Biomedical Engineering UW-Madison 2017, MD/PhD UW-Madison MSTP 2025. External: LinkedIn 'Brady Lundin - UW Health' (search snippet: one of the newest residents in UW Dept of Neurological Surgery). Distinctive name; unrelated David A. Lundin (Seattle neurosurgeon) is a different person.",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW-Madison neurosurgery PGY-2 (2026-27).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, UW-Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.neurosurgery.wisc.edu/people/",
+  "external_url": "https://www.linkedin.com/in/brady-lundin-32741685/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/people/",
+    "type": "program_page",
+    "evidence": "PGY-2: Rose Caston; Brady Lundin"
+   },
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/lundin-brady/",
+    "type": "program_page",
+    "evidence": "Brady Lundin is a current neurosurgery resident ... MD/PhD, Biomedical Engineering - UW-Madison Medical Scientist Training Program, 2025"
+   },
+   {
+    "url": "https://www.linkedin.com/in/brady-lundin-32741685/",
+    "type": "search_snippet",
+    "evidence": "Brady Lundin - UW Health; one of the newest residents in UW Dept of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 2
+ },
+ {
+  "key": "115:ros:greenberg",
+  "name": "Ross Greenberg",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Live UW-Madison neurosurgery people page (Sep 2026): 'Ross Greenberg, MD' under PGY-1 (rgreenberg@uwhealth.org); staff bio has no detail. External: LinkedIn 'Ross Greenberg, MD - Neurosurgery Resident' (snippet). The UW Dept of Surgery 'Ross Greenberg, MD, General Surgery Resident' (Emory MD, Baltimore, research year at Johns Hopkins) is almost certainly the same person one year earlier: UW Surgery 2025 Match page lists 'Ross Greenberg, Emory University School of Medicine' as a General Surgery PRELIMINARY intern (2025-26), and a 2025 JNS Focus Video paper lists 'Ross Greenberg, BS, Department of Neurosurgery, Johns Hopkins' (background only). Same uncommon name, same institution, consecutive years, neurosurgery background -> prelim surgery year then UW neurosurgery PGY-1 2026. Not a namesake conflict.",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "general surgery (preliminary)",
+    "start": 2025,
+    "end": 2026
+   },
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UW-Madison neurosurgery PGY-1 (2026-27) after a UW general-surgery preliminary year 2025-26. Note UW normally takes 2/yr; three PGY-1s listed in 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, UW-Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.neurosurgery.wisc.edu/people/",
+  "external_url": "https://www.surgery.wisc.edu/2025/03/21/2025-match/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/people/",
+    "type": "program_page",
+    "evidence": "PGY-1: Tiffany Chu; Ross Greenberg; Uyen Tran"
+   },
+   {
+    "url": "https://www.surgery.wisc.edu/2025/03/21/2025-match/",
+    "type": "program_page",
+    "evidence": "General Surgery Preliminary Interns: Ross Greenberg, Emory University School of Medicine"
+   },
+   {
+    "url": "https://www.surgery.wisc.edu/staff/ross-greenberg/",
+    "type": "program_page",
+    "evidence": "Ross Greenberg, MD, General Surgery Resident; MD Emory; research year at Johns Hopkins"
+   },
+   {
+    "url": "https://www.linkedin.com/in/ross-greenberg-md-a0650b1b0",
+    "type": "search_snippet",
+    "evidence": "Ross Greenberg, MD - Neurosurgery Resident"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 2
+ },
+ {
+  "key": "115:tif:chu",
+  "name": "Tiffany Chu",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Live UW-Madison people page (Sep 2026): 'Tiffany Chu, MD' under PGY-1 (tchu@uwhealth.org). External: Creighton University SOM Class of 2026 Match List: 'Chu, Tiffany - Univ of Wisconsin Hosps and Clinics, Madison, WI - Neurological Surgery - Omaha'. Background: Creighton medical student, Mayo (Bydon) research fellow, 2025 Spine Summit presenter. Other Tiffany Chus (UCSD postdoc, psychiatry, neurology, Kaiser PharmD) are namesakes.",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Matched UW-Madison neurosurgery 2026 from Creighton; current PGY-1.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, UW-Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.neurosurgery.wisc.edu/people/",
+  "external_url": "https://www.creighton.edu/sites/default/files/Class-of-2026-Match-List.pdf",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/people/",
+    "type": "program_page",
+    "evidence": "PGY-1: Tiffany Chu"
+   },
+   {
+    "url": "https://www.creighton.edu/sites/default/files/Class-of-2026-Match-List.pdf",
+    "type": "news",
+    "evidence": "Chu Tiffany - Univ of Wisconsin Hosps and Clinics, Madison, WI - Neurological Surgery - Omaha"
+   },
+   {
+    "url": "https://spinesummit25.eventscribe.net/ajaxcalls/posterPresenterInfo.asp?PresenterID=1782810",
+    "type": "search_snippet",
+    "evidence": "Tiffany Chu, BS, BA - Creighton medical student, research fellow with Dr. Bydon at Mayo (background)"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 2
+ },
+ {
+  "key": "115:uye:tran",
+  "name": "Uyen Tran",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Live UW-Madison people page (Sep 2026): 'Uyen Tran, MD' under PGY-1 (utran@uwhealth.org). External: UNMC Match Day 2026 news: 'Uyen Tran, neurological surgery, University of Wisconsin Hospital and Clinics, Madison'; LinkedIn 'Uyen Tran - Neurosurgery Resident at University of Wisconsin Hospital and Clinics'; UNMC Neurosurgery X post on M2 student Uyen Tran (2023). Other Uyen Trans (Vanderbilt, Houston internist, PA) are namesakes.",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Matched UW-Madison neurosurgery 2026 from UNMC; current PGY-1.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, UW-Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.neurosurgery.wisc.edu/people/",
+  "external_url": "https://www.unmc.edu/newsroom/2026/03/24/124-unmc-medical-students-learned-residency-assignments-on-match-day/",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/people/",
+    "type": "program_page",
+    "evidence": "PGY-1: Uyen Tran"
+   },
+   {
+    "url": "https://www.unmc.edu/newsroom/2026/03/24/124-unmc-medical-students-learned-residency-assignments-on-match-day/",
+    "type": "news",
+    "evidence": "Uyen Tran, neurological surgery, University of Wisconsin Hospital and Clinics, Madison"
+   },
+   {
+    "url": "https://www.linkedin.com/in/uyen-tran-976378189/",
+    "type": "search_snippet",
+    "evidence": "Uyen Tran - Neurosurgery Resident at University of Wisconsin Hospital and Clinics"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3
+ },
+ {
+  "key": "116:joe:garcia",
+  "name": "Joe Garcia",
+  "program_id": 116,
+  "identity": "confirmed",
+  "identity_basis": "Pitt neurosurgery current-residents roster Oct 2025 (Wayback): 'PGY-4 | Joe Garcia, MD | Will Shuman, MD'; rosters 2022-23 PGY-1 onward (program_sources). Live Pitt roster ('reflects July 1, 2026 to June 30, 2027') omits him (Shuman now PGY-5 alone). External: WebMD Joseph Garcia, Neurological Surgery, UCSF School of Medicine 2022, UPMC Presbyterian / UPP Dept of Neurological Surgery, Pittsburgh. Destination: live SUNY Upstate neurosurgery 'Resident and Fellow Team' page (read in Chrome Sep 2026): 'PGY-4 Joseph Garcia, MD - MD: University of California San Francisco; Formal Education: University of California Davis'. UCSF MD links the Pitt and Upstate records.",
+  "residency_stated": [
+   {
+    "institution": "UPMC Medical Education (University of Pittsburgh)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2026
+   },
+   {
+    "institution": "SUNY Upstate Medical University",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left Pitt after 2025-26 (PGY-4 there); on SUNY Upstate neurosurgery roster as PGY-4 in 2026-27 (same PGY level repeated/reset per Upstate's listing). Still in neurosurgery training at Upstate; completion not yet reached.",
+  "year_left": 2026,
+  "destination_program": "SUNY Upstate Medical University neurosurgery",
+  "destination_start_year": 2026,
+  "current": "neurosurgery resident PGY-4, SUNY Upstate (Syracuse)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://web.archive.org/web/20251008005329/https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+  "external_url": "https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20251008005329/https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-4 | Joe Garcia, MD | Will Shuman, MD"
+   },
+   {
+    "url": "https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+    "type": "program_page",
+    "evidence": "This roster reflects the July 1, 2026 to June 30, 2027 academic year ... PGY-5 | Will Shuman, MD (Garcia absent)"
+   },
+   {
+    "url": "https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+    "type": "program_page",
+    "evidence": "PGY-4 Joseph Garcia, MD - MD: University of California San Francisco; Formal Education: University of California Davis"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/joseph-garcia-b9527036-40e5-497c-9534-8f66aa1fe4d0-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery; UCSF School of Medicine 2022; UPMC Presbyterian, Pittsburgh"
+   }
+  ],
+  "searches_used": 1,
+  "ident_searches": 1,
+  "sources_count": 3
+ },
+ {
+  "key": "117:cam:liles",
+  "name": "Campbell Liles",
+  "program_id": 117,
+  "identity": "confirmed",
+  "identity_basis": "Vanderbilt neurosurgery rosters 2019-20 (PGY-1) to Jan 2026 (PGY-7) (program_sources); VUMC bio 'Campbell Liles, MD': MD Vanderbilt 2019, 'He plans to graduate residency in 2026' (email david.c.liles.1@vumc.org). Live VUMC current-residents page (Sep 2026) no longer lists him. External: UCSF Health provider page (read in Chrome Sep 2026) 'David Campbell Liles, MD - Neurosurgery', Neurologic Spine Parnassus, 400 Parnassus Ave; Degree: MD, Vanderbilt University School of Medicine. Full name David Campbell + Vanderbilt MD link the records.",
+  "residency_stated": [
+   {
+    "institution": "Vanderbilt University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Vanderbilt neurosurgery June 2026 (bio: planned 2026 graduation; absent from 2026-27 roster); now neurosurgery (neurologic spine) at UCSF Health, likely spine fellowship (Doximity 'Resident Physician, San Francisco').",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery, Neurologic Spine, UCSF Health Parnassus (likely spine fellow 2026-27)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://web.archive.org/web/20260115031649/https://www.vumc.org/neurosurgerydept/person/current-residents",
+  "external_url": "https://www.ucsfhealth.org/providers/david-liles",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20260115031649/https://www.vumc.org/neurosurgerydept/person/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-7 2025-26 (program_sources)"
+   },
+   {
+    "url": "https://www.vumc.org/neurosurgerydept/campbell-liles-md",
+    "type": "program_page",
+    "evidence": "medical degree from Vanderbilt University School of Medicine in 2019 ... He plans to graduate residency in 2026"
+   },
+   {
+    "url": "https://www.vumc.org/neurosurgerydept/person/current-residents",
+    "type": "program_page",
+    "evidence": "live 2026-27 roster does not list Liles"
+   },
+   {
+    "url": "https://www.ucsfhealth.org/providers/david-liles",
+    "type": "bio",
+    "evidence": "David Campbell Liles, MD - Neurosurgery; Neurologic Spine Parnassus; Degree: MD, Vanderbilt University School of Medicine"
+   }
+  ],
+  "searches_used": 0,
+  "ident_searches": 0,
+  "sources_count": 2
+ },
+ {
+  "key": "118:ale:whitaker-lea",
+  "name": "Alexandra Whitaker-Lea",
+  "program_id": 118,
+  "identity": "confirmed",
+  "identity_basis": "VCU neurosurgery rosters 2015-16 (PGY-1, Wayback) through 2018-19 (PGY-4, Common Crawl); 2019-22 reconstructed (program_sources). External: AdventHealth provider bio (read in Chrome Sep 2026) 'Alex Whitaker-Lea, MD', Neurological Surgery, AdventHealth Medical Group Neurosurgery at Rome GA: 'graduate of the Medical College of Georgia in Augusta. She completed her residency in neurosurgery at the Virginia Commonwealth University in Richmond.' Doximity (listed under formal first name 'Wittstatt') MCG 2015 + VCU neurosurgery residency, GA licence 2022; news: Harbin Clinic Neurosurgery welcomed Dr. Alex Whitaker-Lea, seeing patients from Nov 2022. MCG 2015 matches 2015 VCU entry.",
+  "residency_stated": [
+   {
+    "institution": "Virginia Commonwealth University Health System",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed VCU neurosurgery residency (AdventHealth bio); practising neurosurgeon in Rome GA since Nov 2022, consistent with 2022 graduation.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, AdventHealth Medical Group Neurosurgery at Rome (formerly Harbin Clinic), Rome GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://web.archive.org/web/20151126202802/http://www.neurosurgery.vcu.edu/people/residents.html",
+  "external_url": "https://www.adventhealth.com/doctors/alex-whitaker-lea-md-1124414701",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20151126202802/http://www.neurosurgery.vcu.edu/people/residents.html",
+    "type": "program_page",
+    "evidence": "VCU neurosurgery PGY-1 2015-16 (program_sources); also PGY-4 2018-19 Common Crawl"
+   },
+   {
+    "url": "https://www.adventhealth.com/doctors/alex-whitaker-lea-md-1124414701",
+    "type": "bio",
+    "evidence": "graduate of the Medical College of Georgia in Augusta. She completed her residency in neurosurgery at the Virginia Commonwealth University in Richmond"
+   },
+   {
+    "url": "https://www.doximity.com/pub/wittstatt-whitaker-lea-md",
+    "type": "doximity",
+    "evidence": "VCU Health System Residency, Neurological Surgery; Medical College of Georgia Class of 2015 (prior phase)"
+   },
+   {
+    "url": "https://www.northwestgeorgianews.com/rome/business/harbin-clinic-neurosurgery-welcomes-dr-alex-whitaker-lea/article_305847ba-b9d6-11ed-921f-0ff26947f992.html",
+    "type": "news",
+    "evidence": "Harbin Clinic Neurosurgery welcomes Dr. Alex Whitaker-Lea; began seeing patients Nov. 7, 2022 (prior phase snippet)"
+   }
+  ],
+  "searches_used": 0,
+  "ident_searches": 0,
+  "sources_count": 3
+ },
+ {
+  "key": "118:vis:patel",
+  "name": "Vishal Patel",
+  "program_id": 118,
+  "identity": "confirmed",
+  "identity_basis": "VCU neurosurgery rosters 2017-18 (PGY-1) and 2018-19 (Common Crawl), 2022-23 (PGY-6) and Feb 2024 (PGY-7, Wayback) (program_sources). External: Lehigh Valley Health Network bio 'Vishal C. Patel, MD, PhD', Neurosurgery: MD Drexel 2011; 'Residency: General Surgery at Virginia Commonwealth University Health System (2013); Neurosurgery at Virginia Commonwealth University Health System (2024)'; Fellowship Functional Neurosurgery, Walton Centre, Liverpool (2025). Doximity (VCU neurosurgery 2017-2024, Drexel 2011) agrees.",
+  "residency_stated": [
+   {
+    "institution": "Virginia Commonwealth University Health System",
+    "specialty": "general surgery",
+    "start": 2011,
+    "end": 2013
+   },
+   {
+    "institution": "Virginia Commonwealth University Health System",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed VCU neurosurgery 2024; functional neurosurgery fellowship Walton Centre Liverpool 2025; now neurosurgeon at Lehigh Valley Fleming Neuroscience Institute (Allentown/Bethlehem PA).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "functional neurosurgeon, Lehigh Valley Health Network (LVPG), Allentown PA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://web.archive.org/web/20240223001736/https://neurosurgery.vcu.edu/education/residency/",
+  "external_url": "https://www.lvhn.org/doctors/vishal-patel",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20240223001736/https://neurosurgery.vcu.edu/education/residency/",
+    "type": "program_page",
+    "evidence": "VCU neurosurgery PGY-7 2023-24 (program_sources)"
+   },
+   {
+    "url": "https://www.lvhn.org/doctors/vishal-patel",
+    "type": "bio",
+    "evidence": "Residency: General Surgery at VCU Health System (2013); Neurosurgery at VCU Health System (2024); Fellowship: Functional Neurosurgery, The Walton Centre (2025)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/vishal-patel-md-105b808c",
+    "type": "doximity",
+    "evidence": "VCU Residency, Neurological Surgery, 2017 - 2024; Drexel Class of 2011 (prior phase)"
+   }
+  ],
+  "searches_used": 0,
+  "ident_searches": 0,
+  "sources_count": 3
+ }
+]

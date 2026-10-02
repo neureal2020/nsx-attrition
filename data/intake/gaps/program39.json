@@ -1,0 +1,118 @@
+{
+ "program_id": 39,
+ "name": "Mayo Clinic College of Medicine and Science (Phoenix) Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2020,
+ "hosts": [
+  {
+   "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-arizona/",
+   "from": "2021-08 (first linked in Programs A-Z index 2021-08-18; absent 2021-07-24 and earlier; first page capture 2021-11-09)",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-arizona/meet-our-residents/",
+   "from": "2021-11-19",
+   "to": "live"
+  },
+  {
+   "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-arizona/alumni/",
+   "from": "2025-08-10",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2020-2021"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2020-2021": "First program year; no roster page existed (page first linked Aug 2021). Reconstructed: Miles Hudson PGY-1 (NPPES trainee NPI enumerated 2020-06-17 at Mayo AZ Shea Blvd address; PGY-2 in Nov 2021). Patra's 2020-21 status (fellow vs PGY-3) unknown; he is seen from 2021-22 to graduation 2025 so no exit is hidden. Phase 2: CC-MAIN-2019-04/2019-22/2020-10 retried OK, 0 records under the Arizona residency prefix. Complement 1/yr and the 2020 slot is Hudson's, so an unseen PGY-1 leaver would exceed complement.",
+  "2011-2012..2019-2020": "Treated as pre-program, not missing: Mayo GME neurosurgery index (college.mayo.edu/.../neurosurgery/, 2019-09-22) listed residencies only in Florida and Minnesota; mayo.edu/msgme (2012-2016) and mayo.edu/mayo-clinic-school-of-graduate-medical-education (2017-2018) neurologic-surgery trees contain only Florida/Minnesota residency paths. Earliest entrant with PGY consistent with a PGY-1 start is 2020. Caveat: no accreditation/history page found; Devi Patra (grad 2025, listed PGY-4 in 2021-22) implies nominal 2018 entry but he had prior neurosurgery residency (PGIMER) and Mayo AZ cerebrovascular fellowship, and PubMed shows him at Mayo Phoenix labs from 2018 -> taken as advanced-placement entry. A 2019 entrant (would be PGY-3 in 2021-22) is absent; cannot tell whether the program had no 2019 PGY-1 or one left before Nov 2021. Mayo Programs A-Z index (college.mayo.edu/academics/residencies-and-fellowships/programs-a-z/) first links the Arizona neurosurgery residency between captures 2021-07-24 (absent; 9 captures 2019-08..2021-07 all lack it) and 2021-08-18 (present).",
+  "2022-2023": "Only capture in the year is 2022-07-29 but content is advanced (Bathini PGY-1, all others +1) -> used as 2022-23. Next capture is 2024-03.",
+  "2023-2024": "Single capture 2024-03-02 (Abbas PGY-1).",
+  "2025-2026": "2025-07-19 capture still listed Patra PGY-7 alongside new PGY-1 Nguyen; used 2025-11-16 capture (Patra removed, matches alumni grad 2025).",
+  "2019 entrant": "No 2019 entrant: the program did not yet exist. Phase-2 Wayback audit of every college.mayo.edu/academics/residencies-and-fellowships/ URL Jun 2019-Oct 2021 (1217 URLs, any status) shows Arizona neurosurgery FELLOWSHIPS and FL/MN residencies but no neurologic-surgery-residency-arizona path; NPPES Neurological Surgery NPIs in Scottsdale/Phoenix AZ enumerated 2019 are all Barrow/St Joseph's/Phoenix Children's addresses, none at Mayo; first Mayo AZ NSGY trainee NPI is Hudson (Jun 2020); PubMed Mayo AZ neurosurgery affiliations 2019-21 show no unlisted resident (e.g. Karl Abi-Aad = research fellow, residency in Syracuse from 2020)."
+ },
+ "alumni_page": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-arizona/alumni/",
+ "departures": [],
+ "joiners": [
+  {
+   "name": "Devi Patra",
+   "first_ay": "2021-2022",
+   "first_pgy": 4,
+   "note": "advanced-placement entry (prior MCh-track residency PGIMER Chandigarh, LSU and Mayo AZ fellowships); program had no PGY-1 in 2018. Joined in 2020-21 (PGY-3) or 2021-22 (PGY-4) - 2020-21 unobserved. Graduated 2025 (alumni page)."
+  }
+ ],
+ "residents_2011plus": 8,
+ "adjudication_summary": {
+  "IN TRAINING": 7,
+  "COMPLETED": 1
+ },
+ "problems": "Phase-1 CC failures (2019-04, 2019-22, 2020-10) retried OK in phase 2: 0 records. Program start date not documented on any program page; first_class_year=2020 is inferred. DB note: program 71 (University of Arizona College of Medicine-Phoenix, Banner, director Robert Bina) has the Mayo Arizona URL recorded as its website - that is a mis-assignment; all Mayo Arizona pages belong to program 39 (PD Bendok, arzneurosurgprog@mayo.edu). Nothing was loaded for 71. Classes are 1/yr so each class = one person; a 2019 entrant is absent.",
+ "year_status": {
+  "2011-2012..2019-2020": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "pre-program: no Arizona NSGY residency path anywhere on Mayo GME sites until Aug 2021; first trainee NPI Jun 2020"
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "first year; Hudson (only possible PGY-1, complement 1) bracketed by NPI Jun 2020 and 2021-22 roster; Patra seen through graduation"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "wayback 2021-11-19; no PGY-3 because no 2019 class existed"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "single capture Jul 2022, complete and consistent with neighbours"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "single capture Mar 2024, complete and consistent"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "wayback 2024-10-11"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "wayback 2025-11-16"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page 2026-09-27"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "CC retry CC-MAIN-2019-04, 2019-22, 2020-10 (arizona residency prefix + neurologic-surgery prefix): all OK, 0 Arizona records",
+   "Wayback gapaudit college.mayo.edu/academics/residencies-and-fellowships/ 2019-06..2021-10 (1217 URLs): no Arizona NSGY residency path",
+   "NPPES: Neurological Surgery NPIs Scottsdale+Phoenix AZ, and name lookups for all residents",
+   "PubMed affiliation mining Mayo AZ neurosurgery 2019-2021 (316 PMIDs)"
+  ],
+  "found": [
+   "Miles Hudson NPI 1871119792 enumerated 2020-06-17 as trainee at Mayo AZ (13400 E Shea Blvd) -> 2020-21 PGY-1 reconstructed",
+   "No Mayo AZ neurosurgery trainee NPI enumerated in 2019 -> no 2019 class"
+  ],
+  "remaining": [
+   "Patra's exact start (2020-21 as PGY-3 or 2021-22 as PGY-4) undocumented; no effect on attrition (seen through 2025 graduation)"
+  ],
+  "files": "data/raw/extraction/p39/phase2/"
+ }
+}

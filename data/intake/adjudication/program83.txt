@@ -1,0 +1,49 @@
+
+University of Illinois College of Medicine at Chicago Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2006   Troy Munson              2013   2012-20  7   bio          COMPLETED
+2008   Ziad Hage                2015   2014-20  7   bio          COMPLETED
+2008   P Hari Krishna           2015   2014-20  7   bio          COMPLETED [ambiguous name]
+2009   Alexander Ivanov         2016   2015-20  7   bio          COMPLETED [ambiguous name]
+2010   Daniel Birk              2017   2016-20  7   bio          COMPLETED
+2010   Gerald Oh                2017   2016-20  7   bio          COMPLETED
+2011   Gregory Arnone           2018   2017-20  7   bio          COMPLETED
+2011   Sajeel Khan              2018   2017-20  7   bio          COMPLETED
+2012   Ashley Barks             2019   2018-20  7   bio          COMPLETED
+2012   Darian Esfahani          2019   2018-20  7   bio          COMPLETED
+2013   Debadutta Dash           2015   2014-20  2   bio          LEFT -> SWITCHED SPECIALTY
+2014   Mandana Behbahani        2021   2020-20  7   bio          COMPLETED
+2014   Nauman Chaudhry          2021   2020-20  7   bio          COMPLETED
+2015   Amanda Kwasnicki         2022   2021-20  7   bio          COMPLETED
+2015   Laura Stone McGuire      2022   2021-20  7   bio          COMPLETED [ambiguous name]
+2016   Justin Scheer            2018   2017-20  2   bio          LEFT -> TRANSFERRED (University of California, San Fran)
+2017   Zayed Almadidy           2024   2023-20  7   bio          COMPLETED
+2017   Peter Theiss             2025   2024-20  -   bio:none     LEFT -> outcome unknown
+2018   Richard Bram             2025   2024-20  7   bio          COMPLETED
+2018   Morteza Sadeh            2025   2024-20  7   bio          COMPLETED
+2019   Sophia Peng              -      2025-20  7   roster PGY-7 COMPLETED
+2019   John Souter              -      2025-20  7   roster PGY-7 COMPLETED
+2020   Charles Pierce           2021   2020-20  1   bio          LEFT -> did not complete [ambiguous name]
+2021   Denise Brunozzi          -      2025-20  5   roster       IN TRAINING
+2021   Syed Khalid              -      2025-20  5   roster       IN TRAINING [ambiguous name]
+2021   Saavan Patel             -      2025-20  5   roster       IN TRAINING
+2022   Dario Marotta            -      2025-20  4   roster       IN TRAINING
+2023   Gabriel Gonzales-Portill -      2025-20  3   roster       IN TRAINING [ambiguous name]
+2024   Kristina Kurker          -      2025-20  2   roster       IN TRAINING
+2024   Jakov Tiefenbach         -      2025-20  2   roster       IN TRAINING
+2025   Adrusht Madapoosi        -      2025-20  1   roster       IN TRAINING
+2025   Tatiana Abou Mrad        -      2025-20  1   roster       IN TRAINING
+2025   Jorge Rios Zermeno       -      2025-20  1   roster       IN TRAINING
+
+summary:
+    19  COMPLETED
+    10  IN TRAINING
+     1  LEFT -> SWITCHED SPECIALTY
+     1  LEFT -> TRANSFERRED (University of California, San Fran)
+     1  LEFT -> outcome unknown
+     1  LEFT -> did not complete
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

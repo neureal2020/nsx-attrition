@@ -1,0 +1,16 @@
+import sys; sys.path.insert(0,'scratch/054')
+from add import add
+add({"key":"79:kat:myers","identity":"confirmed","identity_basis":"Doximity Katie Marie Myers MD: University of Missouri-Columbia MD 2011; Residency Neurological Surgery University of Cincinnati 2011-2014 (matches DB entry 2011, Missouri MD)",
+"residency_stated":[{"institution":"University of Cincinnati Medical Center/College of Medicine","specialty":"neurosurgery","start":2011,"end":2014},{"institution":"Rutgers Health/New Jersey Medical School","specialty":"emergency medicine","start":2016,"end":2020}],
+"outcome":"switched_specialty","outcome_detail":"Left Cincinnati neurosurgery after PGY-3 (2013-14); emergency medicine residency at Rutgers NJMS 2016-2020 (gap 2014-2016 unexplained); ABEM certified; Assistant Professor of Emergency Medicine.",
+"year_left":2014,"destination_program":"Rutgers New Jersey Medical School emergency medicine","destination_start_year":2016,
+"current":"emergency medicine physician / assistant professor, University Hospital Newark NJ (Rutgers)","agrees_with_db":False,"disagreement":"DB: left, outcome unknown; found: switched to emergency medicine (Rutgers NJMS 2016-2020), ABEM certified",
+"checks":{"google":"found","doximity":"found"},"abns_certified":False,
+"sources":[{"url":"https://www.doximity.com/pub/katie-myers-md","type":"doximity","evidence":"Rutgers NJMS Residency, Emergency Medicine, 2016 - 2020; University of Cincinnati Residency, Neurological Surgery, 2011 - 2014; University of Missouri-Columbia Class of 2011; American Board of Emergency Medicine"}],"searches_used":3})
+add({"key":"79:chr:cutler","identity":"confirmed","identity_basis":"Doximity Christopher Cutler MD: Chicago Medical School (RFU) MD 2024, UC neurosurgery residency 2024-2031 in summary; UC neurosurgery welcome post; AOA 2023",
+"residency_stated":[{"institution":"University of Cincinnati Medical Center/College of Medicine","specialty":"neurosurgery","start":2024}],
+"outcome":"switched_specialty","outcome_detail":"Doximity profile (URL pub/christopher-cutler-md-573484b3, redirected from the neurosurgery-titled URL) now shows specialty Anesthesiology, 'CA1', Cincinnati OH (UC anesthesiology address), while the summary still cites the neurosurgery residency 2024-2031. Google also shows LinkedIn 'Christopher Cutler - University of Cincinnati Anesthesia' and a UC College of Medicine anesthesiology directory profile. Not on the UC neurosurgery residents pages (2026-27). Switch to anesthesiology at UC, starting 2026-27 as CA-1 (i.e. left neurosurgery after PGY-2 2025-26).",
+"year_left":2026,"destination_program":"University of Cincinnati anesthesiology","destination_start_year":2026,
+"current":"anesthesiology resident (CA-1), University of Cincinnati","agrees_with_db":False,"disagreement":"DB: left, destination not found; found: switched to anesthesiology at UC",
+"checks":{"google":"found","doximity":"found"},"abns_certified":False,
+"sources":[{"url":"https://www.doximity.com/pub/christopher-cutler-md-573484b3","type":"doximity","evidence":"Anesthesiology, CA1, Cincinnati OH; Chicago Medical School Class of 2024"},{"url":"https://med.uc.edu/depart/neurosurgery/directory/residents","type":"program_page","evidence":"Cutler not among current neurosurgery residents PGY-1..PGY-7"}],"searches_used":3})

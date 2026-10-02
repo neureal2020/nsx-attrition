@@ -1,0 +1,318 @@
+{
+ "program_id": 94,
+ "name": "University of Missouri-Columbia Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://muhealth.org/body.cfm?id=808 (Division of Neurological Surgery 'Current Residents', muhealth.org CMS; parent body.cfm?id=268 / vanity muhealth.org/neurosurgery)",
+   "from": "2010-06",
+   "to": "2011-04 (last roster = AY2010-11; residents link gone by 2011-10)"
+  },
+  {
+   "url": "http://medicine.missouri.edu/surgery/neuro-surgery.php, /surgery/neuro/, /surgery/neurological.html, /surgery/neuro-residency.html (Dept of Surgery division pages, no roster)",
+   "from": "2011-06",
+   "to": "2014-08"
+  },
+  {
+   "url": "http://medicine.missouri.edu/neurosurgery/residents.html (+ alumni.html)",
+   "from": "2013-11",
+   "to": "2016-10"
+  },
+  {
+   "url": "http://medicine2.missouri.edu/neurosurgery/residents.html (same static site moved to medicine2 host; frozen 2016-17 list)",
+   "from": "2017-04",
+   "to": "2017-05 (resident photos only 2018-08)"
+  },
+  {
+   "url": "https://medicine.missouri.edu/departments/surgery/divisions/neurological-surgery/residency/neurological-surgery-current-residents/ (WordPress division site; Common Crawl only)",
+   "from": "2018-02",
+   "to": "2018-02"
+  },
+  {
+   "url": "https://medicine.missouri.edu/departments/surgery/divisions/neurological-surgery/residency/current-residents",
+   "from": "2019-08 (linked)",
+   "to": "2022-05 (captured only 2020-07-24)"
+  },
+  {
+   "url": "https://medicine.missouri.edu/departments/surgery/divisions/neurosurgery/residency",
+   "from": "2022-05",
+   "to": "2022-05"
+  },
+  {
+   "url": "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents (Department of Neurosurgery; includes Resident Alumni)",
+   "from": "2022-10",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2019-2020",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2018-2019",
+  "2020-2021",
+  "2021-2022"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No roster. muhealth.org id=808 last captured 2011-04 (2010-11 list: Paullus 6, Hiser 5, Muzinich 4, Cress 4, Brantl 3, Spurgeon 2; no PGY-1/7 listed); muhealth division page lost its Residents link by 2011-10; medicine.missouri.edu/surgery/* neuro pages (2011-2014) have faculty only; Wayback regex/prefix on muhealth.org and medicine.missouri.edu found nothing else; CC starts 2013. Reconstructed: Cress, Spurgeon only (Raychaudhuri, Sarpong, Jayarao, Konakondla not seen before the gap; Paullus/Hiser/Muzinich/Brantl not seen after).",
+  "2012-2013": "No roster (same searches; CC-MAIN-2013-20 has no neurosurgery pages). Reconstructed Cress, Spurgeon only.",
+  "2017-2018": "Observed only via Common Crawl CC-MAIN-2018-09 (2018-02-20) of .../neurological-surgery-current-residents/; not in Wayback. No PGY-7 or PGY-5 listed.",
+  "2018-2019": "No roster: Wayback has no division current-residents capture before 2020-07; CC 2018-2019 has only the residency landing page; medicine2 only photos (2018-08). CC-MAIN-2019-09 index read failed. Reconstructed Travers, Ziu, Belton, Herbert, Ortiz Torres (bracketed). Unseen: Burton and Hoang (presumed PGY-7 graduates 2019), Kennamer (2018 intern, first seen 2019-20 PGY-2). PHASE2: CC-MAIN-2019-09 retried (only residency landing page 2019-02-23, no names). Added Burton/Hoang PGY-7 (PubMed 2018 Missouri; Hoang Cincinnati Sep 2019) and Kennamer PGY-1 (probable).",
+  "2019-2020": "Only capture of the division current-residents page is 2020-07-24, content-dated to AY2019-20 (Belton PGY-5, Chen PGY-1, 2020 intern Khan absent). Travers labelled 'Chief Resident, PGY 6'; no PGY-7.",
+  "2020-2021": "No roster: division current-residents page captured once (2020-07); residency landing pages 2020-08..2021-10 (Wayback+CC) carry no names; CC 2020-2022 has no current-residents capture. Reconstructed Belton, Herbert, Ortiz Torres, Chen. Unseen: Travers/Ziu (presumed PGY-7 graduates 2021), Kennamer (departure window), Khan (2020 intern), Nunna (arrival window). PHASE2: CC-MAIN-2020-50 retried (landing page only). Added Travers/Ziu PGY-7 and Khan PGY-1 (NPI Apr 2020 Columbia MO).",
+  "2021-2022": "No roster (same). Reconstructed Belton (alumni 2022), Herbert, Ortiz Torres, Chen. Unseen: Khan, Ravipati (2021 intern), Nunna. PHASE2: CC-MAIN-2021-49 retried (0 captures on either path). Added Nunna PGY-4 (Missouri by Jan 2022), Khan PGY-2, Ravipati PGY-1 (NPI May 2021 Columbia MO).",
+  "2023-2024": "Only capture in AY is 2024-02-27 (fine).",
+  "2024-2025": "2024-08/09 captures were a stale hybrid (Tariq and Khan both PGY-5, PGY-1 bio without name); used 2025-01-23.",
+  "2026-2027": "Live page differs from 2025-26 (advanced, new intern Ahmad), loaded."
+ },
+ "alumni_page": "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents (Resident Alumni 2022-2026) ; http://medicine.missouri.edu/neurosurgery/alumni.html (2014-2016, archived)",
+ "departures": [
+  {
+   "name": "Mayur Jayarao",
+   "last_ay": "2014-2015",
+   "last_pgy": 4,
+   "note": "TRANSFERRED to Geisinger (program 21) 2015; Geisinger alumni 2017. training_history row added."
+  },
+  {
+   "name": "Sanjay Konakondla",
+   "last_ay": "2014-2015",
+   "last_pgy": 3,
+   "note": "TRANSFERRED to Geisinger (program 21) Jul-Sep 2015; Geisinger alumni 2018. training_history row added."
+  },
+  {
+   "name": "Abraham Rodriguez",
+   "last_ay": "2016-2017",
+   "last_pgy": 4,
+   "note": "Left after 2016-17 PGY-4; no PubMed/program trace; outcome unknown. Adjudicator labels him TRANSFERRED (Wake Forest) via the initial+surname bug: wrong."
+  },
+  {
+   "name": "Vyacheslav Makler",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "note": "TRANSFERRED to Dartmouth-Hitchcock (program 18) PGY-4 2017-18; Dartmouth alumni 2021."
+  },
+  {
+   "name": "Brooke Kennamer",
+   "last_ay": "2019-2020",
+   "last_pgy": 2,
+   "note": "SWITCHED to dermatology (Boston University) by Aug 2021 per publication affiliation (PMID 35545621); left Missouri Jul 2020-Jun 2021."
+  },
+  {
+   "name": "Wesley Chen",
+   "last_ay": "2023-2024",
+   "last_pgy": 5,
+   "note": "Left after 2023-24 PGY-5; outcome unknown (adjudicator's NPPES 'switch' is a different person and still drives its label)."
+  },
+  {
+   "name": "Woro George",
+   "last_ay": "2025-2026",
+   "last_pgy": 2,
+   "note": "Left after 2025-26 PGY-2; outcome unknown. NPPES shows a Woro George in general practice in Macon MO (updated 2026-09-17), name match only."
+  },
+  {
+   "name": "Matthew Burton",
+   "last_ay": "2017-2018",
+   "last_pgy": 6,
+   "note": "Not a departure: graduated 2019 (inferred; Hoang at Cincinnati by Sep 2019)."
+  },
+  {
+   "name": "Stanley Hoang",
+   "last_ay": "2017-2018",
+   "last_pgy": 6,
+   "note": "Not a departure: graduated 2019 (inferred; Hoang at Cincinnati by Sep 2019)."
+  },
+  {
+   "name": "Sarah Travers",
+   "last_ay": "2019-2020",
+   "last_pgy": 6,
+   "note": "Not a departure: graduated 2021 (inferred; Travers Missouri papers to May 2021, Ziu at Mayo Jacksonville by Jan 2022)."
+  },
+  {
+   "name": "Endrit Ziu",
+   "last_ay": "2019-2020",
+   "last_pgy": 6,
+   "note": "Not a departure: graduated 2021 (inferred; Travers Missouri papers to May 2021, Ziu at Mayo Jacksonville by Jan 2022)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Ratul Raychaudhuri",
+   "first_ay": "2013-2014",
+   "first_pgy": 6,
+   "from": "UT Southwestern (110)",
+   "note": "arrived between Jul 2011 and Jan 2014"
+  },
+  {
+   "name": "Matthew Burton",
+   "first_ay": "2015-2016",
+   "first_pgy": 4,
+   "from": "UAMS (73)"
+  },
+  {
+   "name": "Sarah Travers",
+   "first_ay": "2015-2016",
+   "first_pgy": 2,
+   "from": "Louisiana State University (prior residency, specialty not stated)"
+  },
+  {
+   "name": "Stanley Hoang",
+   "first_ay": "2017-2018",
+   "first_pgy": 6,
+   "from": "Stanford (61)"
+  },
+  {
+   "name": "Endrit Ziu",
+   "first_ay": "2017-2018",
+   "first_pgy": 4,
+   "from": "Penn State Hershey (53)"
+  },
+  {
+   "name": "Ravi Nunna",
+   "first_ay": "2021-2022",
+   "first_pgy": 4,
+   "from": "Rush (56) via UIC/Swedish research",
+   "note": "at Missouri by Jan 2022"
+  },
+  {
+   "name": "Farzana Tariq",
+   "first_ay": "2023-2024",
+   "first_pgy": 5,
+   "from": "Wayne State (125), PGY-1..4 2014-18"
+  }
+ ],
+ "residents_2011plus": 23,
+ "adjudication_summary": {
+  "COMPLETED": 13,
+  "IN TRAINING": 7,
+  "LEFT -> TRANSFERRED (Geisinger)": 2,
+  "LEFT -> TRANSFERRED (Dartmouth)": 1,
+  "LEFT -> SWITCHED SPECIALTY": 2,
+  "LEFT -> TRANSFERRED (Wake Forest) [wrong]": 1,
+  "LEFT -> did not complete": 1,
+  "note": "Adjudicator errors: Rodriguez 'Wake Forest' is the initial+surname bug (true outcome unknown); Chen 'switched specialty' comes from the wrong NPPES match (true outcome unknown); transfer-in rows set entry year to the arrival year (Raychaudhuri 2013, Nunna 2021, Tariq 2023, Burton 2015, Hoang/Ziu 2017) - PGY-derived entries are 2008, 2018, 2019, 2012, 2012, 2014."
+ },
+ "problems": "All phase-1 failed Common Crawl reads were retried and succeeded (no new rosters). Shared-adjudicator bugs affect this program: Rodriguez mislabeled TRANSFERRED (Wake Forest) via initial+surname match; Chen mislabeled SWITCHED SPECIALTY via wrong NPPES match; transfer-in start_year used as entry year. Other programs' records to update (not written by this agent): Stanford (61) transfer-out row for Hoang 2017 -> Missouri; Wayne State (125) outcome for Tariq -> Missouri 2023; Dartmouth (18) transfer-in row for Makler 2017.",
+ "terminal_pgy_by_entry_year": {},
+ "terminal_pgy_note": "7-year program throughout (ACGME); no length change. 'Chief Resident, PGY 6' label in 2019-20 is a chief title on a PGY-6, not a 6-year track.",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No roster exists (muhealth list ends 2011-04, medicine.missouri.edu/neurosurgery starts 2013-11; CC has nothing before 2013-20). Cohort-2011 entrant Jayarao (at BU/BMC research to 2010, NPI 2008) is PGY-3 in 2013-14, and Raychaudhuri's arrival (2011-13) and the departures of pre-window residents Brantl and Muzinich fall in the window, so an unseen 2011 intern replaced within 2011-13 cannot be excluded."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "Same as 2011-12: no roster; 2012 entrant Konakondla first seen PGY-2 Jan 2014. The Jan-2014 roster is full (one per PGY 1-7), which limits but does not exclude unseen movement."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2014-01-11, full complement."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2014-12-24; Jayarao/Konakondla departures timed by 2015 captures."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2015-11-27; no PGY-5 (Jayarao's slot, he left for Geisinger)."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2016-10-13; no PGY-6 (Konakondla's slot)."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl 2018-02-20; PGY-7 and PGY-5 slots empty, explained by Konakondla and Rodriguez departures."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster (CC-MAIN-2019-09 retried: landing page only). All 8 residents placed: 5 bracketed; Burton and Hoang confirmed at Missouri by 2018 papers and Hoang at Cincinnati by Sep 2019; Kennamer is the only 2018 entrant (possible alternative: joined 2019 at PGY-2 after a prelim, which would mean a vacant or unseen 2018 intern slot)."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2020-07-24, content AY2019-20."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster (CC-MAIN-2020-50 retried: landing page only). Travers (papers to May 2021) and Ziu (Mayo by Jan 2022) as PGY-7; Khan's NPI was enumerated Apr 2020 in Columbia MO (2020 intern). Only Kennamer's exact exit (Jul 2020 vs Jun 2021) is unknown."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster (CC-MAIN-2021-49 retried: no captures). Nunna at Missouri by Jan 2022 (arrival mid-year); Ravipati's NPI May 2021 Columbia MO (2021 intern); all other classes bracketed. Complement 1/yr leaves no room for an unseen intern."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2022-12-07."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2024-02-27."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2025-01-23."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2026-01-17."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page 2026-09-27."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit Wayback 2011-06..2013-09: muhealth.org, medicine.missouri.edu/{surgery,neurosurgery,gme,education}, som.missouri.edu, surgery.missouri.edu",
+   "gapaudit Wayback 2018-06..2022-09: medicine.missouri.edu/departments/{surgery,neurosurgery}, medicine2.missouri.edu, medicine.missouri.edu/{news,education}, muhealth.org/news",
+   "full CDX of division/department neurosurgery paths (all years) and medicine2 neurosurgery uploads",
+   "GME resident awards/announcements pages 2012; muhealth OurTeam pages 2012; MU match-day news 2020/2022",
+   "MU School of Medicine match lists 2010-2021, 2023 (no names; 2017 lists one MU grad to MU neurosurgery = Ortiz Torres)",
+   "Common Crawl retries: CC-MAIN-2019-09, 2021-49, 2020-50, 2018-05, 2017-34, 2014-15, 2015-18 (all read OK; no new rosters)",
+   "PubMed affiliation mining 2010-2023 (Missouri neurosurgery) plus per-name affiliation/date checks",
+   "NPPES enumeration dates/locations for interns and leavers"
+  ],
+  "found": [
+   "Khan NPI enumerated 2020-04 Columbia MO (2020 intern); Ravipati NPI 2021-05 Columbia MO (2021 intern)",
+   "Nunna at Missouri by Jan 2022 (PMID 35189422)",
+   "Kennamer at BU dermatology by Aug 2021 (PMID 35545621)",
+   "Hoang at Univ. of Cincinnati by Sep 2019; Ziu at Mayo Jacksonville by Jan 2022; Travers Missouri papers to May 2021",
+   "Hoang came from Stanford (PGY-6 2015-17 there); Tariq from Wayne State (PGY-1..4 2014-18)"
+  ],
+  "remaining": [
+   "2011-12 and 2012-13 have no roster: unseen 2011/2012 entrants replaced before Jan 2014 cannot be excluded; Raychaudhuri arrival year and Brantl/Muzinich exit years unknown",
+   "Kennamer: 2018 PGY-1 at Missouri vs 2019 PGY-2 entry not confirmed; exit Jul 2020 vs Jun 2021",
+   "Burton/Travers graduations inferred, not on an alumni list (alumni list covers 2014-16 and 2022-26 only)",
+   "Outcomes unknown: Rodriguez (2017), Chen (2024), George (2026)"
+  ]
+ }
+}

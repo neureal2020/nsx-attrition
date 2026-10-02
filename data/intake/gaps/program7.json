@@ -1,0 +1,179 @@
+{
+ "program_id": 7,
+ "name": "Beth Israel Deaconess Medical Center Program (combined BIDMC/BMC Neurosurgical Residency)",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2016,
+ "hosts": [
+  {
+   "url": "http://www.bidmc.org/Medical-Education/Departments/SurgicalEducation/Training-Programs/Neurosurgery.aspx",
+   "from": "2016-09",
+   "to": "2018-01",
+   "note": "Sitecore page; roster ('Meet Our Residents') from 2017-07; 302 from 2018-04; recorded programs.website, now 404"
+  },
+  {
+   "url": "https://www.bidmc.org/medical-education/medical-education-by-department/surgery/surgery-training-programs/neurosurgery",
+   "from": "2019-07",
+   "to": "2025-05",
+   "note": "roster on page; by 2025-09 page no longer carries roster, 301 in 2026-03"
+  },
+  {
+   "url": "https://research.bidmc.org/surgery-gme/neurosurgical-residency",
+   "from": "2025-09",
+   "to": "live",
+   "note": "current roster + alumni list"
+  },
+  {
+   "url": "https://bidmc.org/education-training/graduate/residencies/neurosurgical",
+   "from": "2026",
+   "to": "live",
+   "note": "stub linking to research.bidmc.org"
+  },
+  {
+   "url": "https://www.bmc.org/neurosurgery/team",
+   "from": "2019-08",
+   "to": "2021-04",
+   "note": "BMC partner site; 2019 capture lists residents flat (cross-check only)"
+  },
+  {
+   "url": "https://www.bmc.org/neurosurgery/neurosurgery-residency",
+   "from": "2021-05",
+   "to": "2023-03",
+   "note": "BMC description page, no roster"
+  }
+ ],
+ "observed_years": [
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2016-2017"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012..2015-2016": "not applicable: program approved by ACGME RRC April 2016, first resident July 2016 (program pages 2016 and live 'began in 2016')",
+  "2016-2017": "no roster published: BIDMC program-page captures 2016-09-21, 2017-04-06, 2017-04-29, 2017-06-09 have no resident list ('Meet Our Residents' first appears 2017-07-10); gapaudit 2016-07..2018-08 over bidmc.org Surgery/Neurosurgery dept, SurgicalEducation and bmc.org/neurosurgery found no other roster page; Common Crawl 2016-2017 pass attempted (BIDMC page + bmc.org/neurosurgery SURTs) but data.commoncrawl.org returned HTTP 403, so no CC records (p7/cc.log). Reconstructed Filippidis PGY1 (PGY2 2017-18, alumni graduation 2023). Class size 1 so only this class could hide an unseen person. PHASE 2: CC retry succeeded (all 21 crawls 2016-17, cc1617.log/ccneuro.log): BIDMC program page 2017-06-24 still no roster; bmc.org/neurosurgery/team 2016-09-28..2017-05-26 lists Filippidis as the only continuing trainee. Complement 1/yr and Filippidis graduated 2023 after 7 yrs, so no other 2016 entrant possible.",
+  "2018-2019": "no capture between 2018-01-19 and 2019-07-22 (old .aspx 302'd 2018-04 during site migration); the 2019-07-22 capture of the new path is content-dated 2018-19 (Mackel PGY1, no Powers) and is used.",
+  "2023-2024": "page stale through 2023-10-03 (still 2022-23 list); the only 2023-24 version is the 2024-04-15 capture, used.",
+  "2025-2026": "bidmc.org path lost roster by 2025-09; research.bidmc.org capture 2026-02-19 used."
+ },
+ "alumni_page": "https://research.bidmc.org/surgery-gme/neurosurgical-residency",
+ "departures": [],
+ "joiners": [
+  {
+   "name": "Dominic Harris",
+   "first_ay": "2020-2021",
+   "first_pgy": 5,
+   "note": "first listed 2020-10 under PGY5 with Filippidis; absent from 2017-18..2019-20 rosters; PGY6 2021-22, PGY7 2022-23, alumni 2023. Prior program not stated on page. Prior program: University of New Mexico (97), transferred July 2020 at PGY5 after UNM accreditation withdrawal (effective 2020-06-30). training_history th_id 3232.",
+   "from_program_id": 97
+  }
+ ],
+ "residents_2011plus": 13,
+ "adjudication_summary": {
+  "COMPLETED": 5,
+  "IN_TRAINING": 8,
+  "LEFT": 0
+ },
+ "problems": "Program name in DB carries ACGME PDF footer junk ('(c) 2026 Accreditation Council for Graduate'). programs.website is dead (404); live roster is research.bidmc.org. 2026-27 lists two PGY1s (Jha, Serrato) - first year with 2 interns (complement increase?). Enriquez-Marulanda was a BIDMC postdoc and BMC clinical fellow before entering as PGY1 in 2020 (not a transfer). Harris is the only joiner (PGY5 2020-21). Phase-1 CC 403 resolved in phase 2 (all crawls succeeded 2026-09-28).",
+ "years": {
+  "2011-2012..2015-2016": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "program started July 2016"
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "none",
+   "reason": "complement 1; Filippidis is the 2016 entrant (grad 2023) and the only trainee on bmc.org team page throughout 2016-17"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster captured"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2019-07-22 capture content-dated 2018-19; chain 2017-18 -> 2019-20 consistent"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster captured"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster captured"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster captured"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster captured"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2024-04-15 capture; chain consistent with 2022-23 and 2024-25"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster captured"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster captured"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live roster; two PGY1s (Jha, Serrato) = complement increase, not a gap"
+  }
+ },
+ "research_affiliates_not_residents": [
+  {
+   "name": "Oluwaseun Omofoye",
+   "interval": "2017-18",
+   "note": "BMC Dept of Neurosurgery affiliation between UNC and UC Davis; absent from BIDMC roster 2017-18 (Penumaka, Filippidis only) -> research/fellow, not a BIDMC/BMC resident"
+  },
+  {
+   "name": "Youssef Hamade",
+   "interval": "2023-25",
+   "note": "BU/St Elizabeth's affiliation between UMN and Loma Linda; absent from 2023-24, 2024-25 rosters -> not a resident here"
+  },
+  {
+   "name": "Zachary Wetsel",
+   "interval": "2022-25",
+   "note": "BMC affiliation 2025 between UMMC and UA Phoenix; absent from all rosters 2022-23..2026-27 -> research interval only"
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "Common Crawl all 21 crawls 2016-2017 over org,bidmc)/medical-education, org,bmc)/neurosurgery, BIDMC neurosurgery patient-care (fixed filter) plus unfiltered pull of BIDMC SurgicalEducation neurosurgery and all bmc.org/neurosurgery URLs 2016-30..2017-30",
+   "PubMed affiliation mining BMC/BIDMC/BU neurosurgery 2016-2018 (phase2/pubmed_2016_2018.txt)",
+   "crossmatch/PHASE2_NOTES: Harris (UNM), Omofoye, Hamade, Wetsel"
+  ],
+  "found": [
+   "bmc.org/neurosurgery/team 2016-09..2017-05: Filippidis the only continuing trainee",
+   "BIDMC program page CC 2017-06-24: no roster",
+   "Harris transfer-in from UNM recorded",
+   "Omofoye/Hamade/Wetsel were research affiliates, not residents"
+  ],
+  "remaining": []
+ }
+}

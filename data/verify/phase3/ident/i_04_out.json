@@ -1,0 +1,789 @@
+[
+ {
+  "key": "118:bra:toll",
+  "name": "Brandon Toll",
+  "program_id": 118,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UNE-COM DO, VCU neurosurgery 2023-2030 (self-reported); VCU residency profile page (search title 'Brandon Toll, DO - Neurosurgery - VCU'); Lahey pre-residency fellow per aggregators",
+  "residency_stated": [
+   {
+    "institution": "VCU Health System",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Not on VCU 2026-27 roster; VCU individual resident page now returns 404 (opened in Chrome). No destination found after searches for Pennsylvania resident rosters and other queries. Doximity PA license 2026-2028 is only a hint.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.vcu.edu/education/residency/brandon-toll-do.html",
+    "type": "program_page",
+    "evidence": "VCU page 404 in Chrome; existed in search results as 'Brandon Toll, DO - Neurosurgery - VCU'"
+   },
+   {
+    "url": "https://www.doximity.com/pub/brandon-toll-do",
+    "type": "doximity",
+    "evidence": "VCU Residency, Neurological Surgery, 2023-2030; PA State License 2026-2028"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 2
+ },
+ {
+  "key": "118:sha:souza",
+  "name": "Shawn D'Souza",
+  "program_id": 118,
+  "identity": "confirmed",
+  "identity_basis": "VCU Neuro X post welcomes D'Souza as neurosurgery resident (Match Day 2024); Doximity (opened in Chrome) Shawn D'Souza MD, Neurosurgery, VCU Medical Center Richmond, VCU School of Medicine Class of 2024",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Absent from 2026-27 VCU roster; no other-specialty VCU roster (anesthesia, radiology searches) lists him. Doximity profile (updated 2026) still says neurosurgery Richmond with no residency row. Destination not found.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/VCUNeuro/status/1770517150371090480",
+    "type": "search_snippet",
+    "evidence": "welcome to our newest #Neurosurgery residents, Shawn D'Souza and William Mualem #MatchDay2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/shawn-d-souza-md-6131b59f",
+    "type": "doximity",
+    "evidence": "Neurosurgery, VCU Medical Center, Richmond VA; VCU School of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 2
+ },
+ {
+  "key": "118:cha:fleming",
+  "name": "Charles Fleming",
+  "program_id": 118,
+  "identity": "confirmed",
+  "identity_basis": "Two sources: VCU Neuro X post 'Charlie Fleming, MD, MPH (PGY-5)' Feb 2024 (PGY-5 fits 2019 entry) and VCU neurosurgery residency profile page 'Charles Fleming, MD, MPH - Neurosurgery - VCU' (page now 404); same name/degree/program",
+  "residency_stated": [
+   {
+    "institution": "VCU Health System",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Entered 2019 (PGY-7 in 2025-26, program length 7), absent from 2026-27 roster: consistent with graduating June 2026. No source states graduation or fellowship destination; inference only.",
+  "year_left": 2026,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/VCUNeuro/status/1755325817255792865",
+    "type": "search_snippet",
+    "evidence": "Charlie Fleming, MD, MPH (PGY-5)"
+   },
+   {
+    "url": "https://neurosurgery.vcu.edu/education/residency/charles-fleming-md-mph.html",
+    "type": "program_page",
+    "evidence": "search result title 'Charles Fleming, MD, MPH - Neurosurgery - VCU'; page 404 in Chrome now"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 2
+ },
+ {
+  "key": "119:phi:dagostino",
+  "name": "Phillip Dagostino",
+  "program_id": 119,
+  "identity": "probable",
+  "identity_basis": "Doximity stub 'Phillip Robert Dagostino, Neurosurgery, Winston-Salem NC' at Wake Forest campus address; no second independent source found",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Only stub profiles; 4 additional searches (name variants D'Agostino, Boston, other specialties, Wake roster 2012) returned nothing. No completion or destination evidence.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "not_found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/phillip-dagostino-md",
+    "type": "doximity",
+    "evidence": "Phillip Robert Dagostino MD Neurosurgery, Winston-Salem NC; no education listed"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 1
+ },
+ {
+  "key": "119:kri:pawlowski",
+  "name": "Kristen Pawlowski",
+  "program_id": 119,
+  "identity": "probable",
+  "identity_basis": "Wake neurosurgery Instagram intern post 2023 (prior) and LinkedIn 'Kristen Pawlowski, MD - Michigan Medicine' (neurology resident, Ann Arbor; education Rush per search summaries); LinkedIn not opened (auth wall) and no source ties the Michigan person to Wake neurosurgery",
+  "residency_stated": [],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Probable switch to neurology at University of Michigan (search summaries of LinkedIn: 'Neurology Resident Physician'; also mentions top presentation at a neurosurgery department medical-student symposium). Michigan roster pages 404/403, so unverified; start year not stated.",
+  "year_left": 2025,
+  "destination_program": "University of Michigan (neurology), unverified",
+  "destination_start_year": null,
+  "current": "neurology resident, Michigan Medicine (per LinkedIn snippet, unverified)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/kristen-pawlowski/",
+    "type": "search_snippet",
+    "evidence": "Kristen Pawlowski, MD - Neurology Resident Physician | Michigan Medicine (auth wall; not opened)"
+   }
+  ],
+  "searches_used": 5,
+  "ident_searches": 5,
+  "sources_count": 2
+ },
+ {
+  "key": "119:pau:marcet",
+  "name": "Paul Marcet",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page (Paul Andrew Marcet, Class of 2026, USF Morsani MD) plus Wake residents 2018 PDF listing 'Paul Marcet, MD ... Class of 2026'; Doximity USF Class of 2019, Wake address; USF 2019 match list",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Wake neurosurgery Class of 2026 (entered 2019, PGY-7 in 2025-26, off 2026-27 roster) = graduated June 2026. FL license 2026-2028 suggests move to Florida (fellowship/job unverified).",
+  "year_left": 2026,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown; FL license 2026-28 (Doximity)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/m/paul-andrew-marcet",
+    "type": "program_page",
+    "evidence": "Paul Marcet, MD, Class of 2026 neurosurgery resident (search summary: USF Morsani MD, matched Wake 2019)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/paul-marcet-md",
+    "type": "doximity",
+    "evidence": "USF Class of 2019; NC 2019-2026; FL 2026-2028"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3
+ },
+ {
+  "key": "120:tat:mahlokozera",
+  "name": "Tatenda Mahlokozera",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "WashU X post 2022-23 intern class incl. Mahlokozera MD PhD; WashU roster; Doximity/US News (search) WashU MD 2022 Resident Physician St. Louis; WashU neuro-oncology publications",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Absent from WashU 2026-27 roster (PGY5 Chatrath, Perdomo Pantoja, Yuan). No departure, transfer or research-year notice found. Doximity/US News still list him as Resident Physician, St. Louis. Google Scholar/neurotree blocked to reading. Possible research/leave, unverified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Resident Physician, St. Louis (Doximity)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/WashUNeurosurg/status/1504908344418525184",
+    "type": "search_snippet",
+    "evidence": "2022-2023 intern class: Chatrath, Mahlokozera, Perdomo Pantoja, Yuan"
+   },
+   {
+    "url": "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "2026-27 roster PGY5 lacks Mahlokozera"
+   },
+   {
+    "url": "https://www.doximity.com/pub/tatenda-mahlokozera-md",
+    "type": "search_snippet",
+    "evidence": "Resident Physician, St. Louis MO; WashU MD 2022"
+   }
+  ],
+  "searches_used": 5,
+  "ident_searches": 5,
+  "sources_count": 3
+ },
+ {
+  "key": "120:mic:jin",
+  "name": "Michael Jin",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "WashU people page (search result 'Michael Jin, MD, MS' PGY2, Stanford MD/MS 2024), Doximity WashU NS 2024-2031 with Stanford 2024",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Absent from 2026-27 roster (PGY3 Koleske, Moniz Garcia, Polavarapu) - viewed in Chrome. No Stanford or other program roster found; destination unknown.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.wustl.edu/people/michael-jin-md-ms/",
+    "type": "program_page",
+    "evidence": "PGY2 resident MD/MS Stanford 2024 (search summary; page now 404)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/michael-jin-md-90f2bae3",
+    "type": "doximity",
+    "evidence": "WashU Neurological Surgery 2024-2031; Stanford 2024"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 2
+ },
+ {
+  "key": "120:kyl:mcgrath",
+  "name": "Kyle McGrath",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "WashU people page 'Kyle McGrath, MD' PGY-1, UF MD 2025, LinkedIn 'Neurosurgery Resident at WashU'; Doximity WashU Residency 2025, UF 2025",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Absent from 2026-27 roster (PGY2 Graves, Bhole, Driscoll) - viewed in Chrome. No destination found; not on UF or other searched rosters.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.wustl.edu/people/kyle-mcgrath-md/",
+    "type": "program_page",
+    "evidence": "PGY-1 resident, MD University of Florida (search summary; page now 404)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kyle-mcgrath-md",
+    "type": "doximity",
+    "evidence": "WashU Residency Neurological Surgery 2025; UF 2025"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 2
+ },
+ {
+  "key": "121:jam:smith",
+  "name": "James Smith",
+  "program_id": 121,
+  "identity": "ambiguous",
+  "identity_basis": "Very common name; every James Smith found is unrelated; no source ties any to WVU neurosurgery or SLU MD",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "3 more searches (WVU/SLU/2013 match) found nothing matching. Not resolvable.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 0
+ },
+ {
+  "key": "2:nih:gala",
+  "name": "Nihar Gala",
+  "program_id": 2,
+  "identity": "confirmed",
+  "identity_basis": "Personal site nihargala.com: 'MD New Jersey Medical School, 2012; Neurological Surgery Residency, Allegany General Hospital, 2012-2015'; Wikitia agrees; Rutgers NJMS publications (ResearchGate); NPI/WebMD neurological surgery Millsboro DE",
+  "residency_stated": [
+   {
+    "institution": "Allegheny General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2015
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left AGH neurosurgery after PGY-3 (2015). Now primary care/addiction/pain practice (Alpha Care Medical, Delaware). No subsequent residency documented; classified as leaving neurosurgery for non-residency practice.",
+  "year_left": 2015,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "founder/CEO Alpha Care Medical, Delaware (primary care, addiction/pain)",
+  "agrees_with_db": true,
+  "disagreement": "Prior label left_medicine; he still practises medicine (no other residency documented)",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://nihargala.com/about-nihar-gala/",
+    "type": "bio",
+    "evidence": "Neurological Surgery Residency. Allegany General Hospital. 2012-2015."
+   },
+   {
+    "url": "https://wikitia.com/wiki/Nihar_Gala",
+    "type": "bio",
+    "evidence": "residency at Allegany General Hospital with a Neurological Surgery Residency; Medical Director of Alpha Health Centers in 2015"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 3
+ },
+ {
+  "key": "2:jos:consuegra",
+  "name": "Jose Sandoval Consuegra",
+  "program_id": 2,
+  "identity": "confirmed",
+  "identity_basis": "AHN findcare profile 'Jose I Sandoval Consuegra', ResearchGate 'Jose Sandoval-Consuegra, Resident, AGH Dept of Neurosurgery', Doximity (Jose Sandoval) AGH Neurological Surgery 2021-2025, San Juan Bautista 2018; Grand Forum 2026 presentation",
+  "residency_stated": [
+   {
+    "institution": "AGH",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "AGH neurosurgery residency 2021-2025 per Doximity/search summary; consistent with DB transfer-in. Later practice location Manati PR unverified in this pass.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery (Puerto Rico per prior, unverified)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jose-sandoval-md-ab21f869",
+    "type": "doximity",
+    "evidence": "AGH Residency, Neurological Surgery, 2021-2025; San Juan Bautista 2018"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Jose-Sandoval-Consuegra",
+    "type": "search_snippet",
+    "evidence": "Resident, Allegheny General Hospital, Department of Neurosurgery"
+   },
+   {
+    "url": "https://findcare.ahn.org/Jose-I-Sandoval-Consuegra",
+    "type": "search_snippet",
+    "evidence": "AHN listing Jose I Sandoval Consuegra"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3
+ },
+ {
+  "key": "2:and:alonso",
+  "name": "Andrea Alonso",
+  "program_id": 2,
+  "identity": "probable",
+  "identity_basis": "Doximity (opened in Chrome): Andrea Alonso, Case Western MD 2019, Internal Medicine hospitalist Melbourne FL; PA license 2019-2021 (fits AGH 2019-21), OH 2022-2026, ABIM. WebMD lists neurological surgery among her specialties. No source names AGH or a neurosurgery stint",
+  "residency_stated": [],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Timeline fits AGH neurosurgery 2019-21 (PA license) then internal medicine (OH license 2022, ABIM certified); the BMC surgery resident Andrea Alonso is a different-person candidate and not supported. Unverified.",
+  "year_left": 2021,
+  "destination_program": "internal medicine (unverified)",
+  "destination_start_year": null,
+  "current": "hospitalist, Melbourne FL (if same person)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/andrea-alonso-md",
+    "type": "doximity",
+    "evidence": "Case Western Class of 2019; PA license 2019-2021; OH 2022-2026; American Board of Internal Medicine"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/andrea-alonso-50b96849-ef9c-4a50-a323-769d5a3a1b6d-overview",
+    "type": "search_snippet",
+    "evidence": "Internal Medicine, Hospital Medicine and Neurological Surgery (search summary)"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 1
+ },
+ {
+  "key": "2:cob:cunningham",
+  "name": "Coby Cunningham",
+  "program_id": 2,
+  "identity": "probable",
+  "identity_basis": "ResearchGate Drexel affiliation and AHN neurosurgery co-authored publication; no AHN roster text retrievable (dynamic page)",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Consistent with PGY-4 2025-26; no contrary evidence.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-4) AHN (inferred)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.researchgate.net/scientific-contributions/Coby-Cunningham-2201972532",
+    "type": "search_snippet",
+    "evidence": "Drexel University, Philadelphia"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 1
+ },
+ {
+  "key": "2:bha:gupta",
+  "name": "Bhavika Gupta",
+  "program_id": 2,
+  "identity": "probable",
+  "identity_basis": "Doximity Bhavika Gupta MD neurosurgeon at AGH address; co-authors AGH residents; search summary calls her a resident mentor for AHN Neurosurgery Summer Research Internship",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "AHN-affiliated neurosurgery resident; start/med school not stated.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, AHN (inferred)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/bhavika-gupta-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery Pittsburgh PA; co-authors AGH residents, Eur Spine J 2025"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 1
+ },
+ {
+  "key": "2:mat:perry",
+  "name": "Matthew Perry",
+  "program_id": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Matthew Perry MD IU School of Medicine Class of 2024, neurosurgery Pittsburgh, AGH co-authors; AHN residents page (search summary): IU School of Medicine class of 2024, Purdue BS, Bloomington IN, neurosurgery resident at AHN",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 in 2025-26 per AHN roster, no evidence of departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, AHN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ahn.org/health-care-professionals/education/graduate-medical-education/residencies/neurosurgery/residents",
+    "type": "program_page",
+    "evidence": "search summary: Matthew Perry, IU Class of 2024, neurosurgery resident at Allegheny Health Network"
+   },
+   {
+    "url": "https://www.doximity.com/pub/matthew-perry-md-e77ddd53",
+    "type": "doximity",
+    "evidence": "IU School of Medicine Class of 2024; Neurosurgery Pittsburgh"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 2
+ },
+ {
+  "key": "4:mic:nanaszko",
+  "name": "Michael Nanaszko",
+  "program_id": 4,
+  "identity": "confirmed",
+  "identity_basis": "Capital Neurosurgery bio: 'Weill Cornell Medical College; Residency: Barrow Neurological Institute'; Kaiser Permanente bio: Cornell Weill MD, ABNS-certified neurological surgery; Doximity/US News St Joseph's Hospital and Medical Center affiliation and Barrow faculty co-authors",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Barrow neurosurgery residency completed (bio), practising ABNS-certified neurosurgeon in Salem OR.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Capital Neurosurgery Specialists / Salem Hospital, Salem OR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://capitalneurosurgery.com/CNS/Doctors",
+    "type": "bio",
+    "evidence": "Residency: Barrow Neurological Institute; Weill Cornell Medical College"
+   },
+   {
+    "url": "https://healthy.kaiserpermanente.org/oregon-washington/clinicians/michael-nanaszko-8315617",
+    "type": "bio",
+    "evidence": "Cornell Weill MD; Neurological Surgery board certification (ABNS)"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3
+ },
+ {
+  "key": "4:ben:rodriguez",
+  "name": "Benjamin Rodriguez",
+  "program_id": 4,
+  "identity": "confirmed",
+  "identity_basis": "Barrow official roster (PGY-2, Icahn Mount Sinai), Barrow news 'incoming neurosurgery residents: Benjamin Rodriguez, MD, Icahn', LinkedIn 'Benjamin Rodriguez - Barrow Neurological Institute' with Mount Sinai education",
+  "residency_stated": [
+   {
+    "institution": "Barrow",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 at Barrow, 2026-27 roster.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Barrow",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "PGY-2, Icahn School of Medicine at Mount Sinai"
+   },
+   {
+    "url": "https://www.barrowneuro.org/about/news-and-articles/in-the-news/awards-amp-recognitions-march-2025/",
+    "type": "news",
+    "evidence": "incoming neurosurgery residents: Benjamin Rodriguez, MD, Icahn School of Medicine at Mount Sinai"
+   },
+   {
+    "url": "https://www.linkedin.com/in/benjamin-rodriguez-b33621118/",
+    "type": "search_snippet",
+    "evidence": "Benjamin Rodriguez - Barrow Neurological Institute"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3
+ },
+ {
+  "key": "5:jac:allen",
+  "name": "Jackson Allen",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Jackson Allen MD Vanderbilt MD Class of 2023 with address 1 Baylor Plz Houston; WebMD lists Jackson Allen neurological surgery Houston; VUMC page Jackson Allen MD (Vanderbilt MD, Harvard BA) anesthesiology resident. Same name + same medical school; no source explicitly links Baylor to the anesthesia page",
+  "residency_stated": [
+   {
+    "institution": "Vanderbilt University Medical Center",
+    "specialty": "anesthesiology",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Baylor neurosurgery PGY-1 2023-24, then anesthesiology at Vanderbilt (CA-3 on VUMC page in 2026, so CA-1 began 2024).",
+  "year_left": 2024,
+  "destination_program": "Vanderbilt anesthesiology",
+  "destination_start_year": 2024,
+  "current": "anesthesiology resident (CA-3), Vanderbilt",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.vumc.org/anesthesiology/person/jackson-allen-md",
+    "type": "program_page",
+    "evidence": "Medical School: Vanderbilt University School of Medicine; CA-3 Resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jackson-allen-md",
+    "type": "doximity",
+    "evidence": "Vanderbilt Class of 2023; 1 Baylor Plz Houston"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3
+ },
+ {
+  "key": "5:zhe:lan",
+  "name": "Zheng Lan",
+  "program_id": 5,
+  "identity": "probable",
+  "identity_basis": "Doximity snippet Zheng Lan neurologist, Cincinnati MD 2011 (matches 2011 entrant); SUNY Downstate neurology recent graduate 'Zheng Dao Lan' 2023 (neurocritical care fellowship Montefiore); DB PMID with Baylor email. No source names Baylor neurosurgery resident status directly",
+  "residency_stated": [
+   {
+    "institution": "SUNY Downstate",
+    "specialty": "neurology",
+    "start": null,
+    "end": 2023
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Switched to neurology (SUNY Downstate, graduated 2023) then neurocritical care fellowship; year left Baylor not stated (last Baylor evidence late 2014).",
+  "year_left": null,
+  "destination_program": "SUNY Downstate neurology",
+  "destination_start_year": null,
+  "current": "neurology, neurocritical care fellow Montefiore/Einstein",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.downstate.edu/education-training/fellowship-residency-programs/neurology/residency/recent-graduates.html",
+    "type": "program_page",
+    "evidence": "Zheng Dao Lan: graduating year 2023; Fellowship Neurocritical Care Montefiore/Albert Einstein"
+   },
+   {
+    "url": "https://www.doximity.com/pub/zheng-lan-md",
+    "type": "search_snippet",
+    "evidence": "Neurology; University of Cincinnati College of Medicine Class of 2011"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 2
+ }
+]

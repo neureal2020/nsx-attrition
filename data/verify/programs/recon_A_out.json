@@ -1,0 +1,235 @@
+[
+ {
+  "kind": "intern_shortfall",
+  "program_id": 21,
+  "program": "Geisinger Health System Program",
+  "match_year": 2014,
+  "finding": "Unresolved: no 2014 matchee named. Only lead is Ashish D. Patel (Maryland MD 2011), whom a May 2019 Geisinger release names as a neurosurgery resident (per red_4_out). He later did Geisinger NEUROLOGY residency 2021-2025 and then neuro-oncology fellowship (MGB/DFCI), so he probably left Geisinger NS for neurology around 2019-2021. His NS start year, and whether he was the 2014 matchee, are not established.",
+  "people": [
+   {
+    "name": "Ashish D. Patel",
+    "origin_program": "Geisinger Health System Program (neurosurgery)",
+    "origin_is_us_acgme_ns": true,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "switched_specialty",
+    "destination": "Neurology residency, Geisinger (Danville) 2021-2025 (Doximity lead + Geisinger neurology alumni page); then Neuro-Oncology fellowship, Mass General Brigham/Dana-Farber",
+    "sources": [
+     "local:data/verify/programs/red_4_out.json (Geisinger 2019 Scholarship Days release names him as NS resident)",
+     "https://www.geisinger.edu/gchs/education/residencies-fellowships/residencies/neurology-residency/residents",
+     "https://doximity.com/pub/ashish-patel-md-7792ae65 (lead: Neurology residency Geisinger 2021-2025)",
+     "https://doctor.webmd.com/doctor/ashish-patel-298ee494-dec5-11e7-9f4c-005056a225bf-overview (lead: Neurological Surgery, Danville; MD 2011)"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 30,
+  "program": "Johns Hopkins University Program",
+  "match_year": 2014,
+  "finding": "Resolved: data artifact, not attrition. The 3rd 2014 matchee is Christina Jackson (Hopkins NS class of 2021, now Penn faculty). Our record 30:chr:jackson ('Christopher Jackson', entry 2013, last_seen 2020-21, flagged [ambiguous name]) merges Christopher Jackson (class of 2020) with Christina Jackson (class of 2021). She should be split out as a 2014 entrant who completed; the 2014 class (Westbroek, C. Jackson, McMullen) has no missing departure.",
+  "people": [
+   {
+    "name": "Christina Jackson",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": null,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Completed Hopkins NS residency 2021; Faculty, University of Pennsylvania (alumni page). Merged into our key 30:chr:jackson, needs splitting",
+    "sources": [
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+     "local:data/verify/phase3/merged_final.json (30:chr:jackson 'COMPLETED [ambiguous name]', last_seen 2020-2021)"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 41,
+  "program": "McGaw Medical Center of Northwestern University Program",
+  "match_year": 2014,
+  "finding": "Resolved: no departure. The 4th 2014 matchee is William Metcalf-Doetsch (UT Houston MD). He is listed in Northwestern's 2021 graduating class alongside Garcia, Kesavabhotla and Sukumaran, and is now NW faculty. He is missing from our DB entirely and should be added as a 2014 entrant who completed (2014-2021).",
+  "people": [
+   {
+    "name": "William Metcalf-Doetsch",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": null,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "completed_not_in_our_data",
+    "destination": "Completed Northwestern NS residency 2021; neurocritical care + endovascular year, cerebrovascular fellowship Buffalo; now Assistant Professor of Neurological Surgery, Northwestern",
+    "sources": [
+     "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+     "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=57899 (via search summary)"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "match_year": 2015,
+  "finding": "Unresolved: the second 2015 matchee is not identified. Marcus Stephens is confirmed as a 2015-2022 resident (UH fellow spotlight). We have no 2015-16 UAMS roster (red_3 also found none), so an intern who left during 2015-16 would be invisible. Wayback holds only the 2016 UAMS NS home page, with no roster. The UAMS 2015 Match Day article names no neurosurgery matchee. The Missouri 2015 match list returns 404.",
+  "people": []
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 34,
+  "program": "Loyola University Medical Center Program",
+  "match_year": 2016,
+  "finding": "Unresolved: the second 2016 matchee is not identified. The Loyola alumni page shows only Miri Kim in the 2023 class (2022: Jusue Torres, Zakaria; 2024: Iordanou, Simon), so any second 2016 entrant did not graduate on schedule. Wayback captures of the luc.edu NS education pages for 2016-18 are empty, and no 2016 match list naming a Loyola NS matchee was found.",
+  "people": []
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 101,
+  "program": "University of Puerto Rico School of Medicine Program",
+  "match_year": 2016,
+  "finding": "Probably a data artifact, not attrition (moderate confidence). The JNS 2022 letter table gives UPR's feeder schools by match year: 2015 = one PHS graduate; 2016 = one UPR + one UCC graduate. Monserrate (UPR MD 2016) is the UPR 2016 matchee. Flores-Milan (Ponce/PHS MD) fits the single 2015 slot. Cesar Carballo Cuello (Universidad Central del Caribe MD 2015, per WebMD) is therefore most likely the UCC 2016 matchee. Our DB holds him as a 2015 entrant, so his entry year is likely misdated by one year. If so, the 2015 'surplus' and the 2016 shortfall cancel.",
+  "people": [
+   {
+    "name": "Cesar M. Carballo Cuello",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": null,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "In our data as UPR entrant 2015 (likely should be 2016); left UPR 2021 for USF neurosurgery (closure-driven transfer), USF class of 2024",
+    "sources": [
+     "https://thejns.org/view/journals/j-neurosurg/138/2/article-p577.xml",
+     "https://doctor.webmd.com/doctor/cesar-carballo-cuello-33a81848-aac4-4a3d-8ab2-b22ff7d375d1-overview (lead via search summary: UCC MD 2015)",
+     "https://www.doximity.com/pub/gabriel-flores-milan-md (lead via search summary: Flores-Milan = Ponce HSU MD)",
+     "local:data/verify/phase3/merged_final.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 92,
+  "program": "University of Minnesota Program",
+  "match_year": 2017,
+  "finding": "Resolved: no departure. The second 2017 matchee is Truong 'Huy' Do, listed on the UMN NS alumni page as 2024 graduate (2017-2024). He is absent from our DB and should be added as a 2017 entrant who completed. Hamade is the other 2017 entrant.",
+  "people": [
+   {
+    "name": "Truong \"Huy\" Do",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": null,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "completed_not_in_our_data",
+    "destination": "Completed UMN neurosurgery residency 2017-2024",
+    "sources": [
+     "https://med.umn.edu/neurosurgery/education-training/residency/alumni"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 69,
+  "program": "University at Buffalo Program",
+  "match_year": 2017,
+  "finding": "Partly resolved: probably a data artifact (low-moderate confidence). The Aug-2019 UB roster lists only Housley and Recker as PGY-3 (2017 class). The 2024 chiefs were Housley, Recker and Becker, and Becker's Roswell bio says residency 2018-2025, so no third 2017 PGY-1 is visible. Best candidate is Justin Cappuzzo. His UB bio says GWU MD 2016, MGH general-surgery internship 2016-17, then joined UB 'the following academic year' (July 2017, entering at PGY-2), so he was likely matched in the 2017 Match. We hold him as a 2016 entrant. If so, the 2017 count is complete with no attrition. A 2017 intern who left before Aug 2019 is not excluded. The UB 2017 Match Day list has no UB-NS home match.",
+  "people": [
+   {
+    "name": "Justin M. Cappuzzo",
+    "origin_program": "MGH general surgery preliminary internship (2016-17)",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Joined UB NS July 2017 (PGY-2), chief 2023 (completed); in our data as entry_year 2016, likely the 2017 NRMP matchee",
+    "sources": [
+     "https://web.archive.org/web/20190817165040id_/http://medicine.buffalo.edu/departments/neurosurgery/education/residency/residents/current.html",
+     "https://www.ubns.com/former-residents-fellows/",
+     "https://www.roswellpark.org/alexander-becker",
+     "https://medicine.buffalo.edu/news_and_events/news.host.html/content/shared/smbs/news/2017/03/match-day-2017-6819.detail.html"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 78,
+  "program": "University of Chicago Program",
+  "match_year": 2018,
+  "finding": "Unresolved: the second 2018 matchee is not identified. The UChicago roster for 2024-25 (Wayback Apr 2025) shows Batbold as the only PGY-7, so the second 2018 entrant was not in the 2018 class at graduation (left, or delayed into a later class). We hold no 2018-19 roster (Batbold first_seen 2019-20). No 2018 match list or welcome post naming UChicago NS interns was found, and no 2018-19 Wayback roster was reachable.",
+  "people": []
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 31,
+  "program": "Loma Linda University Health Education Consortium Program",
+  "match_year": 2021,
+  "finding": "Unresolved: the 2021 matchee is not identified. The current LLU NS roster (fetched 2026-10) has no PGY-6, i.e. no 2021 class: PGY-7 Hamade (transfer) and Gospodarev, PGY-5 Conteh and Janssen, PGY-4 Roa Loor. So the 2021 matchee is no longer in the program, either left or delayed. The earliest Wayback roster capture is Aug 2024 and shows no 2021 entrant. No 2021 match list or Doximity lead naming an LLU NS 2021 entrant was found.",
+  "people": []
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 77,
+  "program": "University of California Davis Health Program",
+  "match_year": 2021,
+  "finding": "Probably a data artifact (moderate-low confidence). The 2021-22 UC Davis roster (Wayback Mar 2022) lists only Ghaffari-Rafi and Riestenberg as PGY-1, so there was no third PGY-1. Anzhela Moskalik (UConn MD 2020) first appears in 2021-22 as PGY-2, filling the slot of Irene Falk, a 2020 entrant who left after PGY-1. WebMD lists Moskalik's affiliations as Bellevue, NYU Tisch and NYU Kimmel, which suggests a 2020-21 year at NYU. She is not among our NYU NS 2020 entrants (Save, Suryadevara, Weiss), so that year was likely a surgery prelim, not ACGME NS. She is therefore most likely the third 2021 NRMP matchee, entering with PGY-2 credit. We hold her as entry 2020. Not directly confirmed.",
+  "people": [
+   {
+    "name": "Anzhela Moskalik",
+    "origin_program": "probably NYU Langone (prelim/surgery year 2020-21; lead only)",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": "2020-2021",
+    "pgy_when_left": 1,
+    "outcome": "in_our_data",
+    "destination": "UC Davis NS PGY-2 2021-22, PGY-7 2026-27 (in training)",
+    "sources": [
+     "https://web.archive.org/web/20220318003429/https://health.ucdavis.edu/neurosurg/our_team/team_residents.html",
+     "https://health.ucdavis.edu/neurosurg/our_team/team_residents.html",
+     "https://doctor.webmd.com/doctor/anzhela-moskalik-af7687e4-9aa3-4c95-a3a7-bbd6177374f3-overview (lead: NYU/Bellevue affiliations)",
+     "local:data/verify/phase3/merged_final.json (NYU program 50 2020 entrants)"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "match_year": 2023,
+  "finding": "Unresolved: no third 2023 matchee identified. Confirmed 2023 matchees are Lauren Culver (Wayne State) and Ismail Mohiuddin (TTUHSC MD 2023). The program says it takes 2 per year, but our 2026 class shows 3 (Chau, Jimenez, Mize-Gonzalez), so a 3rd 2023 slot is plausible. The UTSW 2023 specialty list and UAB 2023 by-location list have no other HM NS match, and no roster or Instagram post naming a 3rd 2023 intern was found.",
+  "people": []
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine Program",
+  "match_year": 2023,
+  "finding": "Unresolved: the 2023 matchee is not identified, but the absence is confirmed. UNM's NS program was newly re-accredited on 1 Apr 2022 (Becker's Spine, 7 Apr 2022) and takes 1 per year from July 2022. The Dec-2024 Wayback UNM roster lists PGY-4 Kazim, PGY-3 Rumalla, and PGY-1 Bhamidipati and Peart, with no PGY-2 (the 2023 class). The current roster (PGY-5 Rumalla, PGY-3 Peart, PGY-2 Marquez, PGY-1 Ekanem and Folse) has no PGY-4 either. So the 2023 matchee left or never started before Dec 2024. Two Dec-2024 PGY-3 names, Tomas Holy and Hayley Kiernan, are UNM ORTHOPAEDICS residents bleeding in from a CMS template error on that capture, not NS. Side note: UNM's 2023 calendar-year case log shows a PGY-1 with 289 cases.",
+  "people": []
+ },
+ {
+  "kind": "intern_shortfall",
+  "program_id": 111,
+  "program": "University of Utah Health Program",
+  "match_year": 2023,
+  "finding": "Resolved: a missing attrition. Utah's Match Day 2023 news names three matchees: Jason Kim (UW-Madison MD 2023), Natasha Hongsermeier-Graves and Justin Zhang. Kim is absent from our DB. He was not on the Feb-2024 Wayback PGY-1 page (only Hongsermeier-Graves and Zhang), so he left Utah NS during PGY-1 (2023-24). Doximity (lead) shows Utah NS 2023-2024, then a transitional-year internship at HCA Florida Lawnwood 2024-25, then an anesthesiology residency at Tufts 2025-2028. Also confirmed: the Dec-2024 PGY-1 page lists Pathuri, Salah and Tatman, so Tatman is a 2024 entrant, not the 2023 matchee.",
+  "people": [
+   {
+    "name": "Jason Kim",
+    "origin_program": "University of Utah Health Program (neurosurgery)",
+    "origin_is_us_acgme_ns": true,
+    "left_origin_ay": "2023-2024",
+    "pgy_when_left": 1,
+    "outcome": "switched_specialty",
+    "destination": "Anesthesiology residency, Tufts Medical Center 2025-2028 (after TY internship HCA Florida Lawnwood 2024-25) - Doximity lead",
+    "sources": [
+     "https://medicine.utah.edu/neurosurgery/news/2023/03/match-day-2023-university-of-utah-neurosurgery-welcomes-newest-residents",
+     "https://web.archive.org/web/20240225211708/https://medicine.utah.edu/neurosurgery/residency/current-residents/pgy1",
+     "https://www.doximity.com/pub/jason-kim-md-209bf431 (lead)",
+     "https://web.archive.org/web/20241208151018/https://medicine.utah.edu/neurosurgery/residency/current-residents/pgy1"
+    ]
+   }
+  ]
+ }
+]

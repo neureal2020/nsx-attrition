@@ -1,0 +1,464 @@
+[
+ {
+  "key": "79:mar:johnson",
+  "name": "Mark Johnson",
+  "program_id": 79,
+  "program": "University of Cincinnati Medical Center/College of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UC neurosurgery resident directory Mark D. Johnson MD, PGY4 in 2022; UC MD 2019",
+   "outcome": "unknown",
+   "outcome_detail": "Not on UC 2026-27 roster, consistent with graduating June 2026; WebMD lists Mark Daniel Johnson neurosurgeon at UC (UC MD 2019, still resident-era listing); no announcement/fellowship found.",
+   "current": "UC neurosurgery resident/recent graduate",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://med.uc.edu/depart/neurosurgery/directory/residents/Index/Pubs/johns5m5",
+     "type": "search_snippet",
+     "evidence": "fourth-year neurosurgery resident at the University of Cincinnati"
+    },
+    {
+     "url": "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+     "type": "program_page",
+     "evidence": "2026-27 roster without Johnson"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "81:eri:shen",
+  "name": "Erica Shen",
+  "program_id": 81,
+  "program": "University of Connecticut School of Medicine Program",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2024-2025",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "Not on current UConn roster; only 2022-era resident profiles found. ResearchGate lists a Duke neurosurgery affiliation but Duke current-residents page (page 1) does not list her; unresolved. Tried: na",
+   "outcome": "unknown",
+   "outcome_detail": "Searches: name+MD PhD MBA 2025; name+Duke (LinkedIn 'Erica Shen' at Duke is an undergraduate, different person); name+Stony Brook/match/specialties; affiliation query. ResearchGate lists an older Duke neurosurgery research affiliation, not a residency. No UConn departure or destination found.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "86:kev:chatley",
+  "name": "Kevin Chatley",
+  "program_id": 86,
+  "program": "University of Kansas School of Medicine Program",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "last_seen": "2020-2021",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Only directory listings (Healthgrades/WebMD/Vitals: neurological surgery, KU Hospital, Paul L Foster SOM 2017) and AANS/CNS Spine Section member 2022; no bio, roster, alumni page or destination found.",
+   "outcome": "unknown",
+   "outcome_detail": "Searches: name+neurosurgery+Kansas/fellowship; name-initial affiliation query. Only directory listings (Healthgrades neurosurgeon Kansas City, AANS/CNS Spine Section member); no roster, bio or destination. Not established.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "87:sar:thomas",
+  "name": "Sarah Thomas",
+  "program_id": 87,
+  "program": "University of Kentucky College of Medicine Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2023-2024",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> outcome unknown [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UK profile still lists neurosurgery residency 2022-2029 (PGY-2) but she is absent from current UK trainee list (PGY-1..7; verified 2026). Searches for other UK specialty rosters (anesthesiology/radiol",
+   "outcome": "unknown",
+   "outcome_detail": "UK people pages 'Sarah Jo Thomas' (sjth226) and 'Sarah Thomas, MD' (shth223) exist (snippet: PGY-2 neurosurgery, UK MD 2022, Lexington hometown) but returned 403/access denied when opened. Absent from current trainee list; no match on other UK specialty rosters.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "88:hyu:lee",
+  "name": "Hyunchul Lee",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2020-2021",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Only WebMD/UofL department listing (MBBS PhD Sydney 2013); no training-year page. Not established as left or completed.",
+   "outcome": "unknown",
+   "outcome_detail": "Searches: name+MBBS PhD Louisville; name+PGY Louisville. UofL dept page/WebMD still list him; UofL resident roster page has no retrievable list. Not established.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "88:enz:viacava",
+  "name": "Enzo Fortuny Viacava",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2023-2024",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "UofL page and ResearchGate describe him as neurosurgery resident (2020) then Research Scholar, Dept of Neurological Surgery UofL; Doximity lists Other MD/DO Louisville. No destination found; possibly ",
+   "outcome": "unknown",
+   "outcome_detail": "UofL page and ResearchGate: neurosurgery resident 2020 then Research Scholar, Dept of Neurological Surgery UofL; Doximity Other MD/DO Louisville. Possibly research track at UofL; not established.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "89:ada:hunt",
+  "name": "Adam Hunt",
+  "program_id": 89,
+  "program": "University of Maryland Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "not_found",
+   "identity_basis": "Not on current Maryland roster (verified); name too common, no match/destination found in 2 searches.",
+   "outcome": "unknown",
+   "outcome_detail": "Search name+MD+Jefferson+neurosurgery+Maryland found no matching person; name too common (Doximity Adam Hunt DO Saginaw EM is a namesake).",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "94:wes:chen",
+  "name": "Wesley Chen",
+  "program_id": 94,
+  "program": "University of Missouri-Columbia Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2023-2024",
+  "last_pgy": 5,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "ambiguous",
+   "identity_basis": "Cureus profile names Wesley Chen Neurological Surgery (Missouri). Doximity wesley-chen-md opened: NYU neurology resident 2023-2026, Georgetown 2018 = different person, rejected. No destination found.",
+   "outcome": "unknown",
+   "outcome_detail": "Cureus profile only; not on Missouri current residents/alumni (fetched). Doximity Wesley Chen (NYU neurology) is a different person.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "94:wor:george",
+  "name": "Woro George",
+  "program_id": 94,
+  "program": "University of Missouri-Columbia Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2025-2026",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity (search snippet) Woro George, Neurosurgery, Columbia MO, Colorado 2024 MD; no roster/destination information found.",
+   "outcome": "unknown",
+   "outcome_detail": "Doximity Woro George neurosurgery Columbia MO, Colorado 2024; not on Missouri residents/alumni (fetched). No destination found.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "97:fra:westhout",
+  "name": "Franklin Westhout",
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine Program",
+  "entry_year": 2011,
+  "first_seen": "2012-2013",
+  "last_seen": "2012-2013",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "Doximity opened: UNM neurological surgery residency 2011-2013, Cedars-Sinai surgery residency 2007-2008 (before), Howard MD 2005; CA license 2009-2027, NM license 2011-2013; practises in Los Angeles/S",
+   "outcome": "unknown",
+   "outcome_detail": "Doximity/Healthgrades/US News snippets: UNM neurosurgery residency 2011-2013, Cedars-Sinai general surgery 2007-2008, listed neurosurgeon San Pedro/Los Angeles; no completion elsewhere or ABNS found.",
+   "current": "listed neurosurgeon, Los Angeles CA (directories)",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "97:sye:kazim",
+  "name": "Syed Faraz Kazim",
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2025-2026",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "UNM resident profile (PGY4), LinkedIn, X still show UNM neurosurgery resident; no destination found after 2 searches (2026 neurology/postdoc query, name+MD).",
+   "outcome": "unknown",
+   "outcome_detail": "Left UNM as PGY-4 in 2025-26. Search snippet of a Massachusetts Board of Registration in Medicine May 2026 meeting document mentions a limited-license application for him (approval later rescinded); PDF not readable by me, circumstances deliberately not recorded. No destination program found.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "107:yuj:shentu",
+  "name": "Yujia Shentu",
+  "program_id": 107,
+  "program": "University of Texas Health Science Center at Houston Program",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2025-2026",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "WebMD snippet: Dr. Yujia Shentu, Neurological Surgery, Houston TX, Geisel 2023, neurosurgery resident; no departure/destination found.",
+   "outcome": "unknown",
+   "outcome_detail": "Not on UTHealth Houston current neurosurgery residents page (fetched: PGY-2..7; 2023 entrants would be PGY-4 = Peesh, Scott only). WebMD/LinkedIn snippets stale. No destination found.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "108:eri:garcia",
+  "name": "Erick Garcia",
+  "program_id": 108,
+  "program": "University of Texas Health Science Center San Antonio Joe and Teresa L",
+  "entry_year": 2014,
+  "first_seen": "2018-2019",
+  "last_seen": "2018-2019",
+  "last_pgy": 5,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "Erick Guillermo Garcia Gorbea (Ponce SOM 2013, NPI 1376986703), listed neurosurgeon at UT Health San Antonio (directory page lsom.uthscsa.edu/neurosurgery/erick-garcia-gorbea, TX license inactive). No",
+   "outcome": "unknown",
+   "outcome_detail": "Erick Garcia Gorbea: UTHSCSA neurosurgery web page and WebMD listing (inactive TX license); not in alumni list; no training text. Completion not established.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "108:dan:smerin",
+  "name": "Daniel Li Smerin",
+  "program_id": 108,
+  "program": "University of Texas Health Science Center San Antonio Joe and Teresa L",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2022-2023",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "2023 AANS award abstract as UTHSCSA neurosurgery resident (lsom news); Sept 2024 J Clin Med paper (PMID 39336886) coauthored by Smerin DL, with UT Health SA Anesthesiology listed among departments (su",
+   "outcome": "unknown",
+   "outcome_detail": "Searches: anesthesiology resident; UT Health SA other-specialty rosters; UCF-linked; name-variant affiliation query. No roster match anywhere; a 2024 paper listing UT Health SA Anesthesiology dept is supporting only.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "110:ant:asemota",
+  "name": "Anthony Asemota",
+  "program_id": 110,
+  "program": "University of Texas Southwestern Medical Center Program \u00a9 2026 Accredi",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2024-2025",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "ambiguous",
+   "identity_basis": "Not on Loma Linda neurosurgery resident list (verified). Anthony Asemota search returns Johns Hopkins researcher/UNM-area listing (Univ Benin MD); no confirmed transfer. Identity of neurosurgery resid",
+   "outcome": "unknown",
+   "outcome_detail": "Searches show only a Hopkins/UNM-area Anthony Asemota (Univ Benin MD) and a Loma Linda paper affiliation; no roster tie.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "111:pau:park",
+  "name": "Paul Park",
+  "program_id": 111,
+  "program": "University of Utah Health Program",
+  "entry_year": 2008,
+  "first_seen": "2011-2012",
+  "last_seen": "2011-2012",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "not_found",
+   "identity_basis": "Only Paul J. Park (Michigan MD/residency, Semmes-Murphey/UTHSC) surfaced; not shown to be this person. No Utah alumni entry found via search.",
+   "outcome": "unknown",
+   "outcome_detail": "Utah alumni page (fetched) has no Paul Park (2015 entries blank); namesakes only (UTHSC chair Paul Park). Identity not established.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "114:kat:kelly",
+  "name": "Katherine Kelly",
+  "program_id": 114,
+  "program": "University of Washington Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2024-2025",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> outcome unknown [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "UW bio (Vanderbilt MD 2021, UW PGY-2 in 2023) exists; bio URL now 404; no destination found. Doximity MA license 2025-2027 (phase 3) unresolved.",
+   "outcome": "unknown",
+   "outcome_detail": "UW bio and directories still list Seattle neurosurgery; Doximity MA license 2025-2027 unresolved; no destination found.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "116:eri:nturibi",
+  "name": "Eric Nturibi",
+  "program_id": 116,
+  "program": "UPMC Medical Education Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2023-2024",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "Pitt MD 2022, matched UPMC neurosurgery (Sub-I post, StatPearls, AANS). Not on Pitt current residents page (verified 2026: PGY-1..7 lists, no Nturibi). No destination found; may be research leave.",
+   "outcome": "unknown",
+   "outcome_detail": "Not on Pitt 2026-27 roster (fetched full list PGY-1..7). Doximity 'Resident Physician Pittsburgh', no residency. Searched other Pitt specialty rosters; no match.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "116:jam:yoon",
+  "name": "James Yoon",
+  "program_id": 116,
+  "program": "UPMC Medical Education Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2023-2024",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> outcome unknown [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "Yale MD, joined Pitt neurosurgery July 2022 (Pitt bio snippet, LinkedIn). Not on current Pitt residents page (verified). Doximity snippet still Neurosurgery Pittsburgh. Possible research year; no dest",
+   "outcome": "unknown",
+   "outcome_detail": "Not on Pitt 2026-27 roster (fetched). Doximity (f3b9e0a0) still Neurosurgery Pittsburgh, 'Shadyside Campus Residency, 2027'; ABIM certs shown there belong to a namesake. No destination found.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "118:dea:leonard",
+  "name": "Dean Leonard",
+  "program_id": 118,
+  "program": "Virginia Commonwealth University Health System Program",
+  "entry_year": 2019,
+  "first_seen": "2022-2023",
+  "last_seen": "2024-2025",
+  "last_pgy": 6,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity/WebMD: Texas A&M MD 2019, Richmond VA, VCU Medical Center + McGuire VA affiliation, neurosurgical publications",
+   "outcome": "unknown",
+   "outcome_detail": "Not on VCU 2026-27 roster (PGY7 = Atkinson, Poulos), not on VCU fellowship page. No destination found; could equally be a June-2026 graduate not yet documented, or a departure. Tried: name+VCU/chief/fellowship, other specialties (rad/anes/neuro/EM), Doximity, VCU roster, VCU fellowship page.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/dean-leonard-md",
+     "type": "doximity",
+     "evidence": "Resident Physician, Richmond VA; Texas A&M MD 2019"
+    },
+    {
+     "url": "https://neurosurgery.vcu.edu/education/residency/",
+     "type": "program_page",
+     "evidence": "2026-27 roster PGY7 Atkinson, Poulos; Leonard not listed"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ }
+]

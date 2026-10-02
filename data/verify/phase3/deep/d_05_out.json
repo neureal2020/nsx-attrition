@@ -1,0 +1,750 @@
+[
+ {
+  "key": "48:ann:filley",
+  "name": "Anna Filley",
+  "program_id": 48,
+  "identity": "probable",
+  "identity_basis": "Doximity Anna Filley, Indiana Univ MD 2018, NYP Columbia neurosurgery residency 2018-2025; Columbia lab page lists neurosurgery resident 2019-2020",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Not on Columbia neurosurgery current-residents page (PGY1-7) nor on 2024-2026 graduates list; last publications 2024 are with Columbia orthopaedic spine authors (Rangwalla, Gendelberg); ResearchGate lists Dept of Orthopaedic Surgery postdoc 2018-Jan 2025. Doximity residency 2018-2025 looks auto-populated; CA license 2023-2025. Switch to orthopaedics not confirmed, completion of neurosurgery not supported.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown; Doximity lists Neurosurgery, 177 Fort Washington NYC",
+  "agrees_with_db": null,
+  "disagreement": "Neither recorded switch nor completion confirmed; evidence leans away from completion (absent from Columbia graduates list)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.columbia.edu/education/residency-program/graduates",
+    "type": "program_page",
+    "evidence": "2024-2026 graduates listed; Filley not among them"
+   },
+   {
+    "url": "https://www.neurosurgery.columbia.edu/education/residency-program/current-residents",
+    "type": "program_page",
+    "evidence": "current PGY1-7 roster; no Filley"
+   },
+   {
+    "url": "https://www.doximity.com/pub/anna-filley-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025 NYP Columbia; 2024 spine papers with Rangwalla, Gendelberg"
+   }
+  ],
+  "deep_searches": 6
+ },
+ {
+  "key": "57:pur:patel",
+  "name": "Purvee Patel",
+  "program_id": 57,
+  "identity": "probable",
+  "identity_basis": "Listed under a different surname at Rutgers NJMS: Purvee Panchmatia MD, RWJMS MD 2018 (matches Patel MD 2018, 2018 entry), same first name; WebMD profile URL slug is purvee-patel",
+  "residency_stated": [
+   {
+    "institution": "Rutgers New Jersey Medical School",
+    "specialty": "neurological surgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Hackensack Meridian Health provider page: Residency, Neurological Surgery, 2025 at Rutgers New Jersey Medical School; now practising neurosurgery (Advanced Neurosurgery Associates, Rutherford/Hackensack NJ). Identity link via name change is probable, not certain.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Advanced Neurosurgery Associates / Hackensack University Medical Center, Rutherford-Hackensack NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.getcare.hackensackmeridianhealth.org/provider/purvee-panchmatia/5846700",
+    "type": "bio",
+    "evidence": "Residency, Neurological Surgery, 2025 at Rutgers New Jersey Medical School"
+   },
+   {
+    "url": "https://www.doximity.com/pub/purvee-panchmatia-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Rutherford NJ; Rutgers RWJMS Class of 2018"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/purvee-patel-85f20841-72cc-49c9-9746-4104b6fca9ce-overview",
+    "type": "search_snippet",
+    "evidence": "Purvee Panchmatia MD neurosurgeon Hackensack NJ, RWJMS 2018"
+   }
+  ],
+  "deep_searches": 5
+ },
+ {
+  "key": "57:sea:munier",
+  "name": "Sean Munier",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Rutgers RWJMS MD 2019; Rutgers neurosurgery resident page (PGY5 at time of capture)",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "PGY7 in 2025-26 so expected to graduate June 2026, but no announcement, fellowship or practice listing found in 5 searches (Doximity, WebMD, Rutgers page, fellowship/graduation searches).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Doximity: Resident Physician Neurosurgery, Englewood NJ",
+  "agrees_with_db": null,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sean-munier-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery Resident Physician; Rutgers RWJMS class of 2019"
+   },
+   {
+    "url": "https://sites.rutgers.edu/neurological-surgery/people/sean-munier-md/",
+    "type": "program_page",
+    "evidence": "PGY 5"
+   }
+  ],
+  "deep_searches": 5
+ },
+ {
+  "key": "63:han:polavarapu",
+  "name": "Hanish Polavarapu",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "WashU program page and Doximity: MD SUNY Upstate Norton 2024 (AOA); Doximity address One Barnes Jewish Hospital Plaza",
+  "residency_stated": [
+   {
+    "institution": "Washington University in St. Louis / Barnes-Jewish",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY3 at WashU neurosurgery in 2026-27 implies start 2024 straight from Upstate medical school (Class of 2024); no evidence he held an Upstate residency slot. DB entry at Upstate PGY-1 2024-25 appears to be an error (likely a graduating Upstate student/roster listing).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY3, Washington University / Barnes-Jewish, St. Louis MO",
+  "agrees_with_db": false,
+  "disagreement": "Input program (SUNY Upstate) appears wrong; he trains at WashU; he is a medical school graduate of Upstate, not an Upstate resident (Upstate roster page returned 403 so not directly checked)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.wustl.edu/people/hanish-polavarapu-md-ms/",
+    "type": "program_page",
+    "evidence": "PGY3 Resident; MD SUNY Upstate Norton College of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/hanish-polavarapu-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, St. Louis MO; SUNY Upstate Class of 2024"
+   }
+  ],
+  "deep_searches": 4
+ },
+ {
+  "key": "73:rya:turner",
+  "name": "Ryan Turner",
+  "program_id": 73,
+  "identity": "probable",
+  "identity_basis": "Doximity Ryan Turner: UTMB 2019, UAMS neurosurgery residency; 2026 paper with UAMS chair Pait; entry 2019 fits",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurological surgery",
+    "start": 2019,
+    "end": 2024
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Not on UAMS 2026-27 roster (chiefs Coggins, Porter; PGY1-6 others); entry 2019 + 7 yr = expected graduation 2026. Doximity slug e5a846b4 shows 'Resident Physician' Seattle 325 9th Ave (Harborview) with UAMS residency labelled 2024 (label unreliable). Suggests post-residency fellowship at UW/Harborview but not confirmed; UAMS team page 404.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Doximity: Resident Physician, neurosurgery, Seattle WA (Harborview address)",
+  "agrees_with_db": null,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-turner-md-e5a846b4",
+    "type": "doximity",
+    "evidence": "Resident Physician Neurosurgery Seattle WA; UAMS Residency, Neurological Surgery, 2024; UTMB Class of 2019"
+   },
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "2026-27 roster; no Turner"
+   }
+  ],
+  "deep_searches": 5
+ },
+ {
+  "key": "73:kev:thomas",
+  "name": "Kevin Thomas",
+  "program_id": 73,
+  "identity": "ambiguous",
+  "identity_basis": "WebMD: Kevin Thomas neurosurgery, Little Rock, UAMS COM 2021 (matches entry 2021); a UAMS Class of 2027 neurology Kevin Thomas (Philadelphia) on Doximity is probably a different person",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Absent from 2026-27 UAMS roster; no source corroborates UNC Peds Allergy/Immunology or any other destination after 6 searches (allergy/immunology, UNC, UAMS 2021 match, Doximity UAMS 2021).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "",
+  "agrees_with_db": null,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/kevin-thomas-afba83f2-085b-49fa-a966-1bbc5858f3ec-overview",
+    "type": "search_snippet",
+    "evidence": "Graduated from University Of Arkansas For Medical Sciences College Of Medicine in 2021; Neurological Surgery, Little Rock"
+   },
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "no Kevin Thomas in PGY1-7"
+   }
+  ],
+  "deep_searches": 6
+ },
+ {
+  "key": "79:amb:gaulden",
+  "name": "Amber Gaulden",
+  "program_id": 79,
+  "identity": "confirmed",
+  "identity_basis": "UC neurosurgery resident directory; MD Univ of South Carolina Greenville 2019",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "PGY7 in 2025-26; not on UC 2026-27 residents roster (PGY7 only Garner, Kaye), consistent with graduating June 2026; no announcement, fellowship or practice source found in 5 searches. Serves on a 2025-2027 AANS pediatric neurosurgery committee.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "UC neurosurgery resident/recent graduate",
+  "agrees_with_db": null,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "2026-27 roster without Gaulden"
+   }
+  ],
+  "deep_searches": 5
+ },
+ {
+  "key": "79:mar:johnson",
+  "name": "Mark Johnson",
+  "program_id": 79,
+  "identity": "probable",
+  "identity_basis": "UC neurosurgery resident directory Mark D. Johnson MD, PGY4 in 2022; UC MD 2019",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Not on UC 2026-27 roster, consistent with graduating June 2026; WebMD lists Mark Daniel Johnson neurosurgeon at UC (UC MD 2019, still resident-era listing); no announcement/fellowship found.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "UC neurosurgery resident/recent graduate",
+  "agrees_with_db": null,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.uc.edu/depart/neurosurgery/directory/residents/Index/Pubs/johns5m5",
+    "type": "search_snippet",
+    "evidence": "fourth-year neurosurgery resident at the University of Cincinnati"
+   },
+   {
+    "url": "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "2026-27 roster without Johnson"
+   }
+  ],
+  "deep_searches": 5
+ },
+ {
+  "key": "84:jac:lara-reyna",
+  "name": "Jacques Lara-Reyna",
+  "program_id": 84,
+  "identity": "confirmed",
+  "identity_basis": "Peoria program profile; Universidad Catolica Guayaquil MD; prior Weill Cornell/Mount Sinai training",
+  "residency_stated": [
+   {
+    "institution": "University of Illinois College of Medicine at Peoria",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Peoria profile lists him as Resident, Neurosurgery Residency, Class of 2028. Doximity/US News 'residency 2022' is the start year (search snippet reading as completion is wrong); DB entry year 2021 vs profile 2022 start, minor.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (Class of 2028), University of Illinois College of Medicine at Peoria / OSF Saint Francis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://peoria.medicine.uic.edu/profiles/lara-reyna-jacques",
+    "type": "program_page",
+    "evidence": "Resident (Class of 2028), Neurosurgery Residency"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jacques-lara-reyna-md",
+    "type": "doximity",
+    "evidence": "Peoria Residency, Neurological Surgery, 2022"
+   }
+  ],
+  "deep_searches": 2
+ },
+ {
+  "key": "96:jua:rodriguez",
+  "name": "Juan Ruiz Rodriguez",
+  "program_id": 96,
+  "identity": "confirmed",
+  "identity_basis": "UNMC 2026-27 roster: UPR MD, Arecibo hometown, interests computer brain interfaces; same hometown/med school/interest (closed-loop neuromodulation) as the UW resident bio",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2025
+   },
+   {
+    "institution": "University of Nebraska Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Same person as key 114:jua:rodriguez: transferred from UW (PGY3 2024-25) to UNMC, restarting as PGY-1 in 2026-27.",
+  "year_left": 2025,
+  "destination_program": "University of Nebraska Medical Center",
+  "destination_start_year": 2026,
+  "current": "neurosurgery PGY-1, UNMC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.unmc.edu/neurosurgery/education/residency/residents.html",
+    "type": "program_page",
+    "evidence": "Juan F. Ruiz Rodriguez, MD PGY-1; University of Puerto Rico School of Medicine; Arecibo, Puerto Rico"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/index.php/bio/juan-ruiz-rodriguez-md",
+    "type": "search_snippet",
+    "evidence": "UW bio: born and raised in Arecibo, Puerto Rico; University of Puerto Rico medicine; Princeton physics (bio now 404)"
+   }
+  ],
+  "deep_searches": 4
+ },
+ {
+  "key": "103:sam:woodall",
+  "name": "Samantha Woodall",
+  "program_id": 103,
+  "identity": "confirmed",
+  "identity_basis": "USF neurosurgery current-residents page lists Samantha Woodall MD, USF Morsani MD, Vanderbilt BA, Tampa hometown",
+  "residency_stated": [
+   {
+    "institution": "University of South Florida Morsani",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as incoming PGY-1 2026-27 on USF page.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery PGY-1, USF Tampa",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://health.usf.edu/medicine/neurosurgery/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Samantha Woodall, MD - USF Health Morsani College of Medicine; PGY-1 2026-2027"
+   }
+  ],
+  "deep_searches": 3
+ },
+ {
+  "key": "104:jam:yu",
+  "name": "James Yu",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "USC neurological surgery alumni table (2026) lists James Yu MD; Brown MD 2019 per Instagram matches 2019 entry",
+  "residency_stated": [],
+  "outcome": "completed",
+  "outcome_detail": "USC 2026 alumni list: James Yu, MD - Columbia - Fellowship (graduated 2026, fellowship at Columbia).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "fellow, Columbia University (neurosurgery)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "2026 James Yu MD Columbia Fellowship"
+   }
+  ],
+  "deep_searches": 1
+ },
+ {
+  "key": "104:mic:lin",
+  "name": "Michelle Lin",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "USC alumni table lists Michelle Lin MD; Doximity Neurosurgery LA Keck MD 2018 at USC address",
+  "residency_stated": [],
+  "outcome": "completed",
+  "outcome_detail": "USC 2026 alumni list: Michelle Lin, MD - Mount Sinai - Fellowship.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "fellow, Mount Sinai (neurosurgery)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "2026 Michelle Lin MD Mount Sinai Fellowship"
+   }
+  ],
+  "deep_searches": 1
+ },
+ {
+  "key": "104:and:pickles",
+  "name": "Andrew Pickles",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "USC neurosurgery current residents PGY1 list: Andrew Pickles MD, Loyola Stritch",
+  "residency_stated": [
+   {
+    "institution": "USC/LA General",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY1 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery PGY-1, USC/LA General",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY1: Andrew Pickles, MD, Loyola University Chicago Stritch School of Medicine"
+   }
+  ],
+  "deep_searches": 3
+ },
+ {
+  "key": "104:rya:chung",
+  "name": "Ryan Chung",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "USC current residents PGY1: Ryan Chung MD, Keck School of Medicine of USC, UC Berkeley undergrad; matches Keck student Ryan S. Chung",
+  "residency_stated": [
+   {
+    "institution": "USC/LA General",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY1 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery PGY-1, USC/LA General",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY1 Ryan Chung, MD, Medical School: Keck School of Medicine of USC"
+   }
+  ],
+  "deep_searches": 1
+ },
+ {
+  "key": "108:kat:karahalios",
+  "name": "Katherine Karahalios",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "UT Health San Antonio neurosurgery current-residents page lists Katherine Karahalios MD as PGY1 alongside Dustin Kim, Laureen Raelly-Muze",
+  "residency_stated": [
+   {
+    "institution": "UT Health San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY1 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery PGY-1, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/education/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY 1: Katherine Karahalios, MD"
+   }
+  ],
+  "deep_searches": 3
+ },
+ {
+  "key": "113:gra:garcia",
+  "name": "Grace Garcia",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "UVA bio: Grace Garcia MD, KU 2022, BA Wichita State 2016; Doximity Gracie Garcia has same KU 2022 / Wichita State details",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurological surgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "UVA 2026-27 roster lists her PGY-5 and a 2026 spine QOD paper appears under her name. The Doximity 'Family Medicine UT Southwestern 2024-2027' + ABFM entry could not be corroborated (not found on UTSW family medicine residents page; UVA bio mentions no prior training) and looks like an erroneous or conflated Doximity entry; unresolved but UVA program page is the stronger source.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery PGY-5, University of Virginia",
+  "agrees_with_db": true,
+  "disagreement": "Doximity family medicine listing conflicts; flagged for manual check",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/grace-garcia-md/",
+    "type": "bio",
+    "evidence": "MD University of Kansas School of Medicine 2022; current UVA neurosurgery resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/gracie-garcia-md",
+    "type": "doximity",
+    "evidence": "UVA Neurological Surgery 2022-2029; UT Southwestern Family Medicine 2024-2027; ABFM"
+   }
+  ],
+  "deep_searches": 6
+ },
+ {
+  "key": "114:jua:rodriguez",
+  "name": "Juan Ruiz Rodriguez",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UNMC roster and UW bio match on UPR MD and Arecibo hometown",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2025
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left UW neurosurgery after 2024-25 (bio removed); appears on UNMC neurosurgery 2026-27 roster as PGY-1 (started 2026, so likely a gap year 2025-26 or unlisted). Not on UW current-residents page.",
+  "year_left": 2025,
+  "destination_program": "University of Nebraska Medical Center",
+  "destination_start_year": 2026,
+  "current": "neurosurgery PGY-1, UNMC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.unmc.edu/neurosurgery/education/residency/residents.html",
+    "type": "program_page",
+    "evidence": "Juan F. Ruiz Rodriguez, MD PGY-1; University of Puerto Rico School of Medicine; Arecibo, Puerto Rico"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/index.php/bio/juan-ruiz-rodriguez-md",
+    "type": "search_snippet",
+    "evidence": "UW bio: born and raised in Arecibo, Puerto Rico; University of Puerto Rico medicine; Princeton physics (bio now 404)"
+   }
+  ],
+  "deep_searches": 4
+ },
+ {
+  "key": "118:cha:fleming",
+  "name": "Charles Fleming",
+  "program_id": 118,
+  "identity": "probable",
+  "identity_basis": "VCU X post 'Charlie Fleming, MD, MPH (PGY-5)' Feb 2024; VCU residency profile page exists",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Not on VCU 2026-27 roster (consistent with June 2026 graduation); VCU alumni/fellowship pages name nobody; Doximity Charles Fleming is an Indianapolis anesthesiologist (different person). 4 searches found no destination.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "",
+  "agrees_with_db": null,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/VCUNeuro/status/1755325817255792865",
+    "type": "search_snippet",
+    "evidence": "Charlie Fleming, MD, MPH (PGY-5)"
+   }
+  ],
+  "deep_searches": 4
+ },
+ {
+  "key": "119:pau:marcet",
+  "name": "Paul Marcet",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page Paul Andrew Marcet; Doximity Paul Marcet USF Morsani 2019, Winston-Salem address 1 S Hawthorne Rd (Wake Forest)",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity (listed as 'Other MD/DO'): NC license 2019-2026, FL license 2026-2028, suggesting a move to Florida after residency (likely fellowship/job), but no source states completion or destination.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": null,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/paul-marcet-md",
+    "type": "doximity",
+    "evidence": "USF Class of 2019; FL State Medical License 2026-2028; NC 2019-2026"
+   }
+  ],
+  "deep_searches": 5
+ }
+]

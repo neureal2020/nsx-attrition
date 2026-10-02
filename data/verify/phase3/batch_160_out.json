@@ -1,0 +1,1023 @@
+[
+ {
+  "key": "123:joa:tabor",
+  "name": "Joanna Tabor",
+  "program_id": 123,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Yale-New Haven residency 2024-2031, SUNY Downstate class 2024; Yale resident page lists her (SUNY Downstate 2024)",
+  "residency_stated": [
+   {
+    "institution": "Yale-New Haven Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Yale neurosurgery resident (Doximity residency 2024-2031)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Yale-New Haven",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joanna-tabor-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031 Yale-New Haven Medical Center; SUNY Downstate Class of 2024"
+   },
+   {
+    "url": "https://medicine.yale.edu/neurosurgery/education/residencyprogram/currentresidents/",
+    "type": "program_page",
+    "evidence": "Joanna Tabor, PGY-2, SUNY Downstate Health Sciences University, 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "123:bra:santhumayor",
+  "name": "Brandon Santhumayor",
+  "program_id": 123,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Yale-New Haven residency 2025-2032, Zucker/Hofstra class 2025; Yale resident page lists him",
+  "residency_stated": [
+   {
+    "institution": "Yale-New Haven Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Yale neurosurgery resident PGY-2",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Yale-New Haven",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brandon-santhumayor-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2025 - 2032 Yale-New Haven Medical Center"
+   },
+   {
+    "url": "https://medicine.yale.edu/neurosurgery/education/residencyprogram/currentresidents/",
+    "type": "program_page",
+    "evidence": "Brandon Santhumayor, Zucker School of Medicine at Hofstra/Northwell, 2025"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "123:mel:brady",
+  "name": "Melanie Brady",
+  "program_id": 123,
+  "identity": "confirmed",
+  "identity_basis": "Yale current residents page lists Melanie Brady (Rutgers NJMS 2025); search snippet: neurological surgery resident at Yale New Haven Hospital, MD Rutgers NJMS, PhD Yale",
+  "residency_stated": [
+   {
+    "institution": "Yale-New Haven Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Yale neurosurgery resident; no Doximity public profile found",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Yale-New Haven",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.yale.edu/neurosurgery/education/residencyprogram/currentresidents/",
+    "type": "program_page",
+    "evidence": "Melanie Brady, PGY-1, Rutgers New Jersey Medical School, 2025"
+   },
+   {
+    "url": "https://medicine.yale.edu/profile/melanie-brady",
+    "type": "program_page",
+    "evidence": "Yale profile: neurological surgery resident, Rutgers NJMS, PhD Neuroscience Yale (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "123:all:toth",
+  "name": "Allison Toth",
+  "program_id": 123,
+  "identity": "probable",
+  "identity_basis": "Yale profile lists Allison Toth as Hospital Resident, Neurosurgery dept; not listed on cached Yale current-residents page (likely PGY1 2026). Doximity Allison Toth is Drexel MD class 2026 (Philadelphia, no residency listed) - consistent but unconfirmed",
+  "residency_stated": [
+   {
+    "institution": "Yale-New Haven Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Yale School of Medicine profile: Hospital Resident, Neurosurgery. Doximity shows only Drexel class of 2026",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), Yale",
+  "agrees_with_db": true,
+  "disagreement": "Doximity profile could be namesake; identity of Doximity page not tied to Yale",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.yale.edu/profile/allison-toth/",
+    "type": "program_page",
+    "evidence": "Hospital Resident, Neurosurgery"
+   },
+   {
+    "url": "https://www.doximity.com/pub/allison-toth-md",
+    "type": "doximity",
+    "evidence": "Drexel University College of Medicine, Class of 2026 (no residency listed)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "123:ole:strelko",
+  "name": "Oleksandr Strelko",
+  "program_id": 123,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Yale-New Haven residency 2026-2033, Loyola Stritch class 2026; Yale profile exists",
+  "residency_stated": [
+   {
+    "institution": "Yale-New Haven Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Incoming PGY-1 Yale 2026",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), Yale-New Haven",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/oleksandr-strelko-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2026 - 2033 Yale-New Haven Medical Center"
+   },
+   {
+    "url": "https://medicine.yale.edu/profile/oleksandr-strelko/",
+    "type": "program_page",
+    "evidence": "Oleksandr Strelko, MD | Yale School of Medicine (search result title)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:ale:gamble",
+  "name": "Alexander Gamble",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Hofstra/Northwell neurosurgery residency 2011-2018, COMP-Pacific class 2011, ABNS; practice New Hampshire",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwell residency 2018, ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, NH Neurospine Institute, Bedford NH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alexander-gamble-do",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 Zucker School of Medicine at Hofstra/Northwell; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:nea:mehan",
+  "name": "Neal Mehan",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Hofstra/Northwell residency 2011-2018, Cincinnati class 2011, ABNS",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2018, ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Mehan Neurosurgery / Mercy Health, Dayton-Springfield OH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/neal-mehan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 Zucker School of Medicine at Hofstra/Northwell; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.mercy.com/find-a-doctor/physicians/neal-mehan/2985707",
+    "type": "search_snippet",
+    "evidence": "Mercy Health neurosurgeon (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:sha:chakraborty",
+  "name": "Shamik Chakraborty",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Hofstra/Northwell residency 2012-2019, SUNY Downstate class 2012, ABNS",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; neurosurgical oncology fellowship NSUH; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Princeton Brain Spine & Orthopedics, Princeton NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shamik-chakraborty-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019 Zucker School of Medicine at Hofstra/Northwell; ABNS"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:vic:du",
+  "name": "Victor Du",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Hofstra/Northwell residency 2012-2019, Albany Med class 2012, ABNS",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, MedStar Franklin Square, Baltimore MD",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/victor-du-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019 Zucker School of Medicine at Hofstra/Northwell; ABNS"
+   },
+   {
+    "url": "https://www.medstarhealth.org/doctors/victor-xiaocong-du-md",
+    "type": "search_snippet",
+    "evidence": "completed his residency in neurological surgery at the Northwell Health system"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:amr:chiluwal",
+  "name": "Amrit Chiluwal",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency 2013-2020 Hofstra/Northwell, NYMC class 2013, ABNS",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020; fellowship Lenox Hill 2020-21; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, West Islip NY (Catholic Health LI)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/amrit-chiluwal-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 Zucker School of Medicine at Hofstra/Northwell; ABNS"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:sha:gandhi",
+  "name": "Shashank Gandhi",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency 2013-2020 Hofstra/Northwell, UF class 2013, ABNS",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020; Barrow spine fellowship 2020-21; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Advanced Neurosurgery Associates, Lawrenceville GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shashank-gandhi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 Zucker School of Medicine at Hofstra/Northwell; ABNS"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:kat:wagner",
+  "name": "Katherine Wagner",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency 2014-2021 Hofstra/Northwell, Rutgers NJMS class 2014; other sources say same (Ventura/Stanford)",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2021; Stanford spine fellowship 2021-22. No ABNS listed on Doximity",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Community Memorial Healthcare / Ventura CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/katherine-wagner-neurosurg",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 Zucker School of Medicine at Hofstra/Northwell"
+   },
+   {
+    "url": "https://www.mycmh.org/find-a-doctor/katherine-wagner-md/",
+    "type": "search_snippet",
+    "evidence": "Katherine Wagner, MD, Community Memorial Healthcare"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:kev:kwan",
+  "name": "Kevin Kwan",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency 2014-2021 Hofstra/Northwell, Stony Brook class 2014, ABNS",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2021; Columbia spine fellowship; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Bedminster/Rutherford NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kevin-kwan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 Zucker School of Medicine at Hofstra/Northwell; ABNS"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:dav:bonda",
+  "name": "David Bonda",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency 2015-2022 Hofstra/Northwell, Case Western class 2015",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2022; pediatric neurosurgery fellowship UW 2022-23",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Cedars-Sinai Guerin Children's, Los Angeles",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-bonda-md-093a669f",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 Zucker School of Medicine at Hofstra/Northwell"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:xia:sun",
+  "name": "Xiaonan Sun",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency 2015-2022 Hofstra/Northwell, Rutgers RWJ class 2015",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2022; functional/epilepsy fellowship UCLA 2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Dartmouth Health, Lebanon NH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/xiaonan-sun-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 Zucker School of Medicine at Hofstra/Northwell"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:kev:shah",
+  "name": "Kevin Shah",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Hofstra/Northwell residency 2016-2023, FIU class 2016; Northwell find-a-doctor and AAoNS-award tweet as Northwell resident",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023; endovascular fellowship 2022-23 per search snippet; graduation year now confirmed 2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (cerebrovascular/endovascular), Winston-Salem NC (Novant) per Doximity/Novant",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kevin-shah-md-a101e639",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 Zucker School of Medicine at Hofstra/Northwell"
+   },
+   {
+    "url": "https://www.northwell.edu/find-care/find-a-doctor/dr-kevin-atul-shah-md-11520375",
+    "type": "search_snippet",
+    "evidence": "Kevin Atul Shah, MD - Neurosurgery (Northwell)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:rac:pruitt",
+  "name": "Rachel Pruitt",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Hofstra/Northwell residency 2016-2023, Zucker MD class 2016; Hofstra news of Zucker graduate joining CCMC",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023; JHU pediatric neurosurgery fellowship 2023-24",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Cohen Children's / LINA, Lake Success NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rachel-pruitt-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 Zucker School of Medicine at Hofstra/Northwell"
+   },
+   {
+    "url": "https://mednews.hofstra.edu/2024/08/20/dr-rachel-pruitt-joins-division-of-pediatric-neurosurgery-at-ccmc/",
+    "type": "news",
+    "evidence": "Zucker School of Medicine Graduate, Dr. Rachel Pruitt, Joins the Division of Pediatric Neurosurgery at CCMC"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:ros:green",
+  "name": "Ross Green",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Northwell residency 2020-2023 and UNM neurosurgery residency 2016-2019; Ben Gurion MD class 2015; Northwell bio",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2019
+   },
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transferred into Northwell (from UNM) 2020; completed 2023; fellowship complex spine NSUH 2021-22. Doximity lists UNM 2016-2019 (DB says PGY-5 join July 2020 after UNM accreditation withdrawal)",
+  "year_left": 2020,
+  "destination_program": "Zucker School of Medicine at Hofstra/Northwell",
+  "destination_start_year": 2020,
+  "current": "neurosurgeon (spine), Northwell, Sleepy Hollow NY",
+  "agrees_with_db": true,
+  "disagreement": "Doximity lists UNM 2016-2019 (end year 2019 vs DB 2020) - minor date difference",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ross-green-md-fb27ec00",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2023 Zucker/Northwell; University of New Mexico Residency, Neurological Surgery, 2016 - 2019"
+   },
+   {
+    "url": "https://www.northwell.edu/find-care/find-a-doctor/dr-ross-steven-green-md-1447639109",
+    "type": "search_snippet",
+    "evidence": "Ross Steven Green, MD - Neurosurgery (Northwell)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:jun:park",
+  "name": "Jung Park",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Hofstra/Northwell residency 2017-2024; Northwell bio: MD PhD Iowa, seven-year Northwell residency, full-time faculty July 2024. (Doximity page also carries unrelated data - Yonsei 1967, psychiatry board - namesake contamination; ignored)",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2024; now LIJ neurosurgery faculty",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (neuro-oncology), LIJ / Northwell",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jung-park-md-976b61e0",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 Zucker School of Medicine at Hofstra/Northwell"
+   },
+   {
+    "url": "https://www.northwell.edu/find-care/find-a-doctor/dr-jung-park-md-phd-1225569817",
+    "type": "bio",
+    "evidence": "completed a seven-year residency at Northwell Health, assuming full-time role July 2024 (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:tim:white",
+  "name": "Timothy White",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Hofstra/Northwell residency 2017-2024, Zucker MD 2017, CAST endovascular; Northwell bio chief resident",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2024; CAST interventional neuroradiology fellowship",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (endovascular), Northwell, Great Neck/Manhasset NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/timothy-white-md-d6185907",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 Zucker School of Medicine at Hofstra/Northwell; CAST Endovascular Neurosurgery"
+   },
+   {
+    "url": "https://www.northwell.edu/find-care/find-a-doctor/dr-timothy-g-white-md-1962933820",
+    "type": "bio",
+    "evidence": "Timothy G. White, MD - Neurosurgery; chief resident (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:dan:schneider",
+  "name": "Daniel Schneider",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Columbus OH page): Hofstra/Northwell residency 2018-2025, Buffalo MD 2018; Northwell/OSU bio: residency July 2018-June 2024, spine fellowship 2024-25 (namesake Daniel Schneider at OSU is same person; distinct Doximity Manhasset duplicate exists)",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed residency 2024 (Doximity shows 2018-2025 incl. fellowship year); spine/oncology fellowship 2024-25",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor of neurosurgery, Ohio State / James Cancer Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-schneider-md-343ebf91",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025 Zucker School of Medicine at Hofstra/Northwell; Complex Spine/Spinal Oncology fellowship 2024-2025"
+   },
+   {
+    "url": "https://wexnermedical.osu.edu/find-a-doctor/daniel-schneider-100001853",
+    "type": "search_snippet",
+    "evidence": "completed residency in Neurological Surgery at Northwell Health from July 2018 to June 2024 (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "124:pra:unadkat",
+  "name": "Prashin Unadkat",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Northwell resident rosters list Prashin Unadkat (K J Somaiya MBBS); Doximity: KJ Somaiya class 2014, MA licence 2018-19 (BWH general surgery PGY1 per LinkedIn snippet); PhD Elmezzi",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Not directly confirmed. Last seen PGY7 on 2025-26 roster; Doximity shows new TX licence 2026-2028 and NY licence to 2026, consistent with graduating 2026. Joined at PGY2 after BWH general surgery year, not a neurosurgery transfer. No ABNS/Doximity residency entry",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown (likely graduated 2026; TX licence 2026)",
+  "agrees_with_db": true,
+  "disagreement": "Completion is inferred only; no source states graduation",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/prashin-unadkat-md-e158765f",
+    "type": "doximity",
+    "evidence": "KJ Somaiya Medical College Class of 2014; TX State Medical License 2026 - 2028; NY 2021 - 2026 (no residency listed)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/prashin-unadkat-b05b22128",
+    "type": "search_snippet",
+    "evidence": "Resident Surgeon, Department of Neurosurgery, Zucker School of Medicine at Hofstra/Northwell; prior General Surgery Resident PGY1 at Brigham and Women's"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "124:dan:toscano",
+  "name": "Daniel Toscano",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Georgetown MD class 2019, neuroendovascular fellow Bay Shore NY (NY licence 2026-27); Northwell resident PGY7 on 2025-26 roster; Google summary neuroendovascular fellow at Northwell",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Finished neurosurgery residency 2026 (inferred from Doximity title 'Neuroendovascular Fellow', new 2026 NY licence; roster PGY7 2025-26); now neuroendovascular fellowship",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neuroendovascular fellow, Northwell (Bay Shore NY)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-toscano-md",
+    "type": "doximity",
+    "evidence": "Neuroendovascular Fellow; Cerebrovascular Neurosurgery, Neurointerventional Surgery; Georgetown Class of 2019"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Daniel-Toscano",
+    "type": "search_snippet",
+    "evidence": "Resident Physician, Department of Neurosurgery, Northwell Health"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "124:jus:turpin",
+  "name": "Justin Turpin",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Northwell rosters list Justin Turpin (Jefferson MD 2019) PGY7 on 2025-26 roster; Doximity: Sidney Kimmel class 2019, listed as 'Resident Physician' (stale)",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Not directly confirmed by an independent 2026 source. Last seen PGY7 on 2025-26 roster; Doximity page is stale (Resident Physician, no residency entry). Phase-2 Northwell bio note (in DB) says completed and now NSUH endovascular faculty - not re-verified here",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (endovascular), Northwell per DB note",
+  "agrees_with_db": true,
+  "disagreement": "Could not independently re-verify completion",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/justin-turpin-md",
+    "type": "doximity",
+    "evidence": "Resident Physician; Sidney Kimmel Medical College at Thomas Jefferson University Class of 2019 (no residency entry)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/justin-turpin-40794747/",
+    "type": "search_snippet",
+    "evidence": "Justin Turpin - Neurosurgery Resident at Donald and Barbara Zucker School of Medicine at Hofstra/Northwell"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "124:dan:golub",
+  "name": "Danielle Golub",
+  "program_id": 124,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Hofstra/Northwell residency 2020-2027, NYU MD 2020; LinkedIn/CNS snippet PGY-7 Chief; Doximity 'Resident Physician, Northwell Health'",
+  "residency_stated": [
+   {
+    "institution": "Zucker School of Medicine at Hofstra/Northwell",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current chief resident, expected completion 2027 (research years included)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery chief resident, Northwell",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/danielle-golub-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027 Zucker School of Medicine at Hofstra/Northwell"
+   },
+   {
+    "url": "https://www.cns.org/about/press-room-detail/cns-announces-2025-2026-neurosurgery-publications-",
+    "type": "news",
+    "evidence": "CNS 2025-2026 Neurosurgery Publications Resident Fellows (Golub selected)"
+   }
+  ],
+  "searches_used": 1
+ }
+]

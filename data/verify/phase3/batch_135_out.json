@@ -1,0 +1,1037 @@
+[
+ {
+  "key": "107:ste:katzen",
+  "name": "Stephen Katzen",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency Neurological Surgery UTHealth Houston 2013-2020, Texas Tech MD 2013; Methodist bio says residency UT Houston",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHealth Houston 2013-2020; ABNS listed",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Methodist Moody Brain and Spine Institute, Dallas/Mansfield TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/stephen-katzen-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 (UTHealth Houston); American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.methodisthealthsystem.org/provider/stephen-katzen-md",
+    "type": "search_snippet",
+    "evidence": "board certified neurosurgeon ... residency in neurological surgery from the University of Texas Health Science Center Houston"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "107:ant:divito",
+  "name": "Anthony Divito",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Cleveland anesthesiologist) lists UTHealth neurosurgery residency 2015-2019 and Cincinnati MD 2014, matching phase-2 Cincinnati affiliation",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "surgery (preliminary)",
+    "start": 2014,
+    "end": 2015
+   },
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2019
+   },
+   {
+    "institution": "Johns Hopkins University",
+    "specialty": "anesthesiology",
+    "start": 2019,
+    "end": 2022
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left neurosurgery after ~PGY5 (2019); anesthesiology residency Johns Hopkins 2019-2022; critical care",
+  "year_left": 2019,
+  "destination_program": "Johns Hopkins University anesthesiology",
+  "destination_start_year": 2019,
+  "current": "anesthesiologist / critical care, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anthony-divito-md-11fdde7c",
+    "type": "doximity",
+    "evidence": "Residency, Anesthesiology, 2019-2022 Johns Hopkins; Residency, Neurological Surgery, 2015-2019 UTHealth Houston; ABA Anesthesiology, Critical Care"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "107:bre:simpson",
+  "name": "Brett Simpson",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UTHealth neurosurgery residency 2014-2021, Chicago Medical School 2014; publications with UTHealth residents",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2014-2021; neurosurgeon Tennova, Clarksville TN",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Tennova Healthcare, Clarksville TN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brett-simpson-md-47175807",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 UTHealth Houston"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "107:leo:chen",
+  "name": "Leon Chen",
+  "program_id": 107,
+  "identity": "probable",
+  "identity_basis": "Doximity: McGovern Medical School MD class of 2014 (matches 2014 entry), dermatology residency UTHealth/MD Anderson 2016-2019; no source explicitly names a neurosurgery PGY1 year",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston / MD Anderson",
+    "specialty": "dermatology",
+    "start": 2016,
+    "end": 2019
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Dermatology residency 2016-2019 then Mohs fellowship MD Anderson 2020; neurosurgery PGY1 2014-15 not independently confirmed (likely intern year then 2015-16 gap/prelim)",
+  "year_left": 2015,
+  "destination_program": "UTHealth/MD Anderson dermatology",
+  "destination_start_year": 2016,
+  "current": "Mohs surgeon/dermatologist, Houston TX (U.S. Dermatology Partners)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/leon-chen-md-8e00ecfc",
+    "type": "doximity",
+    "evidence": "Residency, Dermatology, 2016 - 2019; McGovern Medical School at UTHealth Class of 2014, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "107:chr:conner",
+  "name": "Christopher Conner",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UTHealth 2015-2022; McGovern MD class 2012 with PhD; papers with UTHealth residents (Zeineddine, Simpson, Zima)",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2015-2022, functional neurosurgery fellowship Toronto 2022-23",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor and Director of Functional and Epilepsy Neurosurgery, UConn Health, Farmington CT",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christopher-conner-md-3d2e",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 UTHealth; Fellowship Functional Neurosurgery Toronto 2022-2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "107:col:lewis",
+  "name": "Cole Lewis",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: McGovern MD class 2015, neurosurgery Houston; Culicchia/LCMC bio: residency UTHealth Houston, chief resident; ResearchGate resident UTHealth neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UTHealth residency (chief year), MSK fellowship; now practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Culicchia Neurological / LCMC Health, New Orleans LA; Asst Program Director LSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/cole-lewis-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, McGovern Medical School at UTHealth Class of 2015 (no residency dates listed)"
+   },
+   {
+    "url": "https://www.lcmchealth.org/find-a-provider/cole-t-lewis-md/",
+    "type": "search_snippet",
+    "evidence": "search summary: completed residency at UTHealth Houston, most valuable resident chief year, fellowship Memorial Sloan Kettering"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "107:bra:budde",
+  "name": "Bradley Budde",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and WashU bio: residency UTHealth Houston 2016-2023, Univ of Illinois MD 2016 (a different Bradley Budde is an anesthesiologist in Cincinnati, excluded)",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2016-2023; complex spine/peripheral nerve fellowship WashU 2023-24",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Assistant Professor WashU / Memorial Hospital Belleville IL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.wustl.edu/people/bradley-budde-md/",
+    "type": "bio",
+    "evidence": "Resident, University of Texas Health Science Center Houston, TX 2016 \u2013 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/bradley-budde-md-1678e064",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "107:mic:monterey",
+  "name": "Michael Monterey",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency Neurological Surgery UTHealth 2016-2023; publications with UTHealth residents (Withrow, Trimble, Sheinberg); Miami bio",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2016-2023; spine fellowship Univ of Miami",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), University of Miami, Miami FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-monterey-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023, UTHealth Houston; spine fellowship University of Miami"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "107:phi:choi",
+  "name": "Phillip Choi",
+  "program_id": 107,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency Neurological Surgery UTHealth 2016-2023, Pitt MD 2016; Providence bio confirms UT Houston neurosurgical training with spine fellowship; co-authors UTHealth residents",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2016-2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Spokane WA (Providence)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/phillip-choi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://www.providence.org/doctors/neurosurgery/wa/spokane/phillip-choi-1801250121",
+    "type": "search_snippet",
+    "evidence": "completed neurosurgical training and an infolded spine fellowship at the University of Texas - Houston Health Science Center"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "107:hus:zeineddine",
+  "name": "Hussein Zeineddine",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and UTHealth bio: neurosurgery residency UTHealth 2017-2024, AUB MD; UTHealth neurosurgery faculty",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2017-2024; endovascular fellowship 2023-24, cerebrovascular/skull base fellowship 2024-25 (UTHealth)",
+  "current": "Assistant Professor neurosurgery (cerebrovascular/skull base), UTHealth Houston",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/hussein-zeineddine-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://med.uth.edu/neurosurgery/2024/08/26/hussein-a-zeineddine-md/",
+    "type": "search_snippet",
+    "evidence": "completed residency training in neurosurgery at McGovern Medical School at UTHealth Houston; Most Valuable Resident Award 2023"
+   }
+  ]
+ },
+ {
+  "key": "107:mat:mullarkey",
+  "name": "Matthew Mullarkey",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "UTHealth Neurosurgery bio: residency McGovern/UTHealth then Toronto fellowship; Temple MD 2017 on Doximity; co-author with UTHealth residents",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UTHealth neurosurgery residency (dates not on Doximity; entry 2017 after Temple MD 2017), neuro-oncology/skull base fellowship Toronto",
+  "current": "Assistant Professor neurosurgery, UTHealth Houston (joined faculty 2025)",
+  "sources": [
+   {
+    "url": "https://med.uth.edu/neurosurgery/2025/07/31/matthew-p-mullarkey-md/",
+    "type": "search_snippet",
+    "evidence": "search summary: completed residency in neurosurgery at McGovern Medical School at UTHealth Houston, then fellowship neurosurgical oncology and skull base at Univ of Toronto"
+   },
+   {
+    "url": "https://www.doximity.com/pub/matthew-mullarkey-md-52cd3ac1",
+    "type": "doximity",
+    "evidence": "Neurosurgery Houston; Temple Class of 2017 (no residency listed)"
+   }
+  ]
+ },
+ {
+  "key": "107:quo:nguyen",
+  "name": "Quoc-Bao Nguyen",
+  "program_id": 107,
+  "year_left": 2018,
+  "destination_program": "UTHealth / MD Anderson dermatology",
+  "destination_start_year": 2018,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists Residency Neurological Surgery UTHealth 2017-2018 (Texas A&M MD 2017); own practice site says intern year in neurosurgery at UTHealth Houston",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery (intern year)",
+    "start": 2017,
+    "end": 2018
+   },
+   {
+    "institution": "UTHealth / MD Anderson",
+    "specialty": "dermatology",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Only intern year in neurosurgery 2017-18, then dermatology residency UTHealth/MD Anderson; Mohs surgery",
+  "current": "dermatologist / Mohs surgeon, Austin TX",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/quoc-bao-nguyen-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2018; American Board of Dermatology"
+   },
+   {
+    "url": "https://baomd.us/about.html",
+    "type": "bio",
+    "evidence": "He completed his intern year in Neurosurgery at The University of Texas Health Science Center at Houston"
+   }
+  ]
+ },
+ {
+  "key": "107:sam:parker",
+  "name": "Samantha Parker",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 3,
+  "identity": "confirmed",
+  "identity_basis": "Memorial Hermann bio (listed as Samantha Parker Lane): neurosurgical residency UTHealth Houston, chief resident; listed as Samantha L Parker on UTHealth resident papers; the Doximity 'Samantha Parker' found is a York PA pulmonologist (different person)",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UTHealth neurosurgery residency (chief resident); dates not stated by source",
+  "current": "neurosurgeon, Memorial Hermann Mischer Neuroscience Associates Sugar Land TX",
+  "sources": [
+   {
+    "url": "https://memorialhermann.org/about-us/newsroom/press-releases/samantha-parker-lane-joins-mischer-neuroscience-associates-sugar-land",
+    "type": "search_snippet",
+    "evidence": "search summary: completed neurosurgical residency at UTHealth Houston at Memorial Hermann-Texas Medical Center, where she was chief resident"
+   }
+  ]
+ },
+ {
+  "key": "107:elv:lekka",
+  "name": "Elvira Lekka",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Memorial Hermann bio: second neurosurgery residency at McGovern/UTHealth after UK residency; Doximity lists Neuroendovascular fellow, Florence MD 2002; UTHealth-authored papers",
+  "residency_stated": [
+   {
+    "institution": "Salford Royal (UK)",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   },
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed second neurosurgery residency at UTHealth (entry 2018, IMG with prior UK training) plus neuroendovascular fellowship; dates not stated",
+  "current": "neurosurgeon, Memorial Hermann Mischer Neuroscience Associates Katy TX",
+  "sources": [
+   {
+    "url": "https://memorialhermann.org/about-us/newsroom/press-releases/elvira-lekka-md-joins-mna-katy",
+    "type": "bio",
+    "evidence": "completed a second neurosurgery residency at McGovern Medical School at UTHealth Houston (fetch summary)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/elvira-lekka-md",
+    "type": "doximity",
+    "evidence": "Neuroendovascular Fellow; University of Florence Class of 2002; no residency listed"
+   }
+  ]
+ },
+ {
+  "key": "107:jos:withrow",
+  "name": "Joseph Withrow",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Search results: 'PGY-5 neurosurgery resident at UTHealth Houston', UTHealth spine fellow page; Doximity MG Augusta MD 2018 (entry 2018); co-authors UTHealth residents",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UTHealth residency then spine fellowship (UTHealth spine fellow listing); now practising neurosurgeon Carolinas",
+  "current": "neurosurgeon, Carolina Neurosurgery & Spine Associates, Concord NC",
+  "sources": [
+   {
+    "url": "https://www.cnsa.com/providers/joseph-s-withrow-md",
+    "type": "bio",
+    "evidence": "search result: Carolina Neurosurgery & Spine Associates provider page; fellowship-trained neurosurgeon"
+   },
+   {
+    "url": "https://www.doximity.com/pub/joseph-withrow-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Concord NC; Medical College of Georgia Class of 2018 (no residency listed)"
+   }
+  ]
+ },
+ {
+  "key": "107:meh:kadipasaoglu",
+  "name": "Mehmet Cihan Kadipasaoglu",
+  "program_id": 107,
+  "year_left": 2020,
+  "destination_program": "Houston Methodist Hospital neurology",
+  "destination_start_year": 2021,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD/PhD McGovern 2018, Residency Neurological Surgery UTHealth 2018-2020, Neurology Houston Methodist 2021-2025; same name as Houston Methodist neurology roster in phase-2 notes",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2020
+   },
+   {
+    "institution": "Houston Methodist Hospital",
+    "specialty": "neurology",
+    "start": 2021,
+    "end": 2025
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Neurosurgery PGY1 at UTHealth 2018-2020 (Doximity range), then neurology residency Houston Methodist 2021-2025; epilepsy",
+  "current": "neurologist (epilepsy), UTHealth McGovern, Houston TX; ABPN neurology",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mehmet-kadipasaoglu-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurology, 2021-2025 Houston Methodist; Residency, Neurological Surgery, 2018-2020 UTHealth; ABPN Neurology"
+   }
+  ]
+ },
+ {
+  "key": "107:rya:mccormack",
+  "name": "Ryan McCormack",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UTHealth 2018-2025, Miami MD 2016; UTHealth Neurosurgery X post 'chief resident Ryan McCormack MD PhD' at CNS 2023",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2018-2025, chief resident; complex spine fellowship at UTHealth",
+  "current": "neurosurgeon (spine), Houston TX (Memorial Hermann/UTHealth)",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-mccormack-md-33f9115a",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025"
+   },
+   {
+    "url": "https://x.com/NeurosurgUTH/status/1702029644893921600",
+    "type": "search_snippet",
+    "evidence": "Our chief resident, Ryan McCormack, MD PhD, giving an oral presentation at CNS 23"
+   }
+  ]
+ },
+ {
+  "key": "107:dun:trimble",
+  "name": "Duncan Trimble",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UTHealth 2019-2026, McGovern MD 2019; NYU Langone faculty page appears in search",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity gives 2019-2026 (NY license 2026); search snippet says now Assistant Professor at NYU Grossman; treated as completed 2026",
+  "current": "Assistant Professor neurosurgery (spine), NYU Langone, Brooklyn NY",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/duncan-trimble-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026; Brooklyn NY"
+   },
+   {
+    "url": "https://nyulangone.org/doctors/1306308853/duncan-j-trimble",
+    "type": "search_snippet",
+    "evidence": "search summary: now an Assistant Professor at the Department of Neurosurgery at NYU Grossman School of Medicine"
+   }
+  ]
+ },
+ {
+  "key": "107:lau:zima",
+  "name": "Laura Zima",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 3,
+  "identity": "confirmed",
+  "identity_basis": "Search results: UTHealth Houston neurosurgery PGY-6 resident Laura Zima (Instagram/WINS feature), Nebraska MD 2019 (matches 2019 entry); Doximity/UCSF Benioff Children's neurosurgery page (CA license 2025)",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Left UTHealth for a UCSF (Benioff Children's neurosurgery) position in 2025-26 as 'Resident Physician'; UCSF page/ Doximity list no training dates, so completion is inferred (probable) and could be a transfer or fellowship year -- worth a follow-up",
+  "current": "UCSF Benioff Children's Hospitals neurosurgery, San Francisco CA (Doximity: Resident Physician)",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/laura-zima-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, San Francisco CA; University of Nebraska College of Medicine Class of 2019; CA license 2025-2028"
+   },
+   {
+    "url": "https://www.ucsfbenioffchildrens.org/providers/laura-zima",
+    "type": "program_page",
+    "evidence": "Laura Zima, MD - Neurosurgery (UCSF Benioff Children's); MD University of Nebraska College of Medicine"
+   }
+  ]
+ },
+ {
+  "key": "107:shi:bindal",
+  "name": "Shivani Bindal",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 3,
+  "identity": "confirmed",
+  "identity_basis": "Search results: Shivani Bindal MD is a UTHealth McGovern neurosurgery resident (PGY-6, chief resident 2024 per snippet), UT Southwestern MD 2019 (matches 2019 entry); Doximity co-authors UTHealth residents",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity (Resident Physician, TX license 2026-2028, no training dates); WebMD lists Neurological Surgery Houston; completion in 2026 is consistent but not directly stated",
+  "current": "neurosurgery, Houston TX (Doximity: Resident Physician)",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shivani-bindal-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Houston TX; UT Southwestern Class of 2019; TX license 2026-2028"
+   },
+   {
+    "url": "https://med.uth.edu/neurosurgery/education/residency/current-residents/",
+    "type": "search_snippet",
+    "evidence": "search summary: neurosurgical resident (PGY-6) at McGovern Medical School at UTHealth Houston; chief resident 2024"
+   }
+  ]
+ },
+ {
+  "key": "107:ank:chandra",
+  "name": "Ankush Chandra",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: PGY-5 neurosurgery resident McGovern/UTHealth, Wayne State MD 2020; UTHealth news: PGY-6 chief resident Ankush Chandra",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UTHealth neurosurgery resident (chief resident per UTHealth news). Doximity also lists an odd 'Family Medicine residency, Conroe 2019-2022' overlapping MD 2020, evidently a stale/erroneous entry",
+  "current": "neurosurgery resident (chief), UTHealth Houston",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ankush-chandra-md-f406c1f9",
+    "type": "doximity",
+    "evidence": "currently a PGY-5 neurosurgery resident at McGovern Medical School at UTHealth; Wayne State MD 2020"
+   },
+   {
+    "url": "https://med.uth.edu/blog/2026/01/06/chandra-wins-best-abstract-in-medical-education-and-training/",
+    "type": "search_snippet",
+    "evidence": "search summary: PGY-6, chief resident in the Vivian L. Smith Department of Neurosurgery at McGovern Medical School"
+   }
+  ]
+ },
+ {
+  "key": "107:dal:sheinberg",
+  "name": "Dallas Sheinberg",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery UTHealth 2020, Miami MD 2020; search results: UTHealth chief resident awards 2023/2025; co-authors UTHealth residents",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UTHealth neurosurgery resident (chief-resident awards 2023, 2025)",
+  "current": "neurosurgery resident, UTHealth Houston",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dallas-sheinberg-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020, UTHealth; Class of 2020 Univ of Miami"
+   }
+  ]
+ },
+ {
+  "key": "107:kyl:connor",
+  "name": "Kyle O'Connor",
+  "program_id": 107,
+  "year_left": 2023,
+  "destination_program": "Medical City UNT/TCU orthopaedic surgery (probable)",
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "probable",
+  "identity_basis": "Doximity 'Kyle O'Connor' at UTHealth address 6431 Fannin, OU College of Medicine 2020, with Operative Neurosurgery papers (Kyle P O'Connor); Medical City UNT/TCU orthopaedic resident bio Kyle O'Connor, OU College of Medicine graduate. Link between the two is name+school only; no page states both",
+  "residency_stated": [
+   {
+    "institution": "Medical City UNT/TCU (HCA)",
+    "specialty": "orthopaedic surgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Medical City UNT/TCU orthopaedic surgery residency page lists Kyle O'Connor (OU MD) as PGY-3; consistent with phase-2 finding. Doximity gives no training entries. Exact year left not established (last seen at UTHealth PGY3 Dec-2022)",
+  "current": "orthopaedic surgery resident (per program page)",
+  "sources": [
+   {
+    "url": "https://www.johnriehl.com/medcity-ortho-residents/",
+    "type": "program_page",
+    "evidence": "Kyle O'Connor, MD - PGY 3; University of Oklahoma College of Medicine; Baker Research Fellowship"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kyle-o-connor-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Houston TX; University of Oklahoma College of Medicine Class of 2020; no residency listed"
+   }
+  ]
+ },
+ {
+  "key": "107:ant:dono-ostorga",
+  "name": "Antonio Dono-Ostorga",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (listed as Antonio Dono): Residency Neurological Surgery UTHealth 2021-2028, postdoc UTHealth 2019-2021; WebMD/NPI list Antonio Dono Ostorga at 6400 Fannin",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current resident; Doximity projects end 2028",
+  "current": "neurosurgery resident, UTHealth Houston",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/antonio-dono-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 - 2028"
+   }
+  ]
+ },
+ {
+  "key": "107:ari:sabbagh",
+  "name": "Aria Sabbagh",
+  "program_id": 107,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: McGovern/UTHealth MD class 2021, Resident Physician at 6400 Fannin; UTHealth neurosurgery current-residents page appears in search summary",
+  "residency_stated": [
+   {
+    "institution": "UTHealth Houston",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UTHealth neurosurgery resident; Doximity lists no training entries",
+  "current": "neurosurgery resident, UTHealth Houston",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/aria-sabbagh-md-fef20abf",
+    "type": "doximity",
+    "evidence": "Resident Physician, Houston TX; McGovern Medical School at UTHealth Class of 2021"
+   },
+   {
+    "url": "https://med.uth.edu/neurosurgery/education/residency/current-residents/",
+    "type": "search_snippet",
+    "evidence": "search summary: recognized in the UTHealth neurosurgery residency program in 2026, currently a resident"
+   }
+  ]
+ }
+]

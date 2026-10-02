@@ -1,0 +1,244 @@
+{
+ "program_id": 96,
+ "name": "University of Nebraska Medical Center College of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.unmc.edu/neurosurgery/ (old Section of Neurosurgery static site: residents.htm, ns1-5.htm)",
+   "from": "1997",
+   "to": "2010-06"
+  },
+  {
+   "url": "http://www.unmc.edu/surgery/neurosurgery.htm, /surgery/neurosurgery_residents.htm (Dept of Surgery 'RedDot' site; www.unmc.edu/neurosurgery/ JS-redirects here)",
+   "from": "2011-11",
+   "to": "2014-08"
+  },
+  {
+   "url": "http://www.unmc.edu/surgery/residencies-fellowships/neurosurgery-residency/residents.html (+ /surgery/divisions/neurosurgery/; Cascade CMS, Division of Neurosurgery)",
+   "from": "2014-10",
+   "to": "2017-02"
+  },
+  {
+   "url": "https://www.unmc.edu/neurosurgery/education/residency/residents.html (Department of Neurosurgery site; roster embedded as allItemsList JSON from 2024)",
+   "from": "2021-04",
+   "to": "2026-09 (live)"
+  },
+  {
+   "url": "https://www.unmc.edu/neurosurgery/education/alumni.html -> /education/residency/alumni.html (graduates list)",
+   "from": "2021-06",
+   "to": "2026-09 (live)"
+  },
+  {
+   "url": "www.nebraskamed.com/neurosurgery (hospital patient-care pages; no resident roster)",
+   "from": "2019",
+   "to": "2021"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2020-2021",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2021-2022"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2017-2018": "No roster capture. Wayback: last capture of surgery/.../neurosurgery-residency/residents.html is 2017-02-08; www.unmc.edu/neurosurgery only 301s (2017-06, 2017-10), whole www.unmc.edu/surgery host has 5 URLs captured in 2018, 22 in 2019, 32 in 2020, none a neurosurgery roster. Common Crawl 2017-2021 (edu,unmc)/neurosurgery and /surgery/residencies-fellowships/neurosurgery): only neurosurgery-residency/index.html (2017-12, 2018-03, 2018-11), no residents page. Reconstructed 9 bracketed people (seen 2016-17 and 2020-21 or alumni). Entrants 2017 (Alvarez, Menousek) are first seen at PGY-4 in 2020-21 and are NOT reconstructed. Zack Smith (PGY-3 2016-17) not reconstructed. PHASE 2: gapaudit 2017-2022 on www.unmc.edu/surgery, /neurosurgery, /gme, /com, nebraskamed.com: no roster, no per-resident page, no PDF (only a 2018 301 for the old shamsnia-sam.jpg). The CC 2017-12/2018-03/2018-11 residency index pages link to '2017-2018 Residents'/'2018-2019 Residents' (residents.html) but that page was never captured by Wayback (last 2017-02-08) or CC. CC-MAIN-2018-43 and 2020-16 retried successfully: no neurosurgery roster. Entrants 2017-2019 now reconstructed (alumni-page confirmed).",
+  "2018-2019": "Same as 2017-18 (no capture on any host, CC nothing). Reconstructed 7 bracketed people. Entrants 2017-2018 (Alvarez, Menousek, Mezzacappa, Wang) not reconstructed (first seen 2020-21).",
+  "2019-2020": "Same as 2017-18. Reconstructed 7 bracketed people. Entrants 2017-2019 (Alvarez, Menousek, Mezzacappa, Wang, Davidson/Farrell, Weisbrod) not reconstructed.",
+  "2021-2022": "residents.html captured 2021-06-16 (titled 2020-2021) then next 2022-08-07 (titled 2022-2023); gapaudit 2021-07..2022-07 on www.unmc.edu/neurosurgery shows no roster URL; CC 2021-39/2021-43/2021-49/2022-05/2022-21 no residents page. Reconstructed 12 bracketed people (2020-21 and 2022-23, or alumni 2022). 2021 entrants Opperman and Shearin (PGY-2 in 2022-23) not reconstructed. PHASE 2: 2021 entrants Opperman and Shearin added as reconstructed PGY-1 (seen PGY-2 2022-23; NPI June 2021, Omaha; Opperman = UNMC 2021 Browne Award).",
+  "2013-2014": "Observed via 2014-08-31 capture that is still titled '2013-2014 Residents' (content-dated: Schmidt/Tenny PGY-1); the 2013-06 capture still showed 2012-13.",
+  "2020-2021": "Observed via 2021-06-16 capture titled '2020-2021 Residents' (end of year).",
+  "2026-2027": "Live page titled '2026-2027 Neurosurgery Residents', PGYs advanced, new interns Ambreen and Ruiz Rodriguez; loaded as live."
+ },
+ "alumni_page": "https://www.unmc.edu/neurosurgery/education/residency/alumni.html",
+ "departures": [
+  {
+   "name": "Sam Shamsnia",
+   "last_ay": "2014-2015",
+   "last_pgy": 5,
+   "note": "TRANSFERRED to Tulane/Ochsner (66): PGY5 there 2016-17 and 2017-18, Tulane alumni 2020. training_history row added (end_year 2015)."
+  },
+  {
+   "name": "Zack Smith",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "note": "Left between Feb 2017 and Jun 2020; outcome UNKNOWN. No destination on any loaded roster, no Nebraska-affiliated publication, no matching NPI (no Zachary/Zack Smith enumerated ~2014 in Nebraska). The adjudicator's NPI 'switched specialty' was a name-only match and is rejected. Row added with completed='unknown'."
+  },
+  {
+   "name": "Ahmed Mansi",
+   "last_ay": "2022-2023",
+   "last_pgy": 3,
+   "note": "TRANSFERRED to University of Chicago (78) at PGY4 2023-24. training_history row added (end_year 2023)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Angelique Walstrom",
+   "first_ay": "2012-2013",
+   "first_pgy": 2,
+   "note": "Joined at PGY-2 in July 2012 (Feb 2012 roster has only Robbins at PGY-1); origin unknown; completed 2017."
+  },
+  {
+   "name": "Juan Ruiz Rodriguez",
+   "first_ay": "2026-2027",
+   "first_pgy": 1,
+   "note": "From University of Washington (114; PGY-3 2024-25), restarted as PGY-1 at Nebraska 2026-27 (live bio: UPR School of Medicine, Arecibo PR)."
+  }
+ ],
+ "residents_2011plus": 32,
+ "adjudication_summary": {
+  "COMPLETED": 23,
+  "IN TRAINING": 13,
+  "LEFT -> TRANSFERRED": 2,
+  "LEFT -> outcome unknown": 1
+ },
+ "problems": "None outstanding for Common Crawl: CC-MAIN-2020-16 and CC-MAIN-2018-43 were retried in phase 2 (prefixes edu,unmc)/neurosurgery, /surgery, /surgery/residencies-fellowships/neurosurgery) and both completed (no neurosurgery roster). Carlos Alvarez has 2017-2019 papers with Miami and Iowa neurosurgery affiliations (pre-residency research, Ross University MD); taken as a 2017 PGY-1 entrant (NPI 2017-02, PGY-7 2023-24), but a later start cannot be fully excluded. Data quirks as phase 1: Gard PGY-3 twice; Davidson = Farrell; Alvarez alumni year 2025 vs PGY-7 2023-24 + neurovascular fellow 2024-25.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 6,
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "archived/live roster"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "archived/live roster"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2014-08-31 capture still titled 2013-2014, content-dated (Schmidt/Tenny PGY-1)"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "archived/live roster"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "archived/live roster"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "archived/live roster"
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "no roster archived anywhere; everyone on the 2016-17 roster is accounted for except Zack Smith (left 2017-20, year unknown); 2017 entrants Alvarez and Menousek confirmed by alumni page + NPI enumeration 2017; classes 2016-2019 each at complement (2) when next seen. Only an entrant who arrived and left entirely inside the gap could be hidden."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "as 2017-18; 2018 entrants Mezzacappa, Wang confirmed by alumni page + NPI 2018; only Zack Smith's exact leaving year is unknown"
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "as 2017-18; 2019 entrants Farrell (Davidson), Weisbrod confirmed by alumni page + NPI 2019; Schmidt/Tenny graduated 2020"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2021-06-16 capture titled 2020-2021 (end of year)"
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "none",
+   "reason": "bracketed by Jun 2021 and Aug/Dec 2022 rosters: all 2020-21 residents present in 2022-23 or graduated 2022 (alumni); 2021 entrants Opperman, Shearin = complement 2 (NPI enumerated Jun 2021, Omaha)"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "archived/live roster"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "archived/live roster"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "archived/live roster"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "archived/live roster"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page, PGYs advanced, new interns Ambreen and Ruiz Rodriguez"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2017-2022: www.unmc.edu/surgery, www.unmc.edu/neurosurgery, www.unmc.edu/gme, www.unmc.edu/com, www.nebraskamed.com/neurosurgery, www.nebraskamed.com/for-healthcare-professionals",
+   "Wayback prefix list of /surgery/residencies-fellowships/neurosurgery-residency/ and /surgery/divisions/neurosurgery/ 2016-2022 incl. images",
+   "phase-1 CC downloads re-read (2017-12, 2018-03, 2018-11 residency index pages: nav only)",
+   "Common Crawl retry CC-MAIN-2020-16 and CC-MAIN-2018-43 (3 prefixes) - both succeeded, no roster",
+   "Department pages 2021: Kenneth Browne Award list, news index, faculty publications",
+   "UNMC newsroom neurosurgery department feed (live, 12 pages) + 2016-2023 posts scanned for resident mentions; newsroom site search",
+   "PubMed affiliation mining (Nebraska AND Neurosurg) 2016-2023; Europe PMC for Alvarez",
+   "NPPES: Zack/Zachary/Zackary Smith variants, all Smiths in NE enumerated 2013-15, neurosurgery Smiths; enumeration dates of 2017-2021 entrants; Walstrom",
+   "crossmatch.json (Mansi -> UChicago, Shamsnia -> Tulane) and all loaded rosters for Smith/Walstrom/Ruiz Rodriguez",
+   "live residents.html refetched 2026-09-28 (Ruiz Rodriguez bio)"
+  ],
+  "found": [
+   "No 2017-2020 or 2021-22 roster exists in any archive",
+   "Entrants 2017-2019 and 2021 confirmed as PGY-1 starters via alumni page, NPI enumeration dates (2017-06, 2018-05/06, 2019-03/06, 2021-06) and UNMC Browne Award list (Menousek 2017, Mezzacappa 2018, Pistone 2020, Opperman 2021); added as reconstructed rows",
+   "PubMed 2016-2023 surfaced no unlisted Nebraska neurosurgery resident",
+   "Ruiz Rodriguez confirmed on live roster (same UPR/Arecibo bio as UW)",
+   "Zack Smith: no destination or publication; NPI switch rejected"
+  ],
+  "remaining": [
+   "Zack Smith's exact leaving year (2017, 2018, 2019 or 2020) and destination",
+   "In 2017-20 a hypothetical extra entrant or transfer-in who arrived and left inside the gap cannot be excluded (low: every entry class is at complement 2 when next seen, and Smith's 2014 slot stayed vacant)",
+   "Walstrom's PGY-1 site (2011-12) unknown"
+  ]
+ }
+}

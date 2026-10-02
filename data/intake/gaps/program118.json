@@ -1,0 +1,297 @@
+{
+ "program_id": 118,
+ "name": "Virginia Commonwealth University Health System Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.neurosurgery.vcu.edu/people/residents.html",
+   "from": "2008",
+   "to": "2017-01",
+   "note": "old static site; flat alphabetical list, no PGY; footer 'Updated:' date used for content-dating; omitted PGY-7s 2011-15"
+  },
+  {
+   "url": "http://www.neurosurgery.vcu.edu/people/graduates.html",
+   "from": "2008",
+   "to": "2017-01",
+   "note": "old graduates list"
+  },
+  {
+   "url": "https://neurosurgery.vcu.edu/residency/current-residents/",
+   "from": "2017-05",
+   "to": "2019/2020",
+   "note": "CMS, seniority-ordered list, no PGY; Wayback only 2017-06..08, Common Crawl 2017-05..2018-09"
+  },
+  {
+   "url": "https://neurosurgery.vcu.edu/residency/alumni/",
+   "from": "2017-05",
+   "to": "2020"
+  },
+  {
+   "url": "https://neurosurgery.vcu.edu/education/residency/",
+   "from": "2021-01 (linked from homepage)",
+   "to": "live",
+   "note": "roster embedded in residency page; first archived 2022-09; PGY headings only on live page (2026)"
+  },
+  {
+   "url": "https://neurosurgery.vcu.edu/alumni/",
+   "from": "2021-01",
+   "to": "live",
+   "note": "alumni list through class of 2022 only"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2019-2020",
+  "2020-2021",
+  "2021-2022"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Wayback 2012-04-23 (content 'Updated 08/04/2011'). INCOMPLETE: PGY-7 Tiffany Powell (alumni 2012) not listed; old site omitted PGY-7s.",
+  "2012-2013": "Wayback 2013-02-21 (Updated 12/13/2012). INCOMPLETE: PGY-7s Machinis, Stanger (alumni 2013) not listed.",
+  "2013-2014": "Wayback 2014-04-25 (Updated 08/05/2013). INCOMPLETE: PGY-7 Ridder (alumni 2014) not listed.",
+  "2014-2015": "Wayback 2014-10-08 (Updated 09/18/2014). INCOMPLETE: PGY-7 Hutchins (alumni 2015) not listed.",
+  "2015-2016": "Wayback 2015-11-26 (Updated 11/06/2015); includes PGY-7s. Sep-2016 capture is identical (stale).",
+  "2016-2017": "No usable Aug-Jan capture (Sep-2016 old page stale). Used new CMS page Wayback 2017-06-01 (also CC 2017-05-25); content-dated 2016-17 (2017 grads still listed, 2016 interns last). Hajec/Rinonos disappear somewhere between Nov 2015 and May 2017.",
+  "2017-2018": "Not in Wayback after 2017-08 (Aug-2017 capture = unchanged 2016-17 list). Common Crawl CC-MAIN-2017-39 (2017-09-26) used.",
+  "2018-2019": "Common Crawl CC-MAIN-2018-39 (2018-09-20). CC-MAIN-2018-30 index fetch failed (not needed).",
+  "2019-2020": "No roster capture: Wayback has no current-residents capture after 2017-10; Common Crawl 2019-2020 crawls had only /residency/apply/, /facilities/ and a stale profile. Reconstructed bracketed/alumni-confirmed residents only. Entrant class of 2019 (Fleming, Leonard) not reconstructed -> class size unobserved. PHASE2: CC-MAIN-2020-16 retried: 0 records. Homepage captures 2019-01..2022-06 link-audited: /residency/current-residents/ (2019) and /education/residency/ (from Dec 2020) have no captures in the gap; /news/ first captured 2022-09. NPI enumeration dates: Fleming 2019-06-03, Leonard 2019-05-01, Atkinson 2020-06-05, Poulos 2020-06-04, Caras 2021-04-22, Molian 2021-04-02 (all Neurological Surgery, VA).",
+  "2020-2021": "No roster capture (site migrated to /education/residency/ ~2021; first Wayback/CC capture 2022-09). Reconstructed bracketed only; 2019 and 2020 intern classes unobserved.",
+  "2021-2022": "No roster capture. Reconstructed bracketed only; 2019-2021 entrants unobserved until 2022-23. Sep-2022 capture (Whitaker-Lea still listed, 2022 interns absent) is a lagging state, not a 2021-22 roster.",
+  "2022-2023": "Wayback 2023-02-05 (Sep-2022 capture lagging). Seniority order, no PGY labels.",
+  "2023-2024": "Wayback 2024-02-23 (= Jul-2023 content; no Aug-Jan capture).",
+  "2024-2025": "Wayback 2024-11-14.",
+  "2025-2026": "Wayback 2025-12-09; PGY labels only on PGY-1/2.",
+  "2026-2027": "Live page 2026-09-27 with PGY headings; advanced vs 2025-26."
+ },
+ "alumni_page": "https://neurosurgery.vcu.edu/alumni/",
+ "departures": [
+  {
+   "name": "Eric Merrill",
+   "last_ay": "2011-2012",
+   "last_pgy": 5,
+   "note": "Entry 2007 confirmed: on Jun-2008 list; NPI 1063620748 enumerated 2007-05-18 (trainee, Richmond). Listed Aug-2011 (PGY-5), absent Dec-2012 (would be listed as PGY-6). Not on alumni list. Destination unknown (phase-1 NPI 'switch' call discarded).",
+   "departure_type": "unknown"
+  },
+  {
+   "name": "Marygrace Hajec",
+   "last_ay": "2015-2016",
+   "last_pgy": 4,
+   "note": "Last seen Nov 2015 (est. PGY-4), gone by May 2017; not alumna. VCU profile: surgical internship at Morristown Memorial (so may have joined VCU at PGY-2 in 2012). 2026 ACOEM guidance paper co-author (no affiliation) hints occupational medicine; unconfirmed.",
+   "departure_type": "unknown"
+  },
+  {
+   "name": "Serendipity Zapanta Rinonos",
+   "last_ay": "2015-2016",
+   "last_pgy": 2,
+   "note": "Last seen Nov 2015 (PGY-2), gone by May 2017. Publications 2022-23 affiliated Dept of Neurology, UCLA (PMIDs 35386566, 37128507, 37152809) -> SWITCHED to neurology.",
+   "departure_type": "switched_specialty"
+  },
+  {
+   "name": "Dean Leonard",
+   "last_ay": "2024-2025",
+   "last_pgy": 6,
+   "note": "Listed Jan and May 2025 (PGY-6), profile captured 2025-06-16; absent Aug 2025 onward while Fleming continued. Left at end of PGY-6; destination unknown (no post-2024 publications).",
+   "departure_type": "unknown"
+  },
+  {
+   "name": "Brandon Toll",
+   "last_ay": "2024-2025",
+   "last_pgy": 2,
+   "note": "Listed 2024-11-14, absent 2025-01-18 and after: left MID-PGY-2 (Nov 2024-Jan 2025). Destination unknown.",
+   "departure_type": "unknown"
+  },
+  {
+   "name": "Shawn D'Souza",
+   "last_ay": "2024-2025",
+   "last_pgy": 1,
+   "note": "Listed through May 2025 (PGY-1), absent Aug 2025. 2026 papers: Dept of Neurosurgery, Washington University in St. Louis, but not on WashU residency rosters -> likely research role; phase-1 NPI 'switch' call not supported. Outcome unknown.",
+   "departure_type": "unknown"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Viktoras Palys",
+   "first_ay": "2011-2012",
+   "first_pgy": 2,
+   "note": "absent from Jan-2011 (2010-11) list; graduated 2017 with Brzezicki (entry 2010); VCU profile: surgical internship UIC Metropolitan Group Hospitals."
+  },
+  {
+   "name": "Steven Wakeman",
+   "first_ay": "2016-2017",
+   "first_pgy": 2,
+   "note": "absent from Nov-2015 (2015-16) list; graduated 2022 with 2015 class"
+  },
+  {
+   "name": "Devon Mitchell",
+   "first_ay": "2025-2026",
+   "first_pgy": 2,
+   "note": "Listed PGY-2 Dec 2025; absent all 2024-25 captures. NPI (2024-03) also lists Surgery (IL): prior PGY-1 probably a surgery year in Illinois. Took a vacated slot (Toll left mid-2024-25, D'Souza after 2024-25)."
+  },
+  {
+   "name": "Marissa Suchyta",
+   "first_ay": "2025-2026",
+   "first_pgy": 2,
+   "note": "Listed PGY-2 Dec 2025; absent 2024-25. MD-PhD, Mayo Clinic plastic-surgery research affiliation through 2025; PGY-1 site not established."
+  }
+ ],
+ "residents_2011plus": 37,
+ "adjudication_summary": {
+  "COMPLETED": 26,
+  "IN_TRAINING": 14,
+  "LEFT_switched_specialty": 1,
+  "LEFT_unknown": 5
+ },
+ "problems": "Old site (2011-2015) omitted PGY-7s (Powell 2011-12, Machinis/Stanger 2012-13, Ridder 2013-14, Hutchins 2014-15) - not reconstructed because a capture exists; completion recorded via training_history alumni rows. No PGY labels on any roster before 2025-12: PGYs inferred from alumni graduation year / seniority order / first appearance (Merrill, Hajec, Rinonos PGYs are estimates). Lisa Feldman appears on the Jan-2011 (2010-11) list but graduated 2018 with the 2011 class; entry set to 2011 per graduation/seniority order (possible extra year). 2019-20..2021-22 unobserved: 2019, 2020, 2021 intern classes first seen 2022-23 (as PGY-4/3/2) - any loss in those classes before 2022 would be invisible. Alumni page stops at class of 2022. Common Crawl CC-MAIN-2018-30 cluster.idx range fetch failed (July 2018; not needed). Jul/Aug-2017 Wayback current-residents captures are stale 2016-17 content. PHASE2: OpenAlex budget exhausted for this IP (not used). Wayback fetches were slow (~1h for 10 captures) but completed.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Incomplete (PGY-7 Powell omitted), but she was PGY-6 on the Jan-2011 list and is a 2012 alumna; only PGY-7s were omitted, so no one below PGY-7 could be missed."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-7s Machinis/Stanger omitted; both PGY-6 in 2011-12 and 2013 alumni. Merrill (entry 2007, confirmed by NPI enumeration May 2007) would be PGY-6 and listed, so his absence is a real departure."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-7 Ridder omitted; PGY-6 in 2012-13 and 2014 alumnus."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-7 Hutchins omitted; PGY-6 in 2013-14 and 2015 alumna."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete list incl. PGY-7s (Nov 2015)."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Content from May/Jun 2017 CMS page; Hajec/Rinonos left at some point between Nov 2015 and May 2017 (exact AY unresolved); no one else could enter and leave inside that window without breaking a complement-2 class (2016 class = O'Brien, Verma)."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl Sep 2017."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl Sep 2018."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster exists (Wayback, CC incl. retried 2020-16, homepage link audit). Complement 2; 2019/2020/2021 classes each show exactly 2 in 2022-23, all six have NPIs enumerated Apr-Jun of their entry year (VA, Neurological Surgery) => started as VCU PGY-1s; all earlier classes bracketed or alumni-confirmed; PubMed affiliation mining 2018-23 found no unlisted resident. Only an above-complement entrant who left before 2022 could be missed."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster exists (Wayback, CC incl. retried 2020-16, homepage link audit). Complement 2; 2019/2020/2021 classes each show exactly 2 in 2022-23, all six have NPIs enumerated Apr-Jun of their entry year (VA, Neurological Surgery) => started as VCU PGY-1s; all earlier classes bracketed or alumni-confirmed; PubMed affiliation mining 2018-23 found no unlisted resident. Only an above-complement entrant who left before 2022 could be missed."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster exists (Wayback, CC incl. retried 2020-16, homepage link audit). Complement 2; 2019/2020/2021 classes each show exactly 2 in 2022-23, all six have NPIs enumerated Apr-Jun of their entry year (VA, Neurological Surgery) => started as VCU PGY-1s; all earlier classes bracketed or alumni-confirmed; PubMed affiliation mining 2018-23 found no unlisted resident. Only an above-complement entrant who left before 2022 could be missed."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Feb 2023."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Feb 2024 (Jul-2023 content); 2023 interns Heydari, Toll present."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Nov 2024; Jan/May 2025 captures also checked (Toll gone by Jan 2025)."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback Dec 2025 (Aug 2025 capture shows Leonard, D'Souza, Toll gone before interns/joiners were added)."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page with PGY headings."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2004": 7,
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "phase2": {
+  "searched": [
+   "Parsed unparsed phase-1 CC captures (2018-2022 resident profile pages: no PGY/class data)",
+   "Wayback CDX of residents.html (2008-2016), education/residency (2022-2026, incl. Jan/May/Aug 2025), current-residents, profile pages of Leonard and D'Souza",
+   "Homepage link audit 2019-01..2022-06 (10 captures); /news/ prefix CDX",
+   "Common Crawl 2020 crawls incl. retry of failed CC-MAIN-2020-16 (0 records)",
+   "PubMed affiliation mining 'Virginia Commonwealth' + neurosurg 2018-2023 (271 PMIDs)",
+   "PubMed/Europe PMC author searches for Merrill, Hajec, Rinonos, Leonard, Toll, D'Souza, Mitchell, Suchyta",
+   "NPPES for departures, joiners and 2018-2021 entrants",
+   "crossmatch.json (no VCU pairs); WashU (120) and Westchester (122) rosters for D'Souza"
+  ],
+  "found": [
+   "Toll left mid-2024-25 (between 2024-11-14 and 2025-01-18), not after it",
+   "Leonard and D'Souza listed through May 2025; left at the 2025 year-end",
+   "Rinonos switched to neurology (UCLA Neurology publications 2022-23)",
+   "D'Souza at WashU Neurosurgery (publications 2026) but not a WashU resident",
+   "Merrill entry 2007 confirmed via NPI enumeration; PGY-5 at departure",
+   "Hajec and Palys had surgical internships elsewhere (VCU profiles)",
+   "2019-2021 entrants' NPIs enumerated in spring of entry year (VA neurosurgery)",
+   "Roster-only graduations 2023-2026: O'Brien, Verma, Hachmann, Patel, Rajagopal, Shah, Fleming"
+  ],
+  "remaining": [
+   "2019-20..2021-22 still have no roster (significance low)",
+   "Exact AY of Hajec/Rinonos departure (2016 vs during 2016-17)",
+   "Destinations of Merrill, Hajec, Leonard, Toll, D'Souza"
+  ],
+  "training_history_rows_added": 17
+ }
+}

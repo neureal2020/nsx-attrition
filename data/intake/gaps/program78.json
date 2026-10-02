@@ -1,0 +1,308 @@
+{
+ "program_id": 78,
+ "name": "University of Chicago Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "siss10.bsd.uchicago.edu/common/resfellows.cfm?SectionID=neuro (Dept of Surgery Resident & Fellow Listing)",
+   "from": "2008-12",
+   "to": "2012-09 (not updated after 2011-12)"
+  },
+  {
+   "url": "surgery.uchicago.edu/specialties/neurosurgery/education/residentsbios/ (Section of Neurosurgery within Dept of Surgery)",
+   "from": "2011-10",
+   "to": "2016-02"
+  },
+  {
+   "url": "surgery.uchicago.edu/pdf/ResFellowList.pdf (Dept of Surgery Resident/fellow listing, all sections)",
+   "from": "2014-12",
+   "to": "2014-12 (single capture)"
+  },
+  {
+   "url": "surgerysupport.uchicago.edu/dept/resfellows.asp?sectionid=neuro (listing linked 2014; captured 2012-10..2013-11 only)",
+   "from": "2012-10",
+   "to": "2013-11"
+  },
+  {
+   "url": "surgery.uchicago.edu/pdf/ResidentListing.pdf (same file as surgery-sites.uchicago.edu/sites/surgery.uchicago.edu/files/uploads/ResidentListing16.pdf)",
+   "from": "2015-12",
+   "to": "2016-11"
+  },
+  {
+   "url": "surgery.uchicago.edu/education/residency/neurosurgery/residents",
+   "from": "2016-09",
+   "to": "2018-05 (Wayback 2016 only; Common Crawl 2017-09..2018-05); parent 301 from 2019-08"
+  },
+  {
+   "url": "surgery.uchicago.edu/education/neurosurgery-residency (roster cards on program page)",
+   "from": "2019-09",
+   "to": "2021-05; 404 from 2021-10"
+  },
+  {
+   "url": "neurosurgery.uchicago.edu/education/neurological-surgery-residency (new Dept of Neurosurgery site; no names)",
+   "from": "2022-01",
+   "to": "live"
+  },
+  {
+   "url": "neurosurgery.uchicago.edu/education/meet-our-residents",
+   "from": "2024-05 (linked from 2022-11 but not archived earlier)",
+   "to": "2025-01"
+  },
+  {
+   "url": "neurosurgery.uchicago.edu/education/meet-our-residents-and-fellows",
+   "from": "2025-04",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "surgery.uchicago.edu/page/2018-graduates-0 (Dept of Surgery 2018 graduates)",
+   "from": "2019-07",
+   "to": "2019-07"
+  },
+  {
+   "url": "surgery.uchicago.edu/pdf/UC%20OpWord.pdf, /about/newsletter/*.pdf (Dept of Surgery 'Operative Word' newsletter: new interns + graduates)",
+   "from": "Fall 2014",
+   "to": "Feb 2015 (later issues not archived)"
+  },
+  {
+   "url": "neurosurgery.uchicago.edu/news/newsletter -> mailchi.mp / us19.campaign-archive.com quarterly newsletters (graduations, new residents)",
+   "from": "2024-03",
+   "to": "2026-09 (live)"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2019-2020",
+  "2020-2021",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2018-2019",
+  "2021-2022",
+  "2022-2023"
+ ],
+ "missing_years": [
+  "2018-2019",
+  "2021-2022",
+  "2022-2023"
+ ],
+ "gap_details": {
+  "2011-2012": "Dept of Surgery listing 2011-10-15 is complete: there is no PGY-5 or PGY-7 resident (empty 2005 and 2007 classes). The bios page agrees. One PGY-7 fellow (Tanya Filardi) was excluded.",
+  "2014-2015": "PHASE 2: OBSERVED. Dept of Surgery 'Resident/fellow listing' PDF (surgery.uchicago.edu/pdf/ResFellowList.pdf, Wayback 2014-12-01), Neurosurgery section, 11 residents: Vasenina 1, Mar 2, Polster 2, Hobbs 3, Ralston 4, Stamates 4, Bhansali 5, Khader Eliyas 5, Shakur 6, Dey 7, Mansour 7. Operative Word Fall 2014 confirms Vasenina as the only 2014 neurosurgery intern and Wong as a 2014 graduate.",
+  "2017-2018": "Seen only through Common Crawl CC-MAIN-2018-22 (2018-05-23). The CC captures of 2017-09, 2017-11 and 2018-01 still showed the 2016-17 list, and Wayback has no capture of this page after 2016-11.",
+  "2018-2019": "Still unobserved after phase 2: Wayback gapaudit of surgery/surgery-sites/gme hosts, linkaudit of the residency/alumni pages, and Common Crawl over the whole surgery.uchicago.edu host for every 2018-2019 crawl (2019-13 retried OK) found no residents page after 2018-05 (the residency page 2018-08..2019-06 carries no names; the 'Resident & Fellow Listing' link still pointed to the 2016 PDF). Bracketed 6 reconstructed. Hobbs (PGY-7) inferred graduate (NPI neurosurgery practice IN). Batbold NPI enumerated 2018-06 (IL) -> 2018 intern. Heather Smith left for UChicago pathology (2018 or 2019); Ahmadpour joined at PGY-2 (2018) or PGY-3 (2019).",
+  "2020-2021": "The only capture is 2021-05-18 (spring). PGYs have advanced and the 2020 interns are listed, so it is used as 2020-21.",
+  "2021-2022": "Still no roster capture (CC incl. retried 2022-05/2022-21 and whole neurosurgery host; Wayback). Program history page neurosurgery.uchicago.edu/history-women (J. Hekmat-panah, Feb 2022): 'Of our eleven neurosurgical residents in the 2021-2022 academic year, five were women'. Known/bracketed list = Choi 7, Platt 7, Castro 6, Satzer 6, Ahmadpour 5, Batbold 4, Biro 3, Mendoza-Elias 3, Alkhalid 2, Nguyen 2, Sweid 1 (NPI 2021-04 IL) = 11, 4 women; Zhe Wang (F) has a UChicago-address NPI from 2021-04, and Castro was on a Northwestern research fellowship 2020-22, which would explain 5 women among 11. Castro and Satzer added as reconstructed (program-confirmed 2023 graduates). Mansi was at Nebraska.",
+  "2022-2023": "Still no roster capture. Castro and Satzer (PGY-7) confirmed 2023 graduates by program pages and added as reconstructed; Reddy NPI 2022-05 (IL) -> 2022 intern; Mansi at Nebraska (PGY-3) and joined UChicago at PGY-4 in 2023-24. Nguyen gone by 2023-24 (UChicago radiology, PubMed 2025).",
+  "2023-2024": "The only capture is 2024-05-24, from when the page was created. It is headed '2023- 2024' and agrees with 2024-25.",
+  "2025-2026": "Uses the 2026-01-20 capture. The 2025-07-11 capture, also headed 2025-2026, still lists Nasya Mendoza-Elias at PGY-6, so it is loaded as a one-row 'other' capture.",
+  "2026-2027": "Live page (2026-09-27, rechecked 2026-09-28) headed '2026- 2027'. Independently confirmed by the department's June 2026 newsletter: graduate Biro; new interns Kazi, McAfee, Sconzo; joiners Farooq (PGY3) and Khalili (PGY2); chiefs Alkhalid and Mansi (PGY7). Pons Torres and Griggs absent from the live list; the newsletter does not mention them.",
+  "2013-2014": "Bios page 2014-03-10 (only capture). Ricky Wong (PGY-6) graduated in 2014 per the Dept of Surgery newsletter (Operative Word, Fall 2014: 'Graduate, skull base fellowship at USF')."
+ },
+ "alumni_page": "https://web.archive.org/web/20190717025612/https://surgery.uchicago.edu/page/2018-graduates-0 (also: Operative Word Fall 2014 graduates list; department newsletters 2024-2026)",
+ "departures": [
+  {
+   "name": "Ricky Wong",
+   "last_ay": "2013-2014",
+   "last_pgy": 6,
+   "note": "Not a departure: graduated 2014 per Operative Word Fall 2014 (skull base fellowship at USF). training_history completed=yes."
+  },
+  {
+   "name": "Melody Mar",
+   "last_ay": "2014-2015",
+   "last_pgy": 2,
+   "note": "Listed PGY-2 on the Dec 2014 listing; absent 2015-16. NPPES neuroradiology (CO) only, so departure_type left unknown in training_history (end_year 2015)."
+  },
+  {
+   "name": "Javed Khader-Eliyas",
+   "last_ay": "2015-2016",
+   "last_pgy": 6,
+   "note": "Absent at PGY-7 in 2016-17; PubMed 2017-18 University of Calgary (fellowship). May have graduated after PGY-6 into an outside fellowship like Wong; unconfirmed (completed=unknown)."
+  },
+  {
+   "name": "Heather Smith",
+   "last_ay": "2017-2018",
+   "last_pgy": 1,
+   "note": "Switched to pathology: PubMed UChicago Department of Pathology 2020-23 (PMID 32347164), later Loyola/Northwestern pathology. Left 2018 or 2019 (recorded end_year 2019)."
+  },
+  {
+   "name": "Huy Tram Nguyen",
+   "last_ay": "2020-2021",
+   "last_pgy": 1,
+   "note": "Switched to radiology: PubMed 2025 'Department of Radiology, University of Chicago Medical Center' (PMID 39899350). Left 2021 or 2022 (recorded 2022)."
+  },
+  {
+   "name": "Nasya Mendoza-Elias",
+   "last_ay": "2025-2026",
+   "last_pgy": 6,
+   "note": "PGY-6 twice (2024-25, July 2025), removed by Jan 2026, not among June 2026 graduates. Outcome unknown."
+  },
+  {
+   "name": "Maria del Carmen Pons Torres",
+   "last_ay": "2025-2026",
+   "last_pgy": 3,
+   "note": "Absent from 2026-27 live list; June 2026 newsletter lists PGY-2/3 joiners only. 2025 paper co-affiliated Weill Cornell neurosurgery (not on Cornell's 2026-27 roster). Outcome unknown. NB the adjudicator's 'TRANSFERRED (University of Missouri-Columbia)' is a surname match to Jose Torres (program 89) and is wrong."
+  },
+  {
+   "name": "Whitney Griggs",
+   "last_ay": "2025-2026",
+   "last_pgy": 1,
+   "note": "Welcomed June 2025; absent from 2026-27 live list; Khalili joined at PGY-2 in 2026. Outcome unknown."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Arjang Ahmadpour",
+   "first_ay": "2019-2020",
+   "first_pgy": 3,
+   "note": "Joined at PGY-2 in 2018-19 or PGY-3 in 2019-20 (2018-19 unobserved); prior UC Davis neurosurgery research (PubMed 2015-18). Graduated 2024 (newsletter)."
+  },
+  {
+   "name": "Ahmed Mansi",
+   "first_ay": "2023-2024",
+   "first_pgy": 4,
+   "note": "Transfer from University of Nebraska (program 96, PGY-3 2022-23). training_history start_year 2023."
+  },
+  {
+   "name": "Jeffrey Farooq",
+   "first_ay": "2026-2027",
+   "first_pgy": 3,
+   "note": "Transfer from Corewell Health Grand Rapids (program 16, PGY-2 2025-26); June 2026 newsletter + live roster."
+  },
+  {
+   "name": "Bobak Khalili",
+   "first_ay": "2026-2027",
+   "first_pgy": 2,
+   "note": "June 2026 newsletter; prior program unknown (Rush affiliations, NPI 2024-05)."
+  }
+ ],
+ "residents_2011plus": 32,
+ "adjudication_summary": {
+  "COMPLETED": 19,
+  "IN TRAINING": 14,
+  "LEFT -> SWITCHED SPECIALTY": 3,
+  "LEFT -> did not complete": 2,
+  "LEFT -> outcome unknown": 1,
+  "LEFT -> TRANSFERRED": 1,
+  "note": "After phase 2 (2026-09-28). The 8 gap-artefact 'LEFT' calls are resolved (Dey, Mansour: PGY-7 on the Dec 2014 listing; Wong: 2014 graduate; Hobbs, Choi, Platt: inferred completions; Castro, Satzer: program-confirmed 2023 graduates). SWITCHED: Mar (NPI-based, adjudicator), Smith (pathology, PubMed), Nguyen (radiology, PubMed). 'did not complete': Mendoza-Elias, Griggs. 'outcome unknown': Khader-Eliyas. The 'TRANSFERRED (University of Missouri-Columbia)' call for Pons Torres is a false surname match (Jose Torres, program 89); her outcome is unknown."
+ },
+ "problems": "Common Crawl cluster.idx range requests failed for CC-MAIN-2018-09 (prefix surgery.uchicago.edu/education/residency/neurosurgery; 2017-18 is observed anyway) and CC-MAIN-2022-05 (prefix surgery.uchicago.edu/education/neurosurgery-residency; that page was already 404). The broad cclocal scan (surgery)/education + neurosurgery)/) was stopped after CC-MAIN-2017-47 and replaced with narrow-prefix scans (p78/ccone.py, ccloop.sh) over 2017-43..2019-30 and 2021-31..2024-10. The CC-MAIN-2017-39 WARC fetch that failed was retried and succeeded (stale 2016-17 list). The recent departures (Pons Torres, Griggs) and joiners (Farooq, Khalili) rest on the single live capture. Recheck them on a later capture. There is no neurosurgery alumni page, and only the 2018 Dept of Surgery graduates page exists (Ralston and Stamates inserted into training_history). PHASE 2: all previously failed CC crawls retried successfully (2018-09, 2022-05, 2019-13, 2022-21, 2024-51). PubMed E-utilities returned HTTP 429 intermittently (shared IP); retried with backoff. Later Operative Word issues (July/Oct 2015, 2016) and the 2017 annual report (issuu) are not archived. Adjudicator uses training_history start_year as entry year, so the transfer-in rows move Mansi/Farooq/Khalili/Ahmadpour to their arrival year in its table.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Spring-only capture but classes consistent with neighbours; Wong's 2014 graduation confirmed by newsletter."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Now observed: Dec 2014 Dept of Surgery listing (11) + Fall 2014 newsletter interns/graduates."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete CC capture May 2018."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Unobserved, but every bracketed resident continues and Hobbs is a practicing neurosurgeon; only open points are the year Smith left (2018/2019) and Ahmadpour joined, and a hypothetical second 2018 intern who left within the year (class sizes alternate 1-2; Batbold's 2018 NPI fits a 1-intern class)."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Spring capture, all PGYs advanced and interns listed."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Unobserved roster, but the program's own history page gives 11 residents (5 women) in 2021-22, which the known list reproduces; Nguyen's exit year (2021 vs 2022) is the only open detail."
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Unobserved; all bracketed residents continue, both PGY-7s confirmed 2023 graduates, Mansi's arrival dated to 2023 from Nebraska's roster; only Nguyen's exit year and a hypothetical unseen 2022 intern remain."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Only capture is May 2024 but it is headed 2023-2024 and matches 2024-25."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jan 2026 capture plus July 2025 capture for Mendoza-Elias."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live list confirmed by the June 2026 department newsletter (graduate, interns, joiners, chiefs)."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit Wayback 2014-05..2015-12, 2018-05..2019-10, 2021-05..2024-06 on surgery.uchicago.edu, surgery-sites.uchicago.edu, siss10.bsd.uchicago.edu, surgerysupport.uchicago.edu, gme.uchicago.edu, neurosurgery.uchicago.edu",
+   "linkaudit of neurosurgery/surgery education, residency, alumni and home pages in each gap window",
+   "Common Crawl whole host edu,uchicago,surgery)/ 2018-2019 and edu,uchicago,neurosurgery)/ 2021-2024 (new filter), retries 2018-09, 2019-13, 2022-05, 2022-21, 2024-51",
+   "Dept of Surgery news, Operative Word newsletters, annual reports, alumni/graduates pages, Kluver symposium pages",
+   "live neurosurgery.uchicago.edu sitemap, news, history pages, resident CV page, 11 quarterly newsletters (2024-2026, OCR of image issues)",
+   "PubMed affiliation mining 2014-15, 2017-2020, 2021-2025 and per-resident affiliation histories",
+   "NPPES enumeration dates/taxonomies for gap-year residents (timing support only)",
+   "crossmatch.json links (Farooq<-16, Mansi<-96, Reddy/Vamsi Reddy rejected, Nguyen/Anthony Nguyen rejected)"
+  ],
+  "found": [
+   "2014-15 roster: Dept of Surgery ResFellowList.pdf (2014-12-01)",
+   "Operative Word Fall 2014: Wong 2014 graduate; Vasenina 2014 intern",
+   "history-women page: 11 residents (5 women) in 2021-22",
+   "Castro CV page (residency 07/2016-06/2023) and newsletter (Satzer graduated 2023)",
+   "newsletters: Ahmadpour graduated 2024, Batbold 2025, Biro 2026; Griggs welcomed 2025; Farooq PGY3 + Khalili PGY2 joined 2026",
+   "PubMed: Smith -> UChicago pathology; Nguyen -> UChicago radiology; Platt -> Columbia spine; Mansi Nebraska 2022",
+   "Mansi transfer from Nebraska (96) confirmed, arrival 2023-24"
+  ],
+  "remaining": [
+   "2018-19 roster (no capture anywhere); exact year Smith left / Ahmadpour joined",
+   "2021-22 and 2022-23 rosters (no capture); Nguyen's exit year; Zhe Wang possibly present from 2021",
+   "Outcomes of Mendoza-Elias, Pons Torres, Griggs, Khader-Eliyas; Khalili's prior program"
+  ]
+ }
+}

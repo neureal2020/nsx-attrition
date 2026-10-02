@@ -1,0 +1,696 @@
+[
+ {
+  "source_url": "https://web.archive.org/web/20101018050421/http://www.temple.edu/medicine/departments_centers/clinical_departments/neurosurgery_residency_residents.htm",
+  "source_type": "wayback",
+  "captured_at": "2010-10-18",
+  "academic_year": "2010-2011",
+  "note": "Pre-window context. Flat list, no PGYs; Hakma marked Chief resident. This exact list was left unchanged on the page through at least 2013-05 (Common Crawl 2012-02-10 and 2013-05-22 copies identical), so it is NOT used for 2011-12..2013-14.",
+  "rows": [
+   {
+    "name": "Zakaria Hakma",
+    "pgy": null,
+    "context": "Zakaria Hakma, MD (Chief resident)"
+   },
+   {
+    "name": "Markus Bookland",
+    "pgy": null,
+    "context": "Markus Bookland, MD"
+   },
+   {
+    "name": "Siraj Gibani",
+    "pgy": null,
+    "context": "Siraj Gibani, MD"
+   },
+   {
+    "name": "Richard Kim",
+    "pgy": null,
+    "context": "Richard Kim, MD"
+   },
+   {
+    "name": "Benjamin Leichty",
+    "pgy": null,
+    "context": "Benjamin Leichty, MD"
+   },
+   {
+    "name": "Pulak Ray",
+    "pgy": null,
+    "context": "Pulak Ray, MD"
+   },
+   {
+    "name": "Vishad Sukul",
+    "pgy": null,
+    "context": "Vishad V. Sukul, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "manual reconstruction p64 2011-2012",
+  "source_type": "manual",
+  "captured_at": "2011-10-01",
+  "academic_year": "2011-2012",
+  "note": "No usable roster: Wayback digest unchanged 2010-10 -> 2014-11 and Common Crawl 2012-02-10 / 2013-05-22 copies still show the stale 2010-11 list. Rows reconstructed only for people bracketed by the 2010-11 list and the observed 2013-14 roster (CC-MAIN-2013-48) or anchored by the alumni page. NOT reconstructed: Tamara Fierst (first seen PGY-3 in 2013-14; could have entered elsewhere, as Arko did), Benjamin Leichty (2009 class; gone by 2013-14), Markus Bookland (2005 class, not seen after 2010-11).",
+  "rows": [
+   {
+    "name": "Pulak Ray",
+    "pgy": 6,
+    "reconstructed": true,
+    "context": "Listed 2010-11; alumni page: graduated 2013 (testimonial 'Paulak Ray, MD (2013)')"
+   },
+   {
+    "name": "Richard Kim",
+    "pgy": 5,
+    "reconstructed": true,
+    "context": "Listed 2010-11 and PGY-7 on the 2013-14 roster (CC-MAIN-2013-48)"
+   },
+   {
+    "name": "Vishad Sukul",
+    "pgy": 4,
+    "reconstructed": true,
+    "context": "Listed 2010-11; PGY-6 2013-14, PGY-7 2014-15"
+   },
+   {
+    "name": "Siraj Gibani",
+    "pgy": 2,
+    "reconstructed": true,
+    "context": "Listed 2010-11; PGY-4 2013-14; alumni 2016"
+   }
+  ]
+ },
+ {
+  "source_url": "manual reconstruction p64 2012-2013",
+  "source_type": "manual",
+  "captured_at": "2012-10-01",
+  "academic_year": "2012-2013",
+  "note": "No usable roster: Wayback digest unchanged 2010-10 -> 2014-11 and Common Crawl 2012-02-10 / 2013-05-22 copies still show the stale 2010-11 list. Rows reconstructed only for people bracketed by the 2010-11 list and the observed 2013-14 roster (CC-MAIN-2013-48) or anchored by the alumni page. NOT reconstructed: Tamara Fierst (first seen PGY-3 in 2013-14; could have entered elsewhere, as Arko did), Benjamin Leichty (2009 class; gone by 2013-14), Markus Bookland (2005 class, not seen after 2010-11).",
+  "rows": [
+   {
+    "name": "Pulak Ray",
+    "pgy": 7,
+    "reconstructed": true,
+    "context": "Listed 2010-11; alumni page graduated 2013"
+   },
+   {
+    "name": "Richard Kim",
+    "pgy": 6,
+    "reconstructed": true,
+    "context": "Listed 2010-11 and PGY-7 2013-14"
+   },
+   {
+    "name": "Vishad Sukul",
+    "pgy": 5,
+    "reconstructed": true,
+    "context": "Listed 2010-11; PGY-6 2013-14"
+   },
+   {
+    "name": "Siraj Gibani",
+    "pgy": 3,
+    "reconstructed": true,
+    "context": "Listed 2010-11; PGY-4 2013-14; alumni 2016"
+   },
+   {
+    "name": "Leopold Arko",
+    "pgy": 2,
+    "reconstructed": true,
+    "context": "UTSW PGY-1 2011-12 (program 110, Jan-2012 roster), absent from UTSW Dec-2013 list; Temple PGY-3 2013-14; alumni 2018 -> joined Temple at PGY-2 in 2012-13"
+   },
+   {
+    "name": "Shahin Manoochehri",
+    "pgy": 1,
+    "reconstructed": true,
+    "context": "PGY-2 2013-14; alumni 2019 -> entered 2012"
+   }
+  ]
+ },
+ {
+  "source_url": "http://www.temple.edu/medicine/departments_centers/clinical_departments/neurosurgery_residency_residents.htm (Common Crawl CC-MAIN-2013-48, 2013-12-06)",
+  "source_type": "other",
+  "captured_at": "2013-12-06",
+  "academic_year": "2013-2014",
+  "note": "Phase 2: Common Crawl copy (identical content in CC-MAIN-2014-10 2014-03-09, 2014-15 2014-04-17, 2014-23 2014-08-01). Inline 'PGY-n: Name' list, 7 residents + 'Current Fellow: Richard Gorman' (not a resident). No PGY-5 (2009 class empty: Leichty gone). Two PGY-3 (Fierst, Arko). Replaces the phase-1 reconstruction.",
+  "rows": [
+   {
+    "name": "Richard Kim",
+    "pgy": 7,
+    "context": "PGY-7: Richard Kim, MD"
+   },
+   {
+    "name": "Vishad Sukul",
+    "pgy": 6,
+    "context": "PGY-6: Vishad Sukul, MD"
+   },
+   {
+    "name": "Siraj Gibani",
+    "pgy": 4,
+    "context": "PGY-4: Siraj Gibani, MD"
+   },
+   {
+    "name": "Tamara Fierst",
+    "pgy": 3,
+    "context": "PGY-3: Tamara Fierst, MD"
+   },
+   {
+    "name": "Leopold Arko",
+    "pgy": 3,
+    "context": "PGY-3: Leopold Arko, MD"
+   },
+   {
+    "name": "Shahin Manoochehri",
+    "pgy": 2,
+    "context": "PGY-2: Shahin Manoochehri, MD"
+   },
+   {
+    "name": "Joel Passer",
+    "pgy": 1,
+    "context": "PGY-1: Joel Passer, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20141127235708/http://temple.edu/medicine/departments_centers/clinical_departments/neurosurgery_residency_residents.htm",
+  "source_type": "wayback",
+  "captured_at": "2014-11-27",
+  "academic_year": "2014-2015",
+  "note": "Inline 'PGY-n: Name' list. No PGY-6 listed; two PGY-4. Same list 2015-03/2015-07 captures. Same list already in Common Crawl CC-MAIN-2014-35 (2014-08-23), 2014-41 (2014-09-16, 2014-10-02).",
+  "rows": [
+   {
+    "name": "Vishad Sukul",
+    "pgy": 7,
+    "context": "PGY-7: Vishad Sukul, MD"
+   },
+   {
+    "name": "Siraj Gibani",
+    "pgy": 5,
+    "context": "PGY-5: Siraj Gibani, MD"
+   },
+   {
+    "name": "Tamara Fierst",
+    "pgy": 4,
+    "context": "PGY-4: Tamara Fierst, MD"
+   },
+   {
+    "name": "Leopold Arko",
+    "pgy": 4,
+    "context": "PGY-4: Leopold Arko, MD"
+   },
+   {
+    "name": "Shahin Manoochehri",
+    "pgy": 3,
+    "context": "PGY-3: Shahin Manoochehri, MD"
+   },
+   {
+    "name": "Joel Passer",
+    "pgy": 2,
+    "context": "PGY-2: Joel Passer, MD"
+   },
+   {
+    "name": "Nicholas Ahye",
+    "pgy": 1,
+    "context": "PGY-1: Nicholas Ahye, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20151006164933/http://www.temple.edu/medicine/departments_centers/clinical_departments/neurosurgery_residency_residents.htm",
+  "source_type": "wayback",
+  "captured_at": "2015-10-06",
+  "academic_year": "2015-2016",
+  "note": "No PGY-7 listed. Same list on new medicine.temple.edu site 2016-04..2016-10.",
+  "rows": [
+   {
+    "name": "Siraj Gibani",
+    "pgy": 6,
+    "context": "PGY-6: Siraj Gibani, MD"
+   },
+   {
+    "name": "Tamara Fierst",
+    "pgy": 5,
+    "context": "PGY-5: Tamara Fierst, MD"
+   },
+   {
+    "name": "Leopold Arko",
+    "pgy": 5,
+    "context": "PGY-5: Leopold Arko, MD"
+   },
+   {
+    "name": "Shahin Manoochehri",
+    "pgy": 4,
+    "context": "PGY-4: Shahin Manoochehri, MD"
+   },
+   {
+    "name": "Joel Passer",
+    "pgy": 3,
+    "context": "PGY-3: Joel Passer, MD"
+   },
+   {
+    "name": "Nicholas Ahye",
+    "pgy": 2,
+    "context": "PGY-2: Nicholas Ahye, MD"
+   },
+   {
+    "name": "Eric Quach",
+    "pgy": 1,
+    "context": "PGY-1: Eric Quach, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20170501203450/https://medicine.temple.edu/departments-centers/clinical-departments/department-neurosurgery/residency-program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2017-05-01",
+  "academic_year": "2016-2017",
+  "note": "Spring capture used because the 2016-10-22 capture was still the stale 2015-16 list (Quach PGY-1). Content-dated 2016-17: Kaul PGY-1, Gibani graduated.",
+  "rows": [
+   {
+    "name": "Leopold Arko",
+    "pgy": 6,
+    "context": "PGY-6 Leopold Arko, MD"
+   },
+   {
+    "name": "Tamara Fierst",
+    "pgy": 6,
+    "context": "PGY-6 Tamara Fierst, MD"
+   },
+   {
+    "name": "Shahin Manoochehri",
+    "pgy": 5,
+    "context": "PGY-5 Shahin Manoochehri, MD"
+   },
+   {
+    "name": "Joel Passer",
+    "pgy": 4,
+    "context": "PGY-4 Joel Passer, MD"
+   },
+   {
+    "name": "Nicholas Ahye",
+    "pgy": 3,
+    "context": "PGY-3 Nicholas Ahye, MD"
+   },
+   {
+    "name": "Eric Quach",
+    "pgy": 2,
+    "context": "PGY-2 Eric Quach, MD"
+   },
+   {
+    "name": "Anand Kaul",
+    "pgy": 1,
+    "context": "PGY-1 Anand Kaul, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20171106235657/https://medicine.temple.edu/departments-centers/clinical-departments/department-neurosurgery/residency-program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2017-11-06",
+  "academic_year": "2017-2018",
+  "note": "Fierst no longer listed (not on alumni page).",
+  "rows": [
+   {
+    "name": "Leopold Arko",
+    "pgy": 7,
+    "context": "PGY-7 Leopold Arko, MD"
+   },
+   {
+    "name": "Shahin Manoochehri",
+    "pgy": 6,
+    "context": "PGY-6 Shahin Manoochehri, MD"
+   },
+   {
+    "name": "Joel Passer",
+    "pgy": 5,
+    "context": "PGY-5 Joel Passer, MD"
+   },
+   {
+    "name": "Nicholas Ahye",
+    "pgy": 4,
+    "context": "PGY-4 Nicholas Ahye, MD"
+   },
+   {
+    "name": "Eric Quach",
+    "pgy": 3,
+    "context": "PGY-3 Eric Quach, MD"
+   },
+   {
+    "name": "Anand Kaul",
+    "pgy": 2,
+    "context": "PGY-2 Anand Kaul, MD"
+   },
+   {
+    "name": "Erin Graves",
+    "pgy": 1,
+    "context": "PGY-1 Erin Graves, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://medicine.temple.edu/departments-centers/clinical-departments/department-neurosurgery/residency-program/current-residents (Common Crawl CC-MAIN-2019-22, 2019-05-22)",
+  "source_type": "other",
+  "captured_at": "2019-05-22",
+  "academic_year": "2018-2019",
+  "note": "No Wayback capture 2018-06..2020-04. Common Crawl copies 2018-07, 2018-10, 2018-12, 2019-02 still show the 2017-18 list (stale); 2019-05-22 copy is content-dated 2018-19 (Ziechmann PGY-1, Arko gone). Complete 7-name roster.",
+  "rows": [
+   {
+    "name": "Shahin Manoochehri",
+    "pgy": 7,
+    "context": "PGY-7 Shahin Manoochehri, MD"
+   },
+   {
+    "name": "Joel Passer",
+    "pgy": 6,
+    "context": "PGY-6 Joel Passer, MD"
+   },
+   {
+    "name": "Nicholas Ahye",
+    "pgy": 5,
+    "context": "PGY-5 Nicholas Ahye, MD"
+   },
+   {
+    "name": "Eric Quach",
+    "pgy": 4,
+    "context": "PGY-4 Eric Quach, MD"
+   },
+   {
+    "name": "Anand Kaul",
+    "pgy": 3,
+    "context": "PGY-3 Anand Kaul, MD"
+   },
+   {
+    "name": "Erin Graves",
+    "pgy": 2,
+    "context": "PGY-2 Erin Graves, MD"
+   },
+   {
+    "name": "Robert Ziechmann",
+    "pgy": 1,
+    "context": "PGY-1 Robert Ziechmann, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20200503184138/https://medicine.temple.edu/departments-centers/clinical-departments/department-neurosurgery/residency-program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2020-05-03",
+  "academic_year": "2019-2020",
+  "note": "Only capture in AY (no Aug-Jan capture; CC 2019-35..51 had no roster URL). Content-dated 2019-20 (Passer PGY-7, graduated 2020; Danziger PGY-1).",
+  "rows": [
+   {
+    "name": "Joel Passer",
+    "pgy": 7,
+    "context": "PGY-7 Joel Passer, MD"
+   },
+   {
+    "name": "Nicholas Ahye",
+    "pgy": 6,
+    "context": "PGY-6 Nicholas Ahye, MD"
+   },
+   {
+    "name": "Eric Quach",
+    "pgy": 5,
+    "context": "PGY-5 Eric Quach, MD"
+   },
+   {
+    "name": "Anand Kaul",
+    "pgy": 4,
+    "context": "PGY-4 Anand Kaul, MD"
+   },
+   {
+    "name": "Erin Graves",
+    "pgy": 3,
+    "context": "PGY-3 Erin Graves, MD"
+   },
+   {
+    "name": "Robert Ziechmann",
+    "pgy": 2,
+    "context": "PGY-2 Robert Ziechmann, MD"
+   },
+   {
+    "name": "Andrew Danziger",
+    "pgy": 1,
+    "context": "PGY-1 Andrew Danziger, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20201021142945/https://medicine.temple.edu/departments-centers/clinical-departments/department-neurosurgery/residency-program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2020-10-21",
+  "academic_year": "2020-2021",
+  "note": "Danziger gone; Rohan Gupta first appears at PGY-2 (2019 class).",
+  "rows": [
+   {
+    "name": "Nicholas Ahye",
+    "pgy": 7,
+    "context": "PGY-7 Nicholas Ahye, MD"
+   },
+   {
+    "name": "Eric Quach",
+    "pgy": 6,
+    "context": "PGY-6 Eric Quach, MD"
+   },
+   {
+    "name": "Anand Kaul",
+    "pgy": 5,
+    "context": "PGY-5 Anand Kaul, MD"
+   },
+   {
+    "name": "Erin Graves",
+    "pgy": 4,
+    "context": "PGY-4 Erin Graves, MD"
+   },
+   {
+    "name": "Robert Ziechmann",
+    "pgy": 3,
+    "context": "PGY-3 Robert Ziechmann, MD"
+   },
+   {
+    "name": "Rohan Gupta",
+    "pgy": 2,
+    "context": "PGY-2 Rohan Gupta, MD"
+   },
+   {
+    "name": "Prasad Kanuparthi",
+    "pgy": 1,
+    "context": "PGY-1 Prasad Kanuparthi, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20220519055517/https://medicine.temple.edu/departments-centers/clinical-departments/department-neurosurgery/residency-program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2022-05-19",
+  "academic_year": "2021-2022",
+  "note": "Spring capture used: the 2021-10-12 capture still showed the 2020-21 list (Ahye PGY-7, who is a 2021 alumnus). Content-dated 2021-22 (Welch PGY-1).",
+  "rows": [
+   {
+    "name": "Eric Quach",
+    "pgy": 7,
+    "context": "PGY-7 Eric Quach, MD"
+   },
+   {
+    "name": "Anand Kaul",
+    "pgy": 6,
+    "context": "PGY-6 Anand Kaul, MD"
+   },
+   {
+    "name": "Erin Graves",
+    "pgy": 5,
+    "context": "PGY-5 Erin Graves, MD"
+   },
+   {
+    "name": "Robert Ziechmann",
+    "pgy": 4,
+    "context": "PGY-4 Robert Ziechmann, MD"
+   },
+   {
+    "name": "Rohan Gupta",
+    "pgy": 3,
+    "context": "PGY-3 Rohan Gupta, MD"
+   },
+   {
+    "name": "Prasad Kanuparthi",
+    "pgy": 2,
+    "context": "PGY-2 Prasad Kanuparthi, MD"
+   },
+   {
+    "name": "Jonathan Welch",
+    "pgy": 1,
+    "context": "PGY-1 Jonathan Welch, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20221008063345/https://medicine.temple.edu/departments-centers/clinical-departments/department-neurosurgery/residency-program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2022-10-08",
+  "academic_year": "2022-2023",
+  "note": "Same list 2023-01, 2023-04.",
+  "rows": [
+   {
+    "name": "Anand Kaul",
+    "pgy": 7,
+    "context": "PGY-7 Anand Kaul, MD"
+   },
+   {
+    "name": "Erin Graves",
+    "pgy": 6,
+    "context": "PGY-6 Erin Graves, MD"
+   },
+   {
+    "name": "Robert Ziechmann",
+    "pgy": 5,
+    "context": "PGY-5 Robert Ziechmann, MD"
+   },
+   {
+    "name": "Rohan Gupta",
+    "pgy": 4,
+    "context": "PGY-4 Rohan Gupta, MD"
+   },
+   {
+    "name": "Prasad Kanuparthi",
+    "pgy": 3,
+    "context": "PGY-3 Prasad Kanuparthi, MD"
+   },
+   {
+    "name": "Jonathan Welch",
+    "pgy": 2,
+    "context": "PGY-2 Jonathan Welch, MD"
+   },
+   {
+    "name": "Theodore Hannah",
+    "pgy": 1,
+    "context": "PGY-1 Theodore Hannah, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20231009224727/https://medicine.temple.edu/departments-centers/clinical-departments/department-neurosurgery/residency-program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2023-10-09",
+  "academic_year": "2023-2024",
+  "note": "Welch gone; Hosniya Zarabi first appears at PGY-3 (2021 class). Same list 2024-04.",
+  "rows": [
+   {
+    "name": "Erin Graves",
+    "pgy": 7,
+    "context": "PGY-7 Erin Graves, MD"
+   },
+   {
+    "name": "Robert Ziechmann",
+    "pgy": 6,
+    "context": "PGY-6 Robert Ziechmann, MD"
+   },
+   {
+    "name": "Rohan Gupta",
+    "pgy": 5,
+    "context": "PGY-5 Rohan Gupta, MD"
+   },
+   {
+    "name": "Prasad Kanuparthi",
+    "pgy": 4,
+    "context": "PGY-4 Prasad Kanuparthi, MD"
+   },
+   {
+    "name": "Hosniya Zarabi",
+    "pgy": 3,
+    "context": "PGY-3 Hosniya Zarabi, MD"
+   },
+   {
+    "name": "Theodore Hannah",
+    "pgy": 2,
+    "context": "PGY-2 Theodore Hannah, MD"
+   },
+   {
+    "name": "Neal Patel",
+    "pgy": 1,
+    "context": "PGY-1 Neal Patel, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20241208015541/https://medicine.temple.edu/education/graduate-medical-education/residency-programs-fellowships/neurosurgery/residency-program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2024-12-08",
+  "academic_year": "2024-2025",
+  "note": "New GME path (old department path 301s here from 2024-12). Same list 2024-12-01..2025-04.",
+  "rows": [
+   {
+    "name": "Robert Ziechmann",
+    "pgy": 7,
+    "context": "PGY-7 Robert Ziechmann, MD"
+   },
+   {
+    "name": "Rohan Gupta",
+    "pgy": 6,
+    "context": "PGY-6 Rohan Gupta, MD"
+   },
+   {
+    "name": "Prasad Kanuparthi",
+    "pgy": 5,
+    "context": "PGY-5 Prasad Kanuparthi, MD"
+   },
+   {
+    "name": "Hosniya Zarabi",
+    "pgy": 4,
+    "context": "PGY-4 Hosniya Zarabi, MD"
+   },
+   {
+    "name": "Theodore Hannah",
+    "pgy": 3,
+    "context": "PGY-3 Theodore Hannah, MD"
+   },
+   {
+    "name": "Neal Patel",
+    "pgy": 2,
+    "context": "PGY-2 Neal Patel, MD"
+   },
+   {
+    "name": "Sami Pathak",
+    "pgy": 1,
+    "context": "PGY-1 Sami Pathak, MD"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20260121152932/https://medicine.temple.edu/education/graduate-medical-education/residency-programs-fellowships/neurosurgery/residency-program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2026-01-21",
+  "academic_year": "2025-2026",
+  "note": "Same list 2025-09-12, 2026-04, 2026-07 and on the live page 2026-09-27 (live not advanced, so 2026-27 not loaded).",
+  "rows": [
+   {
+    "name": "Rohan Gupta",
+    "pgy": 7,
+    "context": "PGY-7 Rohan Gupta, MD"
+   },
+   {
+    "name": "Prasad Kanuparthi",
+    "pgy": 6,
+    "context": "PGY-6 Prasad Kanuparthi, MD"
+   },
+   {
+    "name": "Hosniya Zarabi",
+    "pgy": 5,
+    "context": "PGY-5 Hosniya Zarabi, MD"
+   },
+   {
+    "name": "Theodore Hannah",
+    "pgy": 4,
+    "context": "PGY-4 Theodore Hannah, MD"
+   },
+   {
+    "name": "Neal Patel",
+    "pgy": 3,
+    "context": "PGY-3 Neal Patel, MD"
+   },
+   {
+    "name": "Sami Pathak",
+    "pgy": 2,
+    "context": "PGY-2 Sami Pathak, MD"
+   },
+   {
+    "name": "Alan Balu",
+    "pgy": 1,
+    "context": "PGY-1 Alan Balu, MD"
+   }
+  ]
+ }
+]

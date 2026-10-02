@@ -1,0 +1,400 @@
+[
+ {
+  "key": "110:ant:asemota",
+  "name": "Anthony Asemota",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Lead city Albuquerque (Doximity: based at UNM). hsc.unm.edu is reachable again this session; grepped live UNM rosters: neurosurgery (live page, Last-Modified May 2025: PGY4 Kazim, PGY3 Rumalla, PGY1 Bhamidipati/Peart/Marquez - no Asemota), neurology meet-the-residents, radiology residents + fellows, general surgery, ENT, vascular surgery, pathology, anesthesiology classes 2027-2030, EM our-residents, IM our-residents, preventive medicine residents, pediatrics class pages (sitemap) - no Asemota. Same-city (Dallas/UTSW) other-specialty rosters were not re-swept here beyond prior work. No program page, dated announcement or bio found.",
+  "sources": [
+   "https://www.doximity.com/pub/anthony-asemota-md",
+   "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency/our-residents.html"
+  ],
+  "rosters_checked": [
+   "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency/our-residents.html",
+   "https://hsc.unm.edu/medicine/departments/neurology/education/virtual-experience/meet-the-residents.html",
+   "https://hsc.unm.edu/medicine/departments/radiology/personnel/residents.html",
+   "https://hsc.unm.edu/medicine/departments/radiology/personnel/currentfellows.html",
+   "https://hsc.unm.edu/medicine/departments/surgery/residency/general-surgery/our-residents.html",
+   "https://hsc.unm.edu/medicine/departments/surgery/residency/otolaryngology-residency/our-residents.html",
+   "https://hsc.unm.edu/medicine/departments/surgery/residency/vascular-surgery/residents.html",
+   "https://hsc.unm.edu/medicine/departments/pathology/education/residency/residents.html",
+   "https://hsc.unm.edu/medicine/departments/anesthesiology/education/residency/our-residents/class-of-{2027,2028,2029,2030}.html",
+   "https://hsc.unm.edu/medicine/departments/emergency-medicine/education/emergency-medicine-residency/our-residents/",
+   "https://hsc.unm.edu/medicine/departments/internal-medicine/education/our-residents.html",
+   "https://hsc.unm.edu/medicine/departments/internal-medicine/academic-divisions/preventive-medicine/our-residents.html",
+   "hsc.unm.edu medicine sitemap (2184 URLs) grep for Asemota: none"
+  ],
+  "queries_tried": [
+   "hsc.unm.edu current residents internal medicine OR anesthesiology OR emergency medicine OR psychiatry OR family medicine residency roster",
+   "[sitemap grep] hsc.unm.edu medicine for asemota"
+  ]
+ },
+ {
+  "key": "94:wes:chen",
+  "name": "Wesley Chen",
+  "outcome": "left_destination_unknown",
+  "destination": "Lead (unconfirmed): switched to neurology - NYU Grossman neurology residency 2023-2026 per Doximity, now UTSW (5323 Harry Hines) address, Dallas",
+  "year_started_destination": null,
+  "evidence": "NEW identity link: Wayback 2022 capture of Missouri neurosurgery current-residents page lists 'PGY-4 Wesley Chen, MD - Medical School: Georgetown University School of Medicine; Undergraduate: UC Berkeley; from Los Angeles'. This matches the Doximity 'Wesley Chen, MD' (Georgetown 2018; Neurology residency NYU Grossman 2023-2026; neurologist, 5323 Harry Hines Blvd Dallas = UTSW), so the prior namesake concern is largely resolved - he very likely left Missouri neurosurgery in 2023 for neurology. However no program page confirms it: not in NYU neurology residents & recent alumni PDF (Manhattan/Brooklyn tracks, 2023-2026 grads; NYU Long Island track has no roster page), not on UTSW neurology residents page or any UTSW neurology fellowship page. Same-city sweep: absent from all current Mizzou rosters (neurosurgery, neurology, radiology, anesthesiology, EM, PM&R, psychiatry, general surgery, plastics, ortho, ENT, ophthalmology, IM PGY1-3, FM, pathology, derm, OB, urology, peds, med-peds). Directory only -> not recorded as confirmed switch.",
+  "sources": [
+   "https://web.archive.org/web/2022/https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents",
+   "https://www.doximity.com/pub/wesley-chen-md",
+   "https://med.nyu.edu/departments-institutes/neurology/sites/default/files/neurology-residents-and-recent-alumni.pdf"
+  ],
+  "rosters_checked": [
+   "https://medicine.missouri.edu/departments/anesthesiology-and-perioperative-medicine/residency/current-residents",
+   "https://medicine.missouri.edu/departments/community-practice/family-medicine-residency/residents",
+   "https://medicine.missouri.edu/departments/family-and-community-medicine/residency/{first,second,third}-year-residents",
+   "https://medicine.missouri.edu/departments/dermatology/residency/current-residents",
+   "https://medicine.missouri.edu/departments/emergency-medicine/residency/residents",
+   "https://medicine.missouri.edu/departments/neurology/residency/current-residents",
+   "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents",
+   "https://medicine.missouri.edu/departments/obstetrics-gynecology-and-womens-health/residency/residents",
+   "https://medicine.missouri.edu/departments/ophthalmology/residency/current-residents",
+   "https://medicine.missouri.edu/departments/orthopaedic-surgery/residency/current-residents",
+   "https://medicine.missouri.edu/departments/otolaryngology-head-and-neck-surgery/residency/current-residents",
+   "https://medicine.missouri.edu/departments/pathology-and-anatomical-sciences/education/residency/residents",
+   "https://medicine.missouri.edu/departments/pediatrics/residency/internal-medicine-pediatrics/residents",
+   "https://medicine.missouri.edu/departments/pediatrics/residency/pediatrics/current-residents",
+   "https://medicine.missouri.edu/departments/physical-medicine-and-rehabilitation/residency/current-residents",
+   "https://medicine.missouri.edu/departments/radiology/residency-programs/current-residents",
+   "https://medicine.missouri.edu/departments/surgery/divisions/general-surgery/residency/current-residents",
+   "https://medicine.missouri.edu/departments/surgery/divisions/plastic-surgery/residency/residents",
+   "https://medicine.missouri.edu/departments/surgery/divisions/urologic-surgery/residency/current-residents",
+   "https://medicine.missouri.edu/departments/medicine/residency/{pgy1,pgy2,pgy3}",
+   "https://medicine.missouri.edu/departments/psychiatry/residency/psychiatry-residents",
+   "https://www.utsouthwestern.edu/departments/neurology/education/residency/residents.html",
+   "https://www.utsouthwestern.edu/departments/neurology/subspecialties/*/fellowship.html (12 fellowship pages)",
+   "https://med.nyu.edu/departments-institutes/neurology/sites/default/files/neurology-residents-and-recent-alumni.pdf",
+   "https://medli.nyu.edu/departments-divisions/neurology/residency (no roster)"
+  ],
+  "queries_tried": [
+   "\"Wesley Chen\" neurology resident OR fellow Georgetown",
+   "UT Southwestern neurology fellows 2026-2027 \"Chen\"",
+   "\"Wesley Chen\" NYU Langone OR \"NYU Grossman\" neurology",
+   "\"Wesley Chen\" neurologist Dallas OR Texas 2026",
+   "\"Wesley Chen\" neurology \"Long Island\" OR Mineola resident",
+   "NYU Langone Long Island neurology residency residents \"Chen\" 2025 OR 2026 graduates",
+   "[Wayback] Mizzou neurosurgery current residents 2022"
+  ]
+ },
+ {
+  "key": "108:eri:garcia",
+  "name": "Erick Garcia",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Full name Erick Guillermo Garcia Gorbea (Ponce Health Sciences University MD 2013). UTHSA neurosurgery graduation announcements checked: 2020 (David Wallace), 2022 (McDermott, Sy), 2023 (Peitz, Tavakoli), 2024 (Ghamasaee, Webb) - none name him; no 2021 graduation post exists in the department sitemap. Directory leads only: Healthgrades/WebMD/Vitals list him as neurosurgeon at UTHSA address with affiliations Jamaica Hospital Medical Center (Queens NY) and St. David's South Austin; not found on Jamaica Hospital neurosurgery/surgery/stroke staff pages or its FM/IM/OB/ophthalmology resident rosters. No completion, fellowship, board or current practice source found. Note: UTHSA site began returning Cloudflare blocks to scripted requests mid-session (not bypassed; WebFetch used).",
+  "sources": [
+   "https://lsom.uthscsa.edu/neurosurgery/erick-garcia-gorbea/",
+   "https://lsom.uthscsa.edu/neurosurgery/graduation-2022/",
+   "https://lsom.uthscsa.edu/neurosurgery/residency-graduation-geoffrey-peitz-md-and-sam-tavakoli-md/",
+   "https://lsom.uthscsa.edu/neurosurgery/graduation-2024/",
+   "https://www.healthgrades.com/physician/dr-erick-garcia-y9v64jz"
+  ],
+  "rosters_checked": [
+   "https://lsom.uthscsa.edu/neurosurgery/graduation-2020-celebrating-david-wallace-m-d/",
+   "https://lsom.uthscsa.edu/neurosurgery/graduation-2022/",
+   "https://lsom.uthscsa.edu/neurosurgery/residency-graduation-geoffrey-peitz-md-and-sam-tavakoli-md/",
+   "https://lsom.uthscsa.edu/neurosurgery/graduation-2024/",
+   "https://lsom.uthscsa.edu/neurosurgery/team-members/residents/",
+   "https://jamaicahospital.org/graduate-medical-education/residency-program-{family-medicine,internal-medicine,ob-gyn,ophthalmology}/residents/",
+   "https://jamaicahospital.org/clinical-services/neurosurgery/",
+   "https://jamaicahospital.org/clinical-services/surgery/",
+   "https://jamaicahospital.org/clinical-services/stroke-care/team/"
+  ],
+  "queries_tried": [
+   "\"Garcia Gorbea\" OR \"Garcia-Gorbea\" MD",
+   "\"Erick Garcia\" neurosurgery Puerto Rico OR Ponce OR fellowship OR spine",
+   "UT Health San Antonio neurosurgery residency alumni graduates 2020 2021 list",
+   "\"Erick Garcia\" neurosurgeon OR \"Erick G. Garcia\" neurosurgery practice OR hospital 2025",
+   "Jamaica Hospital Medical Center residents \"Garcia Gorbea\" OR \"Erick Garcia\"",
+   "jamaicahospital.org neurosurgery physicians Garcia"
+  ]
+ },
+ {
+  "key": "94:wor:george",
+  "name": "Woro George",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Same-city sweep (Columbia MO): absent from every current Mizzou resident roster (neurosurgery, neurology, radiology, anesthesiology, EM, PM&R, psychiatry, general surgery, plastics, ortho, ENT, ophthalmology, IM PGY1-3, FM yr1-3, pathology, derm, OB/GYN, urology, peds, med-peds). Lead city Denver (CU MD 2024; CU hooding program 2024 confirms graduation): absent from CU anesthesiology, IM housestaff, med-peds, neurology residents + fellows, neurosurgery, orthopaedics, pathology PGY1-4, rad onc, DR (R1/incoming), IR, general surgery rosters. Neighbouring-state neurosurgery rosters (UNMC, Iowa, UAMS) negative. No program page, announcement or bio found; WebMD note that he left MU Health Care is only a directory hint.",
+  "sources": [
+   "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents",
+   "https://medschool.cuanschutz.edu/docs/librariesprovider31/education-docs/graduation/2024-hooding-oath-program-final---5-13-24-1.pdf?sfvrsn=5e20dfbb_1"
+  ],
+  "rosters_checked": [
+   "(all Mizzou rosters listed for 94:wes:chen)",
+   "https://medschool.cuanschutz.edu/anesthesiology/education/residency/current-residents",
+   "https://medschool.cuanschutz.edu/medicine/education/internal-medicine-residency-training-program/current-housestaff/meet-our-housestaff",
+   "https://medschool.cuanschutz.edu/medicine/education/medicine-pediatrics-residency-program/about-us/residents",
+   "https://medschool.cuanschutz.edu/neurology/residency/meet-the-residents",
+   "https://medschool.cuanschutz.edu/neurology/fellowship/meet-the-fellows",
+   "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+   "https://medschool.cuanschutz.edu/orthopedics/education/residency/meet-our-residents",
+   "https://medschool.cuanschutz.edu/pathology/department-of-pathology-about-us/residents-and-fellows/residents-pgy-{1,2,3,4}",
+   "https://medschool.cuanschutz.edu/radiation-oncology/education/radiation-oncology-residency-program/meet-the-residents",
+   "https://medschool.cuanschutz.edu/radiology/education/diagnostic-radiology-residency/meet-the-residents (+r1, incoming)",
+   "https://medschool.cuanschutz.edu/radiology/education/interventional-residency/meet-our-ir-residents",
+   "https://medschool.cuanschutz.edu/surgery/education/general-surgery-residency/current-residents",
+   "https://www.unmc.edu/neurosurgery/education/residency/residents.html",
+   "https://medicine.uiowa.edu/neurosurgery/education/residency/current-residents",
+   "https://www.uams.edu/neurosurgery/residency/current-residents"
+  ],
+  "queries_tried": [
+   "\"Woro\" George resident Colorado OR Denver OR Missouri OR \"Kansas City\" OR \"St. Louis\"",
+   "site:cuanschutz.edu \"Woro George\"",
+   "\"Woro George\" OR \"George, Woro\" 2025 OR 2026",
+   "\"Woro\" resident \"University of Colorado School of Medicine\" PGY"
+  ]
+ },
+ {
+  "key": "89:ada:hunt",
+  "name": "Adam Hunt",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Same-city sweep: not on any current UMMC/UMSOM resident roster (neurosurgery incl. bios, neurology, diagnostic radiology, psychiatry PGY1-2, general surgery, orthopaedics, ophthalmology, ENT, urology, OB/GYN, pediatrics, CT surgery, IM PGY1/PGY2/prelim interns, family medicine, pathology). Lead city Philadelphia (SKMC 2025): not on any current Jefferson resident page (anesthesiology, EM, FM, neurology, neurosurgery, ENT, pathology, psychiatry, DR, IR independent/integrated, PM&R, surgery, urology, orthopaedics, rad onc) nor Temple IM. Neighbouring neurosurgery rosters (GWU, UVA, Rochester) negative. Hopkins pages returned 403. No destination source found.",
+  "sources": [
+   "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/residents"
+  ],
+  "rosters_checked": [
+   "https://www.umms.org/ummc/pros/gme/residency/{neurology,diagnostic-radiology,psychiatry,general-surgery,orthopaedic-surgery,ophthalmology,internal-medicine,family-medicine,pathology-residency,neurosurgery,otorhinolaryngology,urology,obstetrics-gynecology,pediatric,cardiothoracic-surgery}/residents",
+   "https://www.umms.org/ummc/pros/gme/residency/internal-medicine/residents/{pgy-1,pgy-2,prelim-interns}",
+   "https://www.umms.org/ummc/pros/gme/residency/psychiatry/residents/{pgy1,pgy2}",
+   "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/residents/bios",
+   "https://www.medschool.umaryland.edu/pathology/education/about-our-residents/",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/anesthesiology/education/residency/residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/emergency-medicine/education/residency/residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/family-medicine/residency/team/residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/neurology/education/residency/residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/neurosurgery/education/residency/residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/otolaryngology/education/residency/residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/pathology/programs/residency/residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/psychiatry/programs/residency/residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/radiology/educational-programs/residency/diagnostic-radiology-residency/our-residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/radiology/educational-programs/residency/interventional-radiology-integrated/current-residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/rehabilitation/programs/residency/residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/surgery/educational-programs/residency/current-residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/urology/programs/residency/current-residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/orthopaedic-surgery/programs/residency/residents.html",
+   "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/radiation-oncology/programs/residency/residents.html",
+   "https://medicine.temple.edu/education/graduate-medical-education/residency-programs-fellowships/medicine/internal-medicine-residency-program/resident-life/current-residents",
+   "https://neurosurgery.smhs.gwu.edu/our-residents",
+   "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+   "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents",
+   "[403] Hopkins Osler housestaff / neurosurgery"
+  ],
+  "queries_tried": [
+   "\"Adam Hunt\" resident physician PGY-2 2026",
+   "site:umms.org \"Hunt\" resident",
+   "University of Maryland anesthesiology residents current residents",
+   "\"Adam Hunt\" Jefferson OR Temple OR Penn OR Hopkins resident intern 2026",
+   "\"Adam Hunt, MD\" OR \"Hunt, Adam\" residency program residents",
+   "neurosurgery residents \"Adam Hunt\" PGY"
+  ]
+ },
+ {
+  "key": "97:sye:kazim",
+  "name": "Syed Faraz Kazim",
+  "outcome": "left_destination_unknown",
+  "destination": "Lead (unconfirmed): a Massachusetts neurosurgery residency at junior level per May 2026 MA Board of Registration in Medicine limited-license item",
+  "year_started_destination": null,
+  "evidence": "Checked the current neurosurgery rosters of Massachusetts programs: Tufts Medical Center (PGY1 Besley ... PGY7 Dincer/Kosarchuk), BIDMC-BMC combined program (PGY1 Jha, Serrato; PGY2 Im ... PGY7), UMass Chan (PGY1 Leskinen ... PGY7 Owusu-Adjei) - Kazim not listed on any. Mass General Brigham integrated program (first class matched 2026) has no public roster: legacy MGH/BWH current-resident pages now redirect to service pages and the MGB program page lists no residents. So the MA lead could only fit MGB (unverifiable) or a start not yet posted. No dated program source names him. Note: live UNM neurosurgery 'Our Residents' page still lists 'Post Graduate Year 4 Syed Faraz Kazim', but its HTTP Last-Modified is 8 May 2025 (stale; same content as Aug 2025 Wayback), so it does not show him as a current UNM resident.",
+  "sources": [
+   "https://www.tuftsmedicine.org/medical-professionals-trainees/training-education/training-programs/neurosurgery-residency-program-new/neurosurgery-residency-program-our-people/neurosurgery-residency-program-current-residents",
+   "https://research.bidmc.org/surgery-gme/neurosurgical-residency",
+   "https://www.umassmed.edu/neurosurgery/neurosurgery-residency/who-we-are/our-residents/",
+   "https://research.massgeneralbrigham.org/en/education-and-training/graduate-medical-education/neurosurgery/mgb-neurosurgery-residency-program"
+  ],
+  "rosters_checked": [
+   "https://www.tuftsmedicine.org/.../neurosurgery-residency-program-current-residents",
+   "https://research.bidmc.org/surgery-gme/neurosurgical-residency",
+   "https://www.umassmed.edu/neurosurgery/neurosurgery-residency/who-we-are/our-residents/ (Chrome)",
+   "https://www.bmc.org/neurosurgery/our-team",
+   "https://www.massgeneral.org/neurosurgery/doctors/current-residents (301 -> service page)",
+   "https://www.brighamandwomens.org/neurosurgery/residency/current-residents (301 -> service page)",
+   "https://research.massgeneralbrigham.org/en/education-and-training/graduate-medical-education/neurosurgery/mgb-neurosurgery-residency-program (no roster)",
+   "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency/our-residents.html (stale, Last-Modified 2025-05-08)"
+  ],
+  "queries_tried": [
+   "\"Kazim\" neurosurgery resident Boston OR Tufts OR UMass OR \"Mass General\" OR Brigham 2026",
+   "\"Kazim\" UMass Chan OR \"Boston Medical Center\" OR \"Boston University\" neurosurgery residents",
+   "BIDMC BMC neurosurgery residency \"current residents\" PGY-1 PGY-2",
+   "UMass Chan neurosurgery residency \"residents\" site:umassmed.edu",
+   "Mass General Brigham neurosurgery residency current residents 2026-2027"
+  ]
+ },
+ {
+  "key": "107:yuj:shentu",
+  "name": "Yujia Shentu",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Same-city sweep: grepped 102 current McGovern/UTHealth Houston roster pages harvested from department sitemaps (anesthesiology CA1-3/interns, dermatology, EM classes 2026-2029, FM PGY1-3, IM roster PGY1-3, neurology residents/fellows, neurosurgery, OB/GYN, ophthalmology, pathology, pediatrics PGY1-3, peds neurology, PM&R roster + fellows, psychiatry residents and individual PGY bio pages, etc.) - no Shentu. No bcm.edu or houstonmethodist.org page mentions her. Directories (WebMD) still list Houston neurosurgery; LinkedIn/X exist but not readable (auth). Background: Dartmouth Geisel MD 2023, WUSTL BS/MS 2017, prior psychiatry/substance-use publications (possible psychiatry lead, but not on UTHealth psychiatry pages). No program page, dated announcement or bio found.",
+  "sources": [
+   "https://med.uth.edu/neurosurgery/education/residency/current-residents/"
+  ],
+  "rosters_checked": [
+   "102 med.uth.edu roster pages (list in scratchpad uth_chk.txt), incl. https://med.uth.edu/psychiatry/meet-our-residents/",
+   "https://med.uth.edu/neurology/education/residency-training-program/meet-our-residents/",
+   "https://med.uth.edu/pmr/ut-houston-pmr-residency/resident-roster/",
+   "https://med.uth.edu/emergencymedicine/education/residency/2027-residents/ (and 2026/2028/2029)",
+   "https://med.uth.edu/anesthesiology/education/residency/residents/",
+   "https://med.uth.edu/internalmedicine/education/residency/current-residents/residency-roster/pgy-1/ (pgy-2, pgy-3)",
+   "https://med.uth.edu/familymedicine/residency-program/pgy-1-roster-1/",
+   "https://med.uth.edu/pathology/educational-programs/residency-program/current-residents-and-fellows/",
+   "https://med.uth.edu/ophthalmology/education/residency-program/residents-roster/",
+   "https://med.uth.edu/obgyn/education/residency/our-current-residents/"
+  ],
+  "queries_tried": [
+   "\"Shentu\" resident Houston OR UTHealth OR Baylor OR Methodist 2026",
+   "\"Yujia Shentu\"",
+   "\"Shentu\" psychiatry OR neurology OR radiology OR anesthesiology resident PGY 2026",
+   "site:bcm.edu OR site:houstonmethodist.org \"Shentu\""
+  ]
+ },
+ {
+  "key": "108:dan:smerin",
+  "name": "Daniel Li Smerin",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Same-city sweep: grepped 40 current UT Health San Antonio (Long SOM) roster pages harvested from department sitemaps - anesthesiology, EM, FM classes 2027-2029, IM, neurology, neurosurgery, ophthalmology, orthopaedics, ENT, pathology, psychiatry PGY1-4 + classes 2027-2030, DR + IR, PM&R (rehab) roster/directory, general surgery, plastics, surgery resident-fellow directory - no Smerin. site:uthscsa.edu search returns only 2021-2023 neurosurgery items (match, orientation, AANS/Natus award) and a 2024 paper. Lead city Orlando (2024 paper with UCF neurosurgery affiliation): UCF/HCA neurosurgery already checked in prior round; no other UCF hit. No program page, announcement or bio found.",
+  "sources": [
+   "https://lsom.uthscsa.edu/neurosurgery/education/residency/current-residents/",
+   "https://lsom.uthscsa.edu/neurosurgery/2021-2022-residency-applicant-matches/"
+  ],
+  "rosters_checked": [
+   "https://lsom.uthscsa.edu/anesthesiology/education/residency/current-residents/",
+   "https://lsom.uthscsa.edu/anesthesiology/education/residency/residents/",
+   "https://lsom.uthscsa.edu/anesthesiology/residents-fellows/",
+   "https://lsom.uthscsa.edu/emergency-medicine/team/current-residents/",
+   "https://lsom.uthscsa.edu/emergency-medicine/team/residents/",
+   "https://lsom.uthscsa.edu/family-medicine/family-medicine-residents/",
+   "https://lsom.uthscsa.edu/family-medicine/resident-class-of-2027/",
+   "https://lsom.uthscsa.edu/family-medicine/resident-class-of-2028/",
+   "https://lsom.uthscsa.edu/family-medicine/resident-class-of-2029/",
+   "https://lsom.uthscsa.edu/medicine/education/internal-medicine-residency/current-residents/",
+   "https://lsom.uthscsa.edu/medicine/education/internal-medicine-residency/current-residents/chief-residents/",
+   "https://lsom.uthscsa.edu/neurology/education/residency-program/current-residents/",
+   "https://lsom.uthscsa.edu/neurosurgery/education/residency/current-residents/",
+   "https://lsom.uthscsa.edu/neurosurgery/team-members/residents/",
+   "https://lsom.uthscsa.edu/ophthalmology/education/residency/current-residents/",
+   "https://lsom.uthscsa.edu/orthopaedics/education/residency/orthopaedic-surgery/current-residents/",
+   "https://lsom.uthscsa.edu/otolaryngology/academics/residency/current-residents/",
+   "https://lsom.uthscsa.edu/otolaryngology/academics/residents/",
+   "https://lsom.uthscsa.edu/pathology/education/residency/current-pathology-residents-2/",
+   "https://lsom.uthscsa.edu/pathology/education/residency/current-pathology-residents/",
+   "https://lsom.uthscsa.edu/pathology/pathology-roster/",
+   "https://lsom.uthscsa.edu/psychiatry/education/general-meet-residents/",
+   "https://lsom.uthscsa.edu/psychiatry/education/residency/general-psychiatry/pgy1/",
+   "https://lsom.uthscsa.edu/psychiatry/education/residency/general-psychiatry/pgy2/",
+   "https://lsom.uthscsa.edu/psychiatry/education/residency/general-psychiatry/pgy3/",
+   "https://lsom.uthscsa.edu/psychiatry/education/residency/general-psychiatry/pgy4/",
+   "https://lsom.uthscsa.edu/psychiatry/education/residency/meet-our-residents/",
+   "https://lsom.uthscsa.edu/psychiatry/education/residency/meet-our-residents/classof2027/",
+   "https://lsom.uthscsa.edu/psychiatry/education/residency/meet-our-residents/classof2028/",
+   "https://lsom.uthscsa.edu/psychiatry/education/residency/meet-our-residents/classof2029/",
+   "https://lsom.uthscsa.edu/psychiatry/education/residency/meet-our-residents/classof2030/",
+   "https://lsom.uthscsa.edu/radiology/education/residencies/current-ir-residents/",
+   "https://lsom.uthscsa.edu/radiology/education/residencies/current-residents/",
+   "https://lsom.uthscsa.edu/radiology/education/residencies/diagnostic/ut-health-san-antonio-combined-resident-ph-d-program/",
+   "https://lsom.uthscsa.edu/rehab/residency/current-residents/",
+   "https://lsom.uthscsa.edu/rehab/residency/our-current-residents/",
+   "https://lsom.uthscsa.edu/rehab/residency/resident-directory/",
+   "https://lsom.uthscsa.edu/surgery/education/surgical-residencies/general-surgery-residency/current-residents/",
+   "https://lsom.uthscsa.edu/surgery/education/surgical-residencies/plastic-surgery-residency/current-residents/",
+   "https://lsom.uthscsa.edu/surgery/resident-fellow-directory/"
+  ],
+  "queries_tried": [
+   "site:uthscsa.edu \"Smerin\"",
+   "\"Smerin\" resident Orlando OR Florida OR \"San Antonio\" 2026 residents",
+   "\"Daniel Smerin\" medical school OR \"University of Central Florida\" OR UCF College of Medicine",
+   "lsom.uthscsa.edu current residents neurology OR anesthesiology OR radiology OR psychiatry OR rehabilitation residency",
+   "[fetch] UTHSA 2021-22 match post (no med school given)"
+  ]
+ },
+ {
+  "key": "111:phi:tatman",
+  "name": "Philip Tatman",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Same-city sweep (Salt Lake City): absent from current University of Utah rosters - anesthesiology, EM, PM&R, psychiatry, surgery (all surgical residents page), orthopaedics, ENT, ophthalmology, internal medicine, pathology, radiation oncology, neurology, neurosurgery, radiology. site:medicine.utah.edu returns only his (now unpublished/403) neurosurgery bio, which described him as CU MD/PhD, former mountain guide, interested in neurocritical care, CNS tumors and cerebrovascular surgery. Lead city Denver (CU MD/PhD): absent from CU anesthesiology, IM, med-peds, neurology residents + fellows, neurosurgery, ortho, pathology PGY1-4, rad onc, DR, IR, general surgery, PM&R rosters. No dated 2026 source names him (so research year cannot be recorded); no other program page or announcement found.",
+  "sources": [
+   "https://medicine.utah.edu/neurosurgery/residents/philip-tatman",
+   "https://medicine.utah.edu/neurosurgery/residents"
+  ],
+  "rosters_checked": [
+   "https://medicine.utah.edu/anesthesiology/residents",
+   "https://medicine.utah.edu/emergency-medicine/residency/current-residents",
+   "https://medicine.utah.edu/pmr/residency/residents",
+   "https://medicine.utah.edu/psychiatry/residents",
+   "https://medicine.utah.edu/surgery/residents",
+   "https://medicine.utah.edu/orthopaedics/residency/residents",
+   "https://medicine.utah.edu/otolaryngology/residency/residents",
+   "https://medicine.utah.edu/ophthalmology/residents",
+   "https://medicine.utah.edu/internal-medicine/residents",
+   "https://medicine.utah.edu/pathology/residency/current-residents",
+   "https://medicine.utah.edu/radiation-oncology/residency/current-residents",
+   "https://medicine.utah.edu/neurology/residents",
+   "https://medicine.utah.edu/neurosurgery/residents",
+   "https://medicine.utah.edu/radiology/residents",
+   "https://medschool.cuanschutz.edu/physical-medicine-and-rehabilitation/education/residency-training/current-residents",
+   "(all CU Anschutz rosters listed for 94:wor:george)"
+  ],
+  "queries_tried": [
+   "site:medicine.utah.edu \"Tatman\"",
+   "\"Tatman\" resident \"University of Colorado\" MD PhD neurology OR radiology OR anesthesiology OR \"physical medicine\" 2026"
+  ]
+ },
+ {
+  "key": "97:fra:westhout",
+  "name": "Franklin Westhout",
+  "outcome": "left_destination_unknown",
+  "destination": "Lead (directory only): general-practice physician, Good Neighbor Clinic AMC, Los Angeles; formerly owner of San Pedro Urgent Care - Park Plaza (940 N Western Ave; now closed)",
+  "year_started_destination": null,
+  "evidence": "Left UNM neurosurgery 2013 (Doximity: UNM neurosurgery 2011-2013, Cedars-Sinai surgery 2007-08, Howard MD 2006). No later residency. Roster sweep not applicable in the usual sense (left 13 years ago; practicing, not training). Current health-plan provider directory (UCLA Health Medicare Advantage) lists 'Franklin D. Westhout, MD' with specialty 'General Practice Physician' at Good Neighbor Clinic AMC, Los Angeles (Blue Zones Health network), accepting new patients; Sharecare/search snippets place Good Neighbor Clinic AMC at 4300 Crenshaw Blvd LA. His urgent-care practice at 940 N Western Ave, San Pedro (matches org NPI 1801428800) is listed as closed (Yelp, July 2026). Consumer directories still label him 'neurosurgeon' (stale). No neurosurgery completion, board certification or program page found. All sources are directories (leads, not proof), so destination not confirmed; pattern consistent with leaving neurosurgery training in 2013 and practicing as a general/urgent-care physician.",
+  "sources": [
+   "https://www.uclahealthmedicareadvantage.org/providers/franklin-westhout",
+   "https://www.doximity.com/pub/franklin-westhout-md",
+   "https://www.yelp.com/biz/san-pedro-urgent-care-park-plaza-san-pedro-2",
+   "https://www.sharecare.com/find-a-doctor/group-profile/ca-california/los-angeles/good-neighbor-clinic-amc-x5t7fq"
+  ],
+  "rosters_checked": [
+   "[n/a - practicing physician since ~2013; checked provider directories] https://www.uclahealthmedicareadvantage.org/providers/franklin-westhout",
+   "https://www.sanpedrourgentcare.com (404)"
+  ],
+  "queries_tried": [
+   "Westhout urgent care San Pedro \"Western Ave\"",
+   "\"Dr. Franklin Westhout\" OR \"Franklin Westhout M.D.\"",
+   "\"Good Neighbor Clinic\" Westhout",
+   "[fetch] uclahealthmedicareadvantage provider page",
+   "[fetch] sanpedrourgentcare.com (404)"
+  ]
+ },
+ {
+  "key": "99:ali:westrup",
+  "name": "Alison Westrup",
+  "outcome": "switched_specialty",
+  "destination": "INTEGRIS Health Diagnostic Radiology Residency (Oklahoma City), PGY-2",
+  "year_started_destination": 2026,
+  "evidence": "INTEGRIS Health Diagnostic Radiology 'Current Residents' page (opened in own Chrome tab 2026-09-29, (c)2026) lists 'Alison Westrup, MD - Medical School: University of Oklahoma School of Medicine' in the PGY-2 panel. Same person: OU MD 2022, OU neurosurgery 2022-23 (roster last seen 2022-23). LinkedIn snippet (lead only) shows OUHSC July 2022-Aug 2023 then physician in urgent care in Norman OK, consistent with leaving OU neurosurgery after PGY-1, working in urgent care, then entering INTEGRIS DR (advanced program starts at PGY-2) - so start year ~2026 (page is current 2026-27 roster; exact start year inferred, not stated). Attrition from neurosurgery (no completion).",
+  "sources": [
+   "https://integrishealth.org/careers/career-development/graduate-medical-education/residency-programs/diagnostic-radiology-residency-program/current-residents",
+   "https://www.linkedin.com/in/alison-westrup-4b8039286/"
+  ],
+  "rosters_checked": [
+   "https://integrishealth.org/careers/career-development/graduate-medical-education/residency-programs/diagnostic-radiology-residency-program/current-residents (Chrome; found, PGY-2)",
+   "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents (Chrome navigation blocked)"
+  ],
+  "queries_tried": [
+   "\"Westrup\" neurosurgery resident Oklahoma OU Health",
+   "\"Alison Westrup\" OR \"Allison Westrup\" resident OR residency OR PGY",
+   "\"Westrup\" urgent care Norman OR Moore Oklahoma Dr.",
+   "\"Alison Westrup\" MD"
+  ]
+ }
+]

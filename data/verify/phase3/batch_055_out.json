@@ -1,0 +1,1082 @@
+[
+ {
+  "key": "84:fah:dawoud",
+  "name": "Fahkry Dawoud",
+  "program_id": 84,
+  "identity": "confirmed",
+  "identity_basis": "UIC Peoria profile lists Fakhry Dawoud, ETSU Quillen MD 2021, Diagnostic Radiology Class of 2026; Doximity same MD school/IL license 2021-2026; DB listing 'Fahkry (Bavly) Dawoud'",
+  "residency_stated": [
+   {
+    "institution": "University of Illinois College of Medicine at Peoria",
+    "specialty": "diagnostic radiology",
+    "start": 2022,
+    "end": 2026
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left neurosurgery after 2021-22 PGY-1; now listed as Diagnostic Radiology resident, Class of 2026, at UIC Peoria (same institution). Exact start year of radiology not stated.",
+  "year_left": 2022,
+  "destination_program": "UIC College of Medicine at Peoria - Diagnostic Radiology",
+  "destination_start_year": 2022,
+  "current": "diagnostic radiology resident, UI College of Medicine Peoria",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://peoria.medicine.uic.edu/profiles/dawoud-fakhry/",
+    "type": "program_page",
+    "evidence": "Diagnostic Radiology Residency, Class of 2026, ETSU Quillen College of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/fakhry-dawoud-md",
+    "type": "doximity",
+    "evidence": "East Tennessee State University James H. Quillen College of Medicine, Class of 2021; IL State Medical License 2021-2026; no ABNS"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "85:jan:smietana",
+  "name": "Janel Smietana",
+  "program_id": 85,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Buffalo 2011, IA license 2011-2017, CNS member, PubMed neurosurgery papers with Iowa authors (Mahaney, Chalouhi); own practice site says internship in neurosurgery then psychiatry residency",
+  "residency_stated": [
+   {
+    "institution": "University of Iowa (neurosurgery)",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2014
+   },
+   {
+    "institution": "Delaware (Dept of Substance Abuse and Mental Health)",
+    "specialty": "psychiatry",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Iowa neurosurgery after 2013-14; completed psychiatry residency in Delaware (chief resident).",
+  "year_left": 2014,
+  "destination_program": "Delaware Dept of Substance Abuse and Mental Health - Psychiatry",
+  "destination_start_year": 2014,
+  "current": "psychiatrist, New York, NY (private practice)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/janel-smietana-md",
+    "type": "doximity",
+    "evidence": "Psychiatry, New York; Buffalo Class of 2011; IA license 2011-2017"
+   },
+   {
+    "url": "https://www.drjanelspsychiatry.org/about-3",
+    "type": "search_snippet",
+    "evidence": "completed internship in Neurological Surgery, ultimately completing Psychiatry residency in Delaware"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "85:wil:haselden",
+  "name": "William Haselden",
+  "program_id": 85,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Iowa lab page: William Davis Haselden MD/PhD Penn State, Iowa neurosurgery resident; Europe PMC 2026 paper lists him at Dept of Neurology, University of Iowa",
+  "residency_stated": [
+   {
+    "institution": "University of Iowa (neurosurgery)",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2025
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left neurosurgery after 2024-25 PGY-2; 2026 paper (PMID 41815315) affiliation 'Department of Neurology ... University of Iowa' i.e. switched to neurology at Iowa (same institution). Doximity/lab pages still say neurosurgery (stale).",
+  "year_left": 2025,
+  "destination_program": "University of Iowa - Neurology",
+  "destination_start_year": 2025,
+  "current": "neurology trainee, University of Iowa",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://cerebrovascular.lab.uiowa.edu/node/291",
+    "type": "bio",
+    "evidence": "Neurosurgery resident at the University of Iowa (stale)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/william-haselden-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Iowa City; Penn State College of Medicine; IA license 2023-2030"
+   },
+   {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41815315/",
+    "type": "pubmed",
+    "evidence": "Department of Neurology (... W.D.H. ...), University of Iowa (via Europe PMC)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "86:kev:chatley",
+  "name": "Kevin Chatley",
+  "program_id": 86,
+  "identity": "probable",
+  "identity_basis": "Directory listings: Kevin S. Chatley MD, Paul L Foster SOM (TTUHSC El Paso) 2017, neurological surgery, KU Hospital; entry 2017 consistent",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Could not establish from public sources whether he left or is still training/researching at KU. Directories (Healthgrades/WebMD) list him as neurological surgery at KU Hospital, member AANS/CNS Spine Section; not on KU neurosurgery faculty page. No Doximity page. Not established as completed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "listed as neurological surgery, University of Kansas Hospital (directories)",
+  "agrees_with_db": null,
+  "disagreement": "Db says left; sources only show ongoing neurosurgery affiliation at KU (unresolved).",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-kevin-chatley-xyn7fsv",
+    "type": "search_snippet",
+    "evidence": "graduated from Paul L Foster School of Medicine 2017... Neurological Surgery ... affiliated with The University Of Kansas Hospital"
+   },
+   {
+    "url": "https://spinesection.org/members-list/kevin-chatley/",
+    "type": "search_snippet",
+    "evidence": "member AANS/CNS Spine Section"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "87:lin:hughes",
+  "name": "Lindsey Hughes",
+  "program_id": 87,
+  "identity": "confirmed",
+  "identity_basis": "UNC bio: Lindsey Hughes Tyler MD (listed under a different surname), neurosurgery residency and chief resident at University of Kentucky Chandler Medical Center; DB entry 2007 PGY-6 in 2012-13 consistent",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky",
+    "specialty": "neurosurgery",
+    "start": 2007,
+    "end": 2013
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UK neurosurgery residency (chief resident); ABNS certified; not a departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, UNC Health Nash, Rocky Mount/Wilson NC",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT; sources show she completed UK residency (chief resident) and is ABNS certified.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.med.unc.edu/neurosurgery/directory/lindsey-hughes-tyler-md/",
+    "type": "bio",
+    "evidence": "completed her surgical internship and neurosurgery residency at the University of Kentucky Chandler Medical Center; chief resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/lindsey-tyler-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Wilson NC; ECU Brody Class of 2007; American Board of Neurological Surgery; KY license 2009-2013"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "87:bar:brown",
+  "name": "Barrett Brown",
+  "program_id": 87,
+  "identity": "probable",
+  "identity_basis": "Sharecare/MD.com listings: Barrett Brown MD, University of Kentucky College of Medicine, neurosurgery residency at University of Kentucky, TN Brain and Spine, Alcoa TN; Doximity search returned only pathology/orthopaedic namesakes (excluded)",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Directory listings state UK neurosurgery residency and current practice as neurosurgeon in Alcoa TN; no dates or faculty bio found.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, TN Brain and Spine, Alcoa TN",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT; directory listings indicate completed UK neurosurgery and practises neurosurgery (identity probable, no ABNS page seen).",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.sharecare.com/doctor/dr-barrett-w-brown",
+    "type": "search_snippet",
+    "evidence": "graduated from University of Kentucky College of Medicine before completing a residency in Neurosurgery at University of Kentucky... TN Brain and Spine"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "87:sar:thomas",
+  "name": "Sarah Thomas",
+  "program_id": 87,
+  "identity": "probable",
+  "identity_basis": "UK College of Medicine people page lists Sarah Thomas, UK MD 2022, neurosurgery residency 2022-2029 (PGY-2 at snapshot); Doximity/WebMD list a Sarah Thomas neurosurgery Lexington KY",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "UK profile (search snippet) still lists her as PGY-2, residency 2022-2029; but she is absent from the current UK trainee page (PGY-1..7 list). Departure not corroborated and destination not found. Doximity page (sarah-thomas-md-04be85dd) is disabled.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unclear; possibly still UK neurosurgery",
+  "agrees_with_db": null,
+  "disagreement": "Cannot confirm the departure; UK bio page (stale?) still lists her in the residency.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/users/shth223",
+    "type": "search_snippet",
+    "evidence": "PGY-2 neurosurgery resident ... graduated UK College of Medicine 2022 ... residency 2022-2029"
+   },
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "current trainee list PGY-1 to PGY-7 has no Sarah Thomas"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:rya:nazar",
+  "name": "Ryan Nazar",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Ryan Gregory Nazar, UK College of Medicine 2011, Neurosurgery Clinic Award University of Louisville 2014, NSK Resident Research Award 2015, KY license 2016-2019; search snippet: neurosurgery internship in Toronto then residency in Louisville",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2016
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Louisville neurosurgery after 2015-16; now 'Other MD/DO', founder of SurgeonIDEAS LLC and Practical Healthcare CEO, board-certified in disability medicine / independent medical evaluation. Exact year of leaving from sources: not stated (resident awards through 2015; DB last seen 2015-16).",
+  "year_left": 2016,
+  "destination_program": "non-neurosurgical career (disability medicine/IME, entrepreneur)",
+  "destination_start_year": null,
+  "current": "physician-entrepreneur / independent medical evaluations (disability medicine), Louisville KY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-nazar-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Louisville; UK Class of 2011; Neurosurgery Clinic Award, University of Louisville, 2014; KY license 2016-2019; no ABNS; SurgeonIDEAS"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-ryan-nazar-g6lcn",
+    "type": "search_snippet",
+    "evidence": "pursue neurosurgery, heading to Toronto for an internship and later Louisville for his residency ... board-certified disability medicine physician"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "88:jef:rice",
+  "name": "Jeffrey Rice",
+  "program_id": 88,
+  "identity": "probable",
+  "identity_basis": "Doximity: Jeffrey M Rice MD MPH, Louisville MD 2010, KY license 2016-2024, CNS member, Neurological Surgery residency University of Arizona 2010-2013; DB note names Jeffrey M. Rice, MD, UofL SOM. The dates conflict (Arizona 2010-13 vs Louisville PGY-4 2017-18) so timeline is uncertain",
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2010,
+    "end": 2013
+   },
+   {
+    "institution": "Navy Medicine Operational Training Center Aerospace Medicine",
+    "specialty": "preventive medicine",
+    "start": 2021,
+    "end": 2023
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity: after neurosurgery residency (Arizona 2010-2013, KY license from 2016) later residency in Preventive Medicine/Aerospace medicine (2021-2023), currently Navy CVN-72 SMO San Diego. No evidence he completed neurosurgery at Louisville; left Louisville by 2018. Some directories (WebMD/Vitals) still list him as neurological surgery, Tucson.",
+  "year_left": 2018,
+  "destination_program": "Navy Aerospace Medicine - Preventive Medicine",
+  "destination_start_year": 2021,
+  "current": "aerospace/preventive medicine physician (Navy), San Diego CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jeffrey-rice-md-5875b948",
+    "type": "doximity",
+    "evidence": "Residency, Preventive Medicine 2021-2023; Residency, Neurological Surgery, University of Arizona 2010-2013; University of Louisville Class of 2010; KY license 2016-2024"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/jeffrey-rice-c01ac036-7fa9-4b8d-828d-c0ca8a883a29-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery, Tucson AZ"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "88:hyu:lee",
+  "name": "Hyunchul Lee",
+  "program_id": 88,
+  "identity": "probable",
+  "identity_basis": "UofL neurosurgery department page and WebMD list Hyunchul Lee MBBS PhD (Sydney 2013), UofL Department of Neurosurgery, Louisville KY; no independent training-years page found",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No evidence of departure found; UofL neurosurgery department page (login/redirect) and WebMD still list him as a UofL neurosurgeon/researcher; possibly a research-track or still-affiliated trainee. Not confirmed as completed or left.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "listed at UofL Department of Neurosurgery",
+  "agrees_with_db": null,
+  "disagreement": "DB says LEFT; sources still show UofL neurosurgery affiliation (unresolved).",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/hyunchul-lee-0bd662a3-e276-493e-a1bb-23af61afb2a5-overview",
+    "type": "search_snippet",
+    "evidence": "Neurosurgeon Louisville KY; University of Sydney 2013; University of Louisville School of Medicine Department of Neurosurgery"
+   },
+   {
+    "url": "https://louisville.edu/medicine/departments/neurosurgery/hyunchul-lee/login",
+    "type": "search_snippet",
+    "evidence": "Hyunchul Lee, MBBS, PhD - School of Medicine University of Louisville"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "88:enz:viacava",
+  "name": "Enzo Fortuny Viacava",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "UofL department page and search snippets: Enzo Fortuny Viacava MD (Universidad Catolica Boliviana 2015), UofL cerebrovascular research fellow then neurosurgery resident 2020; Doximity KY license 2021-2024",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No public evidence of where he went; Doximity lists 'Other MD/DO' Louisville with KY license ending 2024; UofL page still shows him as resident/research scholar (probably stale). Not established.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unclear (possibly still UofL)",
+  "agrees_with_db": null,
+  "disagreement": "DB says LEFT; nothing found confirming departure.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/enzo-fortuny-viacava-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Louisville KY, Class of 2015; KY license 2021-2024"
+   },
+   {
+    "url": "https://louisville.edu/medicine/departments/neurosurgery/enzo-fortuny-viacava",
+    "type": "search_snippet",
+    "evidence": "continued with UofL as neurosurgical resident in 2020"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "88:lyd:leavitt",
+  "name": "Lydia Leavitt",
+  "program_id": 88,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Lydia Leavitt MD, University of Illinois College of Medicine Rockford, KY license 2024-2025, UT license 2025-2028, resident physician Salt Lake City; 2023 AANS bio: starting neurosurgery residency at Louisville; UAFP: St. Mark's resident, family medicine",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2025
+   },
+   {
+    "institution": "St. Mark's Hospital (Salt Lake City)",
+    "specialty": "family medicine",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Louisville neurosurgery in 2025; now family medicine resident at St. Mark's, Salt Lake City UT (UAFP profile posted July 2026 says she chose family medicine).",
+  "year_left": 2025,
+  "destination_program": "St. Mark's Hospital family medicine residency, Salt Lake City",
+  "destination_start_year": 2025,
+  "current": "family medicine resident, St. Mark's, Salt Lake City",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://utahafp.org/st-marks-resident-representative-lydia-leavitt-md/",
+    "type": "bio",
+    "evidence": "I chose family medicine because it allows me to combine meaningful long-term patient relationships"
+   },
+   {
+    "url": "https://www.doximity.com/pub/lydia-leavitt-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Salt Lake City; Illinois Rockford; KY license 2024-2025; UT license 2025-2028"
+   },
+   {
+    "url": "https://2023aansannualmeeting.eventscribe.net/ajaxcalls/posterPresenterInfo.asp?PresenterID=1433299",
+    "type": "search_snippet",
+    "evidence": "starting her neurosurgical residency at the University of Louisville"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "89:abd:ahmed",
+  "name": "Abdul-Kareem Ahmed",
+  "program_id": 89,
+  "identity": "probable",
+  "identity_basis": "LinkedIn/WebMD/neurosurgen: Abdul-Kareem Ahmed, Brown MD, neurosurgery resident University of Maryland; Baltimore listing",
+  "residency_stated": [
+   {
+    "institution": "University of Maryland",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "No evidence of leaving. Directories/LinkedIn list him as a neurosurgery resident at Univ of Maryland (a 2025 neurosurgen listing). Absent from UMMC alumni list (through 2024). Possibly extended for research / MIT science writing year.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Maryland (per directories)",
+  "agrees_with_db": null,
+  "disagreement": "DB says LEFT; sources show ongoing Maryland neurosurgery residency, not a departure.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/abdul-kareem-ahmed-a49ba714/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at University of Maryland Medical Center, Science Writer"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/abdul-kareem-ahmed-b823e96f-1fc7-42f9-bcd7-c4ecc68a9679-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery, Baltimore MD; Brown University; neurosurgery residency at University of Maryland"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "89:ada:hunt",
+  "name": "Adam Hunt",
+  "program_id": 89,
+  "identity": "not_found",
+  "identity_basis": "No public profile matching an Adam Hunt neurosurgery resident (SKMC Jefferson MD) at Maryland found; only unrelated namesakes (e.g. an emergency medicine DO in Saginaw MI)",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "No information found on where he went after the 2025-26 Maryland listing. Dropped from the live roster.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": null,
+  "disagreement": "Cannot verify.",
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adam-hunt-do",
+    "type": "search_snippet",
+    "evidence": "Adam Hunt, DO - Saginaw MI Emergency Medicine (namesake, not matched)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "90:kat:berry",
+  "name": "Katherine Berry",
+  "program_id": 90,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Katherine Michelle Berry MD, UTHSCSA 2017, residency IU 2017-2018 and University of Miami/Jackson 2018-2025; matches DB note (earlier IU PGY-1)",
+  "residency_stated": [
+   {
+    "institution": "Indiana University",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2018
+   },
+   {
+    "institution": "University of Miami/Jackson Health System",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami neurosurgery residency 2025; now neurosurgeon at Allegheny General Hospital.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Allegheny General Hospital / AHN Wexford, Pittsburgh PA",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT; she graduated from Miami in 2025.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/katherine-berry-md-f3824d15",
+    "type": "doximity",
+    "evidence": "University of Miami/Jackson Health System Residency, Neurological Surgery, 2018 - 2025; Graduate of the University of Miami Neurosurgery"
+   },
+   {
+    "url": "https://findcare.ahn.org/Katherine-Berry",
+    "type": "search_snippet",
+    "evidence": "Katherine M Berry, MD, AHN neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "92:ala:dixson",
+  "name": "Alana Dixson",
+  "program_id": 92,
+  "identity": "probable",
+  "identity_basis": "Search results: Alana Dixson MD PhD listed as Neurosurgery Resident at University of Minnesota Medical Center (SignalHire) and later resident in Rutgers Robert Wood Johnson Anesthesiology; DB note: prior general surgery PGY1 at BIDMC",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2016
+   },
+   {
+    "institution": "Rutgers Robert Wood Johnson (per bios)",
+    "specialty": "anesthesiology",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UMN neurosurgery after 2015-16; later listed as anesthesiology resident (Rutgers) and physician-entrepreneur (MDCrashPad, Viral Science). Anesthesiology start year not found.",
+  "year_left": 2016,
+  "destination_program": "Rutgers RWJ Anesthesiology (per bio)",
+  "destination_start_year": null,
+  "current": "physician-entrepreneur; anesthesiology trained/resident (Rutgers)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/alana-dixson-md-phd-b8a02a350/",
+    "type": "search_snippet",
+    "evidence": "Alana Dixson, MD, PhD - Owner, Founder - Viral Science"
+   },
+   {
+    "url": "https://www.signalhire.com/companies/university-of-minnesota-medical-center/alana-dixson's-email",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at University of Minnesota Medical Center"
+   },
+   {
+    "url": "https://mdcrashpad.com/our-team/alana-dixson-md-phd",
+    "type": "search_snippet",
+    "evidence": "She is a resident at Rutgers University's Department of Anesthesiology"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "93:ale:clark",
+  "name": "Alec C. Clark",
+  "program_id": 93,
+  "identity": "probable",
+  "identity_basis": "Doximity: Alec Clark MD, UCF College of Medicine 2023, MS license 2023-2026, PubMed neurotrauma paper with UMMC-linked authors; UMMC neurosurgery resident page for Clark exists in search results",
+  "residency_stated": [
+   {
+    "institution": "University of Mississippi Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2025
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity now lists him as 'Resident Physician' in Dade City, FL (Pasco County), not neurosurgery; specialty/program not stated. Absent from UMMC current neurosurgery residents page.",
+  "year_left": 2025,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident physician (non-neurosurgery), Dade City FL area",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alec-clark-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Dade City FL; University of Central Florida College of Medicine Class of 2023; MS license 2023-2026"
+   },
+   {
+    "url": "https://umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Neurosurgery/Educational%20Programs/Residency-Program/Current-Neurosurgery-Residents.html",
+    "type": "program_page",
+    "evidence": "current UMMC neurosurgery residents list does not include Clark"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "94:abr:rodriguez",
+  "name": "Abraham Rodriguez",
+  "program_id": 94,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Abraham Hafiz Rodriguez MD, Illinois COM 2013, Residency Neurological Surgery Univ of Missouri-Columbia 2013-2017, MO license 2013-2017; moved to California 2017",
+  "residency_stated": [
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2017
+   },
+   {
+    "institution": "Sutter Health/Sutter Medical Center Sacramento (Davis)",
+    "specialty": "family medicine",
+    "start": 2022,
+    "end": 2025
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Missouri neurosurgery in 2017 (did not complete; no ABNS); later family medicine residency at Sutter 2022-2025; practises family/preventive/pain/integrative medicine in Bay Area.",
+  "year_left": 2017,
+  "destination_program": "Sutter Health Family Medicine (Sacramento)",
+  "destination_start_year": 2022,
+  "current": "family medicine physician, Pleasanton/Redwood City CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/abraham-rodriguez-md-43402798",
+    "type": "doximity",
+    "evidence": "Residency, Family Medicine, Sutter Health 2022-2025; University of Missouri-Columbia Residency, Neurological Surgery, 2013-2017; moved to California in 2017"
+   },
+   {
+    "url": "https://www.md.com/doctor/abraham-h-rodriguez-md",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery at the University of Missouri-Columbia from 2013-2017"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "94:wes:chen",
+  "name": "Wesley Chen",
+  "program_id": 94,
+  "identity": "probable",
+  "identity_basis": "Cureus profile 'Wesley Chen, MD - Neurological Surgery' lists Univ of Missouri neurosurgery resident (search snippet); Doximity Wesley Chen (Dallas neurology, Georgetown 2018, NYU) is a different person and excluded",
+  "residency_stated": [
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No public evidence of where he went. Not on current Missouri resident list or alumni list (2022-2026).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": null,
+  "disagreement": "Cannot confirm departure; no destination found.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.cureus.com/users/262385-wesley-chen",
+    "type": "search_snippet",
+    "evidence": "Wesley Chen, MD - Neurological Surgery; Neurosurgery Resident at University of Missouri"
+   },
+   {
+    "url": "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents",
+    "type": "program_page",
+    "evidence": "current residents/alumni list has no Wesley Chen"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "94:wor:george",
+  "name": "Woro George",
+  "program_id": 94,
+  "identity": "probable",
+  "identity_basis": "Doximity: Woro George MD, Univ of Colorado SOM 2024, listed Neurosurgery Columbia MO, MO license 2024-2027; consistent with 2024 entry",
+  "residency_stated": [
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No public evidence of destination. Doximity still lists neurosurgery in Columbia MO (stale/auto listing). Not on current Missouri resident or alumni list. DB note: NPPES general practice in Macon MO (unverified).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": null,
+  "disagreement": "Cannot confirm.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/woro-george-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Columbia MO; University of Colorado School of Medicine Class of 2024; MO license 2024-2027"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "96:zac:smith",
+  "name": "Zack Smith",
+  "program_id": 96,
+  "identity": "confirmed",
+  "identity_basis": "Practice bios: Dr. Zack (William Zachary) Smith, UTHSCSA MD, neurosurgery training at UNMC then anesthesiology residency and pain fellowship at UNMC; DB: UNMC neurosurgery 2014-2017",
+  "residency_stated": [
+   {
+    "institution": "University of Nebraska Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2017
+   },
+   {
+    "institution": "University of Nebraska Medical Center",
+    "specialty": "anesthesiology",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UNMC neurosurgery after 2016-17 (PGY-3); completed anesthesiology residency and pain medicine fellowship at UNMC; dual ABA board certified (Anesthesiology, Pain Medicine).",
+  "year_left": 2017,
+  "destination_program": "UNMC Anesthesiology",
+  "destination_start_year": 2017,
+  "current": "interventional pain physician, Central Texas Pain Center (San Antonio/Austin)",
+  "agrees_with_db": false,
+  "disagreement": "DB 'outcome unknown (NPI hint: other specialty)' is now resolved: switched to anesthesiology/pain.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://thepainsmith.com/zack-smith/",
+    "type": "bio",
+    "evidence": "Neurosurgery Internship: UNMC; Anesthesiology Residency: UNMC; Pain Medicine Fellowship: UNMC"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/zack-smith-md-daba-dabpm-joins-central-texas-pain-center-in-san-marcos-and-south-austin-301407102.html",
+    "type": "search_snippet",
+    "evidence": "Zack Smith, MD, DABA, DABPM Joins Central Texas Pain Center"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "97:anv:jameel",
+  "name": "Anver Jameel",
+  "program_id": 97,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Mohamed Anver Jameel MD (goes by Anver Jameel), UNM Neurological Surgery residency 2011-2016, prior Jefferson neurosurgery 2007-2008; ResearchGate profile lists Anver Jameel at UNM Department of Neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2016
+   },
+   {
+    "institution": "Thomas Jefferson University",
+    "specialty": "neurosurgery",
+    "start": 2007,
+    "end": 2008
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed UNM neurosurgery residency 2011-2016 and now neurosurgeon in Beverly Hills CA; no ABNS shown.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Beverly Hills CA",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT; sources indicate he completed UNM residency 2016 and practises neurosurgery.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mohamed-jameel-md",
+    "type": "doximity",
+    "evidence": "University of New Mexico School of Medicine Residency, Neurological Surgery, 2011 - 2016; Neurosurgery, Beverly Hills"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/mohamed-jameel-cbb1d3ed-a108-49ec-abac-e54606143474-overview",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery from the University of New Mexico School of Medicine (2011-2016)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "97:fra:westhout",
+  "name": "Franklin Westhout",
+  "program_id": 97,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Franklin Westhout MD, Howard 2005, UNM Neurological Surgery residency 2011-2013, NM license 2011-2013; DB last seen UNM 2012-13 PGY-2",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2013
+   },
+   {
+    "institution": "Cedars-Sinai",
+    "specialty": "surgery",
+    "start": 2007,
+    "end": 2008
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Left UNM after 2012-13 (Doximity residency ends 2013, NM license ends 2013). Now listed as neurosurgeon in Los Angeles (Doximity/US News/Healthgrades directories) but no source shows completion of a residency elsewhere and no ABNS; one listing shows 'General Practice'. Not established whether he practises neurosurgery.",
+  "year_left": 2013,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "listed as neurosurgeon, Los Angeles/San Pedro CA (directory; unverified)",
+  "agrees_with_db": null,
+  "disagreement": "DB 'unknown' stands: left UNM 2013; directories label him neurosurgeon but no training/board evidence.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/franklin-westhout-md",
+    "type": "doximity",
+    "evidence": "University of New Mexico School of Medicine Residency, Neurological Surgery, 2011 - 2013; Neurosurgery, Los Angeles; no board certification listed"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "97:jam:messegee",
+  "name": "James Messegee",
+  "program_id": 97,
+  "identity": "probable",
+  "identity_basis": "Doximity/Providence: Jamie (James) R. Messegee MD, Case Western MD 2012 (matches 2012 entry), ABNS certified, neurosurgeon Eureka CA; WebMD lists as 'James Messegee'. UNM residency not stated on these pages",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico (per DB, not stated by sources)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising ABNS-certified neurosurgeon at Providence Medical Group Eureka CA, consistent with completing a 2012-2018 residency (UNM not named by sources).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Providence Medical Group, Eureka CA",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT; ABNS certification indicates completion.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jamie-messegee-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Eureka CA; Case Western Reserve University School of Medicine Class of 2012; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.providence.org/doctors/neurosurgery/ca/eureka/jamie-messegee-1285900290",
+    "type": "bio",
+    "evidence": "certification from the American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "97:sye:kazim",
+  "name": "Syed Faraz Kazim",
+  "program_id": 97,
+  "identity": "confirmed",
+  "identity_basis": "UNM residency page 'Syed Faraz Kazim, MD PGY 4', LinkedIn: MD Aga Khan, PhD SUNY Downstate, neurosurgery resident at UNM",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No public information found on where he went after leaving UNM in autumn 2025 (LinkedIn/UNM page snippets still show him as UNM neurosurgery resident PGY-4; pages likely stale). Doximity has no matching profile (only a Bronx geriatrics namesake).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": null,
+  "disagreement": "Cannot confirm.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency/resident_profiles/kazim.html",
+    "type": "program_page",
+    "evidence": "Syed Faraz Kazim, MD Post Graduate Year (PGY) 4"
+   }
+  ],
+  "searches_used": 2
+ }
+]

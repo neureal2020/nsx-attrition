@@ -1,0 +1,206 @@
+[
+ {
+  "source_url": "manual reconstruction 2020-2021 (program 62 phase 2; evidence in row context)",
+  "source_type": "manual",
+  "captured_at": "2026-09-28",
+  "academic_year": "2020-2021",
+  "note": "No roster page existed before 2023-09. Founding class (first class July 2020, complement 1). Entry year set from NPPES enumeration + later PGY; no other trainee NPI at the neurosurgery address 2019-2024 except the known residents.",
+  "rows": [
+   {
+    "name": "John Servider",
+    "pgy": 1,
+    "context": "NPI 1366079048 enumerated 2020-03-24 at HSC L12 Room 80 (Dept of Neurosurgery) as trainee; Stony Brook MD 2020 (live bio); PGY4 on 2023-09-24 roster -> entry July 2020",
+    "reconstructed": true
+   }
+  ]
+ },
+ {
+  "source_url": "manual reconstruction 2021-2022 (program 62 phase 2; evidence in row context)",
+  "source_type": "manual",
+  "captured_at": "2026-09-28",
+  "academic_year": "2021-2022",
+  "note": "No roster page existed before 2023-09. Complement 1/yr; reconstructed from later PGY + NPPES + PubMed.",
+  "rows": [
+   {
+    "name": "John Servider",
+    "pgy": 2,
+    "context": "NPI 1366079048 enumerated 2020-03-24 at HSC L12 Room 80 (Dept of Neurosurgery) as trainee; Stony Brook MD 2020 (live bio); PGY4 on 2023-09-24 roster -> entry July 2020",
+    "reconstructed": true
+   },
+   {
+    "name": "Bayan Razzaq",
+    "pgy": 1,
+    "context": "NPI 1518543149 enumerated 2021-03-23 at HSC T12 Room 080 (Dept of Neurosurgery) as trainee; WVU School of Medicine affiliation on 2021 papers (PMID 33080404, 33741544), Stony Brook Dept of Neurosurgery affiliation 2022 (PMID 35250829); PGY3 on 2023-09-24 roster -> entry July 2021",
+    "reconstructed": true
+   }
+  ]
+ },
+ {
+  "source_url": "manual reconstruction 2022-2023 (program 62 phase 2; evidence in row context)",
+  "source_type": "manual",
+  "captured_at": "2026-09-28",
+  "academic_year": "2022-2023",
+  "note": "No roster page existed before 2023-09 (link appeared 2023-05-28). Complement 1/yr; reconstructed from later PGY + NPPES + lab page + PubMed.",
+  "rows": [
+   {
+    "name": "John Servider",
+    "pgy": 3,
+    "context": "NPI 1366079048 enumerated 2020-03-24 at HSC L12 Room 80 (Dept of Neurosurgery) as trainee; Stony Brook MD 2020 (live bio); PGY4 on 2023-09-24 roster -> entry July 2020",
+    "reconstructed": true
+   },
+   {
+    "name": "Bayan Razzaq",
+    "pgy": 2,
+    "context": "NPI 1518543149 enumerated 2021-03-23 at HSC T12 Room 080 (Dept of Neurosurgery) as trainee; WVU School of Medicine affiliation on 2021 papers (PMID 33080404, 33741544), Stony Brook Dept of Neurosurgery affiliation 2022 (PMID 35250829); PGY3 on 2023-09-24 roster -> entry July 2021",
+    "reconstructed": true
+   },
+   {
+    "name": "Racheed Mani",
+    "pgy": 1,
+    "context": "Listed as a Stony Brook medical student on Mofakham-Mikell lab page (Wayback 2021-12-02, 2022-06-27) and as lab alumnus 2023-06-01; NPI 1952051575 enumerated 2022-03-26 at HSC T12 Room 080 (Dept of Neurosurgery); Stony Brook Dept of Neurological Surgery affiliation 2023 (PMID 37382303); PGY2 on 2023-09-24 roster -> entry July 2022",
+    "reconstructed": true
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20230924050551/https://renaissance.stonybrookmedicine.edu/neurosurgery/residency_program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2023-09-24",
+  "academic_year": "2023-2024",
+  "note": "First archived capture of the Current Residents page (identical content 2024-03-02; also in Common Crawl CC-MAIN-2023-40). Program PGY1-4 only: first class entered 2020.",
+  "rows": [
+   {
+    "name": "John Servider",
+    "pgy": 4,
+    "context": "John Servider, MD | PGY4"
+   },
+   {
+    "name": "Bayan Razzaq",
+    "pgy": 3,
+    "context": "Bayan Razzaq, MD | PGY3"
+   },
+   {
+    "name": "Racheed Mani",
+    "pgy": 2,
+    "context": "Racheed Mani, MD | PGY2"
+   },
+   {
+    "name": "Robert Kleyner",
+    "pgy": 1,
+    "context": "Robert Kleyner, MD | PGY1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20241103171946/https://renaissance.stonybrookmedicine.edu/neurosurgery/residency_program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2024-11-03",
+  "academic_year": "2024-2025",
+  "note": "Same list 2024-08-17 and 2025-04 captures. Mani no longer listed (2024-07-18 capture already without him).",
+  "rows": [
+   {
+    "name": "John Servider",
+    "pgy": 5,
+    "context": "John Servider, MD | PGY5"
+   },
+   {
+    "name": "Bayan Razzaq",
+    "pgy": 4,
+    "context": "Bayan Razzaq, MD | PGY4"
+   },
+   {
+    "name": "Robert Kleyner",
+    "pgy": 2,
+    "context": "Robert Kleyner, MD | PGY2"
+   },
+   {
+    "name": "Mohsen Ahmed",
+    "pgy": 1,
+    "context": "Mohsen Ahmed, MD | PGY1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20260114120347/https://renaissance.stonybrookmedicine.edu/neurosurgery/residency_program/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2026-01-14",
+  "academic_year": "2025-2026",
+  "note": "Same list 2026-06-07. Two PGY1s this year.",
+  "rows": [
+   {
+    "name": "John Servider",
+    "pgy": 6,
+    "context": "John Servider, MD | PGY6"
+   },
+   {
+    "name": "Bayan Razzaq",
+    "pgy": 5,
+    "context": "Bayan Razzaq, MD | PGY5"
+   },
+   {
+    "name": "Robert Kleyner",
+    "pgy": 3,
+    "context": "Robert Kleyner, MD | PGY3"
+   },
+   {
+    "name": "Mohsen Ahmed",
+    "pgy": 2,
+    "context": "Mohsen Ahmed, MD | PGY2"
+   },
+   {
+    "name": "Ming Lian",
+    "pgy": 1,
+    "context": "Ming Lian, MD | PGY1"
+   },
+   {
+    "name": "Lewis Thompson",
+    "pgy": 1,
+    "context": "Lewis Thompson, MD | PGY1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://renaissance.stonybrookmedicine.edu/neurosurgery/residency_program/current-residents",
+  "source_type": "live",
+  "captured_at": "2026-09-27",
+  "academic_year": "2026-2027",
+  "note": "Live page; advanced vs 2025-26 (new PGY1 Talbot), so valid for 2026-27. No PGY5 (Mani's 2022 class).",
+  "rows": [
+   {
+    "name": "John Servider",
+    "pgy": 7,
+    "context": "John Servider, MD | Chief Resident, PGY7"
+   },
+   {
+    "name": "Bayan Razzaq",
+    "pgy": 6,
+    "context": "Bayan Razzaq, MD | PGY6"
+   },
+   {
+    "name": "Robert Kleyner",
+    "pgy": 4,
+    "context": "Robert Kleyner, MD | PGY4"
+   },
+   {
+    "name": "Mohsen Ahmed",
+    "pgy": 3,
+    "context": "Mohsen Ahmed, MD | PGY3"
+   },
+   {
+    "name": "Ming Lian",
+    "pgy": 2,
+    "context": "Ming Lian, MD | PGY2"
+   },
+   {
+    "name": "Lewis Thompson",
+    "pgy": 2,
+    "context": "Lewis Thompson, MD | PGY2"
+   },
+   {
+    "name": "Norris Talbot",
+    "pgy": 1,
+    "context": "Norris “Clay” Talbot, MD | PGY1"
+   }
+  ]
+ }
+]

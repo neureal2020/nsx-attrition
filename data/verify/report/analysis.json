@@ -1,0 +1,2510 @@
+{
+ "cohort": 3392,
+ "attrition": 222,
+ "rate": 6.54,
+ "outcomes": {
+  "completed": 1684,
+  "in_training": 1378,
+  "transferred": 107,
+  "switched_specialty": 158,
+  "left_destination_unknown": 42,
+  "left_medicine": 19,
+  "deceased": 1,
+  "left_other": 3
+ },
+ "attrition_types": {
+  "switched_specialty": 158,
+  "left_destination_unknown": 42,
+  "left_medicine": 19,
+  "left_other": 3
+ },
+ "pgy_at_exit": {
+  "0": 2,
+  "1": 65,
+  "2": 68,
+  "3": 39,
+  "4": 28,
+  "5": 13,
+  "6": 7
+ },
+ "by_entry_class": [
+  {
+   "entry_year": 2011,
+   "entrants": 225,
+   "attrition": 23,
+   "rate": 10.2,
+   "ci95": [
+    6.9,
+    14.9
+   ],
+   "completed": 195,
+   "in_training": 0,
+   "transferred": 7,
+   "complete_class": true
+  },
+  {
+   "entry_year": 2012,
+   "entrants": 222,
+   "attrition": 14,
+   "rate": 6.3,
+   "ci95": [
+    3.8,
+    10.3
+   ],
+   "completed": 198,
+   "in_training": 0,
+   "transferred": 10,
+   "complete_class": true
+  },
+  {
+   "entry_year": 2013,
+   "entrants": 227,
+   "attrition": 13,
+   "rate": 5.7,
+   "ci95": [
+    3.4,
+    9.6
+   ],
+   "completed": 207,
+   "in_training": 0,
+   "transferred": 7,
+   "complete_class": true
+  },
+  {
+   "entry_year": 2014,
+   "entrants": 249,
+   "attrition": 24,
+   "rate": 9.6,
+   "ci95": [
+    6.6,
+    13.9
+   ],
+   "completed": 210,
+   "in_training": 0,
+   "transferred": 15,
+   "complete_class": true
+  },
+  {
+   "entry_year": 2015,
+   "entrants": 240,
+   "attrition": 9,
+   "rate": 3.8,
+   "ci95": [
+    2.0,
+    7.0
+   ],
+   "completed": 218,
+   "in_training": 0,
+   "transferred": 12,
+   "complete_class": true
+  },
+  {
+   "entry_year": 2016,
+   "entrants": 243,
+   "attrition": 16,
+   "rate": 6.6,
+   "ci95": [
+    4.1,
+    10.4
+   ],
+   "completed": 217,
+   "in_training": 0,
+   "transferred": 10,
+   "complete_class": true
+  },
+  {
+   "entry_year": 2017,
+   "entrants": 244,
+   "attrition": 20,
+   "rate": 8.2,
+   "ci95": [
+    5.4,
+    12.3
+   ],
+   "completed": 213,
+   "in_training": 0,
+   "transferred": 11,
+   "complete_class": true
+  },
+  {
+   "entry_year": 2018,
+   "entrants": 251,
+   "attrition": 16,
+   "rate": 6.4,
+   "ci95": [
+    4.0,
+    10.1
+   ],
+   "completed": 218,
+   "in_training": 4,
+   "transferred": 13,
+   "complete_class": true
+  },
+  {
+   "entry_year": 2019,
+   "entrants": 246,
+   "attrition": 16,
+   "rate": 6.5,
+   "ci95": [
+    4.0,
+    10.3
+   ],
+   "completed": 7,
+   "in_training": 217,
+   "transferred": 6,
+   "complete_class": false
+  },
+  {
+   "entry_year": 2020,
+   "entrants": 247,
+   "attrition": 14,
+   "rate": 5.7,
+   "ci95": [
+    3.4,
+    9.3
+   ],
+   "completed": 1,
+   "in_training": 227,
+   "transferred": 5,
+   "complete_class": false
+  },
+  {
+   "entry_year": 2021,
+   "entrants": 244,
+   "attrition": 18,
+   "rate": 7.4,
+   "ci95": [
+    4.7,
+    11.4
+   ],
+   "completed": 0,
+   "in_training": 225,
+   "transferred": 1,
+   "complete_class": false
+  },
+  {
+   "entry_year": 2022,
+   "entrants": 257,
+   "attrition": 14,
+   "rate": 5.4,
+   "ci95": [
+    3.3,
+    8.9
+   ],
+   "completed": 0,
+   "in_training": 240,
+   "transferred": 3,
+   "complete_class": false
+  },
+  {
+   "entry_year": 2023,
+   "entrants": 252,
+   "attrition": 15,
+   "rate": 6.0,
+   "ci95": [
+    3.6,
+    9.6
+   ],
+   "completed": 0,
+   "in_training": 232,
+   "transferred": 5,
+   "complete_class": false
+  },
+  {
+   "entry_year": 2024,
+   "entrants": 245,
+   "attrition": 10,
+   "rate": 4.1,
+   "ci95": [
+    2.2,
+    7.3
+   ],
+   "completed": 0,
+   "in_training": 233,
+   "transferred": 2,
+   "complete_class": false
+  }
+ ],
+ "complete_classes_2011_2018": {
+  "entrants": 1901,
+  "attrition": 135,
+  "rate": 7.1,
+  "ci95": [
+   6.0,
+   8.3
+  ]
+ },
+ "by_academic_year": [
+  {
+   "year": "2017-2018",
+   "residents": 1440,
+   "departures": 17,
+   "rate": 1.18,
+   "ci95": [
+    0.7,
+    1.9
+   ]
+  },
+  {
+   "year": "2018-2019",
+   "residents": 1471,
+   "departures": 18,
+   "rate": 1.22,
+   "ci95": [
+    0.8,
+    1.9
+   ]
+  },
+  {
+   "year": "2019-2020",
+   "residents": 1527,
+   "departures": 12,
+   "rate": 0.79,
+   "ci95": [
+    0.5,
+    1.4
+   ]
+  },
+  {
+   "year": "2020-2021",
+   "residents": 1552,
+   "departures": 17,
+   "rate": 1.1,
+   "ci95": [
+    0.7,
+    1.7
+   ]
+  },
+  {
+   "year": "2021-2022",
+   "residents": 1576,
+   "departures": 16,
+   "rate": 1.02,
+   "ci95": [
+    0.6,
+    1.6
+   ]
+  },
+  {
+   "year": "2022-2023",
+   "residents": 1575,
+   "departures": 14,
+   "rate": 0.89,
+   "ci95": [
+    0.5,
+    1.5
+   ]
+  },
+  {
+   "year": "2023-2024",
+   "residents": 1605,
+   "departures": 23,
+   "rate": 1.43,
+   "ci95": [
+    1.0,
+    2.1
+   ]
+  },
+  {
+   "year": "2024-2025",
+   "residents": 1630,
+   "departures": 28,
+   "rate": 1.72,
+   "ci95": [
+    1.2,
+    2.5
+   ]
+  }
+ ],
+ "programs": 119,
+ "outliers_998": [],
+ "outliers_95": [
+  {
+   "program_id": 73,
+   "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+   "residents": 33,
+   "attrition": 6,
+   "rate": 18.2,
+   "ci95": [
+    8.6,
+    34.4
+   ],
+   "expected": 2.2,
+   "p_greater": 0.0188,
+   "above_95": "True",
+   "above_998": "False",
+   "low_confidence_years": 5,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 0
+  }
+ ],
+ "fdr_significant": [],
+ "zero_attrition_programs": 26,
+ "program_rows": [
+  {
+   "program_id": 29,
+   "program": "Inova Fairfax Hospital Campus Program",
+   "residents": 8,
+   "attrition": 2,
+   "rate": 25.0,
+   "ci95": [
+    7.1,
+    59.1
+   ],
+   "expected": 0.5,
+   "p_greater": 0.0921,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 109,
+   "program": "University of Texas Medical Branch Hospitals Program",
+   "residents": 18,
+   "attrition": 4,
+   "rate": 22.2,
+   "ci95": [
+    9.0,
+    45.2
+   ],
+   "expected": 1.2,
+   "p_greater": 0.0268,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 38,
+   "program": "Mayo Clinic College of Medicine and Science (Jacksonville) Program",
+   "residents": 14,
+   "attrition": 3,
+   "rate": 21.4,
+   "ci95": [
+    7.6,
+    47.6
+   ],
+   "expected": 0.9,
+   "p_greater": 0.0593,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 8
+  },
+  {
+   "program_id": 62,
+   "program": "Stony Brook Medicine Program",
+   "residents": 5,
+   "attrition": 1,
+   "rate": 20.0,
+   "ci95": [
+    3.6,
+    62.4
+   ],
+   "expected": 0.3,
+   "p_greater": 0.2871,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 81,
+   "program": "University of Connecticut School of Medicine Program",
+   "residents": 5,
+   "attrition": 1,
+   "rate": 20.0,
+   "ci95": [
+    3.6,
+    62.4
+   ],
+   "expected": 0.3,
+   "p_greater": 0.2871,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 22,
+   "program": "George Washington University Program",
+   "residents": 21,
+   "attrition": 4,
+   "rate": 19.0,
+   "ci95": [
+    7.7,
+    40.0
+   ],
+   "expected": 1.4,
+   "p_greater": 0.0448,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 112,
+   "program": "University of Vermont Medical Center Program",
+   "residents": 16,
+   "attrition": 3,
+   "rate": 18.8,
+   "ci95": [
+    6.6,
+    43.0
+   ],
+   "expected": 1.0,
+   "p_greater": 0.0828,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 3,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 73,
+   "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+   "residents": 33,
+   "attrition": 6,
+   "rate": 18.2,
+   "ci95": [
+    8.6,
+    34.4
+   ],
+   "expected": 2.2,
+   "p_greater": 0.0188,
+   "above_95": "True",
+   "above_998": "False",
+   "low_confidence_years": 5,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 64,
+   "program": "Temple University Hospital Program",
+   "residents": 17,
+   "attrition": 3,
+   "rate": 17.6,
+   "ci95": [
+    6.2,
+    41.0
+   ],
+   "expected": 1.1,
+   "p_greater": 0.0958,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 111,
+   "program": "University of Utah Health Program",
+   "residents": 37,
+   "attrition": 6,
+   "rate": 16.2,
+   "ci95": [
+    7.7,
+    31.1
+   ],
+   "expected": 2.4,
+   "p_greater": 0.0317,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 118,
+   "program": "Virginia Commonwealth University Health System Program",
+   "residents": 31,
+   "attrition": 5,
+   "rate": 16.1,
+   "ci95": [
+    7.1,
+    32.6
+   ],
+   "expected": 2.0,
+   "p_greater": 0.0491,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 121,
+   "program": "West Virginia University Program",
+   "residents": 19,
+   "attrition": 3,
+   "rate": 15.8,
+   "ci95": [
+    5.5,
+    37.6
+   ],
+   "expected": 1.2,
+   "p_greater": 0.1242,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 88,
+   "program": "University of Louisville School of Medicine Program",
+   "residents": 28,
+   "attrition": 4,
+   "rate": 14.3,
+   "ci95": [
+    5.7,
+    31.5
+   ],
+   "expected": 1.8,
+   "p_greater": 0.1074,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 94,
+   "program": "University of Missouri-Columbia Program",
+   "residents": 21,
+   "attrition": 3,
+   "rate": 14.3,
+   "ci95": [
+    5.0,
+    34.6
+   ],
+   "expected": 1.4,
+   "p_greater": 0.1551,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 2,
+   "q_bh": 0.9713,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 108,
+   "program": "University of Texas Health Science Center San Antonio Joe and Teresa L",
+   "residents": 36,
+   "attrition": 5,
+   "rate": 13.9,
+   "ci95": [
+    6.1,
+    28.7
+   ],
+   "expected": 2.4,
+   "p_greater": 0.0836,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 102,
+   "program": "University of Rochester Medicine Program",
+   "residents": 29,
+   "attrition": 4,
+   "rate": 13.8,
+   "ci95": [
+    5.5,
+    30.6
+   ],
+   "expected": 1.9,
+   "p_greater": 0.1184,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 119,
+   "program": "Wake Forest University Baptist Medical Center Program",
+   "residents": 30,
+   "attrition": 4,
+   "rate": 13.3,
+   "ci95": [
+    5.3,
+    29.7
+   ],
+   "expected": 2.0,
+   "p_greater": 0.13,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 2,
+   "program": "Allegheny Health Network Medical Education Consortium (AGH) Program",
+   "residents": 31,
+   "attrition": 4,
+   "rate": 12.9,
+   "ci95": [
+    5.1,
+    28.9
+   ],
+   "expected": 2.0,
+   "p_greater": 0.1419,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 0.9713,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 12,
+   "program": "Cleveland Clinic Foundation Program",
+   "residents": 47,
+   "attrition": 6,
+   "rate": 12.8,
+   "ci95": [
+    6.0,
+    25.2
+   ],
+   "expected": 3.1,
+   "p_greater": 0.0848,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 18,
+   "program": "Dartmouth- Hitchcock/Mary Hitchcock Memorial Hospital Program",
+   "residents": 16,
+   "attrition": 2,
+   "rate": 12.5,
+   "ci95": [
+    3.5,
+    36.0
+   ],
+   "expected": 1.0,
+   "p_greater": 0.2821,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 107,
+   "program": "University of Texas Health Science Center at Houston Program",
+   "residents": 41,
+   "attrition": 5,
+   "rate": 12.2,
+   "ci95": [
+    5.3,
+    25.5
+   ],
+   "expected": 2.7,
+   "p_greater": 0.1279,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9666,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 48,
+   "program": "New York Presbyterian Hospital (Columbia Campus) Program",
+   "residents": 33,
+   "attrition": 4,
+   "rate": 12.1,
+   "ci95": [
+    4.8,
+    27.3
+   ],
+   "expected": 2.2,
+   "p_greater": 0.1671,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9943,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 78,
+   "program": "University of Chicago Program",
+   "residents": 25,
+   "attrition": 3,
+   "rate": 12.0,
+   "ci95": [
+    4.2,
+    30.0
+   ],
+   "expected": 1.6,
+   "p_greater": 0.2227,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 8,
+   "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+   "residents": 17,
+   "attrition": 2,
+   "rate": 11.8,
+   "ci95": [
+    3.3,
+    34.3
+   ],
+   "expected": 1.1,
+   "p_greater": 0.3069,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 7
+  },
+  {
+   "program_id": 60,
+   "program": "SSM Health/Saint Louis University School of Medicine Program",
+   "residents": 17,
+   "attrition": 2,
+   "rate": 11.8,
+   "ci95": [
+    3.3,
+    34.3
+   ],
+   "expected": 1.1,
+   "p_greater": 0.3069,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 6
+  },
+  {
+   "program_id": 82,
+   "program": "University of Florida Program",
+   "residents": 43,
+   "attrition": 5,
+   "rate": 11.6,
+   "ci95": [
+    5.1,
+    24.5
+   ],
+   "expected": 2.8,
+   "p_greater": 0.1481,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 0.9713,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 10,
+   "program": "Case Western Reserve University/University Hospitals Cleveland Medical",
+   "residents": 37,
+   "attrition": 4,
+   "rate": 10.8,
+   "ci95": [
+    4.3,
+    24.7
+   ],
+   "expected": 2.4,
+   "p_greater": 0.2215,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 51,
+   "program": "Ohio State University Hospital Program",
+   "residents": 37,
+   "attrition": 4,
+   "rate": 10.8,
+   "ci95": [
+    4.3,
+    24.7
+   ],
+   "expected": 2.4,
+   "p_greater": 0.2215,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 26,
+   "program": "Houston Methodist Hospital (Medical Center) Program",
+   "residents": 28,
+   "attrition": 3,
+   "rate": 10.7,
+   "ci95": [
+    3.7,
+    27.2
+   ],
+   "expected": 1.8,
+   "p_greater": 0.2764,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 4,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 44,
+   "program": "Medical University of South Carolina Program",
+   "residents": 28,
+   "attrition": 3,
+   "rate": 10.7,
+   "ci95": [
+    3.7,
+    27.2
+   ],
+   "expected": 1.8,
+   "p_greater": 0.2764,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 123,
+   "program": "Yale-New Haven Medical Center Program",
+   "residents": 29,
+   "attrition": 3,
+   "rate": 10.3,
+   "ci95": [
+    3.6,
+    26.4
+   ],
+   "expected": 1.9,
+   "p_greater": 0.2947,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 25,
+   "program": "Henry Ford Providence Hospital Program",
+   "residents": 30,
+   "attrition": 3,
+   "rate": 10.0,
+   "ci95": [
+    3.5,
+    25.6
+   ],
+   "expected": 2.0,
+   "p_greater": 0.313,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 17,
+   "program": "Corewell Health/William Beaumont University (Dearborn/Royal Oak) Progr",
+   "residents": 10,
+   "attrition": 1,
+   "rate": 10.0,
+   "ci95": [
+    1.8,
+    40.4
+   ],
+   "expected": 0.7,
+   "p_greater": 0.4918,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 5
+  },
+  {
+   "program_id": 32,
+   "program": "Louisiana State University (Shreveport) Program",
+   "residents": 32,
+   "attrition": 3,
+   "rate": 9.4,
+   "ci95": [
+    3.2,
+    24.2
+   ],
+   "expected": 2.1,
+   "p_greater": 0.3496,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 55,
+   "program": "Riverside University Health System Program",
+   "residents": 33,
+   "attrition": 3,
+   "rate": 9.1,
+   "ci95": [
+    3.1,
+    23.6
+   ],
+   "expected": 2.2,
+   "p_greater": 0.3679,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 3,
+   "q_bh": 1.0,
+   "medium_confidence_years": 5
+  },
+  {
+   "program_id": 80,
+   "program": "University of Colorado Program",
+   "residents": 33,
+   "attrition": 3,
+   "rate": 9.1,
+   "ci95": [
+    3.1,
+    23.6
+   ],
+   "expected": 2.2,
+   "p_greater": 0.3679,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 59,
+   "program": "Southern Illinois University School of Medicine Program",
+   "residents": 11,
+   "attrition": 1,
+   "rate": 9.1,
+   "ci95": [
+    1.6,
+    37.7
+   ],
+   "expected": 0.7,
+   "p_greater": 0.5251,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 120,
+   "program": "Washington University/B-JH/SLCH Consortium Program",
+   "residents": 45,
+   "attrition": 4,
+   "rate": 8.9,
+   "ci95": [
+    3.5,
+    20.7
+   ],
+   "expected": 2.9,
+   "p_greater": 0.34,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 63,
+   "program": "SUNY Upstate Medical University Program",
+   "residents": 24,
+   "attrition": 2,
+   "rate": 8.3,
+   "ci95": [
+    2.3,
+    25.8
+   ],
+   "expected": 1.6,
+   "p_greater": 0.4719,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 83,
+   "program": "University of Illinois College of Medicine at Chicago Program",
+   "residents": 24,
+   "attrition": 2,
+   "rate": 8.3,
+   "ci95": [
+    2.3,
+    25.8
+   ],
+   "expected": 1.6,
+   "p_greater": 0.4719,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 56,
+   "program": "Rush University Medical Center Program",
+   "residents": 37,
+   "attrition": 3,
+   "rate": 8.1,
+   "ci95": [
+    2.8,
+    21.3
+   ],
+   "expected": 2.4,
+   "p_greater": 0.4396,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 8
+  },
+  {
+   "program_id": 5,
+   "program": "Baylor College of Medicine Program",
+   "residents": 52,
+   "attrition": 4,
+   "rate": 7.7,
+   "ci95": [
+    3.0,
+    18.2
+   ],
+   "expected": 3.4,
+   "p_greater": 0.4453,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 5
+  },
+  {
+   "program_id": 30,
+   "program": "Johns Hopkins University Program",
+   "residents": 52,
+   "attrition": 4,
+   "rate": 7.7,
+   "ci95": [
+    3.0,
+    18.2
+   ],
+   "expected": 3.4,
+   "p_greater": 0.4453,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 110,
+   "program": "University of Texas Southwestern Medical Center Program",
+   "residents": 39,
+   "attrition": 3,
+   "rate": 7.7,
+   "ci95": [
+    2.7,
+    20.3
+   ],
+   "expected": 2.6,
+   "p_greater": 0.4743,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 43,
+   "program": "Medical College of Wisconsin Affiliated Hospitals Program",
+   "residents": 26,
+   "attrition": 2,
+   "rate": 7.7,
+   "ci95": [
+    2.1,
+    24.1
+   ],
+   "expected": 1.7,
+   "p_greater": 0.5146,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 77,
+   "program": "University of California Davis Health Program",
+   "residents": 27,
+   "attrition": 2,
+   "rate": 7.4,
+   "ci95": [
+    2.1,
+    23.4
+   ],
+   "expected": 1.8,
+   "p_greater": 0.5351,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 41,
+   "program": "McGaw Medical Center of Northwestern University Program",
+   "residents": 41,
+   "attrition": 3,
+   "rate": 7.3,
+   "ci95": [
+    2.5,
+    19.4
+   ],
+   "expected": 2.7,
+   "p_greater": 0.508,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 27,
+   "program": "Icahn School of Medicine at Mount Sinai Program",
+   "residents": 28,
+   "attrition": 2,
+   "rate": 7.1,
+   "ci95": [
+    2.0,
+    22.6
+   ],
+   "expected": 1.8,
+   "p_greater": 0.555,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 87,
+   "program": "University of Kentucky College of Medicine Program",
+   "residents": 28,
+   "attrition": 2,
+   "rate": 7.1,
+   "ci95": [
+    2.0,
+    22.6
+   ],
+   "expected": 1.8,
+   "p_greater": 0.555,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 21,
+   "program": "Geisinger Health System Program",
+   "residents": 14,
+   "attrition": 1,
+   "rate": 7.1,
+   "ci95": [
+    1.3,
+    31.5
+   ],
+   "expected": 0.9,
+   "p_greater": 0.6123,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 3,
+   "q_bh": 1.0,
+   "medium_confidence_years": 6
+  },
+  {
+   "program_id": 114,
+   "program": "University of Washington Program",
+   "residents": 43,
+   "attrition": 3,
+   "rate": 7.0,
+   "ci95": [
+    2.4,
+    18.6
+   ],
+   "expected": 2.8,
+   "p_greater": 0.5405,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 5
+  },
+  {
+   "program_id": 24,
+   "program": "Henry Ford Health/Henry Ford Hospital Program",
+   "residents": 29,
+   "attrition": 2,
+   "rate": 6.9,
+   "ci95": [
+    1.9,
+    22.0
+   ],
+   "expected": 1.9,
+   "p_greater": 0.5743,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 6,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 85,
+   "program": "University of Iowa Health Care Medical Center Program",
+   "residents": 29,
+   "attrition": 2,
+   "rate": 6.9,
+   "ci95": [
+    1.9,
+    22.0
+   ],
+   "expected": 1.9,
+   "p_greater": 0.5743,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 61,
+   "program": "Stanford Health Care-Sponsored Stanford University Program",
+   "residents": 45,
+   "attrition": 3,
+   "rate": 6.7,
+   "ci95": [
+    2.3,
+    17.9
+   ],
+   "expected": 2.9,
+   "p_greater": 0.5717,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 67,
+   "program": "UCLA David Geffen School of Medicine/UCLA Medical Center Program",
+   "residents": 45,
+   "attrition": 3,
+   "rate": 6.7,
+   "ci95": [
+    2.3,
+    17.9
+   ],
+   "expected": 2.9,
+   "p_greater": 0.5717,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 3,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 49,
+   "program": "New York Presbyterian Hospital (Cornell Campus) Program",
+   "residents": 30,
+   "attrition": 2,
+   "rate": 6.7,
+   "ci95": [
+    1.8,
+    21.3
+   ],
+   "expected": 2.0,
+   "p_greater": 0.593,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 92,
+   "program": "University of Minnesota Program",
+   "residents": 30,
+   "attrition": 2,
+   "rate": 6.7,
+   "ci95": [
+    1.8,
+    21.3
+   ],
+   "expected": 2.0,
+   "p_greater": 0.593,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 42,
+   "program": "Medical College of Georgia Program",
+   "residents": 16,
+   "attrition": 1,
+   "rate": 6.2,
+   "ci95": [
+    1.1,
+    28.3
+   ],
+   "expected": 1.0,
+   "p_greater": 0.6614,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 72,
+   "program": "University of Arizona College of Medicine- Tucson Program",
+   "residents": 16,
+   "attrition": 1,
+   "rate": 6.2,
+   "ci95": [
+    1.1,
+    28.3
+   ],
+   "expected": 1.0,
+   "p_greater": 0.6614,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 4,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 65,
+   "program": "Tufts Medical Center Program",
+   "residents": 17,
+   "attrition": 1,
+   "rate": 5.9,
+   "ci95": [
+    1.0,
+    27.0
+   ],
+   "expected": 1.1,
+   "p_greater": 0.6836,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 105,
+   "program": "University of Tennessee College of Medicine Program",
+   "residents": 35,
+   "attrition": 2,
+   "rate": 5.7,
+   "ci95": [
+    1.6,
+    18.6
+   ],
+   "expected": 2.3,
+   "p_greater": 0.6771,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 53,
+   "program": "Penn State Milton S Hershey Medical Center Program",
+   "residents": 37,
+   "attrition": 2,
+   "rate": 5.4,
+   "ci95": [
+    1.5,
+    17.7
+   ],
+   "expected": 2.4,
+   "p_greater": 0.7065,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 7
+  },
+  {
+   "program_id": 31,
+   "program": "Loma Linda University Health Education Consortium Program",
+   "residents": 19,
+   "attrition": 1,
+   "rate": 5.3,
+   "ci95": [
+    0.9,
+    24.6
+   ],
+   "expected": 1.2,
+   "p_greater": 0.7236,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 7
+  },
+  {
+   "program_id": 97,
+   "program": "University of New Mexico School of Medicine Program",
+   "residents": 19,
+   "attrition": 1,
+   "rate": 5.3,
+   "ci95": [
+    0.9,
+    24.6
+   ],
+   "expected": 1.2,
+   "p_greater": 0.7236,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 57,
+   "program": "Rutgers Health/New Jersey Medical School Program",
+   "residents": 40,
+   "attrition": 2,
+   "rate": 5.0,
+   "ci95": [
+    1.4,
+    16.5
+   ],
+   "expected": 2.6,
+   "p_greater": 0.7464,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 7
+  },
+  {
+   "program_id": 125,
+   "program": "Wayne State University / Detroit Medical Center Program (CLOSED, not o",
+   "residents": 20,
+   "attrition": 1,
+   "rate": 5.0,
+   "ci95": [
+    0.9,
+    23.6
+   ],
+   "expected": 1.3,
+   "p_greater": 0.7417,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 6
+  },
+  {
+   "program_id": 116,
+   "program": "UPMC Medical Education Program",
+   "residents": 61,
+   "attrition": 3,
+   "rate": 4.9,
+   "ci95": [
+    1.7,
+    13.5
+   ],
+   "expected": 4.0,
+   "p_greater": 0.7706,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 52,
+   "program": "Oregon Health & Science University (OHSU Health) Program",
+   "residents": 42,
+   "attrition": 2,
+   "rate": 4.8,
+   "ci95": [
+    1.3,
+    15.8
+   ],
+   "expected": 2.7,
+   "p_greater": 0.7704,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 69,
+   "program": "University at Buffalo Program",
+   "residents": 42,
+   "attrition": 2,
+   "rate": 4.8,
+   "ci95": [
+    1.3,
+    15.8
+   ],
+   "expected": 2.7,
+   "p_greater": 0.7704,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 76,
+   "program": "University of California (San Francisco) Program",
+   "residents": 42,
+   "attrition": 2,
+   "rate": 4.8,
+   "ci95": [
+    1.3,
+    15.8
+   ],
+   "expected": 2.7,
+   "p_greater": 0.7704,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 104,
+   "program": "University of Southern California/Los Angeles General Medical Center (",
+   "residents": 42,
+   "attrition": 2,
+   "rate": 4.8,
+   "ci95": [
+    1.3,
+    15.8
+   ],
+   "expected": 2.7,
+   "p_greater": 0.7704,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 33,
+   "program": "Louisiana State University School of Medicine Program",
+   "residents": 21,
+   "attrition": 1,
+   "rate": 4.8,
+   "ci95": [
+    0.8,
+    22.7
+   ],
+   "expected": 1.4,
+   "p_greater": 0.7586,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 74,
+   "program": "University of California (Irvine) Program",
+   "residents": 21,
+   "attrition": 1,
+   "rate": 4.8,
+   "ci95": [
+    0.8,
+    22.7
+   ],
+   "expected": 1.4,
+   "p_greater": 0.7586,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 46,
+   "program": "Montefiore Medical Center/Albert Einstein College of Medicine Program",
+   "residents": 23,
+   "attrition": 1,
+   "rate": 4.3,
+   "ci95": [
+    0.8,
+    21.0
+   ],
+   "expected": 1.5,
+   "p_greater": 0.7892,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 7
+  },
+  {
+   "program_id": 54,
+   "program": "Rhode Island Hospital/Brown University Health Program",
+   "residents": 23,
+   "attrition": 1,
+   "rate": 4.3,
+   "ci95": [
+    0.8,
+    21.0
+   ],
+   "expected": 1.5,
+   "p_greater": 0.7892,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 84,
+   "program": "University of Illinois College of Medicine at Peoria Program",
+   "residents": 23,
+   "attrition": 1,
+   "rate": 4.3,
+   "ci95": [
+    0.8,
+    21.0
+   ],
+   "expected": 1.5,
+   "p_greater": 0.7892,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 93,
+   "program": "University of Mississippi Medical Center Program",
+   "residents": 23,
+   "attrition": 1,
+   "rate": 4.3,
+   "ci95": [
+    0.8,
+    21.0
+   ],
+   "expected": 1.5,
+   "p_greater": 0.7892,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 99,
+   "program": "University of Oklahoma Health Sciences Center Program",
+   "residents": 23,
+   "attrition": 1,
+   "rate": 4.3,
+   "ci95": [
+    0.8,
+    21.0
+   ],
+   "expected": 1.5,
+   "p_greater": 0.7892,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 86,
+   "program": "University of Kansas School of Medicine Program",
+   "residents": 27,
+   "attrition": 1,
+   "rate": 3.7,
+   "ci95": [
+    0.7,
+    18.3
+   ],
+   "expected": 1.8,
+   "p_greater": 0.8392,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 45,
+   "program": "MedStar Health Georgetown University Program",
+   "residents": 28,
+   "attrition": 1,
+   "rate": 3.6,
+   "ci95": [
+    0.6,
+    17.7
+   ],
+   "expected": 1.8,
+   "p_greater": 0.8497,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 10
+  },
+  {
+   "program_id": 96,
+   "program": "University of Nebraska Medical Center College of Medicine Program",
+   "residents": 28,
+   "attrition": 1,
+   "rate": 3.6,
+   "ci95": [
+    0.6,
+    17.7
+   ],
+   "expected": 1.8,
+   "p_greater": 0.8497,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 4,
+   "program": "Barrow Neurological Institute at St Joseph's Hospital and Medical Cent",
+   "residents": 59,
+   "attrition": 2,
+   "rate": 3.4,
+   "ci95": [
+    0.9,
+    11.5
+   ],
+   "expected": 3.9,
+   "p_greater": 0.9054,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 2,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 75,
+   "program": "University of California (San Diego) Medical Center Program",
+   "residents": 30,
+   "attrition": 1,
+   "rate": 3.3,
+   "ci95": [
+    0.6,
+    16.7
+   ],
+   "expected": 2.0,
+   "p_greater": 0.8687,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 79,
+   "program": "University of Cincinnati Medical Center/College of Medicine Program",
+   "residents": 30,
+   "attrition": 1,
+   "rate": 3.3,
+   "ci95": [
+    0.6,
+    16.7
+   ],
+   "expected": 2.0,
+   "p_greater": 0.8687,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 115,
+   "program": "University of Wisconsin Hospitals and Clinics Program",
+   "residents": 30,
+   "attrition": 1,
+   "rate": 3.3,
+   "ci95": [
+    0.6,
+    16.7
+   ],
+   "expected": 2.0,
+   "p_greater": 0.8687,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 91,
+   "program": "University of Michigan Program",
+   "residents": 36,
+   "attrition": 1,
+   "rate": 2.8,
+   "ci95": [
+    0.5,
+    14.2
+   ],
+   "expected": 2.4,
+   "p_greater": 0.9126,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 113,
+   "program": "University of Virginia Medical Center Program",
+   "residents": 36,
+   "attrition": 1,
+   "rate": 2.8,
+   "ci95": [
+    0.5,
+    14.2
+   ],
+   "expected": 2.4,
+   "p_greater": 0.9126,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 28,
+   "program": "Indiana University School of Medicine Program",
+   "residents": 38,
+   "attrition": 1,
+   "rate": 2.6,
+   "ci95": [
+    0.5,
+    13.5
+   ],
+   "expected": 2.5,
+   "p_greater": 0.9236,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 50,
+   "program": "NYU Grossman School of Medicine Program",
+   "residents": 38,
+   "attrition": 1,
+   "rate": 2.6,
+   "ci95": [
+    0.5,
+    13.5
+   ],
+   "expected": 2.5,
+   "p_greater": 0.9236,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 37,
+   "program": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital ",
+   "residents": 42,
+   "attrition": 1,
+   "rate": 2.4,
+   "ci95": [
+    0.4,
+    12.3
+   ],
+   "expected": 2.7,
+   "p_greater": 0.9417,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 36,
+   "program": "Mass General Brigham",
+   "residents": 44,
+   "attrition": 1,
+   "rate": 2.3,
+   "ci95": [
+    0.4,
+    11.8
+   ],
+   "expected": 2.9,
+   "p_greater": 0.9491,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 117,
+   "program": "Vanderbilt University Medical Center Program",
+   "residents": 43,
+   "attrition": 1,
+   "rate": 2.3,
+   "ci95": [
+    0.4,
+    12.1
+   ],
+   "expected": 2.8,
+   "p_greater": 0.9456,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 58,
+   "program": "Sidney Kimmel Medical College at Thomas Jefferson University/TJUH Prog",
+   "residents": 45,
+   "attrition": 1,
+   "rate": 2.2,
+   "ci95": [
+    0.4,
+    11.6
+   ],
+   "expected": 2.9,
+   "p_greater": 0.9524,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 40,
+   "program": "Mayo Clinic College of Medicine and Science (Rochester) Program",
+   "residents": 49,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    7.3
+   ],
+   "expected": 3.2,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 4,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 20,
+   "program": "Emory University School of Medicine Program",
+   "residents": 46,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    7.7
+   ],
+   "expected": 3.0,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 19,
+   "program": "Duke University Hospital Program",
+   "residents": 43,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    8.2
+   ],
+   "expected": 2.8,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 70,
+   "program": "University of Alabama Hospital (Birmingham) Program",
+   "residents": 42,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    8.4
+   ],
+   "expected": 2.7,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 90,
+   "program": "University of Miami/Jackson Health System Program",
+   "residents": 42,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    8.4
+   ],
+   "expected": 2.7,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 5
+  },
+  {
+   "program_id": 100,
+   "program": "University of Pennsylvania Health System Program",
+   "residents": 42,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    8.4
+   ],
+   "expected": 2.7,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 5
+  },
+  {
+   "program_id": 103,
+   "program": "University of South Florida Morsani Program",
+   "residents": 32,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    10.7
+   ],
+   "expected": 2.1,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 124,
+   "program": "Zucker School of Medicine at Hofstra/Northwell Program 124 programs fo",
+   "residents": 31,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    11.0
+   ],
+   "expected": 2.0,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 6
+  },
+  {
+   "program_id": 89,
+   "program": "University of Maryland Program",
+   "residents": 28,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    12.1
+   ],
+   "expected": 1.8,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 98,
+   "program": "University of North Carolina Hospitals Program",
+   "residents": 28,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    12.1
+   ],
+   "expected": 1.8,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 1,
+   "program": "Albany Med Health System Program",
+   "residents": 27,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    12.5
+   ],
+   "expected": 1.8,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 3,
+   "q_bh": 1.0,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 34,
+   "program": "Loyola University Medical Center Program",
+   "residents": 22,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    14.9
+   ],
+   "expected": 1.4,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 7
+  },
+  {
+   "program_id": 66,
+   "program": "Tulane University/Ochsner Clinic Foundation Program",
+   "residents": 22,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    14.9
+   ],
+   "expected": 1.4,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 4
+  },
+  {
+   "program_id": 11,
+   "program": "Cedars-Sinai Medical Center Program",
+   "residents": 21,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    15.5
+   ],
+   "expected": 1.4,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 3,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 15,
+   "program": "Cooper Medical School of Rowan University/Cooper University Hospital P",
+   "residents": 21,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    15.5
+   ],
+   "expected": 1.4,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 3,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 122,
+   "program": "Westchester Medical Center Program",
+   "residents": 18,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    17.6
+   ],
+   "expected": 1.2,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 1,
+   "q_bh": 1.0,
+   "medium_confidence_years": 3
+  },
+  {
+   "program_id": 101,
+   "program": "University of Puerto Rico School of Medicine Program",
+   "residents": 14,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    21.5
+   ],
+   "expected": 0.9,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 6,
+   "program": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temp",
+   "residents": 13,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    22.8
+   ],
+   "expected": 0.9,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 6
+  },
+  {
+   "program_id": 14,
+   "program": "Clinical Center at the National Institutes of Health Program",
+   "residents": 13,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    22.8
+   ],
+   "expected": 0.9,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 9,
+   "program": "Carolinas Medical Center Program",
+   "residents": 11,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    25.9
+   ],
+   "expected": 0.7,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 7,
+   "program": "Beth Israel Deaconess Medical Center Program",
+   "residents": 10,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    27.8
+   ],
+   "expected": 0.7,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 16,
+   "program": "Corewell Health \u2013 Grand Rapids/Michigan State University Program",
+   "residents": 7,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    35.4
+   ],
+   "expected": 0.5,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 39,
+   "program": "Mayo Clinic College of Medicine and Science (Phoenix) Program",
+   "residents": 6,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    39.0
+   ],
+   "expected": 0.4,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  },
+  {
+   "program_id": 68,
+   "program": "UMass Chan Medical School Program",
+   "residents": 6,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    39.0
+   ],
+   "expected": 0.4,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 0
+  },
+  {
+   "program_id": 106,
+   "program": "University of Texas at Austin Dell Medical School Program",
+   "residents": 3,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    56.1
+   ],
+   "expected": 0.2,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 2
+  },
+  {
+   "program_id": 71,
+   "program": "University of Arizona College of Medicine - Phoenix Program",
+   "residents": 2,
+   "attrition": 0,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    65.8
+   ],
+   "expected": 0.1,
+   "p_greater": 1.0,
+   "above_95": "False",
+   "above_998": "False",
+   "low_confidence_years": 0,
+   "q_bh": 1.0,
+   "medium_confidence_years": 1
+  }
+ ],
+ "switch_destinations": {
+  "diagnostic/interventional radiology": 47,
+  "anesthesiology/pain": 24,
+  "neurology": 24,
+  "emergency medicine": 12,
+  "family/primary care": 10,
+  "general/other surgery": 9,
+  "radiation oncology": 8,
+  "internal medicine (incl. subspecialties)": 6,
+  "psychiatry": 6,
+  "pathology": 3,
+  "dermatology": 3,
+  "ophthalmology": 2,
+  "pediatrics": 2,
+  "other clinical": 1,
+  "preventive/occupational/aerospace": 1
+ },
+ "evidence_levels": {
+  "gold": 2245,
+  "silver": 767,
+  "program_only": 364,
+  "none": 16
+ }
+}

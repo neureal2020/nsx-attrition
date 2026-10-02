@@ -1,0 +1,344 @@
+{
+ "program_id": 88,
+ "name": "University of Louisville School of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://louisville.edu/medschool/neurosurgery/residency-program/current-residents.html",
+   "from": "2011-05",
+   "to": "2013-12",
+   "note": "old Plone site; Wayback 2011-05, 2012-09 only; Common Crawl 2013-05, 2013-12"
+  },
+  {
+   "url": "http://louisville.edu/medicine/departments/neurosurgery/residency/current-residents",
+   "from": "2014-03",
+   "to": "2014-09",
+   "note": "Common Crawl only"
+  },
+  {
+   "url": "http://louisville.edu/medicine/departments/neurosurgery/education/neuroresidency/current-residents",
+   "from": "2014-10",
+   "to": "2014-10"
+  },
+  {
+   "url": "http://louisville.edu/medicine/departments/neurosurgery/residency/neuroresidency/current-residents",
+   "from": "2016-05",
+   "to": "2019-09"
+  },
+  {
+   "url": "https://louisville.edu/medicine/departments/neurosurgery/neuroresidency/current-residents",
+   "from": "2018-10",
+   "to": "2025-03"
+  },
+  {
+   "url": "https://louisville.edu/medicine/departments/neurosurgery/neuroresidency/graduates (alumni; recent-graduates 2019)",
+   "from": "2019-06",
+   "to": "2025-10"
+  },
+  {
+   "url": "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/.../Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+   "from": "2026-04",
+   "to": "live"
+  },
+  {
+   "url": "https://medicine.louisville.edu/search.html?collection=uol1~sp-directory&profile=directory&f.Resident+Program|medschoolProgram=neurological+surgery (live people directory, 2 pages)",
+   "from": "2026",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No roster capture: Wayback has current-residents.html only 2011-05 (content last modified Oct 2010, i.e. 2010-11) and 2012-09; Common Crawl CC-MAIN-2012 has only the residency-program index; no 2011 CC crawls. Reconstructed 6 (Baker, Rhee, Kinsman, Hall bracketed; Mansfield, Hruska alumni-confirmed). Nazar (PGY-2 2012-13) and Chojecka (PGY-1 2010-11, gone by 2012-13) not reconstructed. SIGNIFICANT. PHASE 2: significance low (all cohort slots accounted for; see year_status).",
+  "2012-2013": "Common Crawl 2013-05-23 (page modified 2013-04-11), 7 names; Wayback 2012-09 version (modified 2012-07) lacked Nazar. No PGY-1 listed: the 2012 intern class is never seen (no one with entry year 2012 appears in any later roster). SIGNIFICANT (incomplete). PHASE 2: Nazar entered 2012 at PGY-2 = the 2012 recruit; no PGY-1 cohort in 2012; low.",
+  "2013-2014": "Common Crawl 2014-03-11 (new /medicine/departments/neurosurgery/residency/current-residents), 6 names; CC 2013-12-10 identical but still carried Baker (graduated 2013). No PGY-1 listed (Aljuboori omitted). SIGNIFICANT (incomplete). PHASE 2: low (only Aljuboori omitted).",
+  "2014-2015": "CC-MAIN-2014-52 capture 2014-12-21 (phase 2; Wayback 2014-10-25 identical except Nazar labelled PGY-3), 7 names.",
+  "2015-2016": "Only 2015-16 content version is Wayback 2016-05-25 (spring); 7 names. No PGY-4 listed except Nazar labelled PGY-5.",
+  "2016-2017": "Wayback 2016-11-10; 8 names (Mansfield PGY-7 stale row dropped, alumni 2016).",
+  "2017-2018": "Wayback 2017-11-21; 10 names (Hruska PGY-7 stale row dropped, alumni 2017). Mar 2018 version drops Rice.",
+  "2018-2019": "Wayback 2018-10-20; 12 names.",
+  "2019-2020": "Wayback 2020-01-26; 14 names.",
+  "2020-2021": "Only 2020-21 capture, Wayback 2020-09-26; 14 names (Aljuboori PGY-7 stale row dropped, alumni 2020).",
+  "2021-2022": "Wayback 2021-12-07; 14 names.",
+  "2022-2023": "Wayback 2023-02-06; 13 names (Oct 2022 version identical but still listed Sharma, graduated 2022).",
+  "2023-2024": "Only 2023-24 content version is Wayback 2024-06-14 (Jul 2023 capture = 2022-23; next change Jun 2024). 10 names. No PGY-1 (Leavitt, Walek missing) and no PGY-6 (Pearson absent). SIGNIFICANT (incomplete): Pearson may have left in 2023 or during 2023-24. PHASE 2: CC 2023-2024 has no current-residents capture between Feb 2023 and Jun 2024; manual supplement adds Leavitt, Walek (PGY-1) and Jani (PGY-6). Low.",
+  "2024-2025": "Wayback 2025-01-13; 12 names. Old site's last capture 2025-03; new site launched by 2026.",
+  "2025-2026": "Only capture: Wayback 2026-04-15 of new medicine.louisville.edu meet-our-residents page (spring; PGY-1s Becerril Gaitan/Wang, advanced in live page). 12 names.",
+  "2026-2027": "Live meet-our-residents page and live people directory (both 12, all PGYs advanced, new interns Klein, Pico)."
+ },
+ "alumni_page": "https://louisville.edu/medicine/departments/neurosurgery/neuroresidency/graduates",
+ "departures": [
+  {
+   "name": "Pola Chojecka",
+   "last_ay": "2010-2011",
+   "last_pgy": 1,
+   "end_year": 2011,
+   "outcome": "switched_specialty",
+   "th_id": 3189,
+   "note": "Probably left by Jul 2011 (slot filled by Mansfield); Yale Department of Neurology (PubMed 2020-21), NPPES neurology HI. Pre-window."
+  },
+  {
+   "name": "Ryan Nazar",
+   "last_ay": "2015-2016",
+   "last_pgy": 5,
+   "end_year": 2016,
+   "outcome": "unknown",
+   "th_id": 3190,
+   "note": "Entered 2012 at PGY-2 (2011 cohort, 6-yr track). Absent Sep 2016, not an alumnus; 2022 Norton Healthcare care-management affiliation. Did not complete; destination unconfirmed."
+  },
+  {
+   "name": "Jeffrey Rice",
+   "last_ay": "2017-2018",
+   "last_pgy": 4,
+   "end_year": 2018,
+   "outcome": "unknown",
+   "th_id": 3191,
+   "note": "Joined PGY-4 2017-18, gone by Mar 2018. Earlier Univ of Arizona (Tucson) neurosurgery (2014 paper; NPI 2010): probably Arizona's unseen 2010 entrant. Later outcome unknown."
+  },
+  {
+   "name": "Muhammad Kandel",
+   "last_ay": "2019-2020",
+   "last_pgy": 4,
+   "end_year": 2020,
+   "outcome": "transferred",
+   "th_id": 3192,
+   "note": "UF Jacksonville spine fellow 2021-22, then SLU (60) PGY-6 2023-24, graduated 2025."
+  },
+  {
+   "name": "Hyunchul Lee",
+   "last_ay": "2020-2021",
+   "last_pgy": 3,
+   "end_year": 2021,
+   "outcome": "unknown",
+   "th_id": 3193,
+   "note": "UofL neurosurgery research affiliation 2024; no other roster."
+  },
+  {
+   "name": "Luke Pearson",
+   "last_ay": "2022-2023",
+   "last_pgy": 5,
+   "end_year": 2023,
+   "outcome": "transferred",
+   "th_id": 3194,
+   "note": "Most likely left end of 2022-23; UF Jacksonville spine fellow Jun 2024-Dec 2025; UMKC (95) PGY-4 2026-27."
+  },
+  {
+   "name": "Enzo Fortuny Viacava",
+   "last_ay": "2023-2024",
+   "last_pgy": 3,
+   "end_year": 2024,
+   "outcome": "unknown",
+   "th_id": 3195,
+   "note": "PGY-3 twice; UofL research affiliations to 2025; no other roster."
+  },
+  {
+   "name": "Lydia Leavitt",
+   "last_ay": "2024-2025",
+   "last_pgy": 2,
+   "end_year": 2025,
+   "outcome": "unknown",
+   "th_id": 3196,
+   "note": "NPPES (same NPI, enumerated Apr 2023) moved to a Salt Lake City trainee record Jul 2025; not in Utah neurosurgery. The adjudicator's 'switch' was a namesake."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Kevin Mansfield",
+   "first_ay": "2011-2012",
+   "first_pgy": 2,
+   "note": "Hidden by the 2011-12 gap; not on Oct 2010 roster; replaced Chojecka in the 2010 cohort; graduated 2016."
+  },
+  {
+   "name": "Ryan Nazar",
+   "first_ay": "2012-2013",
+   "first_pgy": 2,
+   "note": "Absent Jul 2012, PGY-2 by Apr 2013 (the 2012 recruit, entered at PGY-2)."
+  },
+  {
+   "name": "Muhammad Kandel",
+   "first_ay": "2016-2017",
+   "first_pgy": 3,
+   "note": "Foreign-trained (Ain Shams), Brigham research; listed as Mohamad Abolfotoh."
+  },
+  {
+   "name": "Jeffrey Rice",
+   "first_ay": "2017-2018",
+   "first_pgy": 4,
+   "note": "From Univ of Arizona Tucson neurosurgery (probable, left there before 2014-15)."
+  },
+  {
+   "name": "Raja Jani",
+   "first_ay": "2023-2024",
+   "first_pgy": 6,
+   "note": "Transfer from Rutgers NJMS (57) in 2023 (th_id 3197); PGY-7 2024-25; graduated 2025 (th_id 3198)."
+  }
+ ],
+ "residents_2011plus": 32,
+ "adjudication_summary": {
+  "COMPLETED": 18,
+  "IN TRAINING": 12,
+  "LEFT -> did not complete": 5,
+  "LEFT -> TRANSFERRED": 2
+ },
+ "problems": "Old site omitted interns in 2012-13 and 2013-14 and chiefs lingered after graduating (stale rows for Baker 2013-14, Mansfield 2016-17, Hruska 2017-18, Aljuboori 2020-21, Sharma Oct 2022 were dropped or avoided). The 2012 intern class is never observed. 2023-24 roster incomplete. Program was 6 years for classes up to 2012 (graduation at PGY-6), 7 years from the 2013 class. Alumni page not yet updated for 2025 (Jani) or 2026. Raja Jani (PGY-7 2024-25 only, D.O., previously Rutgers neurosurgery per PubMed) may be a transfer-in or an enfolded fellow; not verified. Mayur Sharma (joined 2018 as PGY-1, PGY-2 by Mar 2019, graduated 2022) had advanced standing. Mansfield not on the Oct-2010 roster yet PGY-3 in 2012-13: possible joiner hidden by the 2011-12 gap. PHASE 2: no significant gaps remain. 2023-24 has a manual supplement entry alongside the observed Jun-2024 version.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 6,
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture, but every cohort slot is accounted for (1/yr): 2006 Shah+Franklin grad 2011; 2007 Baker; 2008 Rhee; 2009 Kinsman+Hall; 2010 Chojecka (left, later Yale neurology) replaced by Mansfield (PGY-2 2011-12, grad 2016); 2011 Hruska (NPI Apr 2011). Only a person who entered Jul 2011 and left by Jul 2012 could be hidden, above complement."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "PGY-1s not listed. The 2012 recruit Nazar entered at PGY-2 (not on Jul-2012 version, PGY-2 by Apr 2013). A 2012-13 PGY-1 would have been PGY-2 in 2013-14 and nobody is; the program already carried 7 residents (over 1/yr x 6); alumni list has no 2018 or 2019 graduate. So the 2012 PGY-1 class was empty; only an intern who left within 2012-13 could be hidden."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Only PGY-1 (Aljuboori, PGY-2 in 2014-15, grad 2020) omitted; complement 1; no PGY-2 cohort exists (see 2012-13)."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete (CC 2014-12-21; Nazar PGY corrected 3->4)."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Spring capture only, but all PGYs consistent with 2014-15 and 2016-17."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete; Rice listed Nov 2017 only."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete (single capture Sep 2020)."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Only version (Jun 2024) omits PGY-1s and PGY-6. Supplemented with reconstructed Leavitt+Walek (PGY-1; complement 2, NPPES 2023) and Jani (PGY-6, Rutgers->Louisville 2023). Remaining uncertainty is only Pearson's exit date (end of 2022-23 most likely vs mid-2023-24); his outcome is recorded."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete (spring capture, PGYs consistent with live)."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page and directory agree."
+  }
+ },
+ "not_residents": [
+  {
+   "name": "Heegook Yeo",
+   "note": "UofL MD graduate; NPI enumerated 2018-03 as a student with a Louisville address, moved to Henry Ford (24) in May 2020 as its 2020 intern. Never on a Louisville neurosurgery roster (Oct 2018, Jan 2020, Sep 2020 rosters are complete): not a Louisville resident, no transfer."
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "Parsed phase-1 CC files (2012-14 rosters, didactics 2013-14 PDF: no names)",
+   "Wayback CDX of every current-residents/graduates/photo-gallery-news/neuroresidency version 2011-2025",
+   "gapaudit louisville.edu/medicine/departments/neurosurgery 2023-2024; louisville.edu/medschool/gme, /medicine/gme, /medschool/neurosurgery/news 2011-2014",
+   "Common Crawl 2023-2024 (15 crawls, edu,louisville)/medicine/departments/neurosurgery): no current-residents capture between Feb 2023 and Jun 2024",
+   "PubMed affiliation mining Louisville neurosurgery 2010-2015 (no unlisted residents; names found were researchers/students/other specialties: Muradov=surgery, Geralds=EM)",
+   "PubMed/OpenAlex per person (Nazar, Rice, Kandel/Abolfotoh, Lee, Pearson, Fortuny Viacava, Leavitt, Jani, Chojecka, Aljuboori, Mansfield)",
+   "NPPES for all departures/joiners and 2012/2018/2023 interns",
+   "UF Jacksonville spine fellowship fellows/alumni pages (Wayback)",
+   "Live UofL people directory search",
+   "Cross-program rosters 24, 57, 60, 72, 95, 111"
+  ],
+  "found": [
+   "2014-15 Dec capture fixes Nazar's PGY; Nazar entered 2012 at PGY-2, explaining the 'missing' 2012 intern class",
+   "Chojecka -> Yale neurology (switch); Mansfield replaced her in 2011",
+   "Kandel: UFJ Complex/MIS spine fellow 2021-22 between Louisville and SLU",
+   "Rice: previously Univ of Arizona Tucson neurosurgery (2014 affiliation, NPI 2010)",
+   "Jani at Louisville from 2023 (PGY-6 2023-24 reconstructed)",
+   "Yeo was never a Louisville resident"
+  ],
+  "remaining": [
+   "Pearson's exact exit date (Jun 2023 vs during 2023-24)",
+   "Outcomes unknown: Nazar, Rice, Lee, Fortuny Viacava, Leavitt",
+   "Lead for program 72: Jeffrey M. Rice is probably Arizona-Tucson's unseen 2010 entrant who left before 2014-15"
+  ]
+ }
+}

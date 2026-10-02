@@ -1,0 +1,1154 @@
+[
+ {
+  "key": "4:gab:arguelles",
+  "name": "Gabriel Arguelles",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-4, University of Pennsylvania); Doximity lists same program",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-4 at Barrow neurosurgery (started 2023); no evidence of departure",
+  "current": "neurosurgery resident (PGY-4), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-4 resident, medical school: University of Pennsylvania"
+   },
+   {
+    "url": "https://www.doximity.com/pub/gabriel-arguelles-md",
+    "type": "doximity",
+    "evidence": "Doximity page lists only Perelman School of Medicine at Penn, Class of 2023 (no residency shown)"
+   },
+   {
+    "url": "https://www.zoominfo.com/p/Gabriel-Arguelles/2764713171",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at Barrow Neurological Institute"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:sof:norman",
+  "name": "Sofya Norman",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-4, Weill Cornell Medical College); Doximity lists same program",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-4 at Barrow neurosurgery (started 2023); no evidence of departure",
+  "current": "neurosurgery resident (PGY-4), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-4 resident, medical school: Weill Cornell Medical College"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sofya-norman-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Barrow, 2023 - 2030; Weill Cornell Medicine Class of 2023"
+   },
+   {
+    "url": "https://www.barrowneuro.org/about/news-and-articles/in-the-news/awards-recognitions-march-2023/",
+    "type": "news",
+    "evidence": "Sofya Norman, MD matched to Barrow neurosurgery (Match Day 2023)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:ale:aguirre",
+  "name": "Alexander Aguirre",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "DB note says joined 2024 class as PGY3 after Blacker left; sources show he did his PGY-1 at Buffalo (2024-25) and Barrow start is 2025-2031 (entry_year 2024 in DB may be off by one; ambiguity-name flag resolved)",
+  "identity": "confirmed",
+  "identity_basis": "Barrow roster PGY-3 plus Doximity: Barrow neurosurgery residency 2025-2031, prior neurosurgery residency at University at Buffalo 2024-2025, Buffalo med school 2024",
+  "residency_stated": [
+   {
+    "institution": "University at Buffalo",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2025
+   },
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Started neurosurgery PGY-1 at University at Buffalo 2024-25, joined Barrow 2025 as (transfer-in) resident; currently Barrow PGY-3 in 2026-27. Not a departure from Barrow.",
+  "current": "neurosurgery resident (PGY-3), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alexander-aguirre-md",
+    "type": "doximity",
+    "evidence": "Barrow ... Residency, Neurological Surgery, 2025 - 2031; University at Buffalo Residency, Neurological Surgery, 2024 - 2025"
+   },
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-3 resident, medical school: Undergraduate Syracuse University (med school not listed)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:ant:piscopo",
+  "name": "Anthony Piscopo",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-3, University of Iowa)",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-3 at Barrow neurosurgery (started 2024); no evidence of departure",
+  "current": "neurosurgery resident (PGY-3), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-3 resident, medical school: University of Iowa"
+   },
+   {
+    "url": "https://x.com/BarrowNeuro/status/1768751556789178465?lang=en",
+    "type": "search_snippet",
+    "evidence": "Happy #MatchDay2024! ... incoming residents in #neurosurgery: ... Anthony Piscopo, MD, @iowamed"
+   },
+   {
+    "url": "https://nref.org/nref-in-action/success-story-dr-anthony-piscopo/",
+    "type": "news",
+    "evidence": "NREF success story: Dr. Anthony Piscopo (Iowa)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:ben:reeves",
+  "name": "Benjamin Reeves",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-3, Yale School of Medicine); Doximity lists same program",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-3 at Barrow neurosurgery (started 2024); no evidence of departure",
+  "current": "neurosurgery resident (PGY-3), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-3 resident, medical school: Yale School of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/benjamin-reeves-md-50a96b1b",
+    "type": "doximity",
+    "evidence": "Barrow ... Residency, Neurological Surgery, 2024 - 2031; Yale School of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:ste:koester",
+  "name": "Stefan Koester",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-3, Vanderbilt University)",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-3 at Barrow neurosurgery (started 2024); no evidence of departure",
+  "current": "neurosurgery resident (PGY-3), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-3 resident, medical school: Vanderbilt University"
+   },
+   {
+    "url": "https://www.barrowneuro.org/person/stefan-koester-md/",
+    "type": "bio",
+    "evidence": "Barrow bio: Vanderbilt medical school, neurosurgery residency at Barrow, PGY-3, program start 2024 (per page summary)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:ben:rodriguez",
+  "name": "Benjamin Rodriguez",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "probable",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-2, Icahn School of Medicine at Mount Sinai)",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-2 at Barrow neurosurgery (started 2025); no evidence of departure",
+  "current": "neurosurgery resident (PGY-2), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-2 resident, medical school: Icahn School of Medicine at Mount Sinai"
+   },
+   {
+    "url": "https://www.barrowneuro.org/about/news-and-articles/in-the-news/awards-amp-recognitions-march-2025/",
+    "type": "news",
+    "evidence": "incoming neurosurgery residents: Benjamin Rodriguez, MD, Icahn School of Medicine at Mount Sinai"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:gab:hovis",
+  "name": "Gabrielle Hovis",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-2, University of California Irvine); Doximity lists same program",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-2 at Barrow neurosurgery (started 2025); no evidence of departure",
+  "current": "neurosurgery resident (PGY-2), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-2 resident, medical school: University of California Irvine"
+   },
+   {
+    "url": "https://www.barrowneuro.org/about/news-and-articles/in-the-news/awards-amp-recognitions-march-2025/",
+    "type": "news",
+    "evidence": "Gabrielle Hovis, MD, University of California Irvine School of Medicine (incoming neurosurgery resident)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/gabrielle-hovis-md",
+    "type": "doximity",
+    "evidence": "Doximity lists UC Irvine School of Medicine Class of 2024 only (no residency shown)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:gun:wong",
+  "name": "Gunther Wong",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-2, Vanderbilt University); Doximity lists same program",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-2 at Barrow neurosurgery (started 2025); no evidence of departure",
+  "current": "neurosurgery resident (PGY-2), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-2 resident, medical school: Vanderbilt University"
+   },
+   {
+    "url": "https://www.doximity.com/pub/gunther-wong-md",
+    "type": "doximity",
+    "evidence": "Barrow ... Residency, Neurological Surgery, 2025 - 2032; Vanderbilt Class of 2025"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:sar:sternbach",
+  "name": "Sarah Sternbach",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-2, USC Keck School of Medicine)",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-2 at Barrow neurosurgery (started 2025); no evidence of departure",
+  "current": "neurosurgery resident (PGY-2), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-2 resident, medical school: USC Keck School of Medicine"
+   },
+   {
+    "url": "https://www.barrowneuro.org/person/sarah-sternbach-md/",
+    "type": "bio",
+    "evidence": "Sarah Sternbach, MD listed on Barrow site (search result)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:can:grisham",
+  "name": "Candace Grisham",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-1, Vanderbilt University); Doximity lists same program",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-1 at Barrow neurosurgery (started 2026); no evidence of departure",
+  "current": "neurosurgery resident (PGY-1), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-1 resident, medical school: Vanderbilt University"
+   },
+   {
+    "url": "https://www.doximity.com/pub/candace-grisham-md",
+    "type": "doximity",
+    "evidence": "Vanderbilt University School of Medicine Class of 2026 (no residency shown)"
+   },
+   {
+    "url": "https://news.vumc.org/2026/03/23/medical-students-participate-in-a-joyous-culmination-of-their-education-match-day/",
+    "type": "news",
+    "evidence": "search summary: Candace Grisham matched into Neurological Surgery at Barrow"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:mic:covell",
+  "name": "Michael Covell",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-1, Georgetown University); Doximity lists same program",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-1 at Barrow neurosurgery (started 2026); no evidence of departure",
+  "current": "neurosurgery resident (PGY-1), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-1 resident, medical school: Georgetown University"
+   },
+   {
+    "url": "https://www.doximity.com/pub/michael-covell-md",
+    "type": "doximity",
+    "evidence": "Barrow ... Residency, Neurological Surgery, 2026 - 2033; Georgetown Class of 2026"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:nic:perez",
+  "name": "Nicole Perez",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-1, Harvard Medical School); Doximity lists same program",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-1 at Barrow neurosurgery (started 2026); no evidence of departure",
+  "current": "neurosurgery resident (PGY-1), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-1 resident, medical school: Harvard Medical School"
+   },
+   {
+    "url": "https://www.doximity.com/pub/nikki-perez-md",
+    "type": "doximity",
+    "evidence": "Barrow ... Residency, Neurological Surgery, 2026 - 2033; Harvard Medical School Class of 2026"
+   },
+   {
+    "url": "https://www.barrowneuro.org/person/nicole-perez-md/",
+    "type": "bio",
+    "evidence": "Nicole Perez, MD - Barrow Neurological Institute (listed as Nikki Perez on Doximity)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "4:noa:nawabi",
+  "name": "Noah Nawabi",
+  "program_id": 4,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Named on official Barrow neurosurgery residency roster (PGY-1, Medical University of South Carolina)",
+  "residency_stated": [
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Currently PGY-1 at Barrow neurosurgery (started 2026); no evidence of departure",
+  "current": "neurosurgery resident (PGY-1), Barrow Neurological Institute",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.barrowneuro.org/for-physicians-researchers/education/neuroscience-residency-programs/neurosurgery-residency-program/",
+    "type": "program_page",
+    "evidence": "Barrow roster lists PGY-1 resident, medical school: Medical University of South Carolina"
+   },
+   {
+    "url": "https://www.barrowneuro.org/person/noah-nawabi-md/",
+    "type": "bio",
+    "evidence": "Noah Nawabi, MD - Barrow Neurological Institute, PGY-1, MUSC (per search summary)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:ani:sen",
+  "name": "Anish Sen",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor residency 2011-2018 and Sidney Kimmel/Jefferson 2011 MD; Baylor alumni 2018",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Baylor neurosurgery 2011-2018; fellowship-free, now attending",
+  "current": "neurosurgeon, Loma Linda University / Riverside Community Hospital, CA (also Kaiser Woodland Hills)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "2018: Anish Sen, M.D. - Private, Loma Linda, CA"
+   },
+   {
+    "url": "https://www.doximity.com/pub/anish-sen-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/anish-sen-1221570",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2011-2018"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:jac:cherian",
+  "name": "Jacob Cherian",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News: Baylor MD 2011 and Baylor neurosurgery residency 2011-2018; Baylor alumni 2018",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Baylor 2011-2018; endovascular fellowship Emory 2018-2020",
+  "current": "neurosurgeon/assistant professor, University of Maryland School of Medicine, Baltimore",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "2018: Jacob Cherian, M.D. - Academic, Baltimore, MD"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jacob-cherian-md-b5fa1734",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/jacob-cherian-1840242",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2011-2018"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:zhe:lan",
+  "name": "Zheng Lan",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": false,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "probable",
+  "identity_basis": "Doximity search snippet: neurologist Zheng Lan, University of Cincinnati College of Medicine Class of 2011 (matches 2011 entrant); SUNY Downstate neurology alumni list has Zheng Dao Lan MD; DB has Baylor PMID with lan@bcm.edu. Doximity page did not load in Chrome (no public profile)",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": null
+   },
+   {
+    "institution": "SUNY Downstate",
+    "specialty": "neurology",
+    "start": null,
+    "end": 2023
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Not on Baylor alumni list; SUNY Downstate neurology residency graduate 2023 then Neurocritical Care fellowship at Montefiore/Albert Einstein. Year left Baylor and neurology start year not stated in sources (last Baylor evidence 2014-11 per DB).",
+  "current": "neurology-trained, neurocritical care fellowship (Montefiore/Albert Einstein), New York",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.downstate.edu/education-training/fellowship-residency-programs/neurology/residency/recent-graduates.html",
+    "type": "program_page",
+    "evidence": "Zheng Dao Lan: graduating year 2023; Fellowship: Neurocritical Care at Montefiore/Albert Einstein COM, New York, NY"
+   },
+   {
+    "url": "https://www.doximity.com/pub/zheng-lan-md",
+    "type": "search_snippet",
+    "evidence": "Dr. Zheng Lan, MD - Brooklyn, NY | Neurology; University of Cincinnati College of Medicine Class of 2011"
+   },
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "Zheng Lan not on alumni list 2017-2021"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "5:eri:momin",
+  "name": "Eric Momin",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Baylor alumni 2019 and search results: MD Anderson-Baylor combined neurosurgery residency, Johns Hopkins MD 2012",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; complex spine fellowship Wisconsin",
+  "current": "neurosurgeon (spine), Grand Junction, CO",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "2019: Eric Momin, M.D. - Private, Grand Junction, CO"
+   },
+   {
+    "url": "https://doctors.intermountainhealth.org/provider/eric-n-momin/1650171",
+    "type": "bio",
+    "evidence": "neurosurgical training as a resident at the combined MD Anderson - Baylor College of Medicine program; complex spine fellowship University of Wisconsin"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:pas:zinn",
+  "name": "Pascal Zinn",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: Baylor neurosurgery residency 2012-2019; Zurich MD 2007; Baylor alumni 2019",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; Dana-Farber fellowship; UPMC faculty",
+  "current": "neurosurgeon, Associate Professor, UPMC/University of Pittsburgh",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "2019: Pascal Zinn, M.D. - Academic, Pittsburgh, PA"
+   },
+   {
+    "url": "https://www.doximity.com/pub/pascal-zinn-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/pascal-zinn-1230744",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2012-2019"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:ror:mayer",
+  "name": "Rory Mayer",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: Baylor MD 2012 and Baylor neurosurgery residency 2012-2019; Baylor alumni 2019",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019 (chief resident); UCSF spine fellowship 2019-2020. Doximity/US News also list a UT Health Houston neurological surgery residency entry (no years), likely rotation/affiliate listing.",
+  "current": "neurosurgeon (spine/scoliosis), Ascension Texas Spine and Scoliosis, Austin TX",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "2019: Rory Mayer, M.D. - Private, Dallas, TX (alumni page; current practice Austin TX)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/rory-mayer-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2012 - 2019; UCSF fellowship 2019-2020; ABNS"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/rory-mayer-1046849",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2012-2019"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:ven:simpson",
+  "name": "Venita Simpson",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: Baylor neurosurgery residency 2012-2019, Georgetown MD 2011; press on first Black woman to complete Baylor neurosurgery residency; UT Southwestern bio",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Baylor 2019 (entered Baylor 2012 per Doximity/US News; press/bio also state SUNY Upstate neurosurgery residency, consistent with DB transfer-in note). Then Navy neurosurgeon (Portsmouth), now UT Southwestern faculty.",
+  "current": "neurosurgeon, UT Southwestern Medical Center, Dallas TX (formerly US Navy, Portsmouth VA)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "2019: Venita Simpson, M.D. - U.S. Navy, Portsmouth, VA"
+   },
+   {
+    "url": "https://doximity.com/pub/venita-simpson-md-890180dc",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2012 - 2019; ABNS"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/venita-simpson-1024730",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2012-2019"
+   },
+   {
+    "url": "https://utswmed.org/doctors/venita-simpson/",
+    "type": "bio",
+    "evidence": "search summary: completed residencies in neurological surgery at SUNY Upstate Medical University and Baylor College of Medicine"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:adi:vedantam",
+  "name": "Aditya Vedantam",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: Baylor residency 2013-2020, CMC Vellore 2009; Baylor alumni 2020",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020; Miami spine fellowship 2020-21",
+  "current": "neurosurgeon, Associate Professor, Medical College of Wisconsin, Milwaukee",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "2020: Aditya Vedantam, M.D. - Academic, Milwaukee, WI"
+   },
+   {
+    "url": "https://www.doximity.com/pub/aditya-vedantam-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2013 - 2020; ABNS"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/aditya-vedantam-1167192",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2013-2020"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:rob:north",
+  "name": "Robert North",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: Baylor residency 2013-2020, Wayne State MD 2013; chief resident 2019-20; Baylor alumni 2020",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020; Michigan fellowship; MD Anderson faculty",
+  "current": "neurosurgeon, MD Anderson Cancer Center, Houston TX",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "2020: Robert North, M.D. - Attending, Houston, TX"
+   },
+   {
+    "url": "https://www.doximity.com/pub/robert-north-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2013 - 2020; ABNS"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/robert-north-1215471",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2013-2020"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:vis:srinivasan",
+  "name": "Visish Srinivasan",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: Baylor residency 2013-2020, Drexel MD 2013; Barrow fellowship 2020-22; Baylor alumni 2020",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020; cerebrovascular fellowship Barrow 2020-2022",
+  "current": "neurosurgeon, Assistant Professor, University of Pennsylvania, Philadelphia",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "2020: Visish Srinivasan, M.D. - Academic, Philadelphia, PA"
+   },
+   {
+    "url": "https://www.doximity.com/pub/visish-srinivasan-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2013 - 2020; ABNS"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/visish-srinivasan-1067494",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2013-2020"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:kat:wagner",
+  "name": "Kate Wagner",
+  "program_id": 5,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "abns_certified": true,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "identity": "probable",
+  "identity_basis": "Baylor alumni lists Kate Wagner 2021 (Private Practice, OR); Southern Oregon Neurosurgical & Spine Associates bio: joined Aug 2021 after training at Baylor; Kathryn Wagner co-authored Baylor papers; Doximity/US News show OHSU MD 2006 only (no residency listed)",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Baylor 2021 per alumni page; practising neurosurgeon Medford OR",
+  "current": "neurosurgeon, Southern Oregon Neurosurgical and Spine Associates, Medford OR",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+    "type": "program_page",
+    "evidence": "2021: Kate Wagner, M.D. - Private Practice, OR"
+   },
+   {
+    "url": "https://www.sonsa.org/providers/kathryn-wagner-m-d/",
+    "type": "search_snippet",
+    "evidence": "joined Southern Oregon Neurosurgical and Spine Associates in August 2021 after completing her training at Baylor College of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kathryn-wagner-md-433df2d3",
+    "type": "doximity",
+    "evidence": "OHSU School of Medicine Class of 2006; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/kathryn-wagner-1412417",
+    "type": "usnews",
+    "evidence": "OHSU School of Medicine medical school; neurosurgeon Portland OR"
+   }
+  ],
+  "searches_used": 3
+ }
+]

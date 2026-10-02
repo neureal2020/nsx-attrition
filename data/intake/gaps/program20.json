@@ -1,0 +1,261 @@
+{
+ "program_id": 20,
+ "name": "Emory University School of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 4,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.neurosurgery.emory.edu/Residency/residents.htm (old static site, 'Meet the Residents', PGY headings; + alumni.htm, HistoricalNeurosurgeryResidentsTable.pdf)",
+   "from": "2007-06",
+   "to": "2008-07 (last capture; shows 2007-08 roster)"
+  },
+  {
+   "url": "http://www.neurosurgery.emory.edu/Residency/residents.html, alumni.html, Residents/*.html (old site renamed .html; residents.html and https://secure.web.emory.edu/neurosurgery/Residency/currentresidents.html linked but NEVER archived; only orphan captures 2015-12, alumni list ends with 2011 grads)",
+   "from": "c.2009",
+   "to": "c.2015"
+  },
+  {
+   "url": "http://neurosurgery.emory.edu/residency-education/education/current-residents.html (+ /residency-education/alumni.html, /resident-bios/)",
+   "from": "2015-10",
+   "to": "2020-02"
+  },
+  {
+   "url": "https://med.emory.edu/departments/neurosurgery/education/residency/current_residents.html (+ alumni.html, resident_bios/); neurosurgery.emory.edu now redirects here",
+   "from": "2020-11",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "http://www.emoryhealthcare.org/neurosurgery/residency-program.html (hospital page, no roster)",
+   "from": "2009-10",
+   "to": "2016-06"
+  }
+ ],
+ "observed_years": [
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No roster capture anywhere. Wayback holds no captures of any residency page on neurosurgery.emory.edu between 2008-09 and 2015-10 (host-level CDX 2009-2015: robots.txt/favicon 2010, homepage 2013-04..2014-01 and 2015-08 only; homepage links Residency/index.html, never archived). secure.web.emory.edu/neurosurgery/ and web.emory.edu/neurosurgery/ have 0 captures; emoryhealthcare.org/neurosurgery/residency-program.html has no names. Common Crawl 2011-2016 (edu,emory,neurosurgery)/, edu,emory,web,secure)/neurosurgery, org,emoryhealthcare)/neurosurgery): 0 roster records (1 non-roster record in 2014-35). Reconstructed 17 from alumni graduation years (grads 2012-2018) + 2007-08 roster. Unobservable: David Laborde (PGY3 2007-08, would be PGY7) and Nasrin Aldawoodi (PGY1 2007-08, would be PGY5) - neither on alumni list, status unknown (likely left before 2011). PHASE 2: David Laborde added (PGY7, reconstructed): 2007-08 roster PGY3 + Emory Neurosurgery PubMed affiliations 2011-12 incl. a clinical case received 2011-09; not on any alumni list -> outcome unknown. Nasrin Aldawoodi (PGY1 2007-08) left before 2011: UNC Anesthesiology affiliation 2012, now Moffitt anesthesiology -> outside window.",
+  "2012-2013": "As 2011-12. Reconstructed 19 (alumni grads 2013-2019).",
+  "2013-2014": "As 2011-12. Reconstructed 17. Entry-2013 class: Joseph Quillin (alumni 2020) and, PHASE 2, Jeremy Wetzel (bio: MD UTHealth 2013, PGY-3 Oct 2015; NPI enumerated in GA 2013-04; Oct-2015 alumni page lists 'Joe Quillin, Jeremy Wetzel' under 2020). Now 18 reconstructed.",
+  "2014-2015": "As 2011-12. Reconstructed 21 incl. Wetzel PGY2 (phase 2) = the 21-resident complement seen on every observed roster 2015-16..2022-23. First observed roster is Oct 2015.",
+  "2015-2016": "Wayback 2015-10-25 residency-education/education/current-residents.html (first capture of the new site). Complete PGY1-7, 21 names.",
+  "2016-2017": "Wayback 2016-08-07 (identical to 2016-07-06); PGY1 Bray/Laxpati/Zarabi. Complete.",
+  "2017-2018": "Wayback 2017-08-21 (2017-07-30 identical, 2018-04 same list). PGY1 Malcolm/Mustroph/Steed; Gutierrez new at PGY2.",
+  "2018-2019": "Wayback 2018-12-01 (same list 2018-07..2018-12). Zarabi gone.",
+  "2019-2020": "Wayback 2019-12-03 (2019-07, 2020-02 same list).",
+  "2020-2021": "Wayback 2020-11-25 med.emory.edu current_residents.html (first capture on new host; 2021-04 same). PGY1 Newman/Rybkin only.",
+  "2021-2022": "Wayback 2022-01-21 (2021-08-12 same). Warren new at PGY2.",
+  "2022-2023": "Wayback 2023-02-07 (2022-08-18 same). PGY1 Dawoud/Jacob only.",
+  "2023-2024": "Wayback 2023-11-30 (2023-09-12 same). Raju and Revuelta-Barbero new at PGY2.",
+  "2024-2025": "Wayback 2024-08-12 (2024-07-09 version misspelled 'Han Tao' = Hao Tan).",
+  "2025-2026": "Wayback 2025-12-17 (2025-07-13 same).",
+  "2026-2027": "Live page fetched 2026-09-27; advanced (new PGY1 Adachi, Horsey, Reynolds, Wang)."
+ },
+ "alumni_page": "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html",
+ "departures": [
+  {
+   "name": "Hosniya Zarabi",
+   "last_ay": "2017-2018",
+   "last_pgy": 2,
+   "note": "TRANSFERRED (phase 2): UC Davis neurosurgery (77) PGY-3 2018-19, then Temple (64) PGY-3 2023-24. training_history row: completed=no, departure_type=transferred, end_year 2018. Not a specialty switch (NPPES 'switch' call was wrong)."
+  },
+  {
+   "name": "David Laborde",
+   "last_ay": "2011-2012",
+   "last_pgy": 7,
+   "note": "Reconstructed PGY7 2011-12 (entry 2005). Not on any Emory alumni list; NPI never updated since 2008. Outcome unknown (training_history completed=unknown)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Juanmarco Gutierrez",
+   "first_ay": "2017-2018",
+   "first_pgy": 2,
+   "note": "MD Mexico 2010, Emory MSc 2014 (Boulis lab research); July-2017 bio header still said PGY-1 -> PGY-1 year outside the neurosurgery roster in 2016-17; filled the 2016 class; graduated 2023 (alumni). Not a neurosurgery transfer."
+  },
+  {
+   "name": "Kwanza Warren",
+   "first_ay": "2021-2022",
+   "first_pgy": 2,
+   "note": "PGY-1 surgery at NYP-Columbia 2020-21 (PubMed), then Emory PGY-2; preliminary-year entrant, not a transfer. Row recorded (start 2021)."
+  },
+  {
+   "name": "Sukreet Raju",
+   "first_ay": "2023-2024",
+   "first_pgy": 2,
+   "note": "Prior Tulane general-surgery residency (upper-level award 2019; Tulane Surgery affil 2021); bio lists SNS neurosurgery boot camp July 2015 and 2017 Ochsner Neurosurgery affiliation -> possible earlier neurosurgery PGY-1 in New Orleans (program 66 roster does not list him). Row recorded (start 2023)."
+  },
+  {
+   "name": "J. Manuel Revuelta-Barbero",
+   "first_ay": "2023-2024",
+   "first_pgy": 2,
+   "note": "TRANSFER IN from Medical College of Georgia (42; PGY-1 2022-23 as 'Manuel Revuelta'). Row recorded (start 2023)."
+  }
+ ],
+ "residents_2011plus": 54,
+ "adjudication_summary": {
+  "COMPLETED": 41,
+  "IN_TRAINING": 26,
+  "LEFT_TRANSFERRED": 1,
+  "LEFT_OUTCOME_UNKNOWN": 1,
+  "note": "phase 2: Zarabi now TRANSFERRED; Laborde (entry 2005, reconstructed PGY7 2011-12) outcome unknown; Wetzel COMPLETED via training_history. COMPLETED includes 14 pre-2011 entrants (2005-2010)."
+ },
+ "problems": "2011-12..2014-15 remain unobservable (no roster capture in Wayback or any Common Crawl crawl); rosters reconstructed from alumni years + 2007-08 roster + bios/PubMed. Phase-1 failed crawls CC-MAIN-2015-06 (org,emoryhealthcare)/neurosurgery) and CC-MAIN-2016-18 (edu,emory,web,secure)/neurosurgery) retried OK: no roster records (hospital residency page has no names; secure host has 0 records). Laborde's outcome unresolved. OpenAlex daily budget exhausted mid-session (one query succeeded).",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "significance": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Entry-2009..2012 classes (3,4,3,3) all reach the 2015-16 roster/alumni list intact; entry-2005..2008 classes anchored by 2007-08 roster + alumni list; only Laborde unresolved (recorded)."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Same anchors; every entrant 2006-2012 is either an alumnus or on the 2015-16 roster; the 2012 match (3) is complete."
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Entry-2013 class now Quillin+Wetzel (both on Oct-2015 alumni list as class of 2020); 2-person classes are normal here (2015, 2020, 2022 observed at 2). An entrant who left before Oct 2015 without trace cannot be fully excluded; PubMed affiliation mining 2010-16 surfaced no Emory neurosurgery resident outside the known list (non-roster names checked were students, fellows or lab staff)."
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Reconstruction totals 21 = fixed complement on every observed roster 2015-23; 2015-16 took only 2 PGY-1s and no PGY-2 joiner, so there was no vacancy to backfill, i.e. no 2014-15 departure."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete PGY1-7 roster capture"
+  }
+ },
+ "resolved": [
+  {
+   "name": "Jeremy Wetzel",
+   "outcome": "COMPLETED 2020",
+   "note": "PGY-7 on Dec-2019 and Feb-2020 rosters; Jan-2020 alumni page lists him under 2020. The med.emory.edu alumni page added the 2020-22 classes only in 2022-06 and listed Quillin alone for 2020, but it also silently drops confirmed graduates (2005: Bryan Barnes, Patrick Tomak appear on the old alumni list, not the new one), so the omission is not evidence. Emory Neurosurgery affiliation on papers to 2021, 2022 affil 'JW Neurosurgery Consulting, Atlanta', active GA NPI (updated 2023). Recorded as completed=yes end 2020, 'PGY-terminal roster'."
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "CC retries CC-MAIN-2015-06..2015-48 (3 prefixes) and all 2016 crawls (secure + web hosts): all ok, only emoryhealthcare residency-program.html (no names) and old Residency/ index (no names)",
+   "gapaudit 2009-2015: neurosurgery.emory.edu, www., secure.web.emory.edu/neurosurgery, web.emory.edu/neurosurgery, emoryhealthcare.org/neurosurgery, med.emory.edu/gme, med.emory.edu/education, whsc.emory.edu/home/news, news.emory.edu/stories/2012 -> no roster, no resident news",
+   "old-site orphan pages (2015-12): Residency/alumni.html (to 2011 grads), Residents/{Amadio,Gary,Howard,Mariwalla,Smith-Cain,Taub}.html (no PGY), Residency/ index; neuro-oncology track pages (no resident names)",
+   "all alumni.html versions 2015-10..2025-04 on both hosts (Wetzel present to 2020-01, absent from 2022-06 on)",
+   "resident bios: Wetzel (2015), Gutierrez (2017), Warren (2021), Raju and Revuelta-Barbero (2023)",
+   "PubMed affiliation mining (Emory AND neurosurg) 2010-2016: 487 PMIDs; non-roster names checked (Mulligan, Keen, Wicks, Machaidze, Anthony...) - none an Emory neurosurgery resident",
+   "PubMed/Europe PMC/OpenAlex + NPPES for Wetzel, Laborde, Aldawoodi, Zarabi, Raju, Warren, Revuelta-Barbero",
+   "crossmatch.json: only Zarabi (->77); PHASE2_NOTES: Revuelta (MCG 42 -> Emory)"
+  ],
+  "found": [
+   "Wetzel entry 2013 (bio MD 2013) -> reconstructed PGY1 2013-14, PGY2 2014-15; completion 2020 resolved as alumni-page omission",
+   "Laborde present at Emory neurosurgery 2011-12 (PubMed) -> reconstructed PGY7 2011-12, outcome unknown",
+   "Aldawoodi left before 2011 (UNC anesthesiology)",
+   "Zarabi transfer chain Emory -> UC Davis 2018 -> Temple 2023",
+   "Joiner origins: Revuelta-Barbero MCG transfer; Warren Columbia surgery prelim; Raju Tulane general surgery (+possible 2015 neurosurgery PGY-1 in New Orleans); Gutierrez PGY-1 outside the roster 2016-17",
+   "Current med.emory.edu alumni page omits real graduates (2005 Barnes, Tomak) - not a complete graduates list"
+  ],
+  "remaining": [
+   "No roster for 2011-12..2014-15 (all four years still reconstructed, significance low)",
+   "Laborde outcome (graduated 2012 or not)",
+   "Raju's 2015-16 neurosurgery PGY-1 program (lead for program 66 / Ochsner)"
+  ]
+ }
+}

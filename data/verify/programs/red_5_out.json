@@ -1,0 +1,204 @@
+[
+ {
+  "program_id": 40,
+  "program": "Mayo Clinic College of Medicine and Science (Rochester)",
+  "years": [
+   {
+    "year": "2011-2012",
+    "resolved": false,
+    "how": "No new roster/alumni/match-list source found; Rochester program has no public alumni page (college.mayo.edu graduate-outcomes 404) and program microsite neurosurgery.college.mayo.edu unreadable (DNS fail / no Wayback captures). Entrants held 3 = NRMP 3, all completed.",
+    "classes_confirmed": [],
+    "sources": [
+     "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-minnesota/",
+     "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-minnesota/graduate-outcomes/"
+    ]
+   },
+   {
+    "year": "2012-2013",
+    "resolved": false,
+    "how": "Same: no match list or class listing found for 2012 class (Gates, Hughes, Kapurch); counts match NRMP 3.",
+    "classes_confirmed": [],
+    "sources": []
+   },
+   {
+    "year": "2013-2014",
+    "resolved": false,
+    "how": "Same: no new source naming the 2013 class; counts match NRMP 3.",
+    "classes_confirmed": [],
+    "sources": []
+   },
+   {
+    "year": "2014-2015",
+    "resolved": false,
+    "how": "Same: no new source naming the 2014 class; counts match NRMP 3.",
+    "classes_confirmed": [],
+    "sources": []
+   }
+  ],
+  "new_people": [],
+  "notes": "Searches: alumni/graduates pages, match lists 2012, class-name co-occurrence; only Doximity/USNews/LinkedIn-type leads (not counted). Low residual risk: every year entrants_held = NRMP matched and all 12 entrants completed; only an unseen matchee replaced by a same-year transfer-in could be missed."
+ },
+ {
+  "program_id": 72,
+  "program": "University of Arizona College of Medicine- Tucson",
+  "years": [
+   {
+    "year": "2011-2012",
+    "resolved": false,
+    "how": "No new roster/news/match-list source for 2011-12. Wayback domain listing of surgery.arizona.edu 2011-2016 per-resident bio pages (current-residents/neurosurgery/*) adds no unknown names: Serxner, Valdivia Valdivia and Rivero pages are pre-2011 alumni bios. Class of 2010 still unobservable.",
+    "classes_confirmed": [],
+    "sources": [
+     "https://web.archive.org/cdx/search/cdx?url=surgery.arizona.edu&matchType=domain&filter=original:.*neuro.*&from=2011&to=2016&collapse=urlkey&fl=original,timestamp,statuscode&limit=300",
+     "https://web.archive.org/web/20150602201148/http://surgery.arizona.edu:80/current-residents/neurosurgery/benjamin-j-serxner-md",
+     "https://web.archive.org/web/20150602201230/http://surgery.arizona.edu:80/current-residents/neurosurgery/juan-m-valdivia-valdivia-md",
+     "https://web.archive.org/web/20150602201256/http://surgery.arizona.edu:80/current-residents/neurosurgery/sergio-rivero-md"
+    ]
+   },
+   {
+    "year": "2012-2013",
+    "resolved": false,
+    "how": "No new source; 2012 entrants Martirosyan + Sheen James (=NRMP 2) both on 2014-15 roster, but pre-2011 entrants/2010 class unverifiable.",
+    "classes_confirmed": [],
+    "sources": []
+   },
+   {
+    "year": "2013-2014",
+    "resolved": false,
+    "how": "No new source; NRMP 2013 has no listing for the program, Bina (2013) on 2014-15 roster; 2010 class unverifiable.",
+    "classes_confirmed": [],
+    "sources": []
+   },
+   {
+    "year": "2015-2016",
+    "resolved": false,
+    "how": "Second 2015 matchee not found: UA COM-Tucson 2015 Match Day news (gpmm.medicine.arizona.edu) names no neurosurgery matches; searches for 2015 match lists naming 'U Arizona COM-Tucson' Neurological Surgery returned nothing; per-resident bio page listing (2015) shows only Brasiliense as new.",
+    "classes_confirmed": [],
+    "sources": [
+     "https://gpmm.medicine.arizona.edu/news/match-day-2015-national-residency-matching-program",
+     "https://medicine.arizona.edu/neurosurgery/residency-program/current-and-past-residents"
+    ]
+   }
+  ],
+  "new_people": [],
+  "notes": "Live alumni page now shows only 2023-2026 graduates. Arizona match lists for 2015 not locatable via WebSearch."
+ },
+ {
+  "program_id": 1,
+  "program": "Albany Med Health System",
+  "years": [
+   {
+    "year": "2016-2017",
+    "resolved": false,
+    "how": "Live Meet Us alumni list shows every continuing resident of 2016-17 graduating (Gooch, Taplin 2017; Peris-Celda 2018; Paul, Riccio 2019; Adepoju, Amarante 2020; Rubino 2021; Raviv, Entezami 2022; Field 2023), but the second 2016 matchee (NRMP 2, only Field held) is still unnamed; Upstate 2016 match list PDF blocked (Cloudflare check / PDF unreadable), AMC match-results page only 2022-2025.",
+    "classes_confirmed": [
+     "2016 entrants: Field only (alumni 2023) - 1 of 2"
+    ],
+    "sources": [
+     "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+     "https://www.amc.edu/education/md-program/about-md/match-results/"
+    ]
+   },
+   {
+    "year": "2017-2018",
+    "resolved": false,
+    "how": "All continuing residents and both 2017 entrants (Szewczyk, O'Brien, alumni 2024) accounted for by alumni list; only the unnamed 2016 matchee (if present) is unaccounted for.",
+    "classes_confirmed": [
+     "2017 entrants: Szewczyk, O'Brien (alumni 2024)"
+    ],
+    "sources": [
+     "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/"
+    ]
+   },
+   {
+    "year": "2018-2019",
+    "resolved": false,
+    "how": "As 2017-18; 2018 entrants Rock, Spurgas (alumni 2025) = NRMP 2; unnamed 2016 matchee still open.",
+    "classes_confirmed": [
+     "2018 entrants: Rock, Spurgas (alumni 2025)"
+    ],
+    "sources": [
+     "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/"
+    ]
+   }
+  ],
+  "new_people": [],
+  "notes": "If the second 2016 matchee never started (or is an NRMP count artefact), all three years close. Lead worth a manual look: Upstate Medical University 2016 match list PDF (https://www.upstate.edu/currentstudents/document/upstate_match_list.pdf) - search snippet placed a 'Neurological Surgery / Albany Medical Center-NY' row in it, but the page is behind a Cloudflare bot check and was not read."
+ },
+ {
+  "program_id": 38,
+  "program": "Mayo Clinic College of Medicine and Science (Jacksonville)",
+  "years": [
+   {
+    "year": "2018-2019",
+    "resolved": false,
+    "how": "2018 matchee (NRMP 1 filled) still unnamed. Graduate-outcomes page lists graduates 2018, 2020-2023, 2026 only (no 2024/2025 graduate, consistent with no surviving 2017/2018 entrant besides Ebot who switched); no 2018 match list or Mayo news naming a Jacksonville neurosurgery intern found. Continuing residents (Grewal, Clifton, Gassie, Akinduro, Ebot) all accounted for.",
+    "classes_confirmed": [],
+    "sources": [
+     "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/graduate-outcomes/"
+    ]
+   }
+  ],
+  "new_people": [],
+  "notes": "Absence of any 2025 graduate on the alumni page means a 2018 entrant, if one started, did not complete there. Searches: 2018 match lists with NRMP institution names ('Mayo Clinic School of Grad Med Educ-FL'), Mayo match-day news. No name found."
+ },
+ {
+  "program_id": 84,
+  "program": "University of Illinois College of Medicine at Peoria",
+  "years": [
+   {
+    "year": "2011-2012",
+    "resolved": false,
+    "how": "No 2011-12 roster/news/match list found. Re-read 2013-02 Residents page: every 2009-10 resident still in training (Karanth, Neils, Lee, Vasilakis, Vachhani) plus 2010 entrant Issawi reappear in 2012-13, and Martinez (PGY-2 2012-13, Wayne State MD) fills the single 2011 NRMP slot, so only an unseen second 2010 entrant (2010 NRMP count not in our data) could be missing.",
+    "classes_confirmed": [
+     "2011 entrants: Martinez (PGY-2 on 2013-02 roster; = NRMP 1)"
+    ],
+    "sources": [
+     "https://web.archive.org/web/20130217020048/http://peoria.medicine.uic.edu:80/departments___programs/GME/residencies/NeurosurgeryRes/Residents/",
+     "https://stlukesonline.org/en/get-care/providers/martinez-derek/"
+    ]
+   }
+  ],
+  "new_people": [],
+  "notes": "Martinez residency 2011-2018 and WSU MD 2011 appear only in Doximity/US News snippets (leads). St. Luke's profile confirms Wayne State MD + University of Illinois residency + Stanford fellowship (no years). Wayne State 2011 match list and Peoria 2011 match list not findable via WebSearch. Checking NRMP 2010 filled count for U IL-St Francis would close the year if it is 1."
+ },
+ {
+  "program_id": 2,
+  "program": "Allegheny Health Network Medical Education Consortium (AGH)",
+  "years": [
+   {
+    "year": "2011-2012",
+    "resolved": false,
+    "how": "No 2011-12 roster, alumni list, graduation news or match list found (AHN residency page has no alumni section). Entrants held 2 (Castellvi, Dupre) >= NRMP 1 and all 2012-13 residents from earlier classes (Alcindor, Yu, Chew, Sabersky, Jho) are consistent, but a resident who left or graduated during 2011-12 (e.g. a 2005 entrant finishing 2012) cannot be named.",
+    "classes_confirmed": [],
+    "sources": [
+     "https://www.ahn.org/health-care-professionals/education/graduate-medical-education/residencies/neurosurgery"
+    ]
+   }
+  ],
+  "new_people": [],
+  "notes": "Only Doximity/US News/publication leads (Chew residency 2009-2015; Chew/Sabersky/Jho co-authors 2012) - consistent with DB, not counted as sources."
+ },
+ {
+  "program_id": 122,
+  "program": "Westchester Medical Center",
+  "years": [
+   {
+    "year": "2024-2025",
+    "resolved": false,
+    "how": "2024 interns (NRMP 2) still unnamed. RWJMS 2024 match list confirms one Rutgers-RWJ 2024 graduate matched Neurological Surgery at Westchester Medical Ctr-NY (no names in list); NYMC 2024 outcomes page gives no institutions for NS. Live wmchealth page lists no 2024 entrant at all: PGY-1 tab = 2025 interns (Spirollari still 'BA' at Spine Summit Mar 2025; NYMC 2025 match list shows one NYMC grad to Westchester NS), returning residents keep 2024-25 PGY labels. So both 2024 matchees are absent from the Oct 2025 page - possible attrition, identity unknown. Continuing residents (Damodara, Mureb, Zeller, Carpenter, Frid, Feldstein, Soldozy, Busse, Rawanduzy) all on the 2025 page.",
+    "classes_confirmed": [
+     "2025 entrants: Cazorla-Morales, Spirollari (live page; NYMC 2025 match list)"
+    ],
+    "sources": [
+     "https://rwjms.rutgers.edu/sites/default/files/2024-03/Match-List-2024.pdf",
+     "https://www.nymc.edu/som/about/outcomes/2024-match-day/",
+     "https://www.nymc.edu/som/about/outcomes/2025-match-day/",
+     "https://www.wmchealth.org/graduate-medical-education/neurosurgery-residency-program",
+     "https://spinesummit25.eventscribe.net/ajaxcalls/posterPresenterInfo.asp?PresenterID=1783410"
+    ]
+   }
+  ],
+  "new_people": [],
+  "notes": "Strong lead: a Rutgers Robert Wood Johnson Medical School class-of-2024 graduate matched Westchester neurosurgery (RWJMS 2024 match list, unnamed). Neither 2024 matchee appears on the Oct 2025 roster; identify via RWJMS 2024 commencement/AOA lists or Westchester department social posts (not found via WebSearch)."
+ }
+]

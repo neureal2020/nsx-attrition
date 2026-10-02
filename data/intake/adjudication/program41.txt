@@ -1,0 +1,89 @@
+
+McGaw Medical Center of Northwestern University Program © 2026 Accreditation Council for Graduate
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2002   Patrick Hsieh            -      2007-20  6   --           LEFT -> outcome unknown
+2002   Benson Yang              -      2007-20  6   --           LEFT -> outcome unknown
+2003   Stefan Mindea            2008   2007-20  5   bio          COMPLETED
+2003   David Moller             2009   2009-20  7   bio          COMPLETED
+2004   Sunit Das                2010   2009-20  6   bio          COMPLETED
+2004   Chris Eddleman           2010   2009-20  6   bio          COMPLETED
+2005   Ryan Halpin              2011   2009-20  5   bio          COMPLETED
+2005   Glenn Pollock            2008   2007-20  2   bio          LEFT -> TRANSFERRED
+2005   Patrick Shih             2011   2009-20  5   bio          COMPLETED
+2006   Joseph Adel              2013   2012-20  7   bio          COMPLETED
+2006   Peter Lee                2012   2011-20  7   bio          COMPLETED [ambiguous name]
+2006   Nicholas Slimack         2012   2011-20  7   bio          COMPLETED
+2007   Jamal McClendon          -      2013-20  7   roster PGY-7 COMPLETED
+2007   Timothy Smith            2014   2013-20  7   bio          COMPLETED [ambiguous name]
+2007   Patrick Sugrue           2013   2012-20  7   bio          COMPLETED
+2007   Robert Thiele            -      2007-20  1   npi?         LEFT -> outcome unknown (NPI hint: other specialty)
+2007   Albert Wong              2014   2013-20  7   bio          COMPLETED [ambiguous name]
+2008   Rohan Lall               2015   2014-20  7   bio          COMPLETED
+2008   William Metcalf-Doetsch  2021   2020-20  7   bio          COMPLETED
+2009   Allan Nanney             2016   2015-20  7   bio          COMPLETED
+2009   James Stadler            2016   2015-20  7   bio          COMPLETED
+2010   Omar Arnaout             2017   2016-20  7   bio          COMPLETED
+2010   Randall Graham           2017   2016-20  7   bio          COMPLETED [ambiguous name]
+2010   Drew Spencer             2017   2016-20  7   bio          COMPLETED
+2011   Angela Bohnen            2018   2017-20  7   bio          COMPLETED
+2011   Anne Park                2018   2014-20  4   bio          COMPLETED [ambiguous name]
+2012   Rishi Lall               2014   2013-20  2   bio          LEFT -> TRANSFERRED (University of Texas Medical Branch)
+2012   Rudy Rahme               2019   2018-20  7   bio          COMPLETED
+2012   Olabisi Sanusi           2019   2018-20  7   bio          COMPLETED
+2013   Amit Ayer                2020   2019-20  7   bio          COMPLETED
+2013   Gurvinder Kaur           2020   2019-20  7   bio          COMPLETED [ambiguous name]
+2014   Roxanna Garcia           2021   2020-20  7   bio          COMPLETED [ambiguous name]
+2014   Kartik Kesavabhotla      2021   2020-20  7   bio          COMPLETED
+2014   Madhav Sukumaran         2021   2020-20  7   bio          COMPLETED
+2015   Shanna Fang              2016   2015-20  1   bio          LEFT -> TRANSFERRED (neurosurgery elsewhere)
+2015   Michael Jones            2022   2021-20  7   bio          COMPLETED [ambiguous name]
+2015   Grace Lai                2022   2021-20  7   bio          COMPLETED
+2015   Nikhil Murthy            2022   2021-20  7   bio          COMPLETED
+2015   Moshe Praver             2018   2017-20  3   bio          LEFT -> LEFT MEDICINE/OTHER
+2016   Michael Cloney           2023   2022-20  7   bio          COMPLETED
+2016   H. Greg Frankel          2023   2022-20  7   bio          COMPLETED [ambiguous name]
+2016   Matthew Ordon            2023   2022-20  7   bio          COMPLETED
+2017   Constantine Karras       2024   2023-20  7   bio          COMPLETED
+2017   Aaron Palmer             2024   2023-20  7   bio          COMPLETED
+2017   Joy Trybula              2024   2023-20  7   bio          COMPLETED
+2018   Luis Fernandez           2025   2024-20  7   bio          COMPLETED [ambiguous name]
+2018   William Gibson           2025   2024-20  7   bio          COMPLETED [ambiguous name]
+2018   Daniel Oyon              2025   2024-20  7   bio          COMPLETED
+2019   Hanna Kemeny             2026   2025-20  7   bio          COMPLETED
+2019   Mykhaylo Krushelnytskyy  2026   2025-20  7   bio          COMPLETED
+2019   Mark Youngblood          2026   2025-20  7   bio          COMPLETED
+2020   Rebecca Du               -      2025-20  6   roster       IN TRAINING
+2020   Benjamin Hopkins         2022   2021-20  2   bio          LEFT -> TRANSFERRED (USC)
+2020   James Mossner            -      2025-20  6   roster       IN TRAINING
+2020   Pavlos Texakalidis       -      2025-20  6   roster       IN TRAINING
+2021   Rogelio Medina           -      2025-20  5   roster       IN TRAINING
+2021   Ashley Selner            -      2025-20  5   roster       IN TRAINING
+2021   Annelise Sprau           -      2025-20  5   roster       IN TRAINING
+2022   Mark Dapash              -      2025-20  4   roster       IN TRAINING
+2022   Jawad Fares              -      2025-20  4   roster       IN TRAINING
+2022   Lei Liu                  -      2025-20  4   roster       IN TRAINING
+2023   Matthew Hagan            -      2025-20  3   roster       IN TRAINING
+2023   Anran Li                 -      2025-20  3   roster       IN TRAINING
+2023   Anastasios Roumeliotis   -      2025-20  3   roster       IN TRAINING
+2024   Edgar Petrosyan          -      2025-20  2   roster       IN TRAINING
+2024   Sharbel Romanos          -      2025-20  2   roster       IN TRAINING
+2024   Daniel Zhang             -      2025-20  2   roster       IN TRAINING [ambiguous name]
+2025   Sachin Govind            -      2025-20  1   roster       IN TRAINING
+2025   Karl Habashy             -      2025-20  1   roster       IN TRAINING
+2025   Zhishuo Wei              -      2025-20  1   roster       IN TRAINING
+
+summary:
+    44  COMPLETED
+    18  IN TRAINING
+     2  LEFT -> outcome unknown
+     1  LEFT -> TRANSFERRED
+     1  LEFT -> outcome unknown (NPI hint: other specialty)
+     1  LEFT -> TRANSFERRED (University of Texas Medical Branch)
+     1  LEFT -> TRANSFERRED (neurosurgery elsewhere)
+     1  LEFT -> LEFT MEDICINE/OTHER
+     1  LEFT -> TRANSFERRED (USC)
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

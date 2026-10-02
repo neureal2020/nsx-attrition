@@ -1,0 +1,268 @@
+{
+ "program_id": 12,
+ "name": "Cleveland Clinic Foundation Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "my.clevelandclinic.org/neurological_institute/education/neurosurgeryfellows.aspx (\"Current Residents\"; parent neurological_institute/education/neurosurgery/*.aspx)",
+   "from": "2009-03",
+   "to": "2013-05"
+  },
+  {
+   "url": "my.clevelandclinic.org/neurological_institute/for-medical-professionals/residencies/neurosurgery-residency.aspx",
+   "from": "2013-12",
+   "to": "2014-07"
+  },
+  {
+   "url": "my.clevelandclinic.org/services/neurological_institute/education/residencies/neurosurgery-residency",
+   "from": "2014-11",
+   "to": "2017-01 (301 by 2017-06)"
+  },
+  {
+   "url": "my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery (Current Residents tab; live)",
+   "from": "2017-02",
+   "to": "2026-09-27"
+  },
+  {
+   "url": "www.clevelandclinic.org/education/gme/ (old GME host; program links only, no rosters)",
+   "from": "2009",
+   "to": "2010"
+  },
+  {
+   "url": "portals.clevelandclinic.org/gme/ (GME portal; training-program directory only, no rosters)",
+   "from": "2011",
+   "to": "2018"
+  },
+  {
+   "url": "my.clevelandclinic.org/departments/neurological/medical-professionals/alumni (and older neurological_institute alumni.aspx paths) - alumni association page, no graduate list",
+   "from": "2011",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "SIGNIFICANT. No capture of any roster page between 2009-03-30 and 2013-02-27 (Wayback exact + prefix audits of my.clevelandclinic.org/neurological_institute 2011-06..2013-12; GME hosts; Common Crawl 2011-2013: CC-MAIN-2012 has no CDXJ index, 2013 crawls only 2012-13 content). Reconstructed only the 9 people listed both in 2008-09 (Wayback 20090330083704) and 2012-13: PGY-4 Kelly/Kshettry/Rosenbaum, PGY-5 A. Khalil/Lobo/Vadera, PGY-6 Hughes/Liu/Matheus. PGY-1..3 (2009-2011 entrants) and PGY-7 (2005 entrants) unknown. The 2009 class shows only 2 residents (Brennan, Torre-Healy) in 2012-13, so a 2009 entrant may have left before 2012-13 unseen. PHASE2: Wayback gapaudit 2010-06..2013-02 of my.clevelandclinic.org/neurological_institute, clevelandclinic.org/neurosurgery, portals.clevelandclinic.org/gme and clevelandclinic.org/education/gme: roster page captured only 2009-03 and 2013-02; neurosurgery default/message/residency/nci/alumni pages in window carry no resident names. CC-MAIN-2012 (queried with cluster.idx, now available): 46 records under neurological_institute/, no roster page (fellowships/message pages only). Significance lowered to low: the 2010 and 2011 classes are complete at 3 in Feb 2013.",
+  "2012-2013": "Only captures are Feb and May 2013 (identical); Feb 2013 used. Complete (20 names).",
+  "2014-2015 / 2015-2016": "Nov 2014 content stayed on the page until Nov 2015 (stale); 2015-16 taken from Dec 2015 capture.",
+  "2017-2018": "No Wayback captures Mar 2017 - Jul 2019. Observed from Common Crawl CC-MAIN-2017-51 (2017-12-17), complete; confirmed by CC-MAIN-2018-13/22/30.",
+  "2018-2019": "Wayback 2019-07-18 capture content-dated to 2018-19 (interns Achey/Barnett/Sharma); identical to Common Crawl 2018-09-22, 2018-11-15, 2019-01-23.",
+  "2021-2022": "PHASE2 CLOSED: all captures (Wayback/CC Sep 2021, Jan 2022, May 2022) list Year One = Gregory Glauser, Remi Kessler, Charlie Nelson ('Name, PGY 1' format missed by the phase-1 parser). Kessler is gone by Sep 2022; Trivedi joins Year Two by Feb 2023.",
+  "2022-2023": "Sep/Nov 2022 captures list only Glauser at PGY-2; Feb 2023 capture (used) adds Nelson and Trivedi.",
+  "2024-2025": "Nov 2024 capture lists 2 interns; Feb 2025 capture (used) adds Colin Lamb (possible mid-year start).",
+  "2020-2021": "Aug 2020 capture still showed 2019-20; Oct 2020 lists 2 interns; Jan 2021 (used) lists 3.",
+  "2015-2016 .. 2020-2021": "PHASE2: William Kemp, III, MD (gen-surg intern at Beaumont) listed Year Two 2015-16 through Year Seven 2020-21; phase-1 parser dropped him. Added to all six years."
+ },
+ "alumni_page": null,
+ "departures": [
+  {
+   "name": "Muhammad Z. Memon",
+   "last_ay": "2012-2013",
+   "last_pgy": 2,
+   "note": "switched to neurology (GWU neurology 2018-19, Miami neurology 2019-20, UTMB neurology 2023-25 affiliations)"
+  },
+  {
+   "name": "Sara Bourne",
+   "last_ay": "2013-2014",
+   "last_pgy": 1,
+   "note": "TRANSFERRED to MGH (36) PGY-2 2014-15 as Sarah Bick; MGH grad 2019"
+  },
+  {
+   "name": "Adam Khalil",
+   "last_ay": "2015-2016",
+   "last_pgy": 2,
+   "note": "switched to radiology/IR (UTHSCSA IR 2019, Radiology 2022 affiliations)"
+  },
+  {
+   "name": "Austin Barnett",
+   "last_ay": "2018-2019",
+   "last_pgy": 1,
+   "note": "switched to emergency medicine (Prisma Health-Upstate EM 2024 affiliation)"
+  },
+  {
+   "name": "Remi Kessler",
+   "last_ay": "2021-2022",
+   "last_pgy": 1,
+   "note": "NEW in phase 2; probable anesthesiology (MUSC 2023 affiliation + NPPES anesthesiology SC)"
+  },
+  {
+   "name": "Charlie Nelson",
+   "last_ay": "2023-2024",
+   "last_pgy": 3,
+   "note": "outcome unknown (last CC neurosurgery affiliation 2024)"
+  },
+  {
+   "name": "Colin Lamb",
+   "last_ay": "2024-2025",
+   "last_pgy": 1,
+   "note": "joined Feb 2025, gone by Nov 2025; outcome unknown"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Louis Ross",
+   "first_ay": "2013-2014",
+   "first_pgy": 2,
+   "note": "probably from CC general surgery (CC surgery affiliations 2011-12); skipped PGY-6, completed 2018"
+  },
+  {
+   "name": "William Kemp",
+   "first_ay": "2015-2016",
+   "first_pgy": 2,
+   "note": "after gen-surg internship at William Beaumont Hospital; completed 2021"
+  },
+  {
+   "name": "Vikram Chakravarthy",
+   "first_ay": "2017-2018",
+   "first_pgy": 4,
+   "note": "TRANSFER from Loma Linda (31); completed 2021"
+  },
+  {
+   "name": "Megh Trivedi",
+   "first_ay": "2022-2023",
+   "first_pgy": 2,
+   "note": "mid-year (first Feb 2023); from CC pediatrics / CC neurosurgery research; fills Kessler slot"
+  },
+  {
+   "name": "Colin Lamb",
+   "first_ay": "2024-2025",
+   "first_pgy": 1,
+   "note": "mid-year (first Feb 2025)"
+  }
+ ],
+ "residents_2011plus": 55,
+ "adjudication_summary": {
+  "COMPLETED": 41,
+  "IN TRAINING": 21,
+  "LEFT -> SWITCHED SPECIALTY": 4,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> did not complete (unknown)": 2,
+  "note": "phase 2: switches (Memon neurology, A. Khalil radiology, Barnett EM, Kessler anesthesiology) rest on publication affiliations, not NPI; Nelson and Lamb unknown."
+ },
+ "problems": "Phase-1 parser missed names with suffixes ('William Kemp, III, MD') and entries labelled 'Name, PGY 1'; fixed by hand. CC retries done: CC-MAIN-2012 works now (cluster.idx exists) but holds no roster page; 2017-43 and 2021-25 have 0 records for the path; 2019-13 has one capture identical to 2018-19. Name variants: Rupa Gopalan -> Rupa Gopalan Juthani; Elizabeth Bennett = Elizabeth Abbott. Cleveland Clinic Florida is a separate program.",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Partial (PGY4-6 bracketed). 2011 class (Abbott, Moore, Memon) and 2010 class (Juthani, Walsh, Mullin) are complete (3 = complement) at PGY-2/PGY-3 in Feb 2013, so no 2010/2011 entrant can have left unseen unless replaced; only the pre-2011 2009 class (2 of 3 seen) and PGY-7 graduates (2005 class) are unobservable."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Feb 2013 capture, complete (20)."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec 2013 capture, complete."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2014 capture, complete."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec 2015 capture; phase 2 added William Kemp III (PGY-2) missed by the phase-1 parser."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2016 capture (+Kemp)."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl CC-MAIN-2017-51 (+Kemp); CC-MAIN-2017-43 retried: 0 records."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Content-dated 2018-19 capture (+Kemp); CC-MAIN-2019-13 retried: 2019-03 capture identical."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2019 capture (+Kemp)."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jan 2021 capture (+Kemp PGY-7)."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Now complete: the Year One group (Glauser, Remi Kessler, Nelson; written 'Name, PGY 1') was on every capture but missed by the phase-1 parser. CC-MAIN-2021-25 retried: 0 records; 2021-39/2022-05/2022-21 identical."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Feb 2023 capture; Sep/Nov 2022 show Glauser+Nelson at Year Two, Trivedi added by Feb 2023 (mid-year PGY-2 joiner)."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec 2023 capture."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Feb 2025 capture (Lamb added mid-year)."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2025 capture."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page 2026-09-27, advanced and new interns."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "CC-MAIN-2012 (cluster.idx now present) neurological_institute/, education/gme, portals gme",
+   "CC-MAIN-2013-20, 2013-48 neurological_institute/ with fixed filter",
+   "CC-MAIN-2017-43, 2019-13, 2021-17/21/25/31/39/43/49, 2022-05/21/27/33 on the live residency path",
+   "Wayback gapaudit 2010-06..2013-02 over 6 hosts",
+   "re-parse of every used capture (Year One..Seven groups)",
+   "PubMed + OpenAlex affiliation mining 2010-2013; per-person OpenAlex/PubMed for departures",
+   "NPPES (corroboration only)",
+   "crossmatch.json (Chakravarthy), PHASE2_NOTES (Bourne=Bick)"
+  ],
+  "found": [
+   "2021-22 Year One: Glauser, Remi Kessler (new resident), Nelson",
+   "William Kemp III, PGY-2 2015-16 .. PGY-7 2020-21 (new resident)",
+   "Kessler left after 2021-22; Trivedi mid-year PGY-2 joiner 2022-23",
+   "Destinations: Memon neurology, A. Khalil radiology, Barnett EM, Kessler anesthesiology; Bourne->MGH; Chakravarthy<-Loma Linda"
+  ],
+  "remaining": [
+   "2011-12 PGY-1..3 and PGY-7 (low significance for 2011+ entrants)",
+   "Nelson and Lamb destinations unknown"
+  ]
+ }
+}

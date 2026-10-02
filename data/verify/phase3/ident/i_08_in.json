@@ -1,0 +1,764 @@
+[
+ {
+  "key": "24:bry:picton",
+  "name": "Bryce Picton",
+  "program_id": 24,
+  "program": "Henry Ford Health/Henry Ford Hospital Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Listed on Henry Ford current residents page as PGY1 (University of California, Irvine); no independent profile found for identity",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY1 (intern year 2026-27) per Henry Ford current residents page",
+   "current": "neurosurgery resident, Henry Ford Hospital",
+   "residency_stated": [
+    {
+     "institution": "Henry Ford Health/Henry Ford Hospital",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents",
+     "type": "program_page",
+     "evidence": "Current residents page lists Bryce Picton, University of California, Irvine"
+    },
+    {
+     "url": "https://www.linkedin.com/in/bryce-picton-39755516a/",
+     "type": "search_snippet",
+     "evidence": "'Bryce Picton - 4th Year UCI Medical Student' (consistent with UCI Irvine on program page)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "24:jak:haver",
+  "name": "Jake Haver",
+  "program_id": 24,
+  "program": "Henry Ford Health/Henry Ford Hospital Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Listed on Henry Ford current residents page as PGY1 (Michigan State University College of Human Medicine); no independent profile found for identity",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY1 (intern year 2026-27) per Henry Ford current residents page",
+   "current": "neurosurgery resident, Henry Ford Hospital",
+   "residency_stated": [
+    {
+     "institution": "Henry Ford Health/Henry Ford Hospital",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents",
+     "type": "program_page",
+     "evidence": "Current residents page lists Jake Haver, Michigan State University College of Human Medicine"
+    },
+    {
+     "url": "https://grrotary.org/ep36-jake-haver-scholorship-recipient/",
+     "type": "search_snippet",
+     "evidence": "'Jake Haver \u2013 Neurosurgery Sub-I and M.D. Candidate' (consistent with MSU CHM)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "24:vit:lucarelli",
+  "name": "Vito Lucarelli",
+  "program_id": 24,
+  "program": "Henry Ford Health/Henry Ford Hospital Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Listed on Henry Ford current residents page as PGY1 (University of Toledo College of Medicine); no independent profile found for identity",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY1 (intern year 2026-27) per Henry Ford current residents page",
+   "current": "neurosurgery resident, Henry Ford Hospital",
+   "residency_stated": [
+    {
+     "institution": "Henry Ford Health/Henry Ford Hospital",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/residents",
+     "type": "program_page",
+     "evidence": "Current residents page lists Vito Lucarelli, University of Toledo College of Medicine"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "25:cha:yourshaw",
+  "name": "Charles Yourshaw",
+  "program_id": 25,
+  "program": "Henry Ford Providence Hospital Program \u00a9 2026 Accreditation Council fo",
+  "entry_year": 2011,
+  "first_seen": "2011-2012",
+  "last_seen": "2011-2012",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 2,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "DO, Philadelphia College of Osteopathic Medicine 2011 (fits PGY1 start 2011) with Troy MI office; no source names the Providence neurosurgery program",
+   "outcome": "switched_specialty",
+   "outcome_detail": "WebMD lists Pathology and Family Medicine, Dallas TX (and Troy MI); no neurosurgery evidence; residency program/years not stated",
+   "current": "pathology / family medicine, Dallas TX",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://doctor.webmd.com/doctor/charles-yourshaw-f975cbb9-49a2-4bfa-815e-e1936fc32c21-overview",
+     "type": "bio",
+     "evidence": "graduated from the Philadelphia College of Osteopathic Medicine in 2011; Pathology and Family Medicine; Dallas TX, Troy MI"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "25:ric:cook",
+  "name": "Richard Cook",
+  "program_id": 25,
+  "program": "Henry Ford Providence Hospital Program \u00a9 2026 Accreditation Council fo",
+  "entry_year": 2013,
+  "first_seen": "2013-2014",
+  "last_seen": "2018-2019",
+  "last_pgy": 6,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Program alumni page lists Richard Cook, D.O. (2019, hospital employed practice); Richard F. Cook DO, Touro Nevada 2013, neurosurgeon in Richland WA (search snippets say residency Michigan State/Providence 2019). Link is via aggregator snippets, name common",
+   "outcome": "completed",
+   "outcome_detail": "Listed as alumnus on Henry Ford Providence neurosurgery program-history page and now practises as a neurosurgeon",
+   "current": "neurosurgeon, Kadlec Clinic Neuroscience Center, Richland WA",
+   "residency_stated": [
+    {
+     "institution": "Henry Ford Providence Hospital",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": 2019
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/providence/neurosurgery/program-history",
+     "type": "program_page",
+     "evidence": "Alumni: 'Richard Cook, D.O. (2019) - Hospital Employed Practice'"
+    },
+    {
+     "url": "https://www.doximity.com/pub/richard-cook-do-0d55e37f",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Richland WA; Touro University Nevada COM Class of 2013; MI license 2019-2022 (no residency line shown)"
+    },
+    {
+     "url": "https://www.providence.org/doctors/neurosurgery/wa/richland/richard-cook-1588000483",
+     "type": "search_snippet",
+     "evidence": "search snippet: completed his residency at Michigan State University Ascension Providence Hospital in 2019; neurosurgeon Richland WA"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "25:amm:alsalahi",
+  "name": "Ammar Alsalahi",
+  "program_id": 25,
+  "program": "Henry Ford Providence Hospital Program \u00a9 2026 Accreditation Council fo",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "USF MD 2019; WebMD/vitals list as MSUCHM/Ascension Providence neurosurgery resident; on program page 2019 cohort; absent from 2026-27 current-resident list (page fetched); no graduation confirmation",
+   "outcome": "completed",
+   "outcome_detail": "Not on the 2026-27 current-resident list and not yet on the alumni list (last updated 2025); entry 2019 so 7-year end 2026 implied, but no source states graduation",
+   "current": "neurosurgery (Henry Ford Providence) - graduation not confirmed",
+   "residency_stated": [
+    {
+     "institution": "Henry Ford Providence Hospital (Ascension Providence/MSUCHM)",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/providence/neurosurgery/current-residents",
+     "type": "program_page",
+     "evidence": "Current residents list PGY-7 shows only Alexander and Dragonette; Alsalahi absent"
+    },
+    {
+     "url": "https://doctor.webmd.com/doctor/ammar-alsalahi-a7198bd7-29ed-4d82-8de7-a5b4c5c4b85e-overview",
+     "type": "search_snippet",
+     "evidence": "Resident at MSUCHM/Ascension Providence Neurosurgery in Southfield, Michigan"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "25:eli:yoon",
+  "name": "Elise Yoon",
+  "program_id": 25,
+  "program": "Henry Ford Providence Hospital Program \u00a9 2026 Accreditation Council fo",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "MSU-COM Class 2019 (Doximity), Doximity 'Resident Physician at Ascension Providence Hospital'; PGY-4 in 2022 (MSU neurosurgery Facebook); absent from 2026-27 current-resident list",
+   "outcome": "completed",
+   "outcome_detail": "Not on the current-resident list; Doximity address Aurora CO and CO license 2026 (likely pediatric/spine fellowship); graduation year not stated",
+   "current": "neurosurgery graduate, Aurora CO (Doximity)",
+   "residency_stated": [
+    {
+     "institution": "Henry Ford Providence Hospital (Ascension Providence/MSUCHM)",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/elise-yoon-do",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Aurora CO; Resident Physician at Ascension Providence Hospital; MSU-COM Class of 2019; CO State License 2026-2027"
+    },
+    {
+     "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/providence/neurosurgery/current-residents",
+     "type": "program_page",
+     "evidence": "Yoon not on 2026-27 current resident list"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "25:kyl:scott",
+  "name": "Kyle Scott",
+  "program_id": 25,
+  "program": "Henry Ford Providence Hospital Program \u00a9 2026 Accreditation Council fo",
+  "entry_year": 2024,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Current residents PGY-3 UF College of Medicine; 2026 Providence Research Day presenter Kyle W. Scott; Doximity Kyle Scott MD (UF Class 2023) Neurosurgery resident, Jacksonville FL address, FL license 2024 (likely earlier intern year in Jacksonville)",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-3 2026-27; DB says joined 2025 as PGY-2, consistent with an intern/prelim year elsewhere (probably Jacksonville FL, unconfirmed)",
+   "current": "neurosurgery resident PGY-3, Henry Ford Providence",
+   "residency_stated": [
+    {
+     "institution": "Henry Ford Providence Hospital (Ascension Providence/MSUCHM)",
+     "specialty": "neurosurgery",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/providence/neurosurgery/current-residents",
+     "type": "program_page",
+     "evidence": "PGY-3 Kyle Scott, M.D. University of Florida College of Medicine"
+    },
+    {
+     "url": "https://www.doximity.com/pub/kyle-scott-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Jacksonville FL, Resident; University of Florida College of Medicine Class of 2023"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "25:pet:schaible",
+  "name": "Peter Schaible",
+  "program_id": 25,
+  "program": "Henry Ford Providence Hospital Program \u00a9 2026 Accreditation Council fo",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "not_found",
+   "identity_basis": "Searches returned Keith Schaible (Oak Lawn IL neurosurgeon) and unrelated Peter Schaibles (NMA neuromonitoring, athlete); no profile tying a Peter Schaible to Henry Ford Providence found. A search summary mentioned a Las Vegas neurosurgeon Peter Schaible but no source URL opened; unverified.",
+   "outcome": "in_training",
+   "outcome_detail": "No public evidence found; input lists as PGY-1 2026-27 (entry 2026) which is consistent with no profile yet.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/keith-schaible-md",
+     "type": "search_snippet",
+     "evidence": "Dr. Keith Schaible, MD - Oak Lawn, IL | Neurosurgery (different person)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "26:mar:wong",
+  "name": "Marcus Wong",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "HM Dept of Neurosurgery (The Woodlands) endovascular neurosurgeon, Texas A&M MD 2018; co-author with HM residents (Schwartz, Guerrero) 2026",
+   "outcome": "completed",
+   "outcome_detail": "Practising endovascular neurosurgeon at HM; residency dates not stated by sources (end 2025 not confirmed).",
+   "current": "board-eligible endovascular neurosurgeon, Houston Methodist Woodlands/Shenandoah TX",
+   "residency_stated": [
+    {
+     "institution": "Houston Methodist Hospital (Medical Center)",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/marcus-wong-md-78499162",
+     "type": "doximity",
+     "evidence": "Marcus Wong MD, Neurosurgery, Shenandoah TX; Texas A&M Health Science Center College of Medicine Class of 2018 (no residency listed)"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-marcus-wong-xynw7mk",
+     "type": "search_snippet",
+     "evidence": "board-eligible, fellowship-trained endovascular neurosurgeon at Houston Methodist Department of Neurosurgery, The Woodlands"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "26:dom:kizek",
+  "name": "Dominic Kizek",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2026-2027",
+  "last_pgy": 5,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doctor.com/ResearchGate; HM Scholars publication (Hybrid ACR-PSO, with HM residents); Baylor/TCH affiliation on earlier research",
+   "outcome": "in_training",
+   "outcome_detail": "Current HM neurosurgery resident per sources; no evidence of departure.",
+   "current": "neurosurgery resident, Houston Methodist (unconfirmed)",
+   "residency_stated": [
+    {
+     "institution": "Houston Methodist Hospital (Medical Center)",
+     "specialty": "neurosurgery",
+     "start": 2022,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://scholars.houstonmethodist.org/en/publications/hybrid-anterior-column-realignmentpedicle-subtraction-osteotomy-f/",
+     "type": "search_snippet",
+     "evidence": "Kizek listed as author (search result); Doximity lists a Dominic Kizek as Other MD/DO Houston (unopened)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "26:ism:mohiuddin",
+  "name": "Ismail Mohiuddin",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2026-2027",
+  "last_pgy": 4,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LinkedIn: Neurosurgery resident, Texas Tech MD; HM co-author (Neurosurgery Practice 2024 w/ Schwartz, Rajendran, Huang)",
+   "outcome": "in_training",
+   "outcome_detail": "Current HM neurosurgery resident per sources; no evidence of departure.",
+   "current": "neurosurgery resident, Houston Methodist",
+   "residency_stated": [
+    {
+     "institution": "Houston Methodist Hospital (Medical Center)",
+     "specialty": "neurosurgery",
+     "start": 2023,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/ismohiuddin/",
+     "type": "search_snippet",
+     "evidence": "Ismail Mohiuddin - Neurosurgery Resident Physician (search result)"
+    },
+    {
+     "url": "https://www.doximity.com/pub/ismail-mohiuddin-md",
+     "type": "doximity",
+     "evidence": "Ismail Mohiuddin MD PhD, Family Medicine, Residency Family Medicine UTMB 2022-2025, Texas Tech Class 2023 - inconsistent/likely wrong data; not used for outcome"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "26:mat:goldman",
+  "name": "Matthew Goldman",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippet: Matthew J. Goldman, Univ of Florida MD 2023, 'incoming neurosurgical intern at Houston Methodist' (Oct 2023). Doximity profile (Houston, UF class of 2023) is filed as Family Medicine (likely mis-categorised namesake profile with neurosurgery publications); year/name match but specialty listing conflicts.",
+   "outcome": "in_training",
+   "outcome_detail": "Neurosurgery resident at Houston Methodist (intern class entering 2024 per input); no evidence of departure.",
+   "current": "neurosurgery resident, Houston Methodist",
+   "residency_stated": [
+    {
+     "institution": "Houston Methodist Hospital",
+     "specialty": "neurosurgery",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.neurosurgical.tv/108928-2/",
+     "type": "news",
+     "evidence": "Interview with Matthew Goldman MD ... Incoming Neurosurgical Intern at Houston Methodist"
+    },
+    {
+     "url": "https://www.doximity.com/pub/matthew-goldman-md-87337f0f",
+     "type": "doximity",
+     "evidence": "Family Medicine, Houston; University of Florida College of Medicine Class of 2023; ABFM listed (conflicts; probably mis-attributed)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "26:sha:shah",
+  "name": "Shalin Shah",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LinkedIn 'Shalin Shah, MD - Houston Methodist'; ResearchGate lists Houston Methodist Hospital; described as first-year neurosurgery resident, McGovern Medical School alumnus. Doximity Shalin Shah profiles are radiation oncology/oncology namesakes (not this person).",
+   "outcome": "in_training",
+   "outcome_detail": "First-year neurosurgery resident at Houston Methodist per search summary of profiles.",
+   "current": "neurosurgery resident, Houston Methodist",
+   "residency_stated": [
+    {
+     "institution": "Houston Methodist Hospital",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/shalin-shah-md-5771b5142/",
+     "type": "search_snippet",
+     "evidence": "Shalin Shah, MD - Houston Methodist"
+    },
+    {
+     "url": "https://www.researchgate.net/profile/Shalin-Shah-3",
+     "type": "search_snippet",
+     "evidence": "Shalin SHAH | Medical Doctor | Houston Methodist Hospital"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "26:nan:mize-gonzalez",
+  "name": "Nancy Mize-Gonzalez",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Nancy Mize Gonzalez: MD/PhD at Texas A&M, Houston Methodist Research Institute graduate fellow, self-described aspiring neurosurgeon-scientist (AANS chapter VP). No resident-listing confirming match to Houston Methodist neurosurgery.",
+   "outcome": "in_training",
+   "outcome_detail": "Consistent with matching into neurosurgery in 2026 as MD/PhD graduate but no source confirms the residency; treat as unverified.",
+   "current": "MD/PhD (Texas A&M), aspiring neurosurgeon",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/nancy-mize-gonzalez/",
+     "type": "search_snippet",
+     "evidence": "Nancy Mize Gonzalez - Graduate Research Fellow - HOUSTON METHODIST RESEARCH INSTITUTE"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "28:jas:hill",
+  "name": "Jason Hill",
+  "program_id": 28,
+  "program": "Indiana University School of Medicine Program",
+  "entry_year": 2008,
+  "first_seen": "2011-2012",
+  "last_seen": "2011-2012",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Jason D. Hill, Case Western MD 2008 (matches entry 2008), residency listed at Indiana University Hospital; now board-certified neurologist. A different Jason Hill (UTenn MD 2006, radiology, Kingsport TN) was excluded.",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Left IU neurosurgery after PGY4 (2011-12); now practising neurology (ABPN neurology cert 2018, neurohospitalist Colorado). Neurology residency programme/dates not found.",
+   "current": "neurologist (inpatient neurology), UCHealth Poudre Valley Hospital, Fort Collins CO",
+   "residency_stated": [
+    {
+     "institution": "Indiana University Hospital",
+     "specialty": "not stated (neurosurgery per DB)",
+     "start": 2008,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://doctor.webmd.com/doctor/jason-hill-e1144c41-5472-4271-b192-e7f72496df69-overview",
+     "type": "search_snippet",
+     "evidence": "Case Western Reserve University School Of Medicine 2008; residency Indiana University Hospital"
+    },
+    {
+     "url": "https://www.doximity.com/pub/jason-hill-md-627c735f",
+     "type": "doximity",
+     "evidence": "Neurology, Fort Collins; Case Western Class of 2008; American Board of Psychiatry and Neurology - Neurology"
+    },
+    {
+     "url": "https://www.uchealth.org/provider/jason-hill-md/",
+     "type": "bio",
+     "evidence": "board certified in Neurology (ABPN) 2018; formerly neurohospitalist in Denver area"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "28:bla:priddy",
+  "name": "Blake Priddy",
+  "program_id": 28,
+  "program": "Indiana University School of Medicine Program",
+  "entry_year": 2018,
+  "first_seen": "2019-2020",
+  "last_seen": "2020-2021",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Blake H. Priddy, Ohio State MD 2018 (entry 2018), IU Neurological Surgery affiliation on 2019-2021 papers, Indiana license 2021; publications with Prevedello (OSU).",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Left IU neurosurgery in 2021; now listed in family medicine (Carmel IN, Riverview Health) and as complex wound care physician (Miramar FL). No residency listed.",
+   "current": "family medicine / complex wound physician, Carmel IN and Miramar FL",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/blake-priddy-md",
+     "type": "doximity",
+     "evidence": "Other MD/DO Miramar FL, Complex Wound Physician; Ohio State University College of Medicine Class of 2018; IN license 2021-2027"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-blake-priddy-xyntg73",
+     "type": "bio",
+     "evidence": "Specialty: Family Medicine, Carmel IN, Riverview Health"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "28:aja:patel",
+  "name": "Ajay Patel",
+  "program_id": 28,
+  "program": "Indiana University School of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "IU alumni page lists Ajay Patel 2026; IU resident page ('Ajay Patel, MD, IU MD 2018'); OhioHealth Neurological Surgery listing and LinkedIn 'Neurosurgeon at OhioHealth Riverside'. The only Doximity hit is a different Ajay Patel (pulmonology/critical care, Columbus OH), not attributed.",
+   "outcome": "completed",
+   "outcome_detail": "IU alumni 2026 graduate; appears to be OhioHealth neurosurgeon (not fully verified because OhioHealth page returned no details).",
+   "current": "neurosurgeon (probable), OhioHealth Riverside, Columbus OH",
+   "residency_stated": [
+    {
+     "institution": "Indiana University School of Medicine Program",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.iu.edu/neurological-surgery/education/residency/alumni",
+     "type": "program_page",
+     "evidence": "2026: Anas Aljabari; Ahmed Belal; Kanwaljeet Garg; Andrew Huh; Ajay Patel"
+    },
+    {
+     "url": "https://www.ohiohealth.com/find-a-doctor/profile/1083107544/ajay-patel-md",
+     "type": "search_snippet",
+     "evidence": "Ajay Patel, MD | Neurological Surgery | OhioHealth"
+    },
+    {
+     "url": "https://www.linkedin.com/in/ajay-patel-895060174/",
+     "type": "search_snippet",
+     "evidence": "Ajay Patel - Neurosurgeon at OhioHealth Riverside"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "28:and:huh",
+  "name": "Andrew Huh",
+  "program_id": 28,
+  "program": "Indiana University School of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "IU alumni page lists Andrew Huh 2026; IU resident page in search ('Andrew Huh, MD', IU MD 2018, IUSM Neurosurgery from Aug 2019); coauthor with IU residents; no Doximity profile found",
+   "outcome": "completed",
+   "outcome_detail": "IU alumni page lists 2026 graduation.",
+   "current": "recent IU graduate (2026); position not found",
+   "residency_stated": [
+    {
+     "institution": "Indiana University School of Medicine Program",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.iu.edu/neurological-surgery/education/residency/alumni",
+     "type": "program_page",
+     "evidence": "2026: ... Andrew Huh, MD ... Ajay Patel, MD"
+    },
+    {
+     "url": "https://medicine.iu.edu/resident/40757/huh-andrew",
+     "type": "search_snippet",
+     "evidence": "Andrew Huh, MD - Indiana University School of Medicine"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "28:gab:magnant",
+  "name": "Gabrielle Magnant",
+  "program_id": 28,
+  "program": "Indiana University School of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine); IU resident profile page medicine.iu.edu/resident/66823/magnant-gabrielle",
+   "outcome": "in_training",
+   "outcome_detail": "Listed on IU current residents page; PGY-1 neurosurgery resident, IU",
+   "current": "PGY-1 neurosurgery resident, IU",
+   "residency_stated": [
+    {
+     "institution": "Indiana University School of Medicine Program",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+     "type": "program_page",
+     "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine); IU resident profile page medicine.iu.edu/resident/66823/magnant-gabrielle"
+    },
+    {
+     "url": "https://medicine.iu.edu/resident/66823/magnant-gabrielle",
+     "type": "program_page",
+     "evidence": "Gabrielle Magnant, MD - Indiana University School of Medicine (resident profile)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

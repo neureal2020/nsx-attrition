@@ -1,0 +1,870 @@
+[
+ {
+  "key": "60:sam:baum",
+  "name": "Samuel Baum",
+  "program_id": 60,
+  "program_site_url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+  "identity": "probable",
+  "identity_basis": "SLU live roster PGY-1 Samuel Baum, LSU School of Medicine; only weak external hit (a Samuel Baum research associate at LSU Health New Orleans); no match list or profile found",
+  "outcome": "in_training",
+  "outcome_detail": "On SLU current-residents page as PGY-1 (2026-27)",
+  "current": "Neurosurgery PGY-1, SLU",
+  "external_url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+    "type": "program_page",
+    "evidence": "Samuel Baum, PGY-1, Louisiana State University School of Medicine (WebFetch of live page)"
+   }
+  ],
+  "sources_count": 1,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "61:dan:lee",
+  "name": "Daniel Lee",
+  "program_id": 61,
+  "program_site_url": "https://web.archive.org/web/20201116041208/https://dura.stanford.edu/residents.html",
+  "identity": "confirmed",
+  "identity_basis": "Stanford DURA rosters 2019-21 list Daniel Lee (PGY1-2); WebMD lists Daniel Lee neurosurgeon Palo Alto, Harvard Medical School 2019; LinkedIn/RocketReach: Daniel Lee MD, Harvard MD, Blackstone investor, Cambridge MA, prior Stanford. Namesake risk remains (LinkedIn walled)",
+  "outcome": "left_medicine",
+  "outcome_detail": "Left Stanford neurosurgery after PGY-2 (2020-21); now investor at Blackstone per LinkedIn/RocketReach snippets (not opened)",
+  "current": "Investor, Blackstone",
+  "external_url": "https://www.linkedin.com/in/daniel-lee-md-0205b81a2/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/daniel-lee-ed39918f-9ad5-4ee8-9633-1c39e5509ada-overview",
+    "type": "search_snippet",
+    "evidence": "Harvard Medical School 2019, Neurological Surgery, Palo Alto CA"
+   },
+   {
+    "url": "https://www.linkedin.com/in/daniel-lee-md-0205b81a2/",
+    "type": "search_snippet",
+    "evidence": "Daniel Lee, MD - Blackstone; Harvard Medical School; prior Stanford University"
+   },
+   {
+    "url": "https://rocketreach.co/daniel-lee-email_620766205",
+    "type": "search_snippet",
+    "evidence": "Blackstone Investor, Cambridge; Stanford neurosurgery"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 5,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [],
+  "abns_certified": null
+ },
+ {
+  "key": "61:jas:yoon",
+  "name": "Jason Yoon",
+  "program_id": 61,
+  "program_site_url": "http://dura.stanford.edu/CurrentResidents.html (Common Crawl CC-MAIN-2014-35, 2014-09-02)",
+  "identity": "confirmed",
+  "identity_basis": "Stanford DURA rosters 2012-15 list Jason Yoon; Stanford radiology bio: Byung 'Jason' Yoon MD PhD, JHU MD 2012, Cambridge PhD; WebMD lists him as Neuroradiology, Diagnostic Radiology AND Neurological Surgery (NS stint corroborated); consistent with input's JHU/Cambridge",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Stanford neurosurgery after PGY-3 (2014-15); Stanford diagnostic radiology resident (chief resident 2017-18 per bio), MGH neuroradiology fellow (chief 2019-20); prior 'radiology alumni 2017-2022' date range looks wrong, radiology start likely 2015",
+  "current": "Assistant Professor of Neuroradiology, Stanford / VA Palo Alto",
+  "external_url": "https://profiles.stanford.edu/byung-yoon",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://profiles.stanford.edu/byung-yoon",
+    "type": "bio",
+    "evidence": "Assistant Professor, Neuroradiology, Stanford / VA Palo Alto; MD Johns Hopkins 2012; PhD Cambridge; radiology residency chief 2017-18; MGH neuroradiology fellow"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/byung-yoon-d104fe32-b434-45ce-b30e-fea1964c8db8-overview",
+    "type": "search_snippet",
+    "evidence": "specializes in Neuroradiology, Diagnostic Radiology and Neurological Surgery"
+   },
+   {
+    "url": "https://med.stanford.edu/xray/CR/JasonYoonMD.html",
+    "type": "program_page",
+    "evidence": "BA neuroscience JHU; PhD Cambridge; MD Johns Hopkins; Stanford radiology resident"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 4,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2014
+   },
+   {
+    "institution": "Stanford Radiology",
+    "specialty": "diagnostic radiology",
+    "start": 2017,
+    "end": 2022
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "61:ade:wu",
+  "name": "Adela Wu",
+  "program_id": 61,
+  "program_site_url": "https://web.archive.org/web/20241009211125/https://med.stanford.edu/neurosurgery/residency/residents.html",
+  "identity": "confirmed",
+  "identity_basis": "Stanford DURA roster 2018-24; SCVMC provider page lists Adela Wu, Residency: Stanford Univ Medical Center-Neurosurgery; Stanford news 2024 says chief resident in final year; Stanford CAP profile Clinical Asst Prof Neurosurgery, JHU MD. Doximity ortho UCSD entry is a merged namesake, ignored",
+  "outcome": "completed",
+  "outcome_detail": "Completed Stanford neurosurgery residency June 2024 (Stanford Neurosurgery WIM 2024 article: in her final year, chief resident)",
+  "current": "Clinical Assistant Professor of Neurosurgery, Santa Clara Valley Medical Center and Stanford",
+  "external_url": "https://scvmc.scvh.org/find-provider/Adela-Wu",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://scvmc.scvh.org/find-provider/Adela-Wu",
+    "type": "bio",
+    "evidence": "Adela Wu, MD, NEUROLOGICAL SURGERY, Residency: Stanford Univ Medical Center-Neurosurgery; Santa Clara Valley Medical Center"
+   },
+   {
+    "url": "https://med.stanford.edu/neurosurgery/news/2024/wim-2024/adela-wu.html",
+    "type": "news",
+    "evidence": "Wu is in her final year of neurosurgery residency at Stanford ... chief resident"
+   },
+   {
+    "url": "https://cap.stanford.edu/profiles/frdActionServlet?choiceId=printerprofile&profileversion=full&profileId=173314",
+    "type": "bio",
+    "evidence": "Clinical Assistant Professor of Neurosurgery"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 6,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "Stanford Health Care-Sponsored Stanford University Program",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2024
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "63:bra:wilkinson",
+  "name": "Brandon Wilkinson",
+  "program_id": 63,
+  "program_site_url": "https://web.archive.org/web/20250211062056/https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+  "identity": "confirmed",
+  "identity_basis": "Upstate resident wayback rosters 2019-25; Upstate Residency Program Graduates page lists Wilkinson, Brandon 2026; Doximity Wayne State 2019 Syracuse; LinkedIn snippet PGY-7 spine fellow at Upstate",
+  "outcome": "completed",
+  "outcome_detail": "Listed as 2026 graduate of Upstate neurosurgery residency (live graduates page); not on current 2026-27 roster; snippet suggests continuing as spine fellow at Upstate",
+  "current": "Spine fellow (per snippet), SUNY Upstate; neurosurgery graduate 2026",
+  "external_url": "https://www.upstate.edu/neurosurgery/education/graduates.php",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.upstate.edu/neurosurgery/education/graduates.php",
+    "type": "program_page",
+    "evidence": "Residency Program Graduates: Wilkinson, Brandon 2026"
+   },
+   {
+    "url": "https://www.doximity.com/pub/brandon-wilkinson-md-6fb5fb69",
+    "type": "doximity",
+    "evidence": "Resident Physician; Wayne State Class of 2019"
+   },
+   {
+    "url": "https://www.linkedin.com/in/brandon-wilkinson-a86b92311/",
+    "type": "search_snippet",
+    "evidence": "SUNY Upstate Medical University Hospital, neurosurgery, spine fellow"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 5,
+  "agrees_with_db": false,
+  "disagreement": "DB IN TRAINING; program graduates page lists him as 2026 graduate",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": null
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "63:jos:kedra",
+  "name": "Joseph Kedra",
+  "program_id": 63,
+  "program_site_url": "https://web.archive.org/web/20250211062056/https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+  "identity": "confirmed",
+  "identity_basis": "Upstate wayback rosters 2022-25 list Kedra; WebMD: Lewis Katz/Temple 2022, Neurological Surgery Syracuse; WVU current residents page lists Joseph Kedra, MD PGY-5 (WebFetch); not on live Upstate 2026-27 roster",
+  "outcome": "transferred",
+  "outcome_detail": "Absent from Upstate 2026-27 roster; listed on WVU neurosurgery current residents as PGY-5 (2026-27), i.e. transferred to WVU in 2026 keeping PGY level (consistent with DB note)",
+  "current": "Neurosurgery resident PGY-5, West Virginia University",
+  "external_url": "WVU current residents page",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY-5: Joseph Kedra, MD, Genevieve Korst, MD"
+   },
+   {
+    "url": "https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+    "type": "program_page",
+    "evidence": "Live Upstate roster lists no Kedra"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/joseph-kedra-3fae69ef-3eb6-41b1-ab8c-919953a708e4-overview",
+    "type": "search_snippet",
+    "evidence": "Lewis Katz School of Medicine at Temple 2022, Neurological Surgery, Syracuse"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 6,
+  "agrees_with_db": false,
+  "disagreement": "DB IN TRAINING at Upstate; now at WVU PGY-5",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "year_left": 2026,
+  "destination_program": "West Virginia University",
+  "destination_start_year": 2026,
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "63:abi:funari",
+  "name": "Abigail Funari",
+  "program_id": 63,
+  "program_site_url": "https://web.archive.org/web/20250211062056/https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+  "identity": "confirmed",
+  "identity_basis": "Upstate wayback rosters 2023-25 list Funari; WebMD Einstein 2023 Syracuse Neurological Surgery; WVU current residents page lists Abigail Funari, MD PGY-4; not on live Upstate roster",
+  "outcome": "transferred",
+  "outcome_detail": "Absent from Upstate 2026-27 roster; listed at WVU as PGY-4 (2026-27): transferred to WVU in 2026",
+  "current": "Neurosurgery resident PGY-4, West Virginia University",
+  "external_url": "WVU current residents page",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY-4: Abigail Funari, MD, Erica Webster, MD"
+   },
+   {
+    "url": "https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+    "type": "program_page",
+    "evidence": "Live Upstate roster lists no Funari"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/abigail-funari-e433dace-7022-4103-afca-09319e795d8c-overview",
+    "type": "search_snippet",
+    "evidence": "Albert Einstein College of Medicine 2023, Neurological Surgery, Syracuse"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 5,
+  "agrees_with_db": false,
+  "disagreement": "DB IN TRAINING at Upstate; now at WVU PGY-4",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "year_left": 2026,
+  "destination_program": "West Virginia University",
+  "destination_start_year": 2026,
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "63:jef:zhang",
+  "name": "Jeff Zhang",
+  "program_id": 63,
+  "program_site_url": "https://web.archive.org/web/20250211062056/https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+  "identity": "confirmed",
+  "identity_basis": "Upstate wayback rosters 2023-25 list Zhang; Doximity/WebMD: Buffalo Jacobs MD 2023, Neurosurgery Syracuse; LinkedIn Resident Doctor at SUNY Upstate",
+  "outcome": "unknown",
+  "outcome_detail": "NOT on live Upstate 2026-27 roster (PGY-4 slot shows only Joseph Garcia) so he has left or paused; not on WVU, Cincinnati, Ohio State or UH Cleveland resident pages; Doximity shows NY and OH licenses 2026-28 (Ohio destination possible, unconfirmed). A Jeff F. Zhang appears in UC neurosurgery directory (email zhang6jf@ucmail.uc.edu) but is not on UC's residents page",
+  "current": "unknown; left Upstate neurosurgery by 2026-27, destination not found",
+  "external_url": "",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+    "type": "program_page",
+    "evidence": "Live 2026-27 roster has no Zhang"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jeff-zhang-md-21620ac6",
+    "type": "doximity",
+    "evidence": "Neurosurgery Syracuse; Jacobs SOM Buffalo 2023; NY and OH licenses 2026-2028"
+   },
+   {
+    "url": "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "No Jeff Zhang among UC residents"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 8,
+  "agrees_with_db": false,
+  "disagreement": "DB IN TRAINING at Upstate; not on current Upstate roster",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "year_left": 2026,
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "63:yus:mehkri",
+  "name": "Yusuf Mehkri",
+  "program_id": 63,
+  "program_site_url": "https://web.archive.org/web/20250211062056/https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+  "identity": "confirmed",
+  "identity_basis": "Live Upstate roster 2026-27 lists Yusuf Mehkri PGY-3, MD University of Florida; Doximity Syracuse NS; ResearchGate resident SUNY Upstate; UF BS/MD bio",
+  "outcome": "in_training",
+  "outcome_detail": "On live Upstate resident page as PGY-3 (2026-27)",
+  "current": "Neurosurgery PGY-3, SUNY Upstate",
+  "external_url": "https://www.doximity.com/pub/yusuf-mehkri-md",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+    "type": "program_page",
+    "evidence": "PGY-3 Yusuf Mehkri, MD; MD: University of Florida College of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/yusuf-mehkri-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Syracuse NY"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "64:and:danziger",
+  "name": "Andrew Danziger",
+  "program_id": 64,
+  "program_site_url": "https://web.archive.org/web/20200503184138/https://medicine.temple.edu/departments-centers/clinical-departments/department-neurosurgery/residency-program/current-residents",
+  "identity": "confirmed",
+  "identity_basis": "Temple 2019-20 wayback roster PGY-1; WebMD: Andrew Danziger SUNY Downstate 2019; Northwell diagnostic radiology page: Andrew Danziger, SUNY Downstate, internship Temple University Hospital",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Temple neurosurgery after PGY-1 (2019-20); now diagnostic radiology resident, Northwell NSUH/LIJ, class of 2028 (started ~2024; gap 2020-2024 unexplained, possibly Temple preliminary year later)",
+  "current": "Diagnostic radiology resident (class of 2028), Northwell NS/LIJ",
+  "external_url": "https://physicians.northwell.edu/education/graduate-medical-education/residency-diagnostic-radiology-nsuh-lij/about-us",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://physicians.northwell.edu/education/graduate-medical-education/residency-diagnostic-radiology-nsuh-lij/about-us",
+    "type": "program_page",
+    "evidence": "Andrew Danziger, Class of 2028; SUNY Downstate; Internship: Temple University Hospital"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/andrew-danziger-29bda41f-30ac-4f21-9c83-61f0681bef8a-overview",
+    "type": "search_snippet",
+    "evidence": "SUNY Downstate 2019"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 4,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "Northwell (North Shore University Hospital & LIJ) Diagnostic Radiology",
+    "specialty": "diagnostic radiology",
+    "start": null,
+    "end": 2028
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "64:nea:patel",
+  "name": "Neal Patel",
+  "program_id": 64,
+  "program_site_url": "https://web.archive.org/web/20260121152932/https://medicine.temple.edu/education/graduate-medical-education/residency-programs-fellowships/neurosurgery/residency-program/current-residents",
+  "identity": "confirmed",
+  "identity_basis": "Temple current residents page: Neal Patel PGY-3, Mercer University School of Medicine, Penn undergrad, Covington GA; LinkedIn: Neurosurgery Resident Temple, Mercer/Penn",
+  "outcome": "in_training",
+  "outcome_detail": "On live Temple current-residents page as PGY-3",
+  "current": "Neurosurgery PGY-3, Temple University Hospital",
+  "external_url": "https://www.linkedin.com/in/neal-patel-26b6282a8/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://medicine.temple.edu/education/graduate-medical-education/residency-programs-fellowships/neurosurgery/residency-program/current-residents",
+    "type": "program_page",
+    "evidence": "Neal Patel, MD - PGY-3; Mercer University School of Medicine; University of Pennsylvania"
+   },
+   {
+    "url": "https://www.linkedin.com/in/neal-patel-26b6282a8/",
+    "type": "search_snippet",
+    "evidence": "Neal Patel - Neurosurgery Resident - Temple University Hospital"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "Temple University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "67:rya:tripathy",
+  "name": "Ryan Tripathy",
+  "program_id": 67,
+  "program_site_url": "https://web.archive.org/web/20260924163014/https://www.uclahealth.org/departments/neurosurgery/education/residency-training/current-residents",
+  "identity": "probable",
+  "identity_basis": "UCLA current-residents page lists Ryan Tripathy NS3, UCLA MD; no independent external profile found",
+  "outcome": "in_training",
+  "outcome_detail": "On live UCLA current-residents page (NS3 / PGY-3, 2026-27)",
+  "current": "Neurosurgery PGY-3, UCLA",
+  "external_url": "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/current-residents",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/current-residents",
+    "type": "program_page",
+    "evidence": "Ryan Tripathy, MD - UCLA, NS3"
+   }
+  ],
+  "sources_count": 1,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "UCLA David Geffen School of Medicine/UCLA Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "69:mol:ghannam",
+  "name": "Moleca Ghannam",
+  "program_id": 69,
+  "program_site_url": "https://web.archive.org/web/20260112212519/https://www.ubns.com/current-residents-fellows/",
+  "identity": "confirmed",
+  "identity_basis": "UB residents rosters 2019-25; ubns.com Former Chief Residents lists 2025 Moleca Mahmoud Ghannam MD MPhil; WebMD: Oakland Univ William Beaumont 2019, Neurological Surgery, Buffalo General Medical Center; Doximity pulmonology entry is a merged namesake",
+  "outcome": "completed",
+  "outcome_detail": "Listed as 2025 former chief resident (graduate) of UB neurosurgery; DB had 2026 end, program page says 2025. Destination not stated (WebMD lists Buffalo General and Canton MI addresses)",
+  "current": "Neurosurgery graduate 2025; destination not stated (WebMD: Buffalo General / Canton MI)",
+  "external_url": "https://doctor.webmd.com/doctor/moleca-ghannam-70cce86a-3a63-4b71-8cf6-883dddf54fe8-overview",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.ubns.com/former-residents-fellows/",
+    "type": "program_page",
+    "evidence": "Former Chief Residents 2025: Moleca Mahmoud Ghannam, MD, MPhil"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/moleca-ghannam-70cce86a-3a63-4b71-8cf6-883dddf54fe8-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery; Oakland University William Beaumont 2019; Buffalo General Medical Center"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 5,
+  "agrees_with_db": true,
+  "disagreement": "End year 2025 per program page vs DB 2026",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "University at Buffalo",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2025
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "69:nei:almeida",
+  "name": "Neil Almeida",
+  "program_id": 69,
+  "program_site_url": "https://web.archive.org/web/20221014180406/https://medicine.buffalo.edu/departments/neurosurgery/education/residency/residents/current.html",
+  "identity": "confirmed",
+  "identity_basis": "UB rosters 2021-23 list Neil Almeida; Roswell Park bio: Neil Almeida MD, George Washington; research on radiosurgery/Gamma Knife; Buffalo location",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UB neurosurgery after PGY-2 (2022-23); radiation oncology resident PGY-5, Roswell Park (start ~2023)",
+  "current": "Radiation oncology resident PGY-5, Roswell Park Comprehensive Cancer Center",
+  "external_url": "https://www.roswellpark.org/neil-almeida",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.roswellpark.org/neil-almeida",
+    "type": "bio",
+    "evidence": "Resident Physician, PGY 5, Department of Radiation Medicine; MD George Washington University School of Medicine"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "University at Buffalo",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2023
+   },
+   {
+    "institution": "Roswell Park Cancer Institute",
+    "specialty": "radiation oncology",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "69:muh:waqas",
+  "name": "Muhammad Waqas",
+  "program_id": 69,
+  "program_site_url": "https://www.ubns.com/current-residents-fellows/",
+  "identity": "confirmed",
+  "identity_basis": "Live ubns.com roster lists Muhammad Waqas PGY-5 (Chief); UB medicine page PGY-4 Hamdard University Karachi; Healthgrades Hamdard 2010 Buffalo Neurosurgery",
+  "outcome": "in_training",
+  "outcome_detail": "On live UB current residents page as PGY-5 chief (2026-27)",
+  "current": "Neurosurgery PGY-5 chief, University at Buffalo",
+  "external_url": "https://www.healthgrades.com/physician/dr-muhammad-waqas-gi60wh2926",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.ubns.com/current-residents-fellows/",
+    "type": "program_page",
+    "evidence": "PGY-5: Muhammad Waqas, MD (Chief)"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-muhammad-waqas-gi60wh2926",
+    "type": "search_snippet",
+    "evidence": "Hamdard University 2010; University at Buffalo Neurosurgery"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "University at Buffalo",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "69:hen:francois",
+  "name": "Hendrick Francois",
+  "program_id": 69,
+  "program_site_url": "https://www.ubns.com/current-residents-fellows/",
+  "identity": "probable",
+  "identity_basis": "Live ubns.com roster lists Hendrick Francois PGY-1; Doximity Hendrick Ben Francois PA MD Neurosurgery Brooklyn (pre-residency); no match announcement found",
+  "outcome": "in_training",
+  "outcome_detail": "On live ubns.com current residents as PGY-1 (2026-27)",
+  "current": "Neurosurgery PGY-1, University at Buffalo",
+  "external_url": "https://www.doximity.com/pub/hendrick-francois-pa",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.ubns.com/current-residents-fellows/",
+    "type": "program_page",
+    "evidence": "PGY-1: Hendrick Francois, MD"
+   },
+   {
+    "url": "https://www.doximity.com/pub/hendrick-francois-pa",
+    "type": "doximity",
+    "evidence": "Hendrick Ben Francois PA MD, Neurosurgery, Brooklyn NY"
+   }
+  ],
+  "sources_count": 1,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [],
+  "abns_certified": null
+ },
+ {
+  "key": "69:yaz:shamli-oghli",
+  "name": "Yazan Shamli-Oghli",
+  "program_id": 69,
+  "program_site_url": "https://www.ubns.com/current-residents-fellows/",
+  "identity": "probable",
+  "identity_basis": "Live ubns.com roster lists Yazan Shamli-Oghli PGY-1; separate hits show Yazan Shamli Oghli as Jefferson medical student interested in neurosurgery (Toronto MSc); consistent but no match list names UB",
+  "outcome": "in_training",
+  "outcome_detail": "On live ubns.com current residents as PGY-1 (2026-27)",
+  "current": "Neurosurgery PGY-1, University at Buffalo",
+  "external_url": "https://www.researchgate.net/scientific-contributions/Yazan-Shamli-Oghli-2311475551",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.ubns.com/current-residents-fellows/",
+    "type": "program_page",
+    "evidence": "PGY-1: Yazan Shamli-Oghli, MD"
+   },
+   {
+    "url": "https://www.researchgate.net/scientific-contributions/Yazan-Shamli-Oghli-2311475551",
+    "type": "search_snippet",
+    "evidence": "medical student at Jefferson University; neurosurgery"
+   }
+  ],
+  "sources_count": 1,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [],
+  "abns_certified": null
+ },
+ {
+  "key": "70:ben:saccomano",
+  "name": "Benjamin Saccomano",
+  "program_id": 70,
+  "program_site_url": "https://web.archive.org/web/20260116162717/https://www.uab.edu/medicine/neurosurgery/education/residency/current-residents",
+  "identity": "confirmed",
+  "identity_basis": "UAB rosters 2019-26 list Saccomano; WashU faculty bio: Complex Spine Fellow, residency at UAB, MD University of Colorado; UAB news names him 2026 chief resident",
+  "outcome": "completed",
+  "outcome_detail": "Completed UAB neurosurgery residency 2026; now complex spine fellow at WashU",
+  "current": "Complex spine fellow, WashU Taylor Family Dept of Neurosurgery",
+  "external_url": "https://neurosurgery.wustl.edu/people/benjamin-saccomano-md-mph-ms/",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://neurosurgery.wustl.edu/people/benjamin-saccomano-md-mph-ms/",
+    "type": "bio",
+    "evidence": "Complex Spine Fellow; completed neurosurgery residency at University of Alabama at Birmingham; MD Colorado"
+   },
+   {
+    "url": "https://www.doximity.com/pub/benjamin-saccomano-md",
+    "type": "doximity",
+    "evidence": "Resident Physician Birmingham AL"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "University of Alabama Hospital (Birmingham)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "70:yas:alam",
+  "name": "Yasaman Alam",
+  "program_id": 70,
+  "program_site_url": "https://web.archive.org/web/20260116162717/https://www.uab.edu/medicine/neurosurgery/education/residency/current-residents",
+  "identity": "confirmed",
+  "identity_basis": "UAB rosters 2019-26 list Alam; Emory provider page: MD Toledo 2019, UAB neurosurgery residency, completion expected 2026, Emory faculty listing; Doximity UAB Neurological Surgery, Toledo 2019",
+  "outcome": "completed",
+  "outcome_detail": "UAB residency completion 2026 per Emory bio; now Emory Clinic neurosurgery provider (Atlanta)",
+  "current": "Neurosurgery, Emory Healthcare (Emory University Hospital Midtown)",
+  "external_url": "https://www.emoryhealthcare.org/providers/yasaman-alam-7093417",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.emoryhealthcare.org/providers/yasaman-alam-7093417",
+    "type": "bio",
+    "evidence": "Neurological Surgery; MD University of Toledo 2019; neurological surgery residency at UAB, completion expected 2026; Emory faculty"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "University of Alabama Hospital (Birmingham)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "abns_certified": null
+ },
+ {
+  "key": "71:ash:carter",
+  "name": "Ashley Carter",
+  "program_id": 71,
+  "program_site_url": "https://phoenixmed.arizona.edu/neurosurgery-residency/who-we-are/current-residents",
+  "identity": "probable",
+  "identity_basis": "Live UACOM-Phoenix page lists Ashley Carter PGY 2, EVMS; ResearchGate Ashley M. Carter EVMS neurosurgery-related; Doximity namesakes unrelated",
+  "outcome": "in_training",
+  "outcome_detail": "On live Phoenix current residents page as PGY 2 (2026-27)",
+  "current": "Neurosurgery PGY-2, UA College of Medicine Phoenix",
+  "external_url": "https://www.researchgate.net/scientific-contributions/Ashley-Carter-2241254485",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://phoenixmed.arizona.edu/neurosurgery-residency/who-we-are/current-residents",
+    "type": "program_page",
+    "evidence": "Ashley Carter, MD PGY 2; Eastern Virginia Medical School"
+   }
+  ],
+  "sources_count": 1,
+  "ident_searches": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "residency_stated": [
+   {
+    "institution": "University of Arizona College of Medicine - Phoenix",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "abns_certified": null
+ }
+]

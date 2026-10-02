@@ -1,0 +1,54 @@
+
+Medical College of Wisconsin Affiliated Hospitals Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2005   Alastair Hoyt            2012   2011-20  7   bio          COMPLETED
+2007   Joseph Cochran           2014   2013-20  7   bio          COMPLETED
+2007   Amos Ladouceur           -      2011-20  5   npi?         LEFT -> outcome unknown (NPI hint: other specialty)
+2008   Gerald Eckardt           2015   2014-20  7   bio          COMPLETED
+2009   Andrew Lozen             2016   2015-20  7   bio          COMPLETED
+2009   Abhishiek Sharma         2016   2015-20  7   bio          COMPLETED [ambiguous name]
+2010   Akin Oni-Orisan          2017   2016-20  7   bio          COMPLETED
+2011   Ninh Doan                2018   2017-20  7   bio          COMPLETED
+2011   Ha Son Nguyen            2018   2017-20  7   bio          COMPLETED [ambiguous name]
+2012   Elsa Arocho-Quiñones     2019   2018-20  7   bio          COMPLETED
+2013   Michael Gelsomino        2020   2019-20  7   bio          COMPLETED
+2014   Saman Shabani            2021   2020-20  7   bio          COMPLETED
+2015   Karl Janich              2022   2021-20  7   bio          COMPLETED
+2015   Andrew Montoure          2022   2021-20  7   bio          COMPLETED
+2016   Eduardo Martinez-del-Cam 2023   2022-20  7   bio          COMPLETED [ambiguous name]
+2016   Amber Retzlaff           2018   2017-20  2   bio          LEFT -> SWITCHED SPECIALTY
+2017   Daniel Aaronson          2024   2023-20  7   bio          COMPLETED
+2017   Ahmed Awad               2024   2023-20  7   bio          COMPLETED [ambiguous name]
+2017   Benjamin Best            2024   2023-20  7   bio          COMPLETED
+2018   Fatu Conteh              2020   2019-20  2   bio          LEFT -> TRANSFERRED
+2018   Brandon Laing            2025   2024-20  7   bio          COMPLETED
+2019   Omar Hussain             2026   2025-20  7   bio          COMPLETED [ambiguous name]
+2019   Jose Sanchez Jimenez     2023   2022-20  4   bio          LEFT -> did not complete [ambiguous name]
+2020   Randall Treffy           -      2026-20  7   roster       IN TRAINING
+2020   Huy Truong               -      2026-20  7   roster       IN TRAINING [ambiguous name]
+2021   Emily Morris             -      2026-20  6   roster       IN TRAINING [ambiguous name]
+2022   Gerard MacKinnon         -      2026-20  5   roster       IN TRAINING
+2022   Peter Palmer             -      2026-20  5   roster       IN TRAINING
+2023   Christina Feller         -      2026-20  4   roster       IN TRAINING
+2023   Maya Langman             -      2026-20  4   roster       IN TRAINING
+2023   William Pennant          -      2026-20  4   roster       IN TRAINING
+2024   Reid Colliander          -      2026-20  3   roster       IN TRAINING
+2024   MirHojjat Khorasanizadeh -      2026-20  3   roster       IN TRAINING
+2025   Andrew Waack             -      2026-20  2   roster       IN TRAINING
+2025   Danielle Wishart         -      2026-20  2   roster       IN TRAINING
+2026   Nisha Busch              -      2026-20  1   roster       IN TRAINING
+2026   Bryce Laurin             -      2026-20  1   roster       IN TRAINING
+2026   Sarah Nanziri            -      2026-20  1   roster       IN TRAINING
+
+summary:
+    19  COMPLETED
+    15  IN TRAINING
+     1  LEFT -> outcome unknown (NPI hint: other specialty)
+     1  LEFT -> SWITCHED SPECIALTY
+     1  LEFT -> TRANSFERRED
+     1  LEFT -> did not complete
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

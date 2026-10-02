@@ -1,0 +1,258 @@
+{
+ "program_id": 48,
+ "name": "New York Presbyterian Hospital (Columbia Campus) Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.columbianeurosurgery.org/education/residents/current-residents/ (plus /education/residents/recent-graduates/; /residents/current-residents/ 301 -> here 2010)",
+   "from": "2010-01",
+   "to": "2021-05"
+  },
+  {
+   "url": "https://www.neurosurgery.columbia.edu/education/residency-program/current-residents (plus /graduates)",
+   "from": "2021-07",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Wayback 20120111 (Aug 2011 captures still showed 2010-11). Headings 'NS 6 - Chief ... NS 1 - Lab Year, PGY 1 - Surgery Intern Year' = PGY7..PGY1.",
+  "2012-2013": "Wayback 20121028 (list updated 2012-06-21). From 2013 headings renumbered ('Chief, NS 6 - Senior ... NS 2 - Lab Year'); PGY taken from descriptor, verified by class continuity.",
+  "2013-2014": "Wayback 20131009.",
+  "2014-2015": "Page stale Jul-Nov 2014 (showed 2013-14); updated list first in Wayback 20141216 (used). Captures from 20150418 drop Gaurav Gupta (PGY4) and Joaquin De Rojas (PGY1): both left during 2014-15.",
+  "2015-2016": "Wayback 20151021.",
+  "2016-2017": "Wayback 20161221.",
+  "2017-2018": "Wayback 20171223 (only capture with 2017-18 content).",
+  "2018-2019": "Wayback 20181221 (same list from 20180621).",
+  "2019-2020": "Wayback 20191223 (Sep 2019 captures still stale 2018-19).",
+  "2020-2021": "Wayback 20201029. Mar 2021 capture moves Sisti to PGY5 and Joiner to PGY4 mid-year (accelerated).",
+  "2021-2022": "Wayback 20211028, new host neurosurgery.columbia.edu.",
+  "2022-2023": "Wayback 20221014.",
+  "2023-2024": "Wayback 20231208 (Oct 2023 capture half-edited).",
+  "2024-2025": "Wayback 20241014.",
+  "2025-2026": "Wayback 20251009; CreveCoeur shown as 'Enfolded Fellow', excluded.",
+  "2026-2027": "Live page 2026-09-27, advanced vs 2025-26 with 3 new interns."
+ },
+ "alumni_page": "https://www.neurosurgery.columbia.edu/education/residency-program/graduates",
+ "departures": [
+  {
+   "name": "Gaurav Gupta",
+   "last_ay": "2014-2015",
+   "last_pgy": 4,
+   "outcome": "unknown",
+   "end_year": 2015,
+   "note": "Left between 2015-03 and 2015-04-18 captures at PGY4; never relisted through 2026-27; not a research year; not on graduates page; destination not found (Rutgers-RWJ Gaurav Gupta is a different, older neurosurgeon). training_history th_id 3392."
+  },
+  {
+   "name": "Joaquin De Rojas",
+   "last_ay": "2014-2015",
+   "last_pgy": 1,
+   "outcome": "switched_specialty (ophthalmology)",
+   "end_year": 2015,
+   "note": "PubMed: Harkness Eye Institute/Columbia Ophthalmology 2016-2019, Wilmer cornea 2021, Center for Sight Sarasota 2022-26. th_id 3393."
+  },
+  {
+   "name": "Paul McCormick",
+   "last_ay": "2016-2017",
+   "last_pgy": 1,
+   "outcome": "unknown",
+   "end_year": 2017,
+   "note": "Paul McCormick Jr. (Columbia P&S 2016; Match Day 2016 + Nov 2016 welcome posts). Absent from Dec 2017 on, never returned; destination not separable from his father in PubMed/OpenAlex. th_id 3394."
+  },
+  {
+   "name": "Anna Filley",
+   "last_ay": "2021-2022",
+   "last_pgy": 4,
+   "outcome": "switched_specialty (orthopaedic surgery)",
+   "end_year": 2022,
+   "note": "Same ORCID 0009-0005-6964-9152: UCSF Dept of Orthopaedic Surgery spine papers 2023-2026, Denver Health Orthopedics 2026. Role at UCSF (resident vs research fellow) not stated. th_id 3395."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 38,
+ "adjudication_summary": {
+  "COMPLETED": 30,
+  "IN TRAINING": 18,
+  "LEFT -> did not complete": 2,
+  "LEFT -> SWITCHED SPECIALTY": 2
+ },
+ "problems": "Europe PMC API 503 during Gupta search. Gupta and McCormick outcomes unknown (departures themselves are certain). Alumni page lists CreveCoeur under 2026, department news says 2025; 2025 used.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "n": 16,
+   "significance": "none",
+   "reason": "Complete roster; raw capture re-read in phase 2, every class accounted for by class continuity."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "n": 16,
+   "significance": "none",
+   "reason": "Complete roster; raw capture re-read in phase 2, every class accounted for by class continuity."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "n": 15,
+   "significance": "none",
+   "reason": "Complete roster; raw capture re-read in phase 2, every class accounted for by class continuity."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "n": 15,
+   "significance": "low",
+   "reason": "Dec-2014 roster complete (15); Gupta (PGY4) and De Rojas (PGY1) left between the Mar and Apr 2015 captures, both resolved."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "Complete roster; raw capture re-read in phase 2, every class accounted for by class continuity."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "n": 13,
+   "significance": "none",
+   "reason": "Complete (13); McCormick (PGY1) absent from Dec-2017 on; departure recorded (destination unknown)."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "n": 12,
+   "significance": "none",
+   "reason": "Only capture with 2017-18 content (Dec 2017), 12 names; short because Gupta's and McCormick's classes each had one resident left; continuity checked both ways."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "Complete roster; raw capture re-read in phase 2, every class accounted for by class continuity."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "Complete roster; raw capture re-read in phase 2, every class accounted for by class continuity."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "Phase 2 fix: Deborah Boyett (listed 'Deborah Boyett MD, MS', no comma) added as PGY1; now 14. Mar-2021 capture moves Sisti/Joiner up a PGY (accelerated)."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "Complete (14); Filley PGY4 last year (listed through May 2022), departure resolved."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "Complete roster; raw capture re-read in phase 2, every class accounted for by class continuity."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "n": 15,
+   "significance": "none",
+   "reason": "Complete roster; raw capture re-read in phase 2, every class accounted for by class continuity."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "n": 16,
+   "significance": "none",
+   "reason": "Complete roster; raw capture re-read in phase 2, every class accounted for by class continuity."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "n": 16,
+   "significance": "none",
+   "reason": "Complete (16); only 2 interns, confirmed by department news 'Welcome to Our 2025 Columbia Neurosurgery Matches' (Dadario, Savage). CreveCoeur as Enfolded Fellow (post-graduation) excluded."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "n": 18,
+   "significance": "none",
+   "reason": "Complete roster; raw capture re-read in phase 2, every class accounted for by class continuity."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "accelerated_6yr": {
+  "note": "Program is 7 years for every cohort; these residents skipped a PGY label and finished as PGY7 chiefs in 6 years (not departures, not a length change).",
+  "residents": {
+   "Dominique Higgins": "entry 2015, grad 2021",
+   "Jonathan Sisti": "entry 2017, grad 2023",
+   "Evan Joiner": "entry 2018, grad 2024",
+   "Travis CreveCoeur": "entry 2019, grad 2025 (then Enfolded Fellow 2025-26)"
+  }
+ },
+ "research_or_enfolded_check": "None of the 4 departures is a research year or enfolded fellowship: Columbia lists its lab years (PGY2, PGY5) on the roster, and none of the 4 reappears on any roster through 2026-27 or on the graduates page. The only enfolded fellow is CreveCoeur (after graduating 2025).",
+ "crossmatch": "data/intake/crossmatch.json has no entry with dep_pid or join_pid 48; no other program roster in the DB lists Gupta, De Rojas, McCormick, Filley or Boyett.",
+ "phase2": {
+  "searched": [
+   "Re-read raw text of all 16 captures (data/raw/extraction/p48/phase2/text_*.txt): checked every heading incl. 'Chief(s)', 'Enfolded Fellow', and comma-less / inline 'Name MD' entries",
+   "Class-size check per entry cohort vs complement (2-3/yr)",
+   "Archived columbianeurosurgery.org news: 2013-09 Gupta grand rounds, 2015-03 graduation-rate post, 2015-06 Yun, 2015-07 grad poster, 2015-08 chiefs/new residents, 2016-05 Match Day, 2016-11 welcome/graduates",
+   "Live neurosurgery.columbia.edu news: 2021 chiefs goodbye, 2025 matches",
+   "PubMed author/affiliation searches: Filley A, Boyett D, De Rojas J, Gupta G (+Columbia co-authors), McCormick P",
+   "OpenAlex author profiles/ORCID: Anna C. Filley, Gaurav Gupta, Paul McCormick",
+   "crossmatch.json and roster_observations for all programs",
+   "UCSF orthopaedic current-residents page (live)"
+  ],
+  "found": [
+   "Deborah Boyett was a 2020-21 PGY1 intern (parser miss) -> not a joiner; entry 2020, Columbia MD 2020",
+   "De Rojas -> ophthalmology (Columbia Harkness, Wilmer, Sarasota)",
+   "Filley -> orthopaedic surgery (UCSF Ortho 2023-26, Denver Health 2026; ORCID-linked)",
+   "2025 intern class of 2 confirmed by department match news",
+   "McCormick identified as Paul McCormick Jr. (Columbia P&S 2016)"
+  ],
+  "remaining": [
+   "Gaurav Gupta destination unknown (left PGY4, spring 2015)",
+   "Paul McCormick Jr. destination unknown (left after PGY1, 2017)",
+   "Europe PMC returned 503 (not retried at length)"
+  ]
+ }
+}

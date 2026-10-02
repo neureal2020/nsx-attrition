@@ -1,0 +1,452 @@
+{
+ "program_id": 125,
+ "name": "Wayne State University / Detroit Medical Center Program (CLOSED)",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "closure": {
+  "last_academic_year": "2019-2020",
+  "type": "ACGME accreditation lost/withdrawn (not a voluntary closure)",
+  "decision_date": "between Aug 2019 and Feb 2020, most likely fall 2019: /education still linked 'Current Residents' on 2019-08-10; /residents emptied ('No profiles found') by 2019-11-17; residency paragraph dropped from /message between 2019-10-31 and 2019-12-30; Huang had left for Minnesota mid-year (absent there 2019-11-21, present 2020-05-27); UC news (written before Match Day 2020-03-20) says Gaulden transferred 'when she learned of Wayne State losing its accreditation' and joined UC in March 2020",
+  "effective_date": "not found; residents dispersed by 1 July 2020 (every non-graduating resident except Garling is on another program's 2020-21 roster), so effective end of AY 2019-20 (2020-06-30) is most likely. DMC GME list still showed 'Neurosurgery' (unlinked) 2020-09-25 and the DMC 'GME at DMC' page still named Neurosurgery on 2020-10-27; both gone by 2020-12-05 / 2021-01-25",
+  "acgme_record": "No ACGME status page reachable without search: Wayback CDX prefixes for apps.acgme.org Programs/Detail and Search (Michigan) and FREIDA program pages hold no capture for this program.",
+  "evidence": [
+   "WSU dept site removed all residents: /residents shows 'No profiles found' from 2019-11-17 (last populated capture 2019-06-26, still 2018-19 content, no 2019 interns listed)",
+   "Dept welcome /message dropped 'residents' and residency paragraph between 2019-10-31 and 2019-12-30; /mission-history dropped 'residents' from mission between 2019-08-10 and 2020-03-07; /residency, /resident-alumni now 404",
+   "Amber Gaulden (2019 PGY-1, never listed on WSU page) transferred to Cincinnati in March 2020 (UC news 2020-06-10, per program 79 gap file)",
+   "By 2020-21, 11 of the 13 non-graduating 2018-19 residents appear on other programs' rosters (see dispersal)",
+   "DMC GME training-programs list still showed 'Neurosurgery' (unlinked) on 2020-09-25; gone by 2020-12-05 (dmc.org/health-professionals/training-programs)",
+   "No ACGME status page reachable under the no-search rule; exact withdrawal date not found",
+   "UC news 2020-06-10 (Wayback 2020-10-09): 'Dr. Gaulden began her residency at Wayne State University, but sought out a transfer to the University of Cincinnati when she learned of Wayne State losing its accreditation' (saved phase2/uc_news_2020-06-10.html)",
+   "Shiwei Huang left mid-2019-20 (Minnesota PGY-2 by 2020-05-27)",
+   "Blake Walker DMC affiliation on a paper received 2019-11 (PMID 31974822) -> Carilion PGY-7 2020-21",
+   "DMC 'GME at DMC' page names Neurosurgery among graduating specialties through 2020-10-27, dropped by 2021-01-25"
+  ]
+ },
+ "hosts": [
+  {
+   "url": "http://neurosurgery.med.wayne.edu/residents.php (+ resident_alumni.php, residency.php, new-resident-spotlight.php; also www.)",
+   "from": "2010-07",
+   "to": "2017-06"
+  },
+  {
+   "url": "http://neurosurgery.med.wayne.edu/residents (+ /residents?group=2597..2603, /profile/<id>, /resident-alumni, /alumni, /residency)",
+   "from": "2017-08",
+   "to": "2019-06 (emptied by 2019-11-17; still 'No profiles found' live 2026-09-27)"
+  },
+  {
+   "url": "http://www.med.wayne.edu/neurosurgery/ (old path, 404 by 2010)",
+   "from": "<2010",
+   "to": "2010"
+  },
+  {
+   "url": "https://www.dmc.org/(for-)health-professionals/training-programs (sponsor GME list; Neurosurgery entry linked to WSU site, no DMC roster page)",
+   "from": "2018-08",
+   "to": "2020-09"
+  },
+  {
+   "url": "wsuneurosurgery.com, michiganheadandspine.com, dmc.org/neurosurgery: no captures",
+   "from": null,
+   "to": null
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2013-2014",
+  "2019-2020"
+ ],
+ "missing_years": [],
+ "closed_years": [
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "No residents.php capture between 2011-02-03 (2010-11 roster) and 2012-07-22 (2012-13 roster); Common Crawl CC-MAIN-2012 had 0 records for the host. Reconstructed 7 bracketed residents (Hoeprich via alumni 2012; Klein via Nov-2011 'Welcomes New Resident' news). Complete by bracketing: 2010-11 and 2012-13 rosters leave no unexplained people.",
+  "2012-2013": "Observed (2012-09-16). NOTE the page was not updated in 2013: identical content captured through 2013-07-05. Hong and Nyame labels not advanced (listed Year 5/Year 4; stored as PGY-6/5 per 2010-11 roster and alumni grad years).",
+  "2013-2014": "No residents.php capture 2013-07-05..2015-01-19; Common Crawl 2013-20..2014-52 captured only residency.php. Reconstructed 6 bracketed residents. NOT reconstructed: Mohamad Khaled (Chief 2014-15; UVA roster 2011-13), Arianne Boylan (Year 5 2014-15; Colorado roster 2011-13), Parthasarathi Chamiraju (Year 3 2014-15; absent from 2012-13 roster as PGY-1) -- all three first seen 2014-15 and probably joined in 2013-14 or 2014-15. The 2013 intern class (entry 2013) is absent from 2014-15 roster too (no Year 2 listed).",
+  "2014-2015": "Observed 2015-01-19; three Year-1s (Garling, Tariq, Walker), no Year-2.",
+  "2018-2019": "Observed 2019-02-03 (only capture Aug-Jan unavailable; 2018-07-26 still 2017-18). Common Crawl 2019-06-26 capture identical minus Chamiraju, Garling relabelled Year 6.",
+  "2019-2020": "Phase 2: reconstructed as the final year (13 residents: 11 carried over from 2018-19 at PGY+1, plus 2019 interns Gaulden and Abdulrazeq). Rechecked Wayback (host CDX 2019-06..2021-06: only faculty profiles and the emptied /residents) and 2019 profile captures (all faculty). Huang left mid-year, Gaulden in March 2020, the rest in June 2020.",
+  "2020-2021": "Closed. Walker -> Carilion PGY-7, Lieber -> Tulane (Jul 2020). Garling unresolved (DMC affiliation on a paper received Sep 2020; no roster anywhere).",
+  "2021-2022+": "program closed (not on 2026 ACGME list; no residents on any WSU/DMC page)"
+ },
+ "alumni_page": "https://web.archive.org/web/20190409045648/http://neurosurgery.med.wayne.edu:80/resident-alumni",
+ "alumni_notes": "Graduation years 2012-2019 inserted into training_history (11 rows). Page lists Chamiraju 2018 / Elswick 2019 but rosters show Elswick PGY-7 in 2017-18 and Chamiraju PGY-7 in 2018-19 (years probably swapped). Moisi listed 2017 while roster shows 'Year 6' in 2016-17. Rajah (PGY-7 2018-19) not on the Apr-2019 alumni capture; no later capture.",
+ "last_roster_dispersal": {
+  "roster": "2019-2020 (reconstructed final year; 2018-19 last observed)",
+  "residents": [
+   {
+    "name": "Parthasarathi Chamiraju",
+    "pgy_2018_19": 7,
+    "went_to": "graduated (alumni page)"
+   },
+   {
+    "name": "Gary Rajah",
+    "pgy_2018_19": 7,
+    "went_to": "graduated June 2019 (PGY-terminal roster; Buffalo endovascular fellowship affiliation from Jun 2019)"
+   },
+   {
+    "name": "R. Justin Garling",
+    "pgy_2018_19": 5,
+    "went_to": "UNKNOWN: PGY-6 at DMC 2019-20 (DMC affiliation Sep 2020 paper); later John Peter Smith Hospital/TCU Fort Worth and Pacific Neuroscience Institute 2024-25"
+   },
+   {
+    "name": "Blake Walker",
+    "pgy_2018_19": 5,
+    "went_to": "Carilion Clinic-VTC (program 8) PGY-7 2020-21, graduated 2021 (closure transfer)"
+   },
+   {
+    "name": "Bryan Lieber",
+    "pgy_2018_19": 4,
+    "went_to": "Tulane (program 66) from Jul 2020 (PGY-5 by Tulane numbering 2020-21), graduated 2023 (closure transfer)"
+   },
+   {
+    "name": "Joshua Loya",
+    "pgy_2018_19": 4,
+    "went_to": "UC San Diego (program 75) PGY-6 2020-21"
+   },
+   {
+    "name": "Seong-Jin Moon",
+    "pgy_2018_19": 4,
+    "went_to": "OHSU (program 52) PGY-6 2020-21"
+   },
+   {
+    "name": "Catherine (Kate) Peterson",
+    "pgy_2018_19": 3,
+    "went_to": "UC Davis (program 77) PGY-5 2020-21"
+   },
+   {
+    "name": "Manan Shah",
+    "pgy_2018_19": 3,
+    "went_to": "Rutgers NJMS (program 57) PGY-5 2020-21"
+   },
+   {
+    "name": "Dylan Goodrich",
+    "pgy_2018_19": 2,
+    "went_to": "UC Davis (program 77) PGY-4 2020-21"
+   },
+   {
+    "name": "Neil Klinger",
+    "pgy_2018_19": 2,
+    "went_to": "Mass General Brigham/BWH (program 37) PGY-4 2020-21"
+   },
+   {
+    "name": "Shiwei Huang",
+    "pgy_2018_19": 1,
+    "went_to": "Minnesota (program 92) mid-2019-20 as PGY-2 (closure transfer)"
+   },
+   {
+    "name": "Ari Kappel",
+    "pgy_2018_19": 1,
+    "went_to": "Mass General Brigham/BWH (program 37) PGY-3 2020-21"
+   },
+   {
+    "name": "Amber Gaulden",
+    "pgy_2018_19": null,
+    "went_to": "2019 PGY-1 (never on WSU page); Cincinnati (program 79) March 2020, PGY-2 2020-21"
+   },
+   {
+    "name": "Hael Abdulrazeq",
+    "pgy_2018_19": null,
+    "went_to": "probable 2019 PGY-1 (never listed); Brown (program 54) PGY-2 2020-21 (closure transfer)"
+   }
+  ]
+ },
+ "departures": [
+  {
+   "name": "Elizabeth Klein",
+   "last_ay": "2015-2016",
+   "last_pgy": 5,
+   "end_year": 2016,
+   "type": "voluntary attrition, destination unknown"
+  },
+  {
+   "name": "Erick Garcia Gorbea",
+   "last_ay": "2016-2017",
+   "last_pgy": 4,
+   "end_year": 2017,
+   "type": "transfer -> UT Health San Antonio (108), from ~Nov 2017"
+  },
+  {
+   "name": "Farzana Tariq",
+   "last_ay": "2017-2018",
+   "last_pgy": 4,
+   "end_year": 2018,
+   "type": "transfer (with 2018-23 gap) -> Missouri (94) PGY-5 2023-24"
+  },
+  {
+   "name": "Shiwei Huang",
+   "last_ay": "2019-2020",
+   "last_pgy": 2,
+   "end_year": 2020,
+   "type": "closure transfer (mid-year) -> Minnesota (92)"
+  },
+  {
+   "name": "Amber Gaulden",
+   "last_ay": "2019-2020",
+   "last_pgy": 1,
+   "end_year": 2020,
+   "type": "closure transfer (Mar 2020) -> Cincinnati (79)"
+  },
+  {
+   "name": "Hael Abdulrazeq",
+   "last_ay": "2019-2020",
+   "last_pgy": 1,
+   "end_year": 2020,
+   "type": "closure transfer (probable) -> Brown (54) PGY-2"
+  },
+  {
+   "name": "Blake Walker",
+   "last_ay": "2019-2020",
+   "last_pgy": 6,
+   "end_year": 2020,
+   "type": "closure transfer -> Carilion (8) PGY-7"
+  },
+  {
+   "name": "Bryan Lieber",
+   "last_ay": "2019-2020",
+   "last_pgy": 5,
+   "end_year": 2020,
+   "type": "closure transfer -> Tulane (66)"
+  },
+  {
+   "name": "Joshua Loya",
+   "last_ay": "2019-2020",
+   "last_pgy": 5,
+   "end_year": 2020,
+   "type": "closure transfer -> UCSD (75) PGY-6"
+  },
+  {
+   "name": "Seong-Jin Moon",
+   "last_ay": "2019-2020",
+   "last_pgy": 5,
+   "end_year": 2020,
+   "type": "closure transfer -> OHSU (52) PGY-6"
+  },
+  {
+   "name": "Catherine Peterson",
+   "last_ay": "2019-2020",
+   "last_pgy": 4,
+   "end_year": 2020,
+   "type": "closure transfer -> UC Davis (77) PGY-5"
+  },
+  {
+   "name": "Manan Shah",
+   "last_ay": "2019-2020",
+   "last_pgy": 4,
+   "end_year": 2020,
+   "type": "closure transfer -> Rutgers NJMS (57) PGY-5"
+  },
+  {
+   "name": "Dylan Goodrich",
+   "last_ay": "2019-2020",
+   "last_pgy": 3,
+   "end_year": 2020,
+   "type": "closure transfer -> UC Davis (77) PGY-4"
+  },
+  {
+   "name": "Neil Klinger",
+   "last_ay": "2019-2020",
+   "last_pgy": 3,
+   "end_year": 2020,
+   "type": "closure transfer -> BWH/MGB (37) PGY-4"
+  },
+  {
+   "name": "Ari Kappel",
+   "last_ay": "2019-2020",
+   "last_pgy": 2,
+   "end_year": 2020,
+   "type": "closure transfer -> BWH/MGB (37) PGY-3"
+  },
+  {
+   "name": "R. Justin Garling",
+   "last_ay": "2019-2020",
+   "last_pgy": 6,
+   "end_year": 2020,
+   "type": "unknown (closure; possibly finished at DMC 2021)"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Erick Garcia Gorbea",
+   "first_ay": "2015-2016",
+   "first_pgy": 3,
+   "note": "from UTMB (109) PGY-1/2 2013-15"
+  },
+  {
+   "name": "Bryan Lieber",
+   "first_ay": "2016-2017",
+   "first_pgy": 2,
+   "note": "2015-16 roster lacks him"
+  },
+  {
+   "name": "Clay Elswick",
+   "first_ay": "2016-2017",
+   "first_pgy": 6,
+   "note": "from UAMS (73) after 2015-16"
+  },
+  {
+   "name": "Marc Moisi",
+   "first_ay": "2016-2017",
+   "first_pgy": 6,
+   "note": "Houston Methodist resident to ~2011/12 -> UTMB research -> Swedish fellowships -> WSU PGY-6 2016-17; graduated 2017"
+  },
+  {
+   "name": "Joshua Loya",
+   "first_ay": "2017-2018",
+   "first_pgy": 3,
+   "note": "from Buffalo (program 69, PGY-1/2 2015-17)"
+  },
+  {
+   "name": "Mohamad Khaled",
+   "first_ay": "2014-2015",
+   "first_pgy": 7,
+   "note": "first seen after 2013-14 gap; UVA roster 2011-13 - transfer in during 2013-15 (not strictly classifiable)"
+  },
+  {
+   "name": "Arianne Boylan",
+   "first_ay": "2014-2015",
+   "first_pgy": 5,
+   "note": "transfer in from Colorado (80) ~2013-14 (Colorado PGY-4 2012-13); graduated 2017"
+  },
+  {
+   "name": "Parthasarathi Chamiraju",
+   "first_ay": "2014-2015",
+   "first_pgy": 3,
+   "note": "first seen after gap; absent from 2012-13 roster as PGY-1"
+  }
+ ],
+ "residents_2011plus": 20,
+ "adjudication_summary": {
+  "adjudicator_output": {
+   "IN TRAINING": 13,
+   "COMPLETED": 12,
+   "LEFT -> did not complete": 1,
+   "LEFT -> TRANSFERRED": 2
+  },
+  "note": "The adjudicator still treats the final (reconstructed 2019-20) roster as current; the 13 'in training' are resolved in training_history: 12 closure transfers (transferred rows, end_year 2020) + Garling unknown. Needs the closed-program rule noted in PHASE2_NOTES.",
+  "outcomes_by_training_history": {
+   "completed_at_WSU_2012_2019": 12,
+   "closure_transfers_2020": 12,
+   "pre_closure_transfers": 2,
+   "left_unknown": 1,
+   "closure_unknown": 1
+  }
+ },
+ "problems": "Year labels on residents.php are unreliable in 2012-13 (not advanced for Hong, Nyame) and alumni years for Chamiraju/Elswick look swapped. 2019-20 roster never archived; 2019 and possibly 2018/2013 intern classes incomplete on pages. Closure date not confirmed from ACGME. Common Crawl CC-MAIN-2019-39 and 2021-04 failed in the main pass but succeeded on retry (no roster URLs). Phase 2: adjudicator has no closed-program rule, so it still reports 13 'in training'.",
+ "residents_2011plus_note": "18 listed entrants 2011-2018 + 2019 interns Gaulden (confirmed) and Abdulrazeq (probable), never listed",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7
+ },
+ "years": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "bracketed by 2010-11 and 2012-13 rosters, alumni years and the Nov-2011 new-resident news item; nobody unexplained on either side"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "page not updated during the year (labels not advanced); Chamiraju (entry 2012, PGY-7 2018-19) not listed as an intern"
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "no capture; Khaled, Boylan (from Colorado) and Chamiraju first seen 2014-15, and the 2013 intern class never appears (no Year 2 in 2014-15): an entrant who left in 2013-14 would be invisible"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster (Feb 2019; Jun-2019 CC capture agrees)"
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "never archived, but every 2018-19 non-graduate resurfaces elsewhere at the PGY implying a 2019-20 year at WSU; 2019 interns Gaulden (confirmed) and Abdulrazeq (probable) recovered from UC news, NPPES and PubMed; a third unlisted 2019 intern cannot be excluded"
+  },
+  "2020-2021": {
+   "status": "not_applicable",
+   "significance": "low",
+   "reason": "program closed (accreditation lost); only Garling (would be PGY-7) is unaccounted for, possibly a teach-out at DMC"
+  },
+  "2021-2022+": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "program closed"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Wayback CDX neurosurgery.med.wayne.edu 2019-06..2021-06 (264 URLs; 2019 profile captures are all faculty)",
+   "Wayback CDX med.wayne.edu/news, today.wayne.edu/medicine/news, dmc.org health-professionals / GME pages 2019-21",
+   "DMC GME pages (gme-at-dmc, directors-coordinators, current-residents, wsu) all captures 2020-25",
+   "Wayback CDX for ACGME public program Detail/Search and FREIDA program pages (nothing for this program)",
+   "UC news 2020-06-10 (Wayback)",
+   "PubMed affiliation mining 2018-2022 (547 PMIDs, WSU/DMC neurosurgery)",
+   "PubMed/OpenAlex/NPPES for Garling, Walker, Rajah, Klein, Tariq, Gaulden, Abdulrazeq",
+   "other programs' training_history and roster_observations (8, 37, 52, 54, 57, 66, 69, 73, 75, 77, 79, 80, 92, 94, 108, 109)"
+  ],
+  "found": [
+   "closure = loss of ACGME accreditation, known by ~Nov 2019-Feb 2020; last AY 2019-20",
+   "2019-20 reconstructed from destination rosters + 2019 interns Gaulden and Abdulrazeq",
+   "Walker PGY-6 2019-20 -> Carilion PGY-7; Huang mid-year departure",
+   "Rajah graduated 2019 (Buffalo fellowship)",
+   "Garling at DMC through 2019-20 at least; JPS Fort Worth 2024"
+  ],
+  "remaining": [
+   "2013-14 unarchived: 2013 intern class and the timing of Khaled/Boylan/Chamiraju arrivals",
+   "exact ACGME withdrawal date",
+   "Garling outcome",
+   "Klein destination",
+   "Tariq 2018-23 whereabouts",
+   "alumni-page years for Chamiraju (2018) / Elswick (2019) conflict with rosters (probably swapped: Elswick 2018, Chamiraju 2019)"
+  ]
+ }
+}

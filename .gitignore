@@ -1,0 +1,14 @@
+# Credentials must never be committed (they live in ~/.config/nsx-attrition/ anyway)
+.env
+.secrets/
+*.env
+# Large/regenerable artifacts
+data/raw/
+__pycache__/
+*.pyc
+db/nppes.db
+*.db-wal
+*.db-shm
+.DS_Store
+~$*
+.claude/

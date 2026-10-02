@@ -1,0 +1,1063 @@
+[
+ {
+  "key": "99:hur:tullos",
+  "name": "Hurtis Tullos",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: OU neurological surgery residency 2015-2022, MD Univ. of Mississippi 2014; OU alumni page lists Hurtis J. Tullos 2021",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed OU neurosurgery (alumni page: graduated 2021, then spine fellowship Cedars-Sinai; Doximity end year 2022 includes fellowship).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (spine), Cedars-Sinai Medical Center, West Hollywood/Los Angeles CA; earlier INTEGRIS Baptist, Oklahoma City",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/hurtis-tullos-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 University of Oklahoma Health Sciences Center"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2021 Hurtis J. Tullos, M.D. Fellowship, Spine, Cedars-Sinai"
+   },
+   {
+    "url": "https://integrishealth.org/resources/news/2022/september/integris-health-medical-group-welcomes-new-neurosurgeon",
+    "type": "news",
+    "evidence": "INTEGRIS welcomes Hurtis Tullos, neurosurgeon"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "99:zoy:voronovich",
+  "name": "Zoya Voronovich",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Healthgrades snippet and OU alumni page: MD Pittsburgh 2014, UNM residency 2014-2019 then OU chief 2019-2021",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2019
+   },
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery at OU (alumni page graduated 2021, then neuroendovascular fellowship Univ. of Utah). Snippet gives UNM 2014-2019 then OU chief 2019-2021, i.e. OU entry possibly 2019 vs DB's PGY7 2020-21 transfer-in; UNM accreditation withdrawal not verified here.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, CHI Health Creighton/Bergan Mercy, Omaha NE (neuroendovascular)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-zoya-voronovich-xylncdb",
+    "type": "search_snippet",
+    "evidence": "completed a Chief Residency in Neurological Surgery at University of Oklahoma Health Sciences Center from 2019-2021, and completed her residency in Neurological Surgery at University of New Mexico from 2014-2019"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2021 Zoya A. Voronovich, M.D. Fellowship, Neuroendovascular, University of Utah"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:lac:carter",
+  "name": "Lacey Carter",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: OU neurological surgery residency, MD East Carolina 2015; ABNS; OU alumni page 2022",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed OU neurosurgery (alumni 2022), then Duke pediatric neurosurgery fellowship.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Division chief, pediatric neurosurgery, Prisma Health Children's Hospital Upstate, Greenville SC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/lacey-carter-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 OU; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2022 Lacey M. Carter, M.D Prisma Health Children's Hospital Upstate, South Carolina"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:ali:palejwala",
+  "name": "Ali Palejwala",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and search snippet: OU neurological surgery residency 2016-2023, MD Baylor 2016; OU alumni page 2023",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed OU (alumni 2023), then skull base fellowship at Stanford.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Skull base fellow / neurosurgeon, Stanford Health Care, CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ali-palejwala-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 University of Oklahoma Health Sciences Center"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2023 Ali H. Palejwala, M.D Fellowship, Skull Base, Stanford University"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:gri:ernst",
+  "name": "Griffin Ernst",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: OU residency 2017-2024, MD Univ. of New Mexico 2017; OU alumni 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed OU 2024, endovascular fellowship Rush.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Endovascular neurosurgeon, Presbyterian, Albuquerque NM",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/griffin-ernst-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 OU; will complete residency 2024, Endovascular fellowship Rush"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2024 Griffin L. Ernst, M.D. Fellowship, Endovascular Rush University Medical Center"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:pan:pelargos",
+  "name": "Panayiotis Pelargos",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: OU residency 2017-2024, MD UC Irvine 2017; OU alumni 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed OU 2024; neuro-oncology/skull base fellowship WashU.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Mercy Clinic Neurosurgery, Oklahoma City",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/panayiotis-pelargos-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 OU"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2024 Panayiotis E. Pelargos, M.D. Fellowship, Neuro-oncology and skull base, Washington University"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:hel:shi",
+  "name": "Helen Shi",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: OU residency 2018-2025, MD Case Western 2018; OU page for Helen H. Shi",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "OU residency 2018-2025 per Doximity; current practice location Portland OR (OHSU address, likely fellowship). Not on current OU roster.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery, OHSU Portland OR (address on Doximity)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/helen-shi-md-d96bb167",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025 University of Oklahoma Health Sciences Center; OR State Medical License 2025"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents/details/helen-h-shi-md",
+    "type": "program_page",
+    "evidence": "OU resident profile for Helen H. Shi"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:lan:villeneuve",
+  "name": "Lance Villeneuve",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: OU residency 2018-2025, MD Univ. of Nebraska 2018; OU resident page",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "OU residency ended 2025 per Doximity; now neurosurgeon Overland Park KS (HCA Midwest listing).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, HCA Midwest Health, Overland Park KS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/lance-villeneuve-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025 OU; Neurosurgery Overland Park, KS"
+   },
+   {
+    "url": "https://www.hcamidwest.com/physicians/profile/Lance-Villeneuve-MD",
+    "type": "bio",
+    "evidence": "Lance Villeneuve, MD, Neurosurgery, HCA Midwest Health (search result title)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "99:gra:mulvaney",
+  "name": "Graham Mulvaney",
+  "program_id": 99,
+  "identity": "probable",
+  "identity_basis": "Doximity: Resident Physician, MD UNC 2018, OK license 2024, neurosurgery Oklahoma City; OU resident page and publications with OU residents",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transfer-in from Carolinas (NC license 2021) consistent; PGY7 2025-26 then absent from current OU roster (PGY1-7 listed 2026-27). No explicit completion statement found; completion inferred.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Not stated (Doximity still shows Resident Physician, Oklahoma City)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/graham-mulvaney-md",
+    "type": "doximity",
+    "evidence": "Resident Physician; UNC School of Medicine Class of 2018; OK State Medical License 2024 - 2027"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current roster PGY-1..PGY-7 does not include Mulvaney"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:mar:stephens",
+  "name": "Mark Stephens",
+  "program_id": 99,
+  "identity": "probable",
+  "identity_basis": "OU resident page for Mark E. Stephens, M.D. and CareDash Mark Stephens Jr resident Oklahoma City; MD Texas Tech 2019 per search summary; namesake risk",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "PGY7 in 2025-26, absent from current 2026-27 roster; no Doximity or alumni listing yet; completion inferred only.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Not stated",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents/details/mark-e-stephens-md",
+    "type": "program_page",
+    "evidence": "Mark E. Stephens, M.D. - OU College of Medicine (neurosurgery resident details page)"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current roster does not include Stephens"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "99:kyl:zhao",
+  "name": "Kyle Zhao",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "OU resident page 'Xiaochun \"Kyle\" Zhao, M.D.'; current roster PGY-7",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents/details/kyle-zhao-md",
+    "type": "program_page",
+    "evidence": "Xiaochun \"Kyle\" Zhao, M.D. neurosurgery resident"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "99:nic:hopkins",
+  "name": "Nicholas Hopkins",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "OU resident page Nicholas J. Hopkins, M.D.; current roster PGY-7",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents/details/nicholas-j-hopkins-md",
+    "type": "program_page",
+    "evidence": "Nicholas J. Hopkins, M.D. neurosurgery resident (St. Olaf undergrad)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "99:she:tavakol",
+  "name": "Sherwin Tavakol",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity OU residency 2021-2028, MD USC Keck 2021; AANS bio 4th-year OU resident",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sherwin-tavakol-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 - 2028 OU; Keck School of Medicine Class of 2021"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:bur:ozaydin",
+  "name": "Burak Ozaydin",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "OU resident page Burak Ozaydin, M.D.; roster PGY-5; PubMed/ResearchGate OU neurosurgery resident",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents/details/burak-ozaydin-md",
+    "type": "program_page",
+    "evidence": "Burak Ozaydin, M.D. neurosurgery resident"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "99:gia:mignucci-jimenez",
+  "name": "Giancarlo Mignucci-Jimenez",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: OU residency 2023-2029, MD Universidad Central del Caribe 2020, Barrow research fellow; OU roster PGY-5",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "On current OU roster (PGY-5 2026-27); Doximity residency start 2023 (after Barrow research fellowship), input entry 2022 differs by a year (joined at PGY2 in 2023-24 per DB note); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/giancarlo-mignucci-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2029 OU; Barrow Fellowship 2021"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:abd:kharbat",
+  "name": "Abdurrahman Kharbat",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "OU resident page Abdurrahman Kharbat, M.D., MBA; roster PGY-4; Texas Tech MD",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents/details/abdurrahman-kharbat",
+    "type": "program_page",
+    "evidence": "Abdurrahman Kharbat OU neurosurgery resident"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "99:abi:york",
+  "name": "Abigail York",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity OU residency 2023-2030, internship Missouri 2022-23, MD Missouri 2022; roster PGY-4",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/abigail-york-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030 OU"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:kia:prather",
+  "name": "Kiana Prather",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity OU residency 2024-2031, OU College of Medicine 2024; roster PGY-3",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kiana-prather-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031 OU"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:suf:ibrahim",
+  "name": "Sufyan Ibrahim",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "OU resident page Sufyan Ibrahim, MBBS; roster PGY-3; Kasturba MBBS, Mayo research fellow",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents/details/sufyan-ibrahim",
+    "type": "program_page",
+    "evidence": "Sufyan Ibrahim OU neurosurgery resident"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "99:ben:petersen",
+  "name": "Benjamin Petersen",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "OU resident page Benjamin Petersen, MD; roster PGY-2; OU Match Day 2025 post",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents/details/benjamin-petersen",
+    "type": "program_page",
+    "evidence": "Benjamin Petersen - OU College of Medicine neurosurgery resident"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "99:sye:batool",
+  "name": "Syeda Batool",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "Doximity OU residency 2025-2032 for Syeda Maheen Batool, roster PGY-2. Name is shared with an MGH researcher (Syeda Maheen Batool, MGH Instructor); those web hits appear to be a different/earlier-career profile and were not used",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/syeda-batool-md-d788905f",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2025 - 2032 University of Oklahoma Health Sciences Center"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "99:kis:balasubramanian",
+  "name": "Kishore Balasubramanian",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "OU roster PGY-1 2026-27; earlier dedicated research year at OU neurosurgery (AANS 2025 bio, Texas A&M MD)",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://aans2025.eventscribe.net/ajaxcalls/posterPresenterInfo.asp?PresenterID=1789036",
+    "type": "search_snippet",
+    "evidence": "4th-year medical student at Texas A&M ... research year at Oklahoma University Health Science Center's Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "99:sha:bialek",
+  "name": "Shannan Bialek",
+  "program_id": 99,
+  "identity": "confirmed",
+  "identity_basis": "OU roster PGY-1 2026-27; Doximity profile Oklahoma City (no training section) with OU neurosurgery coauthors",
+  "residency_stated": [
+   {
+    "institution": "University of Oklahoma Health Sciences Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on current OU neurosurgery roster (2026-27) at the expected PGY level.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, OU Health Sciences Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+    "type": "program_page",
+    "evidence": "Current OU neurosurgery roster lists this resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/shannan-bialek-md",
+    "type": "doximity",
+    "evidence": "Dr. Shannan Bialek, MD - Oklahoma City, OK, Other MD/DO; co-authors OU neurosurgery residents (York, Prather, Shi)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "100:dmi:petrov",
+  "name": "Dmitriy Petrov",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Penn Health System neurological surgery residency 2011-2018, MD Rutgers RWJ 2011; ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Penn neurosurgery 2018; Penn faculty, now director of neurosurgery spine at LIJ Medical Center (Northwell).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Director of Neurosurgery Spine, Long Island Jewish Medical Center (Northwell), NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dmitriy-petrov-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 University of Pennsylvania Health System; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.northwell.edu/find-care/find-a-doctor/dr-dmitriy-petrov-md-1265726079",
+    "type": "bio",
+    "evidence": "Dmitriy Petrov, MD - Neurosurgery (Northwell)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:jam:stephen",
+  "name": "James Stephen",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Brigham directory: Penn neurological surgery residency 2011-2018, MD Penn Perelman 2011; ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Penn neurosurgery 2018, pediatric spinal deformity fellowship (Shriners Philadelphia).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Brigham and Women's / South Shore Hospital, MA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/james-stephen-md-b31e09f2",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 University of Pennsylvania Health System; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://physiciandirectory.brighamandwomens.org/details/15952/james-stephen-neurosurgery-boston",
+    "type": "bio",
+    "evidence": "completed Neurosurgical Residency at the University of Pennsylvania (search summary)"
+   }
+  ],
+  "searches_used": 1
+ }
+]

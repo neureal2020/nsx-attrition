@@ -1,0 +1,315 @@
+[
+ {
+  "key": "86:kev:chatley",
+  "name": "Kevin Chatley",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Completion NOT established. KU current residents page (2025-26, checked 2026-09-29) lists PGY-7 Dharia/Guillotte (2019 entrants) down to PGY-1; Chatley absent. KU past-residents page stops at 2022 and KU neurosurgery news has no 2023/2024 graduation post, so no dated completion source. PubMed: last papers with KU Neurosurgery affiliation are 2022-2023 (nothing later); ORCID 0000-0002-0048-9761 has no employment/education entries. NPPES NPI 1871021477 never updated since 2017 enumeration (taxonomy neurosurgery, KS license 'pending', KUMC address). No fellowship, faculty, practice or other-program page found anywhere; directory listings (WebMD/Healthgrades/Vitals) only echo the KUMC address. Departure circumstances deliberately not recorded.",
+  "sources": [
+   "https://www.kumc.edu/school-of-medicine/academics/departments/neurosurgery/academics/residency-program/current-residents.html",
+   "https://www.kumc.edu/school-of-medicine/academics/departments/neurosurgery/academics/residency-program/past-residents.html",
+   "https://www.kumc.edu/school-of-medicine/academics/departments/neurosurgery/academics/news.html",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1871021477",
+   "https://pubmed.ncbi.nlm.nih.gov/36681323/"
+  ],
+  "queries_tried": [
+   "\"Kevin Chatley\" MD neurosurgery",
+   "\"Kevin Chatley\" resident",
+   "\"Kevin Chatley\" neurosurgery University of Kansas fellowship OR faculty OR resident",
+   "Chatley neurosurgery spine fellowship 2024 OR 2025",
+   "\"Kevin Chatley\" neurosurgeon",
+   "\"Chatley\" KU neurosurgery graduation 2024 chief residents",
+   "[fetch] KU neurosurgery news index",
+   "[fetch] spinesection.org member Kevin Chatley",
+   "\"Kevin Chatley\" MD (repeat, to re-scan)",
+   "\"Dr. Chatley\" neurosurgery joins OR welcomes 2024 OR 2025",
+   "[ORCID API] 0000-0002-0048-9761 activities",
+   "[fetch] KU past-residents page",
+   "Chatley neurosurgery Texas Tech El Paso OR Kansas spine surgeon 2026",
+   "Chatley site:kumc.edu",
+   "[PubMed] Chatley K[au] sorted by date",
+   "\"Kevin Chatley\" residency",
+   "KU neurosurgery class of 2024 / 2024 graduates / graduation 2024 2025",
+   "[fetch] KU current residents page 2025-26",
+   "\"Chatley\" neurosurgery fellow OR fellowship OR assistant professor OR joins 2024-2026 -Kansas",
+   "[NPPES API] NPI 1871021477",
+   "\"Kevin S. Chatley\" OR \"Kevin Scott Chatley\"",
+   "Kevin Chatley linkedin OR instagram OR twitter neurosurgery",
+   "[Wayback CDX] KU current-residents page (archive offline)"
+  ]
+ },
+ {
+  "key": "87:sar:thomas",
+  "name": "Sarah Thomas",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Re-checked UK current-trainees page 2026-09-29: PGY1-7 lists (PGY-5 has only Boulnemour; PGY-4 Al-Sharshahi, Caldwell) omit her; no research-resident section. UK profile page now 403. Last dated career trace: PubMed 40294520 (2025) with UK Neurosurgery/KNI affiliation (Sarah H. Thomas). Not found on UK psychiatry, neurology, IM, anesthesiology, radiology, PM&R, surgery, pathology, EM or FM resident pages; not on 2025 UK COM (Lexington) match list; no other-program, match or current bio found. Directories (Doximity/WebMD) still say UK neurosurgery 2022-2029 (stale).",
+  "sources": [
+   "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+   "https://pubmed.ncbi.nlm.nih.gov/40294520/",
+   "https://www.lexingtondoctors.org/wp-content/uploads/2025/03/Match-list-2025.pdf"
+  ],
+  "queries_tried": [
+   "\"Sarah Thomas\" MD neurosurgery resident University of Kentucky",
+   "\"Sarah Thomas\" University of Kentucky neurosurgery PGY-4 OR research 2025 OR 2026",
+   "[fetch] UK profile shth223 (403)",
+   "\"Sarah Thomas\" neurosurgery Kentucky resident",
+   "[PubMed] Thomas SH[au] AND (neurosurg* OR kentucky)",
+   "\"Sarah Thomas\" MD Lexington resident 2025 OR 2026",
+   "\"Sarah H. Thomas\" MD OR \"Sarah Thomas, MD\" residency UK neurology/radiology/anesthesiology/surgery",
+   "[fetch] UK neurosurgery current-trainees",
+   "\"Sarah Thomas\" 2025 match OR PGY-1 OR intern psychiatry/neurology/PM&R/pathology KY/Louisville/Cincinnati",
+   "[fetch] Lexington (UK COM) match lists 2024/2025/2026 grep Thomas",
+   "\"Sarah Helen Thomas\" MD",
+   "\"Sarah Thomas\" resident physician \"University of Kentucky\" 2026 -neurosurgery",
+   "[fetch/grep] UK psychiatry, IM, neurology, anesthesiology, radiology, PM&R, surgery, pathology, EM, FM resident pages",
+   "\"Sarah Thomas\" neurosurgery instagram OR twitter UKY"
+  ]
+ },
+ {
+  "key": "88:hyu:lee",
+  "name": "Hyunchul Lee",
+  "outcome": "transferred",
+  "destination": "Neurosurgery registrar, Nepean Hospital, Penrith NSW, Australia",
+  "year_started_destination": 2025,
+  "evidence": "Identity chain: University of Sydney MBBS/PhD (matches WebMD 'Univ of Sydney 2013 grad', UofL profile 'Hyunchul Lee, MBBS, PhD'). ORCID 0000-0002-1427-6521 (self-maintained, current): University of Louisville Neurosurgery Resident 2018-07 to 2021-06; Nepean Hospital Neurosurgery Registrar 2025-07 to present (earlier John Hunter Hospital neurosurgery registrar 2016-17). Dated confirmation: BMJ Neurology Open article e-published 2026-05-12 (PMID 42158588) lists Hyunchul Lee, Department of Neurosurgery, Nepean Hospital, Penrith. Last UofL neurosurgery affiliation in PubMed 2024 (PMID 38946776). Registrar is the Australian training/service grade; whether it is an accredited RACS SET post is not stated.",
+  "sources": [
+   "https://orcid.org/0000-0002-1427-6521",
+   "https://pubmed.ncbi.nlm.nih.gov/42158588/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13182355/",
+   "https://pubmed.ncbi.nlm.nih.gov/38946776/"
+  ],
+  "queries_tried": [
+   "\"Hyunchul Lee\" MD neurosurgery Louisville",
+   "\"Hyunchul Lee\" neurosurgery resident research fellow University of Louisville 2025",
+   "[PubMed] Lee Hyunchul[au] with affiliations by date",
+   "\"Hyunchul Lee\" MD neurosurgery",
+   "[PubMed efetch] PMID 42158588 author affiliations",
+   "\"Hyunchul Lee\" Nepean Hospital OR Westmead OR Royal North Shore OR Sydney neurosurgery registrar",
+   "[ORCID search] given-names Hyunchul family-name Lee",
+   "[ORCID API] 0000-0002-1427-6521 employments/educations",
+   "\"Hyunchul Lee\" resident Louisville",
+   "\"Hyunchul Lee\" OR \"Hyun Chul Lee\" neurosurgery Nepean Penrith 2025 2026"
+  ]
+ },
+ {
+  "key": "88:enz:viacava",
+  "name": "Enzo Fortuny Viacava",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "UofL current roster (checked 2026-09-29: PGY-7 Dietz; PGY-6 Danehower, English; PGY-5 Fageiry, Ostrov; PGY-4 Walek; ...) omits him; no research-resident section. His UofL profile URL now redirects to the department landing page. Latest dated trace: Science Advances 2025 paper (PMID 40577465) with affiliation UofL Department of Neurosurgery (research role not specified); Google Scholar shows 'Unknown affiliation', verified uoflhealth.org email; ResearchGate 'Research Scholar'. ORCID 0000-0001-9270-861X has no employment entries. No other-program page, match, or current bio found. Likely remained at UofL in a research capacity outside the residency, but no dated 2026 source.",
+  "sources": [
+   "https://medicine.louisville.edu/academics-programs/Neurological%20Surgery/Neurological%20Surgery%20-%20Academics%20&%20Programs/Neurological%20Surgery%20-%20Training%20Programs/Neurological%20Surgery%20-%20Residency%20Program/neurological-surgery-residency-meet-our-residents",
+   "https://pubmed.ncbi.nlm.nih.gov/40577465/",
+   "https://scholar.google.com/citations?user=J5IreHkAAAAJ&hl=en"
+  ],
+  "queries_tried": [
+   "\"Enzo Fortuny\" MD neurosurgery",
+   "\"Enzo Fortuny\" neurosurgery resident 2025 OR 2026",
+   "\"Fortuny\" Enzo neurosurgery Louisville fellow OR resident OR PGY",
+   "[ORCID search] Enzo Fortuny",
+   "[PubMed] Fortuny E[au] affiliations by date",
+   "\"Enzo Fortuny Viacava\" OR \"Enzo M. Fortuny\"",
+   "[ORCID API] 0000-0001-9270-861X",
+   "[fetch] UofL profile enzo-fortuny-viacava (redirects to dept)",
+   "[fetch] Google Scholar J5IreHkAAAAJ",
+   "\"Fortuny\" Enzo MD resident OR residency 2025 OR 2026 neurology/pathology/IM/ophthalmology",
+   "Fortuny site:louisville.edu",
+   "\"Enzo Fortuny\" neurosurgery",
+   "[fetch] UofL meet-our-residents 2025-26",
+   "\"Fortuny Viacava\" 2026 OR \"Fortuny, Enzo\" match OR fellowship OR residency"
+  ]
+ },
+ {
+  "key": "89:ada:hunt",
+  "name": "Adam Hunt",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Identity lead: Sidney Kimmel Medical College (Jefferson) Class of 2025 match list shows one Neurological Surgery match to University of Maryland Medical Center, and an Adam Hunt co-authored 2023-2025 Jefferson Neurological Surgery (Jabbour/Tjoumakaris) papers (e.g., PMID 38224235; last 41569898, Dec 2025, no affiliation given) - consistent with Hunt being that SKMC 2025 graduate (not proven; match list has no names). UMMC roster (Wayback 2025-10-07) had Hunt + Jose Torres as PGY-1; live 2026-27 roster (checked 2026-09-29) PGY-2 = Boddeti, Torres, Hunt gone. Not on Jefferson neurosurgery or general-surgery resident pages, Miami (only Adam Levy); no other-program page, announcement or current bio found.",
+  "sources": [
+   "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/residents",
+   "https://www.jefferson.edu/content/dam/academic/skmc/admissions/skmc-admissions-interview-day-match-list-0525.pdf",
+   "https://pubmed.ncbi.nlm.nih.gov/38224235/"
+  ],
+  "queries_tried": [
+   "\"Adam Hunt\" MD neurosurgery resident Maryland",
+   "\"Adam Hunt\" neurosurgery intern 2025 match",
+   "\"Adam Hunt\" MD medical school class of 2025 match neurosurgery",
+   "\"Adam Hunt\" MD",
+   "\"Adam Hunt\" residency 2025 neurosurgery OR surgery OR resident",
+   "[fetch] UMMC neurosurgery residents 2026-27",
+   "[fetch] Miami neurosurgery current residents (Adam Levy only)",
+   "\"Adam Hunt\" medical student 2025 match neurosurgery Maryland",
+   "2025 match list \"Hunt, Adam\" OR \"Adam Hunt\" University of Maryland neurological surgery",
+   "\"Adam Hunt\" neurosurgery research publication medical student 2024 OR 2023",
+   "[PubMed] Hunt A[au] neurosurgery/Jefferson/Maryland",
+   "Sidney Kimmel Medical College 2025 match list neurological surgery Hunt",
+   "[fetch] SKMC 2025 match list PDF",
+   "[PubMed] Hunt Adam[au] 2025:2026 + PMID 41569898 affiliations",
+   "\"Adam Hunt\" Jefferson OR Philadelphia resident physician 2026",
+   "\"Adam Hunt\" radiology OR neurology OR IR OR anesthesiology resident PGY",
+   "Jefferson neurosurgery residency current residents 2026",
+   "[grep] Jefferson neurosurgery + general surgery resident pages for Hunt"
+  ]
+ },
+ {
+  "key": "94:wes:chen",
+  "name": "Wesley Chen",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Missouri current neurosurgery page (re-grepped 2026-09-29) omits him; v1 confirmed alumni list 2022-2026 omits him. Last dated trace: 2024 PubMed papers (PMIDs 39107836, 38694614) with Univ. of Missouri Neurological Surgery affiliation. Doximity 'Wesley Chen, MD' (Georgetown 2018, NYU neurology 2023-2026, now Dallas/UTSW address) is NOT shown to be the same person (no Missouri link; not in NYU neurology residents/alumni PDF dated 2026-09; not on UTSW neurology resident page). No other-program page, announcement or current bio found.",
+  "sources": [
+   "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents",
+   "https://pubmed.ncbi.nlm.nih.gov/39107836/",
+   "https://med.nyu.edu/departments-institutes/neurology/sites/default/files/neurology-residents-and-recent-alumni.pdf"
+  ],
+  "queries_tried": [
+   "\"Wesley Chen\" MD neurosurgery Missouri resident",
+   "\"Wesley Chen\" neurosurgery Missouri chief resident OR fellowship OR graduated 2025",
+   "[PubMed] Chen W[au] AND Missouri neurosurgery",
+   "[ORCID search] Wesley Chen",
+   "\"Wesley Chen\" neurosurgery",
+   "[fetch] Doximity wesley-chen-md (lead: Georgetown 2018, NYU neuro 2023-26)",
+   "[fetch] Cureus user 262385 (403)",
+   "\"Wesley Chen\" University of Missouri neurosurgery resident medical school",
+   "\"Wesley Chen\" NYU neurology resident",
+   "[fetch] NYU neurology residents & alumni page + PDF (2026) grep Chen",
+   "[fetch] ResearchGate Wesley-Chen-9 (403)",
+   "[grep] UTSW neurology residents, Missouri neurosurgery current/alumni, Missouri neurology residents",
+   "Mizzou neurosurgery 2019 new residents Chen",
+   "\"Wesley Chen, MD\" 2025 OR 2026",
+   "[PubMed] Chen Wesley[au] all",
+   "\"Wesley Chen\" neurosurgeon OR spine Missouri 2026 practice OR fellowship"
+  ]
+ },
+ {
+  "key": "94:wor:george",
+  "name": "Woro George",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Missouri current page (re-checked 2026-09-29: PGY-1 Ahmad ... PGY-7 Khan; alumni 2022-2026) omits him. Identity: Univ. of Colorado MD 2024 (ORCID 0009-0007-4681-5562 education only, no employment; PubMed 2022-2024 CU Anschutz Neurosurgery research papers). WebMD note (directory, hint only) says provider has left MU Health Care; Doximity still Columbia MO with MO license 2024-2027. Not found on Missouri neurology/anesthesiology resident pages; no match list, other-program page or current bio found.",
+  "sources": [
+   "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents",
+   "https://orcid.org/0009-0007-4681-5562",
+   "https://pubmed.ncbi.nlm.nih.gov/37945762/"
+  ],
+  "queries_tried": [
+   "\"Woro George\" MD",
+   "\"Woro George\" neurosurgery OR anesthesiology OR resident 2026",
+   "\"Woro George\" Colorado medical school match 2024 neurosurgery Missouri",
+   "\"Woro George\"",
+   "[PubMed] George W[au] Colorado/Missouri",
+   "[ORCID search] Woro George",
+   "[ORCID API] 0009-0007-4681-5562",
+   "[PubMed] George Woro[au]",
+   "[fetch] Doximity woro-george-md",
+   "[fetch] Missouri neurosurgery current residents 2026-27",
+   "\"Woro George\" MD resident OR residency OR neurology OR surgery 2025 2026",
+   "\"George, Woro\" OR \"Woro A. George\" Colorado match 2024",
+   "\"Woro George\" instagram OR linkedin OR twitter",
+   "\"Woro\" resident neurosurgery OR neurology OR anesthesiology 2026 PGY",
+   "\"Woro George\" Missouri neurosurgery resident Columbia MU Health",
+   "[grep] Missouri neurology/anesthesiology/radiology, CU Anschutz neurosurgery/neurology resident pages"
+  ]
+ },
+ {
+  "key": "97:fra:westhout",
+  "name": "Franklin Westhout",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Training trail from PubMed affiliations: UC Irvine Neurological Surgery 2006-2008 (pre-dates UCI's ACGME residency, launched 2008; not on UCI residents/alumni page), Cedars-Sinai Neurosurgery (2012 paper; Doximity says Cedars surgery 2007-08), UNM Neurosurgery (2013-2014 papers; last PubMed item 2014). No neurosurgery completion found: not on UCI, Loma Linda or Cedars alumni pages; no ABNS/board or fellowship source. Career lead (registry, not proof of current status): NPPES organizational NPI 1801428800 'WESTHOUT MD INC', enumerated 2020-02-07, taxonomy Clinic/Center - Urgent Care, 940 N Western Ave, San Pedro CA; individual NPI 1659605475 (neurosurgery taxonomy, CA license A109577) last updated 2011. Directories label him 'neurosurgeon' in San Pedro/LA. Most likely left neurosurgery training in 2013 and practices outside neurosurgery (urgent-care clinic owner), but no current bio or dated announcement confirms it.",
+  "sources": [
+   "https://pubmed.ncbi.nlm.nih.gov/24818049/",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1801428800",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1659605475",
+   "https://www.doximity.com/pub/franklin-westhout-md"
+  ],
+  "queries_tried": [
+   "\"Franklin Westhout\" MD",
+   "Franklin Westhout neurosurgeon Los Angeles practice website",
+   "\"Westhout\" neurosurgery Cedars-Sinai residency 2013 OR fellowship",
+   "[PubMed] Westhout F[au] affiliations 2006-2014",
+   "[ORCID search] Franklin Westhout (none)",
+   "\"Westhout\" MD Los Angeles neurosurgeon OR brain and spine practice",
+   "\"Franklin D. Westhout\" OR \"Franklin Westhout, MD\" OR \"Dr. Westhout\"",
+   "[NPPES API] NPI 1659605475",
+   "Westhout \"A109577\" medical board california",
+   "\"Westhout\" Cedars-Sinai neurosurgery resident OR fellow 2010-2012",
+   "[grep] Loma Linda, Cedars-Sinai, UCI neurosurgery alumni pages",
+   "UNM neurosurgery residency alumni graduates list Westhout",
+   "\"Westhout\" neurosurgery Howard University 2006 residency UC Irvine",
+   "Westhout neurosurgery clinic San Pedro website training",
+   "[NPPES API] org NPI 1801428800 Westhout MD Inc",
+   "[fetch+Chrome] Zocdoc franklin-westhout-md (403 / permission denied)"
+  ]
+ },
+ {
+  "key": "97:sye:kazim",
+  "name": "Syed Faraz Kazim",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No dated program source found naming a Massachusetts program; only prior lead (MA board document). Not confirmed.",
+  "sources": [
+   "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency/resident_profiles/kazim.html"
+  ],
+  "queries_tried": [
+   "\"Faraz Kazim\" MD neurosurgery resident",
+   "Kazim neurosurgery resident Massachusetts 2026 welcome PGY",
+   "\"Syed Faraz Kazim\" 2026"
+  ]
+ },
+ {
+  "key": "99:ali:westrup",
+  "name": "Alison Westrup",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "OU residents page not readable via WebFetch (nav only). Directories say OU residency 2022-2029 (stale hint); OU directory page returned no person data. Roster unverified; not tried Chrome.",
+  "sources": [
+   "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents"
+  ],
+  "queries_tried": [
+   "\"Alison Westrup\" MD",
+   "OU Health neurosurgery residents Westrup PGY-4"
+  ]
+ },
+ {
+  "key": "107:yuj:shentu",
+  "name": "Yujia Shentu",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "UTHealth current page omits her (PGY3 Goutnik/Skibber/Dharnipragada; PGY4 Peesh/Scott). Google Scholar (directory-type) says Resident Physician at UTHouston, WebMD lists Houston; no dated program source for research year or other destination.",
+  "sources": [
+   "https://med.uth.edu/neurosurgery/education/residency/current-residents/",
+   "https://scholar.google.com/citations?user=bfo_ocQAAAAJ&hl=en"
+  ],
+  "queries_tried": [
+   "\"Yujia Shentu\" MD",
+   "\"Yujia Shentu\" neurosurgery UTHealth OR resident OR 2026",
+   "\"Yujia Shentu\" Dartmouth Geisel match 2023 neurosurgery"
+  ]
+ },
+ {
+  "key": "108:eri:garcia",
+  "name": "Erick Garcia",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "UTHSA neurosurgery site still has an Erick Garcia Gorbea profile page (undated, 2019-era), no completion/alumni evidence; not on new pages found.",
+  "sources": [
+   "https://lsom.uthscsa.edu/neurosurgery/erick-garcia-gorbea/"
+  ],
+  "queries_tried": [
+   "\"Erick Garcia\" neurosurgery UT Health San Antonio resident graduate"
+  ]
+ }
+]

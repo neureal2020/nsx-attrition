@@ -1,0 +1,1068 @@
+[
+ {
+  "key": "81:car:venero",
+  "name": "Carmelo Venero",
+  "program_id": 81,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and UConn resident page list Carmelo Venero Jr, UConn neurosurgery residency 2025-2032, MD Kentucky 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Connecticut School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY2 at UConn neurosurgery in 2026-27; Doximity lists residency 2025-2032",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY2), UConn, Farmington CT",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/carmelo-venero-jr-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2025 - 2032 (University of Connecticut School of Medicine)"
+   },
+   {
+    "url": "https://health.uconn.edu/graduate-medical-education/neurological-surgery-residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "Carmelo Venero, M.D. (PGY2)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "81:ali:rao",
+  "name": "Aliana Rao",
+  "program_id": 81,
+  "identity": "confirmed",
+  "identity_basis": "UConn current residents page lists Aliana Rao PGY1; Temple MD, matches research bio",
+  "residency_stated": [
+   {
+    "institution": "University of Connecticut School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY1 at UConn neurosurgery 2026-27 per program page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY1), UConn",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://health.uconn.edu/graduate-medical-education/neurological-surgery-residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "Aliana Rao, M.D. (PGY1)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:cor:hartman",
+  "name": "Cory Hartman",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UF residency 2011-2018, Medical College of Wisconsin 2011, ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2018",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Oklahoma City OK (previously Orlando Neurosurgery)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/cory-hartman-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 University of Florida; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2018: Cory Hartman (Orlando, Florida)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "82:jer:rokicki",
+  "name": "Jerzy Rokicki",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UF residency 2011-2018, Tulane MD 2011, ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2018",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Denver CO (Intermountain Saint Joseph)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jerzy-rokicki-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 University of Florida; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2018: Jerzy Rokicki (Denver, Colorado)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:bri:sindelar",
+  "name": "Brian Sindelar",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UF residency 2012-2018, UIC MD 2012, US Army; Duke bio",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery (Doximity 2012-2018; UF alumni page lists 2019 graduation, incl. research/skull base fellowship year)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Duke Neurosurgery of Raleigh NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brian-sindelar-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2018 University of Florida; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2019: Brian Sindelar (US Army)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:jus:hilliard",
+  "name": "Justin Hilliard",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "UF Health bio and Doximity: UF residency 2012-2018, UVA MD 2012, DBS fellowship at UF",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery (Doximity 2012-2018; UF alumni page lists 2019)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (functional), UF Health Gainesville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/justin-hilliard-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2018 University of Florida; ABNS"
+   },
+   {
+    "url": "https://ufhealth.org/doctors/justin-d-hilliard",
+    "type": "bio",
+    "evidence": "performed both general neurosurgical training and a stereotactic and functional fellowship at UF"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:orr:dayton",
+  "name": "Orrin Dayton",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/UF radiology: Orrin Louis Dayton IV, Wake Forest MD 2012 (bio 'began July 2012' neurosurgery at UF), now UF neuroradiologist",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "diagnostic radiology",
+    "start": 2016,
+    "end": 2020
+   },
+   {
+    "institution": "University of Florida",
+    "specialty": "neuroradiology fellowship",
+    "start": 2020,
+    "end": 2021
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UF neurosurgery after PGY-4 (2015-16), switched to diagnostic radiology at UF 2016-2020, neuroradiology fellowship 2020-21",
+  "year_left": 2016,
+  "destination_program": "University of Florida diagnostic radiology",
+  "destination_start_year": 2016,
+  "current": "neuroradiologist, Assistant Professor, University of Florida",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/orrin-dayton-md",
+    "type": "doximity",
+    "evidence": "Residency, Radiology-Diagnostic, 2016 - 2020 University of Florida; Fellowship, Neuroradiology 2020-2021; ABR"
+   },
+   {
+    "url": "https://xray.ufl.edu/about-us/faculty/",
+    "type": "program_page",
+    "evidence": "UF Radiology faculty listing (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:bri:corliss",
+  "name": "Brian Corliss",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (redirected to brian-md-a1f41159): UF residency 2013-2020, Tufts MD 2013, neuroendovascular fellowship UF; US Army",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (neuroendovascular), Army/civilian, Tacoma WA/San Antonio TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brian-corliss-md-a1f41159",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 University of Florida; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2020: Brian Corliss (US Army)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:mat:decker",
+  "name": "Matthew Decker",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and UF Health: UF residency 2013-2020, NY Medical College 2013, now UF faculty",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon / Assistant Professor, University of Florida",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/matthewdecker",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 University of Florida; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/2020/07/10/welcome-dr-decker/",
+    "type": "program_page",
+    "evidence": "Welcome Dr. Decker (UF faculty)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "82:tim:lockney",
+  "name": "Timothy Lockney",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Practice bio: UF neurosurgery residency (chief 2018-19), Vanderbilt MD 2013, UCSF spine fellowship; Doximity ABNS, name listed Dennis Timothy Lockney",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery (chief resident 2018-19 per practice bio; UF alumni page lists 2020)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Nashville Neurosurgery Associates",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dennis-timothy-lockney-md",
+    "type": "doximity",
+    "evidence": "Vanderbilt Class of 2013; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.nashvilleneurosurgery.com/our-team/d-timothy-lockney-md/",
+    "type": "bio",
+    "evidence": "neurosurgery residency at University of Florida (Chief Resident 2018-2019); fellowship UCSF (search snippet)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "82:ste:adamczak",
+  "name": "Stephanie Adamczak",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UF residency 2014-2021, Miami MD 2014, ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2022",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Lee Health, Fort Myers FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/stephanie-adamczak-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 University of Florida; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2022: Stephanie Adamczak (Lee Health, Fort Myers, FL)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:tim:connor",
+  "name": "Timothy O'Connor",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/practice bio: Timothy O'Connor, UF MD 2014 (UF College of Medicine), co-author with UF neurosurgery residents (Corliss, Hoh) 2017 abstract; chief year at Buffalo",
+  "residency_stated": [
+   {
+    "institution": "University at Buffalo",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2021
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred from UF neurosurgery (last seen 2016-17) to University at Buffalo neurosurgery, starting 2017, chief year there, complex spine fellowship 2019 (Doximity Buffalo 2017-2021)",
+  "year_left": 2017,
+  "destination_program": "University at Buffalo (Jacobs School) neurosurgery",
+  "destination_start_year": 2017,
+  "current": "neurosurgeon, Marcus Neuroscience Institute, Boca Raton FL",
+  "agrees_with_db": true,
+  "disagreement": "Agrees with recorded transfer to Buffalo. Doximity gives Buffalo start 2017; the name is not ambiguous here (UF MD 2014 plus UF co-authors). UF residency years not stated by the sources.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/timoconnormd",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2021 University at Buffalo; Class of 2014 University of Florida College of Medicine; ABNS"
+   },
+   {
+    "url": "https://www.timoconnormd.com/timothy-o-connor-neurosurgeon-boca-raton-boynton-beach-fl/",
+    "type": "bio",
+    "evidence": "completed a neurological surgery residency at the University at Buffalo, where he was chief resident (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:wil:carlton",
+  "name": "William Carlton",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "UF resident bio and Doximity: William R. Y. Carlton Jr, UF residency 2014-2021, Wake Forest MD 2014, US Army",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2021",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, US Army (Tripler AMC, HI)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/william-carlton-md-8d28b7a7",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 University of Florida; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2021: William R. Carlton, Jr. (US Army)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:ale:dru",
+  "name": "Alexander Dru",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UF residency 2015-2022, Arizona MD 2015",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2022",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Memphis TN (Semmes-Murphey; previously Orlando Health)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alexander-dru-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 University of Florida; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2022: Alexander Dru (Orlando Health, Orlando, FL)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:dav:shin",
+  "name": "David Shin",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "UF resident bio: David Shin, Univ Minnesota MD 2015, Army, UF training to complete 2022; Doximity David Heegwang Shin (Tripler AMC) Class of 2015 Minnesota, ABNS. Name ambiguity resolved by school and Army",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery 2022; now Army neurosurgeon Tripler AMC",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, US Army, Tripler AMC HI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-shin-md-4866a0ee",
+    "type": "doximity",
+    "evidence": "University of Minnesota Medical School Class of 2015; ABNS; Neurosurgery, Tripler Army Medical Center"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/david-shin/davidshin-bio/",
+    "type": "program_page",
+    "evidence": "stationed in Gainesville to pursue training in neurosurgery at the University of Florida and is scheduled to complete his training in 2022 (search summary)"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2022: David Shin (U.S. Army)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:sas:vaziri",
+  "name": "Sasha Vaziri",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Practice bio and Doximity: UF MD 2015, UF neurosurgery residency, ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2022",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Baptist Health, Jacksonville FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sasha-vaziri-md",
+    "type": "doximity",
+    "evidence": "University of Florida College of Medicine Class of 2015; ABNS"
+   },
+   {
+    "url": "https://sashavazirimd.com/",
+    "type": "bio",
+    "evidence": "completed medical school and neurosurgical residency at UF (search summary)"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2022: Sasha Vaziri (Baptist Health, Jacksonville, FL)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:abr:alvarado",
+  "name": "Abraham Alvarado",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Listed as Abraham Alvarado-Gonzalez: Doximity UF residency 2016-2023, Vanderbilt MD 2016",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Seattle WA (Kaiser Permanente per UF alumni page; earlier Baptist Pensacola)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/abraham-alvarado-gonzalez-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 University of Florida; Vanderbilt Class of 2016"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2023: Abraham Alvarado (Kaiser Permanente, Portland, OR)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:dim:laurent",
+  "name": "Dimitri Laurent",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Norton bio: UF residency 2016-2023, NYMC MD 2016, neuroendovascular fellowship UF 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Norton Healthcare, Louisville KY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dimitri-laurent-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 University of Florida; New York Medical College Class of 2016"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2024: Dimitri Laurent (Norton Institute, Louisville, KY)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:ndi:geh",
+  "name": "Ndi Geh",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UF residency 2016-2023, Michigan MD 2016, ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Methodist Healthcare, San Antonio TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ndi-geh-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 University of Florida; ABNS"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2023: Ndi Geh (Methodist Healthcare, San Antonio, TX)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:kai:melnick",
+  "name": "Kaitlyn Melnick",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Bayhealth bio: Jefferson MD 2017, neurosurgery residency in Gainesville; Doximity listed under a different surname (Jefferson 2017, publications as Kaitlyn Melnick); UF alumni page lists 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery (alumni page 2024); Bayhealth neurosurgeon Dover DE",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Bayhealth Neurosurgery, Dover DE",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.bayhealth.org/find-a-doctor/kaitlyn-melnick",
+    "type": "bio",
+    "evidence": "graduated from Sidney Kimmel Medical College at Thomas Jefferson University in 2017 and completed her neurosurgery residency in Gainesville, Florida"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2024: Kaitlyn Melnick (Bayhealth, Dover, DE)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kaitlyn-barkley-md",
+    "type": "doximity",
+    "evidence": "Doximity profile under different surname: Class of 2017 Thomas Jefferson; no residency or ABNS listed"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "82:ken:porche",
+  "name": "Ken Porche",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity, Mayo bio, UF page: UF residency 2017-2024 (chief 2022-23), LSU MD",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2024",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine/peripheral nerve), Mayo Clinic Phoenix AZ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ken-porche-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 University of Florida; Chief Residency 2022-2023"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2024: Ken Porche (Mayo Clinic, Phoenix, AZ)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:arv:mohan",
+  "name": "Arvind Mohan",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UF residency 2018-2025, Baylor MD 2018, UF MBA",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Olympia Neurological Institute, Austin TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/arvind-mohan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025 University of Florida"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2025: Arvind Mohan (Olympia Neurological Institute, Austin, TX)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:bra:lucke-wold",
+  "name": "Brandon Lucke-Wold",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UF residency 2018-2025, West Virginia MD/PhD 2018",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of neurosurgery, University of Arizona, Tucson (UF alumni page lists UF fellowship)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brandon-lucke-wold-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025 University of Florida"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2025: Brandon Lucke-Wold (University of Florida (fellowship))"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:vys:chandra",
+  "name": "Vyshak Chandra",
+  "program_id": 82,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Baptist bio: UF residency 2018-2025, VCU MD 2018, functional fellowship",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UF neurosurgery residency; UF alumni page lists graduation year 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Baptist Health, Jacksonville FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/vyshak-chandra-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025 University of Florida"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2025: Vyshak Chandra (Baptist Health, Jacksonville, FL)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "82:car:christie",
+  "name": "Carlton Christie",
+  "program_id": 82,
+  "identity": "probable",
+  "identity_basis": "UF resident page (search snippet) lists Carlton Christie PGY7, Penn State MD 2019, Army; Doximity Penn State 2019 Resident Physician Fort Bliss TX, TX license 2026-2028",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "UF PGY-7 in 2025-26 (final year); not on UF alumni page (lists through 2025); Doximity now shows Fort Bliss TX (Army) with 2026 TX license, consistent with graduating June 2026 but no source states completion",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Army physician, Fort Bliss TX (Resident Physician on Doximity, probably stale)",
+  "agrees_with_db": true,
+  "disagreement": "Completion in 2026 not directly confirmed by any source; needs a later check (Army neurosurgeon at Fort Bliss/other post)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/carlton-christie-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Fort Bliss TX; Pennsylvania State University College of Medicine Class of 2019; no residency listed"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/carlton-christie-md/",
+    "type": "program_page",
+    "evidence": "Search snippet: Carlton Christie, MD, PGY 7 resident, UF Neurosurgery (page now returns 404)"
+   }
+  ],
+  "searches_used": 3
+ }
+]

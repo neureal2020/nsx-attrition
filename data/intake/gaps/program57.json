@@ -1,0 +1,338 @@
+{
+ "program_id": 57,
+ "name": "Rutgers Health/New Jersey Medical School Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://njms.umdnj.edu/departments/neurosurgery/CurrentResident.cfm (+ FormerResidents.cfm, residency_corner.cfm)",
+   "from": "2008-10",
+   "to": "2009-04 (last capture; pre-window)"
+  },
+  {
+   "url": "http://njms.umdnj.edu/departments/neurosurgery/resident.cfm",
+   "from": "2010-05",
+   "to": "2013-06 (UMDNJ era; list never updated after 2009-10)"
+  },
+  {
+   "url": "http://njms.umdnj.edu/departments/neurosurgery2/ (residency_program.cfm, residency_corner.cfm)",
+   "from": "2010-06",
+   "to": "2010-06 (404s only)"
+  },
+  {
+   "url": "http://njms.rutgers.edu/departments/neurosurgery/resident.cfm",
+   "from": "2014-01",
+   "to": "2021-01 (html table to 2018; image roster 2019-20, 2020-21)"
+  },
+  {
+   "url": "https://njms.rutgers.edu/departments/neurosurgery/resident.php (roster = embedded PNG in /departments/neurosurgery/images/)",
+   "from": "2021-09",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://sites.rutgers.edu/rbhs-neurological-surgery/type/residents/ (+ /page/2/, /people/<name>/)",
+   "from": "2021-10",
+   "to": "2024-03 (site now 404; live resident.php still links to it)"
+  }
+ ],
+ "observed_years": [
+  "2013-2014",
+  "2016-2017",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2014-2015",
+  "2015-2016",
+  "2017-2018",
+  "2018-2019",
+  "2022-2023"
+ ],
+ "missing_years": [
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "No usable roster. umdnj resident.cfm Wayback captures 2010-05-27, 2013-04-05, 2013-06-05 and Common Crawl CC-MAIN-2012 (2012-05-21) all show the unchanged 2009-10 list (Yanni/Ebersole PGY7 ... Sinclair/Quinn PGY1). No other roster URL on njms.umdnj.edu (gapaudit 2008-2016: CurrentResident.cfm last 2009-04). Reconstructed 5 bracketed residents (Jethwa, Barrese, Assina, Sinclair, Quinn) from 2009-10 and 2013-14 lists. Unreconstructable: Zouzias, Karimi (PGY5 in 2009-10, exp. grad 2012), Tomei, Mammis (PGY4 in 2009-10, exp. grad 2013), and the 2010 and 2011 entrants' early years (Fernholz, Crisman, Cohen first seen 2013-14).",
+  "2012-2013": "Same as 2011-12 (stale 2009-10 list in Wayback 2013-04/06 and CC-MAIN-2013-20 residency pages). Reconstructed the same 5 bracketed residents one PGY higher. Tomei/Mammis (exp. PGY7) and 2012 entrants' PGY1 year (Meleis, Say, Slottje) unobserved.",
+  "2013-2014": "Wayback 2014-01-10 njms.rutgers.edu resident.cfm (Name | PGY | school table), 14 residents; content-dated by Jethwa/Barrese PGY7 (PGY3 in 2009-10).",
+  "2014-2015": "No usable roster: resident.cfm captures 2014-10-16, 2015-02-14 serve the 2013-14 list unchanged (stale). CC 2014-2015 crawls: no resident.cfm record (CC-MAIN-2013-48 index range failed). Reconstructed 9 residents bracketed by 2013-14 and 2016-17. Not reconstructable: Assina (PGY7, exp. grad 2015), Sinclair, Quinn (PGY6), 2014 entrants Iqbal, N. Patel (PGY1).",
+  "2015-2016": "No usable roster: captures 2015-10-08, 2016-03-13/16, 2016-04-14, 2016-07-03, 2016-08-18 all serve the 2013-14 list. Reconstructed 9 bracketed residents. Not reconstructable: Sinclair, Quinn (PGY7, exp. grad 2016), Iqbal/N. Patel (PGY2), 2015 entrants' PGY1 (Majmundar).",
+  "2016-2017": "Wayback 2017-03-25 resident.cfm titled '2016-2017 Neurological Surgery Residents' (PGY heading before each name), 14 residents. No Aug-Jan capture of this content.",
+  "2017-2018": "No usable roster: captures 2017-06-13 through 2018-11-11 all serve the 2016-17 list (title still '2016-2017'). CC 2017-2018 crawls saved only residency_training_program.cfm. Reconstructed 8 bracketed residents. Not reconstructable: Cohen, Crisman (exp. PGY7, grad 2018), Meleis/Say/Slottje (PGY6), 2017 entrant Solli's PGY1.",
+  "2018-2019": "No usable roster: 2018-08-01..2018-11-11 captures still titled 2016-2017; next capture 2019-07-16 already '2019-2020'. CC-MAIN-2019-04 index range failed. Reconstructed 8 bracketed residents. Not reconstructable: Meleis, Say, Slottje (exp. PGY7, grad 2019), Solli (PGY2), 2018 entrants P. Patel, Wong (PGY1).",
+  "2019-2020": "Wayback 2019-11-14 resident.cfm titled '2019-2020 Neurological Surgery Residents'; roster is image 2019-2020Residents.png (Wayback copy identical to live file), 13 residents.",
+  "2020-2021": "Wayback 2021-01-19 resident.cfm embedding Housestaff2020.png ('2020-2021 Neurological Surgery Housestaff', read from the live copy of the file), 19 residents + 2 endovascular fellows excluded.",
+  "2021-2022": "Wayback 2021-09-17 resident.php embedding Housestaff21.png ('2021-2022 ... House Staff'), 18 residents; matches sites.rutgers.edu listing 2021-10-24 + page/2 2021-12-09.",
+  "2022-2023": "PARTIAL. njms resident.php still showed Housestaff21.png on 2022-08-09 and has no further capture until 2024-04-07; no 2022-23 image on the live server (tried Housestaff22.png, 2022-2023Housestaff.png, Housestaff2022.png etc: 404). sites.rutgers.edu type/residents page 1 (2022-11-27, 2023-03-24, 2023-09-30 identical) lists PGY7..first PGY4 (10 residents); page/2 last archived 2022-07-03 (2021-22 content) and absent from CC 2022-2023 crawls. Loaded page 1 as 'other' plus reconstructed Tayebi Meybodi (PGY4), Belykh, Ginalis, Quinoa (PGY3), Novakovic (PGY2). Unobserved: Radwanski (PGY2?), 2022 entrants Egladyous/Echeverry/Gad (PGY1). PHASE2: CC-MAIN-2022-49 njms resident.php (2022-11-27) still embeds Housestaff21.png; CC 2022-23 crawls have sites.rutgers type/residents page 1 only (2022-05, 2022-11, 2023-03, 2023-09), no page/2.",
+  "2023-2024": "Wayback 2024-04-07 resident.php embedding 2023-2024Housestaff.png (identical to live), 16 residents. Also loaded sites.rutgers.edu page 1 (2024-03-04, 'other', partial) because it lists Raja Jani PGY6, who is absent from the njms image.",
+  "2024-2025": "Wayback 2025-03-15 resident.php embedding 2024-2025Housestaff.png (2024-10-10 capture still showed 2023-24 image), 18 residents.",
+  "2025-2026": "Wayback 2026-01-14 resident.php embedding 2025_2026Housestaff.png (identical to live), 18 residents.",
+  "2026-2027": "Live resident.php (2026-09-27) still embeds 2025_2026Housestaff.png (same file); no 2026-27 image on server (2026_2027Housestaff.png, 2026-2027Housestaff.png 404). Linked sites.rutgers.edu resident listing is 404. Not loaded."
+ },
+ "alumni_page": "http://njms.umdnj.edu/departments/neurosurgery/FormerResidents.cfm (single capture 2009-04-06; pre-2012 graduates only, no training_history rows added); phase 2: 30 training_history rows + 1 (Sinclair) added from PGY-terminal rosters, publications and cross-program rosters.",
+ "departures": [
+  {
+   "name": "Patrick Reid",
+   "last_ay": "2012-2013",
+   "last_pgy": 3,
+   "note": "NEW (phase 2). 2010 entrant never on a roster (stale 2011-13 page); UMDNJ-NJMS neurosurgery affiliation 2011/2013; TRANSFERRED to USC (104), PGY5 2014-15, USC alumni 2017."
+  },
+  {
+   "name": "Elena Solli",
+   "last_ay": "2019-2020",
+   "last_pgy": 3,
+   "note": "SWITCHED SPECIALTY: neurology (Mount Sinai 2021-22) then ophthalmology (NYU 2023-25) per PubMed affiliations."
+  },
+  {
+   "name": "Ryan Radwanski",
+   "last_ay": "2021-2022",
+   "last_pgy": 1,
+   "note": "Left during/after 2022-23 (PGY2); Rutgers affiliation to Jan 2023, then Weill Cornell/Brain and Spine Group, Cornell biomedical engineering 2024. Outcome unknown (no residency found)."
+  },
+  {
+   "name": "Raja Jani",
+   "last_ay": "2022-2023",
+   "last_pgy": 5,
+   "note": "TRANSFERRED to Louisville (88): Louisville affiliation on paper received 2023-02-09, PGY7 there 2024-25; absent from NJMS 2023-24 image. end_year 2023."
+  },
+  {
+   "name": "George Sinclair",
+   "last_ay": "2013-2014",
+   "last_pgy": 5,
+   "note": "Gap artefact likely; outcome unknown. The NPI 'switch' is only the default student taxonomy (enumerated 2014, never updated)."
+  },
+  {
+   "name": "Michael Cohen",
+   "last_ay": "2016-2017",
+   "last_pgy": 6,
+   "note": "Gap artefact; Rutgers affiliation 2019 paper; completion not confirmed."
+  },
+  {
+   "name": "David Slottje",
+   "last_ay": "2016-2017",
+   "last_pgy": 5,
+   "note": "Gap artefact; no publications; NPI neurosurgery (WA) only - not used as evidence."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Asif Shafiq",
+   "first_ay": "2020-2021",
+   "first_pgy": 7,
+   "note": "absorbed from SBMC AOA program (merger)"
+  },
+  {
+   "name": "Matthew Cummock",
+   "first_ay": "2020-2021",
+   "first_pgy": 6,
+   "note": "absorbed from SBMC AOA program (merger)"
+  },
+  {
+   "name": "Grant Arzumanov",
+   "first_ay": "2020-2021",
+   "first_pgy": 5,
+   "note": "absorbed from SBMC AOA program (merger)"
+  },
+  {
+   "name": "Kevin Zhao",
+   "first_ay": "2020-2021",
+   "first_pgy": 5,
+   "note": "absorbed from SBMC AOA program (merger)"
+  },
+  {
+   "name": "Christopher Talbot",
+   "first_ay": "2020-2021",
+   "first_pgy": 4,
+   "note": "absorbed from SBMC AOA program (merger)"
+  },
+  {
+   "name": "Raja Jani",
+   "first_ay": "2020-2021",
+   "first_pgy": 3,
+   "note": "absorbed from SBMC AOA program (merger)"
+  },
+  {
+   "name": "Manan Shah",
+   "first_ay": "2020-2021",
+   "first_pgy": 5,
+   "note": "transfer from Wayne State/DMC (125) at its closure"
+  }
+ ],
+ "residents_2011plus": 42,
+ "adjudication_summary": {
+  "COMPLETED": 24,
+  "IN TRAINING": 18,
+  "LEFT -> outcome unknown": 3,
+  "LEFT -> TRANSFERRED": 2,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> did not complete (Radwanski, departure unknown)": 1
+ },
+ "problems": "Program pages were rarely updated: the roster was stale 2010-13, 2014-16 and 2017-19, so 6 of 16 years are reconstructed (bracketed residents only) and residents who finished inside those gaps (Assina, Sinclair, Quinn, Cohen, Crisman, Meleis, Say, Slottje) show as LEFT only because their final years are unseen. 2019-20 onward the roster is a PNG image read by eye (names transcribed manually). 2022-23 only page 1 of a paginated listing archived. 2020-21 joiners (7 residents, 6 DOs with rwjbh.org emails, bios citing residency starts 2015-2018) look like an absorbed RWJBarnabas-affiliated osteopathic neurosurgery program during the AOA->ACGME transition, not individual transfers - phase 2 should confirm and decide whether to treat them as program joiners. Raja Jani conflict (sites listing vs njms image) for 2023-24. Name variants canonicalised: Caminucci->Carminucci, Hershman->Herschman, 'Nick Hernandez'->Robert Hernandez, 'Ali Meybodi-Tayebi'->Ali Tayebi Meybodi. Trong Huynh listed 'PGY 1/2 (Oct 1, 2023)' - off-cycle advancement, recorded at lower PGY. Common Crawl failed (index range/size errors after retries): CC-MAIN-2013-48, 2016-40, 2017-04, 2019-04 (njms.rutgers/umdnj), 2020-05, 2021-43 (sites.rutgers), 2023-14 (njms.rutgers). No program-side alumni page after 2009; no training_history rows inserted. PHASE2: Common Crawl index range failures persisted for CC-MAIN-2014-42, 2016-22 (njms), 2017-43 (umdnj), 2019-18 (njms), 2023-06 (sites.rutgers), 2014-42/2016-26/2017-47 (SBMC paths); SBMC CC scan killed after CC-MAIN-2018-47 (2019-2021 crawls unscanned; Wayback shows no roster page there). OpenAlex rate-limited late in the session.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7
+ },
+ "source_program_absorbed": {
+  "program": "Saint Barnabas Medical Center (Livingston NJ, RWJBarnabas Health; now Cooperman Barnabas) AOA/osteopathic neurosurgery residency (ACOS-approved; affiliated Hackensack UMC)",
+  "event": "Unified with the NJMS ACGME program for 2020-21 (PD Ira Goldstein bio: SBMC osteopathic residents rotated at University Hospital, then 'an increase in the size of our training program, and ultimately the unification of the residency programs of SBMC and NJMS')",
+  "evidence": [
+   "https://sites.rutgers.edu/rbhs-neurological-surgery/people/ira-goldstein-md/ (CC-MAIN-2022-23, 2023-23)",
+   "barnabashealth.org/education/sbmc/neurosurgery/ (Wayback 2011-2012) and rwjbh.org .../saint-barnabas-medical-center/neurosurgery-residency/ (2019): program pages, no resident roster ever published",
+   "PubMed: Cummock (2019), Shafiq (2020, 'Department of Neurosurgery, RWJBarnabas Health, Saint Barnabas Medical Center'), Zhao SBMC affiliations"
+  ],
+  "absorbed_residents": {
+   "Asif Shafiq": "2014 entrant, PGY7 2020-21",
+   "Matthew Cummock": "2015, PGY6",
+   "Grant Arzumanov": "2016, PGY5",
+   "Kevin Zhao": "2016, PGY5",
+   "Christopher Talbot": "2017, PGY4",
+   "Raja Jani": "2018, PGY3"
+  },
+  "residents_lost": "None identified. The SBMC program never published a roster (Wayback 2011-2022, CC 2013-2018 of its pages). Every SBMC neurosurgery resident found in PubMed/Europe PMC 2012-2021 (Cummock, Shafiq, Zhao) moved to NJMS. The 2019 cohort is empty on the merged roster (no PGY2 joiner in 2020-21): SBMC either took no 2019 intern or one left unseen - not observable, and outside program 57 until 2020.",
+  "not_from_sbmc": "Manan Shah (PGY5 2020-21) is an MD transfer from Wayne State/DMC (program 125, closure) - the 'Kevin Shah' of the crossmatch notes"
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Stale page; Reid (2010 entrant, left after 2012-13) found by publication mining and added; PubMed 2010-13 shows no other unlisted resident. Pre-2011 entrants' final years unseen (Zouzias, Karimi, Tomei, Mammis: outside the 2011+ cohort)."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Same stale page; 2011/2012 entrants' first years unseen, but all 2011 (Crisman, Cohen) and 2012 (Meleis, Say, Slottje) entrants reappear 2013-14; only a 2011/2012 entrant who left before Jan 2014 could be hidden, and none appears in PubMed affiliations."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jan 2014 roster."
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Stale page; all 2013-14 residents below PGY5 reappear 2016-17; Assina (grad 2015) and Quinn (grad 2016) confirmed by later faculty affiliations. Hidden-attrition risk limited to the 2014 intern class (Iqbal, N. Patel both reappear) and Sinclair (outcome unknown)."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Stale page. 2015 class shows only Majmundar: a second 2015 matchee who left before 2016-17 would be unseen (no PubMed trace of one)."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Mar 2017 roster."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Stale page; bracketed residents all reappear 2019-20; Crisman and Meleis/Say completions confirmed by later neurosurgery affiliations; Cohen and Slottje outcomes unknown (gap artefacts). 2017 class only Solli."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Stale page; 2018 entrants P. Patel and Wong seen 2019-20 at PGY2; no unlisted resident in PubMed."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov 2019 image roster."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jan 2021 image roster; 6 SBMC residents absorbed + Manan Shah transfer."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Sep 2021 image roster."
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Only page 1 (PGY7-PGY4) of the WordPress listing; njms page still showed Housestaff21.png (Wayback 2022-08, CC-MAIN-2022-49 2022-11); CC 2022-23 has no page/2. Lower PGYs bracketed except 2022 interns (seen 2023-24 PGY2) and Radwanski (left). Jani actually already gone or leaving (Louisville affiliation Feb 2023)."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Apr 2024 official image roster (Jani row from the stale sites.rutgers listing removed)."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Mar 2025 image roster."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jan 2026 image roster."
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "low",
+   "reason": "Live page still shows 2025_2026 image; only 2026 interns and any 2026 leaver unobservable; ends the window."
+  }
+ },
+ "resolved_gap_artefacts": {
+  "Rachid Assina": "completed 2015 (NJMS faculty)",
+  "John Quinn": "completed 2016 (UVA fellowship 2018, UTHealth faculty)",
+  "Celina Crisman": "completed 2018 (Montefiore faculty)",
+  "Ahmed Meleis": "completed 2019 (MD Anderson, Albany)",
+  "Irene Say": "completed 2019 (UCLA, UMass)"
+ },
+ "phase2": {
+  "searched": [
+   "Wayback CDX (domain, filtered) barnabashealth.org, rwjbh.org, saintbarnabas.org: SBMC neurosurgery residency pages 2011-2024 (no roster page ever)",
+   "njms.rutgers.edu match/graduation/housestaff pages 2013-2020 (MatchList2014, MatchDayReport2019: student outcomes only)",
+   "Common Crawl all crawls 2011-2019 edu,rutgers,njms)/ + edu,umdnj,njms)/departments/neurosurgery (fixed filter; retried 2013-48, 2016-40, 2017-04, 2019-04)",
+   "Common Crawl 2022-2023 sites.rutgers.edu/rbhs-neurological-surgery + njms (retried 2023-14)",
+   "Common Crawl 2013-2018 SBMC/rwjbh neurosurgery residency paths (killed at CC-MAIN-2018-47 after ~28 min)",
+   "PubMed affiliation mining NJMS/UMDNJ neurosurgery 2010-2024 (1065 PMIDs) and Saint Barnabas neuro 2008-2022; Europe PMC SBMC neurosurgery 2012-2021; per-person PubMed for all departures/gap artefacts",
+   "NPPES (Livingston/Newark/Hackensack neurosurgery; individual names)",
+   "njms profile.cfm faculty pages (Assina, Mammis)",
+   "Cross-program rosters 104 (USC), 88 (Louisville), 125 (Wayne State)"
+  ],
+  "found": [
+   "Source program of the 2020-21 joiners = Saint Barnabas Medical Center AOA neurosurgery residency, unified with NJMS 2020 (Goldstein bio); no SBMC residents identified as lost",
+   "Patrick Reid: hidden 2010 entrant, transferred to USC ~2013",
+   "Jani left 2023 (not 2024) for Louisville",
+   "Solli switched to ophthalmology (via neurology)",
+   "Manan Shah = the Wayne State transfer (not 'Kevin Shah')",
+   "Completions of Assina, Quinn, Crisman, Meleis, Say confirmed by later affiliations",
+   "CC-MAIN-2022-49 njms resident.php still stale (Housestaff21)"
+  ],
+  "remaining": [
+   "2022-23 lower PGYs and 2022 interns' PGY1 year unobserved (low)",
+   "2015 and 2017 single-resident classes: an unseen second matchee cannot be excluded (low)",
+   "Outcomes of Sinclair, Cohen, Slottje unknown (gap artefacts)",
+   "SBMC 2019 cohort (if any) unobservable",
+   "2026-27 not yet posted"
+  ]
+ }
+}

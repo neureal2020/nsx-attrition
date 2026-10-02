@@ -1,0 +1,1074 @@
+[
+ {
+  "key": "105:mat:brown",
+  "name": "Matthew Brown",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Matthew Thomas Brown MD, Asheville NC neurosurgery; residency UT College of Medicine 2012-2018; Wake Forest MD 2012 (matches entry year 2012); UTHSC grads list Matthew Brown 2018",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2012-2018",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Asheville NC (21 Turtle Creek Dr)",
+  "agrees_with_db": true,
+  "disagreement": "Ambiguous-name flag resolved: profile is neurosurgeon Matthew T. Brown, residency at UT 2012-2018.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-brown-md-0bffde63",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:rya:lingo",
+  "name": "Ryan Lingo",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Neurosurgical Institute of Savannah bio: P. Ryan Lingo completed neurosurgical residency at UTHSC and Semmes Murphey Clinic; UTHSC grads list Ryan Lingo 2018",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2012-2018",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Neurological Institute of Savannah, GA",
+  "agrees_with_db": true,
+  "disagreement": "Years 2012-2018 inferred from input dates/UTHSC list; no Doximity profile found (search returned only 'Ryan Lingor' family medicine).",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurologicalinstitute.com/bios/d_lingo.html",
+    "type": "bio",
+    "evidence": "search snippet: completed his neurosurgical residency at the University of Tennessee Health Science Center and the Semmes Murphey Clinic in Memphis, and six-month fellowship at Southmead Hospital, Bristol"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "105:nic:khan",
+  "name": "Nickalus Khan",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Nickalus R Khan MD, UTHSC MD 2013, Residency Neurological Surgery UT 2012-2020 (note: 2012 start vs input 2013), ABNS certified; Semmes Murphey faculty",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2013-2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Associate Professor / Program Director UTHSC & Semmes Murphey Clinic, Memphis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/nickalus-khan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2020; Fellowship Endovascular 2019-2020; Miami cerebrovascular fellowship 2020-2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:wil:gordon",
+  "name": "William Gordon",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: William Edward Gordon MD, UTHSC MD 2013, Residency UT 2013-2020; ABNS; Howell Allen Clinic Nashville; Ascension bio says residency 2013-2020",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2013-2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Howell Allen Clinic / Ascension Saint Thomas, Nashville TN",
+  "agrees_with_db": true,
+  "disagreement": "Ambiguous-name flag resolved.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/william-gordon-md-ad1ac6ac",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://healthcare.ascension.org/find-care/provider/1164865671/william-gordon",
+    "type": "search_snippet",
+    "evidence": "search snippet: completed his Residency in Neurological Surgery from the University of Tennessee College of Medicine from 2013-2020; Fellowship in Skull Base Surgery at UT/Semmes-Murphey"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "105:dou:taylor",
+  "name": "Douglas Taylor",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Regional One Health / West Tennessee Healthcare bios: Douglas (R.) Taylor, UTHSC MD 2014 and neurosurgery residency at UT; pediatric neurosurgery/epilepsy fellowship; UTHSC grads list Doug Taylor 2021",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2014-2021",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, West Tennessee Healthcare, Jackson TN (and Regional One)",
+  "agrees_with_db": true,
+  "disagreement": "Doximity search returned no Taylor neurosurgery profile (guessed /pub/douglas-taylor-md is an orthopaedic surgeon in NH, a different person). Ambiguous-name flag resolved via bios naming UTHSC MD 2014.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.regionalonehealth.org/provider/douglas-taylor-md/",
+    "type": "search_snippet",
+    "evidence": "search snippet: Memphis native, earned MD at UTHSC where he also completed his neurosurgery residency; fellowship in pediatric neurosurgery and epilepsy"
+   },
+   {
+    "url": "https://www.wth.org/news/douglas-taylor-m-d-joins-west-tennessee-medical-group/",
+    "type": "bio",
+    "evidence": "Douglas R. Taylor, MD, Neurosurgeon, Joins West Tennessee Medical Group"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:jaa:basma",
+  "name": "Jaafar Basma",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Jaafar Basma MD, Residency Neurological Surgery UT 2013-2020 (input entry 2014); ABNS listed; Sherwood AR neurosurgeon; co-author with UT residents",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2014-2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, CHI St. Vincent Arkansas Neuroscience Institute, Sherwood AR",
+  "agrees_with_db": true,
+  "disagreement": "Doximity residency start 2013 vs input first seen 2014-15; UTHSC list gives 2021 grad (possible research/extra year). Outcome completed agrees.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jaafar-basma-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery; St Joseph's University Medical School 2011"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:ken:moore",
+  "name": "Kenneth Moore",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Kenneth Adam Moore MD, Residency Neurological Surgery UT 2014-2021, IU MD 2015; IU faculty news: neurosurgery residency at UTHSC (finished 2022); UTHSC list 2022",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2015-2022",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Assistant Professor, Indiana University, Indianapolis",
+  "agrees_with_db": true,
+  "disagreement": "Ambiguous-name flag resolved (IU 2015 grad; entry 2015).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kenneth-moore-md-8ab845ed",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; Indiana University School of Medicine Class of 2015"
+   },
+   {
+    "url": "https://medicine.iu.edu/blogs/faculty-news/neurosurgery-welcomes-two-new-faculty-surgeons",
+    "type": "search_snippet",
+    "evidence": "search snippet: earned MD at IU School of Medicine in 2015 and completed neurosurgery residency at UTHSC in 2022; joined IU as assistant professor Aug 2023"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:vin:nguyen",
+  "name": "Vincent Nguyen",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Keck: Vincent Ngoc Duy Nguyen MD, Temple MD 2015, Residency UT 2015-2022, USC endovascular/open cerebrovascular fellowships; UTHSC CV and grads list 2022",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2015-2022",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (cerebrovascular), Clinical Assistant Professor, Keck Medicine of USC, Los Angeles (previously Univ of Rochester)",
+  "agrees_with_db": true,
+  "disagreement": "Ambiguous-name flag resolved.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/vincent-nguyen-md-4cceec1f",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; USC fellowships 2022-2024"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "105:gar:venable",
+  "name": "Garrett Venable",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Ochsner bio and Doximity: Garrett Thomas Venable, UTHSC MD 2016, residency UT completed 2023; UTHSC grads list 2023",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2016-2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Ochsner Health / Baton Rouge General, Baton Rouge LA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/garrett-venable-md",
+    "type": "doximity",
+    "evidence": "Garrett Thomas Venable MD; UTHSC College of Medicine Class of 2016 (no residency entry)"
+   },
+   {
+    "url": "https://www.ochsner.org/doctors/garrett-venable-md/",
+    "type": "search_snippet",
+    "evidence": "search snippet: MD and residency in neurological surgery at UTHSC in 2023; fellowship in minimally invasive and complex spinal surgery at Semmes Murphey"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "105:wil:mangham",
+  "name": "William Mangham",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: William Mitchell Mangham, Brown MD 2016, Residency UT 2015-2022 (Doximity start likely off by 1; other bio says began residency 2016 after Brown 2016); Ochsner neurosurgeon; UTHSC list 2023",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2016-2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (endoscopic/MIS spine), Ochsner Medical Center, New Orleans LA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/william-mangham-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; Brown Class of 2016"
+   },
+   {
+    "url": "https://www.ochsner.org/doctors/william-mangham/",
+    "type": "search_snippet",
+    "evidence": "search snippet: graduated Brown 2016, began residency in neurosurgery at the University of Tennessee and Semmes-Murphey Clinic"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:mal:roberts-dacus",
+  "name": "Mallory Roberts-Dacus",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Listed under a different surname (Roberts / Dacus) at Doximity/WVU; UTHSC MD 2017, UT neurosurgery residency, UTHSC CV file m-dacus-cv.pdf",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2017-2024",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, WVU Medicine Children's, Morgantown WV",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mallory-roberts-md-b4558b64",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; UTHSC Class of 2017; Resident, Neurological Surgery, Nashville (pediatric fellowship)"
+   },
+   {
+    "url": "https://wvumedicine.org/doctors/details/?ser=2131519%2F",
+    "type": "bio",
+    "evidence": "Mallory Dacus, MD | WVU Medicine (pediatric neurosurgeon)"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:tim:gooldy",
+  "name": "Timothy Gooldy",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists UT neurosurgery residency 2017-2018 then Barrow 2019-2024; Barrow ResearchGate profile; UF MD; matches input 2017 entry",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2018
+   },
+   {
+    "institution": "Barrow Neurological Institute at St Joseph's Hospital and Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2024
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left UT after PGY-2 (2017-2018); resumed neurosurgery at Barrow Neurological Institute 2019 (PGY-3 for 2019-20 per DB), completed 2024, pediatric neurosurgery fellowship CHOP 2024-2025",
+  "year_left": 2018,
+  "destination_program": "Barrow Neurological Institute",
+  "destination_start_year": 2019,
+  "current": "neurosurgeon (adult and pediatric), Carolina Neurosurgery & Spine Associates, Charlotte NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/timothy-gooldy-md",
+    "type": "doximity",
+    "evidence": "Barrow Residency 2019-2024; University of Tennessee College of Medicine Residency, Neurological Surgery, 2017 - 2018; no ABNS listed"
+   },
+   {
+    "url": "https://www.cnsa.com/providers/timothy-c-gooldy-md",
+    "type": "search_snippet",
+    "evidence": "search snippet: Residency in Neurological Surgery at Barrow Neurological Institute (2019-2024); Pediatric Neurosurgery fellowship CHOP (2024-2025)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:joc:lillard",
+  "name": "Jock Lillard",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Jock Lillard MD, UTHSC MD 2018, Residency UT 2018-2025; Semmes Murphey bio; UTHSC list 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2018-2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Semmes Murphey Clinic, Memphis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jock-lillard-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025; UTHSC Class of 2018; TN license 2025"
+   },
+   {
+    "url": "https://www.semmes-murphey.com/jock-c-lillard",
+    "type": "bio",
+    "evidence": "Jock C Lillard | Semmes Murphey Clinic (neurosurgeon, complex spine fellowship)"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:kar:parikh",
+  "name": "Kara Parikh",
+  "program_id": 105,
+  "identity": "probable",
+  "identity_basis": "UTHSC grads list Kara Parikh 2025; Doximity Columbus OH neurosurgery (LSU MD 2018 matches entry 2018) with UT co-authors; OSU Wexner listing; LinkedIn/ResearchGate show UTHSC neurosurgery resident",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2018-2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (likely fellow/faculty), Ohio State Wexner Medical Center, Columbus OH",
+  "agrees_with_db": true,
+  "disagreement": "Doximity has no residency entry; completion rests on UTHSC graduate list (2025) plus current OSU neurosurgery position.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kara-parikh-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Columbus OH; LSU School of Medicine in New Orleans Class of 2018 (no residency entry); co-authors from UTHSC"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:bar:schwartz",
+  "name": "Barrett Schwartz",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Barrett Schwartz MD, IU MD 2019, Residency UT 2019-2026; Goodman Campbell page 'meet spine surgeon Dr. Barrett E. Schwartz'; UTHSC list 2026",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2019-2026",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Goodman Campbell Brain and Spine, Carmel/Indianapolis IN",
+  "agrees_with_db": true,
+  "disagreement": "Ambiguous-name flag resolved.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/barrett-schwartz-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026; Indiana University Class of 2019"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:dek:blum",
+  "name": "Deke Blum",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Infirmary Health bio: Deke Blum MD, Vanderbilt MD, UTHSC neurosurgery residency, complex spine fellowship; Doximity: Vanderbilt Class of 2019 (matches entry 2019); UTHSC list 2026",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2019-2026",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Infirmary Neurosurgery, Mobile AL",
+  "agrees_with_db": true,
+  "disagreement": "Doximity profile lags; bio shows completed. Note fellowship year (Aug 2026) so 'completed' is recent.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/deke-blum-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Mobile AL; Vanderbilt Class of 2019 (no residency entry)"
+   },
+   {
+    "url": "https://www.infirmaryhealth.org/doctors/deke-blum-md/",
+    "type": "search_snippet",
+    "evidence": "search snippet: MD from Vanderbilt; completed neurosurgery residency at UTHSC in Memphis; Complex Spine fellowship"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:mus:motiwala",
+  "name": "Mustafa Motiwala",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Mustafa Motiwala MD, UTHSC MD 2019, Residency UT 2019-2026; UTHSC CV; UTHSC list 2026",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at UTHSC/Semmes Murphey 2019-2026",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon/fellow, Philadelphia PA (Doximity 909 Walnut St; Lehigh Valley scholarly works)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mustafa-motiwala-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026; UTHSC Class of 2019"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates page lists year graduated"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:rac:stein",
+  "name": "Rachel Stein",
+  "program_id": 105,
+  "identity": "probable",
+  "identity_basis": "Healthgrades: Rachel Stein DO, MD 2019 (matches entry 2019), specialties Neurological Surgery and Diagnostic Radiology, Mayo Clinic Florida affiliation; LinkedIn snippet: radiology resident R4 / incoming IR fellow 2025-26 at UF (Jacksonville), Edward Via COM. UTHSC grads list has no Stein. Direct evidence of the UT stint not found.",
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic Jacksonville (neurosurgery, per DB)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2020
+   },
+   {
+    "institution": "University of Florida College of Medicine - Jacksonville",
+    "specialty": "diagnostic radiology",
+    "start": 2022,
+    "end": 2026
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Radiology resident (R4/ESIR, incoming IR fellow 2025-26) at UF Jacksonville per LinkedIn snippet; consistent with DB (left UT mid 2020-21, switched to radiology). UT and Mayo neurosurgery stints not directly verified online.",
+  "year_left": 2021,
+  "destination_program": "University of Florida College of Medicine - Jacksonville (diagnostic radiology)",
+  "destination_start_year": 2022,
+  "current": "radiology resident/IR fellow, University of Florida Jacksonville",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/rachel-stein-66264231a/",
+    "type": "search_snippet",
+    "evidence": "search snippet: Rachel Stein - Radiology Resident, R4/ESIR and Incoming Interventional Radiology Fellow '25-26 at UF"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-rachel-stein-etoqh1k411",
+    "type": "search_snippet",
+    "evidence": "Neurosurgeon Jacksonville FL, Mayo Clinic in Florida, graduated 2019; specialties Neurological Surgery and Diagnostic Radiology"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "105:dav:wallace",
+  "name": "David Wallace",
+  "program_id": 105,
+  "identity": "probable",
+  "identity_basis": "WebMD/Vitals: David Alexander Wallace, UTHSC MD 2020 (matches entry 2020), office 920 Madison Ave Ste 447 Memphis; LinkedIn 'Neurosurgery Resident - University of Tennessee'; a Chattanooga David J. Wallace (different person) and a UTSA Wallace excluded",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-7 current resident, UTHSC neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, UTHSC Memphis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/david-wallace-116a51226/",
+    "type": "search_snippet",
+    "evidence": "search snippet: David Wallace - Neurosurgery Resident - University of Tennessee"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "search snippet: David Wallace, MD listed at PGY-7 among current residents"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:ema:lesha",
+  "name": "Emal Lesha",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Emal Lesha MD, Tufts MD 2020, Residency UT 2020-2027, 'Neurosurgery Resident, PGY 7'; UTHSC residents page",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UTHSC neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, UTHSC Memphis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/emal-lesha-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027; Neurosurgery Resident, PGY 7"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:sea:himel",
+  "name": "Sean Himel",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Sean Himel MD, Univ of Mississippi MD 2020, Residency UT 2020-2027; UTHSC CV and residents page (PGY-7)",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UTHSC neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, UTHSC Memphis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sean-himel-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027; University of Mississippi Class of 2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:cam:milton",
+  "name": "Camille Milton",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Camille Milton MD, OU MD 2021, Residency UT 2021-2028; UTHSC CV",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UTHSC neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-6, UTHSC Memphis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/camille-milton-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 - 2028; University of Oklahoma Class of 2021"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:chr:troy",
+  "name": "Christopher Troy",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "UTHSC CV: Christopher M. Troy, Columbia MD 2021, expected completion June 2028; residents page",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UTHSC neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-6, UTHSC Memphis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://uthsc.edu/neurosurgery/residency/documents/c-troy-cv.pdf",
+    "type": "search_snippet",
+    "evidence": "search snippet: Dr. Christopher M. Troy ctroy2@uthsc.edu (UTHSC neurosurgery resident, Columbia MD 2021, expected completion June 2028)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:car:osorno-cruz",
+  "name": "Carlos Osorno-Cruz",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "WebMD/ResearchGate: Carlos Osorno-Cruz, Univ of Iowa MD 2022, UTHSC neurosurgery PGY-5; CV on UTHSC site. Ambiguous-name flag resolved.",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UTHSC neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, UTHSC Memphis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://uthsc.edu/neurosurgery/residency/documents/osorno-cruz-cv.pdf",
+    "type": "program_page",
+    "evidence": "Carlos Osorno-Cruz, MD (UTHSC neurosurgery resident CV)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "105:kaa:yagmurlu",
+  "name": "Kaan Yagmurlu",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Kaan Yagmurlu MD, Residency UT 2022-2029, prior UT residency 2021 (research year); international MD 2006; Rhoton fellowship",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UTHSC neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, UTHSC Memphis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kaan-yagmurlu-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2022 - 2029; University of Tennessee Health Science Center Residency, 2021"
+   }
+  ],
+  "searches_used": 2
+ }
+]

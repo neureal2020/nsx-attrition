@@ -1,0 +1,1007 @@
+[
+ {
+  "key": "53:nee:patel",
+  "name": "Neel Patel",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists Neurological Surgery residency at Penn State Hershey 2017-2024 and PSU College of Medicine class of 2017; DHR Health bio names Penn State Hershey residency",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Penn State Hershey 2017-2024; spine fellowship (Swedish, Seattle) then neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, DHR Health, Edinburg TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/neel-patel-md-82dacf73",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 (Penn State Milton S Hershey Medical Center); Neurosurgery Resident, Class of 2024"
+   },
+   {
+    "url": "https://www.dhrhealth.com/news-stories/dhr-health-welcomes-neurosurgeon-dr-neel-t-patel/",
+    "type": "bio",
+    "evidence": "search summary: neurosurgery residency at Penn State Hershey 2017-2024; joined DHR Health as neurosurgeon"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:rob:maurer",
+  "name": "Robert Maurer",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurological Surgery residency Penn State Hershey 2017-2021, Temple MD 2017; listed publications co-authored with Penn State residents (McNutt, Reiter)",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency Penn State Hershey 2017-2021 (ambiguous-name flag resolved); practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Valley Health, Winchester VA",
+  "agrees_with_db": true,
+  "disagreement": "Recorded years 2017-2023/24 (PGY7 last seen 2023-24) vs Doximity end 2021 (Doximity likely nominal 4-year listing; a one-year Perth term mentioned). Outcome agrees.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/robert-maurer-md-2b2eed1d",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2021, Penn State Milton S Hershey Medical Center; Neurosurgery, Winchester VA"
+   },
+   {
+    "url": "https://www.valleyhealthlink.com/find-a-doctor/robert-maurer-md/",
+    "type": "bio",
+    "evidence": "Robert Maurer, MD | Neurosurgery | Winchester, VA (snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:fra:jareczek",
+  "name": "Francis Jareczek",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity residency Penn State Hershey 2018-2025, Iowa MD 2018; MCW faculty bio names Penn State neurosurgery residency",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2018-2025 at Penn State Hershey; neurocritical care/endovascular fellowship; now faculty",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor of neurosurgery, Medical College of Wisconsin",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/francis-jareczek-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025, Penn State Milton S Hershey Medical Center"
+   },
+   {
+    "url": "https://www.mcw.edu/departments/neurosurgery/people/francis-jareczek-md-phd",
+    "type": "bio",
+    "evidence": "Assistant Professor, Medical College of Wisconsin (snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:var:padmanaban",
+  "name": "Varun Padmanaban",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity residency Penn State Hershey 2018-2024, Drexel MD 2018; Inova bio",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgery residency + open cerebrovascular fellowship at Penn State, then neuroendovascular fellowship at MGH; now Inova neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Inova, Fairfax VA",
+  "agrees_with_db": true,
+  "disagreement": "Doximity residency end 2024; roster shows PGY-7 in 2024-25 (likely the cerebrovascular fellowship year). Outcome agrees.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/varun-padmanaban-md",
+    "type": "doximity",
+    "evidence": "completed his neurosurgical residency and an open cerebrovascular fellowship at Penn State Milton S. Hershey Medical Center; Residency 2018 - 2024"
+   },
+   {
+    "url": "https://www.inova.org/doctors/varun-padmanaban-md",
+    "type": "bio",
+    "evidence": "joined Inova in 2025 (snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:oli:mrowczynski",
+  "name": "Oliver Mrowczynski",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory + Doximity (PSU COM MD/PhD, Hershey resident); Swedish spine fellow bio names Penn State neurosurgery residency",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgery resident at Penn State Health, now Complex Spine Fellow at Swedish Medical Center (Seattle); Doximity page lists no residency line",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "complex spine fellow, Swedish Medical Center, Seattle",
+  "agrees_with_db": true,
+  "disagreement": "Fellowship-year timing suggests residency ended before June 2026; roster says graduated June 2026 (fellow bio may be pre-start). Outcome agrees.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/oliver-mrowczynski-md-ab2be20c",
+    "type": "doximity",
+    "evidence": "Resident Physician, Hershey PA; PSU College of Medicine Class of 2020; WA license 2024-2027"
+   },
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/oliver-mrowczynski",
+    "type": "program_page",
+    "evidence": "search summary: Neurosurgery Resident at Penn State Health and currently a Complex Spine Fellow at Swedish Medical Center"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:son:majid",
+  "name": "Sonia Majid",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity residency Penn State Hershey (2015-2026 listed), FIU MD 2019; publications with PSU residents",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgery residency Penn State Hershey; Miami enfolded complex spine fellowship 2025-2026; now practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Mesa AZ (Banner Desert / U Arizona assistant clinical professor)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sonia-majid-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Penn State Milton S Hershey Medical Center; Neurosurgeon, Mesa AZ; Miami Complex Spine Fellowship 2025-2026"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:yaw:tachie-baffour",
+  "name": "Yaw Tachie-Baffour",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory page (PGY-7 neurosurgery resident, Tufts MD) and Brigham fellow roster",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "PGY-7 chief at Penn State; listed as current fellow at Brigham and Women's Hospital",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "fellow, Brigham and Women's Hospital (neurosurgical oncology), Boston",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/yaw-tachie-baffour",
+    "type": "program_page",
+    "evidence": "PGY-7 Resident in the Neurosurgery Residency ... Tufts University School of Medicine; plans enfolded fellowship in Boston"
+   },
+   {
+    "url": "https://www.brighamandwomens.org/neurosurgery/residency/current-and-past-fellows",
+    "type": "program_page",
+    "evidence": "listed among current fellows (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:cha:fritch",
+  "name": "Chanju Fritch",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory + Doximity residency 2020-2027, UNM MD 2020",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-7 (roster lists PGY-7; PSU snippet says PGY-6)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/chanju-fritch-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027, Penn State Milton S Hershey Medical Center"
+   },
+   {
+    "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+    "type": "program_page",
+    "evidence": "Chanju Fritch, MD - PGY-7"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:dav:hallan",
+  "name": "David Hallan",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory + current-residents roster; PSU MD",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-7 on roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+    "type": "program_page",
+    "evidence": "David Hallan, MD - PGY-7"
+   },
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/david-hallan",
+    "type": "program_page",
+    "evidence": "Resident in the Neurosurgery Residency; PSU College of Medicine MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:kim:kray",
+  "name": "Kimberly Kray",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory page (PGY-7 neurosurgery, PSU MD); co-author with PSU residents",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 resident per PSU page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/kimberly-kray",
+    "type": "program_page",
+    "evidence": "PGY-7 Resident in Neurosurgery; Penn State College of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:mic:gigliotti",
+  "name": "Michael Gigliotti",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery Hershey (LECOM DO 2019) + roster PGY-6",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-6 on roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-gigliotti-do",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Hershey PA; Lake Erie College of Osteopathic Medicine Class of 2019; no residency line listed"
+   },
+   {
+    "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+    "type": "program_page",
+    "evidence": "Michael Gigliotti, DO - PGY-6"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:sar:mcnutt",
+  "name": "Sarah McNutt",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity residency Penn State Hershey 2021-2028, PSU MD 2021",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training (Doximity end year 2028)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sarah-mcnutt-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 - 2028, Penn State Milton S Hershey Medical Center"
+   },
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/sarah-mcnutt",
+    "type": "program_page",
+    "evidence": "PSU faculty directory entry (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:dav:bailey",
+  "name": "David Bailey",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU roster PGY-5 + PSU COM MD 2022 on Doximity; distinct from other David Baileys",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-5 on roster",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-bailey-md-53d6cea6",
+    "type": "doximity",
+    "evidence": "Resident Physician, Hershey PA; PSU College of Medicine Class of 2022; PA license 2025-2026"
+   },
+   {
+    "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+    "type": "program_page",
+    "evidence": "David Bailey, MD - PGY-5"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:kyl:tuohy",
+  "name": "Kyle Tuohy",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory (PGY-4 neurosurgery, PSU MD 2022 via 3+7 program)",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/kyle-tuohy",
+    "type": "program_page",
+    "evidence": "PGY-4 resident in the Neurosurgery Residency at Penn State Health; PSU MD 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:oma:akel",
+  "name": "Omar Akel",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery Hershey resident, Rutgers RWJ MD 2022; roster PGY-5",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-5",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/omar-akel-md",
+    "type": "doximity",
+    "evidence": "Omar Akel MD MBS, Neurosurgery Resident, Hershey PA; Rutgers Robert Wood Johnson Class of 2022"
+   },
+   {
+    "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+    "type": "program_page",
+    "evidence": "Omar Akel, MD - PGY-5"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:mal:peterson",
+  "name": "Mallory Peterson",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory + AANS 2025 + PSU news (MD/PhD, neurosurgery resident)",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current resident (MD/PhD)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/mallory-peterson",
+    "type": "program_page",
+    "evidence": "PGY neurosurgery resident, MD/PhD Penn State (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:mit:paro",
+  "name": "Mitchell Paro",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory + Penn State Health News Aug 2026 (neurosurgery resident); Doximity UConn MD 2023",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current resident (4th-year)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mitchell-paro-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Hershey PA; UConn School of Medicine Class of 2023; no residency line"
+   },
+   {
+    "url": "https://pennstatehealthnews.org/2026/08/krok-and-paro-recognized-for-exceptional-moments-in-teaching/",
+    "type": "news",
+    "evidence": "fourth-year neurosurgery resident in the Department of Neurosurgery at Penn State"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:sco:kamen",
+  "name": "Scott Kamen",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity residency Penn State Hershey 2023-2030, Cooper Rowan MD 2023",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/scott-kamen-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030, Penn State Milton S Hershey Medical Center"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:ama:brisco",
+  "name": "Amanda Brisco",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory + LinkedIn (Resident Physician - Neurosurgery, USF MD)",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current resident (PGY-3 on roster)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/amanda-brisco",
+    "type": "program_page",
+    "evidence": "Resident Physician - Neurosurgery, Penn State Health; USF Morsani MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:ann:tarren",
+  "name": "Anna Tarren",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory + WebMD (PSU MD 2024, neurological surgery, Hershey)",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/anna-tarren",
+    "type": "program_page",
+    "evidence": "Resident in the Neurosurgery Residency; PSU College of Medicine MD 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:mas:stoltzfus",
+  "name": "Mason Stoltzfus",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory (neurosurgery resident, PSU MD) + Doximity PSU MD 2024",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mason-stoltzfus-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO Hershey PA; Pennsylvania State University College of Medicine Class of 2024; co-author with PSU neurosurgery residents"
+   },
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/mason-stoltzfus",
+    "type": "program_page",
+    "evidence": "Resident in Neurosurgery Residency; discovered passion for neurosurgery at Penn State COM"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:jam:cooper",
+  "name": "James Cooper",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU faculty directory + roster: James Cooper, MD, PhD, PGY-2, Buffalo MD; distinct from Temple TX neurosurgeon",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-2",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+    "type": "program_page",
+    "evidence": "James Cooper, MD, PhD - PGY-2"
+   },
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/james-cooper",
+    "type": "program_page",
+    "evidence": "PGY-2 Resident, University at Buffalo Jacobs School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:rob:quon",
+  "name": "Robert Quon",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery Hershey resident, Brown MD 2025; roster PGY-2",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-2",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/robert-quon-md-0ac43f65",
+    "type": "doximity",
+    "evidence": "Robert Quon MD, Neurosurgery, Resident Physician, Penn State Health Milton S. Hershey; Brown Class of 2025"
+   },
+   {
+    "url": "https://med.psu.edu/departments-faculty/directory/robert-quon",
+    "type": "program_page",
+    "evidence": "PGY-2 Resident, Brown Warren Alpert Medical School Class of 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:zee:george",
+  "name": "Zeegan George",
+  "program_id": 53,
+  "identity": "confirmed",
+  "identity_basis": "PSU roster: Zeegan George, MD - PGY-2",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-2",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+    "type": "program_page",
+    "evidence": "Zeegan George, MD - PGY-2"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "53:jad:basem",
+  "name": "Jade Basem",
+  "program_id": 53,
+  "identity": "probable",
+  "identity_basis": "PSU roster: Jade Basem, MD - PGY-1; no independent bio (Stony Brook Jade Basem publications are a different, anesthesia/pain, record)",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-1",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Penn State Hershey",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+    "type": "program_page",
+    "evidence": "Jade Basem, MD - PGY-1"
+   }
+  ],
+  "searches_used": 2
+ }
+]

@@ -1,0 +1,232 @@
+{
+ "program_id": 61,
+ "name": "Stanford Health Care-Sponsored Stanford University Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "complement_note": "Not stated; 3 per year 2011-2020, 4 in 2021/2023/2025/2026, 3 in 2022/2024.",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://neurosurgery.stanford.edu/ + http://med.stanford.edu/neurosurgery/ (old static dept site; no roster, links to DURA)",
+   "from": "2005",
+   "to": "2015-08"
+  },
+  {
+   "url": "http://dura.stanford.edu/CurrentResidents.html (+ ProgramAlumni.html, per-resident pages)",
+   "from": "2008-08",
+   "to": "2016-07"
+  },
+  {
+   "url": "https://dura.stanford.edu/residents.html (+ alumni.html, residents/<name>.html, yearly poster PDFs /content/dam/sm/dura/documents/)",
+   "from": "2016-09",
+   "to": "live 2026-09"
+  },
+  {
+   "url": "http://med.stanford.edu/neurosurgery/people/residents.html (302 -> dura.stanford.edu/residents.html)",
+   "from": "2016-09",
+   "to": "2024 (404)"
+  },
+  {
+   "url": "https://med.stanford.edu/neurosurgery/residency/residents.html",
+   "from": "2024-07",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://dura.stanford.edu/residents-old.html (copy of 2024-25 list)",
+   "from": "2024-11",
+   "to": "2025-03"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2012-2013": "Only version is a May 2013 (spring) Wayback capture titled 2012-2013; complete.",
+  "2013-2014": "Common Crawl CC-MAIN-2013-48 (2013-12-10). COMPLETE: the PGY-7 group is printed under 'Chiefs' (Hayden, Kalanithi, Lober); phase 1 parser skipped the heading. Fixed in phase 2 (20 residents).",
+  "2014-2015": "Now Common Crawl CC-MAIN-2014-35 (2014-09-02), identical to Jul-Aug 2014 versions. COMPLETE: Chiefs printed (Choudhri, Allyson Alexander=Howard, Veeravagu). Jason Yoon PGY-3 on this list; removed by 2014-09-19 (left for Stanford radiology). 20 residents.",
+  "2018-2019": "Page heading lagged ('2017-2018'); content-dated by PGY-1 class and poster PDF.",
+  "2022-2023": "Heading lagged ('2021-2022'); Sep 2022 capture used (includes Phelps, removed by Jan 2023).",
+  "2023-2024": "Heading lagged ('2022-2023'); Dec 2023 content is 2023-24."
+ },
+ "alumni_page": "https://dura.stanford.edu/alumni.html",
+ "departures": [
+  {
+   "name": "Derek Southwell",
+   "last_ay": "2012-2013",
+   "last_pgy": 2,
+   "outcome": "transferred",
+   "note": "To UCSF (76) at PGY-3 2013-14; UCSF alumni 2018. training_history 3381."
+  },
+  {
+   "name": "Jason Yoon",
+   "last_ay": "2014-2015",
+   "last_pgy": 3,
+   "outcome": "switched_specialty",
+   "note": "Byung 'Jason' Yoon. Listed PGY-3 until 2014-09-02, gone 2014-09-19. Stanford diagnostic radiology residency (completed 2018, chief 2017-18; CAP profile), MGH neuroradiology fellowship 2020. Not Nam Keun Yoon (LL->Utah). training_history 3383."
+  },
+  {
+   "name": "Stanley Hoang",
+   "last_ay": "2016-2017",
+   "last_pgy": 6,
+   "outcome": "transferred",
+   "note": "To Missouri (94) PGY-6 2017-18, completed there 2019 (inferred). training_history 3382."
+  },
+  {
+   "name": "Daniel Lee",
+   "last_ay": "2020-2021",
+   "last_pgy": 2,
+   "outcome": "unknown",
+   "note": "Probably Daniel K. Lee (Harvard-MIT HST, MGH NS research). Bio page never archived. Unconfirmed Stanford Hagey (plastic surgery) lab affiliation 2021-22. training_history 3385."
+  },
+  {
+   "name": "Ryan Phelps",
+   "last_ay": "2022-2023",
+   "last_pgy": 1,
+   "outcome": "unknown",
+   "note": "Left mid-PGY-1 (gone by Jan 2023). No post-2023 affiliation found; NPI 'switch' is not evidence. training_history 3386."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Adrienne Moraff",
+   "first_ay": "2013-2014",
+   "first_pgy": 2,
+   "note": "From orthopaedic surgery PGY-1 2012-13 at Case Western / University Hospitals (DURA bio + Stanford CAP profile). Graduated 2019. training_history 3384."
+  }
+ ],
+ "irregular_progression": [
+  "Lober grad 2014, Veeravagu 2015, Vaca 2025, Huang PGY-7 2025-26: one year ahead of class",
+  "Kakusa, Levinson PGY-4 (2024-25) -> PGY-6 (2025-26) -> PGY-7 (2026-27)",
+  "Cavagnaro PGY-1 2023-24 -> PGY-3 2024-25 (prior Argentine NS residency); not a transfer",
+  "Hoang repeated PGY-6"
+ ],
+ "residents_2011plus": 53,
+ "adjudication_summary": {
+  "COMPLETED": 40,
+  "IN TRAINING": 23,
+  "LEFT -> TRANSFERRED": 2,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> did not complete (outcome unknown)": 2,
+  "note": "Hoang -> Missouri, Southwell -> UCSF, Yoon -> Stanford radiology; Lee and Phelps unknown. Taiwo and Huang 2026 completion inferred from the PGY-7 roster."
+ },
+ "problems": "None blocking. Daniel Lee's bio page (dura residents/daniel-lee.html) was never captured by Wayback or Common Crawl (CC 2019-2021 scanned: 0 records). CC-MAIN-2013-20 not needed.",
+ "years": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Dec 2011 list, all 7 PGY groups"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Only a May 2013 capture, but it is complete and bracketed by Dec 2011 and Dec 2013 lists; every change is explained (Southwell->UCSF, Moraff in)"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Dec 2013 list incl. Chiefs group (phase-1 'missing PGY-7' was a parser miss)"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Sep 2014 list incl. Chiefs and Yoon; Yoon's Sep 2014 departure dated by CC captures"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Oct 2015 list"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Nov 2016 list, matches poster PDF"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete, matches poster PDF"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete (heading lagged), matches poster PDF"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Oct 2019 list"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete, matches poster PDF"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete, matches poster PDF"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Sep 2022 list; Phelps' mid-year exit seen (Jan 2023 page/poster)"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Dec 2023 list"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete, matches DURA page and poster PDF"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Sep 2025 list"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page, PGYs advanced, 4 new interns"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Re-read raw text of 2013-14 (CC 2013-12-10) and 2014-15 (Wayback 2014-09-27, CC 2014-07..12) captures",
+   "Per-resident DURA bios on Wayback (jasonyoon.html, stanley-hoang.html, MoraffA.html, ryan-phelps.html; daniel-lee.html not archived)",
+   "Common Crawl 2019-2021 for dura residents/daniel-lee (30 crawls, 0 records)",
+   "Stanford CAP profiles (profiles.stanford.edu) for Yoon, Moraff, Lee, Phelps, Hoang",
+   "PubMed author/affiliation queries (Yoon BC, Lee DK, Phelps R) and OpenAlex author records",
+   "crossmatch.json (Southwell->UCSF confirmed; Yoon->Utah rejected: different person) and Missouri (94)/UCSF (76) roster files"
+  ],
+  "found": [
+   "2013-14 and 2014-15 Chiefs groups are printed ('Chiefs' heading missed by phase-1 parser); 6 PGY-7 rows added",
+   "Jason Yoon on the 2014-15 roster as PGY-3 (2014-15 source switched to CC 2014-09-02); left Sep 2014 for Stanford diagnostic radiology",
+   "Moraff prior program: Case Western/UH orthopaedic surgery PGY-1 2012-13",
+   "Hoang -> Missouri PGY-6 2017-18; Southwell -> UCSF PGY-3 2013-14"
+  ],
+  "remaining": [
+   "Daniel Lee (left after 2020-21 PGY-2) destination unknown",
+   "Ryan Phelps (left mid 2022-23 PGY-1) destination unknown"
+  ]
+ }
+}

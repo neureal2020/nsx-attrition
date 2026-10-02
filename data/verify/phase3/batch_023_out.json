@@ -1,0 +1,1162 @@
+[
+ {
+  "key": "19:and:hardigan",
+  "name": "Andrew Hardigan",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-7) plus Doximity Duke residency 2020-2027, MD Univ. of Alabama 2020",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-7 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-7 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/andrew-hardigan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027, Duke University Hospital; University of Alabama School of Medicine Class of 2020"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/andrew-hardigan-md-phd",
+    "type": "bio",
+    "evidence": "Duke Neurosurgery resident profile (MD, PhD)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "19:eli:johnson",
+  "name": "Eli Johnson",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster lists Eli Johnson, MD (PGY-7); Google Scholar profile shows neurosurgery resident with duke.edu email. Doximity search returned only unrelated Eli Johnsons (DO neurology/EM)",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-7 for 2026-27; no evidence of leaving. Ambiguous name resolved via Duke roster.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-7 (2026-27)"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/education-and-training/neurosurgery-residency/current-residents/eli-johnson-md",
+    "type": "program_page",
+    "evidence": "Eli Johnson, MD | Duke Department of Neurosurgery"
+   },
+   {
+    "url": "https://scholar.google.com/citations?user=DEKPli8AAAAJ&hl=en",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident, verified email at duke.edu"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:ken:carpenter",
+  "name": "Kennedy Carpenter",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-6, global health pathway); MD Univ. of Queensland 2020 matches Duke bio; Doximity Durham profile same MD school",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-6 for 2026-27; no evidence of leaving. Ambiguous name resolved.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-6, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-6 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kennedy-carpenter-md-136f23eb",
+    "type": "doximity",
+    "evidence": "Kennedy Lauren Carpenter MD, Durham NC, Other MD/DO; University of Queensland Class of 2020 (no residency listed)"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/kennedy-carpenter-md",
+    "type": "bio",
+    "evidence": "Duke Neurosurgery profile; global neurosurgery resident, MD University of Queensland"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:mou:paturu",
+  "name": "Mounica Paturu",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-6); Doximity Durham profile WashU 2021 with Duke Erwin Rd address",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-6 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-6, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-6 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/mounica-paturu-md-8d60d04e",
+    "type": "doximity",
+    "evidence": "Mounica Reddy Paturu MD, Durham NC; WashU Medicine Class of 2021"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/mounica-paturu-md",
+    "type": "bio",
+    "evidence": "Mounica Paturu, MD | Duke Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:sye:adil",
+  "name": "Syed Adil",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-6); Doximity Duke neurosurgery, MD Duke 2021",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-6 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-6, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-6 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/syed-adil-md-3c36b6bd",
+    "type": "doximity",
+    "evidence": "Syed Adil MD, Neurosurgery, Durham NC, Duke Neurosurgery; Duke University School of Medicine Class of 2021"
+   },
+   {
+    "url": "https://www.dukeglobalneurosurgery.com/people/syed-adil/",
+    "type": "bio",
+    "evidence": "Neurosurgery Resident, MD Duke"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "19:pak:chongsathidkiet",
+  "name": "Pakawat Chongsathidkiet",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-5); Duke Pathology news: matched into Duke Neurosurgery residency starting June 2022; MD Chulalongkorn, PhD Duke",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-5 for 2026-27; no evidence of leaving. Doximity profile lists a New York (Madison Ave) address, unexplained; Duke roster still lists him.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-5 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/pakawat-chongsathidkiet-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, New York NY (Madison Ave address); Chulalongkorn Class of 2014; NC license 2022-2026; no residency listed"
+   },
+   {
+    "url": "https://pathology.duke.edu/news/pakawat-nick-chongsathidkiet-returns-duke-neurosurgery-residency",
+    "type": "news",
+    "evidence": "Returns to Duke for Neurosurgery Residency"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/pakawat-chongsathidkiet-md-phd",
+    "type": "bio",
+    "evidence": "Duke Neurosurgery profile MD, PhD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:sam:spellicy",
+  "name": "Samantha Spellicy",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-5); Doximity Duke residency 2022-2029, MD MCG 2022",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-5 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-5 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/samantha-spellicy-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Duke University Hospital, 2022 - 2029; Medical College of Georgia Class of 2022"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/samantha-spellicy-md-phd",
+    "type": "bio",
+    "evidence": "Samantha Spellicy, MD, PhD | Duke"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "19:tar:dalton",
+  "name": "Tara Dalton",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-5); Doximity Duke resident, MD Duke 2022",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-5 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-5 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/tara-dalton-md",
+    "type": "doximity",
+    "evidence": "Tara Elizabeth Dalton MD, Resident Physician, Durham NC (40 Duke Medicine Cir); Duke University School of Medicine Class of 2022"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/tara-dalton-md",
+    "type": "bio",
+    "evidence": "Tara Dalton, MD; MD Duke 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:ben:wissel",
+  "name": "Benjamin Wissel",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-4); Doximity Duke residency 2023-2030",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-4 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-4, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-4 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/benjamin-wissel-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Duke University Hospital, 2023 - 2030; Univ. of Cincinnati College of Medicine Class of 2023"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/benjamin-wissel-md-phd",
+    "type": "bio",
+    "evidence": "Benjamin Wissel, MD, PhD | Duke"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:car:folz",
+  "name": "Caroline Folz",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-4); Doximity Duke residency 2023-2030",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-4 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-4, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-4 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/caroline-folz-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Duke University Hospital, 2023 - 2030; Univ. of Cincinnati Class of 2023"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/caroline-folz-md",
+    "type": "bio",
+    "evidence": "Caroline Folz, MD | Duke"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:jor:hatfield",
+  "name": "Jordan Hatfield",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-4); Doximity Duke resident, MD Duke 2023; co-author with Duke neurosurgery residents",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-4 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-4, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-4 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jordan-hatfield-md",
+    "type": "doximity",
+    "evidence": "Jordan Hatfield MD, Resident Physician, Durham NC (2301 Erwin Rd); Duke University School of Medicine Class of 2023"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/jordan-hatfield-md",
+    "type": "bio",
+    "evidence": "Jordan Hatfield, MD | Duke; graduated Duke SOM 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:ben:succop",
+  "name": "Benjamin Succop",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster 'Benjamin S. Succop Jr., MD' (PGY-3); Duke bio; AANS 2024 abstract. Doximity URL from search (benjamin-succop-md-c9212e67) returned 'Public profile not found or disabled'",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-3 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-3 (2026-27)"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/benjamin-s-succop-jr-md",
+    "type": "bio",
+    "evidence": "Benjamin S. Succop Jr., MD | Duke Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:jul:duvall",
+  "name": "Julia Duvall",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-3); Doximity Neurosurgery Resident, HMS 2024 (Boston address stale); X post: matched Duke Neurosurgery #Match2024",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-3 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-3 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/julia-duvall-md",
+    "type": "doximity",
+    "evidence": "Julia Duvall MD, Neurosurgery, Resident, Boston MA; Harvard Medical School Class of 2024"
+   },
+   {
+    "url": "https://x.com/juliabduvall/status/1771200399095071152?lang=en",
+    "type": "search_snippet",
+    "evidence": "Duke Neurosurgery ... #Match2024 #Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:tyr:despenza",
+  "name": "Tyrone DeSpenza",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster 'Tyrone DeSpenza Jr, MD, PhD' (PGY-3); Duke bio; Yale MD/PhD. Doximity search showed no matching DeSpenza profile",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-3 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-3 (2026-27)"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/tyrone-despenza-jr-md-phd",
+    "type": "bio",
+    "evidence": "Tyrone DeSpenza Jr, MD, PhD | Duke Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:ade:haskell-mendoza",
+  "name": "Aden Haskell-Mendoza",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-2); Doximity 'Aden Mendoza' Durham, MD Duke 2025, co-authors are Duke neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-2 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-2 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/aden-mendoza-md",
+    "type": "doximity",
+    "evidence": "Aden Mendoza MD MS, Neurosurgery, Durham NC; Duke University School of Medicine Class of 2025"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/aden-haskell-mendoza-md",
+    "type": "bio",
+    "evidence": "Aden Haskell-Mendoza, MD | Duke"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:bri:futch",
+  "name": "Brittany Futch",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster 'Brittany Grace Futch, MD' (PGY-2); Duke bio MD Duke 2025; Match 2025. Doximity search found no profile",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-2 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-2 (2026-27)"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/brittany-grace-futch-md",
+    "type": "bio",
+    "evidence": "Brittany Grace Futch, MD | Duke Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:mol:monsour",
+  "name": "Molly Monsour",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-2); Duke bio MD USF 2025; Doximity same MD school/year",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-2 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-2 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/molly-monsour-md",
+    "type": "doximity",
+    "evidence": "Molly Monsour MD, Other MD/DO, Tampa FL; University of South Florida College of Medicine Class of 2025 (no residency listed)"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/personnel/molly-monsour-md",
+    "type": "bio",
+    "evidence": "Molly Monsour, MD | Duke; MD USF 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:ale:devarajan",
+  "name": "Alex Devarajan",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-1) and Match Day 2026 news; Doximity Durham, MD Mount Sinai 2026",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-1 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-1 (2026-27)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alex-devarajan-md",
+    "type": "doximity",
+    "evidence": "Alex Devarajan MD MBA, Neurosurgery, Durham NC (Duke address); Icahn School of Medicine at Mount Sinai Class of 2026"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/news/duke-neurosurgery-celebrates-match-day-2026",
+    "type": "news",
+    "evidence": "Alex Devarajan welcomed as new intern to Duke Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:aly:bartlett",
+  "name": "Alyssa Bartlett",
+  "program_id": 19,
+  "identity": "confirmed",
+  "identity_basis": "Duke roster (PGY-1); Duke medical school bio MD Duke 2026; LinkedIn 'Neurosurgery Resident at Duke'. Doximity search found only an unrelated pharmacist Alyssa Bartlett",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-1 for 2026-27; no evidence of leaving. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-1 (2026-27)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/alyssa-bartlett-349a7b116/",
+    "type": "search_snippet",
+    "evidence": "Alyssa Bartlett - Neurosurgery Resident at Duke University"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "19:bar:hanna",
+  "name": "Barbara Hanna",
+  "program_id": 19,
+  "identity": "probable",
+  "identity_basis": "Only the Duke current-residents roster (page 3) lists 'Barbara Hanna, MD - PGY-1'. Google and Doximity searches found no independent bio; other Barbara Hannas are unrelated (ID physician, nurse)",
+  "residency_stated": [
+   {
+    "institution": "Duke University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on Duke Neurosurgery current-residents roster as PGY-1 for 2026-27; no evidence of leaving. Ambiguous name; only program-roster evidence.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Duke University Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "Duke current residents page lists resident at PGY-1 (2026-27)"
+   },
+   {
+    "url": "https://neurosurgery.duke.edu/education/residency/current-residents?page=2",
+    "type": "program_page",
+    "evidence": "Barbara Hanna, MD - PGY-1"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "20:gri:baum",
+  "name": "Griffin Baum",
+  "program_id": 20,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Emory MD 2011, Emory neurosurgery residency 2011-2018; Emory alumni list 2018",
+  "residency_stated": [
+   {
+    "institution": "Emory University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Emory neurosurgery residency 2011-2018. Spine fellowship Columbia 2018-19.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Archbold Neurology/Neurosurgery, Thomasville GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/griffin-baum-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Emory 2011-2018 (chief 2017-2018); ABNS Neurological Surgery; Spine fellowship Columbia 2018-2019"
+   },
+   {
+    "url": "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html",
+    "type": "program_page",
+    "evidence": "Griffin R. Baum, MD (2018) Neurosurgeon, Archbold Neurosurgery, Thomasville, GA"
+   },
+   {
+    "url": "https://www.archbold.org/articles/2026/march/archbold-welcomes-neurosurgeon-dr-griffin-baum/",
+    "type": "news",
+    "evidence": "Archbold Welcomes Neurosurgeon Dr. Griffin Baum"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "20:jay:mccracken",
+  "name": "Jay McCracken",
+  "program_id": 20,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Medical College of Georgia 2011, Emory residency 2011-2018; Emory alumni 2018",
+  "residency_stated": [
+   {
+    "institution": "Emory University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Emory neurosurgery residency 2011-2018. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgical oncologist, Piedmont Atlanta Hospital, Atlanta GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/d-jay-mccracken-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Emory 2011-2018; ABNS; neurosurgical oncology fellowship 2015-2016"
+   },
+   {
+    "url": "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html",
+    "type": "program_page",
+    "evidence": "D. Jay McCracken, MD (2018) Neurosurgeon, Piedmont Hospital, Atlanta, GA"
+   },
+   {
+    "url": "https://www.care.piedmont.org/provider/David+Jason+McCracken/712064",
+    "type": "bio",
+    "evidence": "Piedmont provider page, neurosurgical oncology"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "20:mic:moore",
+  "name": "Michael Moore",
+  "program_id": 20,
+  "identity": "confirmed",
+  "identity_basis": "Ambiguous name resolved: Emory alumni 'Michael K. Moore, MD (2018)' with Doximity Emory 2011-2018 and Case Western MD 2011",
+  "residency_stated": [
+   {
+    "institution": "Emory University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Emory neurosurgery residency 2011-2018. ",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Sierra Neurosurgery Group, Reno NV",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-moore-md-32d18b2b",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Emory 2011-2018; Case Western MD 2011; ABNS Neurological Surgery"
+   },
+   {
+    "url": "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html",
+    "type": "program_page",
+    "evidence": "Michael K. Moore, MD (2018) Neurosurgeon, Sierra Neurosurgical Group, Reno, NV"
+   },
+   {
+    "url": "https://www.sierraneurosurgery.com/specialists/michael-moore/",
+    "type": "bio",
+    "evidence": "Michael Moore, MD, MS, Sierra Neurosurgery Group; Emory residency July 2011 to June 2018, ABNS May 2022 (per search snippet)"
+   },
+   {
+    "url": "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html",
+    "type": "search_snippet",
+    "evidence": "Search result: Emory alumni page for Michael Moore neurosurgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "20:ani:roy",
+  "name": "Anil Roy",
+  "program_id": 20,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Emory 2012-2019, Northwestern MD 2012; Emory alumni 2019",
+  "residency_stated": [
+   {
+    "institution": "Emory University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Emory neurosurgery residency 2012-2019. Cerebrovascular/skull base fellowship then neurointerventional fellowship.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor and Skull Base Director, Neurosurgery, VCU, Richmond VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anil-roy-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Emory 2012 - 2019; ABNS certified; fellowships UTHealth 2019-20 and Baptist Jacksonville 2020-21; Northwestern MD 2012"
+   },
+   {
+    "url": "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html",
+    "type": "program_page",
+    "evidence": "Anil K. Roy, MD (2019) Assistant Professor, VCU Department of Neurosurgery"
+   },
+   {
+    "url": "https://neurosurgery.vcu.edu/about/our-team/anil-roy-md.html",
+    "type": "bio",
+    "evidence": "Anil Roy, MD - VCU Neurosurgery (Emory neurosurgery residency per search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "20:kri:vigneswaran",
+  "name": "Krishanthan Vigneswaran",
+  "program_id": 20,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Emory residency 2012-2019, UT Southwestern MD 2012; Emory alumni 2019",
+  "residency_stated": [
+   {
+    "institution": "Emory University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Emory neurosurgery residency 2012-2019. Neurosurgical oncology fellowship MD Anderson 2019-20.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Clinical Assistant Professor UTHealth / Memorial Hermann, Houston TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/krishanthan-vigneswaran-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Emory 2012 - 2019; MD Fellowship MD Anderson neurosurgical oncology 2019-20; ABNS"
+   },
+   {
+    "url": "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html",
+    "type": "program_page",
+    "evidence": "Krishanthan Vigneswaran, MD (2019) Neurosurgeon, Memorial Hermann/Mischer Neuroscience Associates, Houston, TX"
+   },
+   {
+    "url": "https://memorialhermann.org/doctors/neurosurgeons/dr-krishanthan-vigneswaran-md-1437418746",
+    "type": "bio",
+    "evidence": "Dr. Krish Vigneswaran, Memorial Hermann neurosurgeon"
+   }
+  ],
+  "searches_used": 1
+ }
+]

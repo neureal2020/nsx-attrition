@@ -1,0 +1,300 @@
+{
+ "program_id": 114,
+ "name": "University of Washington Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://neurosurgery.washington.edu/education/residency/current.asp (ASP site; 'R-n' class headings = PGY-n; residentbios/<name>.asp)",
+   "from": "2011-04 (host since 1996)",
+   "to": "2017-08 (page frozen after Aug 2016; host 302 -> depts.washington.edu/neurosur from 2017-08-19)"
+  },
+  {
+   "url": "http://neurosurgery.washington.edu/education/residency/graduates.asp (alumni with years)",
+   "from": "2011-05",
+   "to": "2017-04"
+  },
+  {
+   "url": "http://depts.washington.edu/neurosur/education/residency-program/current-residents (Drupal, 5 per page x4 pages, label 'Resident' only, no PGY)",
+   "from": "2017-09",
+   "to": "2019-05 (only page 0 ever archived, Wayback and Common Crawl)"
+  },
+  {
+   "url": "https://neurosurgery.uw.edu/education/residency-program/current-residents (+ /index.php/ variant; Drupal, 5 per page, ?title=&page=0..4; 'Resident, PGY-n')",
+   "from": "2019-07",
+   "to": "live 2026-09-27 (all pages archived only 2020-05, 2020-11, 2021-06/07, 2022-09)"
+  },
+  {
+   "url": "https://neurosurgery.uw.edu/bio/<name> (resident bios with 'Resident, PGY-n')",
+   "from": "2019",
+   "to": "live"
+  },
+  {
+   "url": "https://neurosurgery.uw.edu/education/Alumni-residents -> /sites/default/files/Resident%20Directory_2.pdf (graduates 1957-2025 with years; PDF dated 2026-04-29)",
+   "from": "2019-11 (/education/alumni)",
+   "to": "live"
+  },
+  {
+   "url": "https://neurosurgery.uw.edu/news-and-resources/(meet-our-)newest-uw-neurological-surgery-residents[-0,-1,-2] (match announcements 2018-2026)",
+   "from": "2018-03",
+   "to": "live"
+  },
+  {
+   "url": "https://neurosurgery.uw.edu/news-and-resources/newsletters-archive -> /sites/default/files/newsletters/*.pdf (Montlake Cut 2009-2020) and /sites/default/files/Neurological Surgery Moments *.pdf (2024-2026): new R-1s, transfers, graduations",
+   "from": "2009",
+   "to": "live 2026-09"
+  },
+  {
+   "url": "UW Neurosurgery YouTube channel (@UWNeurosurgery), linked from grand-rounds news posts: video descriptions list resident presenters (research symposia 2025, 2026; chief talks 2026)",
+   "from": "2025",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2017-2018",
+  "2018-2019",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No roster capture. current.asp captured 2011-04-30 (2010-11) then 2013-02-11 (2012-13); nothing between on either host (gapaudit 2010-2027 on neurosurgery.washington.edu). Common Crawl CC-MAIN-2012 had no record. Fully reconstructed (manual) from the Apr 2011 and Feb 2013 rosters + alumni graduation years (17 people). Yaw Sarpong (R-3 in 2010-11, gone by Feb 2013, not on alumni list) is NOT reconstructed: he left in 2011-12 or 2012-13. PHASE2: Oct 2011 Montlake Cut names new residents Hanak and Collins (now 'other' observed); Oct 2012 issue: Ko and Peterson graduated June 2012. Sarpong found at Missouri (program 94) PGY4 2013-14 -> PGY7 2016-17.",
+  "2012-2013": "current.asp Feb 2013, R-1..R-8 headings. Complete.",
+  "2013-2014": "current.asp Aug 2013. Complete.",
+  "2014-2015": "current.asp Jan 2015. Cecchini listed as Michelle C. Chowdhary. Complete.",
+  "2015-2016": "current.asp Mar 2016 (only capture in AY). Complete.",
+  "2016-2017": "current.asp Aug 2016 (identical Dec 2016, Jan 2017 and even Aug 2017 = page abandoned). Complete.",
+  "2017-2018": "INCOMPLETE. New site depts.washington.edu/neurosur; Wayback and Common Crawl (CC-MAIN-2017-39..2018-26) hold only page 0 of 4 (alphabetical A-B: J. Abecassis, Bales, Barkley, Barros, Bass; no PGY labels). Loaded page 0 as 'other' plus manual rows for 14 people bracketed by Aug 2016 and May 2020 rosters or alumni years. Unobservable: whether Brie White-Dzuro (PGY2 expected) was still present; where Rajeev Sen was. PHASE2: Summer 2017 Montlake Cut 'Welcome New R-1s': Rajeev Sen, Maddie Greil, Guilherme Barros (loaded as 'other'). Sivakanthan removed from manual rows (he transferred in July 2019). White-Dzuro reconstructed PGY2 (UW-affiliated manuscripts received 2018-01, 2018-06). Pager 0-3 (16-20 listed).",
+  "2018-2019": "INCOMPLETE. Same: only page 0 (Wayback Oct 2018; CC through 2019-04). Manual rows for 15 bracketed people incl. 2018 interns Carroll/Eaton/Pan (Mar 2018 match news + 2019-20 PGY2). White-Dzuro and Sen unobservable. PHASE2: Summer 2018 Montlake Cut: Carroll, Eaton, Pan began July 1st. Sen PGY2 and White-Dzuro PGY3 reconstructed; Sivakanthan removed. Summer 2019 issue: Sivakanthan joined from UNM 'to fill an unexpected residency opening'. White-Dzuro now Gabrielle White-Dzuro, MGH Anesthesia (PubMed 2020+).",
+  "2019-2020": "neurosurgery.uw.edu pages 0-4 all captured 2020-05-12 (spring; only complete set in AY; page 0 Oct/Dec 2019 matches). 21 names. Complete.",
+  "2020-2021": "pages 0-4 captured 2020-11-19. Complete.",
+  "2021-2022": "pages 0-4 captured 2021-07-19, already advanced (content-dated 2021-22). Complete.",
+  "2022-2023": "pages 0-4 captured 2022-09-20. Complete.",
+  "2023-2024": "INCOMPLETE. Only page 0 archived (Wayback 2023-09-28; CC 2023-40/2023-50 same). Added 15 resident bio captures with matching 'Resident, PGY-n' (source_type other) and manual rows for McAvoy (bracketed) and El-ghazali (Apr 2023 match news + PGY2 bio Jul 2024). Class of 2023 = El-ghazali, Hug, Park per match news; Derrick Lewis not seen. PHASE2: pager counts consistent (5 pages, 6 pages after the 2024 match).",
+  "2024-2025": "INCOMPLETE. Only page 0 (Wayback 2024-09-19). 15 bio captures + manual rows for Pan (PGY7, alumni 2025; his bio still said PGY-6 = stale) and Zhao (bracketed). Park, Ruiz Rodriguez, Katherine Kelly last seen here via bios. PHASE2: Resident Research Symposium I/II (4/23, 4/30/2025) YouTube descriptions name 17 residents; Pan and Zhao now observed. Ruiz Rodriguez bio 404 by 2025-03-26.",
+  "2025-2026": "INCOMPLETE. Only page 0 archived (Wayback 2025-07..2026-02; CC 2025-30/33/51 and CC 2026 crawls same; CC-MAIN-2025-43 retried OK: 0 records for the roster prefix). PHASE2 additions: Aug 2025 Moments (Lewis transferred as PGY-3 from UF), May 2026 Moments (Chief Resident Maggie McGrath; PGY-4 Barrios-Anderson), 4/15/2026 Annual Resident Research Symposium video (Zhao, Vanent, Costello, El-Ghazali, Lewis, Hug, Z. Abecassis, Barrios-Anderson, Tyrtova), PubMed 42138120 (Maxin, UW Neurosurgery, received 2025-08), Sept 2026 Moments (graduation of Boop, McGrath, Tyrtova). Remaining manual rows: Nistal, Chee, Kelly-Hedrick, Sadler (bracketed). Pager: 5 pages (21-25 listed) Aug 2025-Feb 2026; 6 pages (26-30) Apr 2026 including 4 new interns -> at least 22 current residents, i.e. at least one of Katherine Kelly / Christine Park still listed (Ruiz Rodriguez bio already 404). Which one(s) is not observable.",
+  "2026-2027": "Live site 2026-09-27, 5 pages, 21 residents; PGYs advanced and 4 new interns (Anigbogu, Hanks, Lally, Routkevitch) -> loaded."
+ },
+ "alumni_page": "https://neurosurgery.uw.edu/education/Alumni-residents",
+ "departures": [
+  {
+   "name": "Yaw Sarpong",
+   "last_ay": "2010-2011",
+   "last_pgy": 3,
+   "outcome": "transferred",
+   "note": "To University of Missouri-Columbia (program 94): PGY4 2013-14 ... PGY7 chief 2016-17. Exit 2011 or 2012."
+  },
+  {
+   "name": "Brie White-Dzuro",
+   "last_ay": "2018-2019",
+   "last_pgy": 3,
+   "outcome": "switched_specialty",
+   "note": "UW-affiliated manuscripts through 2018 (revised Aug 2018); anesthesiology at Massachusetts General Hospital from ~2019-20 (PubMed as Gabrielle White-Dzuro). Vacancy filled July 2019 by Sivakanthan."
+  },
+  {
+   "name": "Juan Ruiz Rodriguez",
+   "last_ay": "2024-2025",
+   "last_pgy": 3,
+   "outcome": "transferred",
+   "note": "UW bio 404 by 2025-03-26 (left during/at end of PGY3); University of Nebraska (program 96) PGY-1 2026-27 (same person: UPR MD, Arecibo PR). 2025-26 unknown."
+  },
+  {
+   "name": "Katherine Kelly",
+   "last_ay": "2024-2025",
+   "last_pgy": 4,
+   "outcome": "unknown",
+   "note": "Bio PGY-4 to 2025-04-25; no later UW-affiliated papers; absent 2026-27. Possibly still listed in 2025-26 (pager count). Outcome unknown."
+  },
+  {
+   "name": "Christine Park",
+   "last_ay": "2024-2025",
+   "last_pgy": 2,
+   "outcome": "unknown",
+   "note": "Presented at 4/30/2025 symposium; UW Neurological Surgery affiliation on manuscripts received May 2025 (published 2026); absent 2026-27. Possibly still listed in 2025-26 (pager count). Outcome unknown."
+  },
+  {
+   "name": "Anthony Maxin",
+   "last_ay": "2025-2026",
+   "last_pgy": 1,
+   "outcome": "unknown",
+   "note": "2025 match; UW Neurosurgery affiliation on manuscript received Aug 2025 (PMID 42138120) = started July 2025; absent 2026-27 (2025 class there = Bashti, Costello, Muzyka). Left during/after PGY1; destination not found."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Robert Oxford",
+   "first_ay": "2014-2015",
+   "first_pgy": 5,
+   "note": "absent at R-4 Aug 2013; graduated 2017"
+  },
+  {
+   "name": "Sananthan Sivakanthan",
+   "first_ay": "2019-2020",
+   "first_pgy": 3,
+   "note": "transfer from University of New Mexico (2 years there) July 2019, 'to fill an unexpected residency opening' (Summer 2019 Montlake Cut); graduated 2024"
+  },
+  {
+   "name": "Derrick Lewis",
+   "first_ay": "2025-2026",
+   "first_pgy": 3,
+   "note": "transfer from University of Florida (program 82) July 2025 (Aug 2025 Moments newsletter); UF's Oct 2025 listing was stale"
+  }
+ ],
+ "residents_2011plus": 52,
+ "adjudication_summary": {
+  "COMPLETED": 42,
+  "IN TRAINING": 21,
+  "LEFT -> outcome unknown": 3,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> TRANSFERRED": 1,
+  "left_unknown": [
+   "Katherine Kelly",
+   "Christine Park",
+   "Anthony Maxin"
+  ],
+  "switched_specialty": [
+   "Brie White-Dzuro (anesthesiology, MGH)"
+  ],
+  "transferred": [
+   "Juan Ruiz Rodriguez (UNMC PGY1 2026)"
+  ],
+  "note": "Sarpong (entry 2008) is outside the 2011+ cohort table; recorded as transfer to Missouri in training_history."
+ },
+ "problems": "Pages 1+ of the paged rosters were never archived for 2017-19 or 2023-26 (Wayback and all Common Crawl crawls checked; CC-MAIN-2025-43 retry succeeded with 0 roster records). CC range failures (not needed): news-and-resources in CC-MAIN-2025-21 and 2025-47; index.php/bio in CC-MAIN-2026-30. OpenAlex rate-limited (daily budget exhausted), Europe PMC/PubMed used instead. YouTube descriptions (department channel) used for presenter lists. Sen's 2019-21 PGY labels lag his class. Celix R-8 in 2012-13 (extended).",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "All 17 bracketed or alumni-confirmed; interns Hanak/Collins observed in Oct 2011 newsletter; Ko/Peterson graduated June 2012 (Oct 2012 newsletter). Only open point: Sarpong (transferred to Missouri, completed there) left after 2010-11 or during 2011-12."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "current.asp Feb 2013, complete."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Page 0 + Summer 2017 newsletter (interns Sen, Greil, Barros) + bracketed manual rows; White-Dzuro present (UW-affiliated manuscripts 2018-01/2018-06). Pager 4 pages (16-20 listed) matches the 20 expected. No unseen entry/exit possible except as noted."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Page 0 + Summer 2018 newsletter (Carroll, Eaton, Pan) + bracketed rows. White-Dzuro's exit (switched to anesthesiology, MGH) falls at end of/during this year; the vacancy was filled by Sivakanthan (PGY3 transfer from UNM) July 2019. Pager 4 pages (<=20) vs 21 expected hints she may have been off the list already by Oct 2018."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete (May 2020 all pages)."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete."
+  },
+  "2023-2024": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Page 0 + 15 bios + 2 bracketed rows = 22; pager 5 pages (21-25) Sep 2023-Mar 2024 and 6 pages Apr-Jun 2024 (22 + 4 matched interns) match exactly; no room for an unseen resident."
+  },
+  "2024-2025": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Page 0 + bios + Resident Research Symposium 4/23 & 4/30/2025 video descriptions (17 named, incl. Park PGY2) = 22 accounted. Ruiz Rodriguez left during this year (bio 404 by 2025-03-26); May 2025 pager 5 pages = 21 + 4 matched interns, consistent."
+  },
+  "2025-2026": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "21 accounted: page 0, bios, Aug 2025 newsletter (Lewis PGY3 transfer), May 2026 newsletter (Chief McGrath; PGY4 Barrios-Anderson), 4/15/2026 symposium video (9 named), PubMed (Maxin at UW Neurosurgery, received Aug 2025), 4 bracketed rows. Katherine Kelly and Christine Park unresolved: the roster pager (5 pages Aug 2025-Feb 2026; 6 pages Apr 2026 with 4 new interns = >=26 listed) implies at least one of them was still listed in 2025-26, so their exit year (2025 vs 2026) is unknown; both absent 2026-27."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live 2026-09-27, 21 residents."
+  }
+ },
+ "graduations_added": [
+  "Maggie McGrath 2026",
+  "Scott Boop 2026",
+  "Evgeniya Tyrtova 2026"
+ ],
+ "corrections": [
+  "Rajeev Sen is a 2017 R-1 (Summer 2017 newsletter), not a joiner; his PGY-2 (2019-20) and PGY-3 (2020-21) roster labels lag his class; he graduated 2024 with Greil and Barros.",
+  "Sivakanthan was NOT at UW in 2017-19 (phase-1 manual rows removed); he transferred in at PGY-3 in 2019-20.",
+  "Maggie McGrath graduated 2026 (not a switch; the NPI flag was wrong)."
+ ],
+ "phase2": {
+  "searched": [
+   "Wayback CDX prefix (all statuses) for current-residents on neurosurgery.uw.edu (+index.php), depts.washington.edu/neurosur, residency-program/?title=&page=N (not a roster), news-and-resources 2024-2026 (567 URLs)",
+   "Wayback CDX for bios of Park, Ruiz Rodriguez, K. Kelly, McGrath, Maxin, Lewis (all statuses)",
+   "Roster pager page counts in every page-0 capture 2017-2026 (5 per page)",
+   "Common Crawl 2025-2026 all crawls: bio/, index.php/bio/, current-residents (+index.php), news-and-resources; CC-MAIN-2025-43 retried OK",
+   "Live newsletters archive: 57 PDFs (Montlake Cut 2009-2020, Neurological Surgery Moments 2024-2026)",
+   "Grand-rounds news posts and linked department YouTube video descriptions (symposia 2025/2026, chief talks 2026)",
+   "PubMed/Europe PMC name + affiliation searches (Park, Ruiz Rodriguez, Kelly, Maxin, McGrath, Lewis, White-Dzuro, Sarpong); pubmed_aff 2025-2026",
+   "DB cross-program lookups (UF 82, Missouri 94, UNMC 96); UNMC live roster; UF Wayback roster and Lewis bio; NPPES (hint only)"
+  ],
+  "found": [
+   "McGrath graduated 2026 (Sept 2026 newsletter; Chief Resident May 2026)",
+   "Derrick Lewis transfer from UF at PGY3 July 2025 (Aug 2025 newsletter; PubMed)",
+   "Ruiz Rodriguez left UW during PGY3 2024-25 and is UNMC PGY1 2026-27",
+   "Maxin started at UW July 2025 (PubMed affiliation) and left by 2026-27",
+   "White-Dzuro switched to anesthesiology (MGH), exit ~2019",
+   "Sarpong transferred to Missouri",
+   "Sivakanthan transferred in from UNM at PGY3 2019-20 (phase-1 rows for him in 2017-19 were wrong)",
+   "Sen is a 2017 R-1 (not a joiner)",
+   "Interns 2011, 2017, 2018 and presenters 2025/2026 observed via newsletters and symposium videos"
+  ],
+  "remaining": [
+   "Exit year (2025 vs 2026) and outcome of Katherine Kelly and Christine Park; pager count says at least one was still listed in 2025-26",
+   "Maxin's destination; Kelly's and Park's destinations",
+   "Sarpong's exact exit year (2011 vs 2012)",
+   "Roster pages 1-4 remain unarchived for 2017-19 and 2023-26"
+  ]
+ }
+}

@@ -1,0 +1,297 @@
+{
+ "program_id": 14,
+ "name": "Clinical Center at the National Institutes of Health Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2010,
+ "hosts": [
+  {
+   "url": "http://clinicalcenter.nih.gov/training/gme/programs/neurological_surgery.html (NIH CC GME page with 'Current Residents' section)",
+   "from": "2010-05",
+   "to": "2016-01 (section removed Apr 2016; page moved to www.cc.nih.gov/training/gme/programs/neurological_surgery 2024, no roster; live 403)"
+  },
+  {
+   "url": "http://neuroscience.nih.gov/ninds/ClinicalPrograms/ClinicalJobsTraining/NeurologicalSurgeryResidencyProgram.aspx and .../ClinicalFellowshipProgram/SurgicalNeurology.aspx (description only)",
+   "from": "2015-05",
+   "to": "2020-08"
+  },
+  {
+   "url": "https://neuroscience.nih.gov/neurosurgery/Home/Education/CurrentResidents.aspx + FormerResidents.aspx (NINDS SNB site)",
+   "from": "2019-07",
+   "to": "2020-08 (host 301 -> research.ninds.nih.gov by 2024; host no longer resolves)"
+  },
+  {
+   "url": "https://research.ninds.nih.gov/surgical-neurology-branch/education-training/{current-residents,alumni,residency-program}",
+   "from": "2021-10",
+   "to": "2025-04 (301 to generic www.ninds.nih.gov intramural page from 2025-06; host no longer resolves)"
+  },
+  {
+   "url": "http://www.medicine.virginia.edu/clinical/departments/neurosurgery/residenttraining[/current-residents] (UVA partner; NIH residents marked '(NIH)')",
+   "from": "2010-07",
+   "to": "2015-11"
+  },
+  {
+   "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/ (UVA partner)",
+   "from": "2016-08",
+   "to": "live 2026-09-27 (no Wayback captures 2016-09..2019-07; Common Crawl has 2017-09-20..2018-12-18)"
+  },
+  {
+   "url": "https://www.medstarhealth.org/education/residency-programs/neurosurgery/current-residents (MedStar Georgetown partner since 2024; NIH residents marked '(NIH)')",
+   "from": "2024-04",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "NIH CC GME page Apr-2012: Ho PGY1, Mehta PGY2, Weintraub PGY3 (Ksendzovsky 'PGY1 effective 7/2012' excluded). Oct-2011/Jan-2012 captures list only Ho and Mehta.",
+  "2012-2013": "CC GME Jan-2013: Ksendzovsky 1, Ho 2, Mehta 3, Weintraub 4 (Oct-2012 capture not yet rolled over).",
+  "2013-2014": "CC GME Jan-2014: Maggio 1, Ksendzovsky 2, Ho 3, Mehta 4 -- omits Weintraub; UVA page Feb-2014 lists 'Weintraub, David(NIH)' without PGY (stored as source_type other, pgy null). Complete once combined.",
+  "2014-2015": "UVA current-residents Feb-2015 (NIH-marked): Maggio 2, Ksendzovsky 3, Ho 4, Mehta 5, Weintraub 6. No NIH PGY-1 (no 2014 entrant; consistent with empty PGY-5/6/7 slots in 2018-19..2020-21 and no 2021 graduate).",
+  "2015-2016": "UVA Sep-2015: Mastorakos 1, Maggio 3, Ksendzovsky 4, Ho 5, Mehta 6, Weintraub 7. CC GME page stale (2014-15 list) until its roster section was removed in 2016.",
+  "2016-2017": "UVA Aug-2016 (Wayback): Mastorakos 2, Maggio 4, Ksendzovsky 5, Ho 6, Mehta 7; page has no PGY-1 group for any track. Phase 2: Wayback gapaudit 2016-06..2017-08 over med.virginia.edu/neurosurgery, clinicalcenter.nih.gov/training, neuroscience.nih.gov/ninds, www.cc.nih.gov/training found no other roster capture; Common Crawl 2016-07..2017-51 (21 crawls, 0 failures) had no UVA current-residents capture before 2017-09 and NINDS program pages are description-only. Pomeraniec added as a reconstructed PGY-1 row (manual entry): PGY-2 '(NIH)' 2017-18, alumni graduation 2023.",
+  "2017-2018": "No Wayback capture anywhere (CC GME page had no roster after 2016; neuroscience.nih.gov/ninds pages description-only; SNB site first captured 2019-07; UVA page no Wayback captures 2016-09..2019-07). FOUND in Common Crawl: UVA current-residents CC-MAIN-2017-39 (2017-09-20), 2017-47 (2017-11-21, used), 2018-09 (2018-02-20), all identical: Ho 7, Ksendzovsky 6, Maggio 5, Mastorakos 3, Pomeraniec 2 (all '(NIH)'), Ampie 1 (no marker; NIH-marked on all later pages). Complete (PGY-4 empty = no 2014 entrant).",
+  "2018-2019": "Common Crawl UVA current-residents CC-MAIN-2018-43 (2018-10-16, used; same 2018-12-18): Asuzu 1, Ampie 2, Pomeraniec 3, Mastorakos 4, Maggio 6, Ksendzovsky 7 (PGY-5 empty = no 2014 entrant). The only NIH-site capture (neuroscience.nih.gov/neurosurgery CurrentResidents, Wayback 2020-08-12) is stale 2018-19 content and mislabels Asuzu PGY2 (same as Ampie); not used. This resolves Asuzu's entry year as 2018.",
+  "2019-2020": "UVA Aug-2019 (NIH-marked): Diamond 1, Asuzu 2, Ampie 3, Pomeraniec 4, Mastorakos 5, Maggio 7; no PGY-6 (no 2014 entrant).",
+  "2020-2021": "UVA Sep-2020: Laws 1, Diamond 2, Asuzu 3, Ampie 4, Pomeraniec 5, Mastorakos 6; no PGY-7 (no 2014 entrant).",
+  "2021-2022": "research.ninds.nih.gov current-residents May-2022 (first capture; Aug-2022 identical, not rolled over): Mastorakos 7 ... McAbee 1. Full 7.",
+  "2022-2023": "research.ninds May-2023 capture (spring; content 2022-23: Pomeraniec PGY7, Roehrkasse intern). Full 7. UVA Feb-2023 agrees for UVA-track residents.",
+  "2023-2024": "research.ninds Sep-2023: Ampie 7, Asuzu 6, Diamond 5, Laws 4, McAbee 3, Roehrkasse 2, Der 1.",
+  "2024-2025": "research.ninds residency-program Sep-2024 roster: Asuzu 7, Diamond 6, Laws 5, McAbee 4, Roehrkasse 3, Der 2, Chen 1. MedStar Oct-2024 agrees.",
+  "2025-2026": "NIH roster pages gone (research.ninds.nih.gov retired Jun-2025; www.ninds.nih.gov intramural/training pages in Wayback 2025-26 have no neurosurgery roster; live NINDS and cc.nih.gov return 403). Combined partner pages: MedStar Georgetown Jan-2026 (McAbee 5, Roehrkasse 4, Der 3, Chen 2, Mizrachi 1, all '(NIH)') + UVA Aug-2025 (Diamond 7, Laws 6). Full 7 across the two sources.",
+  "2026-2027": "Live 2026-09-27: MedStar (McAbee 6, Roehrkasse 5, Der 4, Chen 3 '(NIH)', Presto 1 '(NIH)') + UVA (Laws 7 '(NIH)'). PGY-2 empty: Mizrachi (NIH PGY-1 2025-26) absent; MedStar PGY-2 lists only Waldman and Wong (not NIH). No NIH-hosted roster exists."
+ },
+ "alumni_page": "https://research.ninds.nih.gov/surgical-neurology-branch/education-training/alumni (Wayback 2022-05..2023-09; also embedded in residency-program page to 2025-04). Earlier: https://neuroscience.nih.gov/neurosurgery/Home/Education/FormerResidents.aspx (2020-08)",
+ "departures": [
+  {
+   "name": "Mark Mizrachi",
+   "last_ay": "2025-2026",
+   "last_pgy": 1,
+   "outcome": "transferred",
+   "destination": "Loma Linda University Health Education Consortium Program (program 31), PGY-2 2026-27",
+   "note": "'Mark Mizrachi, MD, PhD (NIH)' PGY-1 on MedStar Georgetown Jan/Feb/Jun-2026; absent Sep-2026 and live. Live LLU page 2026-09-28 lists 'Mark Mizrachi, MD, PhD PGY-2' (Hofstra/Northwell MD); PubMed Hofstra/Northwell/Feinstein MD-PhD affiliations 2021-2025 fit. Same rare name, credential, and continuous PGY. training_history th_id 3380 (out) + 2723 (in, program 31)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "David Weintraub",
+   "first_ay": "2011-2012",
+   "first_pgy": 3,
+   "note": "Entry 2009 as UVA resident (UVA list Sep-2010/Mar-2011, no marker). NIH CC page first lists him Apr-2012 as 'PGY3' (Oct-2011/Jan-2012 captures list only Ho, Mehta); UVA shows 'Weintraub, David(at NIH)' from May-2012. Treated as joining the NIH track at PGY-3 in 2011-12, an internal NIH-UVA track move. Program 113 excludes him from UVA for all years, so there is no UVA-side transfer-out. PGY-7 2015-16; graduated 2016 (training_history th_id 3376; on UVA alumni list, not NIH's)."
+  }
+ ],
+ "residents_2011plus": 15,
+ "adjudication_summary": {
+  "COMPLETED": 10,
+  "IN TRAINING": 6,
+  "LEFT -> TRANSFERRED": 1
+ },
+ "problems": "Joint NIH-UVA track 2010-~2021 entrants (clinical years at UVA); classes from 2021 (McAbee) train with MedStar Georgetown. Most roster evidence after 2014 comes from partner pages (UVA, MedStar) that mark residents '(NIH)'; stored as wayback/live when complete for NIH residents, CC captures as 'other'. NIH's own sites (clinicalcenter GME 2010-16, neuroscience.nih.gov 2019-20, research.ninds.nih.gov 2021-25) are gone; live www.ninds.nih.gov and www.cc.nih.gov return 403 to automated fetches (not bypassed), so 2025-26/2026-27 depend on MedStar+UVA pages. NIH alumni list stops at 2023 (Ampie ~2024, Asuzu ~2025 graduates not listed; only alumni-page grads inserted into training_history: Mehta 2017, Ho 2018, Ksendzovsky 2019, Maggio 2020, Mastorakos 2022, Pomeraniec 2023). Weintraub (grad 2016) not on NIH alumni page. No NIH entrant in 2014 (empty slot visible 2014-15..2020-21, no 2021 graduate) - could hide an unseen 2014 intern who left in PGY-1 2014-15, but the 2014-15 UVA and Apr-2015 CC pages both show no NIH PGY-1. Common Crawl: 2017-2018 pass completed (24 crawls, no failures) for SURTs edu,virginia,med)/neurosurgery/resident-training/current-residents, gov,nih,neuroscience)/ninds/clinicalprograms, gov,nih,clinicalcenter)/training/gme/programs/neurological_surgery. A 2025-26 CC pass was started and stopped (partner pages covered those years). PHASE 2: Wayback CDX returned 503/500 intermittently (retried). No crawls failed.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "NIH CC page Apr-2012 lists all three residents; Ksendzovsky shown as incoming 7/2012."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Full NIH CC roster (4 of 4 expected)."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "NIH CC page lists 4; Weintraub from UVA '(NIH)' listing (PGY-4 2012-13 and PGY-6 2014-15 bracket him). All 5 expected classes present."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "UVA '(NIH)' list complete; no 2014 NIH entrant, confirmed by an empty slot 2014-15..2020-21 and the Apr-2015 CC page."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "All 6 NIH classes on the UVA page."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "No PGY-1 group on the only capture; the 1-position class is filled by Pomeraniec (reconstructed from PGY-2 2017-18 and 2023 graduation). Only an extra over-complement intern who left within the year could be missed."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl UVA page: all 6 NIH classes (no 2014 class)."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl UVA page: all 6 NIH classes."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "UVA '(NIH)' list complete."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "UVA '(NIH)' list complete."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "NINDS SNB roster, full 7."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "NINDS SNB roster, full 7."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "NINDS SNB roster, full 7."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "NINDS SNB roster, full 7; MedStar agrees."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "MedStar (PGY1-5) + UVA (PGY6-7) partner pages cover all 7 classes; each resident seen before and/or after."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "MedStar + UVA live pages; PGY-2 slot empty because Mizrachi transferred to Loma Linda (confirmed)."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "class_membership": {
+  "2009": [
+   "David Weintraub (joined PGY-3 2011-12)"
+  ],
+  "2010": [
+   "Gautam Mehta"
+  ],
+  "2011": [
+   "Winson Ho"
+  ],
+  "2012": [
+   "Alexander Ksendzovsky"
+  ],
+  "2013": [
+   "Dominic Maggio"
+  ],
+  "2014": [],
+  "2015": [
+   "Panagiotis Mastorakos"
+  ],
+  "2016": [
+   "Jonathan Pomeraniec"
+  ],
+  "2017": [
+   "Leonel Ampie"
+  ],
+  "2018": [
+   "David Asuzu"
+  ],
+  "2019": [
+   "Joshua Diamond"
+  ],
+  "2020": [
+   "Maxwell Laws"
+  ],
+  "2021": [
+   "Joseph McAbee"
+  ],
+  "2022": [
+   "Amanda Roehrkasse"
+  ],
+  "2023": [
+   "Evan Der"
+  ],
+  "2024": [
+   "Jessica Chen"
+  ],
+  "2025": [
+   "Mark Mizrachi (transferred out after PGY-1)"
+  ],
+  "2026": [
+   "Peyton Presto"
+  ]
+ },
+ "graduations": {
+  "2016": "Weintraub (PGY-terminal roster)",
+  "2017": "Mehta (alumni)",
+  "2018": "Ho (alumni)",
+  "2019": "Ksendzovsky (alumni)",
+  "2020": "Maggio (alumni)",
+  "2021": "none (no 2014 entrant)",
+  "2022": "Mastorakos (alumni)",
+  "2023": "Pomeraniec (alumni)",
+  "2024": "Ampie (PGY-terminal roster)",
+  "2025": "Asuzu (PGY-terminal roster)",
+  "2026": "Diamond (PGY-terminal roster)",
+  "2027": "Laws expected (PGY-7 2026-27)"
+ },
+ "phase2": {
+  "searched": [
+   "Raw phase-1 files re-read (cc/, cc_b/, txt/): no unparsed roster inside a gap year",
+   "Wayback gapaudit 2016-06..2017-08: med.virginia.edu/neurosurgery, clinicalcenter.nih.gov/training, neuroscience.nih.gov/ninds, www.cc.nih.gov/training (saved phase2/gapaudit_2016.txt)",
+   "Common Crawl 2016-2017 (21 crawls, 0 failures), new filter: edu,virginia,med)/neurosurgery/, gov,nih,clinicalcenter)/training/gme/, gov,nih,neuroscience)/ninds/ and /neurosurgery, gov,nih,ninds)/research/clinical",
+   "Wayback CDX 2025-2026 on www.ninds.nih.gov and www.cc.nih.gov/training filtered for neurosurg/residen: no roster (phase2/ninds_2025_cdx.txt)",
+   "NIH CC GME page all captures 2010-2013 re-read for Weintraub's first listing",
+   "UVA (program 113) raw text 2010-2012 read for Weintraub markers (read-only)",
+   "PubMed: 'Surgical Neurology Branch'[ad] 2011-2026 author mining (phase2/pubmed_snb.txt); Pomeraniec 2015-2018; Mizrachi",
+   "crossmatch.json: Mizrachi 14 -> 31; program 31 and 45 roster files read (read-only); live LLU residents page"
+  ],
+  "found": [
+   "Mizrachi transfer to Loma Linda PGY-2 2026-27 (confirmed)",
+   "Weintraub NIH listing starts Apr-2012 as PGY3; UVA '(at NIH)' from May-2012",
+   "PubMed SNB-affiliation mining surfaced no resident missing from the rosters. Every year's roster already fills the 1-position complement, so any other SNB authors (fellows, staff, students) cannot be unseen residents."
+  ],
+  "remaining": [
+   "2016-17 PGY-1 row for Pomeraniec is reconstructed (low significance: complement 1, class filled)"
+  ]
+ }
+}

@@ -1,0 +1,1011 @@
+[
+ {
+  "key": "25:pet:schaible",
+  "name": "Peter Schaible",
+  "program_id": 25,
+  "identity": "not_found",
+  "identity_basis": "Searches returned Keith Schaible (Oak Lawn IL neurosurgeon) and unrelated Peter Schaibles (NMA neuromonitoring, athlete); no profile tying a Peter Schaible to Henry Ford Providence found. A search summary mentioned a Las Vegas neurosurgeon Peter Schaible but no source URL opened; unverified.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "No public evidence found; input lists as PGY-1 2026-27 (entry 2026) which is consistent with no profile yet.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/keith-schaible-md",
+    "type": "search_snippet",
+    "evidence": "Dr. Keith Schaible, MD - Oak Lawn, IL | Neurosurgery (different person)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "26:rob:scranton",
+  "name": "Robert Scranton",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency Neurological Surgery at Houston Methodist 2011-2018, MD UT Health San Antonio 2011; Providence bio says residency finished 2018",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed HM neurosurgery 2011-2018; practising neurosurgeon, ABNS.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Covenant/Providence, Lubbock TX (fellowship Indiana Univ 2018-19)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/robert-scranton-md",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.providence.org/doctors/neurosurgery/tx/lubbock/robert-scranton-1861785925",
+    "type": "bio",
+    "evidence": "finished Neurological Surgery residency at Houston Methodist Hospital in 2018 (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:sea:barber",
+  "name": "Sean Barber",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HM residency 2011-2018, MD UTMB 2011; Houston Methodist faculty",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2018; fellowship Brown 2018-19.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Assistant Professor, Houston Methodist",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sean-barber-md",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2011 - 2018; ABNS"
+   },
+   {
+    "url": "https://www.houstonmethodist.org/doctor/sean-m-barber/",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency at Houston Methodist Hospital followed by a fellowship (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:men:huang",
+  "name": "Meng Huang",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: HM residency 2012-2019, MD UTMB 2012; HM faculty page",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Houston Methodist",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/meng-huang-md-5f39d6e9",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2012 - 2019; ABNS; fellowship Miami 2019-2020"
+   },
+   {
+    "url": "https://www.houstonmethodist.org/doctor/meng-huang/",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency at Houston Methodist Hospital (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:vir:desai",
+  "name": "Virendra Desai",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/CHLA: MD UTHSCSA 2012, residency HM 2012-2019, fellowship Indiana peds 2020-21; distinctive name with HM residency",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019 (Doximity end 2019; DB says class of 2020 / 8 years, extra year noted). Name is not ambiguous for this HM resident.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Director Pediatric Surgical Epilepsy & Functional, Children's Hospital Los Angeles",
+  "agrees_with_db": true,
+  "disagreement": "Doximity residency end 2019, alumni page graduation 2020 (year discrepancy only).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/virendra-desai-md-321e91d4",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2012 - 2019; ABNS; CHLA"
+   },
+   {
+    "url": "https://www.chla.org/profile/virendra-r-desai-md",
+    "type": "bio",
+    "evidence": "Virendra R. Desai, MD Children's Hospital Los Angeles (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:wil:steele",
+  "name": "William Steele",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: William James Steele III, HM residency 2013-2020, Texas Tech MD 2013; HM affiliated neurosurgeon",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Houston TX (Houston Methodist / Neurosurgical Group of Texas)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/william-steele-md-c61bcba4",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2013 - 2020; Fellowship Miami 2020-2021; ABNS"
+   },
+   {
+    "url": "https://www.houstonmethodist.org/doctor/william-j-steele/",
+    "type": "bio",
+    "evidence": "completed his residency at Houston Methodist Hospital ... fellowship University of Miami (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:zai:boghani",
+  "name": "Zain Boghani",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Rutgers NJMS 2013, HM residency 2013-2020",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020; fellowship Rhode Island Hospital 2020-21.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Northeast Georgia Medical Center, Gainesville GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/zain-boghani-md",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2013 - 2020; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:rya:jafrani",
+  "name": "Ryan Jafrani",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Baylor; residency HM 2014-2017 then Penn State Hershey 2017-2021",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2017
+   },
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2021
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred from Houston Methodist (2014-2017) to Penn State Hershey neurosurgery July 2017 (PGY-4); completed there 2021.",
+  "year_left": 2017,
+  "destination_program": "Penn State Milton S. Hershey Medical Center",
+  "destination_start_year": 2017,
+  "current": "pediatric neurosurgeon, Orlando Health Arnold Palmer Hospital for Children (Orlando FL)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-jafrani-md",
+    "type": "doximity",
+    "evidence": "Penn State Milton S Hershey Medical Center Residency, Neurological Surgery, 2017 - 2021; Houston Methodist Hospital Residency, Neurological Surgery, 2014 - 2017"
+   },
+   {
+    "url": "https://www.arnoldpalmerhospital.com/physician-finder/ryan-jafrani-md",
+    "type": "bio",
+    "evidence": "completed residency in neurosurgery at Penn State Health ... Washington University fellowship (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:ama:jenson",
+  "name": "Amanda Jenson",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD TTUHSC Paul Foster 2015, HM residency 2015-2022; Duke bio; HM blog first female chief resident 2021",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2022; practising pediatric neurosurgeon (ABNS not shown on Doximity).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Duke Health (faculty since Aug 2024)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/amanda-jenson-md-32f81f47",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2015 - 2022; Pediatric Neurosurgery Fellowship Johns Hopkins All Children's 2023-2024"
+   },
+   {
+    "url": "https://www.dukehealth.org/find-doctors-physicians/amanda-v-jenson-md",
+    "type": "bio",
+    "evidence": "Pediatric Neurosurgeon, Duke Health (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:sae:sadrameli",
+  "name": "Saeed Sadrameli",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Univ Florida 2015, HM residency 2015-2022",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2022.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, AdventHealth / Orlando Neurosurgery, Kissimmee FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/saeed-sadrameli-md",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2015 - 2022; ABNS"
+   },
+   {
+    "url": "https://orlandoneurosurgery.com/saeed-sadrameli/",
+    "type": "bio",
+    "evidence": "board-certified in neurosurgery ... completed residency at Houston Methodist (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:jon:lee",
+  "name": "Jonathan Lee",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Maxim Spine bio: Brown MD, HM residency 2016-2023, Barrow fellowship; Doximity Cedar Knolls NJ profile same training",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023. Doximity lists ABA (anesthesiology) certification, likely data error/namesake merge; ABNS not shown.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Maxim Spine, NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jonathan-lee-md-441a673e",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2016 - 2023; Brown Class of 2016 (certification listed oddly as American Board of Anesthesiology)"
+   },
+   {
+    "url": "https://maximspine.com/team_member/jonathan-lee-md-faans/",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at Houston Methodist Hospital from 2016 to 2023 (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:rya:austerman",
+  "name": "Ryan Austerman",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Center for Neurosciences bio: USC MD 2016, HM residency 2016-2023, Vanderbilt fellowship",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Center for Neurosciences, Tucson AZ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-austerman-md",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2016 - 2023; Vanderbilt stereotactic/functional fellowship 2023-2024"
+   },
+   {
+    "url": "https://neurotucson.com/bio/ryan-austerman/",
+    "type": "bio",
+    "evidence": "Ryan Austerman, MD | Center for Neurosciences (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:sam:asante",
+  "name": "Samuel Asante",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Univ Kansas 2017, HM neurosurgery residency (listed '2017' = start); co-author with HM residents",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising neurosurgeon; HM residency start 2017, end year not stated by Doximity (end 2024 inferred from class; not stated).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Bon Secours St. Francis, Greenville SC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/samuel-asante-md",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2017"
+   },
+   {
+    "url": "https://www.bonsecours.com/find-a-doctor/physicians/samuel-k-asante/2789644",
+    "type": "bio",
+    "evidence": "Samuel K Asante, MD | Greenville, SC | Neurosurgery (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:jai:guerrero",
+  "name": "Jaime Guerrero",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD UTHSCSA 2018, HM residency 2018-2025",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2025; now spine fellow (fellowship after neurosurgery residency).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine surgery fellow, Cleveland Clinic (2025-26)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jaime-guerrero-md-d60dbd00",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2018 - 2025; Spine Surgery Fellow @ CCF"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:mar:wong",
+  "name": "Marcus Wong",
+  "program_id": 26,
+  "identity": "probable",
+  "identity_basis": "HM Dept of Neurosurgery (The Woodlands) endovascular neurosurgeon, Texas A&M MD 2018; co-author with HM residents (Schwartz, Guerrero) 2026",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising endovascular neurosurgeon at HM; residency dates not stated by sources (end 2025 not confirmed).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "board-eligible endovascular neurosurgeon, Houston Methodist Woodlands/Shenandoah TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/marcus-wong-md-78499162",
+    "type": "doximity",
+    "evidence": "Marcus Wong MD, Neurosurgery, Shenandoah TX; Texas A&M Health Science Center College of Medicine Class of 2018 (no residency listed)"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-marcus-wong-xynw7mk",
+    "type": "search_snippet",
+    "evidence": "board-eligible, fellowship-trained endovascular neurosurgeon at Houston Methodist Department of Neurosurgery, The Woodlands"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:dor:mambelli",
+  "name": "Dorian Mambelli",
+  "program_id": 26,
+  "identity": "probable",
+  "identity_basis": "Doximity: MD Drexel 2019, HM residency (no dates), 'Resident Physician'; HM affiliated publications 2026",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No public source independently confirms completion in 2026; profiles still call him a resident (may be stale). HM alumni list (per DB) says 2026.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "listed as neurosurgery resident, Houston Methodist (Doximity/WebMD)",
+  "agrees_with_db": true,
+  "disagreement": "Public profiles show resident status; completion not independently confirmed.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dorian-mambelli-md",
+    "type": "doximity",
+    "evidence": "Resident Physician; Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery (no dates)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:sib:rajendran",
+  "name": "Sibi Rajendran",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "HM faculty profile: MD Kentucky 2019, neurosurgery residency at Houston Methodist, fellowships St George's London and Dell Seton/UT Austin",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed HM residency (faculty listing; 2026 per DB); now practising neurosurgery.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (functional/epilepsy), Houston Methodist Department of Neurosurgery",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.houstonmethodist.org/doctor/sibi-rajendran/",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at the Houston Methodist Neurological Institute ... fellowship St. George's University Hospital ... Dell Seton (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:sur:sulhan",
+  "name": "Suraj Sulhan",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Texas A&M 2019, HM residency 2019-2026; Becker's: joins Dallas Neurosurgical & Spine",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2026.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spinal neurosurgeon, Dallas Neurosurgical & Spine, Plano TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/suraj-sulhan-md",
+    "type": "doximity",
+    "evidence": "Houston Methodist Hospital (Medical Center) Residency, Neurological Surgery, 2019 - 2026"
+   },
+   {
+    "url": "https://www.beckersspine.com/spine/dallas-neurosurgical-spine-adds-endoscopic-spine-surgeon/",
+    "type": "news",
+    "evidence": "recently completed his residency at Houston Methodist (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:joh:patterson",
+  "name": "John Patterson",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Vitals/AANS 2025: HM neurosurgery resident, MD Univ Arkansas 2020; Doximity page at HM address (Other MD/DO, no training listed); co-author with HM residents (Asante 2023)",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current HM neurosurgery resident per sources; no evidence of departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Houston Methodist",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.vitals.com/doctors/MedicalDoctors_John_David_Patterson.html",
+    "type": "search_snippet",
+    "evidence": "John D. Patterson, neurosurgery resident at Houston Methodist Neurological Institute (search summary)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/john-patterson-md-2ef5dee8",
+    "type": "doximity",
+    "evidence": "John David Patterson MD, Other MD/DO, Houston Methodist Hospital 6560 Fannin (no education listed)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:lin:schwartz",
+  "name": "Lindsey Schwartz",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "WebMD/Instagram: MD McGovern 2020, HM neurosurgery PGY2 2021, HM publications 2024-26",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current HM neurosurgery resident per sources; no evidence of departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Houston Methodist",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.instagram.com/p/CTnWSSbpxy_/",
+    "type": "search_snippet",
+    "evidence": "Houston Methodist Neurosurgery | PGY2 Lindsey Schwartz (search result title)"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/lindsey-schwartz-2a50841b-9eac-4160-8db5-9bd0ec595182-overview",
+    "type": "search_snippet",
+    "evidence": "graduated McGovern Medical School 2020, Neurological Surgery, Houston"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:aud:demand",
+  "name": "Audrey Demand",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn/medifind: neurosurgery resident at HM, LSU Shreveport MD; HM co-authored papers 2026",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current HM neurosurgery resident per sources; no evidence of departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Houston Methodist",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/audrey-demand-93291833a/",
+    "type": "search_snippet",
+    "evidence": "Audrey Demand - Neurosurgery Resident at Houston ... (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:dom:kizek",
+  "name": "Dominic Kizek",
+  "program_id": 26,
+  "identity": "probable",
+  "identity_basis": "Doctor.com/ResearchGate; HM Scholars publication (Hybrid ACR-PSO, with HM residents); Baylor/TCH affiliation on earlier research",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current HM neurosurgery resident per sources; no evidence of departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Houston Methodist (unconfirmed)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://scholars.houstonmethodist.org/en/publications/hybrid-anterior-column-realignmentpedicle-subtraction-osteotomy-f/",
+    "type": "search_snippet",
+    "evidence": "Kizek listed as author (search result); Doximity lists a Dominic Kizek as Other MD/DO Houston (unopened)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:rya:farrell",
+  "name": "Ryan Farrell",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Resident Physician Houston, UTHSCSA MD 2022 at 6565 Fannin; WebMD neurological surgery Houston; HM publications with Mambelli",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current HM neurosurgery resident per sources; no evidence of departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Houston Methodist",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-farrell-md-669d3ff1",
+    "type": "doximity",
+    "evidence": "Ryan Farrell MD, Resident Physician, Houston TX; UT Health San Antonio Class of 2022 (no residency program listed)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:ism:mohiuddin",
+  "name": "Ismail Mohiuddin",
+  "program_id": 26,
+  "identity": "probable",
+  "identity_basis": "LinkedIn: Neurosurgery resident, Texas Tech MD; HM co-author (Neurosurgery Practice 2024 w/ Schwartz, Rajendran, Huang)",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current HM neurosurgery resident per sources; no evidence of departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Houston Methodist",
+  "agrees_with_db": true,
+  "disagreement": "Doximity profile shows Family Medicine (UTMB 2022-2025) - timeline inconsistent (MD class 2023); treated as unreliable Doximity data or namesake; other sources say HM neurosurgery resident.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/ismohiuddin/",
+    "type": "search_snippet",
+    "evidence": "Ismail Mohiuddin - Neurosurgery Resident Physician (search result)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ismail-mohiuddin-md",
+    "type": "doximity",
+    "evidence": "Ismail Mohiuddin MD PhD, Family Medicine, Residency Family Medicine UTMB 2022-2025, Texas Tech Class 2023 - inconsistent/likely wrong data; not used for outcome"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "26:lau:culver",
+  "name": "Lauren Culver",
+  "program_id": 26,
+  "identity": "confirmed",
+  "identity_basis": "Britz tweet 2023: Lauren Culver MD from Wayne State joins HM neurosurgery; HM Instagram PGY-2 Oct 2024",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital (Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current HM neurosurgery resident per sources; no evidence of departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Houston Methodist",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/gwb777/status/1636780750694498338",
+    "type": "news",
+    "evidence": "Lauren Culver MD from Wayne State ... future neurosurgeons join us"
+   },
+   {
+    "url": "https://www.instagram.com/methodistneurosurgery/p/DBICTEYJRHL/",
+    "type": "search_snippet",
+    "evidence": "Resident Spotlight ... Meet PGY-2 Lauren Culver"
+   }
+  ],
+  "searches_used": 2
+ }
+]

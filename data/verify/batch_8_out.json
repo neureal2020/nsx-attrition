@@ -1,0 +1,1076 @@
+[
+ {
+  "name": "Santoshi Indrakanti",
+  "program_id": 120,
+  "verdict": "switched_specialty",
+  "neurosurgery_residency": {
+   "institution": "Washington University in St. Louis",
+   "start": 2013,
+   "end": null
+  },
+  "other_training": [
+   {
+    "type": "internship",
+    "specialty": "transitional/preliminary",
+    "institution": "St Mary's Medical Center, San Francisco",
+    "start": null,
+    "end": 2016
+   },
+   {
+    "type": "residency",
+    "specialty": "unspecified (training listed at Santa Clara Valley Medical Center)",
+    "institution": "Santa Clara Valley Medical Center, San Jose",
+    "start": null,
+    "end": 2017
+   },
+   {
+    "type": "residency",
+    "specialty": "Diagnostic Radiology",
+    "institution": "Boston Medical Center",
+    "start": null,
+    "end": 2020
+   }
+  ],
+  "current_position": "Diagnostic radiologist (Baystate Health, Springfield MA; teleradiology)",
+  "sources": [
+   "https://www.healthgrades.com/physician/dr-santoshi-indrakanti-y9v78bz",
+   "https://www.trinityhealthma.org/provider/santoshi-indrakanti-md",
+   "https://providers.baystatehealth.org/provider/Santoshi+S.+Indrakanti/2073027",
+   "https://npiprofile.com/npi/1669811907"
+  ],
+  "evidence": "Provider profiles: MD 2013 (WashU listed), internship St Mary's SF 2016, Santa Clara Valley MC 2017, radiology residency Boston Medical Center completed 2020; specialties list includes Neurological Surgery and Diagnostic Radiology.",
+  "confidence": "high",
+  "notes": "Consistent with current_outcome. Exact neurosurgery end year at WashU not stated (likely left ~2014)."
+ },
+ {
+  "name": "Bhuvic Patel",
+  "program_id": 120,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Washington University in St. Louis",
+   "start": 2015,
+   "end": 2022
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Research (Van Wagenen fellowship, DKFZ Heidelberg)",
+    "institution": "German Cancer Research Center / Univ. Heidelberg",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Open and endoscopic skull base neurosurgery",
+    "institution": "UPMC",
+    "start": null,
+    "end": 2024
+   }
+  ],
+  "current_position": "Assistant Professor of Neurosurgery, WashU; Surgical Director of Pituitary Center (since July 2024)",
+  "sources": [
+   "https://neurosurgery.wustl.edu/washu-neurosurgery-welcomes-back-dr-bhuvic-patel/",
+   "https://www.doximity.com/pub/bhuvic-patel-md",
+   "https://health.usnews.com/doctors/bhuvic-patel-923305"
+  ],
+  "evidence": "WashU bio/Doximity: neurosurgery residency at Washington University 2015-2022, then Van Wagenen fellowship (DKFZ) and UPMC skull base fellowship; WashU faculty since 2024.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Ryan Cleary",
+  "program_id": 120,
+  "verdict": "joined_from_elsewhere",
+  "neurosurgery_residency": {
+   "institution": "Washington University/B-JH/SLCH Consortium",
+   "start": 2021,
+   "end": 2025
+  },
+  "other_training": [
+   {
+    "type": "residency",
+    "specialty": "Neurological Surgery",
+    "institution": "SSM Health / Saint Louis University",
+    "start": 2017,
+    "end": 2021
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Advanced Surgical Neuro-oncology (in-residency)",
+    "institution": "Washington University",
+    "start": 2023,
+    "end": 2024
+   }
+  ],
+  "current_position": "Neurosurgeon, Richmond VA (per Doximity/WebMD)",
+  "sources": [
+   "https://www.doximity.com/cv/ryan-cleary-md",
+   "https://neurosurgery.wustl.edu/cleary-selected-to-be-advanced-surgical-neuro-oncology-fellow/",
+   "https://health.usnews.com/doctors/ryan-cleary-1182854"
+  ],
+  "evidence": "Doximity CV: Neurological Surgery residency at SSM Health/Saint Louis University 2017-2021, then Washington University/B-JH/SLCH 2021-2025; SLU MD 2017.",
+  "confidence": "high",
+  "notes": "Transferred IN from SLU (2017-2021); completed at WashU 2025. entry_year_est 2018 at WashU is incorrect - he joined WashU in 2021. Our COMPLETED outcome is right but he should also be flagged as a SLU transfer-out."
+ },
+ {
+  "name": "Michael Jin",
+  "program_id": 120,
+  "verdict": "not_found",
+  "neurosurgery_residency": {
+   "institution": "Washington University in St. Louis",
+   "start": 2024,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Unknown",
+  "sources": [
+   "https://www.doximity.com/pub/michael-jin-md-6c2743c0",
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://med.stanford.edu/neurosurgery/residency/residents.html"
+  ],
+  "evidence": "Stanford MD 2024; matched WashU neurosurgery 2024 (Doximity still lists WashU 2024-2031). He is absent from the current WashU residents page and his WashU bio page now returns 404; not on Stanford's 2025-26 roster either.",
+  "confidence": "low",
+  "notes": "Departure consistent with current_outcome (LEFT, unknown). No destination found. Doximity self-reported listing (2024-2031) may be stale. Name is common (another Michael Jin MD is a radiologist in NY - different person)."
+ },
+ {
+  "name": "W. Christopher Newman",
+  "program_id": 116,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UPMC / University of Pittsburgh",
+   "start": 2012,
+   "end": 2019
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Neurosurgical oncology (spine)",
+    "institution": "Memorial Sloan Kettering Cancer Center",
+    "start": 2019,
+    "end": 2020
+   }
+  ],
+  "current_position": "Assistant Attending Neurosurgeon, Memorial Sloan Kettering; Associate Director, Neurosurgical Oncology Fellowship",
+  "sources": [
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates",
+   "https://www.mskcc.org/departments/neurosurgery/neurosurgical-oncology/fellows",
+   "https://aans2025.eventscribe.net/"
+  ],
+  "evidence": "Pitt graduates page lists W. Christopher Newman in 2019 class; LinkedIn snippet: Neurosurgery Resident UPMC Jun 2012 - Jun 2019; MSK fellowship 2019-2020.",
+  "confidence": "high",
+  "notes": "Name variant William C. Newman (US News)."
+ },
+ {
+  "name": "Nitin Agarwal",
+  "program_id": 116,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UPMC / University of Pittsburgh",
+   "start": 2014,
+   "end": 2021
+  },
+  "other_training": [],
+  "current_position": "Associate Professor of Neurological Surgery, West Virginia University (previously Pitt faculty from Feb 2023)",
+  "sources": [
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates",
+   "https://www.neurosurgery.pitt.edu/news/pitt-residents-elected-aans-ync",
+   "https://www.scoli.org/people/nitin-agarwal"
+  ],
+  "evidence": "Pitt graduates page lists Nitin Agarwal in the 2021 class; later joined Pitt faculty 2023 and is now at WVU.",
+  "confidence": "high",
+  "notes": "Name is common (a child neurologist Nitin Agarwal also exists - different person). Post-residency fellowship/interim position not verified."
+ },
+ {
+  "name": "Hanna Algattas",
+  "program_id": 116,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UPMC Medical Education",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [],
+  "current_position": "Assistant Professor of Neurosurgery (NY; Buffalo-area location per Doximity)",
+  "sources": [
+   "https://www.doximity.com/pub/hanna-algattas-md",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates"
+  ],
+  "evidence": "Doximity: UPMC Neurological Surgery residency 2016-2023; Pitt graduates page lists her in 2023 class.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Daryl P. Fields II",
+  "program_id": 116,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UPMC Medical Education",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Gainesville FL",
+  "sources": [
+   "https://www.doximity.com/pub/daryl-fields-md",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates"
+  ],
+  "evidence": "Doximity: UPMC Neurological Surgery 2018-2025; Pitt graduates page lists him in the 2025 class.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Andrew Legarreta",
+  "program_id": 116,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UPMC Medical Education",
+   "start": 2019,
+   "end": 2026
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Williamsville NY (per Doximity)",
+  "sources": [
+   "https://www.doximity.com/pub/andrew-legarreta-md",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates"
+  ],
+  "evidence": "Doximity: UPMC Neurological Surgery 2019-2026; Pitt graduates page lists him in the 2026 class.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Derek Southwell",
+  "program_id": 76,
+  "verdict": "joined_from_elsewhere",
+  "neurosurgery_residency": {
+   "institution": "UCSF",
+   "start": 2013,
+   "end": 2018
+  },
+  "other_training": [
+   {
+    "type": "residency",
+    "specialty": "Neurological Surgery",
+    "institution": "Stanford University",
+    "start": 2011,
+    "end": 2013
+   }
+  ],
+  "current_position": "Associate Professor of Neurosurgery and Neurobiology, Duke University",
+  "sources": [
+   "https://neurosurgery.duke.edu/profile/derek-southwell",
+   "https://neurosurgery.ucsf.edu/media/6036",
+   "https://neurosurgery.duke.edu/news/derek-southwell-receives-nih-directors-new-innovator-award-study-neural-circuits-human-brain"
+  ],
+  "evidence": "Duke profile: Residency, Stanford University, Neurosurgery 2011-2013; UCSF newsletter: began residency at Stanford, returned to UCSF in 2013 for remainder of training; UCSF alumni page lists him; joined Duke early 2019.",
+  "confidence": "high",
+  "notes": "Transferred IN from Stanford (2011-2013); completed at UCSF 2018. Stanford program should record him as a transfer-out."
+ },
+ {
+  "name": "Taemin Oh",
+  "program_id": 76,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UCSF",
+   "start": 2015,
+   "end": 2022
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Pediatric Neurosurgery",
+    "institution": "not verified",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "current_position": "Pediatric neurosurgeon, Columbia University / NewYork-Presbyterian (joined 2024)",
+  "sources": [
+   "https://neurosurgery.ucsf.edu/news/neurosurgery-department-celebrates-residency-program-graduates-2022",
+   "https://www.neurosurgery.columbia.edu/news/dr-taemin-oh-joins-columbia-neurosurgery-pediatric-spine-specialist",
+   "https://doctors.columbia.edu/us/ny/new-york/taemin-oh-md-710-west-168th-street"
+  ],
+  "evidence": "UCSF June 2022 news and social posts congratulate graduating chief resident Taemin Oh; Columbia bio says he completed neurosurgery residency at UCSF.",
+  "confidence": "high",
+  "notes": "Start year taken from entry_year_est, not independently verified."
+ },
+ {
+  "name": "Jacob Young",
+  "program_id": 76,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UCSF",
+   "start": 2017,
+   "end": 2024
+  },
+  "other_training": [],
+  "current_position": "Assistant Professor of Neurological Surgery, UCSF Brain Tumor Center",
+  "sources": [
+   "https://www.ucsfhealth.org/providers/jacob-young",
+   "https://braintumorcenter.ucsf.edu/news/jacob-young",
+   "https://okadalab.ucsf.edu/people/jacob-jake-young"
+  ],
+  "evidence": "UCSF June 2024 news: graduating chief residents Alex Lu, Jacob Young and Winward; he then joined UCSF faculty (Oct 2024). MD University of Chicago.",
+  "confidence": "high",
+  "notes": "Ambiguous name resolved: UCSF-specific sources."
+ },
+ {
+  "name": "Tsinsue Chen",
+  "program_id": 4,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute at St Joseph's",
+   "start": 2011,
+   "end": 2018
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Functional Neurosurgery (in-residency)",
+    "institution": "National Hospital for Neurology and Neurosurgery, London",
+    "start": 2016,
+    "end": 2017
+   }
+  ],
+  "current_position": "Neurosurgeon (stereotactic/functional), Barrow Neurological Institute / Barrow Brain and Spine, Phoenix-Chandler AZ",
+  "sources": [
+   "https://www.doximity.com/pub/tsinsue-chen-md",
+   "https://health.usnews.com/doctors/tsinsue-chen-1054518",
+   "https://www.commonspirit.org/find-a-doctor/tsinsue-chen-1396031217"
+  ],
+  "evidence": "Doximity and US News: Barrow neurosurgery residency 2011-2018 (UCSD MD 2011); CommonSpirit lists NHNN functional fellowship 2016-2017.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Michael Mooney",
+  "program_id": 4,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute at St Joseph's",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Cerebrovascular & Skull Base Surgery (in-residency)",
+    "institution": "Brigham and Women's Hospital / Harvard",
+    "start": 2018,
+    "end": 2019
+   }
+  ],
+  "current_position": "Neurosurgeon, Assistant Professor, Brigham and Women's Hospital / Dana-Farber, Harvard Medical School",
+  "sources": [
+   "https://www.doximity.com/pub/michael-mooney-md-9c4e96e9",
+   "https://health.usnews.com/doctors/michael-mooney-1054515",
+   "https://www.dana-farber.org/find-a-doctor/michael-a-mooney",
+   "https://www.va.gov/boston-health-care/programs/meet-your-neurosurgery-staff-at-va-boston-health-care/"
+  ],
+  "evidence": "Doximity: Weill Cornell MD 2013; Barrow neurosurgery residency 2013-2020; BWH cerebrovascular/skull base fellowship 2018-2019.",
+  "confidence": "high",
+  "notes": "Ambiguous name resolved (Michael A. Mooney; Barrow/Cornell ties)."
+ },
+ {
+  "name": "Jacob Baranoski",
+  "program_id": 4,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute at St Joseph's",
+   "start": 2015,
+   "end": 2022
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Cerebrovascular/endovascular (per NYU affiliation; not fully verified)",
+    "institution": "NYU Langone",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "current_position": "Assistant Professor, neurosurgeon, East Meadow NY (Northwell/Nassau area)",
+  "sources": [
+   "https://www.doximity.com/pub/jacob-baranoski-md",
+   "https://health.usnews.com/doctors/jacob-baranoski-1120276",
+   "https://convenehealthcare.com/specialists/profile/dr-jacob-baranoski-east-meadow",
+   "https://www.barrowneuro.org/about/news-and-articles/in-the-news/faculty-resident-awards-fall-2020/"
+  ],
+  "evidence": "Doximity: Yale MD 2015; Barrow Neurological Surgery residency 2015-2022; Barrow news calls him PGY-6 in 2020 and PGY-7 chief in 2021.",
+  "confidence": "high",
+  "notes": "WebMD snippet mentions 'St John Hospital' residency - likely data error; Doximity/US News/Barrow agree on Barrow."
+ },
+ {
+  "name": "Arnau Benet",
+  "program_id": 4,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute at St Joseph's",
+   "start": 2017,
+   "end": 2024
+  },
+  "other_training": [],
+  "current_position": "Director of Vascular Neurosurgery, Los Robles; President/CEO California Neurosurgical Specialists; adjunct professor of global neurosurgery, Barrow",
+  "sources": [
+   "https://www.doximity.com/pub/arnau-benet-md",
+   "https://www.cottagehealth.org/services/neurology-neurosurgery/doctors/arnau-benet/",
+   "https://www.barrowneuro.org/person/arnau-benet-md/"
+  ],
+  "evidence": "Doximity: University of Barcelona MD 2010; Barrow Neurological Surgery residency 2017-2024; Cottage Health bio: completed neurosurgery residency at Barrow.",
+  "confidence": "high",
+  "notes": "Had prior research/training career at UCSF (skull base lab) before US residency; not part of verdict."
+ },
+ {
+  "name": "Gabriella Paisan",
+  "program_id": 4,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute at St Joseph's",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, UT Southwestern - Neurosurgery at Texas Health Dallas (as Gabriella Paisan Williams, MD)",
+  "sources": [
+   "https://www.barrowneuro.org/about/news-and-articles/doctors/3-questions-for-the-2025-barrow-graduating-class/",
+   "https://www.care.texashealth.org/Providers/Affiliated/UT-Southwestern---Neurosurgery-at-Texas-Health-Dallas/General/gabriella-paisan-williams-md",
+   "https://www.healthcare4ppl.com/physician/texas/dallas/gabriella-paisan-williams-1508360561.html"
+  ],
+  "evidence": "Barrow June 2025 article '3 Questions for the 2025 Barrow Graduating Class' lists neurosurgery resident Gabriella Paisan, MD (Gabriella Williams, MD); UVA MD 2018; now practicing in Dallas under Paisan Williams.",
+  "confidence": "high",
+  "notes": "Married name variant: Gabriella Paisan Williams / Gabriella Williams. Start year from entry_year_est (consistent with 2018 MD)."
+ },
+ {
+  "name": "Tomas Garzon-Muvdi",
+  "program_id": 30,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Johns Hopkins University School of Medicine",
+   "start": 2011,
+   "end": 2018
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Postdoctoral fellowship in neuro-oncology",
+    "institution": "not verified",
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Associate Professor of Neurosurgery, Emory University (previously UT Southwestern)",
+  "sources": [
+   "https://www.emoryhealthcare.org/providers/tomas-garzon-muvdi",
+   "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+   "https://winshipcancer.emory.edu/"
+  ],
+  "evidence": "Emory profile: Residency Johns Hopkins, Neurological Surgery, 2018; Hopkins alumni list: 2018, Tomas Garzon-Muvdi, Faculty, Emory.",
+  "confidence": "high",
+  "notes": "Start year from entry_year_est."
+ },
+ {
+  "name": "Teresa Wojtasiewicz",
+  "program_id": 30,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Johns Hopkins University School of Medicine",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Functional Neurosurgery (in-residency)",
+    "institution": "Johns Hopkins",
+    "start": 2017,
+    "end": 2019
+   }
+  ],
+  "current_position": "Neurosurgeon, MedStar Health (Franklin Square), Baltimore MD",
+  "sources": [
+   "https://www.doximity.com/pub/teresa-wojtasiewicz-md",
+   "https://health.usnews.com/doctors/teresa-wojtasiewicz-1116721",
+   "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+   "https://stanandersonlab.org/?page_id=173"
+  ],
+  "evidence": "US News/Doximity: Johns Hopkins neurosurgery residency 2013-2020 (Columbia MD 2013); Hopkins alumni list 2020, private practice MedStar Franklin Square.",
+  "confidence": "high",
+  "notes": "MedStar lists an internship at Penn - not investigated further; does not change verdict."
+ },
+ {
+  "name": "Jennifer Kim",
+  "program_id": 30,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Johns Hopkins University School of Medicine",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [],
+  "current_position": "Faculty, Ohio State University (per Hopkins alumni list)",
+  "sources": [
+   "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni"
+  ],
+  "evidence": "Johns Hopkins neurosurgery residency alumni page: '2023 Jennifer Kim - Faculty, Ohio State University'.",
+  "confidence": "medium",
+  "notes": "Common name; tied to program only via the official alumni list (no individual bio checked). Start year from entry_year_est."
+ },
+ {
+  "name": "Wuyang Yang",
+  "program_id": 30,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Johns Hopkins University School of Medicine",
+   "start": 2017,
+   "end": 2024
+  },
+  "other_training": [
+   {
+    "type": "residency",
+    "specialty": "Neurosurgery (China, prior to US training)",
+    "institution": "Beijing Tiantan Hospital",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Endovascular neurosurgery",
+    "institution": "University of Florida",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "current_position": "Assistant Professor, University of Arizona / Banner University Medical Center, Tucson",
+  "sources": [
+   "https://health.usnews.com/doctors/wuyang-yang-1036726",
+   "https://doctors.bannerhealth.com/provider/wuyang-yang/4851934",
+   "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+   "https://x.com/WuyangYang1"
+  ],
+  "evidence": "US News: Johns Hopkins neurosurgery residency 2017-2024; Hopkins alumni 2024; LinkedIn: endovascular fellow at U Florida, now Assistant Professor at U Arizona.",
+  "confidence": "high",
+  "notes": "Former neurosurgery resident at Beijing Tiantan Hospital before US residency (foreign training, not a US transfer)."
+ },
+ {
+  "name": "Angela Bohnen",
+  "program_id": 41,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Northwestern Memorial Hospital (McGaw)",
+   "start": 2011,
+   "end": 2018
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Neuro-oncology",
+    "institution": "not verified",
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Neurosurgeon, Neurosurgery One / own practice, Littleton-Denver CO",
+  "sources": [
+   "https://bohnen-neurosurgery.com/about-me/",
+   "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+   "https://www.adventhealth.com/doctors/angela-bohnen-md-1811289523"
+  ],
+  "evidence": "Personal site: residency training 2011-2018 at Northwestern Memorial Hospital; Northwestern alumni page lists her in 2018.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Kartik Kesavabhotla",
+  "program_id": 41,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Northwestern University (McGaw)",
+   "start": 2014,
+   "end": 2021
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Advocate Aurora Health, Milwaukee WI; Clinical Adjunct Asst Prof, UW-Madison",
+  "sources": [
+   "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+   "https://www.aurorahealthcare.org/doctors/kartik-kesavabhotla-1548689144",
+   "https://health.usnews.com/doctors/kartik-kesavabhotla-3276356"
+  ],
+  "evidence": "Northwestern alumni page lists Kartik Kesavabhotla in 2021 class (private practice Milwaukee); Aurora profile lists Northwestern residency.",
+  "confidence": "high",
+  "notes": "Start year from entry_year_est."
+ },
+ {
+  "name": "H. Greg Frankel",
+  "program_id": 41,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Northwestern University (McGaw)",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Complex and Reconstructive Spine Surgery",
+    "institution": "Northwestern University Feinberg School of Medicine",
+    "start": 2023,
+    "end": 2024
+   }
+  ],
+  "current_position": "Not verified beyond fellowship",
+  "sources": [
+   "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html"
+  ],
+  "evidence": "Northwestern neurosurgery alumni page: 2023 - H. Greg Frankel, MD - Complex and Reconstructive Spine Surgery Fellowship, Northwestern.",
+  "confidence": "medium",
+  "notes": "Single official source (program alumni list); no individual profile checked. Start year from entry_year_est."
+ },
+ {
+  "name": "Benjamin Hopkins",
+  "program_id": 41,
+  "verdict": "transferred_out",
+  "neurosurgery_residency": {
+   "institution": "Keck School of Medicine of USC",
+   "start": null,
+   "end": null
+  },
+  "other_training": [
+   {
+    "type": "residency",
+    "specialty": "Neurological Surgery",
+    "institution": "Northwestern University (McGaw)",
+    "start": 2020,
+    "end": 2022
+   }
+  ],
+  "current_position": "Neurosurgery resident (PGY-7) at USC",
+  "sources": [
+   "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+   "https://thejns.org/ (J Neurosurg 2023, BS Hopkins, benjamin.hopkins@med.usc.edu)",
+   "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html"
+  ],
+  "evidence": "USC current residents page lists Benjamin Hopkins, MD, MBA (Northwestern Feinberg MD) as PGY7; LinkedIn: Neurosurgery Resident at USC; 2023 JNS paper lists benjamin.hopkins@med.usc.edu.",
+  "confidence": "high",
+  "notes": "Consistent with current_outcome (transferred to USC). Exact USC start year not stated; he is shown as PGY7 on the current USC page so should finish ~2026-27. Not in Northwestern alumni list."
+ },
+ {
+  "name": "Brandon Smith",
+  "program_id": 91,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of Michigan",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [],
+  "current_position": "Staff Neurosurgeon, Cone Health, Burlington NC",
+  "sources": [
+   "https://health.usnews.com/doctors/brandon-smith-873919",
+   "https://www.linkedin.com/in/brandon-smith-182096101",
+   "https://x.com/susie_hines",
+   "https://x.com/CormacOMaher"
+  ],
+  "evidence": "June 17, 2020 posts (Cormac Maher, others) congratulate '... Brandon Smith for graduating from the University of Michigan Neurosurgery Residency Program today'; Michigan MD 2013 (RocketReach/LinkedIn); now Cone Health neurosurgeon.",
+  "confidence": "medium",
+  "notes": "Common name; tied via Michigan MD 2013 + June 2020 Michigan graduation posts. Start year from entry_year_est."
+ },
+ {
+  "name": "Catherine Ziats",
+  "program_id": 91,
+  "verdict": "switched_specialty",
+  "neurosurgery_residency": {
+   "institution": "University of Michigan",
+   "start": 2016,
+   "end": 2018
+  },
+  "other_training": [
+   {
+    "type": "residency",
+    "specialty": "Medical Genetics and Genomics",
+    "institution": "Greenwood Genetic Center",
+    "start": 2019,
+    "end": 2021
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Medical Biochemical Genetics",
+    "institution": "not verified (UTHealth Houston program appears in results)",
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Clinical geneticist, Cook Children's Genetics Center, Fort Worth TX; co-founder Ziats Medical / Fort Worth Genomics Institute",
+  "sources": [
+   "https://www.doximity.com/pub/catherine-ziats-md",
+   "https://www.cookchildrens.org/doctors/clinical-genetics/dr-catherine-ziats/",
+   "https://health.usnews.com/doctors/catherine-ziats-3448053"
+  ],
+  "evidence": "Doximity: University of Florida MD 2016; Neurological Surgery at University of Michigan 2016-2018; Medical Genetics and Genomics residency at Greenwood Genetic Center 2019-2021.",
+  "confidence": "high",
+  "notes": "Consistent with current_outcome."
+ },
+ {
+  "name": "Ayobami Ward",
+  "program_id": 91,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of Michigan",
+   "start": 2019,
+   "end": 2026
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Peripheral Nerve / Complex Spine",
+    "institution": "Washington University in St. Louis",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "current_position": "Peripheral Nerve Fellow, WashU Neurosurgery",
+  "sources": [
+   "https://www.facebook.com/umichneuro/posts/congratulations-to-our-graduating-chief-residents-drs-jaes-jones-ayobami-ward-an/1587376010059472/",
+   "https://neurosurgery.wustl.edu/people/ayobami-ward-md-ms/",
+   "https://www.linkedin.com/in/ayobamiward"
+  ],
+  "evidence": "Michigan Neurosurgery (c. June 2026): 'Congratulations to our graduating chief residents, Drs. Jaes Jones, Ayobami Ward and Joey Linzey'; WashU lists him as Peripheral Nerve Fellow, residency University of Michigan.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Joel Beckett",
+  "program_id": 67,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UCLA",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Spine (dual fellowship-trained; details not verified)",
+    "institution": "not verified",
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Neurosurgeon, Beckett NeuroSpine / DISC Sports & Spine, Beverly Hills-Marina del Rey CA; former UCLA faculty",
+  "sources": [
+   "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/alumni/alumni-list",
+   "https://beckettspine.com/meet-dr-joel-beckett/",
+   "https://health.usnews.com/doctors/joel-beckett-915263"
+  ],
+  "evidence": "LinkedIn snippet: Resident in Neurosurgery, UCLA Health, Jul 2013 - Jun 2020; UCLA alumni list 2020.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Matthew Sun",
+  "program_id": 67,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UCLA",
+   "start": 2015,
+   "end": 2022
+  },
+  "other_training": [],
+  "current_position": "Assistant Professor of Neurological Surgery, UT Southwestern, Dallas",
+  "sources": [
+   "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/alumni/alumni-list",
+   "https://utswmed.org/doctors/matthew-sun/",
+   "https://www.doximity.com/pub/matthew-sun-md"
+  ],
+  "evidence": "UCLA alumni list 2022 (Dallas, TX); UTSW bio: residency in neurological surgery at Ronald Reagan UCLA; WNS 2021 program: PGY7 at UCLA.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Wi Jin Kim",
+  "program_id": 67,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "UCLA",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon, Philadelphia PA per UCLA alumni list (US News lists Allentown PA)",
+  "sources": [
+   "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/alumni/alumni-list",
+   "https://health.usnews.com/doctors/wi-kim-1487657",
+   "https://www.instagram.com/p/DK8g6jMxLta/"
+  ],
+  "evidence": "UCLA alumni list 2025: Wi Jin Kim, M.D., Philadelphia, PA; Geoffrey Colby post congratulates 3 UCLA neurosurgery resident graduates incl. Wi Jin Kim; US News: Pitt MD, UCLA residency.",
+  "confidence": "high",
+  "notes": "Also goes by 'Jason' Wi Jin Kim."
+ },
+ {
+  "name": "Adam Back",
+  "program_id": 19,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Duke University Hospital",
+   "start": 2011,
+   "end": 2017
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Complex and Minimally Invasive Spine",
+    "institution": "Duke University",
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Neurosurgeon, Spartanburg Regional (SC); previously Novant Health Charlotte",
+  "sources": [
+   "https://www.doximity.com/pub/adam-back-md",
+   "https://neurosurgery.duke.edu/education/residency/alumni",
+   "https://www.novanthealth.org/newsroom/new-physician-joins-novant-health-total-spine-specialists"
+  ],
+  "evidence": "Doximity: Duke University Hospital Neurological Surgery residency 2011-2017; Duke alumni page: Adam Back ('17), Complex Spine Fellowship, Duke.",
+  "confidence": "high",
+  "notes": "Residency span listed as 2011-2017 (6 years in Doximity/LinkedIn), consistent with last_pgy 6."
+ },
+ {
+  "name": "Max Krucoff",
+  "program_id": 19,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Duke University",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Functional/Epilepsy Neurosurgery",
+    "institution": "University of California (per bios; campus not captured)",
+    "start": 2020,
+    "end": 2021
+   }
+  ],
+  "current_position": "Associate Professor of Neurosurgery, Medical College of Wisconsin / Froedtert",
+  "sources": [
+   "https://neurosurgery.duke.edu/education/residency/alumni",
+   "https://www.mcw.edu/departments/neurosurgery/people/max-krucoff-md",
+   "https://www.froedtert.com/doctors/max-krucoff-1417216201"
+  ],
+  "evidence": "Duke alumni page: Max Krucoff, MD ('20), MCW; MCW bio: completed neurosurgical residency at Duke, then year-long functional neurosurgery fellowship.",
+  "confidence": "high",
+  "notes": "Start year from entry_year_est."
+ },
+ {
+  "name": "Stephen Harward",
+  "program_id": 19,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Duke University",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Functional Neurosurgery",
+    "institution": "Duke University",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "current_position": "Not verified beyond fellowship (Duke)",
+  "sources": [
+   "https://neurosurgery.duke.edu/education/residency/alumni"
+  ],
+  "evidence": "Duke neurosurgery alumni page: Stephen Harward II, MD, PhD ('23) - Functional Neurosurgery Fellowship, Duke University.",
+  "confidence": "high",
+  "notes": "Name variant Stephen Harward II. Start year from entry_year_est."
+ },
+ {
+  "name": "Alexander Suarez",
+  "program_id": 19,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Duke University",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Complex Peripheral Nerve",
+    "institution": "UC San Francisco",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "current_position": "Complex peripheral nerve fellow, UCSF (as of graduation)",
+  "sources": [
+   "https://neurosurgery.duke.edu/education/residency/alumni"
+  ],
+  "evidence": "Duke neurosurgery alumni page: Alexander Suarez, MD ('25) - Complex Peripheral Nerve Fellowship, UC San Francisco.",
+  "confidence": "high",
+  "notes": "Ambiguous name resolved via official Duke alumni list."
+ },
+ {
+  "name": "Najib El Tecle",
+  "program_id": 60,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "SSM Health / Saint Louis University",
+   "start": 2015,
+   "end": 2021
+  },
+  "other_training": [
+   {
+    "type": "internship",
+    "specialty": "not specified",
+    "institution": "McGaw Medical Center of Northwestern University",
+    "start": null,
+    "end": 2015
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Neurosurgical oncology (enfolded, in-residency)",
+    "institution": "Saint Louis University",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Spine (presumed)",
+    "institution": "McGaw Medical Center of Northwestern University",
+    "start": 2021,
+    "end": 2022
+   }
+  ],
+  "current_position": "Assistant Professor of Neurological Surgery and Orthopaedic Surgery, Northwestern University",
+  "sources": [
+   "https://www.nm.org/doctors/1982022471/najib-el-tecle-md",
+   "https://www.doximity.com/pub/najib-el-tecle-md",
+   "https://www.emedevents.com/speaker-profile/najib-tecle"
+  ],
+  "evidence": "Northwestern Medicine profile: internship McGaw/Northwestern 2015, residency St Louis University 2021, fellowship McGaw 2022. Doximity lists SLU Neurological Surgery 2015-2022.",
+  "confidence": "medium",
+  "notes": "Start at SLU appears to be 2015 (after a Northwestern internship ending 2015), not 2014 as estimated; unclear whether the Northwestern year was a neurosurgery or preliminary internship. End year 2021 (NM) vs 2022 (Doximity, likely including fellowship)."
+ },
+ {
+  "name": "Jorge Urquiaga",
+  "program_id": 60,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "SSM Health / Saint Louis University",
+   "start": 2019,
+   "end": 2026
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Spine",
+    "institution": "University of Miami",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "current_position": "Spine fellow, University of Miami (from July 2026)",
+  "sources": [
+   "https://www.instagram.com/p/DZz_hOjkVbz/",
+   "https://med.miami.edu/departments/neurosurgery/education/clinical-fellowship-programs/current-fellows",
+   "https://www.healthgrades.com/physician/dr-jorge-urquiaga-xyn8hc4"
+  ],
+  "evidence": "SLU Neurosurgery post (c. June 2026) celebrating graduating residents: Jorge Urquiaga heading to Miami for spine fellowship; Miami current fellows page lists Jorge F. Urquiaga, M.D., Spine Fellow.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Avital Perry",
+  "program_id": 40,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic (Rochester)",
+   "start": 2013,
+   "end": 2020
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Neurosurgical Skull Base Oncology (in-residency)",
+    "institution": "Mayo Clinic",
+    "start": 2019,
+    "end": 2020
+   }
+  ],
+  "current_position": "Neurosurgeon, Marshfield WI (previously CommonSpirit, Colorado; Sheba Medical Center, Israel)",
+  "sources": [
+   "https://www.doximity.com/pub/avital-perry-md",
+   "https://college.mayo.edu/academics/residencies-and-fellowships/neurosurgical-skull-base-oncology-fellowship-minnesota/meet-our-trainees/",
+   "https://health.usnews.com/doctors/avital-perry-874808"
+  ],
+  "evidence": "Doximity: Yale MD 2013; Mayo Clinic Neurological Surgery residency 2013-2020; Mayo skull base oncology fellowship 2019-2020.",
+  "confidence": "high",
+  "notes": "A 2017 Mayo alumni note tagged her 'NS 18' (expected year) but she finished in 2020."
+ },
+ {
+  "name": "Lucas Carlstrom",
+  "program_id": 40,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic (Rochester)",
+   "start": 2016,
+   "end": 2023
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Neurosurgical Skull Base Oncology (in-residency)",
+    "institution": "Mayo Clinic",
+    "start": 2022,
+    "end": 2023
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Skull base",
+    "institution": "Ohio State University",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "current_position": "Associate neurosurgeon (skull base/complex cranial), Kaiser Permanente San Diego; Asst Clinical Prof, UCSD",
+  "sources": [
+   "https://www.doximity.com/pub/lucas-carlstrom-md",
+   "https://college.mayo.edu/academics/residencies-and-fellowships/neurosurgical-skull-base-oncology-fellowship-minnesota/meet-our-trainees/",
+   "https://healthy.kaiserpermanente.org/southern-california/physicians/lucas-carlstrom-0600281"
+  ],
+  "evidence": "Doximity: Mayo MD 2016; Mayo Clinic Neurological Surgery residency 2016-2023; 2023 post: graduating resident, fellowship at Ohio State.",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "name": "Panagiotis Kerezoudis",
+  "program_id": 40,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic (Rochester)",
+   "start": null,
+   "end": 2026
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Stereotactic and Functional Neurosurgery",
+    "institution": "Mayo Clinic (Minnesota)",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "current_position": "Stereotactic & functional neurosurgery fellow, Mayo Clinic (listed on fellowship page)",
+  "sources": [
+   "https://college.mayo.edu/academics/residencies-and-fellowships/stereotactic-and-functional-neurosurgery-fellowship-minnesota/",
+   "https://newsnetwork.mayoclinic.org/discussion/joining-the-frontier-against-brain-tumors/",
+   "https://podcasts.apple.com/us/podcast/neurosurgery-residency-match-how-to-match-in-neurosurgery/id1549461405"
+  ],
+  "evidence": "Mayo News (May 2026) still calls him a neurosurgery resident; Mayo functional fellowship page now lists Panos Kerezoudis with residency at Mayo Clinic Rochester. He was PGY3 in early 2022.",
+  "confidence": "medium",
+  "notes": "Goes by Panos. Being PGY3 in early 2022 implies a July 2019 start (entry_year_est 2018 may be off by a year, or a research year was included). No explicit graduation announcement found; completion inferred from fellowship listing."
+ }
+]

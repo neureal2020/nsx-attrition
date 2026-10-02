@@ -1,0 +1,217 @@
+{
+ "program_id": 75,
+ "name": "University of California (San Diego) Medical Center Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.neurosurgery.ucsd.edu/residents (+ /residency, /residents.htm) old static site, no roster in window",
+   "from": "2001",
+   "to": "2010-06"
+  },
+  {
+   "url": "http://neurosurgery.ucsd.edu/residency-program/ (Squarespace; roster = unlabelled 'Residents/Fellows' sidebar list on every page, e.g. /physicians/; 'UCSD Alumni' list; /department-photos/graduation-photos; /alumni-ucsd-neurosurgery-resid)",
+   "from": "2010-10",
+   "to": "2018-07 (301 to medschool.ucsd.edu from 2018-08)"
+  },
+  {
+   "url": "https://medschool.ucsd.edu/som/surgery/divisions/neurosurgery/ (Division of Neurosurgery under Dept of Surgery; education/Pages/Our-Trainees.aspx 2019-08..2019-12, education/Pages/Meet-Our-Residents.aspx 2020-09..2021-08)",
+   "from": "2018-08",
+   "to": "2021-08"
+  },
+  {
+   "url": "https://neurosurgery.ucsd.edu/education/residents.html (new department site)",
+   "from": "2021-10",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "health.ucsd.edu/specialties/neuro/ (checked; no roster)",
+   "from": "2012",
+   "to": "2024"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2022-2023"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Observed (Wayback 2012-03-13 nav list, 12) + [phase2] manual rows for the 2011 interns Goel and Hatefi (PGY2 Oct 2012, graduated 2018). Jan 2011 dept news 'UCSD Neurosurgery Residency to Expand' set the complement at two per year, which they fill; no other 2011 entrant in PubMed affiliation mining 2011-13 or on any later list.",
+  "2012-2013": "Wayback 2012-10-31 nav list, 14 names (full). PGYs inferred.",
+  "2013-2014": "No Wayback capture Jul 2013-Jul 2014. Common Crawl CC-MAIN-2014-10 capture of /residency-program/ (2014-03-09), 14 names; the Dec 2013 CC capture had not yet added the 2013 interns. PGYs inferred.",
+  "2014-2015": "Wayback 2014-10-15 nav list, 14. PGYs inferred.",
+  "2015-2016": "Wayback 2015-09-07 nav list, 15. PGYs inferred.",
+  "2016-2017": "Wayback 2017-02-01 nav list, 15. PGYs inferred.",
+  "2017-2018": "Wayback 2017-10-21 nav list, 14. PGYs inferred.",
+  "2018-2019": "[phase2] Replaced by a PGY-LABELLED roster: medschool Division 'Our Trainees' page, Common Crawl CC-MAIN-2018-34 (2018-08-15), found by retrying that crawl. Same 14 names as the Wayback 2018-07-10 nav list; Hirshman PGY3, Birk PGY2.",
+  "2019-2020": "Wayback 2019-10-23 medschool Our-Trainees.aspx, labelled PGY, 14.",
+  "2020-2021": "Wayback 2020-10-23 medschool Meet-Our-Residents.aspx, labelled, 15.",
+  "2021-2022": "Wayback 2021-10-22 residents.html, 15 (same as medschool 2021-08-02).",
+  "2022-2023": "Still no full roster (Wayback residents.html 2022-05-02 then 2023-12-02; phase-2 full-host CDX listing 2022-05..2023-12, and Common Crawl 2022-21..2023-40 incl. retried 2022-49, have no residents page). [phase2] Partial program sources: dept news Sep 2022 (Tenorio PGY-3) and the Spring 2023 dept e-newsletter (Stone PGY-4, Hirshman PGY-6; welcomes 2023 matches). Reconstructed 11 bracketed residents + Usman Khan PGY7 (UCSD affiliation 2022-08/2023-04 papers; PNI 2023-24 fellow page says residency UCSD) + 2022 interns Gonzalez/Kim PGY1 (PGY2 2023-24, class at complement 2).",
+  "2023-2024": "Wayback 2023-12-02, 15.",
+  "2024-2025": "Wayback 2025-05-17 (identical to 2024-07-21; no Aug-Jan capture), 15.",
+  "2025-2026": "Wayback 2025-08-05, 16.",
+  "2026-2027": "Live page 2026-09-27, 17; advanced vs 2025-26 (3 new interns)."
+ },
+ "alumni_page": "https://web.archive.org/web/20180719105647/http://neurosurgery.ucsd.edu:80/department-photos/graduation-photos (graduations 2010-2016; /alumni-ucsd-neurosurgery-resid lists 1985-2010 only)",
+ "departures": [
+  {
+   "name": "Harjus Birk",
+   "last_ay": "2019-2020",
+   "last_pgy": 2,
+   "note": "[phase2] Left after 2019-20 (PGY2 in both 2018-19 and 2019-20 labelled rosters). 2021-22 papers affiliated with LSU Health Shreveport Dept of Neurosurgery, but he is not on LSU Shreveport's (program 32) observed 2020-21/2021-22 rosters (research role). NPPES now neurology at a UC Davis address (not on UC Davis neurology resident pages). Recorded departure_type=unknown (probable neurology, NPPES only)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Jayson Sack",
+   "first_ay": "2011-2012",
+   "first_pgy": 3,
+   "note": "From USF (103) per UCSD profile; transfer-in row recorded."
+  },
+  {
+   "name": "Joshua Loya",
+   "first_ay": "2020-2021",
+   "first_pgy": 6,
+   "note": "Buffalo (69) 2015-17 -> Wayne State (125) 2017-20 (closed) -> UCSD PGY6 2020-21, PGY7 2021-22, graduated 2022. Transfer-in row recorded."
+  }
+ ],
+ "residents_2011plus": 36,
+ "adjudication_summary": {
+  "COMPLETED": 30,
+  "IN TRAINING": 17,
+  "LEFT -> did not complete": 1,
+  "note": "Birk is the only 2011+ departure (outcome unknown, probable neurology). Adjudicator uses the transfer-in start_year as entry year for Sack (2011) and Loya (2020)."
+ },
+ "problems": "PNI live site behind a Cloudflare block (not bypassed; used Common Crawl). Earlier CC range failures (2018-34, 2019-43, 2021-10, 2022-49) all succeeded on phase-2 retry. Squarespace nav lists 2011-2018 are unlabelled except the new Aug 2018 labelled page; PGYs otherwise inferred.",
+ "resolved_departures": [
+  {
+   "name": "Usman Khan",
+   "outcome": "COMPLETED 2023",
+   "evidence": "PNI people page 'Usman Khan, MD, PhD | 2023-24', residency UCSD Neurosurgery (Common Crawl CC-MAIN-2024-33); UCSD Neurological Surgery affiliation on 2022-08 and 2023-04 papers."
+  }
+ ],
+ "terminal_pgy_by_entry_year": {},
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "interns missing from the capture; the 2011 class (Goel, Hatefi) fills the 2/yr complement set in Jan 2011 and both are on every later list"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full nav list, consistent with neighbours"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl Mar 2014 list, full"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full nav list"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full nav list"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full nav list"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full nav list"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled Aug 2018 Our-Trainees page"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster"
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "every PGY2-7 resident is bracketed or confirmed by program news/newsletter/PNI page; only residual risk is an unseen third 2022 intern who left in PGY1 (class already at complement 2)"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster Dec 2023"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster Aug 2025"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page, advanced"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Parsed all phase-1 cc1314/cc1823 downloads; found cc1823 medschool Our-Trainees captures and a new CC-MAIN-2018-34 capture (2018-08-15, labelled)",
+   "Retried CC-MAIN-2018-34 (medschool + neurosurgery.ucsd.edu), 2019-43, 2021-10, 2022-49 (medschool): all OK now; plus neurosurgery.ucsd.edu in CC-MAIN-2022-21/27/33/40/49, 2023-06/14/23/40 listing ALL urls: no residents page in 2022-23",
+   "gapaudit neurosurgery.ucsd.edu 2022-05..2023-12 and 2011-01..2012-12; full CDX list of every page 2022-05..2023-12 (home, education index, opportunities, news, sitemap) fetched and read",
+   "Dept news index + news-highlights (Sep 2022 Tenorio PGY-3); e-newsletter archive on t.e2ma.net (Spring 2023 only captured)",
+   "Squarespace latest-news 2010-2013 (Jan 2011 'Residency to Expand' = 2/yr); Sack profile 2012-2017",
+   "PubMed affiliation mining 'San Diego' + neurosurgery 2011-13 and 2022-24; PubMed/OpenAlex for Birk, Khan, Loya, Goel, Hatefi",
+   "NPPES Birk, Khan; LSU Shreveport (32) rosters; UC Davis neurology residents/alumni (live + Wayback 2020-2025)",
+   "Pacific Neuroscience Institute sitemap (live page Cloudflare-blocked, not bypassed) -> Common Crawl CC-MAIN-2024-33 capture of /people/usman-khan-md-2023-24/"
+  ],
+  "found": [
+   "2018-19 labelled roster (Our-Trainees, CC 2018-08-15)",
+   "2022-23 partial program sources: Tenorio PGY-3 (Sep 2022 news), Stone PGY-4 + Hirshman PGY-6 (Spring 2023 newsletter)",
+   "Usman Khan completed 2023 (PNI 2023-24 fellow, residency UCSD)",
+   "Birk: 2021-22 LSU Shreveport neurosurgery-affiliated papers (non-resident), NPPES neurology Sacramento",
+   "Complement 2/yr from Jan 2011 news; Sack began training at USF (profile)"
+  ],
+  "remaining": [
+   "No full 2022-23 roster (low significance)",
+   "Birk's post-UCSD specialty unconfirmed by a program page (probable neurology)"
+  ]
+ }
+}

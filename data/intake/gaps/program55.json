@@ -1,0 +1,300 @@
+{
+ "program_id": 55,
+ "name": "Riverside University Health System Program (formerly Arrowhead Regional Medical Center AOA neurosurgery residency)",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://arrowheadneurosurgery.org/ (residents--alumni.html 2011-13; residents.html, alumni.html 2015-17)",
+   "from": "2011-01",
+   "to": "2017-01"
+  },
+  {
+   "url": "https://www.arrowheadmedcenter.org/resNeurosurgery.aspx (ARMC hospital site; program info only) and default.aspx?id=17 (ARMC home)",
+   "from": "2016-04",
+   "to": "2019-12"
+  },
+  {
+   "url": "http://www.ruhealth.org/en-us/medical-center/health-professionals/medical-education/neurosurgery-residency/Pages/default.aspx (+about.aspx, prospective-residents; no roster)",
+   "from": "2016-09",
+   "to": "2020-10"
+  },
+  {
+   "url": "https://www.ruhealth.org/medical-center/medical-training/neurosurgery-residency (+/about, /prospective-residents; no roster)",
+   "from": "2021-03",
+   "to": "live"
+  },
+  {
+   "url": "https://www.ruhealth.org/medical-center/medical-education/neurosurgery-residency (no roster)",
+   "from": "2025-03",
+   "to": "live"
+  },
+  {
+   "url": "https://www.arrowheadregional.org/education-research/(acgme-accredited-residency-programs|gme-residency-and-fellowship-programs)/neurosurgery-aoa-residency-program/ (contacts only)",
+   "from": "2025-04",
+   "to": "2026-05"
+  },
+  {
+   "url": "https://ruhsneurosurgery.com/ (Squarespace, password-protected)",
+   "from": "2021-12",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017"
+ ],
+ "reconstructed_years": [
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "missing_years": [
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2017-2018": "All 2016-17 residents carried forward except Oros and Watkins (no later evidence); new PGY-1s only Podkovik and Wiginton (inferred). The 2017 class is probably incomplete, and Oros/Watkins may have left in this year.",
+  "2018-2019": "2018 entrants Brazdzionis/Patchana/Takayanagi inferred from NPI date + RUHS publications. Any resident who never published at RUHS is invisible, and so is any transfer.",
+  "2019-2020": "Only 1 of ~3 2019 entrants (Savla) identified. Rebecca Houston (entry 2019) belongs to the separate DRMC/ARMC AOA program, not this one.",
+  "2020-2021": "Only 1 2020 entrant (Marino) identified. The case-log study implies 2-3 more women residents entered 2017-2020 who are not seen.",
+  "2021-2022": "Only 1 2021 entrant (I. Siddiqi) identified.",
+  "2022-2023": "Only 1 2022 entrant (A. Wang) identified; Bowen PGY-7 confirmed by PMID 36601142.",
+  "2023-2024": "Only 1 2023 entrant (Rahman) identified; 10 of ~18-21 residents named.",
+  "2024-2025": "8 residents named against the 18 tabulated in PMID 42255808 (probably this year or 2025-26). No 2024 entrant identified.",
+  "2025-2026": "4 named (Savla PGY7, Marino, I. Siddiqi, A. Wang). Rahman is presumed in training but not bracketed. Possible 2025 PGY-1s (Ueno, Ghauri, Dennison, C. Wong) are not loaded.",
+  "2026-2027": "Live ruhsneurosurgery.com is password-protected, and the ruhealth.org and arrowheadregional.org pages list no residents. No publication evidence dated after July 2026."
+ },
+ "alumni_page": "http://arrowheadneurosurgery.org/alumni.html (Wayback 2015-02..2017-01; earlier grads on residents--alumni.html)",
+ "departures": [
+  {
+   "name": "Jamshid Mistry",
+   "last_ay": "2012-2013",
+   "last_pgy": 2,
+   "note": "SWITCHED to emergency medicine: from 2017 publishes as ARMC Dept of Emergency Medicine (PMIDs 28611888, 35701360, 36896373, 37919646, 42258865). Recorded in training_history."
+  },
+  {
+   "name": "Amber Oros",
+   "last_ay": "2016-2017",
+   "last_pgy": 4,
+   "note": "Repeated PGY4 (2015-16 and 2016-17); no publications and nothing after 2016-17. NPPES shows EM/General Practice at Univ. of Missouri (not accepted as evidence). Outcome unknown; may be a gap artefact."
+  },
+  {
+   "name": "Justen Watkins",
+   "last_ay": "2016-2017",
+   "last_pgy": 4,
+   "note": "One 2017 ARMC neurosurgery paper, nothing later; NPPES General Practice in Utah (not evidence). Outcome unknown; may be a gap artefact."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Jerry Noel",
+   "first_ay": "2012-2013",
+   "first_pgy": 3
+  },
+  {
+   "name": "Omid Hariri",
+   "first_ay": "2012-2013",
+   "first_pgy": 2
+  },
+  {
+   "name": "Robert Dahlin",
+   "first_ay": "2013-2014",
+   "first_pgy": 2
+  },
+  {
+   "name": "Amber Oros",
+   "first_ay": "2013-2014",
+   "first_pgy": 2
+  },
+  {
+   "name": "Bailey Zampella",
+   "first_ay": "2014-2015",
+   "first_pgy": 2
+  },
+  {
+   "name": "Christopher Elia",
+   "first_ay": "2014-2015",
+   "first_pgy": 2
+  },
+  {
+   "name": "James Wiginton",
+   "first_ay": "2017-2018",
+   "first_pgy": 1,
+   "note": "inferred; DO 2016, so possibly a PGY-2 joiner in 2017-18"
+  }
+ ],
+ "residents_2011plus": 32,
+ "adjudication_summary": {
+  "COMPLETED": 39,
+  "IN TRAINING": 5,
+  "LEFT -> outcome unknown": 2,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "note": "39 completed = 17 alumni-page graduates plus 22 INFERRED completions (training_history source_type 'other'; NPPES neurosurgery practice/fellowship elsewhere after the expected terminal year, plus RUHS publications through training). Oros/Watkins unknown. Raphia Rahman is recorded as presumed in training (end 2030) so that the end of her evidence is not counted as a departure."
+ },
+ "problems": "No roster exists after Jan 2017. Years 2017-18..2025-26 are PARTIAL reconstructions from publication affiliations and NPPES, so they undercount (8 named vs ~18 residents in 2024-25). Completions after 2017 are inferred, not observed (training_history source_type 'other'). Adjudicator run with the default --terminal-pgy 7; AOA cohorts <=2013 rely on training_history completion rows.",
+ "complement_note": "~3/yr: 21 residents over 6 PGYs in 2016-17; a 2026 RUHS paper (PMID 42255808, PMC13242277) tabulates 18 residents across 7 PGYs in one recent year; RUHS contributed 33 residents (5 women) to a 2015-2021 case-log study (PMID 37033513).",
+ "terminal_pgy_by_entry_year": {
+  "2005": 6,
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 6,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "AOA era: 6 years (PGY-1 = osteopathic internship). Entry cohorts <=2013 finished after PGY-6 (Carson/Dahlin 2018, Duong at City of Hope 2019). From the 2014 cohort the ACGME 7-year track applies: a PGY-7 took part in a 2020 RUHS simulator study (PMID 33425512, 2014 cohort); Krel/Majeed started fellowships mid-2021; Bowen (2016 cohort) was PGY-7 in 2022-23 (PMID 36601142).",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full Wayback roster on arrowheadneurosurgery.org"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "full roster; only departure Mistry (switched to EM, publication evidence)"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full Wayback roster on arrowheadneurosurgery.org"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full Wayback roster on arrowheadneurosurgery.org"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full Wayback roster on arrowheadneurosurgery.org"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full Wayback roster on arrowheadneurosurgery.org"
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "All 2016-17 residents carried forward except Oros and Watkins (no later evidence); new PGY-1s only Podkovik and Wiginton (inferred). The 2017 class is probably incomplete, and Oros/Watkins may have left in this year."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "2018 entrants Brazdzionis/Patchana/Takayanagi inferred from NPI date + RUHS publications. Any resident who never published at RUHS is invisible, and so is any transfer."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "Only 1 of ~3 2019 entrants (Savla) identified. Rebecca Houston (entry 2019) belongs to the separate DRMC/ARMC AOA program, not this one."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "Only 1 2020 entrant (Marino) identified. The case-log study implies 2-3 more women residents entered 2017-2020 who are not seen."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "Only 1 2021 entrant (I. Siddiqi) identified."
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "Only 1 2022 entrant (A. Wang) identified; Bowen PGY-7 confirmed by PMID 36601142."
+  },
+  "2023-2024": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "Only 1 2023 entrant (Rahman) identified; 10 of ~18-21 residents named."
+  },
+  "2024-2025": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "8 residents named against the 18 tabulated in PMID 42255808 (probably this year or 2025-26). No 2024 entrant identified."
+  },
+  "2025-2026": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "4 named (Savla PGY7, Marino, I. Siddiqi, A. Wang). Rahman is presumed in training but not bracketed. Possible 2025 PGY-1s (Ueno, Ghauri, Dennison, C. Wong) are not loaded."
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "Live ruhsneurosurgery.com is password-protected, and the ruhealth.org and arrowheadregional.org pages list no residents. No publication evidence dated after July 2026."
+  }
+ },
+ "lineage_note": "CORRECTION to phase 1: ARMC's 'Neurosurgery (AOA) Residency Program' (arrowheadregional.org 2025-26; PD Javed Siddiqi, coordinator Mariel Gray) is NOT this program. The RUHS ACGME program 1600500129 has PD Miulli and coordinator Jose Gonzalez at RUHS. The ARMC page is the AOA teach-out of the former Desert Regional Medical Center (Palm Springs) AOA program: its residents Houston, Arshad, Ramnot, Reier and Whitney publish as DRMC/'Arrowhead Neurosurgical Medical Group, Palm Springs' from 2020. PMID 37033513 treats RUHS and DRMC as two separate programs. Rebecca Houston (ARMC news, 2024-03, PGY5) therefore belongs to that lineage and was correctly left out of program 55.",
+ "possible_unloaded": [
+  {
+   "name": "Arisa Ueno",
+   "note": "CUSM student through 2025; NPI 2025-05 at RUHS 26520 Cactus Ave; RUHS Neurosurgery affiliation 2026-05 (PMID 42367399). Probably a 2025 PGY-1."
+  },
+  {
+   "name": "Muhammad S. Ghauri",
+   "note": "MD (CUSM 2025); NPI 2025-05 with Neurological Surgery taxonomy at RUHS address (upd 2026-06), but a 2026 paper gives Loma Linda. Possibly a 2025 PGY-1."
+  },
+  {
+   "name": "Stanley Dennison",
+   "note": "DO (NSU-KPCOM); Mayo research 2025-26; NPI 2025-10 at RUHS; RUHS neurosurgery affiliation 2026-05. Entry 2025 or 2026 unclear."
+  },
+  {
+   "name": "Christopher Wong",
+   "note": "RUHS neurological surgery affiliation on 3 papers from 2026-04 on; identity/NPI not resolved."
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "PubMed: every author whose own affiliation names RUHS/ARMC/RCRMC/Moreno Valley/Colton together with neurosurgery, 2008-2026 (1942 PMIDs, 117 authors); per-candidate PubMed histories",
+   "PubMed: Desert Regional/Palm Springs neurosurgery authors (to separate the DRMC lineage)",
+   "OpenAlex: works 2015-2026 from institutions I2801969400 (RUHS) and I2799587377 (ARMC) with neurosurgery raw affiliation (246 authors), plus author affiliation histories",
+   "Europe PMC: 195 open-access full texts with RUHS/ARMC neurosurgery affiliation, grepped for PGY/resident statements (simulator, OMT cadaver, pedicle-screw, EVD, case-log and teaching papers)",
+   "NPPES API: all trainees and neurosurgeons in Moreno Valley, Colton and Riverside (2075 records) plus name lookups for about 90 candidates",
+   "Wayback: arrowheadregional.org/news-blog and ruhealth.org/news prefix listings (430 URLs); the Houston CANS post, the 2026 Match Day post (lists no neurosurgery; RUHS sponsors it), and the Siddiqi WNS post; archived ruhealth.org neurosurgery about/home/prospective pages 2017-2026 (no names)",
+   "Common Crawl retry of the 7 crawls that failed in phase 1 (ruhsneurosurgery 2016-07/2020-10/2023-50/2025-26 = 0 records; arrowheadneurosurgery 2017-34 = parked page, 2018-51/2021-39 = 0); a ruhealth.org neurosurgery-residency path scan 2017 was stopped after 2017-13 (low yield)",
+   "DB cross-check of all candidate surnames against other programs' roster_observations (only hit: Schiraldi was a program-11 resident 2011-16 and is now RUHS/DRMC faculty)"
+  ],
+  "found": [
+   "Mistry switched to emergency medicine (publication evidence)",
+   "Terminal PGY by cohort: 6 for entries <=2013, 7 from 2014",
+   "Completions after 2017 for 17 roster residents (inferred)",
+   "10 probable new residents with inferred entry years: Podkovik 2017, Wiginton 2017, Brazdzionis/Patchana/Takayanagi 2018, Savla 2019, Marino 2020, I. Siddiqi 2021, A. Wang 2022, Rahman 2023",
+   "Lineage correction: ARMC AOA neurosurgery program = DRMC teach-out (Houston is not in program 55)",
+   "Complement evidence: 18 residents in one recent year; 33 RUHS residents in 2015-21 case logs"
+  ],
+  "remaining": [
+   "2017-18..2025-26: rosters are partial; roughly 1-2 residents per entry cohort 2017-2024 remain unidentified (e.g. 2-3 women implied by PMID 37033513), and transfers in or out after 2016 cannot be seen",
+   "2026-27: no evidence",
+   "Oros and Watkins outcomes unknown",
+   "Entry years of new residents are inferred (NPI date/first affiliation); Wiginton may be a PGY-2 joiner",
+   "ruhsneurosurgery.com (password-protected, not bypassed) is the only known roster source"
+  ]
+ }
+}

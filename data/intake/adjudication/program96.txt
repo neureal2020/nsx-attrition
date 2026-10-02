@@ -1,0 +1,54 @@
+
+University of Nebraska Medical Center College of Medicine Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2006   Meysam Kebriaei          2012   2011-20  6   bio          COMPLETED
+2007   Scott Boswell            2013   2012-20  6   bio          COMPLETED
+2008   Joseph Cheatle           2014   2013-20  6   bio          COMPLETED
+2008   Kyle Nelson              2014   2013-20  6   bio          COMPLETED [ambiguous name]
+2009   Andrew Gard              2015   2014-20  6   bio          COMPLETED
+2010   David Garcia             2016   2015-20  6   bio          COMPLETED [ambiguous name]
+2010   Sam Shamsnia             2015   2014-20  5   bio          LEFT -> TRANSFERRED (Tulane University/Ochsner Clinic F)
+2011   J. Will Robbins          2017   2016-20  6   bio          COMPLETED [ambiguous name]
+2011   Angelique Walstrom       2017   2016-20  6   bio          COMPLETED
+2012   Linden Fornoff           2018   2017-20  6   bio          COMPLETED
+2012   Jordan Lacy              2018   2017-20  6   bio          COMPLETED
+2013   Kyle Schmidt             2020   2019-20  7   bio          COMPLETED [ambiguous name]
+2013   Steven Tenny             2020   2019-20  7   bio          COMPLETED
+2014   Joseph McMordie          2021   2020-20  7   bio          COMPLETED
+2014   Zack Smith               -      2016-20  3   npi?         LEFT -> outcome unknown (NPI hint: other specialty)
+2015   Eric Chen                2022   2021-20  7   bio          COMPLETED [ambiguous name]
+2015   Landon Ehlers            2022   2021-20  7   bio          COMPLETED
+2016   Adam Grooms              2023   2022-20  7   bio          COMPLETED
+2016   Collin Liu               2023   2022-20  7   bio          COMPLETED
+2017   Carlos Alvarez           2025   2023-20  7   bio          COMPLETED [ambiguous name]
+2017   Joseph Menousek          2024   2023-20  7   bio          COMPLETED
+2018   Frank Mezzacappa         2025   2024-20  7   bio          COMPLETED
+2018   Alan Wang                2025   2024-20  7   bio          COMPLETED [ambiguous name]
+2019   Caroline Farrell         2026   2025-20  7   bio          COMPLETED [ambiguous name]
+2019   Luke Weisbrod            2026   2025-20  7   bio          COMPLETED
+2020   Ahmed Mansi              2023   2022-20  3   bio          LEFT -> TRANSFERRED
+2020   Tyler Pistone            -      2026-20  7   roster       IN TRAINING
+2021   Patrick Opperman         -      2026-20  6   roster       IN TRAINING
+2021   Alexander Shearin        -      2026-20  6   roster       IN TRAINING
+2022   Pasha Lookian            -      2026-20  5   roster       IN TRAINING
+2022   Elhaum Rezaii            -      2026-20  5   roster       IN TRAINING
+2023   Susan Greni              -      2026-20  4   roster       IN TRAINING
+2023   Andrew Schmidt           -      2026-20  4   roster       IN TRAINING [ambiguous name]
+2024   Kyle McCloskey           -      2026-20  3   roster       IN TRAINING
+2024   Thomas Nilles-Melchert   -      2026-20  3   roster       IN TRAINING
+2025   Christopher Brown        -      2026-20  2   roster       IN TRAINING [ambiguous name]
+2025   Cody Heskett             -      2026-20  2   roster       IN TRAINING
+2026   Yamenah Ambreen          -      2026-20  1   roster       IN TRAINING
+2026   Juan Ruiz Rodriguez      -      2026-20  1   roster       IN TRAINING [ambiguous name]
+
+summary:
+    23  COMPLETED
+    13  IN TRAINING
+     1  LEFT -> TRANSFERRED (Tulane University/Ochsner Clinic F)
+     1  LEFT -> outcome unknown (NPI hint: other specialty)
+     1  LEFT -> TRANSFERRED
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

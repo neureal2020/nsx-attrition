@@ -1,0 +1,194 @@
+{
+ "program_id": 21,
+ "name": "Geisinger Health System Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2013,
+ "hosts": [
+  {
+   "url": "http://www.geisinger.edu/Residencies/neurosurg/ (index, apply, contact, curr, faculty, research, sal_ben; no residents page)",
+   "from": "2013-10",
+   "to": "2014-04"
+  },
+  {
+   "url": "http://www.geisinger.edu/residencies/neurosurgery/ (+ /pages/*.html; pages/residents.html linked from late 2016 but never archived by Wayback or Common Crawl)",
+   "from": "2014-07",
+   "to": "2017-03 (Wayback); CC to 2018-04"
+  },
+  {
+   "url": "https://www.geisinger.edu/education/residencies-fellowships/residencies/neurosurgery-residency (+ /residents, /alumni; /residents linked from 2018-07 but first archived 2023-03-24)",
+   "from": "2018-07 (CC)",
+   "to": "2023-11"
+  },
+  {
+   "url": "https://www.geisinger.edu/gchs/education/residencies-fellowships/residencies/neurosurgery-residency (/residents = 'Residents and Alumni' from 2025)",
+   "from": "2024-02",
+   "to": "live 2026-09-27 (curl blocked by Radware CAPTCHA; read via WebFetch)"
+  },
+  {
+   "url": "https://webapps.geisinger.org/articles/articles/Geisingeraddsneurosurgeryre5821.html (news release 2013-10-28: first trainee July 1 2013, 1/yr, 7 yrs)",
+   "from": "2015-09",
+   "to": "2015-09"
+  }
+ ],
+ "observed_years": [
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "reconstructed_years": [
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022"
+ ],
+ "missing_years": [
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012..2012-2013": "Program did not exist: ACGME approval Feb 2013, first resident (Jesna Mathew) PGY-1 on 2013-07-01 (program page 2014 captures + 2013-10-28 news release). Not counted as missing.",
+  "2013-2014..2016-2017": "Old site (geisinger.edu/Residencies/neurosurg, then /residencies/neurosurgery/pages/) had no residents page until late 2016; pages/residents.html is linked from 2016-11 captures but has no Wayback capture (exact+prefix, any status) and no Common Crawl record (prefix edu,geisinger)/residencies/neurosurgery, 94 crawls 2013-2023). Index text names only the first resident. Reconstructed from alumni list: Sublett (entry 2013), Jayarao (PGY7 2016-17), Fong (entry 2016). INCOMPLETE: any 2014 or 2015 entrant not on alumni list is invisible.",
+  "2017-2018..2021-2022": "New Sitecore page /education/.../neurosurgery-residency/residents linked from 2018-07 (CC capture) but first archived by Wayback/CC on 2023-03-24. Main page captures 2018-2023 (Wayback 17 digests + CC) contain no resident names. Reconstructed from alumni list only (Konakondla PGY7 2017-18; Sublett to 2019-20; Brimley and Vivekanandan PGY7 2021-22; Fong/Sofoluke/Bugarini linear back-fill). Bohan (entry 2019), Tafreshi (2020), Richter (2021) are NOT reconstructed (not alumni, not bracketed), so these years are incomplete.",
+  "2022-2023": "Wayback 2023-03-24 residents page (identical 2023-06-10). Full 7 PGYs.",
+  "2023-2024": "Wayback 2023-11-30 (identical 2024-04-15 gchs capture).",
+  "2024-2025": "Wayback 2024-09-12 gchs residents page (identical 2024-07-17).",
+  "2025-2026": "Wayback 2025-11-09 gchs 'Residents and Alumni' page.",
+  "2026-2027": "Live page 2026-09-27 (curl got Radware bot CAPTCHA, not bypassed; WebFetch returned the page) lists exactly the 2025-26 roster at the same PGYs (Bohan PGY7 ... Sherman PGY1, no new intern) -> not advanced; not loaded."
+ },
+ "alumni_page": "https://www.geisinger.edu/gchs/education/residencies-fellowships/residencies/neurosurgery-residency/residents (Alumni section; earlier /alumni subpage 2023-2024)",
+ "departures": [],
+ "joiners": [
+  {
+   "name": "Mayur Jayarao",
+   "first_ay": "2015-2016",
+   "first_pgy": 6,
+   "note": "Transfer from Missouri-Columbia (94): PGY-4 on the Mizzou roster 2014-12-24, gone by 2015-06-04; Geisinger affiliation on PMID 27072332 (received 2015-12). PGY6 is assumed from the 2017 graduation, and he may have arrived in spring 2015. Recorded in training_history (th_id 2524)."
+  },
+  {
+   "name": "Sanjay Konakondla",
+   "first_ay": "2015-2016",
+   "first_pgy": 5,
+   "note": "Transfer from Missouri-Columbia (94): PGY-3 on the Mizzou roster to 2015-07-04, gone by 2015-09-15; skonakondla@geisinger.edu on PMID 27690251 (received 2016-06). PGY5 is assumed from the 2018 graduation (credit for a prior Wayne State neurosurgery fellowship). Recorded in training_history (th_id 2525)."
+  }
+ ],
+ "residents_2011plus": 15,
+ "adjudication_summary": {
+  "COMPLETED": 8,
+  "IN TRAINING": 7
+ },
+ "problems": "Early rosters (2013-14..2021-22) are unobservable: the residents pages existed but Wayback and Common Crawl never archived them before 2023-03. The 2014 entry class is unresolved: the program recruited for it, but no 2014 entrant is visible anywhere. Vivekanandan's entry year and PGY path are unknown. The live site has a Radware bot check (not bypassed). The CC failures left are listed in phase2.remaining (all irrelevant paths).",
+ "year_status": {
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Year 1 of the program: the only resident was Mathew/Sublett (the 2013-14 program page names her as the first and only resident); no one above PGY-1 existed yet."
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "2014 entry class is unresolved. The program recruited for July 2014 (2014 page: 'residents matching this year will begin ... July 1, 2014'; the June 2014 PGY-1 orientation schedule includes Neurosurgery), but no 2014 entrant appears on any later source. Either unfilled, or a resident who left unseen, or Vivekanandan (NPI 2013, entry 2014 or 2015)."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "Transfers Jayarao and Konakondla dated to 2015 (Mizzou roster + PubMed); Brimley entry 2015 (NPI). Still depends on the unresolved 2014 entrant and on Vivekanandan's entry year."
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "Classes 2013, 2015 and 2016 accounted for; the 2014 class (would be PGY3) is still unresolved."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Every entry class 2013 and 2015-2017 is accounted for by alumni and linear back-fill, and Vivekanandan is dated here by PubMed. Only an unseen 2014 entrant (PGY4) could be missing, which is the same unknown as 2014-15."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Entry classes 2013 and 2015-2018 are accounted for (alumni list plus 2022-23 roster). Only the unresolved 2014 class remains."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Entry classes 2013 and 2015-2019 are accounted for (Bohan, entry 2019, dated by NPI and PubMed). Only the unresolved 2014 class remains."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Entry classes 2015-2020 are accounted for. The 2013 entrant graduated in 2020. A 2014 entrant would have been PGY7 and would appear on the alumni list, which has no 2021 graduate. The only possible unseen event is a departure before 2021, which belongs to 2014-15."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Entry classes 2015-2021 are accounted for. Brimley and Vivekanandan are 2022 alumni, and the other five are bracketed by the 2022-23 roster at linear PGYs. The class is full (8 in a 7-slot, 1-per-year program)."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2023-03-24 roster, 7/7."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2023-11-30 roster, 7/7."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2024-09-12 roster, 7/7."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2025-11-09 roster, 7/7."
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "low",
+   "reason": "The live page (Radware bot check, not bypassed; phase-1 WebFetch) was not advanced from 2025-26. All six continuing residents were seen in 2025-26, and Bohan was PGY7."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2013-2023 on geisinger.edu residencies/neurosurg(ery), education/.../neurosurgery-residency, gchs/..., hiring (orientation PDFs), med_ed, residencies/surgery, webapps.geisinger.org/articles, geisinger.org + geisinger.edu news-and-media",
+   "linkaudit of neurosurgery index pages, GME index /residencies/ and /education/residencies-fellowships/residencies (2013-2022)",
+   "Common Crawl (cclocal, fixed filter) 2013-2023 on edu,geisinger)/residencies/neurosurg, edu,geisinger)/education/residencies-fellowships/residencies/neurosurgery-residency, org,geisinger,webapps)/articles/articles/geisingeraddsneurosurgery",
+   "PubMed affiliation mining 2012-2023 (Geisinger + neurosurgery; 442 PMIDs) plus per-person affiliation histories and received dates",
+   "NPPES: all Neurological Surgery NPIs in Danville PA (49) plus every resident and candidate",
+   "OpenAlex author affiliations (Vivekanandan, Brimley, Fong)",
+   "Cross-program checks: Missouri-Columbia residents page captures 2014-12..2015-11; Utah neurosurgery (111) and Utah general surgery rosters for Vivekanandan; Cooper/PCOM (15) roster for Okun",
+   "Geisinger news releases ('welcomes 110 residents' 2016, 'welcomes 51 advanced residents' 2017, scholarship days 2019): no neurosurgery names",
+   "CC result: 94 crawls. No residents subpage before CC-MAIN-2023-14/23 (2023-03), which confirms phase 1. The phase-1 failure CC-MAIN-2018-17 now succeeds (0 residents records). Failures on the Sitecore path in 2019-26, 2019-51 and 2022-33 were retried with ccscan_one and returned 0 records."
+  ],
+  "found": [
+   "Jayarao left Mizzou between 2014-12 and 2015-06 and was at Geisinger by 2015-12. Konakondla left Mizzou in summer 2015 and was at Geisinger by 2016-06. Both are transfers in 2015.",
+   "Brimley entry 2015 (NPI 2015-04-14; Utah SOM affiliation until then)",
+   "Vivekanandan at Geisinger by 2017-09 (PubMed). NPI 2013-05-09 with a University of Utah endpoint, so she trained somewhere before Geisinger. Not on the Utah neurosurgery or Utah general-surgery rosters.",
+   "Bohan (entry 2019), Tafreshi (2020) and Richter (2021) are dated by student affiliations and NPIs, so they were back-filled as reconstructed.",
+   "The program recruited a PGY-1 for July 2014 (2014 program page; PGY-1 orientation schedule 2014 lists Neurosurgery).",
+   "Non-residents with Geisinger neurosurgery affiliations were ruled out. Okun and Stofko were PCOM/Cooper AOA residents or fellows, probably rotating (Okun was PCOM PGY5 in 2014-15). Maleeha Ahmad was an FRCS neurosurgeon, and Darren Jacobs has held a DO neurosurgery NPI since 2007. Conger, Grant, Oliver, Koul, Goren and Hendrix are faculty or fellows."
+  ],
+  "remaining": [
+   "2014 entry class: unfilled, an unseen departure, or Vivekanandan (entry 2014 with an extra year). No source names a 2014 entrant. The only evidence is negative: no PubMed author, no NPPES Danville neurosurgery NPI enumerated in 2014, and no 2021 graduate.",
+   "Vivekanandan's entry year and PGY path (rows 2017-18..2020-21 carry pgy=null)",
+   "The residents page (2016-2022) was never archived. The live site has a Radware bot check, not bypassed.",
+   "Common Crawl failures left, all on paths that did not exist at crawl time or are irrelevant: 2014-23, 2016-18, 2017-17 and 2018-05 (Sitecore path before 2018-07), 2015-18 (old /residencies/neurosurg, no residents page then), 2018-43 (news article), 2023-50 (old path, gone)."
+  ]
+ }
+}

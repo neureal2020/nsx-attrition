@@ -1,0 +1,255 @@
+{
+ "program_id": 112,
+ "name": "University of Vermont Medical Center Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "complement_note": "Stated: 'We have a small program with one resident per year' (neurosurgery.aspx landing page, Common Crawl CC-MAIN-2018-39, 2018-09-18) and 'graduates one chief resident a year' (med.uvm.edu/surgery/education/residency, Wayback 2017-09-12). Lateral joiners fill vacated slots (Olszewski and Limoges, both 2015 class by PGY arithmetic, replaced the Li/Strand/Weinberg vacancies; Ng joined the 2022 class).",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.fletcherallen.org/GME/Surgery/Neurosurgery/index.html (old Fletcher Allen GME site)",
+   "from": "2004-11",
+   "to": "2009-03 (pre-window)"
+  },
+  {
+   "url": "http://gme.fletcherallen.org/programs/neurological_surgery_residency/programs_offered/neurological_surgery_residency/residents/",
+   "from": "2012-02",
+   "to": "2015-05 (301 to gme.uvmhealth.org from 2015-07)"
+  },
+  {
+   "url": "http://gme.uvmhealth.org/programs/neurological_surgery_residency/programs_offered/neurological_surgery_residency/residents/",
+   "from": "2015-12",
+   "to": "2016-03 (301 to uvmhealth.org/gme/Pages/Residencies/neurosurgery.aspx from 2016-04)"
+  },
+  {
+   "url": "https://www.uvmhealth.org/gme/Pages/Residencies/neurosurgery.aspx (+ /neurosurgery/neurosurgery-residents.aspx)",
+   "from": "2016-04",
+   "to": "2020-08 (residents subpage first captured 2020-08-14; Wayback and Common Crawl have only the landing page 2016-2019)"
+  },
+  {
+   "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+   "from": "2020-09",
+   "to": "2026-04"
+  },
+  {
+   "url": "https://www.uvmhealth.org/gme-uvm-medical-center/residencies/neurosurgery/our-residents (+ /recent-graduates)",
+   "from": "live",
+   "to": "2026-09-27"
+  },
+  {
+   "url": "UVM College of Medicine division pages (uvm.edu/medicine/surgery/?Page=neurosurgery.html 2013-2015; med.uvm.edu/surgery/neurosurgery 2016-2017; uvm.edu/larnermed/surgery/division-neurosurgery live): faculty only, no roster; uvm.edu/medicine/surgery/documents/NeurosurgeryGraduates2.pdf (2015 alumni PDF)",
+   "from": "2013-06",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2014-2015",
+  "2015-2016",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Observed: only capture of the gme.fletcherallen.org residents page in the year is Feb 2012 (Ducis = PGY1 2011 entrant, so content-current). 7 residents, one per PGY.",
+  "2012-2013": "No capture of the residents page between 2012-03 and 2014-10 (Wayback exact + prefix on gme.fletcherallen.org; program landing page captures 2012-08..2013-06 carry no names; fletcherallen.org neurological_care residency page and UVM surgery division page carry no residents; UVM Surgery Annual Report 2012 PDF lists the 2011-12 residents only; Common Crawl 2012-2015-14 has only the landing page, CC-MAIN-2012 not queryable). Reconstructed 7: Gibbons 7, Murray 6, Stockwell 5, Tsen 4, Lin 3, Ducis 2, Akture 1 (Akture alumni-confirmed 2019). Complete for a 1/yr program unless an unseen person left. PHASE 2: CC-MAIN-2012 (old index format) still not queryable with cclocal.",
+  "2013-2014": "Same as 2012-13 (no capture). Reconstructed 6: Murray 7, Stockwell 6, Tsen 5, Lin 4, Ducis 3, Akture 2. PGY-1 slot is almost certainly Xun Li (PGY2 in 2014-15) but he is not bracketed nor an alumnus, so not reconstructed.",
+  "2014-2015": "Observed Oct 2014 (unchanged to May 2015). 7.",
+  "2015-2016": "Observed Dec 2015 on gme.uvmhealth.org (same to Mar 2016). 7, new intern James Weinberg.",
+  "2016-2017": "SIGNIFICANT. From 2016-04 the program moved to uvmhealth.org/gme/Pages/Residencies/neurosurgery.aspx; its 'Our Residents' subpage (neurosurgery-residents.aspx) has no Wayback capture before 2020-08-14 and no Common Crawl record 2015-2020 (only the landing page, Feb/Jun 2018). med.uvm.edu/surgery/neurosurgery (2016-17) lists faculty only. Reconstructed partial: Lin 7, Ducis 6, Akture 5, Muse 1 (alumni-confirmed). Li, Strand, Weinberg left somewhere in 2016-2020; Olszewski/Limoges arrived somewhere in 2016-2020. PHASE 2: Akture now OBSERVED as 'visiting housestaff from University of Vermont (PGY-5 year)' on Utah's current-residents page (Wayback 2016-11-03; separate 'other' capture). Strand reconstructed PGY3: World Neurosurg paper received 2017-04 with 'Division of Neurosurgery, University of Vermont College of Medicine' (PMID 28962963). Retried CC-MAIN-2017-04: 0 records.",
+  "2017-2018": "SIGNIFICANT, as 2016-17. Reconstructed partial: Ducis 7, Akture 6, Muse 2, Thakrar 1. PHASE 2: Utah's 2017-18 roster (Wayback 2017-11-15, unchanged 2017-07..2018-03) lists only Utah's own PGY5s (Brock, Karsy) and no UVM visitor, although UVM PGY5s were at Utah in 2014-17 and 2019-21 -> the 2013-class PGY5 slot (Xun Li) was vacant, consistent with Li having transferred to Brown (Brown PGY4 2017-18 by arithmetic).",
+  "2018-2019": "SIGNIFICANT, as 2016-17. Reconstructed partial: Akture 7, Muse 3, Thakrar 2, Silveira 1. PHASE 2: Olszewski reconstructed PGY4: 'Division of Neurosurgery, University of Vermont Medical Center' on Curr Opin Pediatr Dec 2018 (PMID 30407974). Utah 2018-19 roster unobserved (301s), so the UVM visitor that year is unknown. CC-MAIN-2018-39 retried: only the landing page (no names; states 'one resident per year').",
+  "2019-2020": "SIGNIFICANT, as 2016-17. Reconstructed partial: Muse 4, Thakrar 3, Silveira 2. Erin D'Agostino (PGY2 2020-21, 2019 entrant) not reconstructed (not alumni-confirmed). The Aug 2020 .aspx capture is identical to Sep 2020 and is 2020-21 content (Adams intern). PHASE 2: Limoges OBSERVED as 'visiting resident from University of Vermont (PGY-5 year)' on Utah's roster (Wayback 2019-10-14). Olszewski reconstructed PGY5 (bracketed by the Dec-2018 paper and the 2020-21 roster). D'Agostino reconstructed PGY1: UVM neurosurgery affiliation on papers received 2019-06 (PMID 31295604) and 2019-11 (PMID 32197250). CC-MAIN-2019-51 retried: 0 records.",
+  "2020-2021": "Observed Sep 2020 (same Aug 2020-Jun 2021). 7; no PGY7 (the 2014 entrant Strand is gone); two PGY6 (Olszewski, Limoges).",
+  "2021-2022": "Observed Dec 2021. 8.",
+  "2022-2023": "Observed Mar 2023. The Dec 2022 capture was half-updated (Callahan/Zerebiec advanced; D'Agostino still PGY3, Adams PGY2, no PGY4); the Mar 2023 version advanced everyone consistently and was used. 7.",
+  "2023-2024": "Observed Sep 2023 (same to Jun 2024). 7; D'Agostino gone; Christina Ng new at PGY2.",
+  "2024-2025": "Observed Nov 2024 (same to Sep 2025). 6; no intern and no PGY6 listed (2018 class = Silveira was PGY7; 2019 class D'Agostino left). Craig Methot, PGY2 in 2025-26, is not on this page: either a 2024 intern omitted from the page or a PGY2 joiner in 2025.",
+  "2025-2026": "Observed Dec 2025 (same Apr 2026). 7.",
+  "2026-2027": "Live 2026-09-27, advanced vs 2025-26 with new intern McNamee. 8."
+ },
+ "alumni_page": "https://www.uvmhealth.org/gme-uvm-medical-center/residencies/neurosurgery/recent-graduates",
+ "departures": [
+  {
+   "name": "Xun Li",
+   "last_ay": "2015-2016",
+   "last_pgy": 3,
+   "note": "2013 entrant (Temple MD). TRANSFERRED to Brown/Rhode Island Hospital (program 54): Brown roster 2018-19 lists Xun Li PGY5 with Temple MD (same person); Brown alumnus 2021 (one-year setback). Left UVM after 2015-16 (PGY3) or 2016-17: Utah's 2017-18 roster has no UVM visiting PGY5, i.e. his slot was vacant by 2017-18. Recorded in training_history (transferred, end_year 2017 = latest possible).",
+   "departure_year": "2016 or 2017"
+  },
+  {
+   "name": "Adam Strand",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "note": "2014 entrant (Georgetown). Still in UVM Division of Neurosurgery in Apr 2017 (PMID 28962963, PGY3 2016-17). Gone by 2020-21; not an alumnus. Left mid-2017..mid-2020, outcome UNKNOWN. Phase-1 'internal medicine' was a wrong-person NPPES match: Adam Orville Strand was an internal-medicine resident at Wright State in 2015 (PMID 26464407) while this Strand was a UVM PGY2. Another NPPES Adam Strand (emergency medicine, IA, enumerated 2014-04) is a name match only."
+  },
+  {
+   "name": "James Weinberg",
+   "last_ay": "2015-2016",
+   "last_pgy": 1,
+   "note": "2015 intern (Univ. of South Carolina); 'James D Weinberg, College of Medicine, UVM' on a May 2016 paper (PMID 27148848). Left mid-2016..mid-2020, outcome UNKNOWN. NPPES James David Weinberg MD (FL, enumerated 2015, anesthesiology/pain) is plausible but name-only, so no specialty switch recorded."
+  },
+  {
+   "name": "Erin D'Agostino",
+   "last_ay": "2022-2023",
+   "last_pgy": 4,
+   "note": "2019 entrant (Geisel). Last roster PGY4 2022-23. SWITCHED SPECIALTY to neurology at UVM: 'Resident Physician, Neurology Department, University of Vermont Medical Center' (Emerg Med Pract 2025, PMID 39836567). Recorded in training_history (switched_specialty, end_year 2023)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Christina Ng",
+   "first_ay": "2023-2024",
+   "first_pgy": 2,
+   "note": "2022-23 roster observed and lacks her; now PGY5 with the 2022 class. NYMC MD (publications as NYMC student through 2023); no prior neurosurgery roster in the DB, so probably a preliminary year before joining at PGY2."
+  },
+  {
+   "name": "Craig Methot",
+   "first_ay": "2025-2026",
+   "first_pgy": 2,
+   "note": "2024-25 roster observed (stale to Sep 2025) and lacks him, but that page listed no intern at all, so he may have been an unlisted 2024 intern."
+  },
+  {
+   "name": "Adam Olszewski",
+   "first_ay": "2020-2021",
+   "first_pgy": 6,
+   "note": "Jefferson MD; NPI enumerated 2015-04 (2015 intern somewhere else: absent from UVM's observed 2015-16 roster). At UVM by 2018-19 (Division of Neurosurgery affiliation, Curr Opin Pediatr Dec 2018). Joined above PGY-1 in 2016-17, 2017-18 or 2018-19; origin program not found (not on any roster in the DB). Graduated UVM 2022."
+  },
+  {
+   "name": "Natalie Limoges",
+   "first_ay": "2020-2021",
+   "first_pgy": 6,
+   "note": "DO, Western University COMP-NW (maiden name Winn per NPPES other-name); NPI enumerated 2015-01 (2015 intern elsewhere). At UVM by 2019-20 (UVM visiting PGY5 on Utah's roster; UVM paper received 2019-11). Joined above PGY-1 in 2016-17..2019-20; origin program not found (no pre-2019 publications under Limoges or Winn). Graduated UVM 2022."
+  }
+ ],
+ "residents_2011plus": 19,
+ "adjudication_summary": {
+  "COMPLETED": 13,
+  "IN TRAINING": 8,
+  "LEFT -> outcome unknown": 2,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "caveats": "Li = transfer to Brown (training_history). Strand and Weinberg = outcome unknown (training_history completed='unknown' overrides wrong/name-only NPPES switch calls). D'Agostino = switched to neurology (publication affiliation)."
+ },
+ "problems": "The UVM residents subpage was never archived 2016-04..2020-08 in Wayback or Common Crawl (all crawls incl. retried 2017-04, 2018-39, 2019-51). 2016-17..2018-19 remain partial reconstructions (significant); 2019-20 is nearly complete (low). CC-MAIN-2012 old format not queryable. OpenAlex returned 429 (shared IP), so Europe PMC and PubMed were used instead. Brown (program 54) should add Xun Li's transfer-in row (joined 2016-17 or 2017-18) on its side. The Common Crawl scan of the UVM Surgery hosts (2016-2020) was stopped after about 144 of 162 crawl/prefix pairs; the unfinished pairs are the late-2020 crawls, after the gap.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture, one per PGY (7) or the explained extra/missing rows in gap_details"
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "no capture; all 7 PGY slots filled by bracketed/alumni people (1/yr complement); only an unseen person entering and leaving inside 2012-14 could be missed"
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "no capture; 6 of 7 slots bracketed; the PGY1 slot is Xun Li (PGY2 in 2014-15, entry year fixed by that roster)"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture, one per PGY (7) or the explained extra/missing rows in gap_details"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture, one per PGY (7) or the explained extra/missing rows in gap_details"
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "partial (5 of 7): Lin, Ducis, Akture (observed as UVM visiting PGY5 on Utah's roster), Strand (Apr-2017 UVM paper), Muse; PGY4 (Li) and PGY2 (Weinberg or a joiner) unknown"
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "partial (4 of 7): Ducis, Akture, Muse, Thakrar; Utah's 2017-18 roster has no UVM visiting PGY5 (Li's slot vacant); Strand/Weinberg/Olszewski/Limoges presence unknown"
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "partial (5 of 7): Akture, Olszewski (Dec-2018 UVM paper), Muse, Thakrar, Silveira; Strand (PGY5 slot) and Limoges unknown; Utah 2018-19 also unobserved"
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "6 people placed: Limoges observed as UVM visiting PGY5 on Utah's roster; Olszewski, Muse, Thakrar, Silveira, D'Agostino bracketed/by papers. Only Strand (PGY6 slot, gone by 2020-21) could be missing; no unseen intern possible (D'Agostino is the 2019 intern)"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture, one per PGY (7) or the explained extra/missing rows in gap_details"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture, one per PGY (7) or the explained extra/missing rows in gap_details"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture, one per PGY (7) or the explained extra/missing rows in gap_details"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture, one per PGY (7) or the explained extra/missing rows in gap_details"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "observed but lists no intern; Craig Methot (PGY2 2025-26) may have been an unlisted 2024 intern or a PGY2 joiner in 2025"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture, one per PGY (7) or the explained extra/missing rows in gap_details"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture, one per PGY (7) or the explained extra/missing rows in gap_details"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Common Crawl retries CC-MAIN-2018-39 (landing page only; states one resident per year), CC-MAIN-2017-04 and CC-MAIN-2019-51 (0 records) on org,uvmhealth)/gme/pages/residencies/neurosurgery and org,uvmhealth,gme)/programs/neurological_surgery_residency",
+   "Common Crawl 2016-2020 all crawls on edu,uvm)/medicine/surgery, edu,uvm)/larnermed/surgery, edu,uvm,med)/surgery (neurosurgery division page only; faculty)",
+   "gapaudit 2016-2020: uvmhealth.org/gme, gme.uvmhealth.org, med.uvm.edu/surgery, uvm.edu/medicine/surgery, uvm.edu/larnermed/surgery, med.uvm.edu/neurosurgery",
+   "Wayback domain-wide CDX 2016-2020 for URLs containing neurosurg on uvmhealth.org and fletcherallen.org (no residents page before 2020-08; uvm.edu query timed out)",
+   "Wayback: ~120 med.uvm.edu/surgery pages 2016-2019 (directory, residency, education, news, bio pages): no neurosurgery resident names",
+   "Utah (program 111) archived rosters 2016-17, 2017-18, 2019-20, 2020-21 for UVM visiting PGY5s",
+   "Brown (program 54) 2018-19 roster (Xun Li, Temple MD)",
+   "PubMed affiliation mining 2013-2022 (Vermont AND neurosurgery), per-person PubMed/Europe PMC for Li, Strand, Weinberg, Olszewski, Limoges/Winn, D'Agostino, Ng, Methot",
+   "NPPES for the same people; live recent-graduates page"
+  ],
+  "found": [
+   "Akture observed PGY5 2016-17 and Limoges observed PGY5 2019-20 (Utah visiting-resident listings)",
+   "no UVM visitor on Utah's 2017-18 roster -> Li's slot vacant by 2017-18",
+   "Strand at UVM neurosurgery Apr 2017; Olszewski at UVM by Dec 2018; D'Agostino at UVM in 2019 (all by paper affiliations)",
+   "D'Agostino switched to neurology at UVM (neurology resident, 2025 paper)",
+   "Strand's phase-1 'internal medicine' NPPES match is a different person",
+   "complement of one per year stated on the program page (2018)"
+  ],
+  "remaining": [
+   "2016-17..2018-19 still partial: departure years of Strand (2017-2020) and Weinberg (2016-2020), exact Li departure (2016 or 2017), arrival years and origin programs of Olszewski and Limoges; an unseen lateral joiner who left again before 2020 cannot be excluded",
+   "CC-MAIN-2012 (old index format) not queryable; CC-MAIN-2017-22 and CC-MAIN-2018-09 failed for edu,uvm)/larnermed/surgery only (low value)"
+  ]
+ }
+}

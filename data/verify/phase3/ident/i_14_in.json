@@ -1,0 +1,776 @@
+[
+ {
+  "key": "72:has:hayat",
+  "name": "Hasaan Hayat",
+  "program_id": 72,
+  "program": "University of Arizona College of Medicine- Tucson Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UA College of Medicine Tucson faculty/resident page names Hasaan Hayat; MD Michigan State; search snippet 'Neurosurgery PGY-1 ... University of Arizona College of Medicine - Tucson'",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 in 2025-26, PGY-2 2026-27 at Arizona Tucson; no completion yet",
+   "current": "neurosurgery resident (PGY-2), University of Arizona Tucson",
+   "residency_stated": [
+    {
+     "institution": "University of Arizona College of Medicine-Tucson",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.arizona.edu/person/hasaan-has-hayat",
+     "type": "search_snippet",
+     "evidence": "Hasaan \"Has\" Hayat, MD - College of Medicine - Tucson"
+    },
+    {
+     "url": "https://www.linkedin.com/in/hasaan-hayat-505b34163/",
+     "type": "search_snippet",
+     "evidence": "Hasaan Hayat - University of Arizona College of Medicine - Tucson"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "72:hen:skelton",
+  "name": "Henry Skelton",
+  "program_id": 72,
+  "program": "University of Arizona College of Medicine- Tucson Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippet: Henry Skelton MD PhD (Morehouse/Emory) welcomed as new neurosurgery resident AY 2026-27; prior Pre-Residency Fellow at Arizona Tucson; Doximity (Atlanta, Morehouse 2020) lists Epilepsia/neurosurgery pubs",
+   "outcome": "in_training",
+   "outcome_detail": "Incoming PGY-1 2026-27 at Arizona Tucson",
+   "current": "neurosurgery resident (PGY-1), University of Arizona Tucson",
+   "residency_stated": [
+    {
+     "institution": "University of Arizona College of Medicine-Tucson",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.arizona.edu/sites/default/files/2026-08/Synapse-Newsletter-Summer-2026.pdf",
+     "type": "search_snippet",
+     "evidence": "Henry Skelton, MD, PhD ... welcomed as new resident ... Academic Year 2026-2027"
+    },
+    {
+     "url": "https://www.doximity.com/pub/henry-skelton-md-ce246ae8",
+     "type": "doximity",
+     "evidence": "Morehouse School of Medicine Class of 2020; Resident Physician Atlanta (no residency program listed)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "72:set:wilson",
+  "name": "Seth Wilson",
+  "program_id": 72,
+  "program": "University of Arizona College of Medicine- Tucson Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippet: UA newsletter and current residents list Seth Wilson MD as new neurosurgery resident AY 2026-27; LinkedIn 'Incoming PGY-1 Neurosurgery Resident'",
+   "outcome": "in_training",
+   "outcome_detail": "Incoming PGY-1 2026-27 at Arizona Tucson",
+   "current": "neurosurgery resident (PGY-1), University of Arizona Tucson",
+   "residency_stated": [
+    {
+     "institution": "University of Arizona College of Medicine-Tucson",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/seth-wilson-84a884142",
+     "type": "search_snippet",
+     "evidence": "Seth Wilson - Incoming PGY-1 Neurosurgery Resident"
+    },
+    {
+     "url": "https://neurosurgery.arizona.edu/residency/current-residents",
+     "type": "search_snippet",
+     "evidence": "Seth Wilson, MD ... wilson26@arizona.edu"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "73:pau:lee",
+  "name": "Paul Lee",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2016,
+  "first_seen": "2016-2017",
+  "last_seen": "2018-2019",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> outcome unknown [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: Paul Lee MD, Residency Neurological Surgery UAMS 2016-2024, New York Medical College MD 2016 (entry 2016 matches); UAMS program page listed Paul Lee PGY-3 with NYMC; common name so probable, and the listing also shows an odd ABR Radiology certification",
+   "outcome": "completed",
+   "outcome_detail": "Doximity: UAMS neurosurgery residency 2016-2024 (second entry 2016-2023); practising neurosurgery in Sherwood AR (Arkansas Neuroscience/Krisht-associated publications), AR license 2019-2027. Roster last_seen 2018-19 PGY3 is likely a stale/coverage gap. Note: page lists ABR Radiology (probable data artifact); no ABNS yet.",
+   "current": "neurosurgeon, Sherwood AR (CHI St. Vincent North)",
+   "residency_stated": [
+    {
+     "institution": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2016,
+     "end": 2024
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/paul-lee-md-6cb1eef7",
+     "type": "doximity",
+     "evidence": "Residency, Neurological Surgery, 2016 - 2024 UAMS; New York Medical College Class of 2016; Neurosurgery Sherwood AR"
+    },
+    {
+     "url": "https://medicine.uams.edu/neurosurgery/residents/",
+     "type": "search_snippet",
+     "evidence": "UAMS listing: Paul Lee, PGY-3, New York Medical College (per search summary)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "73:mat:burton",
+  "name": "Matthew Burton",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2012,
+  "first_seen": "2014-2015",
+  "last_seen": "2014-2015",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> TRANSFERRED (University of Missouri-Columbia) [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity Matthew Ryan Burton: LSU Shreveport MD 2012, Missouri-Columbia residency 2012-2019; UAMS resident PMID 2015; name common",
+   "outcome": "transferred",
+   "outcome_detail": "Started at UAMS (PGY-3 in 2014-15 per input), later Missouri-Columbia; Doximity lists Missouri residency only (2012-2019) - UAMS portion not shown",
+   "current": "neurosurgeon, Neurosurgery Consultants, Lake Charles LA",
+   "residency_stated": [
+    {
+     "institution": "University of Missouri-Columbia",
+     "specialty": "neurosurgery",
+     "start": 2012,
+     "end": 2019
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/matthew-burton-md-303d2e3d",
+     "type": "doximity",
+     "evidence": "Residency, Neurological Surgery, University of Missouri-Columbia, 2012 - 2019; LSU Shreveport Class of 2012"
+    },
+    {
+     "url": "https://physicians.lcmh.com/neurological-surgery/matthew-burton-md",
+     "type": "search_snippet",
+     "evidence": "completed neurosurgery residency at the University of Missouri"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "73:ang:palmer",
+  "name": "Angela Palmer",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "last_seen": "2020-2021",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Angela Wilcox Palmer: UAMS chief resident 2020 (UAMS Facebook), UTHSC MD 2014 (entry 2014), now Chief of Neurosurgery Southern Hills Las Vegas",
+   "outcome": "completed",
+   "outcome_detail": "Chief resident UAMS; practising neurosurgeon Las Vegas, board certified per directory",
+   "current": "neurosurgeon, Spine and Brain Institute / Southern Hills Hospital, Las Vegas NV",
+   "residency_stated": [
+    {
+     "institution": "University of Arkansas for Medical Sciences",
+     "specialty": "neurosurgery",
+     "start": 2014,
+     "end": 2021
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.facebook.com/uamsneurosurg/posts/introducing-neurosurgery-chief-residents-dr-angela-palmer-and-dr-patrick-paullus/123790849384949/",
+     "type": "search_snippet",
+     "evidence": "Introducing Neurosurgery Chief Residents, Dr. Angela Palmer and Dr. Patrick Paullus"
+    },
+    {
+     "url": "https://www.medifind.com/doctors/angela-w-palmer/326443550",
+     "type": "search_snippet",
+     "evidence": "Angela W. Palmer Neurosurgery Las Vegas"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "73:tay:wilson",
+  "name": "Taylor Wilson",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2014,
+  "first_seen": "2017-2018",
+  "last_seen": "2018-2019",
+  "last_pgy": 5,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LLU bio: Taylor Anne Wilson MD (NYU 2014, matches NYU on UAMS/Wake profiles); Loma Linda Neurology residency class 2024 + epilepsy fellowship",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Left neurosurgery (UAMS, after Wake Forest transfer-in) in 2018; now neurology residency graduate (Loma Linda, class of 2024) then epilepsy fellowship",
+   "current": "neurologist / epilepsy fellow, Loma Linda University Medical Center",
+   "residency_stated": [
+    {
+     "institution": "Loma Linda University Health",
+     "specialty": "neurology",
+     "start": 2020,
+     "end": 2024
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurology-residency/meet-us",
+     "type": "search_snippet",
+     "evidence": "Fellowship: Epilepsy, Loma Linda University Medical Center"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-taylor-wilson-xylwfhb",
+     "type": "search_snippet",
+     "evidence": "Neurologist in Loma Linda, graduated NYU School of Medicine 2014"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "73:zac:porter",
+  "name": "Zach Porter",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2026-2027",
+  "last_pgy": 7,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UAMS current residents page and news list Zach/Zachary Porter, M.D. as neurosurgery resident (HYM award, softball tournament); entry 2020 by roster",
+   "outcome": "in_training",
+   "outcome_detail": "Current UAMS resident 2026-27",
+   "current": "neurosurgery resident, UAMS",
+   "residency_stated": [
+    {
+     "institution": "University of Arkansas for Medical Sciences",
+     "specialty": "neurosurgery",
+     "start": 2020,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+     "type": "search_snippet",
+     "evidence": "Zach Porter, M.D. listed as current resident"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "74:jor:lo",
+  "name": "Jordan Lo",
+  "program_id": 74,
+  "program": "University of California (Irvine) Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UCI roster lists Jordan Lo, MD; Doximity lists a Jordan Lo, Tulane MD 2026 (Other MD/DO, New Orleans) that plausibly is him but shows no residency; not independently linked",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 intern in 2026-27 per UCI roster; Doximity page lacks residency",
+   "current": "neurosurgery resident, UC Irvine",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+     "type": "program_page",
+     "evidence": "Listed among current UC Irvine Neurological Surgery residents"
+    },
+    {
+     "url": "https://www.doximity.com/pub/jordan-lo-md",
+     "type": "doximity",
+     "evidence": "Tulane University School of Medicine Class of 2026 (no residency listed)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "74:raz:faraj",
+  "name": "Razan Faraj",
+  "program_id": 74,
+  "program": "University of California (Irvine) Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UCI roster lists Razan Faraj, MD; Emory neurosurgery-affiliated publications by Razan R Faraj (Epilepsia 2025) and LinkedIn Atlanta suggest recent Emory medical student; no direct link established",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 intern in 2026-27 per UCI roster; no Doximity profile found",
+   "current": "neurosurgery resident, UC Irvine",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+     "type": "program_page",
+     "evidence": "Listed among current UC Irvine Neurological Surgery residents"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "75:kat:becker",
+  "name": "Kathryn Becker",
+  "program_id": 75,
+  "program": "University of California (San Diego) Medical Center Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UCSD residents page lists Kathryn Becker, MD, PhD as PGY-3; UCSD X welcome post. Doximity kathryn-becker-md is a diagnostic radiologist at UCSF (license 2014): a namesake, not used",
+   "outcome": "in_training",
+   "outcome_detail": "UCSD residents page lists Kathryn Becker, MD, PhD as PGY-3",
+   "current": "neurosurgery resident, UC San Diego",
+   "residency_stated": [
+    {
+     "institution": "University of California (San Diego) Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.ucsd.edu/education/residents.html",
+     "type": "program_page",
+     "evidence": "UCSD residents page lists Kathryn Becker, MD, PhD as PGY-3"
+    },
+    {
+     "url": "https://www.doximity.com/pub/kathryn-becker-md",
+     "type": "doximity",
+     "evidence": "Radiology, San Francisco; ABR Diagnostic Radiology; CA license 2014-2016 (namesake, not this person)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "75:tra:miller",
+  "name": "Tracy Miller",
+  "program_id": 75,
+  "program": "University of California (San Diego) Medical Center Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UCSD residents page lists Tracy Miller, MD as PGY-1; Khalessi X post welcoming Ayubcha, Miller, Touponse. No independent profile found (common name)",
+   "outcome": "in_training",
+   "outcome_detail": "UCSD residents page lists Tracy Miller, MD as PGY-1",
+   "current": "neurosurgery resident, UC San Diego",
+   "residency_stated": [
+    {
+     "institution": "University of California (San Diego) Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.ucsd.edu/education/residents.html",
+     "type": "program_page",
+     "evidence": "UCSD residents page lists Tracy Miller, MD as PGY-1"
+    },
+    {
+     "url": "https://x.com/DrAlexKhalessi/status/2035052048769831352",
+     "type": "search_snippet",
+     "evidence": "Proud to welcome Drs. Cyrus Ayubcha, Tracy Miller and Gavin Touponse as our newest residents"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "76:cla:faltermeier",
+  "name": "Claire Faltermeier",
+  "program_id": 76,
+  "program": "University of California (San Francisco) Program \u00a9 2026 Accreditation ",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2018-2019",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Rare name; Doximity: UCLA MD 2018 then UCLA general surgery residency 2019-2023, MGH cardiac surgery fellow, Southcoast Health (Sept 2026 press). No source explicitly lists a UCSF neurosurgery year; timing (UCLA MD 2018, UCSF NS PGY-1 2018-19, UCLA surgery from 2019) is consistent",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Left UCSF neurosurgery after PGY-1 (2018-19); UCLA general surgery residency 2019-2023; then MGH advanced cardiac surgery fellowship; now cardiothoracic surgeon",
+   "current": "Cardiothoracic surgeon, Southcoast Health (previously MGH cardiac surgery fellow)",
+   "residency_stated": [
+    {
+     "institution": "UCLA David Geffen School of Medicine/UCLA Medical Center",
+     "specialty": "general surgery",
+     "start": 2019,
+     "end": 2023
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/claire-faltermeier-md",
+     "type": "doximity",
+     "evidence": "Residency, Surgery, 2019 - 2023 (UCLA); Class of 2018 UCLA; Advanced Cardiac Surgery Fellow, MGH; Thoracic Surgery specialty"
+    },
+    {
+     "url": "https://x.com/UWCTSurgRes/status/1524578811945181184",
+     "type": "search_snippet",
+     "evidence": "UW CT Surgery match announcement 2022 for Dr. Claire Faltermeier (cardiothoracic path)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "76:jas:chung",
+  "name": "Jason Chung",
+  "program_id": 76,
+  "program": "University of California (San Francisco) Program \u00a9 2026 Accreditation ",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2026-2027",
+  "last_pgy": 7,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UCSF residents page lists Jason Chung MD PhD at PGY7; Chung is UCSF MD-PhD (UCSF bios / The Transmitter). Doximity page (jason-chung-md-cf0d81e7, room M779 address, UCSF MD 2020, neuroscience publications) is mislabeled 'Urology' with UCLA urology residency 2017-2022 which conflicts, so Doximity data unreliable",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY-7 neurosurgery resident (MD PhD) at UCSF 2026-27; postdoc in Edward Chang lab per Transmitter bio. Doximity shows unreliable urology residency entry; not evidence of a switch.",
+   "current": "Neurosurgery resident PGY-7, UCSF",
+   "residency_stated": [
+    {
+     "institution": "University of California (San Francisco)",
+     "specialty": "neurosurgery",
+     "start": 2020,
+     "end": 2027
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.ucsf.edu/residents",
+     "type": "program_page",
+     "evidence": "PGY7: Jason Chung, MD, PhD"
+    },
+    {
+     "url": "https://www.doximity.com/pub/jason-chung-md-cf0d81e7",
+     "type": "doximity",
+     "evidence": "Urology; Residency Urology 2017-2022 UCLA; UCSF School of Medicine Class of 2020; address 505 Parnassus Rm M779"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "77:chr:boudreau",
+  "name": "Christine Boudreau",
+  "program_id": 77,
+  "program": "University of California Davis Health Program",
+  "entry_year": 2009,
+  "first_seen": "2011-2012",
+  "last_seen": "2011-2012",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: UCLA MD 2006, UC Davis neurosurgery residency 2009-2011; LinkedIn snippet: MD, Los Rios CCD, UC Davis Medical Center",
+   "outcome": "left_medicine",
+   "outcome_detail": "Only residency dates 2009-2011 with no ABNS certification; LinkedIn/RateMyProfessors listing a Christine Boudreau (MD) as biology professor at Cosumnes River College (Sacramento). Doximity/Healthgrades neurosurgery labels are auto-populated addresses. Identity of the teaching profile probable, not verified by a bio.",
+   "current": "biology professor, Cosumnes River College, Sacramento (probable)",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/christine-boudreau-md",
+     "type": "doximity",
+     "evidence": "Residency UC Davis Neurological Surgery 2009-2011; no board certification listed"
+    },
+    {
+     "url": "https://www.linkedin.com/in/christine-boudreau-md/",
+     "type": "search_snippet",
+     "evidence": "Christine Boudreau - Los Rios Community College District"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "77:ish:shah",
+  "name": "Ishan Shah",
+  "program_id": 77,
+  "program": "University of California Davis Health Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UC Davis roster PGY-1 USC 2026; Keck/USC student Ishan Shah worked in Zada neurosurgery lab; no independent page tying him to UC Davis. Name is common.",
+   "outcome": "in_training",
+   "outcome_detail": "Listed on the UC Davis neurosurgery current-residents page for 2026-27 as PGY-1",
+   "current": "Neurosurgery resident (PGY-1), UC Davis",
+   "residency_stated": [
+    {
+     "institution": "UC Davis Health",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://health.ucdavis.edu/neurological-surgery/academic-programs/residency/current-residents",
+     "type": "program_page",
+     "evidence": "UC Davis Neurological Surgery residents 2026-2027, PGY-1, University of Southern California, 2026"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "78:hea:smith",
+  "name": "Heather Smith",
+  "program_id": 78,
+  "program": "University of Chicago Program",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "last_seen": "2017-2018",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Heather Lynne Smith MD (UTMB 2017) shows UChicago Medical Center address; MD 2017 matches 2017 entry; pathology listings; Doximity shows specialty tags Neurosurgery/neuropathology but only pathology boards",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Healthgrades snippet: completed residency in Anatomic and Clinical Pathology at University of Chicago Medical Center 2022; neuropathology fellowship Northwestern 2025; ABP boards in Anatomic Pathology and Neuropathology (Doximity). No neurosurgery certification. Pathology start ~2018 inferred from 4-yr AP program ending 2022",
+   "current": "neuropathologist (Loyola Medicine / Northwestern)",
+   "residency_stated": [
+    {
+     "institution": "University of Chicago Medical Center",
+     "specialty": "anatomic and clinical pathology",
+     "start": 2018,
+     "end": 2022
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/heather-smith-md-4a8c752f",
+     "type": "doximity",
+     "evidence": "American Board of Pathology Pathology - Anatomic; Neuropathology; UTMB Class of 2017; no residency listed"
+    },
+    {
+     "url": "https://www.loyolamedicine.org/provider/heather-lynne-smith-md-phd-anatomic-pathology",
+     "type": "search_snippet",
+     "evidence": "Heather Lynne Smith, MD, PhD | Loyola Medicine, anatomic pathology"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-heather-smith-xyn8gm2",
+     "type": "search_snippet",
+     "evidence": "completed her residency in Anatomic and Clinical Pathology at University of Chicago Medical Center in 2022"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "78:huy:nguyen",
+  "name": "Huy Tram Nguyen",
+  "program_id": 78,
+  "program": "University of Chicago Program",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2020-2021",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity (two duplicate profiles, one as Huy Tram Nhat Nguyen) UChicago neurosurgery 2020-2027, UW-Madison MD 2020 (auto-generated schedule); UChicago Radiology 2023 match announcement lists 'Huy Tram Nguyen - University of Wisconsin; University of Chicago - Neurological Surgery'; DB PubMed 2025 affiliation UChicago Radiology; not on 2026-27 neurosurgery roster",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Listed among UChicago Radiology's 2023 Main Match matched residents with prior program UChicago Neurological Surgery, i.e. matched into diagnostic radiology in March 2023 (start 2023 or 2024); absent from current neurosurgery roster. Directory sites still show stale neurosurgery 2020-2027",
+   "current": "radiology resident, University of Chicago (per DB PubMed affiliation and radiology match page)",
+   "residency_stated": [
+    {
+     "institution": "University of Chicago",
+     "specialty": "neurosurgery",
+     "start": 2020,
+     "end": 2027
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://radiology.uchicago.edu/news/2023-2024-matched-residents-announced",
+     "type": "program_page",
+     "evidence": "Huy Tram Nguyen - University of Wisconsin; University of Chicago - Neurological Surgery (under 2023 Matched Radiology Residents, March 23 2023)"
+    },
+    {
+     "url": "https://www.doximity.com/pub/huy-tram-nguyen-md",
+     "type": "doximity",
+     "evidence": "University of Chicago Residency, Neurological Surgery, 2020 - 2027 (stale)"
+    },
+    {
+     "url": "https://neurosurgery.uchicago.edu/education/meet-our-residents-and-fellows",
+     "type": "program_page",
+     "evidence": "2026-27 roster does not include Huy Tram Nguyen"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "78:zhe:wang",
+  "name": "Zhe Wang",
+  "program_id": 78,
+  "program": "University of Chicago Program",
+  "entry_year": 2022,
+  "first_seen": "2023-2024",
+  "last_seen": "2026-2027",
+  "last_pgy": 5,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Roster PGY 5 2026-27; LinkedIn snippet Zhe (Zoey) Wang resident physician University of Chicago; coauthor with UChicago neurosurgery residents (Tusa Lavieri, Sone, Mansi) in 2026",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-5 on 2026-27 roster",
+   "current": "neurosurgery resident, University of Chicago",
+   "residency_stated": [
+    {
+     "institution": "University of Chicago",
+     "specialty": "neurosurgery",
+     "start": 2022,
+     "end": 2029
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.uchicago.edu/education/meet-our-residents-and-fellows",
+     "type": "program_page",
+     "evidence": "PGY 5: Zhe Wang, MD"
+    },
+    {
+     "url": "https://www.linkedin.com/in/zhe-zoey-wang-3ab98099/",
+     "type": "search_snippet",
+     "evidence": "Zhe (Zoey) Wang - Resident Physician - University of ..."
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "79:all:sinclair",
+  "name": "Allie Sinclair",
+  "program_id": 79,
+  "program": "University of Cincinnati Medical Center/College of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UC current-residents page lists Allie Sinclair DO PGY-1; 2026 paper (jom-2025-0248) by Allie L. Sinclair, Dept of Neurosurgery, UC College of Medicine",
+   "outcome": "in_training",
+   "outcome_detail": "Listed PGY-1 on UC neurosurgery current residents page (2026-27), DO",
+   "current": "neurosurgery resident PGY-1, University of Cincinnati",
+   "residency_stated": [
+    {
+     "institution": "University of Cincinnati",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+     "type": "program_page",
+     "evidence": "Listed PGY-1 on UC neurosurgery current residents page (2026-27), DO"
+    },
+    {
+     "url": "https://doi.org/10.1515/jom-2025-0248",
+     "type": "pubmed",
+     "evidence": "Allie L. Sinclair, Dept of Neurosurgery, University of Cincinnati (search result summary)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

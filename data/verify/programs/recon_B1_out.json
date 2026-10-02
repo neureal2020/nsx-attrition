@@ -1,0 +1,358 @@
+[
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 67,
+  "program": "UCLA David Geffen School of Medicine/UCLA Medical Center Program",
+  "name": "H. Westley Phillips",
+  "finding": "Came from NYU neurosurgery (PGY1-2, 2015-17); that NYU departure is already recorded in our data as a transfer to UCLA.",
+  "people": [
+   {
+    "name": "H. Westley Phillips",
+    "origin_program": "NYU Grossman School of Medicine Program (neurosurgery)",
+    "origin_is_us_acgme_ns": true,
+    "left_origin_ay": "2016-2017",
+    "pgy_when_left": 2,
+    "outcome": "in_our_data",
+    "destination": "UCLA neurosurgery (completed 2022)",
+    "sources": [
+     "local:data/verify/phase3/ident/i_11_out.json",
+     "local:data/verify/phase3/merged_final.json (key 50:har:phillips)",
+     "https://www.stanfordchildrens.org/en/doctor/h-westley-phillips.html"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 56,
+  "program": "Rush University Medical Center Program",
+  "name": "Krishna Joshi",
+  "finding": "Prior neurosurgery residency at G.B. Pant Hospital, University of Delhi (India); foreign, not an ACGME departure.",
+  "people": [
+   {
+    "name": "Krishna Joshi",
+    "origin_program": "G.B. Pant Hospital, University of Delhi (neurosurgery, India)",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Rush neurosurgery (completed)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_084_out.json",
+     "https://doctors.rush.edu/details/22000"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 4,
+  "program": "Barrow Neurological Institute at St Joseph's Hospital and Medical Cent",
+  "name": "Mohamed Labib",
+  "finding": "Prior residency at Western University (Canada, 2012); foreign, not an ACGME departure.",
+  "people": [
+   {
+    "name": "Mohamed Labib",
+    "origin_program": "Western University, London ON, Canada",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Barrow neurosurgery (completed 2021)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_066_out.json",
+     "https://www.umms.org/find-a-doctor/profiles/dr-mohamed-am-labib-md-1801288816"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 24,
+  "program": "Henry Ford Health/Henry Ford Hospital Program",
+  "name": "Jessin John",
+  "finding": "No outside origin: bio lists neurosurgery residency only at Henry Ford (to 2019, then anesthesiology there); late first appearance is a roster gap, not a transfer in.",
+  "people": [
+   {
+    "name": "Jessin John",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Henry Ford anesthesiology 2022 (switch already recorded)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_007_out.json",
+     "https://www.ochsner.org/doctors/jessin-john/"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 78,
+  "program": "University of Chicago Program",
+  "name": "Arjang Ahmadpour",
+  "finding": "No outside origin: bio lists internship at UChicago 2018 and residency at UChicago to 2024 (UC Davis MD 2017); roster gap, not a transfer.",
+  "people": [
+   {
+    "name": "Arjang Ahmadpour",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "UChicago neurosurgery (completed 2024)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_028_out.json",
+     "https://www.nm.org/doctors/1548670599/arjang-ahmadpour-md"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 57,
+  "program": "Rutgers Health/New Jersey Medical School Program",
+  "name": "Omar Iqbal",
+  "finding": "No US origin: bio lists residency at Rutgers (plus a fifth year at Great Ormond Street, UK); roster gap, not a transfer in.",
+  "people": [
+   {
+    "name": "Omar Iqbal",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Rutgers neurosurgery (completed)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_085_out.json",
+     "https://dellmed.utexas.edu/directory/mohammed-iqbal"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 116,
+  "program": "UPMC Medical Education Program",
+  "name": "Ezequiel Goldschmidt",
+  "finding": "No other US residency: Hoag bio lists neurosurgery residency only at UPMC (with intraresidency skull base); not an ACGME departure elsewhere.",
+  "people": [
+   {
+    "name": "Ezequiel Goldschmidt",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "UPMC neurosurgery (completed)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_044_out.json",
+     "https://www.hoag.org/physician/ezequiel-d-goldschmidt-md/"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 4,
+  "program": "Barrow Neurological Institute at St Joseph's Hospital and Medical Cent",
+  "name": "Sirin Gandhi",
+  "finding": "No US origin found: Barrow bio gives M.S. Ramaiah (India) MD and Barrow residency start 2022 (preceded by Barrow research); no other US neurosurgery program.",
+  "people": [
+   {
+    "name": "Sirin Gandhi",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Barrow neurosurgery (in training)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_048_out.json",
+     "https://www.barrowneuro.org/person/sirin-gandhi-m-b-b-s/"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 8,
+  "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+  "name": "Srijan Adhikari",
+  "finding": "No outside origin: Quinnipiac MD 2019 with VA license from 2019 and only Carilion neurosurgery listed; late appearance is a roster gap.",
+  "people": [
+   {
+    "name": "Srijan Adhikari",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Carilion neurosurgery",
+    "sources": [
+     "local:data/verify/phase3/ident/i_05_out.json",
+     "local:data/verify/phase3/gold/g_067_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 53,
+  "program": "Penn State Milton S Hershey Medical Center Program",
+  "name": "David Bailey",
+  "finding": "No outside origin: Penn State COM 2022 graduate, Doximity resident at Hershey since; late appearance is a roster gap.",
+  "people": [
+   {
+    "name": "David Bailey",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Penn State Hershey neurosurgery (in training)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_123_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 120,
+  "program": "Washington University/B-JH/SLCH Consortium Program",
+  "name": "Tom Beaumont",
+  "finding": "No outside origin: Thomas L. Beaumont's residency was WashU neurosurgery 2010-2017 (then Ohio State skull base fellowship, now UCSD); PGY-6 first appearance is a roster gap.",
+  "people": [
+   {
+    "name": "Thomas L. Beaumont",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "WashU neurosurgery (completed 2017); fellowship Ohio State; faculty UC San Diego",
+    "sources": [
+     "https://providers.ucsd.edu/details/33178/neurosurgery-cancer-surgery (search summary; opened page showed name/specialty only)",
+     "https://scholar.google.com/citations?hl=en&user=8GA5uUQAAAAJ (search result)"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 103,
+  "program": "University of South Florida Morsani Program",
+  "name": "Ivo Petoe",
+  "finding": "No US neurosurgery origin found: Charles University (Prague) MD 2010, USF skull base fellow 2019-20, then USF resident (chief 2024, UPMC skull base fellow); prior training appears foreign/fellowship, not another ACGME NS program.",
+  "people": [
+   {
+    "name": "Ivo Petoe (Peto)",
+    "origin_program": "USF skull base fellowship 2019-2020 (non-residency); MD Charles University Prague 2010",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "USF neurosurgery (completed 2024); UPMC skull base fellow",
+    "sources": [
+     "local:data/verify/phase3/gold/g_038_out.json",
+     "https://www.doximity.com/pub/ivo-peto-md",
+     "https://x.com/USFNeurosurgery/status/1795499555749851473",
+     "https://health.usf.edu/medicine/neurosurgery/education/fellowship/skull-base-fellows"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 31,
+  "program": "Loma Linda University Health Education Consortium Program",
+  "name": "Rasha Elbadry Ahmed",
+  "finding": "Foreign origin: Egyptian MD (2013), first neurosurgery residency in Qatar plus two pediatric fellowships (incl. Children's Hospital Colorado) before Loma Linda; not an ACGME NS departure.",
+  "people": [
+   {
+    "name": "Rasha Elbadry Ahmed",
+    "origin_program": "Neurosurgery residency in Qatar (institution not named); pediatric fellowships",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Loma Linda neurosurgery (completed); Brown complex spine fellowship",
+    "sources": [
+     "https://www.linkedin.com/in/rasha-elbadry-34a020185/ (search summary, lead only)",
+     "https://x.com/theamna1/status/1939081953023582313",
+     "local:data/verify/phase3/gold/g_009_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 31,
+  "program": "Loma Linda University Health Education Consortium Program",
+  "name": "Melissa Janssen",
+  "finding": "No outside origin: Stony Brook MD 2022 and Loma Linda PGY-5 in 2026-27 implies start at Loma Linda 2022; PGY-3 first appearance is a roster gap.",
+  "people": [
+   {
+    "name": "Melissa Janssen",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Loma Linda neurosurgery (in training)",
+    "sources": [
+     "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+     "local:data/verify/phase3/gold/g_116_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 78,
+  "program": "University of Chicago Program",
+  "name": "Ahmad Sweid",
+  "finding": "No US NS origin: LAU MD, previously postdoctoral researcher at Thomas Jefferson (research, not residency); UChicago neurosurgery residency 2021-2028, so PGY-3 first appearance is a roster gap.",
+  "people": [
+   {
+    "name": "Ahmad Sweid",
+    "origin_program": "Thomas Jefferson University postdoctoral research (not residency)",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "UChicago neurosurgery (in training)",
+    "sources": [
+     "https://www.doximity.com/pub/ahmad-sweid-md (search summary, lead)",
+     "https://www.emedevents.com/speaker-profile/ahmad-sweid",
+     "local:data/verify/phase3/gold/g_130_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 57,
+  "program": "Rutgers Health/New Jersey Medical School Program",
+  "name": "Elena Solli",
+  "finding": "No outside origin: NYMC MD 2017 straight into Rutgers NJMS neurosurgery (LinkedIn/WebMD), so 2019-20 PGY-3 first appearance is a roster gap; her later switch to ophthalmology is already recorded.",
+  "people": [
+   {
+    "name": "Elena Solli",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Rutgers NJMS neurosurgery, then ophthalmology (NYU 2022-25) - already recorded as switched_specialty",
+    "sources": [
+     "https://www.linkedin.com/in/elena-solli-568a8926/ (search summary, lead)",
+     "local:data/verify/phase3/gold/g_019_out.json"
+    ]
+   }
+  ]
+ }
+]

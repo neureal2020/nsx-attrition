@@ -1,0 +1,1000 @@
+[
+ {
+  "key": "108:geo:peitz",
+  "name": "Geoffrey Peitz",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency Neurological Surgery UTHSCSA 2016-2023, IUSM 2016; LSOM graduation post June 2023",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated June 17 2023 (LSOM post); ABNS listed",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, University Health / UT Health San Antonio (San Antonio TX)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/geoffrey-peitz-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/residency-graduation-geoffrey-peitz-md-and-sam-tavakoli-md/",
+    "type": "program_page",
+    "evidence": "graduating from our residency program tomorrow, Saturday June 17th"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:sam:tavakoli",
+  "name": "Sam Tavakoli",
+  "program_id": 108,
+  "identity": "probable",
+  "identity_basis": "LSOM graduation post (Peitz and Tavakoli, June 2023); KGNS piece: attended residency in San Antonio; Doximity profile 'Samon Tavakoli-Sabour' (MCW skull base) MD UTHSCSA class 2016 - name variant, same person likely",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated June 17 2023; then skull base fellowship (Medical College of Wisconsin per Doximity/LinkedIn snippet); now practising neurosurgeon Laredo",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Laredo Physicians Group, Laredo TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/residency-graduation-geoffrey-peitz-md-and-sam-tavakoli-md/",
+    "type": "program_page",
+    "evidence": "graduating from our residency program tomorrow, Saturday June 17th"
+   },
+   {
+    "url": "https://www.kgns.tv/2026/06/09/care-that-makes-difference-dr-sam-tavakoli/",
+    "type": "news",
+    "evidence": "neurosurgeon at Laredo Physicians Group; attended residency in San Antonio"
+   },
+   {
+    "url": "https://www.doximity.com/pub/samon-tavakoli-sabour-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Milwaukee WI; The University of Texas Health Science Center at San Antonio Class of 2016 (possible same person under fuller name; residency not listed)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "108:mat:webb",
+  "name": "Matthew Webb",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Matthew Richard Webb DO: residency UTHSCSA 2017-2024, Ohio Univ COM 2017; LSOM 'Graduated 2024'. Distinct from other Matthew Webbs by DO/program",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated 2024; endovascular neurosurgery fellowship UTHSCSA 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "cerebrovascular/endovascular neurosurgeon, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-webb-do-5306591d",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/matthew-webb-do/",
+    "type": "program_page",
+    "evidence": "Graduated 2024"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "108:peg:ghamasaee",
+  "name": "Pegah Ghamasaee",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile 'Graduated 2024'; Doximity: Assistant Professor of Neurosurgery, UTHSCSA, San Antonio",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated 2024 per LSOM; now assistant professor of neurosurgery (spine)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurosurgery (spine), UT Health San Antonio (Healthgrades also lists Milwaukee office)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/pegah-ghamasaee-m-d/",
+    "type": "program_page",
+    "evidence": "Graduated 2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/pegah-ghamasaee-md",
+    "type": "doximity",
+    "evidence": "Neurosurgical Spine Surgery, Assistant Professor of Neurosurgery; UTHSCSA Class of 2017"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "108:jon:fisher",
+  "name": "Jonathan Fisher",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM Jonathan Fisher MD (LSU 2018, residency UTHSCSA 2018-); Doximity residency UTHSCSA 2018-2025 LSU 2018; resolves ambiguous name",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated 2025 (LSOM bio: graduated 2025; Doximity 2018-2025)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon/faculty, UT Health San Antonio (ZoomInfo: Assistant Professor of Neurosurgery)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/jonathan-fisher-m-d/",
+    "type": "program_page",
+    "evidence": "Residency: Department of Neurosurgery, UTHSCSA (2018-Present); graduated 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jonathan-fisher-md-41fb7f5f",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025; LSU New Orleans Class of 2018"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "108:vai:mahadev",
+  "name": "Vaidehi Mahadev",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile: NEOMED MD 2018, UTHSCSA neurosurgery, 'Graduated 2025'; NEOMED news on neurosurgery grant",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated 2025; visiting pediatric neurosurgery fellow, Lurie Children's (search snippet)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgery fellow (Lurie Children's/Northwestern per WebMD-derived snippet)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/vaidehi-mahadev-m-d/",
+    "type": "program_page",
+    "evidence": "Graduated 2025; Northeast Ohio Medical School 2015-2018"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/vaidehi-mahadev-eea70c65-d452-416d-9861-0cd07bc66602-overview",
+    "type": "search_snippet",
+    "evidence": "Visiting Pediatric Neurosurgery Fellow at Lurie Children's Hospital"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:vic:fischer",
+  "name": "Victoria Fischer",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency UTHSCSA 2018-2025, Georgetown MD 2018; LSOM profile",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (neurotrauma), Landstuhl Regional Medical Center per Doximity",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/victoria-fischer-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025; Georgetown University School of Medicine Class of 2018; Neurosurgeon"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "108:t:patterson",
+  "name": "T. Tyler Patterson",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "Doximity T. Tyler Patterson MD: UTHSCSA MD 2019, AOA 2019, chief resident UTHSCSA neurosurgery; LSOM profile; Trinity 2015",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Chief resident and enfolded spine fellow 2025-26; now practising neurosurgeon in Salem OR (OR license 2026-27)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Salem, OR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/t-tyler-patterson-md",
+    "type": "doximity",
+    "evidence": "Neurosurgeon, Salem OR; chief resident neurosurgeon at UT Health San Antonio; OR State Medical License 2026-2027"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/t-tyler-patterson-md/",
+    "type": "program_page",
+    "evidence": "LSOM neurosurgery profile listing"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "108:wil:johnson",
+  "name": "William Chase Johnson",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile: UTHSCSA MD 2019, 'Graduated 2026'; published with UTHSCSA neurosurgery faculty",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "LSOM profile says Graduated 2026 (LinkedIn snippet still resident)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "recent graduate, UT Health San Antonio neurosurgery",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/william-chase-johnson-m-d/",
+    "type": "program_page",
+    "evidence": "Graduated 2026; Medical School UTHSCSA July 2015-May 2019"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "108:jon:leary",
+  "name": "Jonathan Leary",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency UTHSCSA 2020, MUSC class 2020; LSOM profile; co-authors with UTHSCSA neurosurgery residents",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity: resident physician San Antonio; a second Doximity page jonathan-leary-md-b44a026d exists (not opened)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jonathan-leary-md",
+    "type": "doximity",
+    "evidence": "Residency Physician; Residency, Neurological Surgery, 2020; MUSC Class of 2020"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/jonathan-leary-md/",
+    "type": "program_page",
+    "evidence": "LSOM neurosurgery profile"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "108:mic:gaub",
+  "name": "Michael Gaub",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency UTHSCSA 2020-2027, Arizona MD 2020; X bio PGY7",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity Resident; expected 2027; plans endovascular fellowship",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (senior), UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-gaub-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027; University of Arizona College of Medicine Class of 2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "108:raj:gunaji",
+  "name": "Rajesh Gunaji",
+  "program_id": 108,
+  "identity": "probable",
+  "identity_basis": "LSOM profile: USUHS MD 2019, Naval Medical Center Portsmouth intern 2019-2020, UTHSCSA neurosurgery from 2020",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Military (Navy) resident; PGY-7 per input",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/rajesh-gunaji-md/",
+    "type": "program_page",
+    "evidence": "Internship Naval Medical Readiness and Training Command Portsmouth 2019-2020; UTHSCSA neurosurgery from 2020"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:ale:villahermosa",
+  "name": "Alexander J. Villahermosa",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM: USU 2021, UTHSCSA neurosurgery July 2021-present PGY VI; ex-Army Special Forces; Doximity snippet (URL not surfaced)",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY VI; also described as neurocritical care fellow (RocketReach snippet)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/alexander-j-villahermosa-m-d/",
+    "type": "program_page",
+    "evidence": "PGY VI, Department of Neurosurgery UTHSCSA, July 2021 to present"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:mol:lafuente",
+  "name": "Molly Lafuente",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile Molly Lafuente DO; X bio; TCOM DO 2021; residency UTHSCSA since 2021",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Neurosurgery resident since 2021; CNS presentations",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/molly-farrell-d-o/",
+    "type": "program_page",
+    "evidence": "Molly Lafuente, DO; Neurosurgery resident since 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:gre:murtha",
+  "name": "Gregory Murtha",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile: USNA BS, USUHS MD 2018-2022, joined July 2022",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY IV per profile at time; joined July 2022",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/gregory-murtha-m-d/",
+    "type": "program_page",
+    "evidence": "joined the Department of Neurosurgery residency team in July 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:kur:shaffer",
+  "name": "Kurt Shaffer",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency UTHSCSA 2022-2029, Creighton MD 2022; LSOM profile",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity lists 2022-2029 (7-year track)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kurt-shaffer-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2022 - 2029; Creighton University School of Medicine Class of 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "108:ayl:padir",
+  "name": "Aylin Padir",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile; Doximity Resident Physician San Antonio, SUNY Upstate MD 2023; 2023-24 interns announcement",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Joined as intern 2023 from SUNY Upstate",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/aylin-padir-md-7c57a0f0",
+    "type": "doximity",
+    "evidence": "Resident Physician, San Antonio; SUNY Upstate Medical University Class of 2023"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/department-of-neurosurgery-announces-2023-2024-interns/",
+    "type": "program_page",
+    "evidence": "Announces 2023-2024 interns"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:chr:kaculini",
+  "name": "Christian Kaculini",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UTHSCSA MD 2022; LSOM profile; UTHSCSA neurosurgery author",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity residency listed as 2026 (likely data-entry; skull base/tumor interests)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christian-kaculini-md",
+    "type": "doximity",
+    "evidence": "The University of Texas Health Science Center at San Antonio, Residency, 2026; Class of 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "108:con:cunningham",
+  "name": "Conor Cunningham",
+  "program_id": 108,
+  "identity": "probable",
+  "identity_basis": "LSOM profile lists PGY III at UTHSCSA; PubMed shows Conor M Cunningham affiliated with Neurosurgery, Medical University of South Carolina (exoscope spine, flow diversion papers)",
+  "residency_stated": [
+   {
+    "institution": "Medical University of South Carolina",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": 2025
+   },
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Consistent with phase-2 note: transfer in from MUSC neurosurgery, PGY2 in 2025-26; origin dates not independently confirmed; LSOM lists PGY III",
+  "year_left": null,
+  "destination_program": "UT Health San Antonio (transfer in from MUSC)",
+  "destination_start_year": 2025,
+  "current": "neurosurgery resident (PGY3), UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/conor-cunningham/",
+    "type": "program_page",
+    "evidence": "PGY III, UT Health San Antonio neurosurgery"
+   },
+   {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37839563/",
+    "type": "pubmed",
+    "evidence": "Flow State and Neurosurgery: Conor M Cunningham, Dept of Neurosurgery, Medical University of South Carolina (search-snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:mal:zahed",
+  "name": "Malek Zahed",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile Malek Zahed DO; Virginia Tech alumnus '18 in San Antonio for neurosurgery residency",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Coauthor on 2026 J Neurosurg Case Lessons with UTHSCSA residents",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/malek-zahed-md/",
+    "type": "program_page",
+    "evidence": "Malek Zahed, DO - Neurosurgery"
+   },
+   {
+    "url": "https://news.vt.edu/articles/2025/11/defining-moments.html",
+    "type": "news",
+    "evidence": "Malek Zahed '18 is currently located in San Antonio for neurosurgery residency (snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:mic:scanlon",
+  "name": "Michaela Scanlon",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile Michaela Scanlon MD; USUHS MD 2024; 2024-25 Match announcement; LinkedIn neurosurgery resident UT San Antonio (ambiguous name resolved by program+USU)",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Matched 2024; Navy (LT, MC, USN)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/michaela-scanlon-md/",
+    "type": "program_page",
+    "evidence": "Michaela Scanlon, MD"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/2024-2025-match-announcement/",
+    "type": "program_page",
+    "evidence": "2024-2025 Match Announcement (snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:ana:uddin",
+  "name": "Anaz Uddin",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile; 2025-26 Match results; NYMC class of 2025 research story",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Matched 2025-26",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY2), UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/2025-2026-match-results/",
+    "type": "program_page",
+    "evidence": "2025-2026 Match applicants: Jonathan Espinosa, Patrick McCarty, Anaz Uddin"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/anaz-uddin/",
+    "type": "program_page",
+    "evidence": "Anaz Uddin, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:jon:espinosa",
+  "name": "Jonathan Espinosa",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile; 2025-26 Match results; former AANS student chapter president at UT Health SA",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Matched 2025-26; already coauthoring with residents",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY2), UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/2025-2026-match-results/",
+    "type": "program_page",
+    "evidence": "2025-2026 Match applicants: Jonathan Espinosa, Patrick McCarty, Anaz Uddin"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/profile/jonathan-espinosa/",
+    "type": "program_page",
+    "evidence": "Jonathan Espinosa"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:pat:mccarty",
+  "name": "Patrick McCarty",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "LSOM profile; ResearchGate 'Resident Physician, Dept of Neurosurgery UT HSC San Antonio'; 2025-26 Match results (ambiguous name resolved)",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Health Science Center San Antonio",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Matched 2025-26; other Doximity Patrick McCartys are different specialties",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY2), UT Health San Antonio",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/2025-2026-match-results/",
+    "type": "program_page",
+    "evidence": "2025-2026 Match applicants: Jonathan Espinosa, Patrick McCarty, Anaz Uddin"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Patrick-Mccarty-4",
+    "type": "search_snippet",
+    "evidence": "Resident Physician, Department of Neurosurgery, UT HSC San Antonio"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:dus:kim",
+  "name": "Dustin Kim",
+  "program_id": 108,
+  "identity": "not_found",
+  "identity_basis": "No web source found; 2026-27 match list not public; common surname",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Recorded as PGY1 2026-27; unverifiable online (no profile, no match announcement found)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [],
+  "searches_used": 3
+ }
+]

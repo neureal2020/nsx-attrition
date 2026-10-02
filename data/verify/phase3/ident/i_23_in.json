@@ -1,0 +1,82 @@
+[
+ {
+  "key": "125:eri:gorbea",
+  "name": "Erick Garcia Gorbea",
+  "program_id": 125,
+  "program": "Wayne State University / Detroit Medical Center Program (CLOSED, not o",
+  "entry_year": 2013,
+  "first_seen": "2015-2016",
+  "last_seen": "2016-2017",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> TRANSFERRED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Distinctive full name; UT Health San Antonio neurosurgery department page for Erick Garcia Gorbea; Ponce School of Medicine 2013 (matches UTMB PGY-1 2013 in DB)",
+   "outcome": "transferred",
+   "outcome_detail": "Listed as neurosurgery at UT Health San Antonio (lsom.uthscsa.edu page; profile text not readable, contact info only) and San Antonio neurosurgeon in WebMD/Vitals; consistent with DB transfer out of WSU in 2017. Texas license inactive.",
+   "current": "neurosurgeon/resident San Antonio TX (WebMD/Vitals)",
+   "residency_stated": [
+    {
+     "institution": "UT Health San Antonio",
+     "specialty": "neurosurgery",
+     "start": 2017,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://lsom.uthscsa.edu/neurosurgery/erick-garcia-gorbea/",
+     "type": "program_page",
+     "evidence": "UT Health San Antonio Neurosurgery page titled Erick Garcia Gorbea"
+    },
+    {
+     "url": "https://www.vitals.com/doctors/Erick_Guillermo_GarciaGorbea.html",
+     "type": "search_snippet",
+     "evidence": "neurosurgeon practicing in San Antonio, TX... graduated from Ponce School of Medicine in 2013"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "125:amb:gaulden",
+  "name": "Amber Gaulden",
+  "program_id": 125,
+  "program": "Wayne State University / Detroit Medical Center Program (CLOSED, not o",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2019-2020",
+  "last_pgy": 1,
+  "recorded_outcome": "PROGRAM CLOSED -> TRANSFERRED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UC Cincinnati neurosurgery resident (PGY5 per program Instagram late 2023), USC Greenville MD 2019; consistent with starting 2019 at WSU and moving 2020; no source names WSU explicitly",
+   "outcome": "transferred",
+   "outcome_detail": "Neurosurgery resident at University of Cincinnati (PGY5 in 2023-24 implies 2019 start); no Wayne State mention found in sources.",
+   "current": "neurosurgery resident, University of Cincinnati",
+   "residency_stated": [
+    {
+     "institution": "University of Cincinnati",
+     "specialty": "neurosurgery",
+     "start": 2020,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/amber-gaulden-205016369/",
+     "type": "search_snippet",
+     "evidence": "Neurosurgery Resident at UNIVERSITY OF CINCINNATI MEDICAL CENTER/COLLEGE OF MEDICINE"
+    },
+    {
+     "url": "https://www.instagram.com/p/C0XQzpCJgzW/",
+     "type": "search_snippet",
+     "evidence": "Congratulations to PGY 5, Amber Gaulden, MD"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

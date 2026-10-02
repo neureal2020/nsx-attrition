@@ -1,0 +1,768 @@
+[
+ {
+  "key": "44:tim:webb",
+  "name": "Timothy Webb",
+  "program_id": 44,
+  "program": "Medical University of South Carolina Program",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2026-2027",
+  "last_pgy": 7,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Charleston neurosurgery, VCU 2020 (entry-2020 cohort), MUSC resident coauthors; no explicit residency line",
+   "outcome": "in_training",
+   "outcome_detail": "Doximity profile is a MUSC Charleston neurosurgery physician, VCU class of 2020, SC license 2020-2027, coauthors are MUSC residents (Saway, Weber, Triano). No residency row.",
+   "current": "neurosurgery resident, MUSC",
+   "residency_stated": [
+    {
+     "institution": "Medical University of South Carolina",
+     "specialty": "neurosurgery",
+     "start": 2020,
+     "end": 2027
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/timothy-webb-md-e1443032",
+     "type": "doximity",
+     "evidence": "VCU School of Medicine Class of 2020; SC license 2020-2027; Neurosurgery Charleston"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "46:ser:kirnaz",
+  "name": "Sertac Kirnaz",
+  "program_id": 46,
+  "program": "Montefiore Medical Center/Albert Einstein College of Medicine Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2025-2026",
+  "last_pgy": 5,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity (Other MD/DO, Bronx, 111 E 210th St = Montefiore neurosurgery) with 2026 papers co-authored with Montefiore residents; LinkedIn snippet 'Neurosurgery Resident at Montefiore' and former Weill Cornell spine fellow; no education section",
+   "outcome": "in_training",
+   "outcome_detail": "LinkedIn/RocketReach list neurosurgery resident at Montefiore Health System; Sept 2026 publications with Montefiore residents; no evidence of departure",
+   "current": "Neurosurgery resident, Montefiore",
+   "residency_stated": [
+    {
+     "institution": "Montefiore Medical Center/Albert Einstein College of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2021,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/sertac-kirnaz-md",
+     "type": "doximity",
+     "evidence": "Sertac Kirnaz MD, Other MD/DO, Bronx NY, 111 E 210th St; publications only"
+    },
+    {
+     "url": "https://www.linkedin.com/in/sertac-kirnaz-9573b862/",
+     "type": "search_snippet",
+     "evidence": "Sertac Kirnaz - Neurosurgery Resident"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "46:kai:javed",
+  "name": "Kainaat Javed",
+  "program_id": 46,
+  "program": "Montefiore Medical Center/Albert Einstein College of Medicine Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2023-2024",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity profiles (Einstein class of 2022) with Montefiore neurosurgery co-authors (Fluss, Haranhalli, Holland); note a separate neurosurgery-labelled Javed Doximity page (Einstein class of 2013) is a different person or data error",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Two Doximity pages for Einstein class of 2022 Kainaat Javed: one 'Internal Medicine' at 550 1st Avenue New York (NYU Langone address), one 'Other MD/DO' at 1999 Marcus Ave New Hyde Park (Northwell/LIJ address), both NY license 2025-2027; no Montefiore neurosurgery listing after 2024 publications. Specialty and exact destination program unconfirmed (likely internal medicine or another specialty in NY); indicates left neurosurgery after PGY-2 (2023-24)",
+   "current": "Physician in New York (internal medicine per Doximity), unconfirmed",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/kainaat-javed-md-e2216d81",
+     "type": "doximity",
+     "evidence": "Internal Medicine, New York, NY; Albert Einstein College of Medicine Class of 2022"
+    },
+    {
+     "url": "https://www.doximity.com/pub/kainaat-javed-md",
+     "type": "doximity",
+     "evidence": "Other MD/DO, New Hyde Park NY; Albert Einstein College of Medicine Class of 2022; Rose Fluss, Neil Haranhalli co-authors"
+    },
+    {
+     "url": "https://www.doximity.com/pub/kainaat-javed-md-f9c73009",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Bronx NY, Class of 2013 (likely different person)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "47:cal:dewar",
+  "name": "Callum D. Dewar",
+  "program_id": 47,
+  "program": "National Capital Consortium Program",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2026-2027",
+  "last_pgy": 7,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Walter Reed NMMC Division of Neurosurgery affiliation (ResearchGate; Military Medicine 2026 papers co-authored with NCC neurosurgery resident Boulter); no Doximity profile; name matches but training years not stated online",
+   "outcome": "in_training",
+   "outcome_detail": "ResearchGate lists Walter Reed National Military Medical Center Division of Neurosurgery; Doximity co-author list with Boulter 2026 Military Medicine paper; no evidence of completion or departure",
+   "current": "Neurosurgery resident (US Army Major), Walter Reed/NCC",
+   "residency_stated": [
+    {
+     "institution": "National Capital Consortium",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.researchgate.net/profile/Callum-Dewar",
+     "type": "search_snippet",
+     "evidence": "Callum DEWAR | Medical Doctor | Walter Reed National Military Medical Center, Washington, D.C. | Division of Neurosurgery"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "48:lin:wang",
+  "name": "Linda Wang",
+  "program_id": 48,
+  "program": "New York Presbyterian Hospital (Columbia Campus) Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2026-2027",
+  "last_pgy": 6,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Columbia current residents page (Columbia VP&S, Cornell) and search snippet listing residency at NYP Columbia 2021-2028; Doximity hit for Linda Wang is a Pediatrics namesake, not used",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as PGY-6 Columbia neurosurgery resident",
+   "current": "Neurosurgery resident, Columbia/NYP",
+   "residency_stated": [
+    {
+     "institution": "New York Presbyterian Hospital (Columbia Campus)",
+     "specialty": "neurosurgery",
+     "start": 2021,
+     "end": 2028
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.neurosurgery.columbia.edu/education/residency-program/current-residents",
+     "type": "program_page",
+     "evidence": "Linda Wang PGY-6, Columbia VP&S, Cornell"
+    },
+    {
+     "url": "https://www.doximity.com/pub/linda-wang-md-ffabd221",
+     "type": "search_snippet",
+     "evidence": "Dr. Linda Wang, MD \u2013 New York, NY | Pediatrics on Doximity (namesake, rejected)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "48:wil:savage",
+  "name": "William Savage",
+  "program_id": 48,
+  "program": "New York Presbyterian Hospital (Columbia Campus) Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Columbia residents page (Columbia VP&S, Columbia College) and X match post 2025; Doximity William Savage NYC (Columbia VP&S 2025, 1150 St Nicholas Ave) consistent but lists no residency; other Doximity William Savages are namesakes",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY-2, matched 2025",
+   "current": "Neurosurgery resident, Columbia",
+   "residency_stated": [
+    {
+     "institution": "New York Presbyterian Hospital (Columbia Campus)",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://x.com/ColumbiaNeuro/status/1905636003332710802",
+     "type": "news",
+     "evidence": "Please welcome the newest Columbia Neurosurgery Residents! ... Dr. William Savage @ColumbiaMed"
+    },
+    {
+     "url": "https://www.doximity.com/pub/william-savage-md-5c3f4221",
+     "type": "doximity",
+     "evidence": "William Savage MD, Columbia VP&S Class of 2025, New York NY"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "48:ale:kim",
+  "name": "Alexander Kim",
+  "program_id": 48,
+  "program": "New York Presbyterian Hospital (Columbia Campus) Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Columbia residents page (PGY-1, UCLA Geffen MD) and search snippets on Match Day 2026 to Columbia neurosurgery; Doximity search returned only a Washington DC Other MD/DO namesake",
+   "outcome": "in_training",
+   "outcome_detail": "Matched Columbia neurosurgery March 2026; current PGY-1",
+   "current": "Neurosurgery intern, Columbia",
+   "residency_stated": [
+    {
+     "institution": "New York Presbyterian Hospital (Columbia Campus)",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.neurosurgery.columbia.edu/education/residency-program/current-residents",
+     "type": "program_page",
+     "evidence": "Alexander Kim PGY-1, David Geffen School of Medicine at UCLA"
+    },
+    {
+     "url": "https://www.linkedin.com/posts/chollkim_matchday2026-medicalstudent-neurosurgery-activity-7440920024757813248-Zbtr",
+     "type": "search_snippet",
+     "evidence": "my son, Alex Kim matched into Columbia for neurosurgery!!"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "50:har:phillips",
+  "name": "Harold Westley Phillips",
+  "program_id": 50,
+  "program": "NYU Grossman School of Medicine Program",
+  "entry_year": 2015,
+  "first_seen": "2015-2016",
+  "last_seen": "2016-2017",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> TRANSFERRED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Name 'H. Westley Phillips' (Harold Westly Phillips) MD Penn 2015 matches NYU entry 2015; Doximity/Stanford/UCLA bios say UCLA neurosurgery residency; NYU stay not itself confirmed by these sources",
+   "outcome": "transferred",
+   "outcome_detail": "Neurosurgery residency completed at UCLA (Doximity dates 2018-2022; DB roster shows UCLA PGY3 from 2017-18), so left NYU after PGY2 in 2016-17; pediatric neurosurgery fellowship UPMC 2022-23",
+   "current": "neurosurgeon (pediatric/epilepsy), Assistant Professor, Stanford",
+   "residency_stated": [
+    {
+     "institution": "UCLA David Geffen School of Medicine/UCLA Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2022
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/harold-phillips-md-e17d1ef4",
+     "type": "doximity",
+     "evidence": "completed a neurological surgery residency at UCLA ... Residency, Neurological Surgery, 2018 - 2022; Perelman School of Medicine Class of 2015"
+    },
+    {
+     "url": "https://www.stanfordchildrens.org/en/doctor/h-westley-phillips.html",
+     "type": "bio",
+     "evidence": "completed neurosurgical residency at UCLA"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "50:han:weiss",
+  "name": "Hannah Weiss",
+  "program_id": 50,
+  "program": "NYU Grossman School of Medicine Program",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2025-2026",
+  "last_pgy": 6,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "NYU program resident/alumni page names him/her; plus Doximity/bio",
+   "outcome": "in_training",
+   "outcome_detail": "NYU resident page PGY-6; Northwestern MD 2020 per search snippet; Doximity lists Neurosurgery at 550 1st Ave NYU (no education section). Common name; identity via NYU page plus 2026 Neurosurgery paper 'Weiss, Ber, Blacker, Kim, Orillac' on Doximity of another NYU resident.",
+   "current": "neurosurgery resident, NYU",
+   "residency_stated": [
+    {
+     "institution": "NYU Grossman School of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2020,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://med.nyu.edu/departments-institutes/neurosurgery/education/residency/neurosurgery-residents-alumni",
+     "type": "program_page",
+     "evidence": "NYU Neurosurgery Residents & Alumni page lists Hannah Weiss"
+    },
+    {
+     "url": "https://www.doximity.com/pub/hannah-weiss-md",
+     "type": "doximity",
+     "evidence": "NYU resident page PGY-6; Northwestern MD 2020 per search snippet; Doximity lists Neurosurgery at 550 1st Ave NYU (no education section). Common name; "
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "51:nis:baidya",
+  "name": "Nishanta Baidya",
+  "program_id": 51,
+  "program": "Ohio State University Hospital Program",
+  "entry_year": 2012,
+  "first_seen": "2012-2013",
+  "last_seen": "2016-2017",
+  "last_pgy": 5,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Distinctive full name; LinkedIn snippet lists 'Neurosurgery Resident - The Ohio State University Wexner Medical Center'; directory listings (Healthgrades/WebMD/Vitals) for a Nishanta Baidya, MD (BPKIHS 2003) in Columbus/Dayton OH list Nuclear Medicine (also 'Neurological Surgery' among specialties); no source explicitly links the two or gives dates",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Not confirmed by a dated source. Current public listings show a Nishanta Baidya, MD practising as a nuclear medicine physician (Columbus OH; Kettering Health Dayton/Magruder Hospital; also listed 'Diagnostic Radiology, Dayton'), not neurosurgery; no ABNS/faculty neurosurgery evidence found. Consistent with the DB's switched_specialty but the person-to-NPI link is inferred by name.",
+   "current": "Nuclear medicine physician, Columbus/Dayton OH (Kettering Health; Magruder Hospital) per directories",
+   "residency_stated": [
+    {
+     "institution": "Ohio State University Wexner Medical Center",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/nishanta-baidya-26051aa1/",
+     "type": "search_snippet",
+     "evidence": "Nishanta Baidya - Neurosurgery Resident - The Ohio State University Wexner Medical Center | LinkedIn"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-nishanta-baidya-cre7z",
+     "type": "bio",
+     "evidence": "Nuclear Medicine physician, Columbus OH and Dayton OH; board-certified Nuclear Medicine; B.P. Koirala Institute of Health Sciences"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "51:hoa:nguyen",
+  "name": "Hoang Nguyen",
+  "program_id": 51,
+  "program": "Ohio State University Hospital Program",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "last_seen": "2020-2021",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "OSU neurosurgery entrant 2014 matches Alex (Nguyen) Hoang, MD Utah 2014, OSU neurological surgery residency 2014-2021 on Doximity and Houston Methodist; listed under name 'Nguyen Hoang' on directories (surname/given order differs)",
+   "outcome": "completed",
+   "outcome_detail": "Completed OSU neurosurgery 2021 (endovascular fellowship OSU 2019, CAST fellowship Baylor St Luke's 2022); practising neurosurgeon. Identity by name-order inference only; not the San Jose neurosurgeon Hoang P. Nguyen (Wisconsin residency 1995-2001).",
+   "current": "Neurosurgeon (endovascular), Houston Methodist Hospital, Houston TX",
+   "residency_stated": [
+    {
+     "institution": "Ohio State University Hospital",
+     "specialty": "neurosurgery",
+     "start": 2014,
+     "end": 2021
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/alex-hoang-md",
+     "type": "doximity",
+     "evidence": "Ohio State University Hospital Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+    },
+    {
+     "url": "https://www.houstonmethodist.org/doctor/alex-n-hoang/",
+     "type": "bio",
+     "evidence": "Residency: Neurosurgery at The Ohio State University (2021); Medical school University of Utah (2014)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "51:cam:brandon",
+  "name": "Cameron Brandon",
+  "program_id": 51,
+  "program": "Ohio State University Hospital Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2026-2027",
+  "last_pgy": 5,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity/WebMD/Vitals: Cameron (Lawrence) Brandon MD, Penn State MD 2022, Columbus OH, 410 W 10th Ave (OSU neurosurgery office); coauthored with OSU's Shaikhouni; OSU neurosurgery match snippet. Doximity page lists no residency line and shows 'Resident Physician'.",
+   "outcome": "in_training",
+   "outcome_detail": "Current OSU neurosurgery resident (entered 2022 after Penn State MD 2022); no completion evidence",
+   "current": "Neurosurgery resident, Ohio State",
+   "residency_stated": [
+    {
+     "institution": "Ohio State University",
+     "specialty": "neurosurgery",
+     "start": 2022,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/cameron-brandon-md",
+     "type": "doximity",
+     "evidence": "Resident Physician, Columbus OH, 410 W 10th Ave; Penn State College of Medicine Class of 2022"
+    },
+    {
+     "url": "https://www.healthcare4ppl.com/physician/ohio/columbus/cameron-lawrence-brandon-1316685589.html",
+     "type": "search_snippet",
+     "evidence": "Neurosurgery Specialist in Columbus, Ohio who graduated from Pennsylvania State University College Of Medicine in 2022"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "51:sab:ryan",
+  "name": "Sabrina Ryan",
+  "program_id": 51,
+  "program": "Ohio State University Hospital Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Listed on OSU neurosurgery residents page as PGY 1 (University of Missouri-Columbia School of Medicine); Doximity Columbus OH neurosurgery profile matches",
+   "outcome": "in_training",
+   "outcome_detail": "Current OSU neurosurgery resident, PGY 1 in 2026-27 (matches DB entry year 2026); no departure evidence",
+   "current": "neurosurgery resident PGY-1, Ohio State University, Columbus OH",
+   "residency_stated": [
+    {
+     "institution": "Ohio State University",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.osu.edu/departments/neurosurgery/education/residency/residents",
+     "type": "program_page",
+     "evidence": "PGY 1, University of Missouri-Columbia School of Medicine"
+    },
+    {
+     "url": "https://www.doximity.com/pub/sabrina-ryan-md",
+     "type": "doximity",
+     "evidence": "Doximity: Sabrina Ryan MD, Other MD/DO, Columbus OH, 395 W 12th Ave Fl 3 (same address as OSU resident Raub); no training section"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "52:dan:munger",
+  "name": "Daniel Munger",
+  "program_id": 52,
+  "program": "Oregon Health & Science University (OHSU Health) Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Only OHSU sources: alumni page 2025 and 2023-24 roster PGY7 chief (per search summary); no external bio/profile found",
+   "outcome": "completed",
+   "outcome_detail": "Listed as OHSU alumnus 2025; no post-residency position found",
+   "current": "unknown",
+   "residency_stated": [
+    {
+     "institution": "Oregon Health & Science University (OHSU Health)",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+     "type": "program_page",
+     "evidence": "OHSU alumni page lists Daniel Munger, M.D. under 2025"
+    },
+    {
+     "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+     "type": "program_page",
+     "evidence": "Munger absent from 2026-27 current residents"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "53:jad:basem",
+  "name": "Jade Basem",
+  "program_id": 53,
+  "program": "Penn State Milton S Hershey Medical Center Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "PSU roster: Jade Basem, MD - PGY-1; no independent bio (Stony Brook Jade Basem publications are a different, anesthesia/pain, record)",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY-1",
+   "current": "neurosurgery resident, Penn State Hershey",
+   "residency_stated": [
+    {
+     "institution": "Penn State Milton S Hershey Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+     "type": "program_page",
+     "evidence": "Jade Basem, MD - PGY-1"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "53:pat:halloran",
+  "name": "Patrick Halloran",
+  "program_id": 53,
+  "program": "Penn State Milton S Hershey Medical Center Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Penn State College of Medicine Current Residents in Neurosurgery lists Patrick Halloran as PGY-1; no further profile found (possible UConn medical student of same name per ResearchGate, unconfirmed)",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as PGY-1 neurosurgery resident at Penn State (entered 2026).",
+   "current": "PGY-1 neurosurgery resident, Penn State Hershey",
+   "residency_stated": [
+    {
+     "institution": "Penn State Milton S Hershey Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+     "type": "program_page",
+     "evidence": "PGY-1 Resident, Neurosurgery Residency: Patrick Halloran"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "54:ama:baker",
+  "name": "Amanda Baker",
+  "program_id": 54,
+  "program": "Rhode Island Hospital/Brown University Health Program",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "last_seen": "2014-2015",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Amanda Baker MD (Drexel 2014) completed diagnostic radiology residency at Brown 2020 (Montefiore bio, Brown radiology alumni page); DB phase-2 note ties her to Brown neurosurgery PGY-1 2014-15; no source found that names neurosurgery training, so link to the input person rests on the timeline (MD 2014, Brown) and DB note",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Switched to diagnostic radiology at Rhode Island Hospital/Brown (residency completed 2020); then neuroradiology / neurointerventional fellowships at UCSF (2023; alumni page also lists Boston Children's). Neurosurgery PGY-1 2014-15 not independently confirmed.",
+   "current": "Attending, neurointerventional radiology and neuroradiology, Montefiore Einstein, Bronx NY",
+   "residency_stated": [
+    {
+     "institution": "Rhode Island Hospital/Brown University Health",
+     "specialty": "diagnostic radiology",
+     "start": null,
+     "end": 2020
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://doctors.montefioreeinstein.org/providers/1790198125/amanda-baker",
+     "type": "bio",
+     "evidence": "MD Drexel 2014; residency in diagnostic radiology at Brown, completed 2020; UCSF fellowships 2023"
+    },
+    {
+     "url": "https://radiology.med.brown.edu/education/diagnostic-radiology-residency-program/alumni",
+     "type": "program_page",
+     "evidence": "Amanda Baker, graduation 2020, fellowship neurointerventional radiology UCSF"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "54:car:porto",
+  "name": "Carl Porto",
+  "program_id": 54,
+  "program": "Rhode Island Hospital/Brown University Health Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippet: incoming PGY-1 neurosurgery resident, Brown residency began 2026; also on BRAINIAC lab team at Brown",
+   "outcome": "in_training",
+   "outcome_detail": "Incoming PGY-1 Brown neurosurgery 2026",
+   "current": "neurosurgery resident PGY-1, Brown",
+   "residency_stated": [
+    {
+     "institution": "Brown University Health/Rhode Island Hospital",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://sites.brown.edu/brainiac/our-team/",
+     "type": "search_snippet",
+     "evidence": "Carl Porto, MD, Brown Neurosurgery Resident from Hamden, Connecticut"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "55:amb:oros",
+  "name": "Amber Oros",
+  "program_id": 55,
+  "program": "Riverside University Health System Program",
+  "entry_year": 2012,
+  "first_seen": "2013-2014",
+  "last_seen": "2016-2017",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Amber M. Oros DO, MSU College of Osteopathic Medicine 2012 (matches 2012 entry), residency at Arrowhead Regional Medical Center (Colton CA, Riverside/San Bernardino area), internship McLaren Macomb 2013; distinctive name",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Directory profiles list emergency medicine / family medicine / surgery specialties and occupational & environmental medicine (West Covina CA, Sarasota FL); no neurosurgery practice or ABNS. Program dates not stated; left RUHS neurosurgery (DB last seen 2016-17) for a non-neurosurgery career (emergency/occupational medicine).",
+   "current": "emergency/occupational medicine physician, California/Florida",
+   "residency_stated": [
+    {
+     "institution": "Arrowhead Regional Medical Center (WebMD residency)",
+     "specialty": "unspecified",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://doctor.webmd.com/doctor/amber-oros-29cd4fae-dec5-11e7-9f4c-005056a225bf-overview",
+     "type": "search_snippet",
+     "evidence": "Dr. Amber Oros, DO, Emergency Medicine Physician; MSU College of Osteopathic Medicine 2012; residency at Arrowhead Regional Medical Center; specialties Emergency Medicine, Family Medicine, Surgery"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-amber-oros-ze4cf",
+     "type": "search_snippet",
+     "evidence": "Occupational & Environmental Medicine, West Covina CA; internship McLaren Macomb 2013"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "55:jam:mistry",
+  "name": "Jamshid Mistry",
+  "program_id": 55,
+  "program": "Riverside University Health System Program",
+  "entry_year": 2011,
+  "first_seen": "2011-2012",
+  "last_seen": "2012-2013",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Name/Arrowhead affiliation match; DO Touro Nevada 2010; Doximity board AOA Emergency Medicine; ARMC lists him as Emergency Medicine provider (no source states neurosurgery residency years)",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Now emergency medicine physician/assistant professor at ARMC (Colton CA); Doximity certification AOA Board of Emergency Medicine; no neurosurgery credentials",
+   "current": "emergency medicine physician, Arrowhead Regional Medical Center",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/jamshid-mistry-do",
+     "type": "doximity",
+     "evidence": "AOA Board of Emergency Medicine; Touro Univ Nevada COM Class of 2010"
+    },
+    {
+     "url": "https://www.arrowheadregional.org/providers/jamshid-mistry-do/",
+     "type": "program_page",
+     "evidence": "Emergency Medicine provider, Arrowhead Regional Medical Center"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

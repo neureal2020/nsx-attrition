@@ -1,0 +1,184 @@
+[
+ {
+  "key": "61:ruk:taiwo",
+  "name": "Rukayat Taiwo",
+  "outcome": "left_destination_unknown",
+  "destination": "Not confirmed. Doximity (lead only) address 1200 6th Ave N, St. Cloud MN = CentraCare River Campus Clinic Neurosurgery address; no CentraCare bio found",
+  "year_started_destination": "2026 (likely)",
+  "evidence": "NOT attrition: Stanford 2024-25 roster PDF lists her PGY-6; Stanford GME 'Chief Residents Announced for 2025-26' (search snippet) and prior DURA listing name her chief resident 2025-26, i.e. final year ending June 2026. Current DURA page (updated roster, new PGY-1s) no longer lists her, consistent with June 2026 graduation. DURA alumni page has no 2026 rows yet (latest 2025), so no alumni-page proof; CentraCare neurosurgery team page lists Adamek, Myran, Welle, Juraschka, Falloon, Misstishin, Dingman, Cadena - not Taiwo; guessed profile URL 404. Recommend outcome completed (2026) once Stanford alumni page updates or a CentraCare neurosurgery bio appears; no evidence of switch.",
+  "sources": [
+   "https://med.stanford.edu/content/dam/sm/dura/documents/Neurosurgery%20Residents%202024-2025%20WITHOUT%20pager%20numbers.pdf",
+   "https://dura.stanford.edu/residents.html",
+   "https://dura.stanford.edu/alumni.html",
+   "https://www.centracare.com/services/neurosciences/neurosurgery/"
+  ],
+  "rosters_checked": [
+   "https://dura.stanford.edu/residents.html (current, Taiwo absent)",
+   "https://dura.stanford.edu/alumni.html (no 2026 class listed)",
+   "Stanford 2024-25 roster PDF (PGY-6)",
+   "https://www.centracare.com/services/neurosciences/neurosurgery/ (team list, absent)"
+  ],
+  "queries_tried": [
+   "\"Rukayat Taiwo\" MD",
+   "\"Rukayat Taiwo\" neurosurgery",
+   "dura.stanford.edu alumni neurosurgery residency graduates 2026",
+   "\"Taiwo\" neurosurgery CentraCare St. Cloud",
+   "Stanford neurosurgery current residents 2025-2026 chief residents Taiwo",
+   "\"Rukayat Taiwo\" 2026",
+   "centracare.com doctors neurosurgery Taiwo"
+  ]
+ },
+ {
+  "key": "67:mur:gathinji",
+  "name": "Muraya Gathinji",
+  "outcome": "left_destination_unknown",
+  "destination": "Unknown; no evidence of practice in any specialty after 2009",
+  "year_started_destination": null,
+  "evidence": "Johns Hopkins MD 2008; only training record is UCLA 2008-09 internship (Doximity/WebMD directory entries, leads only). NPI 1487898532 still 'Student in an Organized Health Care Education/Training Program' at 757 Westwood Plaza (UCLA), never updated. Not on the UCLA neurosurgery alumni list (opened; 2010-2026 classes checked). 'General Surgery' label appears only in aggregator directories (Doximity/WebMD/Vitals/vitadox, and an African aggregator deliverafya.org that is unreachable); no current bio, practice page, general-surgery residency roster or board listing found. The recorded 'switched_specialty (general surgery)' is unsupported; he did not complete UCLA neurosurgery. Current-roster sweep not meaningful for a 2009 departure.",
+  "sources": [
+   "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/alumni/alumni-list",
+   "https://npiprofile.com/npi/1487898532",
+   "https://www.doximity.com/pub/muraya-gathinji-md"
+  ],
+  "rosters_checked": [
+   "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/alumni/alumni-list (absent)"
+  ],
+  "queries_tried": [
+   "\"Muraya Gathinji\" MD",
+   "\"Gathinji\" surgeon OR physician OR surgery",
+   "\"Gathinji\" Johns Hopkins 2008 OR biotech OR consulting OR \"Muraya\"",
+   "\"Muraya Gathinji\" resident",
+   "\"Dr Muraya Gathinji\" OR \"Dr. Muraya Gathinji\" Kenya OR Nairobi",
+   "\"EastView Family Health\" Gathinji",
+   "\"Gathinji\" UCLA neurosurgery residency 2009 intern",
+   "\"Muraya Gathinji\" linkedin OR founder OR director OR medical"
+  ]
+ },
+ {
+  "key": "69:hus:shallwani",
+  "name": "Hussain Shallwani",
+  "outcome": "completed",
+  "destination": "UB Neurosurgery Functional Neurosurgery Fellowship (2025-26), Buffalo NY; post-fellowship role unknown (Doximity lead: Binghamton NY, 169 Riverside Dr = Guthrie Lourdes Hospital; no bio found)",
+  "year_started_destination": "2025 (fellowship)",
+  "evidence": "UB Neurosurgery program page 'Former Residents & Fellows' (opened 2026-09-29) lists '2026 Hussain Shallwani MD' under 'Former Functional Neurosurgery Fellows' - a post-residency UB neurosurgery fellowship, consistent with finishing the UB residency in 2025. Caveat: he is NOT in that page's 'Former Chief Residents' list (2025 shows only Ghannam and Hess), and the UB 'Post-Residency Placements' page stops at 2022, so there is no explicit residency-graduate listing; completion rests on the program-listed post-residency fellowship. The Doximity 'AHN Neurology residency 2023-2026' entry is uncorroborated (AHN neurology roster page could not be read: domain blocked in Chrome, WebFetch returned only nav) and conflicts with the UB fellow listing; treat as Doximity error. No ABNS or current practice bio found.",
+  "sources": [
+   "https://www.ubns.com/former-residents-fellows/",
+   "https://medicine.buffalo.edu/departments/neurosurgery/education/residency/residents/alumni.html"
+  ],
+  "rosters_checked": [
+   "https://www.ubns.com/former-residents-fellows/ (listed: functional fellow 2026; not in chief list)",
+   "https://medicine.buffalo.edu/departments/neurosurgery/education/residency/residents/alumni.html (ends 2022)",
+   "https://www.ahn.org/.../neurology/residents (unreadable)"
+  ],
+  "queries_tried": [
+   "\"Hussain Shallwani\" MD",
+   "\"Shallwani\" neurosurgery fellow OR neurosurgeon 2026",
+   "University at Buffalo neurosurgery residency alumni graduates 2025 Shallwani",
+   "\"Shallwani\" Binghamton OR \"Lourdes\" OR \"UHS\" neurosurgery",
+   "Shallwani neurosurgeon Binghamton Lourdes Ascension functional",
+   "Guthrie \"Shallwani\"",
+   "\"Shallwani\" Allegheny Health Network neurology resident"
+  ]
+ },
+ {
+  "key": "72:and:marrero",
+  "name": "Andres Monserrate Marrero",
+  "outcome": "left_destination_unknown",
+  "destination": "Unknown. Leads only: Doximity (opened) 'General Surgery - Pittsburgh, PA', residential address, PR license 2024-2026; Healthgrades 'Neurosurgery, BMG Medical Group Mesa AZ' (stale). No roster, bio or announcement found.",
+  "year_started_destination": null,
+  "evidence": "Recorded 'completed' is NOT supported. UA Tucson 'Current and Past Residents' page (opened 2026-09-29) lists alumni 2023 Avila, 2024 Burket, 2025 Aguilar Salinas, 2026 Joshi - he is not a graduate in any year; he is also absent from current residents. His old UA neurosurgery profile 404s; UA directory stub still says 'Resident/Fellow' (stale). Doximity (opened): Andres Enrique Monserrate, UPR MD 2016, PA license 2016-17, UA neurosurgery residency 2021-2024 only. Context: UPR neurosurgery residency lost accreditation 2021 and closed 2022 (metro.pr/elvocero news), consistent with him joining UA in 2021 as a senior transfer (UA profile said PGY-6). Left UA ~2024 without graduating -> attrition from Arizona. 'General Surgery Pittsburgh' label may conflate with namesake relative Jorge A. Monserrate-Marrero, MD (UPR general surgery graduate, Pitt cardiothoracic research associate) - a different person. Not on UPMC Mercy general surgery 2026-27 roster; no Pitt/AHN/Banner page hits; UPR reopened NS program (2025) lists only 2 junior residents (not him).",
+  "sources": [
+   "https://medicine.arizona.edu/neurosurgery/residency-program/current-and-past-residents",
+   "https://www.doximity.com/pub/andres-monserrate-md",
+   "https://md.rcm.upr.edu/neurosurgery/current-residents/",
+   "https://www.ctsurgery.pitt.edu/people/jorge-monserrate-marrero-md"
+  ],
+  "rosters_checked": [
+   "https://medicine.arizona.edu/neurosurgery/residency-program/current-and-past-residents (absent; not in 2023-2026 alumni)",
+   "https://md.rcm.upr.edu/neurosurgery/current-residents/ (absent)",
+   "https://www.upmc.com/locations/hospitals/mercy/education/gme/surgery/residents (absent)",
+   "https://www.surgery.pitt.edu/people/general-surgery-residents (first page absent; site search no hit)",
+   "AHN general surgery residents (content not readable)"
+  ],
+  "queries_tried": [
+   "\"Andres Monserrate\" MD",
+   "\"Monserrate\" general surgery resident Pittsburgh",
+   "University of Arizona Tucson neurosurgery residency current residents alumni Monserrate",
+   "\"Andres Monserrate\" neurosurgery OR neurosurgeon Puerto Rico",
+   "site:md.rcm.upr.edu neurosurgery current residents",
+   "\"Monserrate\" resident surgery OR neurosurgery 2025 2026 -Hiram",
+   "site:surgery.pitt.edu OR site:ctsurgery.pitt.edu Monserrate",
+   "\"Monserrate Marrero\" OR \"Monserrate-Marrero\" Andres",
+   "site:medicine.arizona.edu Monserrate",
+   "\"Andres Monserrate\" OR \"Andr\u00e9s Monserrate\" m\u00e9dico OR cirujano Puerto Rico 2025",
+   "Universidad de Puerto Rico neurocirug\u00eda residentes graduados 2025 Monserrate",
+   "\"Monserrate\" neurosurgery Puerto Rico hospital 2025 OR 2026 \"Dr. Monserrate\"",
+   "\"Monserrate\" site:upmc.com OR site:ahn.org OR site:bannerhealth.com"
+  ]
+ },
+ {
+  "key": "74:mar:mathews",
+  "name": "Marlon Mathews",
+  "outcome": "left_destination_unknown",
+  "destination": "Lead only (not proven): non-surgical family/sports medicine physician, Desert Oasis Healthcare Medical Group, Palm Springs CA (Healthgrades/Doximity/US News directory entries, NPI 1639332422 taxonomy Family Medicine-Sports Medicine)",
+  "year_started_destination": null,
+  "evidence": "Did not complete neurosurgery on available evidence: prior phase opened the UCI neurosurgery alumni page (Class of 2016 = Alexandru, Gill only; he is absent); UCI alumni URL now redirects to a generic page (medschool.uci.edu/node/4970) without a roster; not on Utah neurosurgery alumni (2017 class listed) or Utah PM&R alumni 2012-2026. Doximity (fetched): Grant Medical College 2002; Mayo surgery residency 2004-05; Buffalo NS 2008-10; UCI NS 2010-16; CA license 2010-2028, UT license 2015-2018; no ABNS and no primary-care residency listed. Healthgrades: 'Sports Family Medicine Physician', Desert Oasis Healthcare, 275 N El Cielo Rd, Palm Springs; a directory claims board certification in Primary Care Sports Medicine (unverified; would imply a completed FM/primary residency, possibly in Utah 2015-18, not found). Desert Oasis site (mydohc.com) returns 403, so no program/employer bio could be opened. Treat as attrition from UCI NS (~2015-16) with probable switch to family/sports medicine; destination unproven.",
+  "sources": [
+   "https://www.doximity.com/pub/marlon-mathews-md",
+   "https://www.healthgrades.com/physician/dr-marlon-mathews-ggmbf",
+   "https://medicine.utah.edu/neurosurgery/residency/alumni",
+   "https://medicine.utah.edu/pmr/residency/alumni"
+  ],
+  "rosters_checked": [
+   "UCI neurosurgery alumni (prior phase: absent; URL now redirects without roster)",
+   "https://medicine.utah.edu/neurosurgery/residency/alumni (absent)",
+   "https://medicine.utah.edu/pmr/residency/alumni (absent)",
+   "https://www.mydohc.com/ (403)"
+  ],
+  "queries_tried": [
+   "\"Marlon Mathews\" MD",
+   "\"Marlon Mathews\" neurosurgery OR \"sports medicine\" OR \"family medicine\"",
+   "\"Mathews\" Desert Oasis Healthcare sports medicine Palm Springs",
+   "\"Marlon Mathews\" family medicine residency OR fellowship sports medicine resident",
+   "\"Marlon Mathews\" Utah OR \"UC Irvine\" neurosurgery resident 2014",
+   "site:mydohc.com Mathews",
+   "\"Mathews\" family medicine residency Utah graduate 2018 sports medicine fellowship \"Marlon\"",
+   "\"Dr. Mathews\" OR \"Marlon Mathews\" Desert Oasis Immediate Care OR \"Hi-Desert\" OR \"Palm Springs\" physician bio"
+  ]
+ },
+ {
+  "key": "93:ale:clark",
+  "name": "Alec C. Clark",
+  "outcome": "left_destination_unknown",
+  "destination": "Unknown. Lead only: Doximity (fetched 2026-09-29) 'Resident Physician', 15048 14th St, Dade City FL 33523; UCF COM class of 2023; MS license 2023-2026; no program or specialty listed.",
+  "year_started_destination": null,
+  "evidence": "Left UMMC neurosurgery after PGY-2 (2024-25): UMMC current neurosurgery residents page (curl 2026-09-29) contains no 'Clark'. No program page, match list or announcement names him anywhere. Tampa-Bay sweep (Dade City lead): USF neurosurgery, general surgery, neurology (PGY1-3 classes) and PM&R current rosters contain no 'Clark'; HCA Florida Oak Hill (Brooksville) anesthesiology/EM program pages publish no rosters; no hcahealthcaregme.com, UMMC or USF site hits for him. Namesakes excluded: Alec Clark (Tulane/Florida punter), Alexander Clark MDs. Did not complete UMMC neurosurgery; no evidence of transfer to another NS program.",
+  "sources": [
+   "https://www.umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Neurosurgery/Educational%20Programs/Residency-Program/Current-Neurosurgery-Residents.html",
+   "https://www.doximity.com/pub/alec-clark-md",
+   "https://health.usf.edu/medicine/neurosurgery/residency/current-residents"
+  ],
+  "rosters_checked": [
+   "UMMC neurosurgery current residents (absent)",
+   "https://health.usf.edu/medicine/neurosurgery/residency/current-residents (absent)",
+   "https://health.usf.edu/medicine/surgery/general-surgery-residency/current (absent)",
+   "https://health.usf.edu/medicine/neurology/residency/2026, /2027, /2028 (absent)",
+   "https://health.usf.edu/medicine/neurology/pmr/current-residents (absent)",
+   "HCA Florida Oak Hill anesthesiology and EM residency pages (no roster published)"
+  ],
+  "queries_tried": [
+   "\"Alec Clark\" MD resident",
+   "\"Alec Clark\" residency 2025 Florida",
+   "\"Clark\" resident HCA Florida Oak Hill Hospital OR AdventHealth Dade City residency 2025-2026 \"Alec\"",
+   "\"Alec Clark\" UCF College of Medicine",
+   "site:hcahealthcaregme.com \"Clark\" Oak Hill resident",
+   "\"Alec Clark\" DO OR MD anesthesiology OR \"emergency medicine\" OR \"family medicine\" OR radiology resident",
+   "\"Alec Clark\" (usf OR baycare OR adventhealth OR \"HCA Florida\" OR orlandohealth) resident",
+   "\"Alec C. Clark\" OR \"Alec Christopher Clark\" OR \"Alec Charles Clark\" physician",
+   "site:umc.edu \"Alec\" \"Clark\"",
+   "site:usf.edu OR site:health.usf.edu \"Alec Clark\"",
+   "\"Alec Clark\" PGY-1 OR PGY-2 OR intern 2025 OR 2026",
+   "USF Morsani neurosurgery current residents 2026 roster"
+  ]
+ }
+]

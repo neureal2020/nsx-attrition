@@ -1,0 +1,242 @@
+{
+ "program_id": 50,
+ "name": "NYU Grossman School of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.med.nyu.edu/neurosurgery/education/current_residents.html (+ /education/trainees/list.html)",
+   "from": "2007",
+   "to": "2012-05",
+   "note": "old static site; resident list frozen at a ~2007-09 list (Anderer..Pacione), stale throughout; trainees/list.html is an academic-alumni list"
+  },
+  {
+   "url": "http://neurosurgery.med.nyu.edu/education-training/meet-our-residents",
+   "from": "2012-12 (site launch; page first archived 2014-01)",
+   "to": "2015-02",
+   "note": "Drupal subdomain; flat name list"
+  },
+  {
+   "url": "http(s)://www.med.nyu.edu/neurosurgery/education-training/meet-our-residents",
+   "from": "2015-03",
+   "to": "2020-10",
+   "note": "same page moved under med.nyu.edu/neurosurgery; https + no-www from 2017 (Wayback gap 2017-01..2019-07, filled by Common Crawl); not updated after 2018-19 until 2020"
+  },
+  {
+   "url": "https://med.nyu.edu/neurosurgery/research/residents-research",
+   "from": "2014-07",
+   "to": "2019-12",
+   "note": "'Residents in Research' list, mirrors meet-our-residents"
+  },
+  {
+   "url": "https://med.nyu.edu/departments-institutes/neurosurgery/education/residency/current-residents-alumni",
+   "from": "2021-09",
+   "to": "2024-10",
+   "note": "new CMS, residents + notable alumni; no PGY labels"
+  },
+  {
+   "url": "https://med.nyu.edu/departments-institutes/neurosurgery/education/residency/neurosurgery-residents-alumni",
+   "from": "2025-01",
+   "to": "live 2026-09-27",
+   "note": "PGY-labelled; alumni by graduation year"
+  }
+ ],
+ "observed_years": [
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013"
+ ],
+ "missing_years": [
+  "2011-2012",
+  "2012-2013",
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "No roster anywhere. Old-site current_residents.html (Wayback 2011-07, CC 2012-05) is a stale ~2007-09 list; Drupal subdomain neurosurgery.med.nyu.edu launched 2012-12 but meet-our-residents first archived 2014-01-18; July-2012 resident handbook PDF not archived; CC-MAIN-2012/2013 checked. Reconstructed 14 alumni-confirmed people only (Kalhorn PGY7; Bassani, Pacione PGY6; the 11 2013-14 residents entering 2007-2011). Incomplete: alumni list covers only academically employed graduates, so non-academic 2012/2013 grads and any leavers are invisible. PHASE 2: re-audited all hosts 2011-06..2013-09 (gapaudit: old www.med.nyu.edu/neurosurgery, neurosurgery.med.nyu.edu, GME, education, surgery), followed every link on the old residency/education pages (only the stale current_residents.html) and on the Drupal education-training page (2012-12/2013-02 captures link meet-our-residents, never archived before 2014-01-18). Found the Aug-2013 Drupal resident-alumni page: academic alumni only, latest entries '10, so no help. PubMed affiliation mining 2010-2014 (NYU neurosurgery): no unidentified resident except Matthew M. Kang (NYU/Bellevue neurosurgery affiliation 2007-2012, Regions Hospital St Paul from 2013; probably a 2011 or 2012 non-academic graduate; not placed because his year is unknown).",
+  "2012-2013": "Same as 2011-12: no roster capture (Wayback, CC-MAIN-2012, 2013-20, 2013-48). Reconstructed 14 (Bassani, Pacione PGY7 via alumni 2013; 12 people later seen in 2013-14 incl. Brunswick PGY1). The 2012 entering class shows only Brunswick; a second 2012 intern who left before 2013-14 could be hidden. PHASE 2: same searches as 2011-12, nothing new. The 2015 resident handbook says the program 'trains 2 residents per year'. Every entry class from 2006 to 2011 has 2-3 members; only 2012 (Brunswick alone) is short. PubMed 2012-2014 shows no unexplained NYU neurosurgery author.",
+  "2013-2014": "Observed: Wayback 2014-01-18 neurosurgery.med.nyu.edu meet-our-residents, flat list (15). PGY inferred from entry class.",
+  "2017-2018": "Wayback has no roster capture 2017-01..2019-07; Common Crawl has meet-our-residents in CC-MAIN-2017-09..2018-22. Used CC-MAIN-2017-47 (2017-11-20), 15 names.",
+  "2018-2019": "Observed via Wayback 2019-07-23 capture, CONTENT-DATED 2018-19 (Brunswick, grad 2019, still listed; no 2019 interns).",
+  "2019-2020": "PHASE 2: OBSERVED (partial list). Common Crawl CC-MAIN-2020-24, 2020-06-06, med.nyu.edu/neurosurgery/research/residents-research: the sidebar 'Residents in Research' list is the 2018-19 list plus the two 2019 interns (Cordelia Orillac, Albert Liu). Brunswick (graduated 2019 per alumni page) is still listed, so he is omitted as stale. 18 residents loaded as source_type 'other'. No third 2019 intern appears. Replaces the phase-1 reconstruction.",
+  "2023-2024": "Oct-2023 capture is stale (identical to 2022-23); used 2024-05-22 capture (first version with 2023 interns, 2023 grads gone, no 2024 interns).",
+  "2026-2027": "Live page re-fetched 2026-09-28: still identical to 2025-26 (PGYs not advanced, no 2026 interns). Not loaded. PubMed 2026 (Jan-Sep): 17 of the 18 residents at PGY-1..6 in 2025-26 publish with an NYU neurosurgery affiliation in 2026 (all but Derek Huell), but these papers mostly reflect 2025-26 work. The 2026 intern class is unknown."
+ },
+ "alumni_page": "https://med.nyu.edu/departments-institutes/neurosurgery/education/residency/neurosurgery-residents-alumni",
+ "departures": [
+  {
+   "name": "Harold Westley Phillips",
+   "last_ay": "2016-2017",
+   "last_pgy": 2,
+   "outcome": "transferred",
+   "destination": "UCLA (program 67), PGY3 2017-18, graduated 2022",
+   "note": "Confirmed on both rosters: NYU PGY2 2016-17 (last on CC 2017-04-30) -> UCLA our-residents 'H. Westley Phillips' PGY3 2017-18 (Wayback 2017-12-07) to PGY7 2021-22."
+  },
+  {
+   "name": "Mohamed Khattab",
+   "last_ay": "2016-2017",
+   "last_pgy": 1,
+   "outcome": "switched_specialty",
+   "note": "PubMed: Dept of Radiation Oncology, Vanderbilt 2018-2022 (PMID 30622928), then Minneapolis Radiation Oncology. Switched to radiation oncology."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Roee Ber",
+   "first_ay": "2018-2019",
+   "first_pgy": 2,
+   "note": "Absent from 2017-18 (CC 2017-11-20, 2018-05-26); PGY2 2018-19 with the 2017 class; graduated 2024. Came from Tel Aviv Sourasky (not a US program). He took the place Phillips/Khattab left, so the 2017 class had 4 and the 2019 class 2."
+  }
+ ],
+ "residents_2011plus": 41,
+ "adjudication_summary": {
+  "COMPLETED": 31,
+  "IN TRAINING": 20,
+  "LEFT -> TRANSFERRED (UCLA)": 1,
+  "LEFT -> SWITCHED SPECIALTY": 1
+ },
+ "problems": "PGY labels exist only on 2025+ pages; all earlier PGYs inferred from entry class (alumni graduation year - 7, or first year listed as intern), consistent across all years and with the 2025 PGY-labelled pages. Alumni page lists Marian M. Bercu (2017) and Aryan M. Ali (2020), who never appear on any resident roster (2013-14..2018-19 cover their would-be years); Bercu's 2020 PubMed affiliation is NYU pediatric neurosurgery -> treated as pediatric fellows, NOT inserted into training_history. 31 alumni graduations (2012-2025) inserted. Pre-2013-14 years cannot be observed. Common Crawl ran 2012-2014.41 (partial, killed; 2012/2013 crawls complete, nothing new) and 2017-2019 (complete, no failures). PHASE 2: CC-MAIN-2020-05 cluster.idx failed twice ('size failed') for edu,nyu,med)/neurosurgery/. It is not needed now that 2019-20 is observed. Training_history rows added 2026-09-28: Phillips (transferred), Khattab (switched_specialty), Ber (transfer-in row, start 2018 PGY2), Orillac and Liu (PGY-terminal roster, 2026).",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "All entry classes 2006-2011 are at complement (2-3) and bracketed by the 2013-14 roster. A leaver could hide only in the 2005 or 2012 class. The hidden people are likely non-academic 2012 graduates (e.g. Kang), which are completions, not attrition."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "The 2012 entry class shows only Brunswick against a 2-a-year complement. A second 2012 intern who left during PGY-1 (before Jan 2014) would be invisible. No roster, news, PubMed or CC evidence either way."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2014-01-18 flat list"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback + CC 2017-04-30"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "CC 2017-11-20 and 2018-05-26"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2019-07-23, content-dated to 2018-19"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Partial or stale-plus-additions list (CC 2020-06-06), but it names the 2019 interns and everyone bracketed by 2018-19 and 2020-21. Only an intern who joined and left inside 2019-20 without being listed could hide."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2020-10-25"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2024-05-22"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-labelled"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-labelled"
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "Current year, not yet published (live page stale 2026-09-28). A 2025-26 resident who left in summer 2026, and the 2026 intern class, cannot be seen. This is right-censoring; recheck when the page updates."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2011-06..2013-09: www.med.nyu.edu/neurosurgery, neurosurgery.med.nyu.edu, med.nyu.edu/neurosurgery, www.med.nyu.edu/gme, /education, /surgery, nyulangone.org/news",
+   "gapaudit 2019-06..2020-09: med.nyu.edu/neurosurgery, med.nyu.edu/departments-institutes/neurosurgery, nyulangone.org/news, med.nyu.edu/our-community/news",
+   "link audit of the old residency/education pages (CC 2012) and the Drupal education-training and our-team pages (Wayback 2012-12, 2013-02)",
+   "Wayback CDX prefix queries for neurosurgery.med.nyu.edu/education-training/meet*, /resident*, /research/residents* to 2014",
+   "Common Crawl 2020, all 9 crawls (edu,nyu,med)/neurosurgery/ and departments-institutes/neurosurgery), plus a retry of the failed pairs",
+   "PubMed affiliation mining (NYU neurosurgery) for 2010-2014, 2019-2021 and 2026",
+   "PubMed/NPPES/OpenAlex checks of Kang, Hsieh, Christian Lee, Tracy Ma, Khattab, Ber, Liu, Orillac",
+   "UCLA roster (program 67) for Phillips; live NYU page re-fetched 2026-09-28"
+  ],
+  "found": [
+   "2019-20 roster: residents-research sidebar list, CC-MAIN-2020-24 2020-06-06, with the 2019 interns Orillac and Liu",
+   "Phillips transfer to UCLA confirmed on the UCLA roster (PGY3 2017-18)",
+   "Khattab radiation oncology residency at Vanderbilt confirmed (PubMed 2018-2022)",
+   "2013 Drupal resident-alumni page (academic only, up to 2010 graduates)",
+   "Matthew M. Kang: probable 2011/2012 non-academic NYU graduate, year unknown, not added"
+  ],
+  "remaining": [
+   "2012-13: possible unseen second 2012 intern (significant, low probability)",
+   "2011-12: hidden non-academic 2012 graduates (not attrition)",
+   "2026-27: not yet published (right-censored)"
+  ]
+ }
+}

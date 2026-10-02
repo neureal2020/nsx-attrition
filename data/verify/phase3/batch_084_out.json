@@ -1,0 +1,1029 @@
+[
+ {
+  "key": "63:ven:simpson",
+  "name": "Venita Simpson",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Georgetown MD 2011, Baylor neurosurgery residency 2012-2019; UTSW/Google bios list SUNY Upstate and Baylor residencies",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2015
+   },
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2019
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Trained at SUNY Upstate then transferred to Baylor College of Medicine and completed neurosurgery there (Doximity residency Baylor 2012-2019 as listed); Upstate departure year 2015 or 2016 per DB notes, not confirmed by source",
+  "year_left": 2015,
+  "destination_program": "Baylor College of Medicine",
+  "destination_start_year": 2015,
+  "current": "neurosurgeon (complex spine), UT Southwestern, Dallas TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/venita-simpson-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Baylor College of Medicine 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://utswmed.org/doctors/venita-simpson/",
+    "type": "bio",
+    "evidence": "search snippet summary: completed residencies in neurological surgery at SUNY Upstate Medical University and Baylor College of Medicine; first Black woman to complete neurosurgery residency at Baylor"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:ali:hazama",
+  "name": "Ali Hazama",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Chicago Medical School 2013; neurosurgeon at Upstate University Hospital, Upstate faculty",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising neurosurgeon, ABNS certified, Upstate faculty/director of neurosurgery at Upstate Community Hospital; residency at Upstate consistent with DB (Doximity does not list residency)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, SUNY Upstate, Syracuse NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ali-hazama-md-e3db23c2",
+    "type": "doximity",
+    "evidence": "American Board of Neurological Surgery; Chicago Medical School Class of 2013"
+   },
+   {
+    "url": "https://www.upstate.edu/informed/2023/121323-hazama-podcast.php",
+    "type": "search_snippet",
+    "evidence": "assistant professor of neurosurgery at Upstate and the director of neurosurgery at Upstate Community Hospital"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:tim:beutler",
+  "name": "Timothy Beutler",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Upstate neurosurgery residency 2013-2020, Case Western MD 2013",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency Neurological Surgery Upstate 2013-2020; ABNS; Upstate faculty (critical care neurosurgery)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, SUNY Upstate, Syracuse NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/timothy-beutler-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, SUNY Upstate 2013 - 2020; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:ste:zyck",
+  "name": "Stephanie Zyck",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Upstate neurosurgery residency 2014-2021; Samaritan bio",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Upstate neurosurgery residency 2014-2021, endovascular fellowship Ohio State 2021-22; practising neurosurgeon Watertown NY. Not yet ABNS certified (Samaritan: working toward board certification)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Samaritan Neurosurgery, Watertown NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/stephanie-zyck-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, SUNY Upstate 2014 - 2021"
+   },
+   {
+    "url": "https://samaritanhealth.com/staff/stephanie-zyck-md/",
+    "type": "bio",
+    "evidence": "search snippet: completed her neurosurgery residency at SUNY Upstate Medical University"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:car:goulart",
+  "name": "Carlos Goulart",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Essentia bio/press: neurosurgery residency at SUNY Upstate; Doximity ABNS, Faculdade Evangelica do Parana 2014",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Essentia Health bio: completed neurosurgery residency at SUNY Upstate; ABNS; practising neurosurgeon (Duluth, later Yale New Haven per Doximity). Residency years not stated in sources",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Essentia Health Duluth MN (Doximity lists New Haven CT)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/carlos-goulart-md",
+    "type": "doximity",
+    "evidence": "American Board of Neurological Surgery; Faculdade Evangelica do Parana Class of 2014"
+   },
+   {
+    "url": "https://www.essentiahealth.org/find-doctor-provider/carlos-goulart",
+    "type": "bio",
+    "evidence": "search snippet: completed his neurosurgery residency at SUNY Upstate Medical University in Syracuse, NY"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:sha:rai",
+  "name": "Shawn Rai",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Search snippet: residency at State University of New York-Upstate; Neurosurgery; FAU MD 2015 (Doximity)",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising neurosurgeon (HCA Florida Ocala); residency SUNY Upstate neurosurgery per US News-derived snippet; Doximity shows no residency or ABNS listed",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, HCA Florida Ocala Neurosurgical Specialists, Ocala FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shawn-rai-md",
+    "type": "doximity",
+    "evidence": "Charles E. Schmidt College of Medicine at Florida Atlantic University, Class of 2015; no residency listed"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-shawn-rai-xylgy2p",
+    "type": "search_snippet",
+    "evidence": "Dr. Rai completed a residency at State University of New York-Upstate; Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:hay:hoffman",
+  "name": "Haydn Hoffman",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Upstate faculty: UCLA MD 2016, neurosurgeon at Upstate",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Upstate faculty neurosurgeon (cerebrovascular/endovascular); Doximity lists no residency or ABNS but practises neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (cerebrovascular), SUNY Upstate, Syracuse NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/haydn-hoffman-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Syracuse NY; David Geffen School of Medicine at UCLA Class of 2016"
+   },
+   {
+    "url": "https://www.upstate.edu/com/faculty/neurosurgery.php?empID=hoffmanh",
+    "type": "bio",
+    "evidence": "search result: Haydn Hoffman, MD - Syracuse, Upstate neurosurgery faculty"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:mic:witt",
+  "name": "Michelle De Witt",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Ross MD 2014, residency neurological surgery SUNY Upstate 2014-2023 (name spelled De Witt; matches distinctive name + program)",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency Upstate neurosurgery 2014-2023 (span longer than DB entry 2016, possibly includes research years/earlier prelim); practising neurosurgeon Novant Health. Doximity shows no ABNS listed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Novant Health, Winston-Salem NC",
+  "agrees_with_db": true,
+  "disagreement": "DB entry_year 2016 vs Doximity start 2014 (dates secondary)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michelle-de-witt-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, SUNY Upstate Medical University, 2014 - 2023; Ross University School of Medicine Class of 2014"
+   },
+   {
+    "url": "https://www.novanthealth.org/pf/providers/1124472170/michelle-de-witt",
+    "type": "bio",
+    "evidence": "search snippet: completed a Residency in Neurological Surgery at SUNY Upstate Medical University from 2014-2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:ale:braley",
+  "name": "Alexander Braley",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/WVU: FIU MD 2017; Upstate neurosurgery residency 2017-2024; WVU functional fellowship",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency Upstate 2017-2024, then WVU stereotactic/functional fellowship 2024-25; now practising neurosurgeon WVU Medicine Wheeling",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, WVU Medicine Wheeling Hospital / Morgantown WV",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alexander-braley-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, SUNY Upstate Medical University, 2017 - 2024; Fellowship WVU 2024-2025"
+   },
+   {
+    "url": "https://wvumedicine.org/find-a-doctor/doctor-details/?id=100952",
+    "type": "bio",
+    "evidence": "search result: WVU Medicine profile Alexander Braley, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:geo:koutsouras",
+  "name": "George Koutsouras",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Snippets: SUNY Upstate neurosurgery resident (LinkedIn/Doximity), NYIT-COM 2018; later pediatric neurosurgery fellow",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Search snippet (AANS 2024 presenter/fellowship info): completed neurosurgery residency at SUNY Upstate; pediatric neurosurgery fellowship (Vanderbilt listing) then neurointerventional fellowship at Penn planned. Doximity profile shows only NYIT COM 2018; no residency dates. Not ABNS listed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgery fellow (Vanderbilt), planned neurointerventional fellowship Penn",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://aans2024.eventscribe.net/ajaxcalls/posterPresenterInfo.asp?PresenterID=1644770",
+    "type": "search_snippet",
+    "evidence": "completed his neurosurgery residency at SUNY Upstate Medical Center in Syracuse, New York; pediatric neurosurgery fellow"
+   },
+   {
+    "url": "https://www.doximity.com/pub/george-koutsouras-do",
+    "type": "doximity",
+    "evidence": "NYIT College Of Osteopathic Medicine Class of 2018; Syracuse NY; no residency listed"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:jus:oh",
+  "name": "Justin Oh",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rutgers RWJ MD 2018; Upstate neurosurgery residency 2018-2025; now WVU Morgantown",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency Upstate neurosurgery 2018-2025; WV license 2025; practising neurosurgery at WVU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, WVU Medicine, Morgantown WV",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/justin-oh-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, SUNY Upstate Medical University, 2018 - 2025; Neurosurgery Morgantown WV"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:bra:wilkinson",
+  "name": "Brandon Wilkinson",
+  "program_id": 63,
+  "identity": "probable",
+  "identity_basis": "Doximity resident profile: Wayne State MD 2019, Syracuse NY (Upstate fax), publishes neurosurgery papers with Upstate faculty; LinkedIn snippet neurosurgery resident SUNY Upstate; namesakes exist (other Brandon Wilkinson profiles disambiguated by Wayne State + Upstate)",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Upstate neurosurgery resident (2026 Spine/Operative Neurosurgery papers co-authored with Upstate faculty); PGY-7 per search snippet of Doximity profile; no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-7), SUNY Upstate",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brandon-wilkinson-md-6fb5fb69",
+    "type": "doximity",
+    "evidence": "Resident Physician; Wayne State University School of Medicine Class of 2019; NY license 2021-2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ali-hazama-md-e3db23c2",
+    "type": "doximity",
+    "evidence": "Vitamin D Insufficiency ... Brandon M Wilkinson, Hanish Polavarapu, ..., Ali Hazama; Operative Neurosurgery 2026-05-04"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:mat:protas",
+  "name": "Matthew Protas",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: SUNY Upstate MD Class of 2020, Syracuse; Upstate neurosurgery faculty page lists Matthew Protas as Spine CAST fellow 2026-27 (search snippet)",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Upstate neurosurgery resident, still at Upstate; search snippet: Matthew Protas, MD is a Spine CAST Fellow for 2026-2027 at SUNY Upstate Department of Neurosurgery (i.e. finishing residency 2026, fellowship 2026-27)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Spine CAST fellow (neurosurgery), SUNY Upstate, Syracuse NY",
+  "agrees_with_db": true,
+  "disagreement": "Possibly completed residency mid-2026 (fellow 2026-27) rather than still in training",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-protas-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Syracuse NY; SUNY Upstate Medical University Class of 2020"
+   },
+   {
+    "url": "https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+    "type": "search_snippet",
+    "evidence": "Matthew Protas, MD is a Spine CAST Fellow for 2026-2027"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "63:rui:song",
+  "name": "Rui Song",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: SUNY Downstate MD 2020, radiation oncology residency Upstate 2022-2026; publications with Upstate neurosurgery (Hoffman, Galgano) 2021-22 confirm same person",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate (radiation oncology)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2026
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity: Residency, Radiation Oncology, SUNY Upstate Medical University 2022-2026 (neurosurgery co-authored papers 2021-22 consistent with earlier neurosurgery PGY-1/2 at Upstate)",
+  "year_left": 2021,
+  "destination_program": "SUNY Upstate radiation oncology",
+  "destination_start_year": 2022,
+  "current": "radiation oncologist, Poughkeepsie NY (Dyson Center)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rui-song-md-6889e118",
+    "type": "doximity",
+    "evidence": "Residency, Radiation Oncology, SUNY Upstate Medical University, 2022 - 2026; SUNY Downstate Class of 2020"
+   },
+   {
+    "url": "https://www.doximity.com/pub/rui-song-md-48918f3e",
+    "type": "search_snippet",
+    "evidence": "Rui Song, MD - Syracuse NY, Radiation Oncology"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:geo:bourdages",
+  "name": "George Bourdages",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Commonwealth (Geisinger) MD 2021, Syracuse resident; search snippet matched to SUNY Upstate neurosurgery 2021; co-authors Upstate neurosurgery faculty",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Upstate neurosurgery resident (2025 paper with Hazama); no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, SUNY Upstate",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/george-bourdages-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Syracuse NY; Commonwealth Medical College Class of 2021"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/george-bourdages-98a14245-786d-4dc8-bdc4-3ee4d22e57bf-overview",
+    "type": "search_snippet",
+    "evidence": "He matched to SUNY Upstate Medical University-NY for Neurological Surgery in 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:muh:jalal",
+  "name": "Muhammad Jalal",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: SUNY Upstate MD 2021, Syracuse neurosurgery; publishes with Upstate neurosurgery (Hoffman, Draytsel)",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity lists Upstate neurosurgery residency (start year 2021 only, no end) ; still publishing as Upstate neurosurgery resident 2024-25; no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, SUNY Upstate",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/muhammad-jalal-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, SUNY Upstate Medical University, 2021; SUNY Upstate Class of 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:and:wakim",
+  "name": "Andre Wakim",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Creighton MD 2021, UW surgery internship 2021-22, Upstate neurosurgery residency 2022-2029",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity: Residency, Neurological Surgery, SUNY Upstate 2022-2029 (expected end); listed in Syracuse as Neurosurgery Resident. (A stray \"Gastroenterology, Brooklyn Hospital 2020-2026\" line on the page looks like a merged-profile artifact; ignored.)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, SUNY Upstate",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/andre-wakim-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, SUNY Upstate Medical University, 2022 - 2029; Internship Surgery University of Washington 2021-2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:jos:kedra",
+  "name": "Joseph Kedra",
+  "program_id": 63,
+  "identity": "probable",
+  "identity_basis": "Search snippets: Temple (Lewis Katz) MD 2022, neurosurgery, Syracuse; Doximity shows only an unrelated Syracuse list; Kedra co-authored Upstate Spine paper (Wilkinson, Polavarapu et al., 2026-06-26) as Upstate coauthor",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Upstate neurosurgery resident per WebMD/Springer affiliation; DB notes transfer to WVU PGY-5 in 2026-27 not confirmed by any source found (WVU resident search returned no Kedra listing)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (Upstate; possibly WVU from 2026-27 per DB)",
+  "agrees_with_db": false,
+  "disagreement": "DB (consolidation) says transfer to WVU 2026-27; could not confirm from web sources; no source contradicts",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/joseph-kedra-3fae69ef-3eb6-41b1-ab8c-919953a708e4-overview",
+    "type": "search_snippet",
+    "evidence": "graduated from the Lewis Katz School of Medicine at Temple University in 2022 and specializes in Neurological Surgery in Syracuse, NY"
+   },
+   {
+    "url": "https://www.doximity.com/pub/hanish-polavarapu-md",
+    "type": "doximity",
+    "evidence": "Sarcopenia ... Spine 2026-06-26 co-authors Brandon M Wilkinson, Hanish Polavarapu, ..., Joseph Kedra"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "63:abi:funari",
+  "name": "Abigail Funari",
+  "program_id": 63,
+  "identity": "probable",
+  "identity_basis": "Search snippets: Albert Einstein MD 2023, neurosurgery Syracuse 750 E Adams (Upstate), author affiliation Dept of Neurosurgery SUNY Upstate; namesake risk low (distinctive name)",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Upstate neurosurgery resident per WebMD/sciprofiles affiliation; DB notes transfer to WVU PGY-4 in 2026-27 not confirmable from web sources (no Funari on WVU results)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (Upstate; possibly WVU from 2026-27 per DB)",
+  "agrees_with_db": false,
+  "disagreement": "DB (consolidation) says transfer to WVU 2026-27; not confirmed by any source found",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/abigail-funari-e433dace-7022-4103-afca-09319e795d8c-overview",
+    "type": "search_snippet",
+    "evidence": "graduated from the Albert Einstein College of Medicine of Yeshiva University in 2023 and works in Syracuse, NY, specializing in Neurological Surgery"
+   },
+   {
+    "url": "https://sciprofiles.com/profile/author/T25JUG5WTTNENjZuVXkwK0dqUkM4anlqOXNESVZGLzdwRDY0cnVVWUx5ND0=?amp=&amp=",
+    "type": "search_snippet",
+    "evidence": "Abigail Funari | Researcher | Department of Neurosurgery, SUNY Upstate Medical Center"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "63:jef:zhang",
+  "name": "Jeff Zhang",
+  "program_id": 63,
+  "identity": "probable",
+  "identity_basis": "Doximity: Buffalo MD 2023, Syracuse neurosurgery; WebMD/Vitals list at Upstate 750 E Adams; LinkedIn resident at SUNY Upstate; publications with Upstate neurosurgery (Babu, Mix)",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Upstate neurosurgery resident; Doximity shows NY and OH licenses 2026-2028 (OH license may hint at move, unconfirmed); no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, SUNY Upstate",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jeff-zhang-md-8b112ada",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Syracuse NY; Jacobs School of Medicine, University at Buffalo Class of 2023; NY and OH licenses 2026-2028"
+   },
+   {
+    "url": "https://www.linkedin.com/in/jeff-fang-zhang-28a04b361",
+    "type": "search_snippet",
+    "evidence": "Jeff Fang Zhang - Resident Doctor at SUNY UPSTATE"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:han:polavarapu",
+  "name": "Hanish Polavarapu",
+  "program_id": 63,
+  "identity": "confirmed",
+  "identity_basis": "Doximity + WashU page: MD SUNY Upstate 2024 (AOA); Taylor Family Dept of Neurosurgery (WashU/Barnes-Jewish) lists him PGY3 resident",
+  "residency_stated": [
+   {
+    "institution": "Washington University in St. Louis",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Sources show Polavarapu as a neurosurgery resident at Washington University in St. Louis (PGY3, Doximity location Barnes-Jewish, St. Louis), with SUNY Upstate MD Class of 2024. He appears to have matched to WashU straight from med school, so the DB entry as Upstate PGY-1 2024-25 is probably an error (Upstate student/researcher listed on roster); not verified he ever held an Upstate residency slot",
+  "year_left": 2024,
+  "destination_program": "Washington University in St. Louis",
+  "destination_start_year": 2024,
+  "current": "neurosurgery resident (PGY3), Washington University / Barnes-Jewish, St. Louis MO",
+  "agrees_with_db": false,
+  "disagreement": "DB says in training at Upstate; sources show WashU neurosurgery PGY3 (i.e. started 2024), SUNY Upstate only as MD school",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.wustl.edu/people/hanish-polavarapu-md-ms/",
+    "type": "program_page",
+    "evidence": "PGY3 Resident; MD, SUNY Upstate Norton College of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/hanish-polavarapu-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, St. Louis MO, One Barnes Jewish Hospital Plaza; SUNY Upstate Medical University Class of 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "63:yus:mehkri",
+  "name": "Yusuf Mehkri",
+  "program_id": 63,
+  "identity": "probable",
+  "identity_basis": "Search snippets/Doximity: neurosurgery Syracuse 750 E Adams, UF MD, ResearchGate lists Resident, SUNY Upstate Dept of Neurosurgery; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "SUNY Upstate",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Upstate neurosurgery resident; Doximity lists no education section; no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, SUNY Upstate",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/yusuf-mehkri-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Syracuse NY, 750 E Adams St; publications 2024-2025"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Yusuf-Mehkri",
+    "type": "search_snippet",
+    "evidence": "Yusuf MEHKRI | Resident | Doctor of Medicine | SUNY Upstate Medical University, Syracuse | Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "64:leo:arko",
+  "name": "Leopold Arko",
+  "program_id": 64,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Temple neurosurgery residency 2012-2018 and UTSW neurosurgery residency 2011-2012 (matches DB transfer-in from UTSW); ABNS",
+  "residency_stated": [
+   {
+    "institution": "UT Southwestern",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2012
+   },
+   {
+    "institution": "Temple University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transferred in from UTSW (PGY-1 2011-12) and completed Temple neurosurgery residency 2012-2018; ABNS certified; pediatric neurosurgery fellowship UCSF 2019-20",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, University of Minnesota (clinical informatics fellowship 2024-26)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/leopold-arko-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Temple University Hospital, 2012 - 2018; Residency UT Southwestern 2011 - 2012; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "64:sha:manoochehri",
+  "name": "Shahin Manoochehri",
+  "program_id": 64,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Saint Louis University MD 2012, Temple neurosurgery residency 2012-2019; ABNS",
+  "residency_stated": [
+   {
+    "institution": "Temple University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity Temple neurosurgery residency 2012-2019 (incl. endovascular fellowship 2016-18); ABNS; neurovascular surgeon Reading Hospital since 2019",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (cerebrovascular), Tower Health Reading Hospital, West Reading PA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shahin-manoochehri-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Temple University Hospital, 2012 - 2019; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "64:joe:passer",
+  "name": "Joel Passer",
+  "program_id": 64,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Nebraska MD 2013, Temple neurosurgery residency 2013-2020; ABNS",
+  "residency_stated": [
+   {
+    "institution": "Temple University Hospital",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity Temple neurosurgery residency 2013-2020; ABNS; skull base fellowship experience at MD Anderson; practising at Lahey",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Lahey Hospital & Medical Center, Burlington MA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joel-passer-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Temple University Hospital, 2013 - 2020; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ }
+]

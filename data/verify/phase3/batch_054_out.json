@@ -1,0 +1,1028 @@
+[
+ {
+  "key": "73:olu:afuwape",
+  "identity": "probable",
+  "identity_basis": "Doximity: Olusoji Adeyemi Afuwape MD, UT Southwestern class of 2018, AR State Medical License 2022-2023; NPI registry lists him as trainee in Little Rock AR; UAMS neurosurgery resident-research page lists Olusoji Afuwape MD PhD",
+  "residency_stated": [
+   {
+    "institution": "UAMS neurosurgery (per UAMS resident research page, not dated by source)",
+    "specialty": "neurosurgery"
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Left UAMS after PGY-3 2021-22. Doximity (2026) shows only 'Other MD/DO', Fort Worth TX, TX license 2022-2027 and AR license ending 2023; 2025 J Physiol paper (Afuwape, Chanaday, Kasap, Monteggia, Kavalali) is basic-science. No residency destination stated by any source. Not a practising neurosurgeon per sources.",
+  "year_left": 2022,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Doximity: 'Other MD/DO', Fort Worth TX (specialty not stated)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/olusoji-afuwape-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Fort Worth TX; UT Southwestern Class of 2018; TX license 2022-2027; AR license 2022-2023"
+   },
+   {
+    "url": "https://npiprofile.com/npi/1982165155",
+    "type": "search_snippet",
+    "evidence": "OLUSOJI ADEYEMI AFUWAPE M.D., PH.D. - Student in an Organized Health Care Education/Training Program in Little Rock, AR"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Olusoji Afuwape",
+  "program_id": 73
+ },
+ {
+  "key": "73:ale:gilman",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Alex Gilman MD, Wright State Boonshoft class of 2024, UAMS Medical Center Little Rock; UAMS general surgery resident list shows Alex Gilman MD, Wright State",
+  "residency_stated": [
+   {
+    "institution": "UAMS (general surgery)",
+    "specialty": "general surgery",
+    "start": 2025
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UAMS neurosurgery after PGY-1 2024-25 and is a general surgery resident at UAMS (listed PGY-3 on UAMS Dept of Surgery residents page, so the general-surgery track apparently began 2025 with credit / or the PGY counts from 2024). Doximity specialty: General Surgery, UAMS Medical Center.",
+  "year_left": 2025,
+  "destination_program": "UAMS general surgery",
+  "destination_start_year": 2025,
+  "current": "general surgery resident, UAMS, Little Rock AR",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, outcome unknown; found: switched to general surgery at UAMS (same institution)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/surgery/residencies/general-surgery/our-residents/",
+    "type": "program_page",
+    "evidence": "Alex Gilman, M.D. PGY-3 Medical School: Wright State University Medical School"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alex-gilman-md",
+    "type": "doximity",
+    "evidence": "General Surgery, Little Rock AR, UAMS Medical Center; Wright State Boonshoft Class of 2024"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Alex Gilman",
+  "program_id": 73
+ },
+ {
+  "key": "73:aus:robbins",
+  "identity": "probable",
+  "identity_basis": "Doximity Austin Robbins MD, Univ of Mississippi School of Medicine class of 2024, publications with UMMC neurosurgery (Luzardo, Ziemke); WebMD lists him as neurosurgeon Little Rock AR with UMMC MD 2024",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Left UAMS neurosurgery PGY-1 in early 2025. Doximity lists him 'Other MD/DO' at 1802 6th Ave S, Birmingham AL (address appears to be UAB campus); no specialty/program stated. A UAB internal-medicine PGY1 search snippet named only 'Austin' with no surname or school, not usable. Destination not confirmed.",
+  "year_left": 2025,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Doximity: Other MD/DO, Birmingham AL (likely trainee)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/austin-robbins-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Birmingham AL; University of Mississippi School of Medicine Class of 2024"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/austin-robbins-6a48d883-c836-4795-943c-8d1c47866780-overview",
+    "type": "search_snippet",
+    "evidence": "Austin Robbins, Neurosurgeon | Little Rock, AR"
+   }
+  ],
+  "searches_used": 4,
+  "name": "Austin Robbins",
+  "program_id": 73
+ },
+ {
+  "key": "74:mar:mathews",
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists Marlon Stephen Mathews MD, residency Neurological Surgery UC Irvine 2010-2016, earlier Neurological Surgery Univ at Buffalo 2008-2010; UCI neurosurgery research publications (Beckman Laser Institute)",
+  "residency_stated": [
+   {
+    "institution": "University at Buffalo",
+    "specialty": "neurosurgery",
+    "start": 2008,
+    "end": 2010
+   },
+   {
+    "institution": "University of California (Irvine)",
+    "specialty": "neurosurgery",
+    "start": 2010,
+    "end": 2016
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity states UCI neurosurgery residency 2010-2016 (roster PGY-7 in 2014-15, i.e. finished mid-2016 incl. research time). Entered UCI from Buffalo neurosurgery 2010 (so UCI entry_year 2008 in DB was Buffalo start). Currently listed as Family Medicine / sports medicine physician in Palm Springs CA (other aggregators list neurological surgery, Cheektowaga NY).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "family/sports medicine physician, Palm Springs CA (Doximity); other listings neurological surgery",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, outcome unknown; found: completed UCI neurosurgery residency 2016 per Doximity (LinkedIn snippet also says UCI Neurological Surgery 2010-2016). Started UCI 2010 after Buffalo, not 2008",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/marlon-mathews-md",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2010 - 2016; University at Buffalo Residency, Neurological Surgery, 2008 - 2010"
+   },
+   {
+    "url": "https://www.linkedin.com/in/marlon-mathews-8558087b/",
+    "type": "search_snippet",
+    "evidence": "completed a residency in Neurological Surgery at UC Irvine from 2010 to 2016"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Marlon Mathews",
+  "program_id": 74
+ },
+ {
+  "key": "74:isi:beach",
+  "identity": "probable",
+  "identity_basis": "Doximity Isidora Beach MD, Univ of Vermont College of Medicine 2022, Resident Physician Burlington VT; neurosurgery publications (2023-24) incl. AANS poster listing; matches UCI PGY-1 2023-24 timeline",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Left UCI after PGY-1 2023-24. Doximity: Resident Physician at UVM Medical Center address (Burlington VT), specialty not stated. Not on UVM Neurosurgery residents page (PGY1-7 list). Likely moved to a UVM residency in another field but unconfirmed.",
+  "year_left": 2024,
+  "destination_program": "UVM Medical Center (specialty unknown)",
+  "destination_start_year": null,
+  "current": "resident physician, Burlington VT (Doximity)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/isidora-beach-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Burlington, VT; University of Vermont College of Medicine Class of 2022"
+   },
+   {
+    "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+    "type": "program_page",
+    "evidence": "Neurosurgery residents list Adams, Callahan, Zerebiec, Ng, Wicks, Methot, Werheim, McNamee (no Beach)"
+   }
+  ],
+  "searches_used": 4,
+  "name": "Isidora Beach",
+  "program_id": 74
+ },
+ {
+  "key": "75:har:birk",
+  "identity": "confirmed",
+  "identity_basis": "Doximity Harjus Singh Birk MD: UCSF MD 2017, residency Neurological Surgery UCSD 2017-2019; UCSD 2018-19 annual report lists him as resident",
+  "residency_stated": [
+   {
+    "institution": "University of California (San Diego) Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2019
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left UCSD around 2019-20; now practises neurosurgery (Doximity specialty Neurosurgery, UC Davis address Sacramento; US News/WebMD list neurosurgeon Palo Cedro CA). Co-authorship 2021-23 with LSU Shreveport neurosurgery residents/faculty supports LSU Shreveport as the destination program, but no LSU roster/alumni page lists him and no source states it.",
+  "year_left": 2020,
+  "destination_program": "LSU Health Shreveport (probable, unconfirmed)",
+  "destination_start_year": 2020,
+  "current": "neurosurgeon, Sacramento CA (Doximity) / Palo Cedro CA",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, did not complete; found: practising neurosurgeon, so probably transferred and completed elsewhere (destination unconfirmed)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/harjus-birk-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Sacramento CA; UCSD Residency, Neurological Surgery, 2017 - 2019; UCSF Class of 2017"
+   },
+   {
+    "url": "https://neurosurgery.ucsd.edu/_files/news/neuro-annual-report-fy1819.pdf",
+    "type": "search_snippet",
+    "evidence": "listed as resident in UCSD Division of Neurosurgery (2018-19 annual report)"
+   }
+  ],
+  "searches_used": 5,
+  "name": "Harjus Birk",
+  "program_id": 75
+ },
+ {
+  "key": "77:chr:boudreau",
+  "identity": "confirmed",
+  "identity_basis": "Doximity Christine Ramos Boudreau MD: UC Davis Health Residency Neurological Surgery 2009-2011, UCLA Geffen MD 2006, Beth Israel Deaconess transitional year 2006-07; Dept of Neurological Surgery UC Davis address; PubMed authored with Liau (UCLA)",
+  "residency_stated": [
+   {
+    "institution": "University of California Davis Health",
+    "specialty": "neurosurgery",
+    "start": 2009,
+    "end": 2011
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Sources only state the UC Davis neurosurgery residency 2009-2011 (DB shows PGY-3 through 2011-12; left after that). Doximity labels her Neurosurgery/Sacramento but that is an auto-populated department address, no board certification listed, CA license 2007-2027; no faculty/practice page or ABNS listing shows her practising neurosurgery. Not on UC Davis alumni page. A LinkedIn/theorg snippet for a 'Christine Boudreau' shows a Sacramento STEM teacher/EnCorps fellow (medical identity not established; not recorded as her career).",
+  "year_left": 2012,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown (Doximity lists Neurosurgery, Sacramento CA, no certifications)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christine-boudreau-md",
+    "type": "doximity",
+    "evidence": "University of California Davis Health Residency, Neurological Surgery, 2009 - 2011; Beth Israel Deaconess Internship 2006-2007; UCLA Class of 2006; no ABNS certification listed"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Christine Boudreau",
+  "program_id": 77
+ },
+ {
+  "key": "77:ire:falk",
+  "identity": "confirmed",
+  "identity_basis": "Doximity Irene Falk MD Resident Physician, Sacramento (UC Davis Dept of Neurological Surgery address, 4860 Y St Ste 3740), Class of 2020; Columbia neurology page lists Irene Falk MD PhD; MD Medical College of Georgia (matches DB note)",
+  "residency_stated": [
+   {
+    "institution": "Columbia University (adult neurology)",
+    "specialty": "neurology",
+    "start": 2022,
+    "end": 2026
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UC Davis neurosurgery after PGY-1 2020-21 (Stanford James Lab 2021-22 research per lab page snippet), then Columbia adult neurology residency (Class of 2026); now NICU/neurocritical care fellow at Johns Hopkins Hospital.",
+  "year_left": 2021,
+  "destination_program": "Columbia University adult neurology",
+  "destination_start_year": 2022,
+  "current": "neurocritical/NICU fellow, Johns Hopkins Hospital (neurology-trained)",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, did not complete; found: switched to neurology (Columbia, class of 2026), then Hopkins NICU fellowship",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.neurology.columbia.edu/education/residency-programs/adult-neurology-residency-program/our-adult-neurology-residents/former-adult-neurology-residents",
+    "type": "program_page",
+    "evidence": "Irene Falk, MD, PhD, Class 2026; Fellowship: NICU, The Johns Hopkins Hospital"
+   },
+   {
+    "url": "https://www.doximity.com/pub/irene-falk-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Sacramento CA, 4860 Y St Ste 3740; Class of 2020"
+   }
+  ],
+  "searches_used": 4,
+  "name": "Irene Falk",
+  "program_id": 77
+ },
+ {
+  "key": "78:jav:khader-eliyas",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery University of Chicago 2010-2016; PSG Institute MD 2005; hospital bio; earlier surgery prelim years at Rutgers NJMS and UIC",
+  "residency_stated": [
+   {
+    "institution": "University of Chicago",
+    "specialty": "neurosurgery",
+    "start": 2010,
+    "end": 2016
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UChicago neurosurgery residency 2016 (Doximity), then endovascular fellowship Calgary; ABNS certified; neurosurgeon at Saint Francis / Trinity Health of New England, Hartford CT (formerly UNM assistant professor).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Saint Francis Hospital / Trinity Health of New England, Hartford CT",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, outcome unknown (last seen PGY-6 2015-16); found: completed residency 2016 and ABNS certified",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/javed-khader-eliyas-md",
+    "type": "doximity",
+    "evidence": "University of Chicago Residency, Neurological Surgery, 2010 - 2016; American Board of Neurological Surgery, Neurological Surgery"
+   },
+   {
+    "url": "https://www.trinityhealthofne.org/provider/javed-khader-eliyas-md-neurological-surgery",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at the University of Chicago Medical Center"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Javed Khader-Eliyas",
+  "program_id": 78
+ },
+ {
+  "key": "78:mel:mar",
+  "identity": "confirmed",
+  "identity_basis": "CommonSpirit bio: MD Univ of Cincinnati (2013), residency Neurological Surgery University of Chicago Medical Center, then Diagnostic Radiology Staten Island Hospital, Neuroradiology fellowship Yale; matches DB entry 2013",
+  "residency_stated": [
+   {
+    "institution": "University of Chicago Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2015
+   },
+   {
+    "institution": "Staten Island Hospital",
+    "specialty": "diagnostic radiology"
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UChicago neurosurgery after PGY-2 (2014-15) and did diagnostic radiology residency at Staten Island Hospital, then neuroradiology fellowship at Yale; ABR certified in diagnostic radiology and neuroradiology. Radiology start year not stated by source (likely 2015).",
+  "year_left": 2015,
+  "destination_program": "Staten Island Hospital diagnostic radiology",
+  "destination_start_year": 2015,
+  "current": "neuroradiologist, PENRAD / CommonSpirit Penrose Hospital, Colorado Springs CO",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, outcome unknown (NPPES radiology suspected); confirmed switch to diagnostic radiology",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.mountain.commonspirit.org/provider-search/melody-mar-md",
+    "type": "bio",
+    "evidence": "Residency: University of Chicago Medical Center (Neurological Surgery); Staten Island Hospital (Diagnostic Radiology); Fellowship Yale Neuroradiology; ABR certified"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Melody Mar",
+  "program_id": 78
+ },
+ {
+  "key": "78:nas:mendoza-elias",
+  "identity": "confirmed",
+  "identity_basis": "ResearchGate lists Nasya Mendoza-Elias as Instructor, University of Chicago Medical Center Dept of Neurological Surgery; Instagram post 'Meet Nasya Mendoza-Elias, MD, MA! The Resident (PGY4)'; Healthgrades lists neurosurgery specialist at UChicago locations; DB PGY-6 2024-25",
+  "residency_stated": [
+   {
+    "institution": "University of Chicago",
+    "specialty": "neurosurgery",
+    "start": 2019
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No source states completion or departure. Healthgrades/Vitals list her as a neurosurgery specialist (Chicago; Burr Ridge IL office) and ResearchGate as UChicago Instructor, which is consistent with having finished or being on staff, but she is not on the UChicago clinical faculty page (2026), not on the active residents page, no ABNS listing seen. (An older ResearchGate profile shows 'Resident Fellow, Lahey Hospital, 2019', pre-residency.)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery specialist per Healthgrades, Chicago IL (unverified)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-nasya-mendoza-elias-xypy5ct",
+    "type": "search_snippet",
+    "evidence": "Nasya Mendoza-Elias - Neurosurgery Specialist in Chicago, IL"
+   },
+   {
+    "url": "https://www.researchgate.net/scientific-contributions/Nasya-Mendoza-Elias-2161469170",
+    "type": "search_snippet",
+    "evidence": "Instructor | Doctor of Medicine | The University of Chicago Medical Center, Chicago"
+   },
+   {
+    "url": "https://neurosurgery.uchicago.edu/people/clinical-faculty",
+    "type": "program_page",
+    "evidence": "not listed among faculty (Horowitz, Herman, Naylor, Polster, Satzer ...)"
+   }
+  ],
+  "searches_used": 4,
+  "name": "Nasya Mendoza-Elias",
+  "program_id": 78
+ },
+ {
+  "key": "78:mar:torres",
+  "identity": "confirmed",
+  "identity_basis": "UChicago neurosurgery resident Carmen Pons MD PhD (PGY3); WebMD lists Maria del Carmen Pons Torres neurological surgery Chicago, Universidad Miguel Hernandez 2013; NPI 'student' record; PhD SUNY College of Optometry",
+  "residency_stated": [
+   {
+    "institution": "University of Chicago",
+    "specialty": "neurosurgery",
+    "start": 2023
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "PROBABLE switch to ophthalmology: the LinkedIn profile carmen-pons-02ba7b44 (which Google also shows as 'Carmen Pons - UChicago Medicine') now carries the headline 'Carmen Pons - Ophthalmology Resident'. Program and year not stated; not on UChicago ophthalmology physicians page and not on 2026-27 UChicago neurosurgery list.",
+  "year_left": 2026,
+  "destination_program": "ophthalmology residency (program unknown)",
+  "destination_start_year": 2026,
+  "current": "ophthalmology resident (per LinkedIn headline snippet)",
+  "agrees_with_db": true,
+  "disagreement": "DB outcome unknown; found probable switch to ophthalmology",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/carmen-pons-02ba7b44/",
+    "type": "search_snippet",
+    "evidence": "Carmen Pons - Ophthalmology Resident"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/maria-del-carmen-pons-torres-869de05f-53ca-4460-aa75-5204e9f78694-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery specialist practicing in Chicago, IL ... Universidad Miguel Hernandez Facultad De Medicina in 2013"
+   }
+  ],
+  "searches_used": 4,
+  "name": "Maria del Carmen Pons Torres",
+  "program_id": 78
+ },
+ {
+  "key": "78:whi:griggs",
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn/ZoomInfo/ResearchGate: Whitney Griggs neurosurgery resident UChicago, started June 2025; MD-PhD UCLA-Caltech MSTP; X post applying to neurosurgery Match 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Chicago",
+    "specialty": "neurosurgery",
+    "start": 2025
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Started UChicago neurosurgery June 2025; absent from the 2026-27 residents page. No source states a departure or destination. Her personal site headline reads 'Neuroscientist - Arbor Neuroscience' (no dates; unclear whether current). Not treated as evidence of leaving.",
+  "year_left": 2026,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/whitneysgriggs/",
+    "type": "search_snippet",
+    "evidence": "started his neurosurgery residency in June 2025"
+   },
+   {
+    "url": "https://neurosurgery.uchicago.edu/education/meet-our-residents",
+    "type": "program_page",
+    "evidence": "Griggs not among active 2026-27 residents"
+   }
+  ],
+  "searches_used": 4,
+  "name": "Whitney Griggs",
+  "program_id": 78
+ },
+ {
+  "key": "79:kat:myers",
+  "identity": "confirmed",
+  "identity_basis": "Doximity Katie Marie Myers MD: University of Missouri-Columbia MD 2011; Residency Neurological Surgery University of Cincinnati 2011-2014 (matches DB entry 2011, Missouri MD)",
+  "residency_stated": [
+   {
+    "institution": "University of Cincinnati Medical Center/College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2014
+   },
+   {
+    "institution": "Rutgers Health/New Jersey Medical School",
+    "specialty": "emergency medicine",
+    "start": 2016,
+    "end": 2020
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Cincinnati neurosurgery after PGY-3 (2013-14); emergency medicine residency at Rutgers NJMS 2016-2020 (gap 2014-2016 unexplained); ABEM certified; Assistant Professor of Emergency Medicine.",
+  "year_left": 2014,
+  "destination_program": "Rutgers New Jersey Medical School emergency medicine",
+  "destination_start_year": 2016,
+  "current": "emergency medicine physician / assistant professor, University Hospital Newark NJ (Rutgers)",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, outcome unknown; found: switched to emergency medicine (Rutgers NJMS 2016-2020), ABEM certified",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/katie-myers-md",
+    "type": "doximity",
+    "evidence": "Rutgers NJMS Residency, Emergency Medicine, 2016 - 2020; University of Cincinnati Residency, Neurological Surgery, 2011 - 2014; University of Missouri-Columbia Class of 2011; American Board of Emergency Medicine"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Katie Myers",
+  "program_id": 79
+ },
+ {
+  "key": "79:chr:cutler",
+  "identity": "confirmed",
+  "identity_basis": "Doximity Christopher Cutler MD: Chicago Medical School (RFU) MD 2024, UC neurosurgery residency 2024-2031 in summary; UC neurosurgery welcome post; AOA 2023",
+  "residency_stated": [
+   {
+    "institution": "University of Cincinnati Medical Center/College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2024
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity profile (URL pub/christopher-cutler-md-573484b3, redirected from the neurosurgery-titled URL) now shows specialty Anesthesiology, 'CA1', Cincinnati OH (UC anesthesiology address), while the summary still cites the neurosurgery residency 2024-2031. Google also shows LinkedIn 'Christopher Cutler - University of Cincinnati Anesthesia' and a UC College of Medicine anesthesiology directory profile. Not on the UC neurosurgery residents pages (2026-27). Switch to anesthesiology at UC, starting 2026-27 as CA-1 (i.e. left neurosurgery after PGY-2 2025-26).",
+  "year_left": 2026,
+  "destination_program": "University of Cincinnati anesthesiology",
+  "destination_start_year": 2026,
+  "current": "anesthesiology resident (CA-1), University of Cincinnati",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, destination not found; found: switched to anesthesiology at UC",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christopher-cutler-md-573484b3",
+    "type": "doximity",
+    "evidence": "Anesthesiology, CA1, Cincinnati OH; Chicago Medical School Class of 2024"
+   },
+   {
+    "url": "https://med.uc.edu/depart/neurosurgery/directory/residents",
+    "type": "program_page",
+    "evidence": "Cutler not among current neurosurgery residents PGY-1..PGY-7"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Christopher Cutler",
+  "program_id": 79
+ },
+ {
+  "key": "80:and:donovan",
+  "identity": "confirmed",
+  "identity_basis": "Doximity Andrew M. Donovan MD, Univ of Louisville MD 2020, CO license 2023-2025 (was at CU), neurosurgery publications (Neimat, Louisville); DB entry 2020 matches MD 2020",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "radiation oncology",
+    "start": 2023
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left CU neurosurgery mid 2022-23 (after PGY-3 start); X post from UofL Radiation Oncology (July 2024): 'Welcome ... Dr. Andrew Donovan - PGY2 Medical Resident'; UofL radiation oncology residents page lists him. Radiation oncology residency at Louisville (PGY-2 in July 2024 implies PGY-1 intern year 2023-24).",
+  "year_left": 2023,
+  "destination_program": "University of Louisville radiation oncology",
+  "destination_start_year": 2023,
+  "current": "radiation oncology resident, University of Louisville",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, destination unknown; found: switched to radiation oncology (Louisville)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/UofLRadOnc/status/1810678551244616105",
+    "type": "search_snippet",
+    "evidence": "Welcome to our two new residents!! Dr. Andrew Donovan - PGY2 Medical Resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/andrew-donovan-md-0ed8783f",
+    "type": "doximity",
+    "evidence": "Resident Physician, Louisville KY; Univ of Louisville School of Medicine Class of 2020; CO license 2023-2025, KY license 2024-2027"
+   }
+  ],
+  "searches_used": 4,
+  "name": "Andrew Donovan",
+  "program_id": 80
+ },
+ {
+  "key": "80:mic:kortz",
+  "identity": "confirmed",
+  "identity_basis": "Doximity Michael Kortz DO MBA: KCU-COM 2022, University of Colorado neurosurgery research fellow 2020-21 (LinkedIn snippet) and neurosurgery publications with CU (Hirt, Thompson); CO license 2023-2025",
+  "residency_stated": [
+   {
+    "institution": "University of California (San Diego) Medical Center",
+    "specialty": "emergency medicine",
+    "start": 2024,
+    "end": 2028
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left CU neurosurgery after PGY-2 2023-24; emergency medicine resident at UCSD 2024-2028 per Doximity.",
+  "year_left": 2024,
+  "destination_program": "UCSD emergency medicine",
+  "destination_start_year": 2024,
+  "current": "emergency medicine resident, UC San Diego",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, destination unknown; found: switched to emergency medicine (UCSD 2024-2028)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-kortz-do",
+    "type": "doximity",
+    "evidence": "UCSD Medical Center Residency, Emergency Medicine, 2024 - 2028; KCU-COM Class of 2022"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Michael Kortz",
+  "program_id": 80
+ },
+ {
+  "key": "81:eri:shen",
+  "identity": "confirmed",
+  "identity_basis": "UConn neurosurgery resident Erica Shen MD PhD MBA (SNO 2022 poster, UConn radiology-online cases, PGY-3 snippet); Stony Brook MD/MBA",
+  "residency_stated": [
+   {
+    "institution": "University of Connecticut",
+    "specialty": "neurosurgery",
+    "start": 2020
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No source states a departure, transfer or completion. Not on the current UConn neurosurgery residents page (PGY1 Rao ... PGY6 Diaz; no Shen), and she has no public Doximity profile (direct pub/erica-shen-md returned 'No Public Profile'). Google shows only older UConn-resident profiles (LinkedIn, X @ShenNSGY, MedLink). Could be a research/leave year or departure; unresolved.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://health.uconn.edu/graduate-medical-education/neurological-surgery-residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "current residents Rao PGY1, Venero PGY2, Nwankwo PGY3, Patil PGY4, Burch PGY5, Diaz PGY6; Shen not listed"
+   },
+   {
+    "url": "https://www.medlink.com/authors/erica-shen-md-phd-mba",
+    "type": "search_snippet",
+    "evidence": "Erica Shen MD PhD MBA, neurosurgery resident University of Connecticut"
+   }
+  ],
+  "searches_used": 4,
+  "name": "Erica Shen",
+  "program_id": 81
+ },
+ {
+  "key": "82:joh:bandela",
+  "identity": "confirmed",
+  "identity_basis": "Doximity John R Bandela MD: UF College of Medicine 2006, Residency Neurological Surgery University of Florida 2006-2014; 2013 World Neurosurgery paper with Jacob (UF); DB bio 'began July 2006'",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2006,
+    "end": 2014
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity/WebMD/Vitals state UF neurosurgery residency 2006-2014 and list him as a neurological surgeon (Gainesville / West Palm Beach FL, FL license 2010-2027, CNS member). Not on the UF residency alumni page (as fetched), and no ABNS certification shown; end date 2014 vs bio's scheduled 2013 completion. Practises neurosurgery per multiple directories.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, West Palm Beach / Gainesville FL (directory listings)",
+  "agrees_with_db": false,
+  "disagreement": "DB: left after PGY-6 2011-12, did not complete; found: residency listed 2006-2014 and listed as neurosurgeon (completion probable, not on UF alumni page)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/john-bandela-md",
+    "type": "doximity",
+    "evidence": "University of Florida Residency, Neurological Surgery, 2006 - 2014; Neurosurgery, West Palm Beach FL"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/john-bandela-a05d24c8-1c23-429b-90ec-afcbb8c227f6-overview",
+    "type": "search_snippet",
+    "evidence": "John Bandela, Neurological Surgery, Gainesville FL"
+   }
+  ],
+  "searches_used": 3,
+  "name": "John Bandela",
+  "program_id": 82
+ },
+ {
+  "key": "82:mis:chakraborty",
+  "identity": "probable",
+  "identity_basis": "Name 'Mishti Chakraborty, MD, PGY 2' presented at UF Neurosurgery 2013 event; Doximity Anindita Chakraborty MD (Mishti presumably a nickname; not stated by a source): UF College of Medicine 2011, UF neurosurgery residency 2011-2018 - matches DB start 2011",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity (Anindita Chakraborty MD, Gainesville FL, UF address) lists board certification from the American Board of Psychiatry and Neurology in Psychiatry and in Child & Adolescent Psychiatry, with the UF neurosurgery residency 2011-2018; no ABNS certification. DB shows she left after PGY-6 2016-17. Psychiatry program/dates not stated. Identity via nickname is an inference.",
+  "year_left": 2017,
+  "destination_program": "psychiatry (program not stated)",
+  "destination_start_year": null,
+  "current": "psychiatrist (ABPN adult and child/adolescent), Gainesville FL address",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, did not complete; found: probably switched to psychiatry (ABPN certified in psychiatry and child & adolescent psychiatry)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anindita-chakraborty-md",
+    "type": "doximity",
+    "evidence": "UF Residency, Neurological Surgery, 2011 - 2018; American Board of Psychiatry and Neurology: Psychiatry; Child & Adolescent Psychiatry"
+   },
+   {
+    "url": "https://ufhealth.org/events/neurosurgery-2013-improving-neurosurgical-care-through-research",
+    "type": "search_snippet",
+    "evidence": "Mishti Chakraborty, MD, PGY 2 ... Role of Primary Payer Status on Transfer Rate for Stroke Patients using the NIS Database"
+   }
+  ],
+  "searches_used": 4,
+  "name": "Mishti Chakraborty",
+  "program_id": 82
+ },
+ {
+  "key": "82:car:brophy",
+  "identity": "probable",
+  "identity_basis": "Doximity Carl Michael Brophy MD: Georgetown MD 2017, UF residency (Family Medicine) 2019-2022; Google Scholar profile 'Carl Brophy, Neurosurgery Resident at the University of Florida'; DB PGY-1 2017-18 fits 2017 graduate",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "family medicine",
+    "start": 2019,
+    "end": 2022
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UF neurosurgery after PGY-2 (2018-19); UF Family Medicine residency 2019-2022; ABFM certified; family physician in Ocala FL (also UCF assistant professor).",
+  "year_left": 2019,
+  "destination_program": "University of Florida family medicine",
+  "destination_start_year": 2019,
+  "current": "family medicine physician, Ocala FL",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, did not complete (destination unknown); found: switched to family medicine at UF (2019-2022)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/carl-brophy-md",
+    "type": "doximity",
+    "evidence": "University of Florida Residency, Family Medicine, 2019 - 2022; Georgetown Class of 2017; American Board of Family Medicine"
+   },
+   {
+    "url": "https://scholar.google.com/citations?user=ThUVtoYAAAAJ&hl=en",
+    "type": "search_snippet",
+    "evidence": "Carl Brophy is a Neurosurgery Resident at the University of Florida"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Carl Brophy",
+  "program_id": 82
+ },
+ {
+  "key": "82:ras:zakare-fagbamila",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Duke MD/MHS 2019, UF Neurological Surgery residency 2019-2024; UF anesthesiology match list names her (Duke, Stanford, prior training UF neurosurgery)",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2024
+   },
+   {
+    "institution": "University of Florida",
+    "specialty": "anesthesiology",
+    "start": 2025,
+    "end": 2028
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UF neurosurgery after PGY-5 (2023-24); UF Anesthesiology CA-1 from 2025 (Doximity: Residency, Anesthesiology, 2025-2028; UF anesthesiology 2025 match page: prior training 'Transitional Year: Neurological Surgery, University of Florida').",
+  "year_left": 2024,
+  "destination_program": "University of Florida anesthesiology",
+  "destination_start_year": 2025,
+  "current": "anesthesiology resident, University of Florida",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, did not complete (destination unknown); found: switched to anesthesiology at UF",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rasheedat-zakare-fagbamila-md",
+    "type": "doximity",
+    "evidence": "Residency, Anesthesiology, 2025 - 2028; Residency, Neurological Surgery, 2019 - 2024"
+   },
+   {
+    "url": "https://anest.ufl.edu/2025/03/21/2025-match-day-results/",
+    "type": "program_page",
+    "evidence": "Prior Training: Transitional Year: Neurological Surgery, University of Florida"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Rasheedat Zakare-Fagbamila",
+  "program_id": 82
+ },
+ {
+  "key": "82:pat:miller",
+  "identity": "probable",
+  "identity_basis": "Dermatology Specialists bio: Patricia Miller MD did undergrad, MD, internship and 'neurosurgical junior residency' at University of Florida (Rhoton Neurological Surgery Excellence Award; UF MD class of 2021 awards list a Patricia K. Miller); DB: UF neurosurgery entry 2021 (common name, no Doximity match)",
+  "residency_stated": [
+   {
+    "institution": "University of Florida",
+    "specialty": "neurosurgery (junior residency)",
+    "start": 2021,
+    "end": 2024
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UF neurosurgery after PGY-3 (2023-24). Current bio at a dermatology practice (mydermspecialists.com) lists her as Clinical Research Fellow with UF neurosurgical junior residency as past training; dermatology residency not stated, so a move toward dermatology is probable but not confirmed.",
+  "year_left": 2024,
+  "destination_program": "dermatology (probable; program not stated)",
+  "destination_start_year": null,
+  "current": "clinical research fellow, Dermatology Specialists (per bio)",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, outcome unknown [ambiguous name]; found: probable move to dermatology-related research (bio at dermatology practice) - moderate confidence",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://mydermspecialists.com/about-us/our-providers/patricia-miller-md/",
+    "type": "bio",
+    "evidence": "medical education, internship and neurosurgical junior residency at UF; Clinical Research Fellow"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Patricia Miller",
+  "program_id": 82
+ },
+ {
+  "key": "83:pet:theiss",
+  "identity": "confirmed",
+  "identity_basis": "Methodist Health System bio: Peter B Theiss MD, Columbia P&S, neurosurgery residency at University of Illinois at Chicago, endovascular neurosurgery fellowship at UIC; UIC affiliation on WebMD; DB entry 2017 UIC",
+  "residency_stated": [
+   {
+    "institution": "University of Illinois at Chicago",
+    "specialty": "neurosurgery"
+   },
+   {
+    "institution": "University of Illinois at Chicago",
+    "specialty": "endovascular neurosurgery fellowship"
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UIC neurosurgery residency and endovascular neurosurgery fellowship at UIC (consistent with DB note that he was re-categorised as in-program Endovascular fellow from 2023-24); now neurosurgeon at Methodist Health System, Mansfield TX. Dates not stated in the bio; no ABNS certification confirmed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "vascular/endovascular neurosurgeon, Methodist Health System, Mansfield TX",
+  "agrees_with_db": false,
+  "disagreement": "DB: 'LEFT -> outcome unknown' in input list; found: completed residency + UIC endovascular fellowship, now practising neurosurgery (agrees with phase-2 note that this is NOT attrition)",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.methodisthealthsystem.org/provider/peter-theiss-md",
+    "type": "bio",
+    "evidence": "neurosurgery residency at the University of Illinois at Chicago ... fellowship training in endovascular neurosurgery from the same university"
+   }
+  ],
+  "searches_used": 3,
+  "name": "Peter Theiss",
+  "program_id": 83
+ },
+ {
+  "key": "83:cha:pierce",
+  "identity": "probable",
+  "identity_basis": "Doximity Charles Pierce MD, University of Illinois College of Medicine class of 2020, publications with UIC neurosurgery (Engelhard) 2021 and head/neck imaging 2022; UIC radiology Class of 2026 resident 'Charles Pierce' (Miller award 2024-25 story) - name is common, hence probable",
+  "residency_stated": [
+   {
+    "institution": "University of Illinois Chicago",
+    "specialty": "diagnostic radiology",
+    "start": 2022,
+    "end": 2026
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UIC neurosurgery after PGY-1 2020-21; UIC Radiology lists Charles (Charlie) Pierce, Class of 2026, diagnostic radiology (PGY-3 in the snippet), awarded the Miller excellence award 2024-25. Doximity lists Resident Physician, Chicago, with American Board of Surgery certification listed (likely qualifying/prelim surgery credit). Radiology start year inferred from class of 2026.",
+  "year_left": 2021,
+  "destination_program": "University of Illinois Chicago diagnostic radiology",
+  "destination_start_year": 2022,
+  "current": "diagnostic radiology resident, University of Illinois Chicago",
+  "agrees_with_db": false,
+  "disagreement": "DB: left, did not complete [ambiguous name]; found probable switch to diagnostic radiology at UIC",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/charles-pierce-md-537e4fdc",
+    "type": "doximity",
+    "evidence": "Resident Physician, Chicago IL; University of Illinois College of Medicine Class of 2020; pubs: Cerebral Microdialysis ... World Neurosurgery 2021; Head and Neck Imaging 2022"
+   },
+   {
+    "url": "https://chicago.medicine.uic.edu/radiology/news-stories/celebrating-excellence-in-radiology-training-honoring-the-legacy-of-the-drs-edward-and-sheldon-miller-award-recepient-for-2024-2025-dr-charlie-pierce/",
+    "type": "search_snippet",
+    "evidence": "Dr. Charlie Pierce, Miller Award for Excellence in Postgraduate Radiology Training 2024-2025; UIC Radiology Class of 2026, Diagnostic Radiology"
+   }
+  ],
+  "searches_used": 4,
+  "name": "Charles Pierce",
+  "program_id": 83
+ }
+]

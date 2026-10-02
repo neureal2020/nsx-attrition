@@ -1,0 +1,70 @@
+
+Rush University Medical Center Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2004   Larry Shannon            -      2010-20  7   roster PGY-6 COMPLETED
+2005   Dmitry Ruban             -      2010-20  6   roster PGY-6 COMPLETED
+2005   Adam Smith               -      2010-20  6   roster PGY-6 COMPLETED [ambiguous name]
+2006   Joshua Billingsley       2012   2011-20  6   bio          COMPLETED
+2006   Ryan Zengou              2012   2011-20  6   bio          COMPLETED
+2007   Ricardo Fontes           2013   2012-20  6   bio          COMPLETED
+2007   Erwin Mangubat           2013   2012-20  6   bio          COMPLETED
+2008   Andrew Johnson           2014   2013-20  6   bio          COMPLETED [ambiguous name]
+2008   Ali Jourabchi            2014   2013-20  6   bio          COMPLETED
+2009   Robert Kellogg           2015   2014-20  6   bio          COMPLETED
+2009   David Straus             2015   2014-20  6   bio          COMPLETED
+2010   Carter Gerard            2016   2015-20  6   bio          COMPLETED
+2010   Lee Tan                  2016   2015-20  6   bio          COMPLETED
+2011   Sumeet Ahuja             2017   2016-20  6   bio          COMPLETED
+2011   Stephan Munich           2017   2016-20  6   bio          COMPLETED
+2012   Owoicho Adogwa           2018   2017-20  6   bio          COMPLETED
+2012   David Wallace            2015   2014-20  3   bio          LEFT -> TRANSFERRED (University of Texas Health Science) [ambiguous name]
+2012   Joshua Wewel             2018   2017-20  6   bio          COMPLETED
+2013   Mena Kerolus             2020   2019-20  7   bio          COMPLETED
+2013   Ryan Kochanski           2020   2019-20  7   bio          COMPLETED
+2014   Daniel Eddelman          2021   2020-20  7   bio          COMPLETED
+2014   Andre Beer Furlan        2021   2020-20  7   bio          COMPLETED
+2014   Joseph Molenda           2021   2020-20  7   bio          COMPLETED
+2015   Bledi Brahimaj           2022   2021-20  7   bio          COMPLETED
+2015   Ravi Nunna               2019   2018-20  4   bio          LEFT -> TRANSFERRED (University of Missouri-Columbia)
+2016   Shahjehan Ahmad          2023   2022-20  7   bio          COMPLETED [ambiguous name]
+2016   Ryan Khanna              2022   2021-20  6   bio          COMPLETED
+2016   Josha Woodward           2023   2022-20  7   bio          COMPLETED
+2017   David Fessler            2024   2023-20  7   bio          COMPLETED
+2017   Krishna Joshi            2024   2023-20  7   bio          COMPLETED
+2017   Andrew Wong              2024   2023-20  7   bio          COMPLETED [ambiguous name]
+2018   Adewale Bakare           2025   2024-20  7   bio          COMPLETED
+2018   Joseph Morrison          2024   2023-20  6   bio          LEFT -> did not complete [ambiguous name]
+2018   John Pearce              2025   2024-20  7   bio          COMPLETED
+2019   Bradley Kolb             2026   2025-20  7   bio          COMPLETED
+2019   John Paul Kolcun         2026   2025-20  7   bio          COMPLETED
+2020   Ryan Kelly               -      2026-20  7   roster       IN TRAINING [ambiguous name]
+2020   Jacob Mazza              -      2026-20  7   roster       IN TRAINING
+2020   Daniel Wolfson           -      2026-20  7   roster       IN TRAINING
+2021   Lucinda Chiu             -      2026-20  6   roster       IN TRAINING
+2021   Nathan Pertsch           -      2026-20  6   roster       IN TRAINING
+2022   Elsa Olson               -      2026-20  5   roster       IN TRAINING
+2022   Ayodamola Otun           2024   2023-20  2   bio          LEFT -> did not complete
+2022   Dominick Richards        -      2026-20  5   roster       IN TRAINING
+2023   Hershel Cannon           -      2026-20  4   roster       IN TRAINING
+2023   Vitor Salviato Nespoli   -      2026-20  4   roster       IN TRAINING
+2023   Roberto Varela           -      2026-20  4   roster       IN TRAINING
+2024   Mychael Delgardo         2025   2024-20  1   bio          LEFT -> did not complete
+2024   Keshav Goel              -      2026-20  3   roster       IN TRAINING
+2024   Manhal Siddiqi           -      2026-20  3   roster       IN TRAINING
+2025   Katherine Riordan        -      2026-20  2   roster       IN TRAINING [ambiguous name]
+2025   Erica Sais               -      2026-20  2   roster       IN TRAINING
+2025   Kazuki Sakakura          -      2026-20  1   roster       IN TRAINING
+2026   Caitilyn Barrett         -      2026-20  1   roster       IN TRAINING
+2026   Jerry Shepherd           -      2026-20  1   roster       IN TRAINING
+
+summary:
+    33  COMPLETED
+    17  IN TRAINING
+     3  LEFT -> did not complete
+     1  LEFT -> TRANSFERRED (University of Texas Health Science)
+     1  LEFT -> TRANSFERRED (University of Missouri-Columbia)
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

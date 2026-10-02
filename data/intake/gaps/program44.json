@@ -1,0 +1,281 @@
+{
+ "program_id": 44,
+ "name": "Medical University of South Carolina Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://academicdepartments.musc.edu/neurosciences/neurosurgery_residency/ (current_residents.html never archived)",
+   "from": "2010-07",
+   "to": "2010-07"
+  },
+  {
+   "url": "http://academicdepartments.musc.edu/neurosciences/education/neurosurgery_residency/ (Our_team/current_residents.html, Our_team/former_residents.html: no 200 captures, only later 301s)",
+   "from": "2010-11",
+   "to": "2011-11 (index only)"
+  },
+  {
+   "url": "http://academicdepartments.musc.edu/neurosciences/academics/neurosurgery_residency/our_team/current_residents.html (+ former_residents.html)",
+   "from": "2013-05 (Common Crawl) / 2014-03 (Wayback)",
+   "to": "2014-03"
+  },
+  {
+   "url": "http://academicdepartments.musc.edu/neurosciences/neurosurgery/academics/neurosurgery_residency/our_team/current_residents.html (+ alumni/, our_team/former/)",
+   "from": "2014-12",
+   "to": "2015-07"
+  },
+  {
+   "url": "http://academicdepartments.musc.edu/neurosciences/neurosurgery/academics/residency/team/current-residents.html (+ residency/alumni/)",
+   "from": "2015-08",
+   "to": "2016-01"
+  },
+  {
+   "url": "http://academicdepartments.musc.edu/neurosurgery/academics/residency/team/current-residents.html",
+   "from": "2016-07",
+   "to": "2016-07 (stale 2015-16 list)"
+  },
+  {
+   "url": "http://academicdepartments.musc.edu/neurosurgery/academics/residency/current-residents/ (+ residency/alumni/)",
+   "from": "2017-04",
+   "to": "2018-11"
+  },
+  {
+   "url": "https://medicine.musc.edu/departments/neurosurgery/academics/neurosurgery-residency/current-residents",
+   "from": "2019-09",
+   "to": "2025-11"
+  },
+  {
+   "url": "https://medicine.musc.edu/departments/neurosurgery/education/residency/residents (live; old /academics/neurosurgery-residency redirects to /education/residency)",
+   "from": "2026-04",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "PARTLY OBSERVED, partly reconstructed. Phase 2: NeuroNews (Dept of Neurosciences newsletter) Sept 2011 'Meet Our New Residents - Neurosurgery' observes the three 2011 joiners (Cheng PGY-1, Vargas Machaj PGY-1, Buchholz PGY-2, the last per his CV an MUSC gen-surg intern 2010-11). PGY-3..7 (Taylon, Lena, Kosnik, Krishna, Morgan) stay reconstructed from both-side evidence (Nov 2010/Feb 2011/June 2011 NeuroNews resident news + 2012-13 roster + alumni graduation years). The classes of 2005-2009 were 1/yr ('One resident is accepted each year', 2010 index page) and each has exactly one alumni graduate 2012-2016, so no senior could have left unseen. The one hidden person found: Yana Mikhaylov (2010 Match intern, NeuroNews May 2010; resident news Nov 2010-June 2011; absent 2012-13) -> MUSC general surgery (PGY-2 2014-15). Whether she was PGY-2 in 2011-12 is unknown; she is recorded as a departure either way (2010-11 'other' entry + training_history).",
+  "2012-2013": "Common Crawl CC-MAIN-2013-20 (2013-05-23) of academics/neurosurgery_residency/our_team/current_residents.html; no Wayback capture. Content-dated 2012-13 (Kellogg PGY-1, Krishna PGY-7).",
+  "2013-2014": "Wayback 2014-03-25; identical to CC-MAIN-2013-48 (2013-12-06, 2013-12-11).",
+  "2014-2015": "Wayback 2014-12-25.",
+  "2015-2016": "Wayback 2015-12-01 (same list 2015-07-10 .. 2016-07-02).",
+  "2016-2017": "Wayback 2017-04-29 only (no Aug-Jan capture of the new current-residents/ page); content-dated 2016-17 (Porto, Larrew PGY-1; Buchholz, Wright PGY-7).",
+  "2017-2018": "Wayback 2018-01-31 (Brogan PGY-1 present; removed by 2018-04-03).",
+  "2018-2019": "Wayback 2018-11-12.",
+  "2019-2020": "Wayback 2019-11-15 (2019-09-21 capture of the new site still carried the 2018-19 list).",
+  "2020-2021": "Wayback 2021-01-22.",
+  "2021-2022": "Wayback 2022-01-17.",
+  "2022-2023": "Wayback 2022-11-29.",
+  "2023-2024": "Wayback 2023-09-25.",
+  "2024-2025": "Wayback 2025-01-22.",
+  "2025-2026": "Wayback 2025-11-13.",
+  "2026-2027": "Live 2026-09-27, advanced vs 2025-26 with new interns Banko, Eckert."
+ },
+ "alumni_page": "https://web.archive.org/web/20181005201457/http://academicdepartments.musc.edu:80/neurosurgery/academics/residency/alumni/ (grads 1999-2017; no alumni page on medicine.musc.edu or the live site)",
+ "departures": [
+  {
+   "name": "Yana Mikhaylov",
+   "last_ay": "2010-2011 (maybe 2011-2012)",
+   "last_pgy": 1,
+   "outcome": "switched_specialty -> general surgery (MUSC Dept of Surgery PGY-2 2014-15; trauma/acute care surgeon Cape Fear Valley 2024)",
+   "note": "2010 Match (Univ of Michigan). Named in NeuroNews resident news Nov 2010, Feb 2011, June 2011; absent from 2012-13. Evidence: NeuroNews PDFs, MUSC surgery composite 2014-15, PMIDs 32856931, 38559374."
+  },
+  {
+   "name": "Ron Ron Cheng",
+   "last_ay": "2016-2017",
+   "last_pgy": 5,
+   "outcome": "switched_specialty -> urology (Virginia Mason, Seattle; 2021-22 publication affiliations PMID 33621013, 34353619)",
+   "note": "Entered 2011; PGY-4 2014-15; off the 2015-16 roster (year out), PGY-5 2016-17, gone 2017-18; not on alumni page. The adjudicator's earlier NPI 'switch' call was not used; the switch rests on publication affiliations (OpenAlex A5009321790 links his MUSC neurosurgery papers and the urology papers)."
+  },
+  {
+   "name": "Luis Liogier-Weyback",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "outcome": "unknown (left; no destination found)",
+   "note": "Entered 2014; absent from 2017-18 on; last publication 2017 (MUSC neurosurgery)."
+  },
+  {
+   "name": "David Brogan",
+   "last_ay": "2017-2018",
+   "last_pgy": 1,
+   "outcome": "unknown (left mid-year Mar-Apr 2018)",
+   "note": "On captures through 2018-03-13, removed by 2018-04-03. David M. Brogan (WashU hand surgery) is a different, senior person."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Avery Buchholz",
+   "first_ay": "2011-2012",
+   "first_pgy": 2,
+   "note": "CV (2013): MUSC general surgery intern 2010-11, MUSC neurosurgery 2011-; listed in Sept 2011 NeuroNews new residents; graduated 2017 (alumni). Internal move, not a neurosurgery transfer."
+  },
+  {
+   "name": "Zachary Wright",
+   "first_ay": "2012-2013",
+   "first_pgy": 3,
+   "note": "NeuroNews Aug 2012 'New Neurosurgery Residents: Zachary G. Wright, M.D., PGY Level 3, Columbia 2010'; bio start 2012-07-01; graduated 2017. 2010-12 whereabouts not found. Probably filled the 2010-class slot Mikhaylov left."
+  },
+  {
+   "name": "Mithun Sattur",
+   "first_ay": "2018-2019",
+   "first_pgy": 3,
+   "note": "MBBS; Mayo Clinic Arizona neurosurgery research publications 2015-2018 (not a residency); graduated 2023 (PGY-terminal roster)."
+  },
+  {
+   "name": "Jeffrey Wessell",
+   "first_ay": "2018-2019",
+   "first_pgy": 2,
+   "note": "D.O. (Nova Southeastern COM 2017); took Brogan's 2017-class slot; graduated 2024 (PGY-terminal roster)."
+  }
+ ],
+ "residents_2011plus": 32,
+ "adjudication_summary": {
+  "COMPLETED": 22,
+  "IN TRAINING": 14,
+  "LEFT -> SWITCHED SPECIALTY": 2,
+  "LEFT -> did not complete (destination unknown)": 2,
+  "note": "includes Mikhaylov (2010 entrant, boundary case)"
+ },
+ "problems": "2011-12 has no full roster anywhere; now low significance (see year_status). Alumni page stops at 2017 graduates, so 2018-2026 completions rest on PGY-7 roster listings (15 training_history rows added as 'PGY-terminal roster'). Mikhaylov is a 2010 entrant included so the adjudicator counts her departure; exclude her if the analysis is strictly 2011+ entrants.",
+ "year_status": {
+  "2010-2011": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "pre-window; kept only as a one-person 'other' entry so Mikhaylov's departure is counted"
+  },
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "PGY-1/2 joiners observed in Sept 2011 newsletter; seniors are 1/yr classes each closed by an alumni graduate; only open point is whether Mikhaylov left June 2011 or June 2012 (departure recorded either way)"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl CC-MAIN-2013-20 (2013-05-23) of academics/neurosurgery_residency/our_team/current_residents.html; no Wayback capture. Content-dated 2012-13 (Kellog"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2014-03-25; identical to CC-MAIN-2013-48 (2013-12-06, 2013-12-11)."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2014-12-25."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2015-12-01 (same list 2015-07-10 .. 2016-07-02)."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "only an April 2017 capture; content-dated 2016-17; Cheng/Liogier-Weyback last seen here and both absent from the Jan 2018 roster"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2018-01-31 (Brogan PGY-1 present; removed by 2018-04-03)."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2018-11-12."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2019-11-15 (2019-09-21 capture of the new site still carried the 2018-19 list)."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2021-01-22."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2022-01-17."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2022-11-29."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2023-09-25."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2025-01-22."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2025-11-13."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live 2026-09-27, advanced vs 2025-26 with new interns Banko, Eckert."
+  }
+ },
+ "not_program_events": "Justin Reagan (GWU program 22) and Phuong Tran (UMN program 92) trained at MUSC in radiology / radiation oncology - not neurosurgery events for program 44, nothing recorded here.",
+ "training_history_added_phase2": {
+  "graduations_PGY_terminal_roster": 15,
+  "switched_specialty": 2,
+  "left_unknown": 2,
+  "joiner_rows": "Sattur and Wessell rows carry start_year 2018 + joined PGY in notes (counted in the 15 graduations)"
+ },
+ "phase2": {
+  "searched": [
+   "all files already in data/raw/extraction/p44 incl. cc/ (2013 CC records: former_residents = graduates to 2012, no 2011-12 roster)",
+   "Wayback CDX 2010-2013 over academicdepartments.musc.edu/neurosciences, www.musc.edu/neurosciences, academicdepartments.musc.edu/neurosurgery (phase2/cdx_2010_2013.txt)",
+   "Linked pages: 2010-2011 residency index pages, Neurosciences Research Day page (2012-02), News_Events/Newsletter index (2011-11), events (2012-05)",
+   "All archived NeuroNews newsletters Feb 2010 - Mar 2014 (11 PDFs)",
+   "gapaudit 2011-2012 on GME/COM hosts (academicdepartments.musc.edu/gme, www.musc.edu/gme, /com, /neurosciences/education); GME chief-resident and committee pages",
+   "gapaudit 2011-2017 academicdepartments.musc.edu/surgery (MUSC surgery resident composites 2014-15, 2015-16)",
+   "Program resident CV PDFs (Buchholz 2013, Vargas 2011) and 2015-16 residency handbook",
+   "PubMed affiliation mining 2010-2013 ('Medical University of South Carolina' + neurosurgery/neurosciences): no unlisted neurosurgery residents",
+   "Europe PMC / OpenAlex for Mikhaylov, Cheng, Liogier-Weyback, Brogan, Wessell, Sattur",
+   "Common Crawl: only CC-MAIN-2012 covers 2011-12 and phase 1 ran it without failures; nothing to retry",
+   "crossmatch.json: no pairs involving program 44"
+  ],
+  "found": [
+   "NeuroNews Sept 2011: 2011 new neurosurgery residents Cheng, Buchholz, Vargas Machaj (observed 2011-12 PGY-1/2)",
+   "NeuroNews May 2010: 2010 Match - Yana Mikhaylov; resident news Nov 2010-June 2011; later MUSC general surgery (hidden departure, switched specialty)",
+   "NeuroNews Aug 2012: new residents Wright (PGY-3) and Kellogg (PGY-1)",
+   "Ron Ron Cheng -> urology, Virginia Mason (2021-22 affiliations)",
+   "Buchholz CV: MUSC gen-surg intern 2010-11",
+   "Sattur: Mayo Clinic Arizona research 2015-18"
+  ],
+  "remaining": [
+   "Mikhaylov's exact exit (after PGY-1 June 2011 vs after PGY-2 June 2012) - low significance, the departure itself is recorded",
+   "Destinations of Liogier-Weyback (left 2017) and Brogan (left spring 2018) unknown",
+   "Wright 2010-12 and Wessell 2017-18 prior training sites unknown"
+  ]
+ }
+}

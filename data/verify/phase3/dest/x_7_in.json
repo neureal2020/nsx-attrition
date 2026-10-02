@@ -1,0 +1,62 @@
+[
+ {
+  "key": "61:ruk:taiwo",
+  "name": "Rukayat Taiwo",
+  "program": "Stanford Health Care-Sponsored Stanford University Program",
+  "program_id": 61,
+  "recorded_outcome": "completed",
+  "prior_evidence": "[gold/g_021_out.json] {\"evidence\": \"Doximity (opened in Chrome): 'Resident Physician - St. Cloud, MN'; 1200 6th Ave N; MN State Medical License 2026-2027; WashU Medicine; no specialty or ABNS listed\", \"current\": \"unconfirmed; Doximity address St. Cloud MN (CentraCare River Campus)\", \"disagreement\": \"Completion not confirmed: no neurosurgery bio found; Doximity still titles her 'Resident Physician' and she is absent from the Stanford DURA alumni page, which lists 2025 graduates. Outcome 'completed' remains inference only.\"}",
+  "question": "Recorded completed (Stanford) but Doximity 'Resident Physician' St. Cloud MN, not on Stanford alumni. Completed NS, or switched (e.g. CentraCare St. Cloud program)?",
+  "queries_already_tried": []
+ },
+ {
+  "key": "67:mur:gathinji",
+  "name": "Muraya Gathinji",
+  "program": "UCLA David Geffen School of Medicine/UCLA Medical Center Program \u00a9 202",
+  "program_id": 67,
+  "recorded_outcome": "switched_specialty",
+  "prior_evidence": "[gold/g_023_out.json] {\"evidence\": \"Only NPI record: 'Student in an Organized Health Care Education/Training Program', 757 Westwood Plaza, Los Angeles, last updated 2009-04-20. No current bio, practice page or hospital profile found; WebMD/Vitals/Doximity 'General Surgery' listings are directory entries with only a 2008-09 UCLA transitional internship.\", \"current\": \"unknown; no evidence of practice after 2009\", \"disagreement\": \"No evidence found that he practises general surgery; the 'general surgeon' label comes only from aggregator directories, and NPI was never updated from trainee status after 2009. Outcome may be left_medicine/unknown rather than switched_specialty.\"}",
+  "question": "Recorded switched to general surgery (UCLA) via directories only. Confirm current role/specialty or left medicine.",
+  "queries_already_tried": []
+ },
+ {
+  "key": "69:hus:shallwani",
+  "name": "Hussain Shallwani",
+  "program": "University at Buffalo Program",
+  "program_id": 69,
+  "recorded_outcome": "completed",
+  "prior_evidence": "[gold/g_024_out.json] {\"evidence\": \"Doximity (opened in Chrome): 'University at Buffalo, Residency, Neurological Surgery, 2018 - 2025'; 'University at Buffalo, Stereotactic and Functional Neurosurgery, 2025 - 2026'; header 'Resident Physician, Binghamton, NY'; also lists 'Allegheny Health Network ... Residency, Neurology, 2023 - 2026' (overlaps UB residency, likely erroneous). No ABNS line. No current faculty/practice bio found in 4 searches.\", \"current\": \"unknown post-fellowship role; Doximity header Binghamton NY (169 Riverside Dr)\", \"disagreement\": \"No bio confirming current neurosurgery practice; Doximity's AHN neurology residency 2023-2026 entry conflicts with UB neurosurgery 2018-2025 and is unexplained. Completion supported only by Doximity + UB fellow listing.\"}",
+  "question": "Recorded completed Buffalo 2025 + functional fellowship 2025-26; Doximity also lists AHN neurology residency 2023-26. Which is true? Find current bio / fellowship page.",
+  "queries_already_tried": []
+ },
+ {
+  "key": "72:and:marrero",
+  "name": "Andres Monserrate Marrero",
+  "program": "University of Arizona College of Medicine- Tucson Program",
+  "program_id": 72,
+  "recorded_outcome": "completed",
+  "prior_evidence": "[gold/g_025_out.json] {\"evidence\": \"Doximity (opened in Chrome): 'General Surgery - Pittsburgh, PA'; 'University of Arizona College of Medicine-Tucson Residency, Neurological Surgery, 2021 - 2024'; 'PR State Medical License 2024 - 2026'; no ABNS listed. UA neurosurgery profile URL now 404; LinkedIn snippet still says 'Neurosurgery Resident - University of Arizona'.\", \"current\": \"unknown (no current practice bio; Doximity lists Pittsburgh PA address, PR license)\", \"disagreement\": \"No external evidence he practises neurosurgery; Doximity specialty label is General Surgery with no board cert. Completion at Arizona not externally confirmed (only Doximity residency dates ending 2024).\"}",
+  "question": "Recorded completed (Arizona) but Doximity general surgery Pittsburgh, NS 2021-24 only, UA profile 404. Completed, transferred, or switched?",
+  "queries_already_tried": []
+ },
+ {
+  "key": "74:mar:mathews",
+  "name": "Marlon Mathews",
+  "program": "University of California (Irvine) Program",
+  "program_id": 74,
+  "recorded_outcome": "unknown",
+  "prior_evidence": "[gold/g_025_out.json] {\"evidence\": \"Doximity (opened in Chrome): 'Family Medicine - Palm Springs, CA; Sports Medicine (Non-Surgical)'; 'University of California (Irvine) Residency, Neurological Surgery, 2010 - 2016'; Buffalo NS residency 2008-2010; no ABNS listed. UCI neurosurgery alumni page (opened) does NOT list him (Class of 2016: Daniela Alexandru, Amandip S. Gill only).\", \"current\": \"family/sports medicine physician, Palm Springs CA\", \"disagreement\": \"Input says completed. No evidence he completed UCI neurosurgery: absent from UCI alumni list, no ABNS certification, now practises non-surgical family/sports medicine. Possible attrition (left NS residency ~2016, switched to family/sports medicine); needs review.\"}",
+  "question": "Recorded completed UCI 2016 but not on UCI alumni; Doximity FM/sports med Palm Springs. Did he complete NS (maybe elsewhere) or switch?",
+  "queries_already_tried": []
+ },
+ {
+  "key": "93:ale:clark",
+  "name": "Alec C. Clark",
+  "program": "University of Mississippi Medical Center Program \u00a9 2026 Accreditation ",
+  "program_id": 93,
+  "recorded_outcome": "unknown",
+  "prior_evidence": "[ident/i_17_out.json] {\"outcome_detail\": \"Left UMMC neurosurgery after 2024-25 (PGY-2): absent from live UMMC current-residents page (2026-27, fetched 2026-09-29) and his resident profile URL now shows the list without him. Doximity now shows generic 'Resident Physician', 15048 14th St Dade City FL, no program or specialty; MS license ends 2026. Destination program/specialty not found, so the prior 'switched_specialty' call is not verified. Did not complete UMMC neurosurgery; no evidence of a transfer to another neurosurgery program.\", \"current\": \"Resident physician (program/specialty unknown), Dade City FL address per Doximity\", \"disagreement\": \"DB 'LEFT -> did not complete' consistent; destination unresolved (prior phase-3 said switched_specialty without naming specialty).\"}",
+  "question": "Left UMMC NS after PGY-2 (2024-25). Where did he go?",
+  "queries_already_tried": []
+ }
+]

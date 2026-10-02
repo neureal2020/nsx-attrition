@@ -1,0 +1,290 @@
+{
+ "program_id": 119,
+ "name": "Wake Forest University Baptist Medical Center Program (Winston-Salem, NC)",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "https://www1.wfubmc.edu/neurosurgery/Education/Residency/ (+ per-resident pages, profiles.htm)",
+   "from": "2009-01",
+   "to": "2009-11 (pre-window)"
+  },
+  {
+   "url": "http://www.wfubmc.edu/School/Neurosurgery/Resident-Profiles.htm",
+   "from": "2009-10",
+   "to": "2010-07 (last Wayback capture; 2009-10 roster)"
+  },
+  {
+   "url": "http://www.wakehealth.edu/School/Neurosurgery/Resident-Profiles.htm",
+   "from": "2011 (linked from 2011-08)",
+   "to": "2014-09 (Common Crawl only; 0 Wayback captures)"
+  },
+  {
+   "url": "http://www.wakehealth.edu/neurosurgery/education/residency/ (program text, links to roster; also /School/Neurosurgery/Neurosurgery-Residency.htm)",
+   "from": "2011-07",
+   "to": "2018-07 (404 by 2024)"
+  },
+  {
+   "url": "http://www.wakehealth.edu/School/Neurosurgery/Current-Neurosurgery-Residents.htm",
+   "from": "2014-09",
+   "to": "2018-06 (301 from 2018-07-29)"
+  },
+  {
+   "url": "https://school.wakehealth.edu/Education-and-Training/Residencies-and-Fellowships/Neurosurgery-Residency (alumni 'Where Are They Now?')",
+   "from": "2018-09",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://school.wakehealth.edu/education-and-training/residencies-and-fellowships/neurosurgery-residency/current-residents (Coveo-JS roster)",
+   "from": "2020-05",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://school.wakehealth.edu/residents-and-fellows/<initial>/<slug> (individual resident profiles, show 'Neurological Surgery Residency, PGY-n')",
+   "from": "2019-12",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://school.wakehealth.edu/Departments/Neurosurgery",
+   "from": "2019-08",
+   "to": "live"
+  },
+  {
+   "url": "https://school.wakehealth.edu/-/media/WakeForest/School/Files/Education-and-Training/Residencies-and-Fellowships/Neurosurgery-Residency/NEUROLOGICAL-SURGERY-RESIDENTS-2019-2020.pdf (full roster PDF, 'Class of' years)",
+   "from": "2019-09",
+   "to": "2019-09 (single Wayback capture)"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2018-2019"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Observed via Common Crawl CC-MAIN-2012 (2012-02-10) of wakehealth.edu/School/Neurosurgery/Resident-Profiles.htm ('Last Updated 1/10/2012'); Wayback never captured this URL. Full 12-name roster, 6-year program, 'Co-Chiefs' = PGY-6.",
+  "2012-2013": "Observed via CC-MAIN-2013-20 (2013-05-20) Resident-Profiles.htm, 'Last Updated 02-12-2013', content 2012-13 (Mathes/Wicks PGY-1). No Aug-Jan capture in Wayback or CC (CC-MAIN-2012 Feb/May 2012 = 2011-12 list).",
+  "2013-2014": "Observed via CC-MAIN-2014-10 (2014-03-11) Resident-Profiles.htm, 'Last Updated 09-05-2013'; same list through CC 2014-09.",
+  "2014-2015": "Observed via CC-MAIN-2014-42 (2014-10-20) Current-Neurosurgery-Residents.htm 'Neurosurgery Residents 2014-2015'; identical in Wayback 2015-02..04.",
+  "2015-2016": "Wayback 2015-10-22. Full roster; note no PGY-5 group (Dagostino/Patel gone).",
+  "2016-2017": "Wayback 2016-10-04. Full roster (Mathes/Wicks labelled 'PGY-5 CO-CHIEFS'; no PGY-6 that year).",
+  "2017-2018": "Wayback 2017-10-17; page title still '2016-2017' but content is 2017-18 (all advanced one PGY, Coffman/Williams PGY-1).",
+  "2018-2019": "Still no roster: wakehealth.edu Current-Neurosurgery-Residents.htm last 200 on 2018-06-28 (2017-18 content), 301 from 2018-07-29; the school.wakehealth.edu residency page (CC 2018-09..2019-06) has no roster or roster link; Wayback captured nothing on school.wakehealth.edu/Education-and-Training before 2019-06 (gapaudit 2018-06..2019-12 over Education-and-Training, Departments, -/media, www.wakehealth.edu/School, News-Releases, Stories, newsroom); the -/media/.../Neurosurgery-Residency/ folder holds only the 2019-20 roster PDF (Wayback and CC 2018-2020, 0 CC records); CC-MAIN-2018-22 retried (0 records); profile pages did not exist yet (CC 2019-04/2019-09 retried: 0 profile records). RECONSTRUCTED (12): the 10 residents bracketed by the full 2017-18 roster and the full Sep-2019 roster PDF, plus Oravec and T. Wilson as PGY-1 ('Class of 2025', PGY-2 on the 2019-20 PDF). James West not reconstructed (absent from the 2019-20 PDF; e-mail evidence points to leaving June 2018).",
+  "2019-2020": "OBSERVED from a full roster PDF 'NEUROLOGICAL SURGERY RESIDENCY 2019 - 2020' (Wayback 2019-09-24; found in phase 2 via gapaudit of the -/media folder): 14 residents grouped Interns/Junior/Senior/Chief with 'Class of' year. Identical to the 14 people assembled from the Dec-2019 profile pages in phase 1 (which it replaces).",
+  "2020-2021": "Assembled from profile pages (Wayback monthly sweeps 2020-05..2021-10 + CC). 13 residents. Phase 2: CC index failures retried (CC-MAIN-2020-16: 508 profile records, CC-MAIN-2024-51: 135) - no unidentified slug; all ~2,485 archived profile slugs are identified (2 non-neurosurgery leftovers: delacruz = 2026 MD, not on the 2026-27 neurosurgery roster; miya-antonio-alfonso = 404).",
+  "2021-2022": "Assembled from profile pages (Wayback/CC Oct 2021). 14 residents. Omar Ashraf also appears under a glitched slug a/omar-elizabeth-mickalis (title 'Omar Ashraf, DO, MD') - merged. Phase 2: CC index failures retried (CC-MAIN-2020-16: 508 profile records, CC-MAIN-2024-51: 135) - no unidentified slug; all ~2,485 archived profile slugs are identified (2 non-neurosurgery leftovers: delacruz = 2026 MD, not on the 2026-27 neurosurgery roster; miya-antonio-alfonso = 404).",
+  "2022-2023": "Assembled from profile pages (Wayback/CC Aug 2022). 14 residents. Phase 2: CC index failures retried (CC-MAIN-2020-16: 508 profile records, CC-MAIN-2024-51: 135) - no unidentified slug; all ~2,485 archived profile slugs are identified (2 non-neurosurgery leftovers: delacruz = 2026 MD, not on the 2026-27 neurosurgery roster; miya-antonio-alfonso = 404).",
+  "2023-2024": "Assembled from profile pages (CC Sep-Dec 2023). 14 residents. Phase 2: CC index failures retried (CC-MAIN-2020-16: 508 profile records, CC-MAIN-2024-51: 135) - no unidentified slug; all ~2,485 archived profile slugs are identified (2 non-neurosurgery leftovers: delacruz = 2026 MD, not on the 2026-27 neurosurgery roster; miya-antonio-alfonso = 404).",
+  "2024-2025": "Assembled from profile pages (CC Jul 2024-Jun 2025; Wayback captures sporadic). 14 residents. Venkataraman's Nov-2024 profile still said PGY-5 (unchanged from 2023-24); used the June-2025 capture (PGY-6), consistent with projected graduation 2026. Phase 2: CC index failures retried (CC-MAIN-2020-16: 508 profile records, CC-MAIN-2024-51: 135) - no unidentified slug; all ~2,485 archived profile slugs are identified (2 non-neurosurgery leftovers: delacruz = 2026 MD, not on the 2026-27 neurosurgery roster; miya-antonio-alfonso = 404).",
+  "2025-2026": "Assembled from profile pages (CC Aug 2025-Feb 2026). 14 residents. Kristen Pawlowski has no profile capture after 2024-10-11, so her 2025-26 status is unobserved. Phase 2: CC index failures retried (CC-MAIN-2020-16: 508 profile records, CC-MAIN-2024-51: 135) - no unidentified slug; all ~2,485 archived profile slugs are identified (2 non-neurosurgery leftovers: delacruz = 2026 MD, not on the 2026-27 neurosurgery roster; miya-antonio-alfonso = 404).",
+  "2026-2027": "Live page 2026-09-27 via its own Coveo search API (public token in page source): 15 residents, PGYs advanced vs 2025-26 and 3 new PGY-1s."
+ },
+ "alumni_page": "https://school.wakehealth.edu/education-and-training/residencies-and-fellowships/neurosurgery-residency",
+ "departures": [
+  {
+   "name": "Phillip Dagostino",
+   "last_ay": "2014-2015",
+   "last_pgy": 4,
+   "note": "left after PGY-4 (absent from full 2015-16 roster); destination unknown; training_history th 3285"
+  },
+  {
+   "name": "Chetak Patel",
+   "last_ay": "2014-2015",
+   "last_pgy": 4,
+   "note": "left after PGY-4 with Dagostino; destination unknown; th 3286"
+  },
+  {
+   "name": "Taylor Wilson",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "note": "TRANSFERRED to UAMS (program 73), PGY-4 there 2017-18 (then left UAMS mid-2018-19, recorded by program 73); th 3283"
+  },
+  {
+   "name": "James West",
+   "last_ay": "2017-2018",
+   "last_pgy": 4,
+   "note": "absent from the full 2019-20 roster PDF and alumni list; wakehealth e-mail on a paper received Jun 2018, gmail by Nov 2018 -> most likely left June 2018; later affiliations Loma Linda (2020) and Mayo Jacksonville (2021), on neither program's resident roster; destination unknown; th 3284"
+  },
+  {
+   "name": "Kristen Pawlowski",
+   "last_ay": "2024-2025",
+   "last_pgy": 2,
+   "note": "profile last seen 2024-10-11, absent from all later crawls (slug 301); not on 2026-27 roster; destination unknown (NPI switch not used as evidence); th 3287"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Hector Soriano-Baron",
+   "first_ay": "2015-2016",
+   "first_pgy": 3,
+   "note": "UNAM MD 2005, Barrow research fellow before joining; finished off-cycle ('Class of 2019' but chief in fall 2019), th 3288"
+  },
+  {
+   "name": "Taylor Wilson",
+   "first_ay": "2015-2016",
+   "first_pgy": 2,
+   "note": "NYU MD; origin program not identified"
+  }
+ ],
+ "residents_2011plus": 36,
+ "adjudication_summary": {
+  "COMPLETED": 26,
+  "IN TRAINING": 15,
+  "LEFT -> did not complete": 4,
+  "LEFT -> TRANSFERRED": 1,
+  "notes": "Amponsah and Cochran now COMPLETED 2012 (2018 'Recent Graduates' list). Leavers: Dagostino, Patel, West, Pawlowski (unknown destination); Taylor Wilson transferred to UAMS."
+ },
+ "problems": "No outstanding Common Crawl failures (all phase-1 failures retried successfully in phase 2). U Michigan neurology site returned 403 (not bypassed). 2020-26 remain assembled from per-resident profile pages (low risk).",
+ "terminal_pgy_by_entry_year": {
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster page"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster page"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster page"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster page"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster page"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster page"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster page"
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "bracketed by full 2017-18 and 2019-20 rosters; the 2018 class (Oravec, T. Wilson) fills the 2-slot complement; only an in-and-out joiner or a third intern who left within the year could be missed; PubMed WF-neurosurgery authors 2018-19 show no unexplained trainee"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster PDF (Sep 2019)"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "assembled from per-resident profiles; every class at complement and continuous between the full 2019-20 and 2026-27 rosters (13 = West's empty slot)"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "assembled from per-resident profiles; classes at complement"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "assembled from per-resident profiles; classes at complement"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "assembled from per-resident profiles; classes at complement"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "assembled from per-resident profiles; classes at complement"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "assembled from per-resident profiles; only Pawlowski's slot empty (she left 2024-25), 3 interns match the 2026-27 live roster"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live roster (Coveo API)"
+  }
+ },
+ "alumni_conflicts": {
+  "Teddy Kim": "alumni page 2023 -> corrected to 2022 (roster PDF Class of 2022, profile 'Projected Graduation Date: 2022', PGY-7 2021-22, gone after May 2022)",
+  "Carl Nechtman": "same as Kim, corrected to 2022",
+  "Hector Soriano-Baron": "alumni page 2019 kept: roster PDF also says Class of 2019; he was still chief in Sep-Dec 2019 (off-cycle finish ~Dec 2019, Hopkins spine fellowship by 2020)"
+ },
+ "phase2": {
+  "searched": [
+   "phase-1 raw folders (cc/, cc2/) re-read: cc2 2018-06 residents page has a 'Recent Graduates' list naming Cochran and Amponsah (2012)",
+   "gapaudit 2018-06..2019-12 over school.wakehealth.edu Education-and-Training, Departments, -/media; www.wakehealth.edu School, News-Releases, Stories; newsroom.wakehealth.edu",
+   "Wayback CDX prefix of the neurosurgery -/media folder (found the 2019-20 roster PDF)",
+   "link audit of every CC copy of the residency page 2018-09..2019-12 (no roster link)",
+   "Common Crawl retries: CC-MAIN-2018-22 (old host), 2019-18 and 2019-51 (residency prefix), profile prefix 2019-04, 2019-09, 2020-16, 2024-51 - all succeeded; media prefix all 2018-2020 crawls",
+   "PubMed author histories: West, Soriano-Baron, Pawlowski, Dagostino, C. Patel; WF-neurosurgery affiliation authors 2016-2026",
+   "crossmatch.json: Taylor Wilson -> UAMS confirmed; Patel candidates (Hiren, Nitesh) rejected",
+   "Loma Linda (31) and Mayo Jacksonville (38) rosters checked for West (absent)",
+   "U Michigan neurology residents page for Pawlowski: 403 bot block, not bypassed"
+  ],
+  "found": [
+   "2019-20 full roster PDF (replaces 14 profile entries)",
+   "Kim/Nechtman graduation 2022 (alumni page wrong)",
+   "Soriano-Baron off-cycle finish (Class of 2019, chief fall 2019)",
+   "Amponsah and Cochran graduated 2012",
+   "2018 entrants Oravec and T. Wilson confirmed by 'Class of 2025'",
+   "West most likely left June 2018"
+  ],
+  "remaining": [
+   "2018-19 still has no roster (low significance)",
+   "destinations of Dagostino, Patel, West, Pawlowski unknown",
+   "Taylor Wilson's pre-2015 origin (joined PGY-2) not identified"
+  ]
+ }
+}

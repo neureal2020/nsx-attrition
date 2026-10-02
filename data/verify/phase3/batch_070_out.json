@@ -1,0 +1,1092 @@
+[
+ {
+  "key": "52:eri:brown",
+  "name": "Erik Brown",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wayne State MD 2015, OHSU residency 2015-2022, ABNS; OHSU alumni page 2022 'Erik Brown, M.D., Ph.D.'; PGY1 2015-16 fits MD 2015",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed OHSU neurosurgery 2022; pediatric neurosurgery fellowship Nicklaus Children's/Univ of Miami 2022-23",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon (epilepsy), Kaiser Permanente Los Angeles",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/erik-brown-md",
+    "type": "doximity",
+    "evidence": "OHSU Hospital Residency, 2015 - 2022; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Erik Brown, M.D., Ph.D. under 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:seo:moon",
+  "name": "Seong-Jin Moon",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "AdventHealth/search snippet: MD Univ of Illinois, residency at OHSU; Doximity MD Univ Illinois Class of 2015 (fits PGY1 2015); OHSU alumni 2022",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at OHSU (alumni 2022). Sources reviewed do not mention the Wayne State transfer-in; Doximity lists no residency.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, AdventHealth Palm Coast, FL (board eligible per bio)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.adventhealth.com/doctors/seong-jin-moon-md-1154717528",
+    "type": "search_snippet",
+    "evidence": "completed his residency at the Oregon Health and Science University in Portland, Oregon"
+   },
+   {
+    "url": "https://www.doximity.com/pub/seong-jin-moon-md",
+    "type": "doximity",
+    "evidence": "University of Illinois College of Medicine, Class of 2015"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Seong-Jin Moon, M.D. under 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:dav:mazur-hart",
+  "name": "David Mazur-Hart",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU faculty bio + Doximity: OHSU residency 2016-2023, EVMS MD 2016",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023; spine fellowship UCSF 2023-24",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor neurological surgery, OHSU / neurosurgeon Hillsboro OR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-mazur-hart-md",
+    "type": "doximity",
+    "evidence": "OHSU Residency, Neurological Surgery, 2016 - 2023; UCSF Fellowship 2023-2024"
+   },
+   {
+    "url": "https://www.ohsu.edu/providers/david-mazur-hart-md-ms",
+    "type": "bio",
+    "evidence": "completed neurological surgery residency at OHSU (search snippet)"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists David Mazur-Hart, M.D. under 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:eri:larson",
+  "name": "Erik Larson",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: OHSU residency 2016-2023, UW MD 2016; Kootenai Health practice; OHSU alumni 2023",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023; practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Kootenai Health, Coeur d'Alene ID",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/erik-larson-md",
+    "type": "doximity",
+    "evidence": "OHSU Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://www.kh.org/provider/erik-larson/",
+    "type": "bio",
+    "evidence": "Kootenai Health neurosurgeon (search result)"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Erik Larson, M.D. under 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:nas:yaghi",
+  "name": "Nasser Yaghi",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: OHSU residency 2016-2023, Baylor MD 2016; UMich bio; OHSU alumni 2023",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023; neurosurgical oncology fellowship Barrow (Sanai)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Clinical Asst Prof & Director Neurosurgical Oncology, Univ of Michigan Health-Sparrow, Lansing",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/nasser-yaghi-md",
+    "type": "doximity",
+    "evidence": "OHSU Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://www.uofmhealth.org/profile/1114381431/nasser-khaled-yaghi",
+    "type": "bio",
+    "evidence": "completed Neurosurgery residency at OHSU; fellowship Barrow (search snippet)"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Nasser Yaghi, M.D. under 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:dom:siler",
+  "name": "Dominic Siler",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/snippet: OHSU MD 2016, OHSU neurosurgery residency 2024, UW fellowship; OHSU news 2017 simulator; alumni 2024",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2024; neurotrauma/neurocritical care fellowship UW/Harborview 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor neurosurgery, Univ of Wisconsin-Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dominic-siler-md",
+    "type": "doximity",
+    "evidence": "Assistant Professor, University of Wisconsin-Madison; OHSU School of Medicine Class of 2016"
+   },
+   {
+    "url": "https://www.doximity.com/pub/dominic-siler-md",
+    "type": "search_snippet",
+    "evidence": "completed his Neurosurgery residency there in 2024 ... fellowship in Neurotrauma & Neurocritical Care at University of Washington in 2025"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Dominic Siler, M.D., Ph.D. under 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:min:ross",
+  "name": "Miner Ross",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "MU Health page: residency neurosurgery at OHSU, NYMC MD; Doximity NYMC 2017 with OR license 2017-2024; alumni 2024",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2024; cerebrovascular/skull base fellowship Univ of Wisconsin",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor neurosurgery, Univ of Missouri / MU Health Care, Columbia MO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://crmc.org/doctors/miner-ross-md",
+    "type": "bio",
+    "evidence": "Residency: Neurosurgery at Oregon Health & Science University-OHSU GME; Fellowship Cerebrovascular & Skull Base, Univ of Wisconsin"
+   },
+   {
+    "url": "https://www.doximity.com/pub/miner-ross-md",
+    "type": "doximity",
+    "evidence": "New York Medical College Class of 2017; OR license 2017-2024"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Miner Ross, M.D. under 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:ste:bowden",
+  "name": "Stephen Bowden",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU provider page/snippet: OHSU residency 2024, MSK fellowship 2025, Columbia MD; Doximity Portland; alumni 2024",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2024; neurosurgical oncology fellowship MSK 2025; now OHSU neurosurgeon. Doximity certifications oddly lists ABR Diagnostic Radiology (likely data noise).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (brain and spine tumors), OHSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/providers/stephen-bowden-md",
+    "type": "bio",
+    "evidence": "residency in Neurological Surgery at OHSU in 2024, fellowship Neurosurgical Oncology at MSK 2025 (search snippet)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/stephen-bowden-md-8aa933a5",
+    "type": "doximity",
+    "evidence": "Columbia Vagelos Class of 2016; Neurosurgical Oncology Fellow MSK"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Stephen Bowden, M.D. under 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:ale:mantovani",
+  "name": "Alessandra Mantovani",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "SIU bio + Doximity (Modena MD 2007, OR license); alumni 2023",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Foreign-trained (Univ of Modena neurosurgery); joined OHSU 2018 with advanced standing, completed 2023 per alumni page; fellowships Florida, Stanford. Consistent with DB joiner note.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor & Associate Program Director neurosurgery, SIU Medicine, Springfield IL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.siumed.edu/alessandra-mantovani",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency in Italy (Modena) and at OHSU (search snippet)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alessandra-mantovani-md",
+    "type": "doximity",
+    "evidence": "University of Modena Class of 2007; OR license 2022"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Alessandra Mantovani, M.D. under 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:ali:rae",
+  "name": "Ali Rae",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Brown MD 2018, OHSU residency 2018-2025; alumni 2025",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2025; MSK neurosurgical oncology fellowship",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "attending neurosurgical oncologist, UCHealth, Loveland CO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ali-rae-md",
+    "type": "doximity",
+    "evidence": "OHSU Residency, Neurological Surgery, 2018 - 2025; attending neurosurgical oncologist UCHealth"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Ali Rae, M.D. under 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:bra:neill",
+  "name": "Brannan O'Neill",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "Albany Med bio: OHSU residency, Tulane MD 2018; OHSU-nominated Leach award; alumni 2025. Doximity profile is thin (Other MD/DO, Tulane 2018).",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2025; pediatric neurosurgery fellowship Children's National 2025-26",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor pediatric/adult neurosurgery, Albany Medical Center (fellowship completing 2026)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.albanymed.org/physician/brannan-oneill/",
+    "type": "bio",
+    "evidence": "Residency: Neurosurgery (completing 2025) at Oregon Health & Science University"
+   },
+   {
+    "url": "https://www.doximity.com/pub/brannan-o-neill-md",
+    "type": "doximity",
+    "evidence": "Tulane University School of Medicine, Class of 2018 (specialty listed Other MD/DO)"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Brannan O'Neill, M.D. under 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:dan:munger",
+  "name": "Daniel Munger",
+  "program_id": 52,
+  "identity": "probable",
+  "identity_basis": "Only OHSU sources: alumni page 2025 and 2023-24 roster PGY7 chief (per search summary); no external bio/profile found",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as OHSU alumnus 2025; no post-residency position found",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/neurological-surgery-residency-program-alumni",
+    "type": "program_page",
+    "evidence": "OHSU alumni page lists Daniel Munger, M.D. under 2025"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "Munger absent from 2026-27 current residents"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "52:chr:ramos",
+  "name": "Christian Lopez Ramos",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU roster 2025-26 chief PGY7 (Class 2026); UCSD MD 2019 matches PGY1 2019; OHSU resident profile",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Chief resident 2025-26; absent from 2026-27 current-residents page (graduating class of 2026). No post-training position found, so completion inferred, not directly confirmed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown (post-residency position not found)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/sites/default/files/2025-07/Neurosurgery%20Resident%20and%20Fellow%20Roster%202025-26.pdf",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery Residents and Fellows 2025-26 Class of 2026 (Chief) PGY7 (search result; Lopez Ramos listed as chief)"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "Lopez Ramos not on 2026-27 resident list"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "52:eri:yamamoto",
+  "name": "Erin Yamamoto",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU resident profile: Case Western MD/MS 2019 (matches PGY1 2019); Doximity Cleveland Clinic Lerner/CWRU 2019 (no residency listed)",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Chief 2025-26 per DB; absent from 2026-27 current-residents page. One search snippet described her as PGY6/class of 2027 in 2025-26, which conflicts with DB (PGY7 2025-26); completion not directly confirmed, no post-training position found.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/erin-yamamoto-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Lerner College of Medicine Class of 2019 (no residency listed)"
+   },
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "Yamamoto not on 2026-27 resident list"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "52:mar:shahin",
+  "name": "Maryam Shahin",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "Search snippets: OHSU neurosurgery class of 2026, Wright State MD 2019, Northwestern fellow/Instructor Neurological Surgery. Doximity profile (Family Medicine, Adventist LaGrange 2020-23, Wright State 2018) conflicts with neurosurgery training and appears mismatched.",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed OHSU class of 2026; Northwestern spine fellow / instructor",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Instructor Neurological Surgery (spine fellow), Northwestern, Chicago",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=71542",
+    "type": "bio",
+    "evidence": "Instructor, Neurological Surgery, Northwestern Feinberg"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-maryam-shahin-tun66qn582",
+    "type": "search_snippet",
+    "evidence": "completed OHSU Neurological Surgery residency in the graduating class of 2026 and went on to a fellowship at Northwestern"
+   },
+   {
+    "url": "https://www.doximity.com/pub/maryam-shahin-md",
+    "type": "doximity",
+    "evidence": "Residency, Family Medicine, Adventist LaGrange 2020-2023 (conflicts; likely mismatch)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "52:cha:leeuw",
+  "name": "Charles de Leeuw",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU roster + Doximity OHSU 2020-2027, Case Western MD 2020",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY7 chief 2026-27 on OHSU current residents page; Doximity residency 2020-2027",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "chief resident, OHSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-7 (Chief) Charles de Leeuw, M.D., M.S., Ph.D."
+   },
+   {
+    "url": "https://www.doximity.com/pub/charles-de-leeuw-md",
+    "type": "doximity",
+    "evidence": "OHSU Residency 2020 - 2027"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:mat:mcintyre",
+  "name": "Matt McIntyre",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU roster + Doximity (Matthew McIntyre, OHSU, NYMC 2020)",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY7 chief 2026-27; Doximity 2020-2027; NYMC MD 2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "chief resident, OHSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-7 (Chief) Matt McIntyre, M.D."
+   },
+   {
+    "url": "https://www.doximity.com/pub/matthew-mcintyre-md-e0bccf56",
+    "type": "doximity",
+    "evidence": "OHSU Residency 2020 - 2027"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "52:pax:gehling",
+  "name": "Paxton Gehling",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU roster + OHSU MD/Willamette BA bio in search snippet",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY7 chief 2026-27; MD OHSU; Doximity profile not found",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "chief resident, OHSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-7 (Chief) Paxton Gehling, M.D., M.P.H."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:chr:gerges",
+  "name": "Christina Gerges",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU roster + Doximity (CWRU 2021, OHSU address)",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY6 senior 2026-27; CWRU MD 2021; Doximity 'Resident Physician' Portland OR",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "senior resident, OHSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-6 (Senior) Christina Gerges, M.D."
+   },
+   {
+    "url": "https://www.doximity.com/pub/christina-gerges-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Portland OR; Case Western Class of 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:mic:rothbaum",
+  "name": "Michael Rothbaum",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU roster + Doximity OHSU 2021-2028, NYMC 2021",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY6 2026-27; Doximity residency 2021-2028",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "senior resident, OHSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-6 (Senior) Michael Rothbaum, M.D., M.S.Ed."
+   },
+   {
+    "url": "https://www.doximity.com/pub/michael-rothbaum-md-d8a55aa7",
+    "type": "doximity",
+    "evidence": "OHSU Residency 2021 - 2028"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:yas:elsawaf",
+  "name": "Yasmeen Elsawaf",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU roster + Doximity resident physician Portland, UCF 2021",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY6 senior 2026-27; UCF MD 2021",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "senior resident, OHSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-6 (Senior) Yasmeen Elsawaf, M.D."
+   },
+   {
+    "url": "https://www.doximity.com/pub/yasmeen-elsawaf-md-413a6e4e",
+    "type": "doximity",
+    "evidence": "Resident Physician Portland OR; UCF College of Medicine 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:bar:cheaney",
+  "name": "Barry Cheaney",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU roster (Barry Cheaney II) + OHSU bio in search snippet",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY5 (research year) 2026-27; OHSU MD",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident (research year), OHSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-5 (Research Year) Barry Cheaney II, M.D."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:jor:smith",
+  "name": "Jordan Smith",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU roster + Doximity (OHSU 2022-2029, UMass 2022) + UMass MD/PhD bio",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY5 research year 2026-27; MD/PhD UMass 2022; Doximity OHSU residency 2022-2029. Doximity also lists ABIM internal medicine/palliative certifications (belongs to a namesake; ignore).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident (research year), OHSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-5 (Research Year) Jordan Smith, M.D., Ph.D."
+   },
+   {
+    "url": "https://www.doximity.com/pub/jordan-smith-md-ab58b29e",
+    "type": "doximity",
+    "evidence": "OHSU Residency 2022 - 2029; UMass Medical School Class of 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:pet:cruz-gordillo",
+  "name": "Peter Cruz-Gordillo",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "UMass Chan news (matched neurosurgery at OHSU 2022) + OHSU roster",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY5 research year 2026-27; UMass MD/PhD matched OHSU neurosurgery Match Day 2022; Doximity not found (search returned only a namesake pharmacist)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident (research year), OHSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-5 (Research Year) Peter Cruz-Gordillo, M.D., Ph.D."
+   },
+   {
+    "url": "https://www.umassmed.edu/news/news-archives/2022/03/mdphd-candidate-peter-cruz-gordillo-matches-into-neurosurgery-residency-on-match-day-2022/",
+    "type": "news",
+    "evidence": "matched into his first choice as a neurosurgery resident at OHSU on Match Day 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "52:jac:greisman",
+  "name": "Jacob Greisman",
+  "program_id": 52,
+  "identity": "confirmed",
+  "identity_basis": "OHSU roster bio (NYMC, Tulane intern year) + Doximity",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University (OHSU Health)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY4 2026-27 per OHSU page. Doximity: NYMC 2023, internship Tulane/Ochsner 2023-24, research fellow Buffalo 2024-25, OHSU residency 2025-2031. DB says transfer in at PGY2 during 2024-25; Doximity suggests OHSU categorical start 2025 after a Buffalo research year. Date discrepancy only; outcome unaffected.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident, OHSU",
+  "agrees_with_db": true,
+  "disagreement": "Entry timing: Doximity gives OHSU residency start 2025 (Buffalo research 2024-25) vs DB first seen 2024-25 as PGY2",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-4 Jacob Greisman: Intern Year: Tulane University Neurosurgery/General Surgery"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jacob-greisman-md",
+    "type": "doximity",
+    "evidence": "OHSU Residency 2025 - 2031; Spine Research Fellow at University at Buffalo 2024 - 2025"
+   }
+  ],
+  "searches_used": 2
+ }
+]

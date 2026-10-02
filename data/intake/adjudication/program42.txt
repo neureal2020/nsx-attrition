@@ -1,0 +1,40 @@
+
+Medical College of Georgia Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2005   Ahmed Shakir             -      2010-20  6   roster PGY-6 COMPLETED
+2006   Douglas Hughes           2013   2012-20  6   bio          COMPLETED [ambiguous name]
+2006   Patrick Youssef          2012   2011-20  6   bio          COMPLETED
+2007   David Wang               2014   2013-20  7   bio          COMPLETED [ambiguous name]
+2008   Basheer Shakir           2015   2014-20  7   bio          COMPLETED
+2009   Neil Woodall             2016   2015-20  7   bio          COMPLETED
+2010   Angela Viers             2018   2017-20  7   bio          COMPLETED
+2010   June Yowtak              2017   2016-20  7   bio          COMPLETED
+2012   Nathan Todnem            2019   2018-20  7   bio          COMPLETED
+2013   Khoi Nguyen              2020   2019-20  7   bio          COMPLETED [ambiguous name]
+2014   Joseph Kilianski         2021   2020-20  7   bio          COMPLETED
+2015   Christopher Banerjee     2022   2021-20  7   bio          COMPLETED
+2016   Tyler Sparks             2023   2022-20  7   bio          COMPLETED
+2017   Earl Jones               2024   2023-20  7   bio          COMPLETED
+2018   Lydia Kaoutzani          2025   2024-20  7   bio          COMPLETED
+2018   Sarah Kavianpour         2019   2018-20  1   bio          LEFT -> did not complete
+2019   Luca Debs                2026   2025-20  7   bio          COMPLETED
+2020   Kenneth James            -      2026-20  7   roster       IN TRAINING [ambiguous name]
+2021   Christopher Carr         -      2026-20  6   roster       IN TRAINING [ambiguous name]
+2021   Matthew Lee              -      2026-20  6   roster       IN TRAINING [ambiguous name]
+2022   David Baker              -      2026-20  5   roster       IN TRAINING [ambiguous name]
+2022   Manuel Revuelta          2023   2022-20  1   bio          LEFT -> TRANSFERRED
+2023   William Woodall          -      2026-20  4   roster       IN TRAINING [ambiguous name]
+2024   Mehul Mehra              -      2026-20  3   roster       IN TRAINING
+2025   William Ledford          -      2026-20  2   roster       IN TRAINING
+2026   William Snyder           -      2026-20  1   roster       IN TRAINING [ambiguous name]
+
+summary:
+    16  COMPLETED
+     8  IN TRAINING
+     1  LEFT -> did not complete
+     1  LEFT -> TRANSFERRED
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

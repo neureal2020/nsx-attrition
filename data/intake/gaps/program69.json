@@ -1,0 +1,330 @@
+{
+ "program_id": 69,
+ "name": "University at Buffalo Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "www.ubns.com / ubneurosurgery.com handler.cfm?event=practice,template&cpid=N (ColdFusion 'NorthPoint Domain' practice site; ubns.com/residency = descriptive page only, no resident list)",
+   "from": "2005",
+   "to": "2012-10"
+  },
+  {
+   "url": "www.ubns.com/residency-and-fellowship/residency-program/current-residents (Concrete5 site; also mirrored at www.ubneurosurgery.com same path)",
+   "from": "2012-12 (roster first archived 2014-03)",
+   "to": "2016-09 (301 from 2016-12)"
+  },
+  {
+   "url": "www.ubns.com/residency-fellowship/residency-program/current-residents/ (+ /current-residents/<slug>/ profiles) (WordPress site; list page never archived by Wayback; Common Crawl has 2018-12, 2019-02, 2019-04)",
+   "from": "2017-06",
+   "to": "2019-12"
+  },
+  {
+   "url": "medicine.buffalo.edu/departments/neurosurgery/education/residency/residents/current.html (UB Jacobs School department site; updated irregularly: 2022-23 content until 2025; live shows 2025-26)",
+   "from": "2019-08",
+   "to": "live"
+  },
+  {
+   "url": "www.ubns.com/current-residents-fellows/ (live, current roster)",
+   "from": "2021-01",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "medicine.buffalo.edu/departments/neurosurgery/education/residency/residents/alumni.html (Post-Residency Placements, graduates 1964-2022)",
+   "from": "2022-10",
+   "to": "live"
+  },
+  {
+   "url": "www.ubns.com/former-residents-fellows/ ('Former Chief Residents' by year 1964-2025, + former fellows)",
+   "from": "2021-01",
+   "to": "live"
+  },
+  {
+   "url": "medicine.buffalo.edu/departments/neurosurgery.html (302 to ubns.com 2015); www.smbs.buffalo.edu/nsur/ (1997 only, no roster)",
+   "from": "1997",
+   "to": "2015"
+  }
+ ],
+ "observed_years": [
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "SIGNIFICANT. UB Neurosurgery's web presence was the ubns.com/ubneurosurgery.com ColdFusion practice site: all 73 archived cpid pages 2009-2013 fetched (titles checked), the nav JS (ubns_mainBannerNav.js) and the 'Residency Program' page (ubns.com/residency; Common Crawl CC-MAIN-2012 copy 2012-02-05: text only, 'accepts two residents per year', no names); 2010 Education Prospectus and 2010 Annual Report PDFs have no resident list. medicine.buffalo.edu had no neurosurgery pages before 2019; smbs.buffalo.edu/nsur only 1997. Reconstructed 12 people from alumni graduation years (2012-2018 grads) + 2013-14 roster PGYs (6-year numbering). Anyone who left before 2013-14 is invisible.",
+  "2012-2013": "SIGNIFICANT. New Concrete5 ubns.com launched 2012-12 but its current-residents page is first archived 2014-03-28 (Wayback exact+prefix on ubns.com and ubneurosurgery.com; CC-MAIN-2013-20/2013-48 hold only other residency-and-fellowship pages). Reconstructed 12 from alumni + 2013-14 roster.",
+  "2013-2014": "Only capture 2014-03-28 (spring); content-dated by PGY-1 Kogan/Vakharia. 12 residents, 6-year numbering; PGY-6 has only Sorkin (2014 is a 1-graduate year; the 2008 class may have lost someone unseen before 2013).",
+  "2014-2015": "No Aug-Jan capture; 2015-03-14 and 2015-05-12 identical, content-dated (PGY-1 Thind/Agyei).",
+  "2016-2017": "2016-09-27 (ubneurosurgery.com alias; same as ubns.com 2016-08-17). Bregy printed as PGY-1 (stale); stored as PGY-2. Morrison (PGY-6) and Sonig (PGY-3, ex-endovascular fellow) first appear.",
+  "2017-2018": "Phase 2: observed (partial 'other' captures). WordPress resident profile posts (copies in CC-MAIN-2019-13/2019-22/2019-35) carry article:published_time: 2017-07-06 for Meyers, Winograd, Kogan, Vakharia, Agyei, Bregy, Jowdy, McPheeters, Sonig, Smolar (post ids 988-1028); 2017-08-15 for O'Connor, Cappuzzo, Recker, Housley (ids 1241-1250); 2018-07-02 for the 2018 class. Former-fellows page (CC-MAIN-2018-51) still prints 'Shakir ... PGY-7 Resident' and 'Sonig ... PGY-4 Resident' (2017-18 text). Morrison kept as reconstructed. Site text 2017: 'accepts two residents per year' (2 interns in 2017 = full class). All 24 CC crawls 2017-18 listed for the whole ubns.com host: no roster page, no other profile or news post. Wayback holds only 161 ubns.com URLs 2017-18, none roster-like.",
+  "2018-2019": "Observed only via Common Crawl CC-MAIN-2018-51 (2018-12-14) of the WordPress roster page (same list in CC-MAIN-2019-09 and 2019-18); stored as source_type other.",
+  "2019-2020": "medicine.buffalo.edu 2019-08-17 (17 residents). ubns.com profile pages 2019-07..09 added as a partial 'other' capture (no PGYs). Starling absent.",
+  "2022-2023": "Used medicine.buffalo.edu 2022-10-14; ubns.com 2022-12 page lists Housley as PGY-7 and Singh as PGY-1, inconsistent with other years.",
+  "2023-2024": "Phase 2: ubns.com captures 2023-09 (still 2022-23), 2024-04, 2024-07, 2024-09, 2024-10 all omit Shallwani; he is added as a reconstructed PGY-6 row (bracketed PGY-5 2022-23 / PGY-7 2024-25; PMID 38613377 online 2024-04-13 with UB neurosurgery affiliation).",
+  "2024-2025": "ubns.com 2025-02-16 (Oct 2024 capture still showed 2023-24).",
+  "2025-2026": "ubns.com 2026-01-12 (Sep 2025 capture still 2024-25); matches the live medicine.buffalo.edu page.",
+  "2026-2027": "Live ubns.com (advanced: Khan/Nyabuto PGY-7, new PGY-1 Francois/Shamli-Oghli/Swetz). Live medicine.buffalo.edu page still shows 2025-26."
+ },
+ "alumni_page": "https://medicine.buffalo.edu/departments/neurosurgery/education/residency/residents/alumni.html (grads to 2022); https://www.ubns.com/former-residents-fellows/ (chief residents to 2025)",
+ "departures": [
+  {
+   "name": "Joti Thind",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "outcome": "transferred",
+   "end_year": 2017,
+   "note": "-> UC Davis (77) PGY-4 2017-18 (UC Davis roster Dec 2017, as 'Joti Thind'/Harjot)"
+  },
+  {
+   "name": "Joshua Loya",
+   "last_ay": "2016-2017",
+   "last_pgy": 2,
+   "outcome": "transferred",
+   "end_year": 2017,
+   "note": "-> Wayne State (125) Year 3 2017-18 -> UCSD (75) PGY-6 2020-21 after the Wayne State closure"
+  },
+  {
+   "name": "Kenan Rajjoub",
+   "last_ay": "2021-2022",
+   "last_pgy": 2,
+   "outcome": "unknown",
+   "end_year": 2022,
+   "note": "absent 2022-23; 2025 paper lists Mayo Clinic Dept of Radiology (PMID 40400317), role unknown"
+  },
+  {
+   "name": "Neil Almeida",
+   "last_ay": "2022-2023",
+   "last_pgy": 2,
+   "outcome": "switched_specialty",
+   "end_year": 2023,
+   "note": "Radiation oncology resident, Roswell Park (profile: Resident Physician PGY 5, Dept of Radiation Medicine); Roswell Park affiliation from Feb 2024"
+  },
+  {
+   "name": "Alex Aguirre",
+   "last_ay": "2024-2025",
+   "last_pgy": 1,
+   "outcome": "transferred",
+   "end_year": 2025,
+   "note": "-> Barrow (4) PGY-2 2025-26, PGY-3 2026-27"
+  },
+  {
+   "name": "Alexander Becker",
+   "last_ay": "2023-2024",
+   "last_pgy": 6,
+   "note": "NOT attrition: Former Chief Resident 2024"
+  },
+  {
+   "name": "Ryan Hess",
+   "last_ay": "2024-2025",
+   "last_pgy": 6,
+   "note": "NOT attrition: Former Chief Resident 2025"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "John Morrison",
+   "first_ay": "2016-2017",
+   "first_pgy": 6,
+   "from": "Brown (54)"
+  },
+  {
+   "name": "Ashish Sonig",
+   "first_ay": "2016-2017",
+   "first_pgy": 3,
+   "from": "UB endovascular fellow 2014-16 (trained NIMHANS, India); not a US transfer"
+  },
+  {
+   "name": "Timothy O'Connor",
+   "first_ay": "2017-2018",
+   "first_pgy": 4,
+   "from": "University of Florida (82); profile published 2017-08-15"
+  },
+  {
+   "name": "Justin Cappuzzo",
+   "first_ay": "2017-2018",
+   "first_pgy": 2,
+   "from": "MGH general-surgery internship 2016-17; not a neurosurgery transfer"
+  },
+  {
+   "name": "Robert Starling",
+   "first_ay": "2020-2021",
+   "first_pgy": 6,
+   "from": "UNM (97) closure"
+  },
+  {
+   "name": "Tanya Singh",
+   "first_ay": "2022-2023",
+   "first_pgy": 2,
+   "from": "unknown"
+  }
+ ],
+ "residents_2011plus": 49,
+ "adjudication_summary": {
+  "COMPLETED": 33,
+  "IN TRAINING": 21,
+  "LEFT -> TRANSFERRED": 3,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> did not complete (destination unknown)": 1
+ },
+ "problems": "None blocking. All 4 phase-1 failed CC index requests succeeded on retry. ubns.com ?p= post ids are all 404 on the live (rebuilt) site, so deleted 2017 post 996 cannot be identified.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 6,
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "6-year program through the 2011 entering class, 7 years from the 2012 class. Exceptions: Morr (2010) and Shakir (2011) took 7 years (enfolded endovascular fellowship); Becker (2018) and Hess (2019) left after PGY-6 but are listed as Former Chief Residents 2024/2025 (treated as completed).",
+ "years": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "12 alumni-confirmed/bracketed; no roster page ever existed; PubMed 2007-14 affiliation mining found no unlisted resident. Only residual: the 2008 class shows 1 person (Sorkin), so a 2008-class departure before 2013 cannot be fully excluded."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Same evidence as 2011-12; Concrete5 roster page not archived before 2014-03; no unlisted resident in PubMed 2010-14; interns Meyers/Winograd confirmed by 2013-14 PGY-2."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2014-03-28, content-dated."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2015-05-12."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2015-11-15."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2016-09-27."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Phase 2: 14 residents dated by WordPress profile publish dates (2017-07-06 launch batch; 2017-08-15 newcomers O'Connor, Cappuzzo, Housley, Recker) + former-fellows text (Shakir PGY-7, Sonig PGY-4); only Morrison reconstructed. Thind/Loya seen at UC Davis/Wayne State in 2017-18. Residual: one deleted post id (996) from 2017-07-06, probably Thind's."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl CC-MAIN-2018-51."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "medicine.buffalo.edu 2019-08-17."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "ubns.com 2021-01-15; omits Ashish Sonig, a 2021 graduate per both alumni lists (outcome already known)."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "ubns.com 2021-10-16."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "medicine.buffalo.edu 2022-10-14."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "ubns.com 2024-04-17 omits Shallwani; phase 2 adds him as reconstructed PGY-6 (bracketed, and UB neurosurgery affiliation PMID 38613377, 2024-04-13). All other classes complete."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "ubns.com 2025-02-16."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "ubns.com 2026-01-12."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live ubns.com, advanced with new interns."
+  }
+ },
+ "training_history_phase2": {
+  "rows_inserted": 13,
+  "th_ids": "3036-3048",
+  "transfers_out": 3,
+  "switched_specialty": 1,
+  "unknown_departure": 1,
+  "joiner_rows": 6,
+  "pgy_terminal_graduations": 2
+ },
+ "phase2": {
+  "searched": [
+   "unparsed phase-1 cc/ captures (73 pages 2012-2020) re-read for names/PGYs/dates",
+   "gapaudit.py 2011-2013 and 2017-2018 on ubns.com, ubneurosurgery.com, medicine.buffalo.edu/departments/neurosurgery, smbs.buffalo.edu, buffalo.edu/news, medicine.buffalo.edu/education/gme, kaleidahealth.org/gme",
+   "UB GME Residents/Awards pages and Dept of Surgery pages 2010-2014 (Wayback)",
+   "Common Crawl (cclocal) all crawls 2017-2018 for com,ubns)/, com,ubneurosurgery)/, medicine.buffalo.edu neurosurgery; all crawls 2011-2013 for ubns.com/ubneurosurgery.com; full URL listing of ubns.com in all 24 crawls 2017-18",
+   "retried the 4 failed phase-1 CC index requests (CC-MAIN-2015-27, 2019-39, 2020-05, 2020-50): all succeeded, nothing new",
+   "WordPress article:published_time and post ids of 2019 profile copies; live ubns.com ?p= ids (all 404) and sitemaps",
+   "PubMed affiliation mining 2007-2011, 2010-2014, 2016-2019 (Buffalo + neurosurgery) with Europe PMC checks of unlisted authors",
+   "Europe PMC / NPPES / Roswell Park site for Rajjoub, Almeida, Singh, Shallwani",
+   "crossmatch.json pairs confirmed against programs 4, 54, 75, 77, 82, 97, 125 rosters"
+  ],
+  "found": [
+   "2017-18 observed via profile publish dates (14) + former-fellows text (Shakir PGY-7, Sonig PGY-4)",
+   "Shallwani at UB during 2023-24 (PMID 38613377)",
+   "Almeida -> radiation oncology at Roswell Park (program page)",
+   "Rajjoub at Mayo Clinic Radiology 2025 (role unknown)",
+   "Transfers confirmed: Thind -> UC Davis 2017, Loya -> Wayne State 2017 (-> UCSD 2020), Aguirre -> Barrow 2025, O'Connor from UF 2017, Morrison from Brown 2016, Starling from UNM 2020",
+   "Cappuzzo joined PGY-2 after an MGH surgery internship; Sonig joined PGY-3 from the UB endovascular fellowship"
+  ],
+  "remaining": [
+   "2011-12/2012-13 remain reconstructed (low): a 2008-class departure before 2013 is not excludable",
+   "Tanya Singh's origin (joined PGY-2 2022) unknown",
+   "Rajjoub's destination unconfirmed",
+   "Sonig absent from the Jan 2021 roster though a 2021 graduate"
+  ]
+ }
+}

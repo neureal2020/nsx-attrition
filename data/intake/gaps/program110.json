@@ -1,0 +1,243 @@
+{
+ "program_id": 110,
+ "name": "University of Texas Southwestern Medical Center Program (Dallas, TX)",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www4.utsouthwestern.edu/swneurosurg/html/current_residents.html (dept site; also www2/www4 swneurosurg/, utsw/home/pp/neurosurgery redirected here)",
+   "from": "2005",
+   "to": "2015-04 (roster updated to 9/29/14; host frozen after)"
+  },
+  {
+   "url": "https://www.utsouthwestern.edu/education/medical-school/departments/neurological-surgery/education-training/residency-program/current-residents.html",
+   "from": "2012",
+   "to": "2015-10 (stale: 2010-11 list until >=May 2013, 2013-14 list Dec 2013-Oct 2015)"
+  },
+  {
+   "url": "https://www.utsouthwestern.edu/education/medical-school/departments/neurological-surgery/education-training/residency-program/residents/index.html (+ pgy-4..7.html)",
+   "from": "2016-07",
+   "to": "2016-10"
+  },
+  {
+   "url": "https://www.utsouthwestern.edu/education/medical-school/departments/neurological-surgery/education-training/residency-program/residents/",
+   "from": "2017-01",
+   "to": "2025-04 (2017-2020 roster is a JPG photo chart)"
+  },
+  {
+   "url": "https://www.utsouthwestern.edu/departments/neurological-surgery/education-training/residency-program/residents/",
+   "from": "2025-05",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2018-2019"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2012-2013": "No www4 current_residents.html capture between 2012-01-11 and 2014-11-01 (Wayback digest CDX, all statuses); Common Crawl on www4/swneurosurg/ 2013-2016: 0 records (CC-MAIN-2012 and 2015-18 index fetch failed). Med-school current-residents.html in CC-MAIN-2013-20 (May 2013) still carried the 2010-11 list. Reconstructed 15 bracketed/alumni-confirmed residents; Leo Arko (PGY-1 2011-12) and Ratul Raychaudhuri not reconstructed, so any 2012-13 presence of theirs is unseen. PHASE 2: Wayback prefix audit of www4/swneurosurg/ Jan 2012-Oct 2014 found only Feb-2012 pages (2011-12 content) and photos_and_dates.html 2012-09-01 ('Last Updated August, 2010', graduation photos only); CC-MAIN-2012 and CC-MAIN-2015-18 retried OK: 0 records on www4/swneurosurg/. PubMed affiliation mining 2012-2014 (UTSW neurosurgery) surfaced no unlisted residents.",
+  "2018-2019": "residents/ page: Wayback has only 301s of the no-slash URL between 2018-05-05 and 2020-06-28; Common Crawl residents/ captures 2018-06-20 (still the 2017-18 image) and 2020-09; residency-program index pages 2018-09/2018-11 have no roster; CC-MAIN-2019-04 index fetch failed. Reconstructed 19 bracketed (2017-18 & 2019-20) residents; Liu/Yi PGY-1 from 2019-20 PGY-2 + alumni grad 2025. An unseen 2018 intern who left within the year would be missed. PHASE 2: CC-MAIN-2019-04 retried OK: 0 records under the med-school neurological-surgery prefix. Wayback prefix audit of the dept (+GME) 2018-05..2020-06: only 301s, faculty/asset pages, an unlabeled 'Neurosurgical-residents-2019-group.jpg' and a 2019 graduation photo. PubMed affiliation mining 2018-2020 surfaced only faculty, students and research staff, none confirmed as residents.",
+  "2013-2014": "Observed via Common Crawl (CC-MAIN-2013-48, 2013-12-05) of the med-school current-residents.html; Wayback only has the same list in 2015 captures (stale). PHASE 2: the list's 'Program Year 5: Ratul Rachaudhuri' is a stale carry-over from the 2010-11 list (the May-2013 capture of the same page is the 2010-11 list with him PGY5 alongside Gomez/Lewis); he was already off the Oct-2011 dept roster and is PGY-6 at Missouri in Jan 2014. Row removed.",
+  "2015-2016": "Aug 2016 index (content-dated 2015-16) omits Ankur Patel; PHASE 2: the same-day subpage residents/pgy-4.html (2016-08-26, with pgy-7.html listing the 2015-16 PGY7s) lists 'PGY-4 Neurosurgery Residents: Robert Funk, Ankur Patel, M.D.' -> Patel added (source_type other). Aoun remains listed PGY3 on the index.",
+  "2016-2017": "Oct 2016 residents/index.html (alt 'Resident photo chart for 2016-17'); pgy-4.html 2016-10-28 confirms Aoun listed at PGY4 with Davies/Vance. Photo charts (photo-chart-2015.jpg, resident-photos.jpg, current-residents.png) not archived.",
+  "2017-2018/2019-2020/2020-2021": "Rosters are JPG photo charts (neurosurgery-residents-2017-2018.jpg, neurosurgery-resident-photo-chart-19-20-cropped.jpg dated 06/2019, neurosurgery-residents-2020-2021.jpg dated 4/2020), read visually.",
+  "2022-2023/2023-2024": "Sept 2023 capture identical to Sept 2022 (stale); Dec 2023 used for 2023-24."
+ },
+ "alumni_page": "https://www.utsouthwestern.edu/departments/neurological-surgery/education-training/alumni.html",
+ "departures": [
+  {
+   "name": "Leo Arko",
+   "last_ay": "2011-2012",
+   "last_pgy": 1,
+   "outcome": "transferred",
+   "note": "To Temple University Hospital (program 64): Leopold Arko PGY-4 2014-15 .. PGY-7 2017-18, Temple graduate 2018; PubMed Temple 2015-17. Left UTSW after 2011-12."
+  },
+  {
+   "name": "Ratul Raychaudhuri",
+   "last_ay": "2010-2011",
+   "last_pgy": 5,
+   "outcome": "transferred",
+   "note": "Pre-window departure (entered ~2006). Not on the Oct-2011 roster; 2013-14 UTSW listing was stale and has been removed. To University of Missouri (program 94): PGY-6 2013-14, PGY-7 2014-15, graduated 2015; PubMed Missouri 2014."
+  },
+  {
+   "name": "Nick Gill",
+   "last_ay": "2015-2016",
+   "last_pgy": 2,
+   "outcome": "unknown",
+   "note": "2014 entrant; absent Oct-2016 roster; not an alumnus; no later affiliation found."
+  },
+  {
+   "name": "Vamsi Reddy",
+   "last_ay": "2021-2022",
+   "last_pgy": 1,
+   "outcome": "unknown",
+   "note": "Adjudicator's NPI 'switched specialty' call is a name match only (not accepted); PubMed shows UTSW Neurosurgery affiliation into 2024 (lag); destination not found."
+  },
+  {
+   "name": "Diana Nwokoye",
+   "last_ay": "2023-2024",
+   "last_pgy": 2,
+   "outcome": "unknown",
+   "note": "2022 entrant; absent Dec-2024 roster; no later affiliation."
+  },
+  {
+   "name": "Anthony Asemota",
+   "last_ay": "2024-2025",
+   "last_pgy": 2,
+   "outcome": "unknown",
+   "note": "Mid-year 2024-25 departure; PubMed Jul-2025 affiliation Loma Linda Neurosurgery, but not on LLU resident roster (program 31) 2024-27; unconfirmed."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Tarek El Ahmadieh",
+   "first_ay": "2015-2016",
+   "first_pgy": 2,
+   "note": "Prior Northwestern neurosurgery affiliation 2012-15 (PubMed), not on a Northwestern resident roster (research). Graduated 2021."
+  },
+  {
+   "name": "Vin Shen Ban",
+   "first_ay": "2017-2018",
+   "first_pgy": 2,
+   "note": "UK MB BChir (Cambridge/Addenbrooke's); UTSW neurosurgery research affiliation 2016-17. Graduated 2023."
+  },
+  {
+   "name": "Darsh Shah",
+   "first_ay": "2024-2025",
+   "first_pgy": 2,
+   "note": "Transfer from UTMB (program 109, PGY-1 2023-24); PubMed UTMB 2024 -> UTSW 2025."
+  }
+ ],
+ "residents_2011plus": 45,
+ "adjudication_summary": {
+  "COMPLETED": 34,
+  "IN TRAINING": 18,
+  "LEFT -> did not complete": 3,
+  "LEFT -> TRANSFERRED (Temple)": 1,
+  "LEFT -> SWITCHED SPECIALTY (NPI only; training_history says unknown)": 1
+ },
+ "problems": "Salah Aoun listed one PGY behind his class in 2015-16 (index PGY3; absent from pgy-4.html) and 2016-17 (PGY4) but PGY6 in 2017-18 and graduated 2019 with Funk/Patel (kept as listed). Farrukh Hameed PGY2 in both 2025-26 and 2026-27 (off-cycle). Photo-chart images for 2015-16/2016-17 never archived (Aug-2016 pgy-4 subpage used instead). Adjudicator still labels Vamsi Reddy 'switched specialty' from NPI; the phase-2 training_history row records departure_type unknown. All previously failed CC crawls now succeeded.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster observed"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl Dec 2013 med-school list; stale 'Rachaudhuri' PGY5 line removed (he left after 2010-11, at Missouri PGY6 Jan 2014)"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster observed"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Aug 2016 index list + same-day pgy-4.html subpage listing Ankur Patel (PGY-4) closes the Patel omission"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Oct 2016 index + pgy-4..7 subpages"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster observed"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster observed"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster observed"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster observed"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Sept 2022; Sept 2023 capture was stale, Dec 2023 used for 2023-24"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster observed"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster observed"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster observed"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster observed"
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster capture (Wayback www4 none Feb 2012-Oct 2014; CC-MAIN-2012 and 2015-18 retried: 0 records). All 15 reconstructed rows bracketed by Jan-2012 and Dec-2013 rosters; the one departure (Arko) is explained by his Temple training (PGY-4 2014-15, graduated 2018). 2012 intern class of 3 is the stated maximum; only a PGY-2+ joiner who also left before Dec 2013 could be unseen."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster capture (Wayback only 301s May 2018-Jun 2020; CC-MAIN-2019-04 retried: 0 records under the dept prefix; CC-MAIN-2017-39/2020-45 retried: only 2017-18/2020-21 pages). 19 rows bracketed by complete 2017-18 and 2019-20 rosters, no class changed size across the gap, 2019 grads confirmed by alumni page. Only a 2018 intern or joiner who left within the year could be unseen (2018 class of 2 is within the stated 2-3)."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit www4/www2/swneurosurg + med-school dept + utsw/home/pp/neurosurgery 2012-02..2013-11",
+   "gapaudit dept + GME 2018-05..2020-06",
+   "Wayback prefix CDX (all statuses, digest) on dept assets/ and residents/ folders for photo charts",
+   "CC retries: CC-MAIN-2019-04, 2017-39, 2020-45 (med-school prefix), CC-MAIN-2012, 2015-18 (www4) - all OK",
+   "Archived per-PGY subpages pgy-4..7.html (Aug/Oct 2016)",
+   "PubMed affiliation mining 2012-2014 and 2018-2020 (UTSW neurosurgery)",
+   "PubMed author checks: Raychaudhuri, Arko, Gill, El Ahmadieh, Ban, Nwokoye, Asemota, Reddy, Shah, A. Patel",
+   "Cross-program rosters: Temple (64), Missouri (94), UTMB (109), Loma Linda (31)"
+  ],
+  "found": [
+   "Ankur Patel PGY-4 2015-16 on pgy-4.html (2016-08-26) -> 2015-16 complete",
+   "Raychaudhuri 2013-14 UTSW row is stale carry-over -> removed; he left after 2010-11 for Missouri",
+   "Arko transfer to Temple confirmed (Temple roster PGY4-7 2014-18, alumni 2018, PubMed)",
+   "Darsh Shah transfer UTMB -> UTSW confirmed (both rosters + PubMed)",
+   "CC-MAIN-2019-04: 0 records under the dept prefix (no 2018-19 roster in Common Crawl)"
+  ],
+  "remaining": [
+   "2012-2013 and 2018-2019 still unobserved; both low significance (fully bracketed, class sizes unchanged across the gap)",
+   "Outcomes of Gill, Reddy, Nwokoye, Asemota unknown"
+  ]
+ }
+}

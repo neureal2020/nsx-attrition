@@ -1,0 +1,25 @@
+
+Carolinas Medical Center Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2014   Tyler Atkins             2021   2020-20  7   bio          COMPLETED
+2015   Jonathan Parish          2022   2021-20  7   bio          COMPLETED
+2016   Vincent Rossi            2023   2022-20  7   bio          COMPLETED
+2017   David Peters             2024   2023-20  7   bio          COMPLETED [ambiguous name]
+2018   Graham Mulvaney          2024   2023-20  6   bio          LEFT -> TRANSFERRED (University of Oklahoma Health Scie)
+2019   Steve Monk               2026   2025-20  7   bio          COMPLETED
+2020   Rebecca DeCarlo          -      2025-20  6   roster       IN TRAINING
+2021   Trent VanHorn            -      2025-20  5   roster       IN TRAINING
+2022   Daniel Zeitouni          -      2025-20  4   roster       IN TRAINING
+2023   Erin Miller              -      2025-20  3   roster       IN TRAINING [ambiguous name]
+2024   Austin Allen             -      2025-20  2   roster       IN TRAINING [ambiguous name]
+2025   Peter Drossopoulos       -      2025-20  1   roster       IN TRAINING
+
+summary:
+     6  IN TRAINING
+     5  COMPLETED
+     1  LEFT -> TRANSFERRED (University of Oklahoma Health Scie)
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

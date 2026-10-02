@@ -1,0 +1,800 @@
+[
+ {
+  "key": "60:vin:mathur",
+  "name": "Vin Mathur",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Columbia MD 2001, residency Neurological Surgery SSM Health/SLU, Cornell surgery 2001-02, Missouri NS 2006-07; matches input history",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020,
+    "note": "Doximity dates look like the original planned span, not actual"
+   },
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2006,
+    "end": 2007
+   },
+   {
+    "institution": "NewYork-Presbyterian (Cornell)",
+    "specialty": "surgery",
+    "start": 2001,
+    "end": 2002
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Now a board-certified (ABR Diagnostic Radiology) neuroradiologist in Modesto CA; radiology residency (St. Louis University per aggregator) and neuroradiology fellowship at University of Chicago per Vitals/aggregator snippet. Exact exit year from SLU neurosurgery not stated; input evidence puts last SLU neurosurgery listing at Mar 2014 (Doximity lists SLU NS to 2020, likely placeholder).",
+  "year_left": 2014,
+  "destination_program": "Diagnostic radiology (program not confirmed; SLU per aggregator), neuroradiology fellowship Univ. of Chicago",
+  "destination_start_year": null,
+  "current": "Neuroradiologist/diagnostic radiologist, Sutter Health, Modesto CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/vin-mathur-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, SSM Health/SLU 2013 - 2020; American Board of Radiology, Diagnostic Radiology"
+   },
+   {
+    "url": "https://www.sutterhealth.org/find-provider/dr-vinish-k-mathur-1046247732",
+    "type": "search_snippet",
+    "evidence": "Radiologist in Modesto, CA"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/Dr_Vin_Mathur.html",
+    "type": "search_snippet",
+    "evidence": "Diagnostic Radiology; fellowship University of Chicago Hospital & Clinics in Neuroradiology (per search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "61:sta:hoang",
+  "name": "Stanley Hoang",
+  "program_id": 61,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Ochsner bio: Stanford MD 2010; Stanford entrant 2010 matches",
+  "residency_stated": [
+   {
+    "institution": "Stanford University (neurosurgery, per Ochsner bio 'Missouri and Stanford')",
+    "specialty": "neurosurgery",
+    "start": 2010,
+    "end": null
+   },
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Ochsner LSU bio lists neurosurgery training at University of Missouri School of Medicine and Stanford; other sources say residency at University of Missouri, then complex spine fellowship Univ. of Cincinnati. ABNS certified; practising neurosurgeon. Transfer year not stated on bio (DB: Stanford through 2016-17).",
+  "year_left": 2017,
+  "destination_program": "University of Missouri-Columbia",
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Ochsner LSU Health Shreveport (Assistant Professor; Chief, Overton Brooks VA)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.ochsnerlsuhs.org/doctors/stanley-hoang",
+    "type": "bio",
+    "evidence": "trained in neurosurgery at University of Missouri School of Medicine and Stanford; ABNS certified"
+   },
+   {
+    "url": "https://www.doximity.com/pub/stanley-hoang-md-1ea16ff8",
+    "type": "doximity",
+    "evidence": "Stanford University School of Medicine Class of 2010; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "88:luk:pearson",
+  "name": "Luke Pearson",
+  "program_id": 88,
+  "identity": "probable",
+  "identity_basis": "Louisville resident page (UCF MD 2018, joined Louisville 2018); WebMD Luke Henry Pearson UCF 2018 with UF Health Jacksonville and Jewish Hospital (Louisville) affiliations; UF Jax neurotrauma fellow 2026 from 'Neurosurgery Residency, Kansas City, MO'; Saint Luke's KC lists Luke Pearson PGY 4",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2023
+   },
+   {
+    "institution": "Saint Luke's Hospital of Kansas City (BJC)",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Louisville PGY-5 2022-23, then appears as neurosurgery resident at Saint Luke's Hospital of Kansas City (page lists PGY 4, 2026) and as UF Jacksonville neurotrauma/spine fellow 2026 listed with 'Neurosurgery Residency, Kansas City, MO'. PGY labels inconsistent so exact transfer year unclear.",
+  "year_left": 2023,
+  "destination_program": "Saint Luke's Hospital of Kansas City (BJC) neurosurgery",
+  "destination_start_year": null,
+  "current": "Neurotrauma/spine fellow 2026, UF Health Jacksonville (per fellows page)",
+  "agrees_with_db": true,
+  "disagreement": "Destination not previously known: Kansas City (Saint Luke's) - moderate confidence",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.saintlukeskc.org/education/residencies-fellowships/neurosurgery-residency",
+    "type": "program_page",
+    "evidence": "Luke Pearson, MD PGY 4"
+   },
+   {
+    "url": "https://neurosurgery.med.jax.ufl.edu/education/neurotrauma-spine-fellowship/fellows/",
+    "type": "program_page",
+    "evidence": "2026: Luke Pearson, M.D. - Neurosurgery Residency, Kansas City, MO"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/luke-pearson-bf1c489d-d4e7-472e-bbe9-4e7018c15596-overview",
+    "type": "search_snippet",
+    "evidence": "Luke Henry Pearson, UCF College of Medicine 2018; UF Health Jacksonville, Jewish Hospital"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "97:wil:mckay",
+  "name": "William McKay",
+  "program_id": 97,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest MD 2017, UNM neurosurgery 2017-2019; PubMed UNM affiliation",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2019
+   },
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2024
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Doximity: UNM neurosurgery 2017-2019 then University of Colorado neurosurgery 2019-2024; now practising neurosurgeon Greeley CO (UNM program closure transfer)",
+  "year_left": 2019,
+  "destination_program": "University of Colorado",
+  "destination_start_year": 2019,
+  "current": "Neurosurgeon, Greeley CO (Banner/UCHealth)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/william-mckay-md-35cba263",
+    "type": "doximity",
+    "evidence": "University of Colorado Residency, Neurological Surgery, 2019 - 2024; University of New Mexico School of Medicine Residency 2017 - 2019"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "101:ces:cuello",
+  "name": "Cesar M. Carballo Cuello",
+  "program_id": 101,
+  "identity": "confirmed",
+  "identity_basis": "USF alumni page lists Cesar Carballo Cuello class of 2024; UPR Section of Neurosurgery affiliation (ResearchGate/publications); UCC MD 2015; input cites USF bio 'Previous Residency: UPR'",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2021
+   },
+   {
+    "institution": "USF Morsani",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2024
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "USF Health alumni page lists him in class of 2024 (Complex Spine Fellow); UPR affiliation retained (Doximity page found is a sparse generic profile: UCC class of 2015 only). Transfer year 2021 per DB; not independently dated by these sources.",
+  "year_left": 2021,
+  "destination_program": "University of South Florida Morsani",
+  "destination_start_year": 2021,
+  "current": "Complex spine fellow USF 2024; UPR Section of Neurosurgery faculty (per DB/ResearchGate)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://health.usf.edu/medicine/neurosurgery/residency/alumni",
+    "type": "program_page",
+    "evidence": "Cesar Carballo Cuello, MD | Complex Spine Surgery Fellow - Class of 2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/cesar-carballo-md",
+    "type": "doximity",
+    "evidence": "Cesar Manuel Carballo MD, Universidad Central del Caribe Class of 2015 (no residency listed; sparse profile)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "101:gab:flores-milan",
+  "name": "Gabriel Flores-Milan",
+  "program_id": 101,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UPR neurosurgery 2015-2019 then USF 2019-2023; USF alumni class 2023; Ponce MD 2015",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2019
+   },
+   {
+    "institution": "USF Morsani",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2023
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Doximity lists UPR neurosurgery residency 2015-2019 then USF Morsani 2019-2023 (chief 2022-23), fellowship cerebrovascular/skull base 2023-24; now USF/Lakeland faculty. Doximity USF start 2019 differs from DB's PGY-5 2020-21 join (Doximity likely reflects PGY-level credit/ rounding).",
+  "year_left": 2020,
+  "destination_program": "University of South Florida Morsani",
+  "destination_start_year": 2020,
+  "current": "Assistant Professor of Neurosurgery, USF / Lakeland Regional Health",
+  "agrees_with_db": true,
+  "disagreement": "Doximity dates USF start 2019 vs DB 2020-21; destination and transfer agree",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/gabriel-flores-milan-md",
+    "type": "doximity",
+    "evidence": "University of Puerto Rico Residency, Neurological Surgery, 2015 - 2019; USF Morsani Residency 2019 - 2023"
+   },
+   {
+    "url": "https://health.usf.edu/medicine/neurosurgery/residency/alumni",
+    "type": "program_page",
+    "evidence": "Gabriel Flores-Milan ... Class of 2023"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "101:ale:cruz",
+  "name": "Alejandro J. Matos Cruz",
+  "program_id": 101,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/AHN: UPR MD 2016, residency UPR neurosurgery then Allegheny General",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2021
+   },
+   {
+    "institution": "Allegheny Health Network (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2024
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Doximity: AGH neurosurgery residency 2021-2024; UPR 2016-2023 (nominal). AHN profile lists residency Allegheny General and UPR. Now neurosurgeon in Erie PA.",
+  "year_left": 2021,
+  "destination_program": "Allegheny Health Network Medical Education Consortium (AGH)",
+  "destination_start_year": 2021,
+  "current": "Neurosurgeon, Erie PA (Saint Vincent Hospital)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alejandro-matos-cruz-md",
+    "type": "doximity",
+    "evidence": "AGH Residency, Neurological Surgery, 2021 - 2024; University of Puerto Rico Residency 2016 - 2023"
+   },
+   {
+    "url": "https://findcare.ahn.org/Alejandro-J-Matos-Cruz",
+    "type": "bio",
+    "evidence": "Residency: Allegheny General Hospital; University of Puerto Rico School of Medicine"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "101:jos:jimenez",
+  "name": "Jose G. Sanchez Jimenez",
+  "program_id": 101,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UPR School of Medicine MD 2019 and MCW neurosurgery residency 2021-2026 (matches UPR 2019 entrant, DB says MCW PGY-3 2021-22)",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2021
+   },
+   {
+    "institution": "Medical College of Wisconsin Affiliated Hospitals",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2026
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Doximity lists MCW neurosurgery residency 2021-2026 with UPR MD 2019; UPR PGY-2 2020-21 then MCW from 2021",
+  "year_left": 2021,
+  "destination_program": "Medical College of Wisconsin Affiliated Hospitals",
+  "destination_start_year": 2021,
+  "current": "Neurosurgery resident (chief-year), Medical College of Wisconsin, Milwaukee",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jose-sanchez-jimenez-md",
+    "type": "doximity",
+    "evidence": "Medical College of Wisconsin Affiliated Hospitals Residency, Neurological Surgery, 2021 - 2026; University of Puerto Rico School of Medicine Class of 2019"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "101:san:fontanez",
+  "name": "Santos E. Santos Fontanez",
+  "program_id": 101,
+  "identity": "confirmed",
+  "identity_basis": "Brown neurosurgery resident list shows Santos E. Santos Fontanez (PGY-7 2026-27, consistent with PGY-2 in 2021-22); Doximity: UCC MD 2020, RI license 2021, Providence RI; search snippet: Brown University Lifespan resident",
+  "residency_stated": [
+   {
+    "institution": "Brown University/Rhode Island Hospital",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Now a neurosurgery resident at Brown/Rhode Island Hospital (listed PGY-7 in current Brown resident list); RI license from 2021; consistent with transfer from UPR after PGY-1 in 2020-21. UPR stint itself not stated by Doximity or Brown page reachable.",
+  "year_left": 2021,
+  "destination_program": "Brown University/Rhode Island Hospital",
+  "destination_start_year": 2021,
+  "current": "Neurosurgery resident (PGY-7), Brown/Rhode Island Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.med.brown.edu/education/residency-program/current-residents-alumni",
+    "type": "program_page",
+    "evidence": "Santos E. Santos Fontanez, MD PGY-7"
+   },
+   {
+    "url": "https://www.doximity.com/pub/santos-santos-fontanez-md",
+    "type": "doximity",
+    "evidence": "Universidad Central del Caribe Class of 2020; RI State Medical License 2021 - 2027"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:aar:chance",
+  "name": "Aaron Chance",
+  "program_id": 108,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Vitals: UT Health San Antonio neurosurgery 2017-2020 and McGovern MD 2017",
+  "residency_stated": [
+   {
+    "institution": "UT Health San Antonio (Joe and Teresa Lozano Long SOM)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2020
+   },
+   {
+    "institution": "Montefiore/Albert Einstein",
+    "specialty": "psychiatry (fellowship listing)",
+    "start": 2021,
+    "end": 2023
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left neurosurgery after PGY4 (2020-21); Montefiore/Einstein psychiatry 2021-2023 per Doximity; now board-certified (American Board of Surgery listed) vascular/wound care surgeon in The Woodlands TX",
+  "year_left": 2021,
+  "destination_program": "Montefiore Medical Center/Albert Einstein College of Medicine (psychiatry)",
+  "destination_start_year": 2021,
+  "current": "Vascular/wound-care surgeon, Texas Vein Experts, The Woodlands TX",
+  "agrees_with_db": true,
+  "disagreement": "Psychiatry destination confirmed; later career is surgical/vein practice (ABS listed)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/aaron-chance-md",
+    "type": "doximity",
+    "evidence": "Fellowship, Psychiatry, 2021 - 2023 Montefiore; Residency, Neurological Surgery, 2017 - 2020 UTHSCSA; American Board of Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:dan:dilorenzo",
+  "name": "Daniel DiLorenzo",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Houston Methodist NS 2006-10, UTMB NS 2010-13, Rush 2015-16; Harvard MD 1999; UTMB 'joined 2010 for senior and chief years' matches",
+  "residency_stated": [
+   {
+    "institution": "Houston Methodist Hospital",
+    "specialty": "neurosurgery",
+    "start": 2006,
+    "end": 2010
+   },
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2010,
+    "end": 2013
+   },
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2016
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transfer IN to UTMB (2010) from Houston Methodist; UTMB listed 2010-2013 on Doximity; Rush alumni page lists him as graduate of its neurosurgery residency (2016) then fellowship Swedish (spine/functional); LLUH bio also lists Tulane. ABNS certified; neurosurgeon Loma Linda CA. Leaving UTMB (2013 per Doximity; DB last seen 2011-12) and Rush finish confirmed; Rush 2015-16 may be a fellowship-like year.",
+  "year_left": 2013,
+  "destination_program": "Rush University Medical Center",
+  "destination_start_year": 2015,
+  "current": "Neurosurgeon, Loma Linda University Health, CA",
+  "agrees_with_db": true,
+  "disagreement": "UTMB end 2013 per Doximity (DB last seen 2011-12); Rush start possibly 2015 rather than immediately after",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-dilorenzo-md",
+    "type": "doximity",
+    "evidence": "Rush University Medical Center Residency, Neurological Surgery, 2015 - 2016; UTMB 2010 - 2013; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.rushu.rush.edu/graduate-medical-education/residency-programs/neurosurgery-residency/alumni-where-did-go-after-graduating",
+    "type": "program_page",
+    "evidence": "Daniel John DiLorenzo, Fellowship: Swedish Hospital (Spine and Functional); Post-Graduation: Loma Linda University Dept of Neurosurgery (2016 graduate per fetch)"
+   },
+   {
+    "url": "https://lluh.org/provider/dilorenzo-daniel",
+    "type": "bio",
+    "evidence": "Residency: Houston Methodist, Rush, Tulane, UTMB; ABNS certified"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "111:far:laiwalla",
+  "name": "Farah Laiwalla",
+  "program_id": 111,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Brown MD 2014, Salt Lake City (Univ. of Utah address), Brown School of Engineering publications; input MD PhD Utah PGY-1 2014",
+  "residency_stated": [],
+  "outcome": "left_medicine",
+  "outcome_detail": "Now Assistant Professor (Research), Brown University School of Engineering; publications only with engineering affiliation. Doximity lists specialty Neurosurgery at a Univ. of Utah address (NPI-derived) but no residency or certification. No evidence of clinical training elsewhere.",
+  "year_left": 2015,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Research assistant professor, Brown University School of Engineering",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/farah-laiwalla-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Salt Lake City UT; Warren Alpert Medical School of Brown Class of 2014; no residency/cert listed"
+   },
+   {
+    "url": "https://sites.brown.edu/bruno2/team/",
+    "type": "search_snippet",
+    "evidence": "Assistant Professor (Research), Brown School of Engineering, MD/PhD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "111:aat:shah",
+  "name": "Aatman Shah",
+  "program_id": 111,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Stanford MD 2016, UT (Utah) license 2017-2020 (matches Utah PGY-1 2016-17); ResearchGate Stanford neurosurgery-era affiliation",
+  "residency_stated": [
+   {
+    "institution": "Mercy Health-St Rita's Medical Center",
+    "specialty": "family medicine (residency, undated)",
+    "start": null,
+    "end": null
+   },
+   {
+    "institution": "Mount Sinai Hospital NYC",
+    "specialty": "dermatology",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity: ABD-certified dermatologist (Mohs fellowship Univ. of Cincinnati per search snippet; derm residency Mount Sinai). Utah license 2017-2020 shows presence at Utah until ~2019/2020; exact exit year not given.",
+  "year_left": 2019,
+  "destination_program": "Dermatology (Mount Sinai), preceded by family medicine (St Rita's) per Doximity",
+  "destination_start_year": null,
+  "current": "Dermatologic/Mohs surgeon, Plano TX",
+  "agrees_with_db": true,
+  "disagreement": "Destination is dermatology",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/aatman-shah-md",
+    "type": "doximity",
+    "evidence": "Stanford University School of Medicine Class of 2016; American Board of Dermatology; UT State Medical License 2017 - 2020"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/aatman-shah-66cbff1e-0262-4e96-9f62-1bf8e3b42e80-overview",
+    "type": "search_snippet",
+    "evidence": "dermatology and dermatologic surgery; Stanford 2016"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "120:rid:guniganti",
+  "name": "Ridhima Guniganti",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU MD 2018, MO license 2018-2021 (matches WashU NS 2018-21); ophthalmology publications with same name; Healthgrades/US News-type listings as ophthalmologist in St. Louis",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2021
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Search results list her as ophthalmologist in St. Louis (WashU); KY license 2025-27; 2025 Can J Ophthalmol paper; Weill Cornell volunteer ophthalmology directory entry. Ophthalmology residency program/years not seen in a bio (Doximity shows no residency).",
+  "year_left": 2021,
+  "destination_program": "Ophthalmology (WashU per DB; program not confirmed by a bio)",
+  "destination_start_year": null,
+  "current": "Ophthalmologist, St. Louis MO / Kentucky (per search results)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ridhima-guniganti-md",
+    "type": "doximity",
+    "evidence": "WashU Medicine Class of 2018; MO State Medical License 2018 - 2021; ophthalmology publications listed"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/ridhima-guniganti-9b2cad74-2318-4ed6-b143-b20c7793bc7b-overview",
+    "type": "search_snippet",
+    "evidence": "search summary: ophthalmologist in Saint Louis, MO, 5-10 years in practice"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "123:gab:sneh",
+  "name": "Gabriel Sneh",
+  "program_id": 123,
+  "identity": "probable",
+  "identity_basis": "Doximity: Harvard MD 2016, CT license 2018-2020 (Yale PGY-1 2018-19); 2019 MVD paper with Eskandar and 2024 Hopkins neurology paper under same name",
+  "residency_stated": [
+   {
+    "institution": "Yale-New Haven",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2019
+   },
+   {
+    "institution": "Johns Hopkins",
+    "specialty": "neurology",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Search results: completed neurology residency at Johns Hopkins, then Fogarty Global Health Fellow in Zambia; Harvard MD 2016; 2024 paper affiliation Dept of Neurology, JHU. Hopkins alumni page blocked (403) so class years not seen.",
+  "year_left": 2019,
+  "destination_program": "Johns Hopkins Neurology",
+  "destination_start_year": null,
+  "current": "Neurologist / global health fellow (Indiana license 2026-27)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/gabriel-sneh-md",
+    "type": "doximity",
+    "evidence": "Harvard Medical School Class of 2016; CT State Medical License 2018 - 2020; Opalski syndrome (Acta Neurologica Belgica 2024)"
+   },
+   {
+    "url": "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurology-residency/alumni",
+    "type": "search_snippet",
+    "evidence": "search result title: Alumni | Johns Hopkins Neurology Residency (page not readable, 403)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "123:sam:craft",
+  "name": "Samuel Craft",
+  "program_id": 123,
+  "identity": "confirmed",
+  "identity_basis": "Yale Neurology current residents page lists Samuel Craft (Middlebury BA, Yale MD, Hamden CT) under Class of 2030; Yale profile 'Postdoctoral Associate'; Doximity Yale MD 2024",
+  "residency_stated": [
+   {
+    "institution": "Yale-New Haven",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2025
+   },
+   {
+    "institution": "Yale",
+    "specialty": "neurology",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Now listed in Yale Neurology residency Class of 2030 (first-year resident, 2026-27); Yale profile bio still describes neurosurgery interest and title 'Hospital Resident' dept Internal Medicine / earlier 'Postdoctoral Associate'. Left neurosurgery after PGY-1 2024-25, research year 2025-26 then neurology.",
+  "year_left": 2025,
+  "destination_program": "Yale Neurology",
+  "destination_start_year": 2026,
+  "current": "Neurology resident (class of 2030), Yale",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.yale.edu/neurology/education/residency/residents/",
+    "type": "program_page",
+    "evidence": "Samuel Craft, MD grew up in Hamden, CT ... listed under Class of 2030"
+   },
+   {
+    "url": "https://medicine.yale.edu/profile/samuel-craft",
+    "type": "bio",
+    "evidence": "Title: Hospital Resident; residency: Yale Neurosurgery (bio text)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/samuel-craft-md-744013e6",
+    "type": "doximity",
+    "evidence": "Yale School of Medicine Class of 2024; Research, New Haven"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "125:hae:abdulrazeq",
+  "name": "Hael Abdulrazeq",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News snippet: Rutgers NJMS MD 2019, MI license 2019-2020 (Wayne State/DMC year), residency Brown/RIH 2020-2026",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2026
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Doximity: neurosurgery residency Brown 2020-2026 (chief resident); MI license 2019-2020 consistent with PGY-1 at Wayne State/DMC 2019-20 before program closure; now functional neurosurgery fellow UT Southwestern (LinkedIn/search). WSU residency itself not listed on Doximity.",
+  "year_left": 2020,
+  "destination_program": "Rhode Island Hospital/Brown University",
+  "destination_start_year": 2020,
+  "current": "Functional neurosurgery fellow, UT Southwestern (2026)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/hael-abdulrazeq-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2026 Rhode Island Hospital/Brown; Rutgers New Jersey Medical School Class of 2019; MI State Medical License 2019 - 2020"
+   }
+  ],
+  "searches_used": 1
+ }
+]

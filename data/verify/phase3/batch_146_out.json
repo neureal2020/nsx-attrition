@@ -1,0 +1,1062 @@
+[
+ {
+  "key": "114:kea:chee",
+  "name": "Keanu Chee",
+  "program_id": 114,
+  "identity": "probable",
+  "identity_basis": "Search snippet: 'Keanu Chee (2020-2024) is a Neurosurgery Resident at University of Washington'; MD Univ of Colorado 2024 (Colorado Scholar's Year); UW current resident listing page appears in results",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "UW neurosurgery resident (entered 2024); no evidence of departure",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/taxonomy/term/76?page=1",
+    "type": "search_snippet",
+    "evidence": "Keanu Chee (2020-2024) is a Neurosurgery Resident at University of Washington"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Keanu-Chee",
+    "type": "search_snippet",
+    "evidence": "Keanu CHEE | Medical Student | University of Colorado"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "114:kev:vanent",
+  "name": "Kevin Vanent",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW dept bio page for Kevin Vanent, MD; Doximity Seattle profile; MD UW School of Medicine per bio",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as current UW neurosurgery resident; Doximity page lists no residency entry (only WA license 2024-2027)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/kevin-vanent-md",
+    "type": "program_page",
+    "evidence": "UW Dept of Neurological Surgery resident bio"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kevin-vanent-md",
+    "type": "doximity",
+    "evidence": "Kevin Nhat Vanent MD, Other MD/DO, Seattle; WA State Medical License 2024-2027"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "114:mar:kelly-hedrick",
+  "name": "Margot Kelly-Hedrick",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW bio page (Duke MD, PGY-2 at time); Doximity: UW residency neurological surgery, Duke Class of 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity: Residency, Neurological Surgery, University of Washington 2024-2031",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/margot-kelly-hedrick-md",
+    "type": "program_page",
+    "evidence": "UW Dept of Neurological Surgery resident bio"
+   },
+   {
+    "url": "https://www.doximity.com/pub/margot-kelly-hedrick-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031; Duke University School of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "114:sam:sadler",
+  "name": "Samantha Sadler",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW bio for Samantha Sadler, MD (Harvard MD 2024, Duke BS)",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as current UW neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/samantha-sadler-md",
+    "type": "program_page",
+    "evidence": "UW Dept of Neurological Surgery resident bio"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/bio/samantha-sadler-md",
+    "type": "search_snippet",
+    "evidence": "Samantha Sadler, MD | UW Department of Neurological Surgery"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "114:log:muzyka",
+  "name": "Logan Muzyka",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW bio for Logan Muzyka, MD; UT Dell Med School MD; matched neurosurgery at UW 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Matched UW neurosurgery 2025; current PGY-2",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/logan-muzyka-md",
+    "type": "program_page",
+    "evidence": "UW Dept of Neurological Surgery resident bio"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/news-and-resources/meet-our-newest-uw-neurological-surgery-residents-1",
+    "type": "program_page",
+    "evidence": "Meet Our Newest UW Neurological Surgery Residents"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "114:mal:bashti",
+  "name": "Malek Bashti",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW bio for Malek Bashti, MD (Miami MD); Doximity Seattle 'Neurological Surgery Resident', Miami Class of 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "UW resident, snippet: graduating 2032",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/malek-bashti-md",
+    "type": "program_page",
+    "evidence": "UW Dept of Neurological Surgery resident bio"
+   },
+   {
+    "url": "https://www.doximity.com/pub/malek-bashti-md",
+    "type": "doximity",
+    "evidence": "Neurological Surgery Resident; University of Miami Miller School of Medicine Class of 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "114:mer:costello",
+  "name": "Meredith Costello",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW bio for Meredith Costello, MD (Miami MD 2025); Doximity Seattle neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "UW bio: PGY-1 at time of writing; current PGY-2",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/meredith-costello-md",
+    "type": "program_page",
+    "evidence": "UW Dept of Neurological Surgery resident bio"
+   },
+   {
+    "url": "https://www.doximity.com/pub/meredith-costello-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Seattle; University of Miami Miller School of Medicine Class of 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "114:ann:lally",
+  "name": "Anne Lally",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW bio: Incoming Resident PGY-1, Einstein MD; Doximity Bronx profile Einstein Class of 2025 (no residency listed)",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "UW incoming PGY-1 (2026)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/anne-lally-md",
+    "type": "program_page",
+    "evidence": "UW Dept of Neurological Surgery resident bio"
+   },
+   {
+    "url": "https://www.doximity.com/pub/anne-lally-md-fa89931a",
+    "type": "doximity",
+    "evidence": "Albert Einstein College of Medicine Class of 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "114:chi:anigbogu",
+  "name": "Chiagoziem Anigbogu",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW bio, Doximity (UW residency 2026-2033), CU School of Medicine MD 2026",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity: Residency, Neurological Surgery, UW 2026-2033; PGY-1",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/chiagoziem-anigbogu-md",
+    "type": "program_page",
+    "evidence": "UW Dept of Neurological Surgery resident bio"
+   },
+   {
+    "url": "https://www.doximity.com/pub/chiagoziem-anigbogu-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2026 - 2033; Neurosurgery Resident, PGY1"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "114:den:routkevitch",
+  "name": "Denis Routkevitch",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW bio Denis Routkevitch, MD, PhD (Johns Hopkins); Doximity JHU MD/PhD class of 2026 (profile still Baltimore, no residency listed)",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UW current resident page; PGY-1 2026",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/denis-routkevitch-md-phd",
+    "type": "program_page",
+    "evidence": "UW Dept of Neurological Surgery resident bio"
+   },
+   {
+    "url": "https://www.doximity.com/pub/denis-routkevitch-md",
+    "type": "doximity",
+    "evidence": "Johns Hopkins University School of Medicine Class of 2026; MD/PhD 2019-2026"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "114:tho:hanks",
+  "name": "Thomas Hanks",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "UW bio; UWSOM article on Thomas Hanks matching neurosurgery at UW; Doximity residency UW 2026-2033",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity: Residency, Neurological Surgery, University of Washington 2026-2033",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, University of Washington",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/thomas-hanks-md",
+    "type": "program_page",
+    "evidence": "UW Dept of Neurological Surgery resident bio"
+   },
+   {
+    "url": "https://www.doximity.com/pub/thomas-hanks-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2026 - 2033; UW School of Medicine Class of 2026"
+   },
+   {
+    "url": "https://education.uwmedicine.org/blog/2026/03/29/a-life-changing-match-thomas-hanks-heads-to-neurosurgery-at-the-university-of-washington/",
+    "type": "news",
+    "evidence": "A Life-Changing Match: Thomas Hanks Heads to Neurosurgery at the University of Washington"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:kut:uluc",
+  "name": "Kutluay Uluc",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UW Hospitals and Clinics neurosurgery residency 2011-2018, Istanbul Univ MD 2007, ABNS; Ascension St. Vincent bio",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2018; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Ascension St. Vincent, Evansville IN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kutluay-uluc-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://healthcare.ascension.org/find-care/provider/1326326315/kutluay-uluc",
+    "type": "bio",
+    "evidence": "board-certified neurosurgeon"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:sol:ondoma",
+  "name": "Solomon Ondoma",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UW residency 2011-2018, MBChB 2004, ABNS; MercyOne bio",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2018; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, MercyOne North Iowa, Mason City IA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/solomon-ondoma-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; ABNS"
+   },
+   {
+    "url": "https://www.mercyone.org/provider/solomon-mugisha-ondoma-md-neurosurgery",
+    "type": "bio",
+    "evidence": "MercyOne neurosurgery provider"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:kim:hamilton",
+  "name": "Kimberly Hamilton",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Chapel Hill; UW residency 2012-2019, Indiana MD 2012) plus UNC faculty page; distinctive career match (Emory peds fellowship)",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; then pediatric fellowship 2019-2020. Doximity also lists an odd 'Emory Residency, Orthopaedic Surgery' entry (unexplained, ignored)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Assistant Professor, UNC Health, Chapel Hill NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kimberly-hamilton-md-b5a6ad7b",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; Fellowship Pediatric Neurosurgery Children's Healthcare of Atlanta 2019-2020; ABNS"
+   },
+   {
+    "url": "https://www.med.unc.edu/neurosurgery/directory/kimberly-hamilton-md/",
+    "type": "bio",
+    "evidence": "UNC neurosurgery directory"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:yip:li",
+  "name": "Yiping Li",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Spokane profile: UW residency 2012-2019, Indiana MD 2012, ABNS; Providence bio",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019 then Stanford cerebrovascular fellowship",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "cerebrovascular/skull base neurosurgeon, Providence Sacred Heart, Spokane WA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/yiping-li-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, University of Wisconsin 2012 - 2019; ABNS"
+   },
+   {
+    "url": "https://www.providence.org/doctors/neurosurgery/wa/spokane/yiping-li-1699032961",
+    "type": "bio",
+    "evidence": "neurosurgeon Spokane"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:cla:haldeman",
+  "name": "Clayton Haldeman",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UW residency 2013-2020, Yale MD 2013, ABNS; Roper St Francis bio",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020; spine fellowship Miami 2021",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Roper St. Francis, Charleston SC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/clayton-haldeman-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; ABNS"
+   },
+   {
+    "url": "https://doctors.rsfh.com/provider/clayton-haldeman/2933862",
+    "type": "bio",
+    "evidence": "residency at University of Wisconsin Hospitals and Clinics"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:dem:dawkins",
+  "name": "Demi Dawkins",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UW residency 2014-2021, ECU Brody MD 2014; Midwest Neurosurgery bio and UW neurosurgery news article",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2021; ABNS not listed (board-eligible per practice page)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (neuroendovascular/cerebrovascular), Midwest Neurosurgery Associates, Kansas City MO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/demi-dawkins-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 (no ABNS listed)"
+   },
+   {
+    "url": "https://midwestneurosurgery.net/demi-dawkins-md/",
+    "type": "bio",
+    "evidence": "board-eligible neurosurgeon; residency University of Wisconsin-Madison"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:lar:bodden",
+  "name": "Larry Bodden",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UW residency 2014-2021, Univ Vermont MD 2014; Healthgrades/US News snippet Sacramento Kaiser",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2021 (ethics research year 2018-19); fellowship Cleveland Clinic 2021-22",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "functional/epilepsy neurosurgeon, Kaiser Permanente Sacramento CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/larry-bodden-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; Fellowship Functional and Stereotactic Neurosurgery Cleveland Clinic 2021-2022; MacLean Clinical Medical Ethics 2018-2019"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-larry-bodden-xylwp3j",
+    "type": "search_snippet",
+    "evidence": "Neurosurgeon in Sacramento, CA"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:vik:parmar",
+  "name": "Vikas Parmar",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UW residency 2014-2021, Albany Medical College 2014, ABNS; Goodman Campbell/ProHealth bios",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2021",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, ProHealth Care Waukesha WI (Goodman Campbell listing)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/vikas-parmar-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; ABNS"
+   },
+   {
+    "url": "https://www.goodmancampbell.com/our-team/team-member/vikas-parmar-md/",
+    "type": "bio",
+    "evidence": "neurosurgical residency and spine fellowship at the University of Wisconsin"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:bra:schmidt",
+  "name": "Bradley Schmidt",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "UW neurosurgery dept staff page and UW Health bio: Schmidt residency at UW; Ohio State MD 2015; Doximity only shows an anesthesiologist namesake",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency + chief 2015-2022, spine fellowship 2022-2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor, UW Dept of Neurological Surgery, Madison WI (spine)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.wisc.edu/staff/schmidt-bradley/",
+    "type": "bio",
+    "evidence": "Schmidt, Bradley - Dept of Neurological Surgery UW-Madison"
+   },
+   {
+    "url": "https://www.uwhealth.org/providers/bradley-schmidt-md",
+    "type": "search_snippet",
+    "evidence": "completed his Neurological Surgery Residency and Chief Resident position at UW 2015-2022, spine fellowship 2022-2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:mar:corriveau",
+  "name": "Mark Corriveau",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UW residency 2015-2022, Case Western MD 2015, ABNS; SSM Health bio",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2022",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, SSM Health St. Mary's, Madison WI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mark-corriveau-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:pau:page",
+  "name": "Paul Page",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Avon IN profile: UW residency 2016-2023, Louisville MD 2016, ABNS; Goodman Campbell bio; UW resident page",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Goodman Campbell, Avon/Indianapolis IN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/paul-page-md-d54653f2",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; Cleveland Clinic spine fellowship 2023-2024; ABNS"
+   },
+   {
+    "url": "https://www.goodmancampbell.com/our-team/team-member/paul-s-page-md/",
+    "type": "bio",
+    "evidence": "residency in Neurological Surgery at the University of Wisconsin"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:zhi:wei",
+  "name": "Zhikui Wei",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Jefferson faculty page: MD Johns Hopkins, residency at UW Health and Vanderbilt; UW resident profile; LinkedIn 'Neurosurgery Resident @ UWHC'",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2018
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UW neurosurgery after PGY-2 (2017-18); went to neurology residency at Vanderbilt (start year not verified, likely 2018), then sleep fellowship at Johns Hopkins",
+  "year_left": 2018,
+  "destination_program": "Vanderbilt University Medical Center (Neurology)",
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurology, Sleep Medicine fellowship associate director, Thomas Jefferson University, Philadelphia",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/neurology/faculty/wei.html",
+    "type": "bio",
+    "evidence": "residency at University of Wisconsin Health and Clinics and Vanderbilt University Medical Center; fellowship Johns Hopkins; Assistant Professor Department of Neurology"
+   },
+   {
+    "url": "https://www.linkedin.com/in/zhikui-zeke-wei-04532629/",
+    "type": "search_snippet",
+    "evidence": "Zhikui (Zeke) Wei - Neurosurgery Resident @ UWHC"
+   },
+   {
+    "url": "https://www.vumc.org/neurology/resident-spotlight/dr-zhikui-zeke-wei-resident-profile",
+    "type": "search_snippet",
+    "evidence": "Dr. Zhikui Zeke Wei Resident Profile | Department of Neurology (Vanderbilt; page behind login, not read)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "115:dan:burkett",
+  "name": "Daniel Burkett",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/SSM bio: Loyola Stritch MD 2017, neurosurgery residency at UW Madison; UW research pubs; neurosurgen.com '2024 Univ. of Wisconsin'",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW residency 2024 (neurosurgen.com listing; Doximity shows no residency dates)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine/cranial neurosurgeon, SSM Health, Madison WI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-burkett-md",
+    "type": "doximity",
+    "evidence": "Daniel Jeffrey Burkett MD, Neurosurgery, Madison WI; Loyola Stritch Class of 2017"
+   },
+   {
+    "url": "https://www.neurosurgen.com/person/942f92ad-a5bd-43f8-b68f-947b77c363c2",
+    "type": "search_snippet",
+    "evidence": "Daniel Burkett, 2024 Univ. of Wisconsin / Madison"
+   },
+   {
+    "url": "https://www.getcare.ssmhealth.com/find-a-doctor/doctor-details/daniel-j-burkett-md",
+    "type": "bio",
+    "evidence": "SSM Health neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "115:mar:kraemer",
+  "name": "Mark Kraemer",
+  "program_id": 115,
+  "identity": "confirmed",
+  "identity_basis": "Swedish bio: UW residency 2017-2024, spine neurosurgeon; UW MD 2016; UW hydrocephalus research",
+  "residency_stated": [
+   {
+    "institution": "University of Wisconsin Hospitals and Clinics",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2024; now practising spine neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Swedish Medical Center, Seattle WA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.swedish.org/doctors/neurosurgery/wa/seattle/mark-kraemer-1770019234",
+    "type": "bio",
+    "evidence": "University of Wisconsin Hospital and Clinics 2017-2024; neurosurgeon at Swedish Medical Center"
+   },
+   {
+    "url": "https://www.doximity.com/pub/mark-kraemer-md-8926ecd7",
+    "type": "doximity",
+    "evidence": "Mark Kraemer MD, Neurosurgery Resident label, Seattle; UW SMPH Class of 2016 (no residency/ABNS listed)"
+   }
+  ],
+  "searches_used": 2
+ }
+]

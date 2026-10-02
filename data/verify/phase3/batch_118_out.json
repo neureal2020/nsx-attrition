@@ -1,0 +1,1018 @@
+[
+ {
+  "key": "91:rus:joshi",
+  "name": "Rushikesh Joshi",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery, University of Michigan 2021-2028; UCSD MD 2021; Google: PGY-5 resident UMich, UCSD MD",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich neurosurgery resident (expected 2028)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rushikesh-joshi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 - 2028 University of Michigan"
+   },
+   {
+    "url": "https://medresearch.umich.edu/profile/rushikesh-joshi-md",
+    "type": "search_snippet",
+    "evidence": "PGY-5 Resident in Neurosurgery at the University of Michigan"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "91:arm:mortazavi",
+  "name": "Armin Mortazavi",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "UMich profile snippet: PGY-5 neurosurgery resident, Georgetown MD; Doximity Georgetown Class of 2020, Ann Arbor MI",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.umich.edu/profile/armin-mortazavi-md",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery PGY-5 Resident ... Georgetown University School of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/armin-mortazavi-md-30c15671",
+    "type": "doximity",
+    "evidence": "Resident Physician, Ann Arbor; Georgetown Class of 2020; MI license 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "91:cyl:bird",
+  "name": "Cylaina Bird",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "UMich Neurosurgery X post lists her in class starting 2022; UTSW MD (Doximity Class of 2021); Ann Arbor",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/CormacOMaher/status/1539337596307791873",
+    "type": "search_snippet",
+    "evidence": "First day of residency for Drs. Cylaina Bird, Armin Mortazavi and Edwin Nieblas-Bedolla. Welcome Michigan Neurosurgery class of 2029"
+   },
+   {
+    "url": "https://www.doximity.com/pub/cylaina-bird-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Ann Arbor; UT Southwestern Class of 2021"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "91:edw:nieblas-bedolla",
+  "name": "Edwin Nieblas-Bedolla",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "UMich profile and X post: neurosurgery resident starting 2022 (class of 2029); 2026-27 NREF fellowship grant",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich resident; awarded 2026-27 NREF research fellowship (research year)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/umichneuro/status/2061145771869937863",
+    "type": "search_snippet",
+    "evidence": "Congratulations to Dr. Edwin Nieblas-Bedolla on winning both the 2026-27 NREF Research Fellowship Grant and the 2026 ASCO Young Investigator Award"
+   },
+   {
+    "url": "https://x.com/CormacOMaher/status/1539337596307791873",
+    "type": "search_snippet",
+    "evidence": "Welcome Michigan Neurosurgery class of 2029"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "91:eli:duquette",
+  "name": "Elizabeth Duquette",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UMich neurosurgery residency 2023-2030, Georgetown MD 2023",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/elizabeth-duquette-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030 University of Michigan; Georgetown Class of 2023"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "91:luk:mcveigh",
+  "name": "Luke McVeigh",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UMich neurosurgery residency 2023-2030, Indiana Univ MD 2023; Michigan Medicine news story",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/luke-mcveigh-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030 University of Michigan"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "91:emr:kiziltug",
+  "name": "Emre Kiziltug",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "UMich X post: new resident with Johan Lee (2024, from Yale); UMich profile",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich resident, joined 2024 from Yale",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/umichneuro/status/1807831340449923211",
+    "type": "search_snippet",
+    "evidence": "Welcome to our new residents, Dr. Johan Lee (from UMichMedSchool) and Dr. Emre Kiziltug (from YaleMed)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/emre-kiziltug-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Ann Arbor; Yale School of Medicine; MI license 2026"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "91:joh:lee",
+  "name": "Johan Lee",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "UMich Neurosurgery X post welcomes Johan Lee (UMich MD) as new 2024 resident; UMich profile PGY-2. Doximity has 'John Han Lee' Ann Arbor neurosurgery (no education listed), likely same person via papers with UMich residents",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich resident, joined 2024. Doximity page under 'John Han Lee' lists no training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/umichneuro/status/1807831340449923211",
+    "type": "search_snippet",
+    "evidence": "Welcome to our new residents, Dr. Johan Lee (left; from UMichMedSchool)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/john-lee-md-d63f016b",
+    "type": "doximity",
+    "evidence": "John Han Lee MD Neurosurgery Ann Arbor; MI license 2024-2027; no education listed"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "91:jai:patel",
+  "name": "Jaimin Patel",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "UMich profile snippet and Facebook/X: new 2025 neurosurgery resident, Johns Hopkins MD",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich PGY-2 (joined 2025)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.umich.edu/profile/jaimin-patel-md",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery PGY-1 Resident ... Johns Hopkins School of Medicine"
+   },
+   {
+    "url": "https://x.com/umichneuro/status/1961949844211212441",
+    "type": "search_snippet",
+    "evidence": "welcoming our talented new interns! Preethi Reddi, Jordan Norris, and Jaimin Patel"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "91:jor:norris",
+  "name": "Jordan Norris",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UMich neurosurgery residency 2025-2032, Univ of Toledo MD 2025; X post welcomes him as 2025 intern",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jordan-norris-md-85e49d8c",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2025 - 2032 University of Michigan; University of Toledo Class of 2025"
+   },
+   {
+    "url": "https://x.com/umichneuro/status/1961949844211212441",
+    "type": "search_snippet",
+    "evidence": "Preethi Reddi, Jordan Norris, and Jaimin Patel"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "91:pre:reddi",
+  "name": "Preethi Reddi",
+  "program_id": 91,
+  "identity": "confirmed",
+  "identity_basis": "X post lists her as new 2025 UMich neurosurgery intern; Doximity Ann Arbor MCG 2024, UMich affiliation",
+  "residency_stated": [
+   {
+    "institution": "University of Michigan",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current UMich PGY-2",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, University of Michigan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/umichneuro/status/1961949844211212441",
+    "type": "search_snippet",
+    "evidence": "welcoming our talented new interns! Preethi Reddi, Jordan Norris, and Jaimin Patel"
+   },
+   {
+    "url": "https://www.doximity.com/pub/preethi-reddi-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Ann Arbor; Medical College of Georgia Class of 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "92:aks:gupte",
+  "name": "Akshay Gupte",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UMN neurosurgery residency 2011-2018; ABNS; UMN news story",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN residency 2018; practises neurosurgery, Oxnard CA / El Paso TX",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Oxnard, CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/akshay-gupte-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 University of Minnesota; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "92:ami:goyal",
+  "name": "Amit Goyal",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Bayhealth/UMN news: UMN residency 2011-2017, chief 2017-18, Georgetown MD 2011",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN 2018 (chief year 2017-18); fellowship Sydney; neurosurgeon Oxnard CA",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Oxnard, CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/amit-goyal-md-6e8cb763",
+    "type": "doximity",
+    "evidence": "Residency 2011 - 2017; Chief Residency 2017 - 2018 University of Minnesota; ABNS"
+   },
+   {
+    "url": "https://www.beckersspine.com/spine/dr-amit-goyal-joins-bayhealth-neurosurgery-3-insights/",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery at the University of Minnesota from 2011 to 2017, and served as Chief Resident from 2017 to 2018"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "92:jos:lim",
+  "name": "Joshua Lim",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UMN neurosurgery 2012-2019, SUNY Upstate MD 2011; UMN graduating-residents news",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN June 2019 (chief); spine fellowship Johns Hopkins; neurosurgeon Greenbelt MD",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Greenbelt, MD (Adventist HealthCare)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joshua-lim-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019 University of Minnesota; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "92:mol:hubbard",
+  "name": "Molly Hubbard",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "UMN news/AANS memorial: UMN neurosurgery 2012-2019 chief resident, Univ of Vermont MD",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN residency June 2019; started pediatric neurosurgery fellowship at OHSU July 2019",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Pediatric neurosurgery fellow, OHSU (2019-2020)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.umn.edu/neurosurgery/news/remembering-molly",
+    "type": "program_page",
+    "evidence": "UMN Neurosurgery memorial page"
+   },
+   {
+    "url": "https://pedsneurosurgery.org/memorial-molly-hubbard/",
+    "type": "search_snippet",
+    "evidence": "trained in neurosurgery at the University of Minnesota from 2012 to 2019, chief resident, graduating June 21, 2019"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "92:cor:quinn",
+  "name": "Coridon Quinn",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UMN neurosurgery residency 2013-2020, UMN MD 2013; ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN 2020; neuroendovascular fellowship UMN 2020-21; neurosurgery/interventional neuroradiology, Asheville NC",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon / neuroendovascular, Asheville, NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/coridon-quinn-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 University of Minnesota; Fellowship Neuroendovascular 2020 - 2021; ABNS"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "92:dav:darrow",
+  "name": "David Darrow",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and UMN bio: UMN neurosurgery residency 2013-2020, UTMB MD 2013; faculty",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN 2020; now UMN faculty (functional/pain neurosurgery)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Associate Professor of Neurosurgery, University of Minnesota / HCMC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/daviddarrow",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 University of Minnesota; ABNS"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "92:ada:khan",
+  "name": "Adam Khan",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UMN residency 2014-2021, Univ of Michigan MD 2014; UMN news (completed June 25, 2021)",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN June 2021 (chief); neuroendovascular fellowship Michigan; neurosurgeon Dearborn MI",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Dearborn, MI (Corewell)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adam-khan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 University of Minnesota; ABNS"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "92:jac:leschke",
+  "name": "Jack Leschke",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/bio: neurology residency then UMN neurosurgery; UMN news June 25, 2021 completion",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN neurosurgery June 2021 after prior neurology residency (MCW); dual ABNS/ABPN; spine surgeon Appleton WI",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (spine), Appleton, WI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jack-leschke-md",
+    "type": "doximity",
+    "evidence": "American Board of Neurological Surgery; American Board of Psychiatry and Neurology, Neurology"
+   },
+   {
+    "url": "https://med.umn.edu/neurosurgery/news/our-graduates-feel-well-prepared-take-their-next-steps",
+    "type": "search_snippet",
+    "evidence": "On June 25, 2021, Adam Khan, MD, and Jack Leschke, MD, completed their journey as neurosurgery residents at the University of Minnesota"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "92:dav:freeman",
+  "name": "David Freeman",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "UMN news: chief resident completing 7th year June 24 2022; Doximity UMN neurosurgery residency, Loyola MD/PhD; UofL Health",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN June 2022; spine fellowship Miami; neurosurgeon UofL Louisville",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (spine), UofL Health, Louisville KY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-freeman-md-fd6463e7",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery University of Minnesota; ABNS; Loyola Stritch"
+   },
+   {
+    "url": "https://med.umn.edu/neurosurgery/news/graduating-residents-feel-well-prepared-what-comes-next",
+    "type": "search_snippet",
+    "evidence": "On June 24, 2022, Chief Residents David Freeman, MD, PhD ... completed the seventh and final year"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "92:lau:sand",
+  "name": "Lauren Albert Sand",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UMN residency 2015-2022, LSU MD 2015, publications under Lauren M. Albert; UMN news chief resident 2022",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN June 2022; neurocritical care fellowship; neurosurgeon Methodist Dallas/Richardson TX",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Methodist Health System, Richardson TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/lauren-sand-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 University of Minnesota"
+   },
+   {
+    "url": "https://med.umn.edu/neurosurgery/news/graduating-residents-feel-well-prepared-what-comes-next",
+    "type": "search_snippet",
+    "evidence": "Chief Residents David Freeman, MD, PhD; and Lauren Sand, MD, completed the seventh and final year"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "92:bry:ladd",
+  "name": "Bryan Ladd",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UMN residency 2016-2023, UMN MD 2016; UMN news",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN 2023; spine fellowship Johns Hopkins; neurosurgeon Columbus OH (Ohio State)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon (spine), Columbus, OH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/bryan-ladd-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 University of Minnesota"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "92:sam:cramer",
+  "name": "Samuel Cramer",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Hennepin bio: UMN residency 2016-2023, UMN MD/PhD 2016",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UMN 2023; attending neurosurgeon Hennepin Healthcare",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Attending neurosurgeon, Hennepin Healthcare, Minneapolis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/samuel-cramer-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 University of Minnesota"
+   },
+   {
+    "url": "https://www.hennepinhealthcare.org/provider/samuel-cramer-md-phd/",
+    "type": "search_snippet",
+    "evidence": "Hennepin Healthcare neurosurgeon"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "92:you:hamade",
+  "name": "Youssef Hamade",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "UMN Neurosurgery Facebook posts show him as UMN resident; Loma Linda residents page lists Youssef Hamade PGY-7, American University of Beirut (AUB) MD",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2023
+   },
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "UMN PGY1-6 2017-2023; now listed at Loma Linda as PGY-7 (2026-27). Doximity public page currently not found; an older search snippet gave Minneapolis/UMN.",
+  "year_left": 2023,
+  "destination_program": "Loma Linda University Neurosurgery",
+  "destination_start_year": 2023,
+  "current": "Neurosurgery resident (PGY-7), Loma Linda University",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Youssef Hamade, PGY-7, American University of Beirut (WebFetch summary)"
+   },
+   {
+    "url": "https://www.facebook.com/UMNNeurosurgery/photos/neurosurgery-resident-dr-youssef-hamade-discussed-the-possibility-of-lowering-de/2318910781497989/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery resident Dr. Youssef Hamade discussed ... (UMN Neurosurgery)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "92:max:tran",
+  "name": "Maxwell Tran",
+  "program_id": 92,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MUSC radiation oncology residency 2020-2024, Baylor MD 2018; MUSC page in DB notes lists prior neurosurgery; Holzer bio says matched neurosurgery, left after two years",
+  "residency_stated": [
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2020
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UMN neurosurgery after 2 years (PGY2 in 2019-20); radiation oncology residency MUSC 2020-2024",
+  "year_left": 2020,
+  "destination_program": "MUSC Radiation Oncology",
+  "destination_start_year": 2020,
+  "current": "Radiation oncologist, Lady Lake FL / Holzer Gallipolis OH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/maxwell-tran-md",
+    "type": "doximity",
+    "evidence": "Residency, Radiation Oncology, 2020 - 2024 Medical University of South Carolina; Baylor Class of 2018; ABR"
+   },
+   {
+    "url": "https://www.holzer.org/find-a-doctor/profile/maxwell-tran/",
+    "type": "search_snippet",
+    "evidence": "matched into neurosurgery for residency, but after two years ... radiation oncology ... Medical University of South Carolina"
+   }
+  ],
+  "searches_used": 2
+ }
+]

@@ -1,0 +1,387 @@
+[
+ {
+  "name": "Ridhima Guniganti",
+  "program_id": 120,
+  "verdict": "switched_specialty",
+  "neurosurgery_residency": {
+   "institution": "Washington University in St. Louis",
+   "start": 2018,
+   "end": 2021
+  },
+  "other_training": [
+   {
+    "type": "residency",
+    "specialty": "Ophthalmology",
+    "institution": "Washington University in St. Louis (Dept. of Ophthalmology & Visual Sciences, Barnes-Jewish)",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "fellowship (probable)",
+    "specialty": "Ophthalmology (likely oculoplastics / oculofacial plastic surgery)",
+    "institution": "University of Louisville (Kentucky Lions Eye Center)",
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Ophthalmologist; most recent affiliation University of Louisville Dept. of Ophthalmology & Visual Sciences (2025-2026 papers); listed as Volunteer in Weill Cornell ophthalmology directory",
+  "sources": [
+   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Guniganti%20R%22&resultType=core&format=json&pageSize=25",
+   "https://pubmed.ncbi.nlm.nih.gov/39182513/",
+   "https://experts.umn.edu/en/publications/the-efficacy-and-safety-of-teprotumumab-in-geriatrics-patients-a-/",
+   "https://health.usnews.com/doctors/ophthalmologists/saint-louis-mo?specialty=ophthalmologists&page_num=4",
+   "https://directory.weill.cornell.edu/person/profile/rig7008",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&last_name=Guniganti",
+   "https://www.doximity.com/pub/ridhima-guniganti-md"
+  ],
+  "evidence": "Europe PMC author affiliations for Guniganti R: neurosurgery-era papers list 'Department of Neurological Surgery/Neurosurgery, Washington University' (2022-2025, dAVF work). Later papers list 'Department of Ophthalmology & Visual Sciences, Washington University in St Louis' (pediatric MOGAD optic neuritis, Can J Ophthalmol 2024/25), 'Department of Ophthalmology, Barnes-Jewish Hospital, Washington University' (teprotumumab geriatrics, Ophthal Plast Reconstr Surg 2026), and 'Department of Ophthalmology and Visual Sciences, University of Louisville School of Medicine, Kentucky Lions Eye Center' (endoscopic forehead/brow lift, Aesthetic Plast Surg 2025; GLP-1 NAION, Ophthalmology 2026). A WebSearch snippet of the US News St. Louis ophthalmologists list describes her as an ophthalmologist; Weill Cornell directory search snippet ties her to Ophthalmology (Volunteer). NPI 1659866580 still Neurological Surgery (last updated 2018, stale).",
+  "confidence": "medium",
+  "notes": "Agrees with current_outcome 'LEFT -> SWITCHED SPECIALTY'; new specialty identified as ophthalmology (WashU ophthalmology residency, then oculoplastics-type work at Louisville). Exact ophthalmology residency/fellowship years not found in an explicit source; the US News page timed out on fetch (claim from search snippet). Preethi Guniganti (WCM radiology) is a different person. PubMed direct page showed a CAPTCHA (not bypassed); Europe PMC used instead."
+ },
+ {
+  "name": "Kyle McGrath",
+  "program_id": 120,
+  "verdict": "not_found",
+  "neurosurgery_residency": {
+   "institution": "Washington University/B-JH/SLCH Consortium",
+   "start": 2025,
+   "end": 2026
+  },
+  "other_training": [],
+  "current_position": "Unknown after PGY1 (2025-26); online profiles (Google Scholar, LinkedIn, Doximity) still self-describe him as a WashU neurosurgery resident",
+  "sources": [
+   "https://neurosurgery.wustl.edu/2025-residency-match-class/",
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://neurosurgery.wustl.edu/welcoming-our-new-neurosurgery-residents/",
+   "https://neurosurgery.wustl.edu/people/kyle-mcgrath-md/",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Kyle&last_name=McGrath&limit=50",
+   "https://scholar.google.com/citations?user=WXoDGFEAAAAJ&hl=en",
+   "https://www.linkedin.com/in/kyle-mcgrath-470152182",
+   "https://www.doximity.com/pub/kyle-mcgrath-md",
+   "https://neurosurgery.ufl.edu/residency/current-residents/"
+  ],
+  "evidence": "WashU 2025 match class included Kyle McGrath (UF MD 2025, UNC BS, hometown Vienna VA). The current WashU roster (2026-27) PGY2 = Megan Bauman Graves, Salil Bhole, Riley Driscoll; McGrath absent and his bio page returns 404. WashU post dated 2026-03-25 'Welcoming Our New Neurosurgery Residents' names Salil Bhole (Univ. of Illinois Peoria) as an incoming PGY2, i.e. a replacement for McGrath's spot, so the departure was known by March 2026. NPI 1184469165 (Kyle McGrath MD): Neurological Surgery taxonomy with MO license 2025023336, WashU address, last updated 2025-06-17; no newer record. Google Scholar (wustl.edu email) and LinkedIn still say 'Neurosurgery Resident, Washington University' (stale). Not on UF neurosurgery roster.",
+  "confidence": "medium",
+  "notes": "Agrees with current_outcome 'LEFT -> outcome unknown'. Departure after PGY1 is well supported (backfilled PGY2 announced March 2026), but no source gives his destination (transfer, specialty switch or other). Namesake: Kyle Andrew McGrath, DO (Ohio Univ. DO, Univ. of Cincinnati neurosurgery resident, NPI 1710637236) is a different person. Doximity 406; used search snippets."
+ },
+ {
+  "name": "Michelle Chua",
+  "program_id": 4,
+  "verdict": "not_found",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute (St. Joseph's)",
+   "start": 2017,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Unknown; directories (WebMD, Healthgrades, Vitals, MediFind) still list a Barrow-address neurosurgery record built from the 2017 NPI",
+  "sources": [
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Michelle&last_name=Chua&limit=50",
+   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Chua%20MH%22%20AND%20(neurosurg*%20OR%20aneurysm%20OR%20Barrow)&resultType=core&format=json&pageSize=50&sort=P_PDATE_D%20desc",
+   "https://www.vitals.com/doctors/Michelle_Huijuan_Chua.html",
+   "https://www.medifind.com/doctors/michelle-h-chua/9897794",
+   "https://api.openalex.org/works?filter=author.id:A5010497888&sort=publication_year:desc&per-page=15&select=publication_year,title,authorships",
+   "https://web.archive.org/web/20180812054505/https://www.barrowneuro.org/get-to-know-barrow/departments/department-of-neurosurgery/neurosurgery-residents/"
+  ],
+  "evidence": "Identity: Michelle Huijuan (Hui Juan) Chua, Harvard MD 2017 (Vitals snippet); medical-school research at BIDMC/Harvard neurosurgery (2016-2018 papers). Barrow roster PGY1 2017-18 and PGY2 2018-19. Only NPI 1952831935: Neurological Surgery, AZ resident license R78196, Barrow address, created and last updated 2017-06-13. Her latest Europe PMC paper with a neurosurgery affiliation is 2020 (J Neurosurg, 'angiographically occult aneurysms', Barrow). No later publication, license, NPI, or employer record found under her name.",
+  "confidence": "low",
+  "notes": "Consistent with current_outcome 'LEFT -> outcome unknown'. Namesakes excluded: Melissa Hui Xin Chua (NUHS Singapore pediatrics, 2019 BMC Pediatrics paper); OpenAlex merges her with Australian authors (Royal Melbourne Hospital radiology 2024-25; Univ. of Sydney Brain and Mind Centre, BSc researcher), who are probably different people (a consultant chest radiologist at RMH by ~2024 does not fit a US PGY2 in 2019). No marriage/name-change record found. Arizona board lookup is not reachable through WebFetch."
+ },
+ {
+  "name": "Eric Nturibi",
+  "program_id": 116,
+  "verdict": "conflicting",
+  "neurosurgery_residency": {
+   "institution": "University of Pittsburgh Medical Center",
+   "start": 2022,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Unclear. Doximity snippet: 'Resident Physician, Pittsburgh, PA'; latest paper (Jan 2026) gives UPMC Dept. of Neurological Surgery affiliation; absent from 2026-27 Pitt neurosurgery roster",
+  "sources": [
+   "https://x.com/PittNeurosurg/status/1504903232790880264?lang=en",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+   "https://www.neurosurgery.pitt.edu/people/residents",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates",
+   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Nturibi%20E%22&resultType=core&format=json&pageSize=30&sort=P_PDATE_D%20desc",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&last_name=Nturibi",
+   "https://www.doximity.com/pub/eric-nturibi-md",
+   "https://doctor.webmd.com/doctor/eric-nturibi-0e500de8-bc79-4096-9c1c-8e07dddf4fa1-overview",
+   "https://aans.digitellinc.com/b/sp/eric-nturibi-628"
+  ],
+  "evidence": "Pitt Neurosurgery Match Day 2022 post: Joe Garcia, Eric Nturibi, Will Shuman and James Yoon matched. Pitt MD 2022 (Doximity/WebMD). The 2026-27 Pitt roster and people page list only Will Shuman at PGY-5; Nturibi (and Yoon) are absent, not on the graduates list, and his people-page URL no longer resolves to a profile. However, Europe PMC shows two J Neurosurg Pediatr papers first published 2026-01-16 (PMIDs 41569676, 41569681; pediatric Chiari I series with Pollack/Greene) with Nturibi as first author, affiliation 'Department of Neurological Surgery, University of Pittsburgh Medical Center'. NPI 1780265371 is a trainee record created April 2021 (med-school era), never updated. Doximity snippet still says 'Resident Physician, Pittsburgh'.",
+  "confidence": "low",
+  "notes": "current_outcome 'LEFT -> outcome unknown' is plausible (off the roster since 2024-25) but not confirmed: a 2026 first-author paper still lists UPMC neurosurgery, which could reflect earlier work or a research/leave status not shown on the roster. Classmate James Yoon disappeared from the roster at the same time (worth checking together). Namesake: Eric Mugambi Nturibi (Kenyatta Univ./Univ. of Nairobi internist; Google Scholar uKAHTpIAAAAJ; ORCID 0000-0001-5177-2797) is a different person. Doximity 406; Wayback Machine not reachable via WebFetch."
+ },
+ {
+  "name": "Javier Figueroa",
+  "program_id": 4,
+  "verdict": "transferred_out",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute (St. Joseph's)",
+   "start": 2014,
+   "end": 2015
+  },
+  "other_training": [
+   {
+    "type": "postdoctoral research fellowship",
+    "specialty": "Neuro-oncology research",
+    "institution": "UC San Diego (Moores Cancer Center)",
+    "start": 2015,
+    "end": 2017
+   },
+   {
+    "type": "residency",
+    "specialty": "Neurological Surgery",
+    "institution": "University of Miami/Jackson Health System",
+    "start": 2017,
+    "end": 2020
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Pediatric neurosurgery",
+    "institution": "Phoenix Children's Hospital",
+    "start": null,
+    "end": null
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Neurosurgical spine surgery",
+    "institution": "Houston Methodist Hospital",
+    "start": null,
+    "end": null
+   }
+  ],
+  "current_position": "Practicing neurosurgeon (ACME Spine & Orthopedics; AdventHealth, Altamonte Springs/Winter Park FL); previously Texas Spine Concierge, Houston",
+  "sources": [
+   "https://www.doximity.com/pub/javier-figueroa-md-f5ac4c3e",
+   "https://www.doximity.com/pub/javier-figueroa-md-2eced74d",
+   "https://www.acmespineandortho.com/javier-m-figueroa-md-phd",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Javier&last_name=Figueroa&taxonomy_description=Neurological%20Surgery&limit=50",
+   "https://health.usnews.com/doctors/javier-figueroa-995077",
+   "https://www.adventhealth.com/doctors/javier-figueroa-md-1124439294",
+   "https://med.miami.edu/departments/neurosurgery/education/alumni/meet-our-alumni"
+  ],
+  "evidence": "Doximity (search snippets, Javier Figueroa II, MD): MD/PhD UTHealth McGovern 2014; residency in Neurological Surgery, Barrow Neurological Institute at St Joseph's, 2014-2015; post-doctoral neuro-oncology fellowship UCSD 2015-2017; residency in Neurological Surgery, University of Miami/Jackson Health System, 2017-2020. ACME Spine bio: 'trauma neurosurgery residency at Jackson Memorial', pediatric neurosurgery fellowship at Phoenix Children's, spine fellowship at Houston Methodist. NPI 1124439294 (Javier Miguel Figueroa II, MD PhD): Neurological Surgery, licenses FL ME169459, CA A142022, TX T2600; enumerated 2014-05-12 (fits a 2014 PGY1 start), updated 2026-06-25.",
+  "confidence": "high",
+  "notes": "Agrees with current_outcome 'TRANSFERRED (neurosurgery elsewhere, likely Miami)': left Barrow after the 2014-15 PGY1 and resumed neurosurgery training at Miami/Jackson 2017-2020. Caveat: he is not on Miami's 'Meet our Alumni' graduate list (2018-2023), so whether he completed an ACGME Miami residency is unclear (3-year Miami stint, then fellowships). The Arizona EM physician on Doximity 'javier-figueroa-md' flagged in the prior check is a different person."
+ },
+ {
+  "name": "Jacob Joseph",
+  "program_id": 91,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "University of Michigan",
+   "start": 2012,
+   "end": 2019
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Neurotrauma and complex spine surgery",
+    "institution": "University of Pittsburgh (UPMC)",
+    "start": 2019,
+    "end": 2020
+   }
+  ],
+  "current_position": "Faculty neurosurgeon, University of Michigan Department of Neurosurgery (Ann Arbor); ABNS board certified",
+  "sources": [
+   "https://www.uofmhealth.org/profile/1841551090/jacob-rahul-rajiv-joseph",
+   "https://medschool.umich.edu/profile/6956/jacob-r-joseph",
+   "https://weil.squarespace.com/members/jacob-joseph",
+   "https://www.trinityhealthmichigan.org/provider/jacob-joseph-md-neurological-surgery",
+   "https://health.usnews.com/doctors/jacob-joseph-976986",
+   "https://www.doximity.com/pub/jacob-joseph-md-462a7246",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Jacob&last_name=Joseph&taxonomy_description=Neurological%20Surgery&limit=50"
+  ],
+  "evidence": "Bio (Weil Institute / U-M profile, via search snippets): Jacob R. Joseph, MD, Baylor College of Medicine MD, 'completed a seven-year residency in Neurological Surgery at the University of Michigan' 2012-2019, Chief Resident 2018-2019, then a fellowship in neurotrauma and complex spine surgery at Pittsburgh (Okonkwo, Kanter). Trinity Health Michigan provider page: residency University of Michigan Hospitals, board certified ABNS, practicing at U-M Dept. of Neurosurgery. NPI 1841551090 (Jacob Rahul Rajiv Joseph, MD): Neurological Surgery, MI license, U-M address, enumerated 2012-06-05 (fits the 2012 start).",
+  "confidence": "high",
+  "notes": "Agrees with current_outcome COMPLETED. The full name is Jacob Rahul Rajiv Joseph. The earlier Doximity default 'jacob-joseph-md' was a gastroenterologist namesake; the correct Doximity profile is jacob-joseph-md-462a7246. U-M medschool profile returned 403 and the Weil page returned 404 on fetch, so the residency years and chief year come from search snippets of those pages."
+ },
+ {
+  "name": "Douglas Snyder",
+  "program_id": 60,
+  "verdict": "switched_specialty",
+  "neurosurgery_residency": {
+   "institution": "Saint Louis University (SSM Health)",
+   "start": 2016,
+   "end": 2018
+  },
+  "other_training": [
+   {
+    "type": "internship",
+    "specialty": "Preliminary/transitional year (for ophthalmology)",
+    "institution": "Saint Louis University",
+    "start": 2018,
+    "end": 2019
+   },
+   {
+    "type": "residency",
+    "specialty": "Ophthalmology",
+    "institution": "Saint Louis University",
+    "start": 2019,
+    "end": 2022
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Neuro-ophthalmology",
+    "institution": "Washington University School of Medicine",
+    "start": 2022,
+    "end": 2023
+   }
+  ],
+  "current_position": "Neuro-ophthalmologist, Assistant Professor of Ophthalmology & Visual Sciences, University of Wisconsin-Madison (previously Assistant Professor of Ophthalmology, SLU/SSM Health)",
+  "sources": [
+   "https://www.getcare.ssmhealth.com/find-a-doctor/doctor-details/douglas-w-snyder-md",
+   "https://www.ophth.wisc.edu/blog/staff/snyder-douglas/",
+   "https://www.doximity.com/pub/douglas-snyder-md-a025c72c",
+   "https://www.slu.edu/medicine/ophthalmology/ophthalmology-residency/alumni.php",
+   "https://ophthalmology.wustl.edu/people/douglas-snyder-md/",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Douglas&last_name=Snyder&limit=100"
+  ],
+  "evidence": "SSM Health profile (Douglas W. Snyder, MD): medical school Northeastern Ohio Univ. College of Medicine completed 2016; residency at Saint Louis University School of Medicine completed 2017 and 2022; internship SLU completed 2019; fellowship Washington University completed 2023. Doximity (search snippet): NEOMED 2012-2016, internship SLU 2018-2019, residency SLU 2019-2022, neuro-ophthalmology fellowship 2022-2023. UW-Madison bio: Assistant Professor of Ophthalmology & Visual Sciences, residency SLU, fellowship WashU. NPI 1891144697 (Douglas William Snyder, MD) was enumerated 2016-06-13 (fits a July 2016 SLU start); taxonomy Ophthalmology, Neuro-ophthalmology, MO license.",
+  "confidence": "high",
+  "notes": "Agrees with current_outcome 'LEFT -> SWITCHED SPECIALTY'; the new specialty is ophthalmology (neuro-ophthalmology). The earlier SLU 'residency' entry (the SSM profile lists a residency completed in 2017), the 2016 NPI and the SLU neurosurgery roster (PGY2 in 2017-18) fit neurosurgery 2016-~2018, followed by a new internship in 2018-19. Excluded namesakes: an anesthesiologist (EVMS 1980, MD/MT/WA) and an EM physician (NC)."
+ },
+ {
+  "name": "Daniel Shepherd",
+  "program_id": 40,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic College of Medicine and Science (Rochester)",
+   "start": 2011,
+   "end": 2018
+  },
+  "other_training": [
+   {
+    "type": "enfolded fellowship",
+    "specialty": "Complex spine / neurosurgical spine surgery",
+    "institution": "Mayo Clinic Rochester",
+    "start": 2017,
+    "end": 2018
+   }
+  ],
+  "current_position": "Neurosurgeon, Washington Regional Brain and Spine Surgery Clinic / J.B. Hunt Transport Services Neuroscience Institute, Fayetteville, AR",
+  "sources": [
+   "https://www.wregional.com/main/news/dr-daniel-shepherd-joins-washington-regional-175",
+   "https://www.beckersspine.com/spine/dr-daniel-shepherd-joins-washington-regional-3-details/",
+   "https://www.doximity.com/cv/daniel-shepherd-md",
+   "https://health.usnews.com/doctors/daniel-shepherd-747795",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&last_name=Shepherd&taxonomy_description=Neurological%20Surgery&limit=50"
+  ],
+  "evidence": "Washington Regional news (2018-12-07): Dr. Daniel Shepherd, ranked first in his UAMS class, 'completed a neurological surgery residency at Mayo Clinic School of Medicine in Rochester, Minnesota, where he also completed an enfolded complex spine fellowship', and recently joined Washington Regional. Doximity CV (search snippet): UAMS MD 2011; neurological surgery residency at Mayo Clinic Rochester 2011-2018; spine fellowship at Mayo 2017-2018. NPI 1164717518 (Daniel L. Shepherd, MD): Neurological Surgery, MN license 55460 plus AR license E-11111, Fayetteville AR, enumerated 2011-06-14.",
+  "confidence": "high",
+  "notes": "Agrees with current_outcome COMPLETED. The correct Doximity profile is /cv/daniel-shepherd-md (Daniel L. Shepherd). The Loyola 2014 pathologist found in the prior check is a namesake."
+ },
+ {
+  "name": "Nitesh Patel",
+  "program_id": 40,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic College of Medicine and Science (Rochester)",
+   "start": 2019,
+   "end": 2026
+  },
+  "other_training": [],
+  "current_position": "Neurosurgeon in practice, Summerville, SC (NPI address 300 Callen Blvd Ste 200, Summerville SC; SC license 97076), per NPI update of 2026-08-05; employer not named in any source found",
+  "sources": [
+   "https://www.doximity.com/pub/nitesh-patel-md-62d8c2db",
+   "https://health.usnews.com/doctors/nitesh-patel-1813686",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Nitesh&last_name=Patel&limit=50",
+   "https://scholar.google.com/citations?hl=en&user=V1ElqNUAAAAJ",
+   "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-minnesota/meet-our-trainees/",
+   "https://www.linkedin.com/in/nitesh-patel-md-97424b123/"
+  ],
+  "evidence": "Doximity (search snippet, Nitesh Patel MD, Rochester MN): Texas A&M College of Medicine MD; residency in Neurological Surgery at Mayo Clinic College of Medicine and Science (Rochester) 2019-2026. Google Scholar 'Nitesh P Patel', Mayo Clinic, mayo.edu email, neurosurgery papers 2019-2024. NPI 1922662782 (Nitesh P Patel, MD): Neurological Surgery, licenses MN 67788 and SC 97076, practice address Summerville SC, enumerated 2019-04-26 (fits the 2019 start), last updated 2026-08-05. He is not on the 2026-27 Mayo 'Meet our trainees' roster (the four PGY-7s listed are the next cohort).",
+  "confidence": "medium",
+  "notes": "Agrees with current_outcome COMPLETED. No explicit graduation announcement was found; the completion is inferred from Doximity's 2019-2026 residency dates, his absence from the 2026-27 roster, and a new SC license and practice address in the NPI (August 2026). Namesake: Nitesh V. Patel, MD (Rutgers neurosurgery residency, Hackensack Meridian/Jersey Shore neurosurgical oncology, NPI 1326467408), the default Doximity 'nitesh-patel-md', is a different person."
+ },
+ {
+  "name": "Moshe Praver",
+  "program_id": 41,
+  "verdict": "left_medicine_or_other",
+  "neurosurgery_residency": {
+   "institution": "McGaw Medical Center of Northwestern University",
+   "start": 2015,
+   "end": 2018
+  },
+  "other_training": [],
+  "current_position": "Senior Software Engineer (Generative AI) at Abridge, a healthcare AI company; earlier co-founder and COO of MedX Protocol (blockchain healthcare startup) and a software engineer at Rocket Mortgage",
+  "sources": [
+   "https://www.linkedin.com/in/moshe-praver-md-769a74ab/",
+   "https://www.zoominfo.com/p/Moshe-Praver/4190738804",
+   "https://medium.com/@MoshePraver/about",
+   "https://doctor.webmd.com/doctor/moshe-praver-64c20159-14b6-47b5-812d-5e8839f82b8c-overview",
+   "https://www.vitals.com/doctors/1tc4g4/moshe-praver",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&last_name=Praver"
+  ],
+  "evidence": "LinkedIn 'Moshe Praver, MD - Abridge' (search snippet) describes him as an 'MD-turned-engineer with five years of clinical training in Neurosurgery', Columbia P&S 2015, formerly 'Physician at Northwestern Medicine', co-founder and COO of MedX Protocol, software engineering roles at Rocket Mortgage and now Gen AI Senior Software Engineer at Abridge (ZoomInfo gives an abridge.com email). Medium bio: 'Libertarian physician building free healthcare markets on the Ethereum blockchain at MedX Protocol'. NPI 1679969000 (Moshe Eliyahu Praver, MD) is only a trainee taxonomy at a Chicago address, enumerated 2015-04-13 and last updated 2016-05-10, with no specialty license taxonomy.",
+  "confidence": "medium",
+  "notes": "Disagrees with current_outcome 'SWITCHED SPECIALTY'. He left clinical medicine for tech/startups; I found no training in another specialty. WebMD and Vitals label him 'Diagnostic Radiology, Chicago', but no radiology residency, license or NPI taxonomy backs this, so it is probably a directory artifact (it may be where the 'switched specialty' coding came from). The 'five years of clinical training in neurosurgery' snippet may count research or med-school time; roster evidence puts the residency at 2015-~2018. Namesakes: Moshe Praver, CPA associate (Brooklyn) is a different person. LinkedIn fetch blocked (999); Medium 403, so these are search snippets."
+ },
+ {
+  "name": "Yagmur Muftuoglu",
+  "program_id": 67,
+  "verdict": "conflicting",
+  "neurosurgery_residency": {
+   "institution": "UCLA",
+   "start": 2020,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Unclear; LinkedIn and ZoomInfo still list 'Resident Physician-Scientist, UCLA Neurosurgery' (mednet.ucla.edu email); not on the 2026-27 UCLA roster",
+  "sources": [
+   "https://www.linkedin.com/in/yagmur-muftuoglu/",
+   "https://www.zoominfo.com/p/Yagmur-Muftuoglu/1781580258",
+   "https://sierraspinesociety.com/meeting-info",
+   "https://www.uclahealth.org/departments/neurosurgery/education/residency-training/current-residents",
+   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Muftuoglu%20Y%22&resultType=core&format=json&pageSize=30&sort=P_PDATE_D%20desc",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Yagmur&last_name=Muftuoglu",
+   "https://doctor.webmd.com/doctor/yagmur-muftuoglu-5039fb05-224c-45ef-97e0-f0c51e6a3679-overview"
+  ],
+  "evidence": "Stanford MD 2020, Yale PhD (ZoomInfo/WebMD snippets); UCLA neurosurgery resident from 2020. Europe PMC: UCLA Dept. of Neurosurgery affiliations 2021-2024 (last: Oper Neurosurg 2024, spinal cysticercosis video). A WebSearch snippet of the Sierra Spine Society 2026 Winter Spine Symposium page (March 6-8, 2026) names 'Yagmur Muftuoglu, MD PhD' as a Frank Acosta, MD Research Award recipient; the fetched page did not show her name, so this is unconfirmed. The current UCLA roster (fetched September 2026) lists her 2020 cohort-mates Sheel Shah and Zoe Teton as PGY-7; she is not listed at any level. LinkedIn headline still reads 'resident physician-scientist, UCLA Neurosurgery'.",
+  "confidence": "low",
+  "notes": "current_outcome 'LEFT -> outcome unknown' is not confirmed. Her absence from the roster conflicts with the self-reported resident status and a possible March 2026 spine research award, which suggests she was still active in neurosurgery research in early 2026 (a leave or extended research period is possible). Her legal first name is Ilayda (NPI 1609403575, trainee record). My WebSearch budget ran out (200/200) during this row, so no further name-variant searches were possible."
+ },
+ {
+  "name": "Tatenda Mahlokozera",
+  "program_id": 120,
+  "verdict": "not_searched",
+  "neurosurgery_residency": {
+   "institution": "Washington University in St. Louis",
+   "start": 2022,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Unknown",
+  "sources": [
+   "https://outlook.washu.edu/match-day-2022/",
+   "https://health.usnews.com/doctors/tatenda-mahlokozera-2475299",
+   "https://www.doximity.com/pub/tatenda-mahlokozera-md",
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/"
+  ],
+  "evidence": "Not re-searched in this pass (WebSearch session budget exhausted at 200/200). Prior-check evidence carried over: WashU Match Day 2022 lists him matching into Neurological Surgery (WashU MD/PhD 2022). US News/Doximity search snippets still describe him as a 'Resident Physician' in St. Louis; Doximity page now returns HTTP 410. He is absent from the current WashU neurosurgery resident list (would be PGY4 in 2025-26).",
+  "confidence": "low",
+  "notes": "not_searched: WebSearch refused further queries (session limit). The only new data point is the 2026-27 WashU roster, fetched this pass for row 2: he is absent from every PGY level (PGY1-PGY7), https://neurosurgery.wustl.edu/education/residency/current-residents/. Prior notes: Consistent with LEFT but destination unknown. No evidence of transfer, specialty switch, or new position found. Possible he is on a leave/research track not shown on the roster; cannot confirm."
+ },
+ {
+  "name": "Michael Jin",
+  "program_id": 120,
+  "verdict": "not_searched",
+  "neurosurgery_residency": {
+   "institution": "Washington University in St. Louis",
+   "start": 2024,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Unknown",
+  "sources": [
+   "https://www.doximity.com/pub/michael-jin-md-6c2743c0",
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://med.stanford.edu/neurosurgery/residency/residents.html"
+  ],
+  "evidence": "Not re-searched in this pass (WebSearch session budget exhausted at 200/200). Prior-check evidence carried over: Stanford MD 2024; matched WashU neurosurgery 2024 (Doximity still lists WashU 2024-2031). He is absent from the current WashU residents page and his WashU bio page now returns 404; not on Stanford's 2025-26 roster either.",
+  "confidence": "low",
+  "notes": "not_searched: WebSearch refused further queries (session limit). The only new data point is the 2026-27 WashU roster, fetched this pass for row 2: he is absent from every PGY level (PGY1-PGY7), https://neurosurgery.wustl.edu/education/residency/current-residents/. Prior notes: Departure consistent with current_outcome (LEFT, unknown). No destination found. Doximity self-reported listing (2024-2031) may be stale. Name is common (another Michael Jin MD is a radiologist in NY - different person)."
+ }
+]

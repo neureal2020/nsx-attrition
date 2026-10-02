@@ -1,0 +1,362 @@
+[
+ {
+  "program_id": 120,
+  "program": "Washington University in St. Louis",
+  "name": "Ridhima Guniganti",
+  "entry_year_est": 2018,
+  "grad_year_known": "2021",
+  "last_roster_ay": "2020-20",
+  "last_pgy": "3",
+  "current_evidence": "bio+npi",
+  "current_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "Washington University in St. Louis",
+    "start": 2018,
+    "end": null
+   },
+   "v_current_position": "Unknown; public directories (Doximity, Healthgrades, Zocdoc) still list her as a neurosurgeon at Barnes-Jewish Hospital, St. Louis; a Weill Cornell directory profile lists her as a 'Volunteer'",
+   "v_sources": [
+    "https://www.doximity.com/pub/ridhima-guniganti-md",
+    "https://www.healthgrades.com/physician/dr-ridhima-guniganti-xynvws3",
+    "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1659866580",
+    "https://directory.weill.cornell.edu/person/profile/rig7008"
+   ],
+   "v_evidence": "Doximity: WashU MD 2018, neurosurgeon at Barnes-Jewish; no residency end or later training listed. NPI 1659866580 taxonomy Neurological Surgery, last updated 2018-06-23 (WashU neurosurgery mailing address) - stale.",
+   "v_confidence": "low",
+   "v_notes": "Disagrees with current_outcome 'SWITCHED SPECIALTY': I found no source showing training or practice in another specialty; all directory listings are stale neurosurgery residency-era records. Not on current WashU roster. Weill Cornell 'volunteer' directory entry is unexplained (Preethi Guniganti, a WCM radiologist, is a different person). Search budget ran out before further checks; outcome after PGY3 (2020-21) remains unverified."
+  }
+ },
+ {
+  "program_id": 120,
+  "program": "Washington University in St. Louis",
+  "name": "Kyle McGrath",
+  "entry_year_est": 2025,
+  "grad_year_known": "2026",
+  "last_roster_ay": "2025-20",
+  "last_pgy": "1",
+  "current_evidence": "bio:none",
+  "current_outcome": "LEFT -> outcome unknown",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "start": 2025,
+    "end": null
+   },
+   "v_current_position": "Unknown after 2025-26 PGY1 year",
+   "v_sources": [
+    "https://neurosurgery.wustl.edu/2025-residency-match-class/",
+    "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+    "https://www.doximity.com/pub/kyle-mcgrath-md"
+   ],
+   "v_evidence": "WashU 2025 match class = Megan Bauman Graves, Riley Driscoll, Kyle McGrath (UF MD). Current WashU roster PGY2 lists Bauman Graves, Salil Bhole, Driscoll - McGrath absent and his WashU bio page now returns 404. Doximity still shows only 'WashU Residency in Neurological Surgery, 2025'.",
+   "v_confidence": "medium",
+   "v_notes": "Consistent with 'LEFT -> outcome unknown'. Departure after PGY1 appears real (replaced on roster by Salil Bhole). Not to be confused with Kyle McGrath, DO (Univ. of Cincinnati neurosurgery resident, Ohio Univ. DO) - a different person."
+  }
+ },
+ {
+  "program_id": 4,
+  "program": "Barrow Neurological Institute (St. Joseph's, Phoenix)",
+  "name": "Michelle Chua",
+  "entry_year_est": 2017,
+  "grad_year_known": "2019",
+  "last_roster_ay": "2018-20",
+  "last_pgy": "2",
+  "current_evidence": "bio:none",
+  "current_outcome": "LEFT -> outcome unknown [ambiguous name]",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "Barrow Neurological Institute (St. Joseph's)",
+    "start": 2017,
+    "end": null
+   },
+   "v_current_position": "Unknown",
+   "v_sources": [
+    "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1952831935",
+    "https://web.archive.org/web/20180812054505/https://www.barrowneuro.org/get-to-know-barrow/departments/department-of-neurosurgery/neurosurgery-residents/"
+   ],
+   "v_evidence": "Barrow roster lists Michelle Chua, MD as PGY-1 (2017-18) and PGY-2 (2018-19). Her only NPI (1952831935, Neurological Surgery, Arizona resident license R78196, Barrow address) was created 2017-06-13 and never updated; no later record found.",
+   "v_confidence": "low",
+   "v_notes": "Consistent with 'LEFT -> outcome unknown'. The web search limit was reached before I could search name variants. There is no other NPI under Michelle Chua; I didn't check for a possible name change. Her Barrow bio page returns 404 and has no archived copy."
+  }
+ },
+ {
+  "program_id": 116,
+  "program": "University of Pittsburgh (UPMC)",
+  "name": "Eric Nturibi",
+  "entry_year_est": 2022,
+  "grad_year_known": "2024",
+  "last_roster_ay": "2023-20",
+  "last_pgy": "2",
+  "current_evidence": "bio:none",
+  "current_outcome": "LEFT -> outcome unknown",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "University of Pittsburgh Medical Center",
+    "start": 2022,
+    "end": null
+   },
+   "v_current_position": "Doximity lists 'Resident Physician, Pittsburgh, PA' (specialty/program not stated)",
+   "v_sources": [
+    "https://www.doximity.com/pub/eric-nturibi-md",
+    "https://doctor.webmd.com/doctor/eric-nturibi-0e500de8-bc79-4096-9c1c-8e07dddf4fa1-overview",
+    "https://www.neurosurgery.pitt.edu/people/residents",
+    "https://aans.digitellinc.com/b/sp/eric-nturibi-628"
+   ],
+   "v_evidence": "Pitt MD 2022; WebMD lists neurological surgery in Pittsburgh. He is not on the current Pitt neurosurgery residents page (PGY-1 to PGY-7), where he would now be PGY-4/5, consistent with having left.",
+   "v_confidence": "low",
+   "v_notes": "Consistent with current_outcome (left, outcome unknown). Destination after leaving could not be determined; web-search budget was exhausted before further queries."
+  }
+ },
+ {
+  "program_id": 4,
+  "program": "Barrow Neurological Institute (St. Joseph's, Phoenix)",
+  "name": "Javier Figueroa",
+  "entry_year_est": 2014,
+  "grad_year_known": "2015",
+  "last_roster_ay": "2014-20",
+  "last_pgy": "1",
+  "current_evidence": "bio",
+  "current_outcome": "LEFT -> TRANSFERRED (neurosurgery elsewhere (likely Mia)",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "Barrow Neurological Institute (per roster only)",
+    "start": 2014,
+    "end": null
+   },
+   "v_current_position": "unknown",
+   "v_sources": [
+    "https://www.doximity.com/pub/javier-figueroa-md"
+   ],
+   "v_evidence": "The only profile retrieved (Doximity 'javier-figueroa-md') is a University of Arizona MD 2014 who did emergency medicine residency at U Arizona-Tucson 2014-2017 and practices EM at Banner UMC Tucson; that timeline overlaps the Barrow 2014-15 PGY-1 year, so it is probably a different person.",
+   "v_confidence": "low",
+   "v_notes": "Could not verify current_outcome 'transferred (likely Miami)'. Web-search budget was exhausted before this resident; only direct URL fetches were possible. If the Barrow roster entry was actually this Arizona EM physician, the outcome would be switched_specialty (EM) - unconfirmed, flag for manual check."
+  }
+ },
+ {
+  "program_id": 91,
+  "program": "University of Michigan",
+  "name": "Jacob Joseph",
+  "entry_year_est": 2012,
+  "grad_year_known": "2019",
+  "last_roster_ay": "2018-20",
+  "last_pgy": "7",
+  "current_evidence": "bio",
+  "current_outcome": "COMPLETED [ambiguous name]",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "University of Michigan (per roster)",
+    "start": 2012,
+    "end": null
+   },
+   "v_current_position": "unknown",
+   "v_sources": [],
+   "v_evidence": "No reliable source retrieved. Default Doximity 'jacob-joseph-md' is an unrelated gastroenterologist; Michigan program pages returned 403.",
+   "v_confidence": "low",
+   "v_notes": "Web-search budget was exhausted before this resident; not verified. current_outcome (COMPLETED) neither confirmed nor contradicted."
+  }
+ },
+ {
+  "program_id": 60,
+  "program": "Saint Louis University (SSM Health)",
+  "name": "Douglas Snyder",
+  "entry_year_est": 2016,
+  "grad_year_known": "2017",
+  "last_roster_ay": "2017-20",
+  "last_pgy": "2",
+  "current_evidence": "bio+npi",
+  "current_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "Saint Louis University (per roster)",
+    "start": 2016,
+    "end": null
+   },
+   "v_current_position": "unknown",
+   "v_sources": [],
+   "v_evidence": "No reliable source retrieved. Default Doximity 'douglas-snyder-md' is an unrelated 1980 EVMS graduate anesthesiologist (Georgetown).",
+   "v_confidence": "low",
+   "v_notes": "Web-search budget exhausted before this resident; current_outcome (switched specialty, from bio+NPI) could not be independently re-verified."
+  }
+ },
+ {
+  "program_id": 40,
+  "program": "Mayo Clinic (Rochester, MN)",
+  "name": "Daniel Shepherd",
+  "entry_year_est": 2011,
+  "grad_year_known": "2018",
+  "last_roster_ay": "2017-20",
+  "last_pgy": "7",
+  "current_evidence": "bio",
+  "current_outcome": "COMPLETED [ambiguous name]",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "Mayo Clinic Rochester (per roster)",
+    "start": 2011,
+    "end": null
+   },
+   "v_current_position": "unknown",
+   "v_sources": [],
+   "v_evidence": "No reliable source retrieved. Default Doximity 'daniel-shepherd-md' is a Loyola MD 2014 pathologist (MGH pathology residency 2018-2021) - inconsistent with a 2011 Mayo neurosurgery start, so a different person.",
+   "v_confidence": "low",
+   "v_notes": "Web-search budget exhausted; Mayo alumni page URLs tried returned 404. current_outcome (COMPLETED) not verified."
+  }
+ },
+ {
+  "program_id": 40,
+  "program": "Mayo Clinic (Rochester, MN)",
+  "name": "Nitesh Patel",
+  "entry_year_est": 2019,
+  "grad_year_known": "-",
+  "last_roster_ay": "2025-20",
+  "last_pgy": "7",
+  "current_evidence": "roster PGY-7",
+  "current_outcome": "COMPLETED [ambiguous name]",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "Mayo Clinic Rochester (per roster)",
+    "start": 2019,
+    "end": null
+   },
+   "v_current_position": "unknown",
+   "v_sources": [],
+   "v_evidence": "No reliable source retrieved. Default Doximity 'nitesh-patel-md' is Nitesh V. Patel, Rutgers neurosurgery 2014-2021 (NJ) - a different person.",
+   "v_confidence": "low",
+   "v_notes": "Web-search budget exhausted; not verified. current_outcome (COMPLETED) neither confirmed nor contradicted."
+  }
+ },
+ {
+  "program_id": 41,
+  "program": "Northwestern University (McGaw)",
+  "name": "Moshe Praver",
+  "entry_year_est": 2015,
+  "grad_year_known": "2018",
+  "last_roster_ay": "2017-20",
+  "last_pgy": "3",
+  "current_evidence": "bio+npi",
+  "current_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "start": 2015,
+    "end": 2018
+   },
+   "v_current_position": "Unknown",
+   "v_sources": [
+    "https://npiregistry.cms.hhs.gov/api/?version=2.1&last_name=Praver",
+    "https://api.openalex.org/authors?search=Moshe%20Praver"
+   ],
+   "v_evidence": "Only NPI record (1679969000, Moshe Eliyahu Praver MD) is a trainee ('Student in an Organized Health Care Education/Training Program') at 676 N St. Clair, Chicago, last updated May 2016; publications only from Columbia neurosurgery (2013-2017, medical-school era).",
+   "v_confidence": "low",
+   "v_notes": "Could not confirm current_outcome 'switched specialty': no specialty NPI taxonomy, no later training or practice record found. Absence of any clinical NPI update since 2016 may hint at leaving clinical medicine, but this is unverified. Web search budget was exhausted before this resident."
+  }
+ },
+ {
+  "program_id": 67,
+  "program": "UCLA",
+  "name": "Yagmur Muftuoglu",
+  "entry_year_est": 2020,
+  "grad_year_known": "-",
+  "last_roster_ay": "2025-20",
+  "last_pgy": "6",
+  "current_evidence": "bio:none",
+  "current_outcome": "LEFT -> outcome unknown",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "UCLA",
+    "start": 2020,
+    "end": null
+   },
+   "v_current_position": "Unknown",
+   "v_sources": [
+    "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Yagmur&last_name=Muftuoglu",
+    "https://api.openalex.org/authors?search=Yagmur%20Muftuoglu",
+    "https://web.archive.org/web/20260924163014/https://www.uclahealth.org/departments/neurosurgery/education/residency-training/current-residents"
+   ],
+   "v_evidence": "NPI 1609403575 (Ilayda Yagmur Muftuoglu, MD PhD) is a trainee record at UCLA Neurosurgery (last updated 2021). PubMed/OpenAlex show UCLA Neurosurgery affiliation 2020-2024. She is absent from the Sept 2026 UCLA roster, where her cohort-mates (S. Shah, Z. Teton) are PGY-7.",
+   "v_confidence": "low",
+   "v_notes": "Legal first name is Ilayda (Yagmur is middle name) - try 'Ilayda Muftuoglu' in further searches. No evidence of transfer, specialty switch or leave found; could be a leave of absence/research time rather than attrition. Web search budget was exhausted before this resident."
+  }
+ },
+ {
+  "program_id": 120,
+  "program": "Washington University in St. Louis",
+  "name": "Tatenda Mahlokozera",
+  "entry_year_est": 2022,
+  "grad_year_known": "2025",
+  "last_roster_ay": "2024-20",
+  "last_pgy": "3",
+  "current_evidence": "bio:none",
+  "current_outcome": "LEFT -> outcome unknown",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "Washington University in St. Louis",
+    "start": 2022,
+    "end": null
+   },
+   "v_current_position": "Unknown",
+   "v_sources": [
+    "https://outlook.washu.edu/match-day-2022/",
+    "https://health.usnews.com/doctors/tatenda-mahlokozera-2475299",
+    "https://www.doximity.com/pub/tatenda-mahlokozera-md",
+    "https://neurosurgery.wustl.edu/education/residency/current-residents/"
+   ],
+   "v_evidence": "WashU Match Day 2022 lists him matching into Neurological Surgery (WashU MD/PhD 2022). US News/Doximity search snippets still describe him as a 'Resident Physician' in St. Louis; Doximity page now returns HTTP 410. He is absent from the current WashU neurosurgery resident list (would be PGY4 in 2025-26).",
+   "v_confidence": "low",
+   "v_notes": "Consistent with LEFT but destination unknown. No evidence of transfer, specialty switch, or new position found. Possible he is on a leave/research track not shown on the roster; cannot confirm."
+  }
+ },
+ {
+  "program_id": 120,
+  "program": "Washington University in St. Louis",
+  "name": "Michael Jin",
+  "entry_year_est": 2024,
+  "grad_year_known": "2026",
+  "last_roster_ay": "2025-20",
+  "last_pgy": "2",
+  "current_evidence": "bio:none",
+  "current_outcome": "LEFT -> outcome unknown [ambiguous name]",
+  "in_training": false,
+  "prior_check": {
+   "v_verdict": "not_found",
+   "v_neurosurgery_residency": {
+    "institution": "Washington University in St. Louis",
+    "start": 2024,
+    "end": null
+   },
+   "v_current_position": "Unknown",
+   "v_sources": [
+    "https://www.doximity.com/pub/michael-jin-md-6c2743c0",
+    "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+    "https://med.stanford.edu/neurosurgery/residency/residents.html"
+   ],
+   "v_evidence": "Stanford MD 2024; matched WashU neurosurgery 2024 (Doximity still lists WashU 2024-2031). He is absent from the current WashU residents page and his WashU bio page now returns 404; not on Stanford's 2025-26 roster either.",
+   "v_confidence": "low",
+   "v_notes": "Departure consistent with current_outcome (LEFT, unknown). No destination found. Doximity self-reported listing (2024-2031) may be stale. Name is common (another Michael Jin MD is a radiologist in NY - different person)."
+  }
+ }
+]

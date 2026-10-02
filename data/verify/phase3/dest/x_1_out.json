@@ -1,0 +1,301 @@
+[
+ {
+  "key": "2:kev:sexton",
+  "name": "Kevin Sexton",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Strong lead, not confirmed by a program page/bio: the AGH Kevin Sexton is Kevin James Sexton, MD (SUNY Upstate 2019; WebMD ties NPI 1255892329 to AGH, PA license expired 2025). NPPES record for that same NPI was updated 2026-08-25 to taxonomy 'Diagnostic Radiology' with Georgia license 105278, practice location 790 Church St NE Ste 400, Marietta GA (Quantum Radiology / Wellstar address). Suggests he switched to diagnostic radiology and is now practicing (or in fellowship) in Georgia, but Quantum Radiology's physician list does not name him, AHN DR residents (Nov 2025 capture) do not include him, and no residency graduate list/bio was found. NPPES is a registry, so recorded as lead only.",
+  "sources": [
+   "https://doctor.webmd.com/doctor/kevin-sexton-35c6462c-26dc-420e-804a-5057be34aa65-overview",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1255892329"
+  ],
+  "queries_tried": [
+   "\"Kevin Sexton\" MD",
+   "\"Kevin Sexton\" resident",
+   "NPPES API Sexton Kevin (all states)",
+   "FETCH NPPES NPI 1255892329 full record",
+   "\"Kevin Sexton\" radiology",
+   "\"Kevin J. Sexton\" OR \"Kevin James Sexton\" MD",
+   "\"Kevin Sexton\" Marietta OR Atlanta OR Georgia radiologist OR radiology resident",
+   "\"Kevin Sexton\" residency SUNY Upstate (Upstate 2019 match list: AGH NSGY)",
+   "\"Kevin Sexton\" neurology OR anesthesiology OR \"emergency medicine\" OR \"physical medicine\" OR psychiatry resident Pittsburgh",
+   "FETCH quantumradiology.com/physicians (no Sexton)",
+   "\"Sexton\" diagnostic radiology residency graduates 2026",
+   "\"Kevin Sexton\" Wellstar OR \"Quantum Radiology\" OR neuroradiology fellow",
+   "Allegheny Health Network diagnostic radiology residency residents Sexton",
+   "FETCH WebMD kevin-sexton-35c6462c (full name Kevin James Sexton, NPI 1255892329, SUNY Upstate 2019, PA license expired 2025)",
+   "CHROME AHN diagnostic-radiology/residents (live: JS-empty; Wayback 2025-11-18: no Sexton)"
+  ]
+ },
+ {
+  "key": "4:mic:chua",
+  "name": "Michelle Chua",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Michelle Huijuan Chua, HMS MD 2017, Barrow NSGY PGY-1 2017-18/PGY-2 2018-19. Not among Barrow NSGY residency graduates 2023, 2024, 2025 or 2026 (all four '3 Questions' articles fetched), nor 2026 fellowship graduates - so 'completed at Barrow' is ruled out. Only later-dated items are directories (WebMD/Healthgrades/Vitals 'neurosurgeon, 350 W Thomas Rd Phoenix'); NPPES record shows NPI enumerated and last updated 2017-06-13, i.e. directory entries derive from the 2017 residency NPI and are not evidence of practice. Last publication with her as Barrow NSGY is PMID 30797191 (2019/2020). MGH Radiology AI papers (2022-23) list a 'Michelle Chua' with initial M only - identity not established. No destination found.",
+  "sources": [
+   "https://www.barrowneuro.org/about/news-and-articles/doctors/3-questions-for-the-2026-barrow-graduating-class/",
+   "https://www.barrowneuro.org/about/news-and-articles/doctors/3-questions-for-the-2025-barrow-graduating-class/",
+   "https://pubmed.ncbi.nlm.nih.gov/30797191/"
+  ],
+  "queries_tried": [
+   "\"Michelle Chua\" MD",
+   "\"Michelle Chua\" radiation oncology resident Barrow OR Phoenix OR Arizona",
+   "\"Michelle Chua\" resident",
+   "\"Michelle Chua\" residency Harvard 2017",
+   "\"Chua M\" OR \"Michelle Chua\" radiation oncology 2024 OR 2025 OR 2026",
+   "Barrow Neurological Institute neurosurgery residency alumni graduates list",
+   "FETCH Barrow '3 Questions' graduating class 2023/2024/2025 (no Chua)",
+   "\"3 Questions for the 2026 Barrow Graduating Class\" + FETCH (no Chua among NSGY residency or fellowship grads)",
+   "\"Michelle Huijuan Chua\" OR \"Huijuan Chua\"",
+   "\"Michelle Chua\" neurology OR psychiatry OR \"internal medicine\" OR anesthesiology OR radiology resident Harvard MD",
+   "PubMed E-utilities: Chua MH[au] neurosurg/Barrow; Chua Michelle[au] (only Barrow paper 2019-20 as MH; MGH radiology 'Chua M' 2022-23 unlinked)",
+   "\"Michelle Chua\" Massachusetts General Hospital radiology",
+   "\"Michelle Chua\" MD radiology resident OR fellow OR attending",
+   "\"Michelle Chua\" Synho Do OR \"Laboratory of Medical Imaging and Computation\"",
+   "\"Michelle Chua\" physician Phoenix OR Boston OR California 2025 OR 2026",
+   "\"Michelle Chua\" Harvard Medical School 2017 match OR \"class of 2017\"",
+   "FETCH healthgrades dr-michelle-chua-xync55k (no training data)",
+   "NPPES API NPI 1952831935 (enumerated & last updated 2017-06-13; NSGY taxonomy at Barrow address = stale residency enrollment)"
+  ]
+ },
+ {
+  "key": "5:mil:douglas",
+  "name": "Miller Douglas",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "in progress",
+  "sources": [],
+  "queries_tried": []
+ },
+ {
+  "key": "8:sta:hatcher",
+  "name": "Stacy Hatcher",
+  "outcome": "switched_specialty",
+  "destination": "General Surgery residency, DHR Health (Doctors Hospital at Renaissance), Edinburg TX - listed PGY-4 (2026-27)",
+  "year_started_destination": "by 2025-26 (search snippet of same page showed PGY-3); exact start not established",
+  "evidence": "DHR Health General Surgery Residency current-residents list (fetched 2026-09-29) names 'Stacy Ellen Hatcher, DO' as PGY-4, Michigan State University College of Osteopathic Medicine. Roster is current: 2026-27 PGY-1s (A. Kannan, P. Marcolin) were research fellows elsewhere in 2024-25, and an older snippet of the same page listed Hatcher as PGY-3. Identity link to Carilion NSGY Stacy Hatcher: MSUCOM DO (Detroit) + US News Roanoke VA resident listing + ResearchGate 'PGY-2 Surgery Resident, Doctors Hospital' (DHR = Doctors Hospital at Renaissance, not Augusta). Name/degree/school match; no source explicitly names Carilion.",
+  "sources": [
+   "https://dhrhealth.com/education/graduate-medical-education/general-surgery-residency-program/"
+  ],
+  "queries_tried": [
+   "\"Stacy Hatcher\" DO resident",
+   "\"Stacy Hatcher\" DO Carilion OR Augusta OR Edinburg surgery",
+   "DHR Health general surgery residency residents Hatcher",
+   "\"Hatcher\" general surgery resident Edinburg Texas DO",
+   "\"Amudhan Kannan\" OR \"Patricia Marcolin\" general surgery DHR 2026 match (roster-currency check)",
+   "\"Stacy Hatcher\" DHR Health",
+   "FETCH dhrhealth.com general-surgery-residency-program (lists Stacy Ellen Hatcher DO PGY-4)",
+   "FETCH dhrhealth.com 47 residents news 2023"
+  ]
+ },
+ {
+  "key": "12:cha:nelson",
+  "name": "Charlie Nelson",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "NEOMED MD 2021 (NEOMED 2021 match report: CCF Neurological Surgery). Last CCF-affiliated publication 2024 (PMID 39197702). Current CCF roster lists PGY-1 to PGY-7 including PGY-5 and PGY-6 research residents (PGY-6 = Glauser, Trivedi) with no Nelson, so an unlisted research year is unlikely. Not on UH Cleveland or Ohio State NSGY rosters. X account @cnelsonmed dormant (0 posts; bio still med-school era). Doximity/US News 'Resident Physician, Cleveland' are stale directory entries. No 2026 CCF post, match list or other-program page names him.",
+  "sources": [
+   "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+   "https://pubmed.ncbi.nlm.nih.gov/39197702/"
+  ],
+  "queries_tried": [
+   "\"Charlie Nelson\" MD Cleveland Clinic neurosurgery",
+   "\"Charlie Nelson\" resident 2026",
+   "\"Charlie Nelson\" MD",
+   "\"Charlie Nelson\" residency NEOMED",
+   "\"Charles Nelson\" MD neurosurgery resident Cleveland Clinic",
+   "PubMed E-utilities Nelson CN[au] 2022-2026 (last CCF-affiliated paper 2024)",
+   "Cleveland Clinic neurosurgery residency current residents 2026-2027",
+   "FETCH my.clevelandclinic.org neurosurgery residency (PGY1-7 incl. PGY5/6 research: no Nelson)",
+   "\"Charlie Nelson\" OR \"Charlie N. Nelson\" neurosurgery 2025 OR 2026",
+   "\"Charlie Nelson\" surgery OR neurology OR radiology OR anesthesiology OR \"physical medicine\" resident Ohio",
+   "FETCH uhhospitals.org NSGY residents (no Nelson)",
+   "\"Charlie Nelson\" 2026 match residency",
+   "CleClinicNS \"Nelson\" resident",
+   "\"Charles N. Nelson\" OR \"Charlie Nelson\" MD NEOMED 2021 physician",
+   "CHROME x.com/cnelsonmed (bio still 'MD Candidate 2021 NEOMED', Columbus OH)",
+   "Ohio State neurosurgery residency current residents Nelson",
+   "FETCH medicine.osu.edu neurosurgery residents (no Nelson)",
+   "\"Nelson\" Charlie resident Columbus OR Akron OR Toledo OR Cincinnati 2026 physician"
+  ]
+ },
+ {
+  "key": "12:col:lamb",
+  "name": "Colin Lamb",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "in progress",
+  "sources": [],
+  "queries_tried": []
+ },
+ {
+  "key": "15:mic:bamimore",
+  "name": "Michael Bamimore",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "'Class of 2026' lead does NOT indicate completion: he entered Cooper's 7-year program in 2022 after PCOM DO 2022 (Doximity/ResearchGate 2022-2029), so 2026 cannot be a graduation year; his bio (cooperhealth.edu/bamimore-michael-do) is an older-template page (current trainee bios show PGY level) and is not linked from the current Trainees page. Current Trainees page lists PGY7 Ifrach, PGY6 Charcos, PGY4 Morse, PGY3 Batchu, PGY2 Hashmi, PGY1 Jagtiani/Swarna - PGY5 (his cohort) is empty. Last dated activity: Cureus paper Dec 2025 with Cooper co-authors. No 2026 source (news, lab page, program post) names him as a current/research resident, and no other program, match or fellowship announcement found. Possible unlisted research year cannot be confirmed.",
+  "sources": [
+   "https://www.cooperhealth.edu/graduate-medical-education/residencies/neurosurgery/trainees",
+   "https://www.cooperhealth.edu/bamimore-michael-do",
+   "https://scholarcommons.towerhealth.org/read_neurosurg/1/"
+  ],
+  "queries_tried": [
+   "\"Michael Bamimore\" MD",
+   "Cooper University Hospital neurosurgery residency 2026 graduation OR fellowship Bamimore",
+   "FETCH cooperhealth.edu/bamimore-michael-do",
+   "FETCH cooperhealth.edu neurosurgery program page",
+   "\"Bamimore\" neurosurgery 2026",
+   "\"Michael Bamimore\" resident",
+   "FETCH scholarcommons.towerhealth.org/read_neurosurg/1 (Dec 2025 Cureus; Cooper co-authors)",
+   "FETCH cooperhealth.edu neurosurgery/trainees (no Bamimore; PGY5 row empty)",
+   "FETCH cooperhealth.edu/sai-batchu and /charles-morse (bio template check: new bios show PGY, Bamimore's older bio shows 'Class 2026')",
+   "FETCH Google Scholar profile (affil Cooper University Hospital; latest pub 2025)",
+   "Bamimore Cooper neurosurgery 2026 abstract OR poster OR publication",
+   "\"Bamimore M\" 2026",
+   "FETCH cooperhealth.edu neurosurgery/publications (latest 2023)",
+   "\"Michael Bamimore\" DO residency program 2026 surgery OR neurology OR radiology OR anesthesiology",
+   "\"Michael A. Bamimore\" OR \"Bamimore, Michael\"",
+   "CHROME x.com/mabamimore (no bio/posts rendered)",
+   "Cooper University Health Care neurosurgery residents 2026-2027 PGY5 research year",
+   "\"Bamimore\" transfer neurosurgery residency OR \"welcome\" 2026",
+   "FETCH edudev.cooperhealth.org neuro-surgery/residents (cert error)"
+  ]
+ },
+ {
+  "key": "18:ste:ihezie",
+  "name": "Stephanie Ihezie",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Still Dartmouth NSGY-affiliated on a J Neurosurg Case Lessons paper accepted 2026-02-27/published Apr 2026 (PMID 42044536) and NH200 2025 list. Now absent from Dartmouth current residents (PGY1-7: Adenu-Mensah, Alcocer-Burdett, Stafstrom, Bajouri, Bond, Kinsman, Stewart) and from alumni page (2026 graduate = Caitlin Payne; 2025 Montejo). Not found on UTHealth Houston/other Texas NSGY lists via search, nor in other-specialty results. Left Dartmouth around mid-2026; destination not found.",
+  "sources": [
+   "https://gme.dartmouth-hitchcock.org/neurosurgery/current-residents-alumni.html",
+   "https://gme.dartmouth-hitchcock.org/neurosurgery/alumni",
+   "https://pubmed.ncbi.nlm.nih.gov/42044536/"
+  ],
+  "queries_tried": [
+   "\"Stephanie Ihezie\" MD",
+   "\"Stephanie Ihezie\" resident",
+   "PubMed E-utilities Ihezie S[au] (latest PMID 42044536, accepted 2026-02-27, Dartmouth NSGY affil)",
+   "\"Stephanie Ihezie\" residency",
+   "\"Ihezie\" neurosurgery 2026",
+   "\"Stephanie A. Ihezie\" OR \"Stephanie Ihezie\" fellowship OR transfer OR spine",
+   "Dartmouth Health neurosurgery residency current residents alumni",
+   "FETCH gme.dartmouth-hitchcock.org/neurosurgery/alumni (2026 grad = Payne; no Ihezie)",
+   "FETCH gme.dartmouth-hitchcock.org current-residents (no Ihezie; PGY-7 Stewart)",
+   "\"Stephanie Ihezie\" surgery OR neurology OR radiology OR anesthesiology OR \"internal medicine\" resident 2026",
+   "\"Dr. Ihezie\" neurosurgery resident Texas OR Houston OR \"New York\"",
+   "\"Stephanie Ihezie\" MIT OR McGovern"
+  ]
+ },
+ {
+  "key": "22:kri:terrani",
+  "name": "Kristina Terrani",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "UArizona COM-Tucson MD 2024 (UA Health Sciences commencement item). Pre-GW she appears to have trained at Creighton/Valleywise Phoenix general surgery (ResearchGate 'Resident Physician, Creighton University'; WebMD/Healthgrades 'general surgeon' at Valleywise address 2601 E Roosevelt St) - likely 2024-25 PGY-1, not current: absent from Creighton Phoenix surgery roster (Wayback capture 2026-03-09, incl. prelims). Still GW Neurosurgery affiliation on Child's Nerv Syst paper published May 2026 (PMC13144213). Now absent from GW Our Residents (PGY-2 = La Gamma only), UArizona-Tucson NSGY current residents (fetched; page current, lists 2026 alumnus Joshi) and UArizona-Phoenix NSGY residents. The 'Arizona-Tucson neurosurgery resident' lead is disproved. Live Creighton 2026-27 roster blocked by bot wall (not bypassed). No 2026-27 destination found.",
+  "sources": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144213/",
+   "https://medicine.arizona.edu/neurosurgery//residency/current-residents",
+   "https://neurosurgery.smhs.gwu.edu/our-residents",
+   "https://web.archive.org/web/20260309090257/https://www.creighton.edu/medicine/residencies-fellowships/residencies-fellowships-phoenix/residency-programs/surgery/our-residents"
+  ],
+  "queries_tried": [
+   "\"Kristina Terrani\" MD",
+   "Creighton Valleywise general surgery residency current residents Terrani",
+   "\"Terrani\" Creighton surgery resident Phoenix",
+   "FETCH researchgate Kristina-Terrani (403)",
+   "FETCH creighton.edu arizona-health surgery-valleywise our-residents (503)",
+   "\"Kristina Terrani\" surgery resident",
+   "\"Kristina Terrani\" residency",
+   "CHROME creighton.edu surgery our-residents (bot wall) -> Wayback 2026-03-09 capture: no Terrani",
+   "University of Arizona Tucson neurosurgery residency current residents",
+   "FETCH medicine.arizona.edu/neurosurgery/residency/current-residents (no Terrani)",
+   "FETCH phoenixmed.arizona.edu neurosurgery current-residents (no Terrani)",
+   "\"Terrani\" neurosurgery resident Arizona OR Tucson OR Banner",
+   "\"Kristina F. Terrani\" OR \"Terrani K\" 2026",
+   "\"Terrani\" 2026 match OR PGY-1 OR intern surgery OR neurology OR radiology",
+   "\"Kristina Terrani\" George Washington",
+   "FETCH PMC13144213 (pub May 2026; affil GW Neurosurgery)",
+   "George Washington University neurosurgery residency our residents",
+   "FETCH neurosurgery.smhs.gwu.edu/our-residents (PGY-2 only La Gamma; no Terrani)",
+   "\"Kristina Terrani\" Creighton OR Valleywise OR Phoenix",
+   "FETCH doximity kristina-terrani-md (still Washington DC, Other MD/DO)",
+   "Creighton Phoenix surgery residency welcome new interns 2026 instagram",
+   "\"Terrani\" instagram OR x.com residency 2026 welcome",
+   "\"Kristina Terrani\" neurology OR radiology OR anesthesiology OR \"emergency medicine\" OR PM&R resident"
+  ]
+ },
+ {
+  "key": "25:gre:koller",
+  "name": "Gretchen Koller",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Strong lead, not confirmed: (1) ACC.26 abstract 26-A-14579 (JACC, Apr 2026) co-authored by Gretchen Koller with Henry Ford Health affiliation, filed in Henry Ford Scholarly Commons 'Anesthesiology Meeting Abstracts' with anesthesiology co-authors; (2) NPPES record (training taxonomy) moved to 2799 W Grand Blvd, Detroit (Henry Ford Hospital main campus), last updated 2026-06-12. Suggests she may be training at Henry Ford Hospital (possibly anesthesiology), but no current program roster/announcement names her - HFH anesthesiology residents page shows only a 2024 composite. Not on HF Providence NSGY roster.",
+  "sources": [
+   "https://scholarlycommons.henryford.com/anesthesiology_mtgabstracts/60/",
+   "https://www.jacc.org/doi/10.1016/j.jacc.2026.02.3070"
+  ],
+  "queries_tried": [
+   "NPPES API Koller Gretchen (NPI 1821771536, training taxonomy, location 2799 W Grand Blvd Detroit = Henry Ford Hospital, last updated 2026-06-12)",
+   "\"Gretchen Koller\" DO",
+   "\"Gretchen Koller\" Henry Ford resident",
+   "FETCH scholarlycommons.henryford.com/2026.html",
+   "CHROME x.com/GretchenKoller (bio 'PGY-1 at MSU Neurosurgery'; no newer posts rendered)",
+   "Henry Ford Hospital anesthesiology residency current residents Koller",
+   "FETCH henryford.com hfh anesthesiology residents (only 2024 composite; no names)",
+   "\"Gretchen Koller\" anesthesiology",
+   "\"Koller\" Henry Ford anesthesiology resident 2025 OR 2026",
+   "\"26-A-14579\" OR \"Simulated Temporary Transvenous Cardiac Pacemaker Insertion Curriculum\" Henry Ford",
+   "FETCH scholarlycommons.henryford.com/anesthesiology_mtgabstracts/60 (affil Henry Ford Health)",
+   "Henry Ford Hospital Anesthesiology Residency Program 2025-2026 OR 2026-2027 composite residents pdf",
+   "site:henryford.com \"Koller\" resident",
+   "\"Gretchen Koller\" 2026"
+  ]
+ },
+ {
+  "key": "26:mic:ghali",
+  "name": "Michael Ghali",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "in progress",
+  "sources": [],
+  "queries_tried": []
+ },
+ {
+  "key": "27:noa:nichols",
+  "name": "Noah Nichols",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "UCSF MD 2021; Sinai NSGY from 2021. Last Sinai-affiliated paper accepted Dec 2025, published May 2026 (PMID 42150194). Current Sinai roster (chiefs 2026-27 Tabani/Carr, PGY6 Philbrick ... PGY1 Ezzat/Seah/Yang) omits him; Sinai's protected enrichment year is typically PGY-4, not PGY-6, so a research-year explanation is unsupported. Hambardzumyan lab 'Residents' page still lists him ('expected to graduate in 2028') but is undated - lead only. Not on Pitt/UPMC 2026-27 roster (mentor Hadjipanayis's new institution). No destination found.",
+  "sources": [
+   "https://icahn.mssm.edu/education/residencies-fellowships/list/msh-neurosurgery/residents",
+   "https://labs.icahn.mssm.edu/hambardzumyanlab/team/residents/",
+   "https://pubmed.ncbi.nlm.nih.gov/42150194/"
+  ],
+  "queries_tried": [
+   "\"Noah Nichols\" MD",
+   "\"Noah Nichols\" neurosurgery resident",
+   "\"Noah M. Nichols\" OR \"Noah Nichols\" fellowship OR research 2026 Mount Sinai",
+   "PubMed E-utilities Nichols N[au] neurosurg/Sinai 2021-2026 (latest PMID 42150194, accepted 2025-12-17, Sinai affil)",
+   "FETCH icahn.mssm.edu msh-neurosurgery/residents (2026-27 roster; no Nichols)",
+   "FETCH labs.icahn.mssm.edu hambardzumyanlab residents (undated; 'expected to graduate 2028')",
+   "UPMC neurosurgery residents \"Nichols\" (Hadjipanayis moved to UPMC)",
+   "FETCH neurosurgery.pitt.edu current-residents 2026-27 (no Nichols)",
+   "\"Noah Nichols\" residency 2026",
+   "\"Noah Nichols\" UCSF 2021 match OR \"Nichols\" radiology OR neurology OR anesthesiology resident New York",
+   "Mount Sinai neurosurgery residency 2026 graduation OR \"research year\" OR \"enfolded fellowship\" Nichols"
+  ]
+ }
+]

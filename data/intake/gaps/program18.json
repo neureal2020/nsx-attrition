@@ -1,0 +1,214 @@
+{
+ "program_id": 18,
+ "name": "Dartmouth-Hitchcock/Mary Hitchcock Memorial Hospital Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://gme.dartmouth-hitchcock.org/neurosurgery/our_residents.html",
+   "from": "2011-08",
+   "to": "2017-08",
+   "note": "static roster with (start-end) training spans; stale most of the time"
+  },
+  {
+   "url": "http://gme.dartmouth-hitchcock.org/neurosurgery/current-residents-alumni.html",
+   "from": "2017-10",
+   "to": "2021-06",
+   "note": "residents + alumni list (alumni list 1949-2017 on 2017 capture)"
+  },
+  {
+   "url": "https://gme.dartmouth-hitchcock.org/neurosurgery/current-residents",
+   "from": "2022-01",
+   "to": "2026-09 (live)",
+   "note": "Drupal site, PGY-n headings"
+  },
+  {
+   "url": "https://gme.dartmouth-hitchcock.org/neurosurgery/alumni",
+   "from": "2022-05",
+   "to": "2026-09 (live)",
+   "note": "recent graduates 2009-2026"
+  },
+  {
+   "url": "dartmouth-hitchcock.org/neurosurgery (clinical), dartmouth-health.org/neurosurgery, geiselmed.dartmouth.edu/neuro*, dms.dartmouth.edu/neuro*",
+   "from": "2010",
+   "to": "2026",
+   "note": "checked via CDX prefix/sitemaps: no resident rosters"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2013-2014",
+  "2014-2015"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "All captures 2011-08-14, 2012-01-11, 2012-05-04 still show the 2010-11 roster (Radwan chief 2005-2011, Evans 'Intern'). Reconstructed 7 from bracketing rosters + listed training spans + alumni list (Spire 2012 graduate on 2017 alumni list; Hong 2011-2018). Common Crawl pass run for 2011-2015. Phase 2: re-read all 3 captures (stale 2010-11); CC 2011-2016 rerun with fixed filter over gme neuro*, dartmouth-hitchcock.org/neuro*, geiselmed and dms neuro* prefixes.",
+  "2012-2013": "Observed via content-dating: 2013-09-01 capture (timestamp in 2013-14) shows Desai chief (2006-2013) and Root intern (2012-2019) = 2012-13 roster.",
+  "2013-2014": "Page frozen at 2012-13 content from 2013-09 to 2015-05 (8 digest versions, same names). Reconstructed: all bracketed by 2012-13 and 2015-16 rosters/alumni except Joon-Hyung Kim (PGY1), whose entry year 2013 is stated on the 2015-16 roster '(2013-2020)'. No departure could hide here: all 2012-13 residents reappear or graduate on schedule. Phase 2: 8 captures re-read, all 2012-13 content; no other roster source (general-surgery roster lists no neurosurgery interns; GME PDFs are forms).",
+  "2014-2015": "Same frozen page; 2015-07-31 rewrite is already 2015-16 content. Reconstructed; Calnan's 2014 start stated '(2014-2021)' and alumni 2021. Phase 2: Kim at Dartmouth in 2014-15 confirmed by PMID 26236552 (Section of Neurosurgery, DHMC; received Dec 2014).",
+  "2018-2019": "Only captures 2018-03-17 (2017-18) and 2019-08-18; the latter is content-dated 2018-19 (Root chief, Montejo PGY1) and used.",
+  "2021-2022": "No capture Jul-Dec 2021; 2022-01-21 capture of the new Drupal page used. Khan listed as Chief Resident without a PGY heading (PGY7 by entry year)."
+ },
+ "alumni_page": "https://gme.dartmouth-hitchcock.org/neurosurgery/alumni",
+ "departures": [
+  {
+   "name": "Joon-Hyung Kim",
+   "last_ay": "2015-2016",
+   "last_pgy": 3,
+   "outcome": "switched_specialty",
+   "note": "Listed (2013-2020) through the Sep 2016 capture (still 2015-16 content); gone Oct 2016. Now anesthesiology: Westchester Medical Center anesthesiology roster 2020-21 lists CA-3 Joon-Hyung Kim, Weill Cornell (matches Dartmouth bio MD Weill Cornell 2013); 2020-21 papers Dept of Anesthesiology WMC/NYMC; NPI 1417214685 anesthesiology. training_history th_id 3026."
+  },
+  {
+   "name": "Stephanie Ihezie",
+   "last_ay": "2024-2025",
+   "last_pgy": 4,
+   "outcome": "unknown",
+   "note": "PGY-3 listed twice (2022-23, 2023-24), PGY-4 2024-25; present on Aug 2025 capture (unadvanced), absent Feb 2026 and live; not on alumni list (live and CC Nov 2025). Papers still carry Dartmouth neurosurgery affiliation to a Dec-2025 submission (PMID 42044536). No other-program roster, no NPPES update. th_id 3028 (completed/departure unknown)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Vyacheslav Makler",
+   "first_ay": "2017-2018",
+   "first_pgy": 4,
+   "origin": "University of Missouri-Columbia (program 94), PGY-3 2016-17",
+   "note": "transfer-in row th_id 3027; Missouri transfer-out row th_id 2845 (written by program 94 agent); graduated Dartmouth 2021"
+  },
+  {
+   "name": "Caleb Stewart",
+   "first_ay": "2024-2025",
+   "first_pgy": 5,
+   "origin": "LSU Health Shreveport (program 32), PGY-4 2023-24",
+   "note": "transfer-in row th_id 2681 and LSU transfer-out row th_id 2680 already inserted by the program 32 agent; not duplicated"
+  }
+ ],
+ "residents_2011plus": 18,
+ "adjudication_summary": {
+  "COMPLETED": 15,
+  "IN TRAINING": 7,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> outcome unknown": 1
+ },
+ "problems": "Common Crawl pass (2011-2015 crawls, prefix org,dartmouth-hitchcock,gme)/neurosurgery) completed without errors: one hit, CC-MAIN-2012 2012-05-23 our_residents.html, still the stale 2010-11 roster; no records 2013-2015. The old static page was rarely updated (content changed 2012-13 and 2015-16 only between 2011 and 2015), so 2011-12, 2013-14 and 2014-15 are reconstructions from listed training spans '(start-end)', bracketing rosters and the alumni list. Joon-Hyung Kim is reconstructed in 2013-14/2014-15 on his program-stated '(2013-2020)' span, not on an alumni entry. Makler 2019-20 listed only as 'Chief Resident'; set PGY6 from neighbouring years. Spire (2012 graduate) appears only on the 2017 archived alumni list. PHASE 2: Common Crawl rerun 2011-2016 (30 crawls x 5 prefixes, fixed filter) completed with no failures: only hits were the known stale 2012-05 our_residents.html and two neurology pages. CC 2025-2026 (19 crawls) no failures; no current-residents capture between Aug 2025 and Feb 2026. Makler transfer-in row added (th 3027); Stewart transfer-in row 2681 was inserted earlier by the program 32 agent and left as is.",
+ "year_status": {
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "content-dated 2013-09-01 capture (Desai chief, Root intern)"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2019-08-18 capture content-dated 2018-19 (Root chief, Montejo PGY1)"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2022-01-21 capture; no Jul-Dec 2021 capture, but 2020-21 and 2022-23 bracket it with no change in membership"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Feb 2026 capture; no capture Aug 2025-Feb 2026 (Wayback or CC), so Ihezie's exit date inside 2025-26 is unknown"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "bracketed by 2010-11 and 2012-13 rosters: every 2010-11 resident graduates (Radwan 2011, Spire 2012 alumni) or reappears 2012-13; the only 2011 entrant slot is Hong (2011-2018); one-per-year complement leaves no unseen seat."
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "all 2012-13 residents reappear 2015-16 or graduate on schedule; the 2013 slot is Kim (entry year stated '(2013-2020)', MD 2013). An unseen extra entrant who left before Jul 2015 would exceed the 1/year complement; no PubMed/CC/program-page trace of one."
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "same frozen page; Kim confirmed at Dartmouth neurosurgery by PMID 26236552 (received Dec 2014); Calnan is the 2014 entrant '(2014-2021)'. No trace of any other resident."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "all 35 Wayback captures of gme.dartmouth-hitchcock.org/neurosurgery/our_residents.html 2011-2017 re-read (training spans)",
+   "CDX prefix gme.dartmouth-hitchcock.org/neurosurgery 2011-2017 (every URL) and phase-1 host audit (gme host, dartmouth-hitchcock.org/neuro, geiselmed, dms, dartmouth-health)",
+   "link audit of every distinct capture 2011-2016 of neurosurgery.html, program_details, how_to_apply, duty_hours, contact_us, faculty pages",
+   "general_surgery/our_residents.html (32 captures 2011-2017): no neurosurgery interns listed",
+   "GME document PDFs 2012-2016 (forms, training info): no rosters",
+   "Common Crawl 2011-2016 all crawls, fixed filter, prefixes org,dartmouth-hitchcock,gme)/neuro, org,dartmouth-hitchcock)/neuro, org,dartmouth-hitchcock)/clinics/neuro, edu,dartmouth,geiselmed)/neuro, edu,dartmouth,dms)/neuro",
+   "Common Crawl 2025-2026 current-residents/alumni (Ihezie exit)",
+   "PubMed affiliation mining 2011-2017 (Dartmouth AND neurosurgery), PubMed/OpenAlex author searches for Kim and Ihezie",
+   "Westchester Medical Center anesthesiology pages (Wayback), NPPES",
+   "crossmatch.json pairs for Makler and Stewart"
+  ],
+  "found": [
+   "Joon-Hyung Kim -> anesthesiology (Westchester Medical Center CA-3 2020-21; left Dartmouth after 2015-16)",
+   "Kim at Dartmouth in 2014-15 confirmed by publication affiliation",
+   "Makler transfer-in (Missouri) recorded; Stewart transfer-in (LSU-S) already recorded"
+  ],
+  "remaining": [
+   "2011-12, 2013-14, 2014-15 still reconstructed (page frozen; no other roster exists) - significance low",
+   "Stephanie Ihezie outcome unknown; exit date between Aug 2025 and Feb 2026"
+  ]
+ }
+}

@@ -1,0 +1,69 @@
+
+Penn State Milton S Hershey Medical Center Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2005   Tristram Horton          2012   2011-20  7   bio          COMPLETED
+2005   Elias Rizk               2012   2011-20  7   bio          COMPLETED
+2006   John Paul Kelleher       2013   2012-20  7   bio          COMPLETED
+2007   Koijan Kainth            2013   2012-20  6   bio          COMPLETED
+2007   Akshal Patel             2014   2013-20  7   bio          COMPLETED [ambiguous name]
+2007   Omar Zalatimo            2014   2013-20  7   bio          COMPLETED
+2008   Jonathon Cooke           2015   2014-20  7   bio          COMPLETED
+2008   Gareth Davies            2015   2014-20  7   bio          COMPLETED
+2009   Einar Bogason            2016   2015-20  7   bio          COMPLETED
+2009   Namath Hussain           2016   2015-20  7   bio          COMPLETED
+2010   Nicholas Brandmeir       2017   2016-20  7   bio          COMPLETED
+2011   Ephraim Church           2018   2017-20  7   bio          COMPLETED
+2011   Pratik Rohatgi           2018   2017-20  7   bio          COMPLETED
+2011   Emily Payne Sieg         2018   2017-20  7   bio          COMPLETED
+2012   Brian Anderson           2019   2018-20  7   bio          COMPLETED [ambiguous name]
+2012   Russell Payne            2019   2018-20  7   bio          COMPLETED
+2013   Justin Davanzo           2020   2019-20  7   bio          COMPLETED
+2013   Endrit Ziu               2016   2015-20  3   bio          LEFT -> TRANSFERRED (University of Missouri-Columbia)
+2014   Ryan Jafrani             2021   2020-20  7   bio          COMPLETED
+2014   David McDermott          -      2015-20  2   --           LEFT -> outcome unknown [ambiguous name]
+2014   Sandip Savaliya          2021   2020-20  7   bio          COMPLETED
+2015   Lekhaj Daggubati         2022   2021-20  7   bio          COMPLETED
+2015   Jessica Lane             2022   2021-20  7   bio          COMPLETED [ambiguous name]
+2015   Christine Mau            2022   2021-20  7   bio          COMPLETED
+2016   Abraham Schlauderaff     2023   2022-20  7   bio          COMPLETED
+2016   Samer Zammar             2023   2022-20  7   bio          COMPLETED
+2017   Robert Maurer            2024   2023-20  7   bio          COMPLETED [ambiguous name]
+2017   Neel Patel               2024   2023-20  7   bio          COMPLETED [ambiguous name]
+2018   Francis Jareczek         2025   2024-20  7   bio          COMPLETED
+2018   Varun Padmanaban         2025   2024-20  7   bio          COMPLETED
+2019   Sonia Majid              2026   2025-20  7   bio          COMPLETED
+2019   Oliver Mrowczynski       2026   2025-20  7   bio          COMPLETED
+2019   Yaw Tachie-Baffour       2026   2025-20  7   bio          COMPLETED
+2020   Chanju Fritch            -      2026-20  7   roster       IN TRAINING
+2020   David Hallan             -      2026-20  7   roster       IN TRAINING
+2020   Kimberly Kray            -      2026-20  7   roster       IN TRAINING
+2021   Michael Gigliotti        -      2026-20  6   roster       IN TRAINING
+2021   Dennis Madden            -      2021-20  1   npi?         LEFT -> outcome unknown (NPI hint: other specialty)
+2021   Sarah McNutt             -      2026-20  6   roster       IN TRAINING
+2022   Omar Akel                -      2026-20  5   roster       IN TRAINING
+2022   David Bailey             -      2026-20  5   roster       IN TRAINING [ambiguous name]
+2022   Kyle Tuohy               -      2026-20  5   roster       IN TRAINING
+2023   Scott Kamen              -      2026-20  4   roster       IN TRAINING
+2023   Mitchell Paro            -      2026-20  4   roster       IN TRAINING
+2023   Mallory Peterson         -      2026-20  4   roster       IN TRAINING
+2024   Amanda Brisco            -      2026-20  3   roster       IN TRAINING
+2024   Mason Stoltzfus          -      2026-20  3   roster       IN TRAINING
+2024   Anna Tarren              -      2026-20  3   roster       IN TRAINING
+2025   Samir Alsalek            -      2025-20  1   --           LEFT -> outcome unknown
+2025   James Cooper             -      2026-20  2   roster       IN TRAINING [ambiguous name]
+2025   Zeegan George            -      2026-20  2   roster       IN TRAINING
+2025   Robert Quon              -      2026-20  2   roster       IN TRAINING
+2026   Jade Basem               -      2026-20  1   roster       IN TRAINING
+2026   Patrick Halloran         -      2026-20  1   roster       IN TRAINING
+
+summary:
+    31  COMPLETED
+    19  IN TRAINING
+     2  LEFT -> outcome unknown
+     1  LEFT -> TRANSFERRED (University of Missouri-Columbia)
+     1  LEFT -> outcome unknown (NPI hint: other specialty)
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

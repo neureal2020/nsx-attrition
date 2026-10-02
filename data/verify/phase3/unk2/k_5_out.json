@@ -1,0 +1,535 @@
+[
+ {
+  "key": "119:phi:dagostino",
+  "name": "Phillip Dagostino",
+  "program_id": 119,
+  "usnews": "deferred",
+  "program_site_url": "http://www.wakehealth.edu/School/Neurosurgery/Resident-Profiles.htm",
+  "external_url": null,
+  "evidence_level": "program_only",
+  "year_left": null,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 4,
+  "sources_count": 1,
+  "identity": "probable",
+  "identity_basis": "Wake Forest 2011-14 rosters list Phillip Dagostino PGY1-4; RateMDs stub 'Phillip R. Dagostino neurosurgeon Winston-Salem' is a stub without training data (not accepted).",
+  "outcome": "unknown",
+  "outcome_detail": "Not on Wake alumni/graduates search results (2015-16 grads named: Shah, Witcher, Hedayat). No destination found.",
+  "queries": [
+   "\"Phillip Dagostino\" neurosurgery",
+   "\"Phillip R. Dagostino\" OR \"Philip R. Dagostino\" MD",
+   "\"Phillip Dagostino\" OR \"Phil Dagostino\" MD Wake Forest neurosurgery resident 2015 OR 2016 OR 2017 OR anesthesiology OR radiology"
+  ],
+  "sources": [
+   {
+    "url": "https://www.ratemds.com/doctor-ratings/3379146/Dr-PHILLIP+R.-DAGOSTINO-WINSTON+SALEM-NC.html/",
+    "type": "search_snippet",
+    "evidence": "Dr. Phillip R. Dagostino - Winston-Salem, NC - Neurosurgeon (stub, no education)"
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "searches_used": 4
+ },
+ {
+  "key": "119:kri:pawlowski",
+  "name": "Kristen Pawlowski",
+  "program_id": 119,
+  "usnews": "deferred",
+  "program_site_url": "https://school.wakehealth.edu/residents-and-fellows/p/kristen-danielle-pawlowski",
+  "external_url": "https://www.linkedin.com/in/kristen-pawlowski/",
+  "evidence_level": "silver",
+  "year_left": 2025,
+  "destination_program": null,
+  "current": "neurology resident, University of Michigan",
+  "abns_certified": false,
+  "ident_searches": 5,
+  "sources_count": 2,
+  "identity": "confirmed",
+  "identity_basis": "NPI registry lists Kristen Danielle Pawlowski MD at 1500 E Medical Center Dr, Ann Arbor (Michigan Medicine); Wake page slug is 'kristen-danielle-pawlowski' (same middle name); LinkedIn 'Kristen Pawlowski, MD - Michigan Medicine' neurology resident, Rush MD. Wake resident page now redirects to homepage (removed).",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Neurology resident, University of Michigan (per search summaries of LinkedIn and NPI Ann Arbor listing); left Wake neurosurgery after PGY2 2024-25; start year at Michigan not verified.",
+  "queries": [
+   "\"Kristen Pawlowski\" neurosurgery",
+   "\"Kristen Pawlowski\" neurology resident University of Michigan Michigan Medicine",
+   "\"Kristen Pawlowski\" Rush Medical College match ...",
+   "\"Pawlowski\" University of Michigan neurology residency PGY-2 OR PGY-3",
+   "\"Kristen Pawlowski\" doximity MD Ann Arbor OR Winston-Salem"
+  ],
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/kristen-pawlowski/",
+    "type": "search_snippet",
+    "evidence": "Kristen Pawlowski, MD - Michigan Medicine (neurology resident)"
+   },
+   {
+    "url": "https://www.hipaaspace.com/medical_billing/coding/national_provider_identifier/codes/npi_1710560107.aspx",
+    "type": "search_snippet",
+    "evidence": "KRISTEN DANIELLE PAWLOWSKI MD, ANN ARBOR, MI"
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "searches_used": 5
+ },
+ {
+  "key": "120:tat:mahlokozera",
+  "name": "Tatenda Mahlokozera",
+  "program_id": 120,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20231029091402/https://neurosurgery.wustl.edu/people-page/residents/",
+  "external_url": null,
+  "evidence_level": "program_only",
+  "year_left": null,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 4,
+  "sources_count": 1,
+  "identity": "probable",
+  "identity_basis": "WashU roster 2022-25; Doximity/US News (search index) list Tatenda Mahlokozera 'Resident Physician' St. Louis, WashU MD 2022. Doximity public profile now 'not found / disabled'.",
+  "outcome": "unknown",
+  "outcome_detail": "Absent from current (2026-27) WashU residents page (PGY5 = Chatrath, Perdomo Pantoja, Yuan). Doximity/US News still show him as resident physician St. Louis, so may be in a research year not shown on roster; unconfirmed.",
+  "queries": [
+   "\"Tatenda Mahlokozera\" neurosurgery",
+   "\"Mahlokozera\" resident 2026",
+   "\"Tatenda Mahlokozera\" MD PhD 2025 OR 2026 ...",
+   "\"Mahlokozera\" Washington University neurosurgery resident glioblastoma lab"
+  ],
+  "sources": [
+   {
+    "url": "https://health.usnews.com/doctors/tatenda-mahlokozera-2475299",
+    "type": "search_snippet",
+    "evidence": "Resident Physician, Saint Louis, MO; WashU MD"
+   },
+   {
+    "url": "https://neurosurgery.wustl.edu/people-page/residents/",
+    "type": "program_page",
+    "evidence": "2026-27 roster does not list him"
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "blocked",
+   "usnews": "deferred"
+  },
+  "searches_used": 4
+ },
+ {
+  "key": "120:mic:jin",
+  "name": "Michael Jin",
+  "program_id": 120,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20241002235702/https://neurosurgery.wustl.edu/people-page/residents/",
+  "external_url": "https://www.doximity.com/pub/michael-jin-md-90f2bae3",
+  "evidence_level": "program_only",
+  "year_left": 2026,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 3,
+  "sources_count": 2,
+  "identity": "confirmed",
+  "identity_basis": "WashU people page (search-indexed, now 404) and Doximity: Michael Jin MD MS, Stanford MD/MS, WashU/B-JH/SLCH neurosurgery residency 2024-2031; namesakes elsewhere excluded.",
+  "outcome": "unknown",
+  "outcome_detail": "Was at WashU as PGY2 in 2025-26 per search index; WashU profile now removed (404) and absent from 2026-27 roster; no destination found.",
+  "queries": [
+   "\"Michael Jin\" neurosurgery Washington University resident",
+   "\"Michael Jin\" Stanford MD neurosurgery resident 2026"
+  ],
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-jin-md-90f2bae3",
+    "type": "search_snippet",
+    "evidence": "Michael Jin, MD, St. Louis, Neurosurgery"
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "searches_used": 3
+ },
+ {
+  "key": "120:kyl:mcgrath",
+  "name": "Kyle McGrath",
+  "program_id": 120,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20251007134545/https://neurosurgery.wustl.edu/people-page/residents/",
+  "external_url": "https://www.doximity.com/pub/kyle-mcgrath-md",
+  "evidence_level": "program_only",
+  "year_left": 2026,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 3,
+  "sources_count": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Kyle McGrath MD: UF College of Medicine 2025, residency WashU/B-JH/SLCH Neurological Surgery 2025 (page read in Chrome); WashU roster PGY1 2025-26.",
+  "outcome": "unknown",
+  "outcome_detail": "WashU people page 404 and absent from 2026-27 PGY2 list; no destination found. Doximity shows Gainesville FL address (1104 Newell Dr, UF campus) with WashU residency, unexplained.",
+  "queries": [
+   "\"Kyle McGrath\" neurosurgery",
+   "\"Kyle McGrath\" MD University of Florida resident 2026 ..."
+  ],
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kyle-mcgrath-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, WashU/B-JH/SLCH, 2025; UF Class of 2025"
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "searches_used": 3
+ },
+ {
+  "key": "121:jam:smith",
+  "name": "James Smith",
+  "program_id": 121,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20140810071738/http://medicine.hsc.wvu.edu:80/Neurosurgery/Residency/Current-Residents",
+  "external_url": null,
+  "evidence_level": "program_only",
+  "year_left": null,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 3,
+  "sources_count": 0,
+  "identity": "not_found",
+  "identity_basis": "No profile matching this WVU PGY2 (SLU MD) found; name too common.",
+  "outcome": "unknown",
+  "outcome_detail": "WVU current residents page does not list him; no destination.",
+  "queries": [
+   "\"James Smith\" neurosurgery West Virginia University resident",
+   "\"James Smith\" MD Saint Louis University School of Medicine 2013 neurosurgery West Virginia",
+   "\"James Smith\" MD \"Saint Louis University\" 2013 graduate resident WVU ..."
+  ],
+  "sources": [],
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "searches_used": 3
+ },
+ {
+  "key": "48:ann:filley",
+  "name": "Anna Filley",
+  "program_id": 48,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20201029214001/https://www.columbianeurosurgery.org/education/residents/current-residents/",
+  "external_url": "https://doctor.webmd.com/doctor/anna-filley-70bef68e-88e8-4a51-8c51-2abdd1469d64-overview",
+  "evidence_level": "program_only",
+  "year_left": null,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 6,
+  "sources_count": 2,
+  "identity": "probable",
+  "identity_basis": "Doximity/WebMD/LinkedIn: Anna (Christine) Filley MD, Indiana Univ MD 2018, Columbia neurosurgery residency 2018-; WebMD lists Columbia Neurological Surgery, CO license. Not on Columbia current residents or 2025 graduating chiefs (CreveCoeur, Englander).",
+  "outcome": "unknown",
+  "outcome_detail": "Not the 2025 graduate; ResearchGate reportedly lists Columbia orthopaedics postdoc; no orthopaedic resident/fellow roster or any destination found.",
+  "queries": [
+   "\"Anna Filley\" neurosurgery",
+   "\"Anna Filley\" orthopaedic OR orthopedic surgery resident",
+   "\"Filley\" Columbia orthopaedic surgery spine fellow",
+   "\"Anna Filley\" MD 2025 OR 2026 Colorado OR Denver ...",
+   "Columbia neurosurgery residency graduates 2025 ...",
+   "\"Anna Filley\" MD fellow OR fellowship 2025-2026 ..."
+  ],
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.columbia.edu/news/congratulations-2025-columbia-neurosurgery-graduating-joint-chiefs",
+    "type": "news",
+    "evidence": "2025 graduating chiefs: CreveCoeur and Englander"
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "searches_used": 6
+ },
+ {
+  "key": "57:sea:munier",
+  "name": "Sean Munier",
+  "program_id": 57,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20250315174401/https://njms.rutgers.edu/departments/neurosurgery/resident.php",
+  "external_url": "https://www.doximity.com/pub/sean-munier-md",
+  "evidence_level": "program_only",
+  "year_left": null,
+  "destination_program": null,
+  "current": "probably post-residency fellowship, Englewood NJ/NY (unverified)",
+  "abns_certified": false,
+  "ident_searches": 3,
+  "sources_count": 2,
+  "identity": "confirmed",
+  "identity_basis": "Rutgers roster PGY5-7 + Doximity Sean Munier MD Rutgers RWJMS 2019 (NJ license 2020-27)",
+  "outcome": "completed",
+  "outcome_detail": "PGY7 in 2025-26 (expected June 2026 graduation). Doximity: Englewood NJ (500 Grand Ave), NY license 2026-28, suggests post-residency fellowship; not on Englewood Health neurosurgery page. No bio/ABNS yet.",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sean-munier-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Englewood NJ, NY license 2026-2028"
+   }
+  ],
+  "queries": [
+   "\"Sean Munier\" neurosurgery",
+   "\"Sean Munier\" MD neurosurgeon joins OR fellowship ...",
+   "\"Munier\" Englewood Health neurosurgery fellow Sean"
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "searches_used": 3
+ },
+ {
+  "key": "73:rya:turner",
+  "name": "Ryan Turner",
+  "program_id": 73,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20241106164816/https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+  "external_url": "https://neurosurgery.uw.edu/education/fellowship-programs/spine-surgery",
+  "evidence_level": "silver",
+  "year_left": null,
+  "destination_program": null,
+  "current": "spine surgery fellow, University of Washington/Harborview 2026-27",
+  "abns_certified": false,
+  "ident_searches": 3,
+  "sources_count": 2,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Little Rock/Seattle): Ryan Turner MD, UTMB 2019, UAMS neurological surgery residency; ZoomInfo/UAMS: Resident Neurosurgeon UAMS, UTMB MD. WVU Ryan C. Turner is a different (faculty) person.",
+  "outcome": "completed",
+  "outcome_detail": "Completed UAMS residency 2026; now UW Department of Neurological Surgery Spine Surgery fellow 2026-27 (Harborview, Seattle).",
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/education/fellowship-programs/spine-surgery",
+    "type": "program_page",
+    "evidence": "Ryan Turner listed as 2026-2027 spine surgery fellow"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ryan-turner-md-f86df005",
+    "type": "doximity",
+    "evidence": "Resident Physician Neurosurgery Seattle; UAMS neurological surgery residency; UTMB 2019"
+   }
+  ],
+  "queries": [
+   "\"Ryan Turner\" neurosurgery UAMS resident Arkansas",
+   "\"Ryan Turner\" MD UAMS neurosurgery graduate 2026 fellowship ...",
+   "\"Ryan Turner\" UW neurosurgery fellow 2026-2027 ..."
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "searches_used": 3
+ },
+ {
+  "key": "73:kev:thomas",
+  "name": "Kevin Thomas",
+  "program_id": 73,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20211207024455/https://neurosurgery.uams.edu/residents/current-residents/",
+  "external_url": "https://medicine.uams.edu/students/preparing-for-residency/residency-match-2021/",
+  "evidence_level": "program_only",
+  "year_left": 2023,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 6,
+  "sources_count": 2,
+  "identity": "confirmed",
+  "identity_basis": "UAMS College of Medicine Residency Match 2021 lists Kevin Thomas matched Neurological Surgery at UAMS; WebMD: UAMS MD 2021.",
+  "outcome": "unknown",
+  "outcome_detail": "Absent from UAMS neurosurgery roster from 2023; no other-specialty roster or bio found. WebMD 'Little Rock neurological surgery' listing is an auto label.",
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/students/preparing-for-residency/residency-match-2021/",
+    "type": "program_page",
+    "evidence": "Thomas, Kevin - Neurological Surgery, U Arkansas COM-Little Rock"
+   }
+  ],
+  "queries": [
+   "\"Kevin Thomas\" neurosurgery UAMS Arkansas resident",
+   "\"Kevin Thomas\" MD UAMS 2021 match residency specialty ...",
+   "\"Kevin Thomas, M.D.\" UAMS resident PGY-3 OR PGY-4 OR PGY-2 -neurosurgery",
+   "\"Kevin Thomas\" MD UAMS 2021 graduate resident radiology OR anesthesiology ...",
+   "\"Kevin Thomas\" doximity UAMS \"Class of 2021\" Arkansas"
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "searches_used": 6
+ },
+ {
+  "key": "79:amb:gaulden",
+  "name": "Amber Gaulden",
+  "program_id": 79,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20240905175051/https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+  "external_url": "https://doctor.webmd.com/doctor/amber-gaulden-8dc86196-d41c-42dc-a07b-0bf3fb2780b1-overview",
+  "evidence_level": "program_only",
+  "year_left": null,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 4,
+  "sources_count": 2,
+  "identity": "confirmed",
+  "identity_basis": "UC resident profile + WebMD/Vitals: Amber Lynn Gaulden MD, USC Greenville 2019, UC neurosurgery; AANS ped section committee 2025-27",
+  "outcome": "completed",
+  "outcome_detail": "PGY7 2025-26, not on 2026-27 roster; graduating June 2026 inferred. No fellowship/practice bio found.",
+  "queries": [
+   "\"Amber Gaulden\" neurosurgery",
+   "\"Amber Gaulden\" MD pediatric neurosurgery fellowship 2026",
+   "\"Amber Gaulden\" doximity"
+  ],
+  "sources": [
+   {
+    "url": "https://pedsneurosurgery.org/about/current-officers/",
+    "type": "search_snippet",
+    "evidence": "committee member 2025-2027"
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "searches_used": 4
+ },
+ {
+  "key": "79:mar:johnson",
+  "name": "Mark Johnson",
+  "program_id": 79,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20240905175051/https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+  "external_url": "https://med.uc.edu/depart/neurosurgery/directory/residents/Index/Pubs/johns5m5",
+  "evidence_level": "program_only",
+  "year_left": null,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 3,
+  "sources_count": 2,
+  "identity": "probable",
+  "identity_basis": "UC resident profile 'Mark D. Johnson, MD' UC MD, cerebrovascular interest; WebMD Cincinnati; common name.",
+  "outcome": "completed",
+  "outcome_detail": "PGY7 2025-26, not on 2026-27 roster; graduation inferred. No fellowship/practice bio found (not on UC endovascular fellowship page).",
+  "queries": [
+   "\"Mark Johnson\" neurosurgery University of Cincinnati resident 2026 fellowship",
+   "\"Mark Johnson\" MD University of Cincinnati neurosurgery graduating chief resident 2026 ...",
+   "\"Mark Johnson\" MD neurosurgery Cincinnati fellow 2026 endovascular ..."
+  ],
+  "sources": [
+   {
+    "url": "https://www.bafound.org/news/meet-research-grant-recipient-mark-johnson-md/",
+    "type": "news",
+    "evidence": "UC neurosurgery resident, Brain Aneurysm Foundation grant"
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "searches_used": 3
+ },
+ {
+  "key": "118:cha:fleming",
+  "name": "Charles Fleming",
+  "program_id": 118,
+  "usnews": "deferred",
+  "program_site_url": "https://web.archive.org/web/20241114075319/https://neurosurgery.vcu.edu/education/residency/",
+  "external_url": null,
+  "evidence_level": "program_only",
+  "year_left": null,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 3,
+  "sources_count": 1,
+  "identity": "probable",
+  "identity_basis": "VCU site previously had 'Charles Fleming, MD, MPH' residency page (now 404); no external profile.",
+  "outcome": "completed",
+  "outcome_detail": "PGY7 2025-26, absent from 2026-27 VCU roster; no destination or bio found.",
+  "queries": [
+   "\"Charles Fleming\" neurosurgery VCU",
+   "\"Charles Fleming\" MD MPH neurosurgery fellowship OR joins ...",
+   "\"Charles Fleming\" MD MPH neurosurgery resident VCU ..."
+  ],
+  "sources": [
+   {
+    "url": "https://neurosurgery.vcu.edu/education/residency/charles-fleming-md-mph.html",
+    "type": "program_page",
+    "evidence": "search-indexed VCU residency page, now 404"
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "searches_used": 3
+ },
+ {
+  "key": "119:pau:marcet",
+  "name": "Paul Marcet",
+  "program_id": 119,
+  "usnews": "deferred",
+  "program_site_url": "https://school.wakehealth.edu/residents-and-fellows/m/paul-andrew-marcet",
+  "external_url": "https://www.healthgrades.com/physician/dr-paul-marcet-9hgsjnn116",
+  "evidence_level": "program_only",
+  "year_left": null,
+  "destination_program": null,
+  "current": null,
+  "abns_certified": false,
+  "ident_searches": 3,
+  "sources_count": 2,
+  "identity": "confirmed",
+  "identity_basis": "Wake resident page + Healthgrades Paul Marcet MD, USF Morsani 2019, Winston-Salem neurosurgery; Doximity NC 2019-26, FL license 2026-28.",
+  "outcome": "completed",
+  "outcome_detail": "PGY7 2025-26; Florida license 2026 suggests post-residency move; no bio/fellowship found.",
+  "queries": [
+   "\"Paul Marcet\" neurosurgery",
+   "\"Paul Marcet\" MD Wake Forest neurosurgery fellowship OR joins Florida 2026",
+   "\"Paul Marcet\" doximity OR fellow ..."
+  ],
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-paul-marcet-9hgsjnn116",
+    "type": "search_snippet",
+    "evidence": "Neurosurgeon Winston Salem NC, USF Morsani 2019"
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "searches_used": 3
+ }
+]

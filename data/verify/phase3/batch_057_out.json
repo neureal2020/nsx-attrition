@@ -1,0 +1,796 @@
+[
+ {
+  "key": "116:eri:nturibi",
+  "name": "Eric Nturibi",
+  "program_id": 116,
+  "identity": "confirmed",
+  "identity_basis": "Pitt Neurosurgery Match 2022 announcement names Nturibi; Doximity Pitt MD 2022; Pitt PGY-1 video",
+  "residency_stated": [
+   {
+    "institution": "University of Pittsburgh",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Not on Pitt 2026-27 resident roster (Pitt current-residents page); Doximity shows only 'Resident Physician, Pittsburgh' with no residency entry; WebMD/other listings still Pitt neurosurgery. No destination found.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/PittNeurosurg/status/1504903232790880264",
+    "type": "search_snippet",
+    "evidence": "congratulate Joe Garcia, Eric Nturibi, Will Shuman, and James Yoon for matching into our neurological surgery residency program"
+   },
+   {
+    "url": "https://www.doximity.com/pub/eric-nturibi-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Pittsburgh; University of Pittsburgh School of Medicine Class of 2022; no residency listed"
+   },
+   {
+    "url": "https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+    "type": "program_page",
+    "evidence": "2026-27 roster lists PGY-5 Will Shuman only from 2022 class; Nturibi and Yoon absent"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "116:jam:yoon",
+  "name": "James Yoon",
+  "program_id": 116,
+  "identity": "confirmed",
+  "identity_basis": "Pitt neurosurgery bio: joined July 2022 after MD Yale; Doximity Yale MD 2022 and Pittsburgh neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "UPMC Shadyside (Pitt neurosurgery)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2027
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity (self-reported, possibly stale) lists 'Shadyside Campus Residency, 2027'; not on Pitt 2026-27 roster (Pitt current-residents page). No destination found; may be a research/leave year or departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "Doximity still lists residency to 2027 at Pitt (Shadyside), so departure not confirmed.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/james-yoon-md-f3b9e0a0",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Pittsburgh; Shadyside Campus Residency, 2027; Yale School of Medicine Class of 2022"
+   },
+   {
+    "url": "https://www.neurosurgery.pitt.edu/people/james-yoon",
+    "type": "search_snippet",
+    "evidence": "joined the University of Pittsburgh Department of Neurological Surgery residency program in July 2022 after earning his MD degree from Yale School of Medicine"
+   },
+   {
+    "url": "https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+    "type": "program_page",
+    "evidence": "not on 2026-27 roster"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "118:eri:merrill",
+  "name": "Eric Merrill",
+  "program_id": 118,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: VCU Health System Neurological Surgery residency 2007-2013, Richmond VA, address 1250 E Marshall St; Healthgrades/WebMD: neurosurgeon, residency VCU",
+  "residency_stated": [
+   {
+    "institution": "Virginia Commonwealth University Health System",
+    "specialty": "neurosurgery",
+    "start": 2007,
+    "end": 2013
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity lists VCU Neurological Surgery residency 2007-2013 (6 years, matching a PGY-6 finish in 2012-13 after DB's last-seen 2011-12); listed as Neurosurgery, Richmond VA. Healthgrades: neurosurgeon, residency VCU. No ABNS certification shown (ABIM IM/Pulm listed).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery, Richmond VA (VCU-area address)",
+  "agrees_with_db": false,
+  "disagreement": "DB says left/did not complete; Doximity and Healthgrades indicate completion at VCU 2007-2013 (though ABIM certs and a possible 2013 end before PGY-7 make this medium confidence).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/eric-merrill-md",
+    "type": "doximity",
+    "evidence": "Virginia Commonwealth University Health System Residency, Neurological Surgery, 2007 - 2013; Wright State Class of 1997"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-eric-merrill-gfbw5",
+    "type": "search_snippet",
+    "evidence": "completed his medical education at Wright State University Boonshoft School of Medicine and underwent his residency training at Virginia Commonwealth University Health System"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "118:mar:hajec",
+  "name": "Marygrace Hajec",
+  "program_id": 118,
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists VCU Neurological Surgery residency 2012-2016, MD Poznan 2004, transitional year 2005-06; VCU spinal cord paper with H. Young; listed under earlier surname Hagan elsewhere",
+  "residency_stated": [
+   {
+    "institution": "Virginia Commonwealth University Health System",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2016
+   },
+   {
+    "institution": "Rutgers Health/Robert Wood Johnson Medical School",
+    "specialty": "occupational and environmental medicine",
+    "start": 2019,
+    "end": 2021
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left VCU neurosurgery in 2016; later completed occupational and environmental medicine residency at Rutgers RWJ (2019-2021); board certified in occupational medicine (ABPM).",
+  "year_left": 2016,
+  "destination_program": "Rutgers Health/Robert Wood Johnson Medical School (Occupational and Environmental Medicine)",
+  "destination_start_year": 2019,
+  "current": "Occupational medicine physician, Director Employee Health & Safety, Virginia State Police",
+  "agrees_with_db": true,
+  "disagreement": "DB outcome 'did not complete' is confirmed; destination is occupational medicine.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/marygrace-hajec-md",
+    "type": "doximity",
+    "evidence": "Rutgers RWJ Residency, Occupational and Environmental Medicine, 2019 - 2021; VCU Residency, Neurological Surgery, 2012 - 2016"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "118:dea:leonard",
+  "name": "Dean Leonard",
+  "program_id": 118,
+  "identity": "probable",
+  "identity_basis": "Doximity: Texas A&M MD 2019, Richmond VA resident physician at VCU address, publications in neurosurgical topics; US News snippet lists VCU affiliation",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity (Resident Physician, Richmond VA, VA license to 2025) shows no residency entry; no destination found.",
+  "year_left": 2025,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dean-leonard-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Richmond VA; Texas A&M Health Science Center College of Medicine Class of 2019; VA license 2019-2025"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "118:bra:toll",
+  "name": "Brandon Toll",
+  "program_id": 118,
+  "identity": "confirmed",
+  "identity_basis": "VCU program page and Doximity: DO UNE 2022, VCU neurosurgery 2023-2030; Lahey/Shriners research",
+  "residency_stated": [
+   {
+    "institution": "Virginia Commonwealth University Health System",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity (likely stale, self-reported) still lists VCU NS 2023-2030; new PA state license 2026-2028 suggests possible move to a Pennsylvania program; no destination found (Penn State current residents page did not list him in excerpt).",
+  "year_left": 2025,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "Doximity still lists VCU residency to 2030.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brandon-toll-do",
+    "type": "doximity",
+    "evidence": "VCU Residency, Neurological Surgery, 2023 - 2030; PA State License 2026 - 2028"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "118:sha:souza",
+  "name": "Shawn D'Souza",
+  "program_id": 118,
+  "identity": "confirmed",
+  "identity_basis": "VCU Neuro X post welcomes D'Souza as 2024 neurosurgery resident; Doximity VCU SOM class 2024",
+  "residency_stated": [
+   {
+    "institution": "Virginia Commonwealth University",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity lists only VCU MD 2024 (Neurosurgery, VCU Medical Center address) with no residency entry. Search for a WashU affiliation returned nothing new (WashU affiliation in DB note not independently verified here).",
+  "year_left": 2025,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/VCUNeuro/status/1770517150371090480",
+    "type": "search_snippet",
+    "evidence": "welcome to our newest #Neurosurgery residents, Shawn D'Souza and William Mualem #MatchDay2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/shawn-d-souza-md-57694df1",
+    "type": "doximity",
+    "evidence": "Virginia Commonwealth University School of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:che:patel",
+  "name": "Chetak Patel",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest Neurological Surgery residency 2011-2014; Rosalind Franklin MD 2011; Wake Forest neurosurgery paper 2014",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2014
+   },
+   {
+    "institution": "Palmetto Health Richland (Prisma Health)",
+    "specialty": "emergency medicine",
+    "start": 2015,
+    "end": 2018
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Wake Forest neurosurgery (after PGY-4 2014-15 per roster; Doximity end 2014) and switched to emergency medicine at Palmetto Health Richland (finished 2018 per search snippet; start year inferred 2015), then emergency ultrasound fellowship 2019.",
+  "year_left": 2015,
+  "destination_program": "Palmetto Health Richland (Prisma Health Richland), Emergency Medicine",
+  "destination_start_year": 2015,
+  "current": "Emergency medicine physician, Prisma Health Richland, Columbia SC (ABEM certified)",
+  "agrees_with_db": true,
+  "disagreement": "DB outcome 'did not complete' confirmed; destination is emergency medicine.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/chetak-patel-md",
+    "type": "doximity",
+    "evidence": "Wake Forest Residency, Neurological Surgery, 2011 - 2014; American Board of Emergency Medicine; Emergency Medicine, Columbia SC"
+   },
+   {
+    "url": "https://www.doximity.com/pub/chetak-patel-md",
+    "type": "search_snippet",
+    "evidence": "residency in emergency medicine at Palmetto Health Richland in 2018 and a fellowship in emergency ultrasound at Palmetto Health Richland in 2019"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:phi:dagostino",
+  "name": "Phillip Dagostino",
+  "program_id": 119,
+  "identity": "probable",
+  "identity_basis": "Doximity stub 'Phillip Robert Dagostino, Neurosurgery, Winston-Salem NC' at Hawthorne Rd (Wake Forest campus); RateMDs listing Winston-Salem; no training detail",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Only stub profiles (Doximity, RateMDs) with no education; no evidence of completion or destination.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/phillip-dagostino-md",
+    "type": "doximity",
+    "evidence": "Dr. Phillip Dagostino, MD is a neurosurgeon in Winston-Salem, North Carolina (no education listed)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "119:jam:west",
+  "name": "James West",
+  "program_id": 119,
+  "identity": "probable",
+  "identity_basis": "Search snippets: a James West of Wake Forest Dept of Neurosurgery (2018 CNS SANS Challenge winner) who is an FIU MD graduate; UAB news: James 'Jim' West MD, FIU MD, neurology residency Dartmouth-Hitchcock, neurocritical care fellowship Duke; no single page links Wake NS to Dartmouth neurology",
+  "residency_stated": [
+   {
+    "institution": "Dartmouth-Hitchcock Medical Center",
+    "specialty": "neurology",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Probable switch from Wake Forest neurosurgery to neurology (Dartmouth-Hitchcock), then neurocritical care fellowship at Duke (class of 2026), then neuroendovascular fellowship at UAB (Aug 2026). Year of switch not established (DB: last on roster 2017-18/2018-19). Link between the Wake NS resident and this neurologist is inferred (same name, FIU MD).",
+  "year_left": 2019,
+  "destination_program": "Dartmouth-Hitchcock Medical Center (Neurology)",
+  "destination_start_year": null,
+  "current": "neuroendovascular fellow, UAB (from Aug 2026)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.uab.edu/medicine/news/neurosurgery/neurosurgery-welcomes-west-as-endovascular-fellow",
+    "type": "news",
+    "evidence": "medical degree from Florida International University. He completed his neurology residency at Dartmouth-Hitchcock Medical Center, followed by a fellowship in neurocritical care at Duke University."
+   },
+   {
+    "url": "https://school.wakehealth.edu/education-and-training/residencies-and-fellowships/neurosurgery-residency",
+    "type": "search_snippet",
+    "evidence": "James West, neurosurgery resident, with Mark Frenkel won first place in the 2018 CNS SANS Challenge; graduate of FIU Herbert Wertheim College of Medicine"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "119:kri:pawlowski",
+  "name": "Kristen Pawlowski",
+  "program_id": 119,
+  "identity": "probable",
+  "identity_basis": "Wake neurosurgery Instagram intern post (2023) and Wake NS listing; LinkedIn snippet MD Michigan Medicine; doctor.com lists MD, Winston-Salem",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No Doximity MD profile (site search returned only an NP namesake); no destination found.",
+  "year_left": 2025,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.instagram.com/wfneurosurgery/p/Cvcq9s7gMCd/",
+    "type": "search_snippet",
+    "evidence": "One month down for interns, Dr. Kristen Pawlowski and ..."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "120:tat:mahlokozera",
+  "name": "Tatenda Mahlokozera",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "WashU MD/PhD (thesis 2020); WashU Neurosurgery 2022-2023 intern class; US News/Doximity search snippets list Resident Physician St. Louis",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Not on WashU current-residents page; Doximity URL returns 'No Public Profile' (search snippet: Resident Physician, St. Louis). No evidence of leaving medicine or switching; consistent with a research leave but unconfirmed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown; St. Louis resident physician per search snippets",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "Current residents page does not list Mahlokozera"
+   },
+   {
+    "url": "https://www.doximity.com/pub/tatenda-mahlokozera-md",
+    "type": "doximity",
+    "evidence": "Public profile not found or disabled"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "120:mic:jin",
+  "name": "Michael Jin",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: WashU/B-JH/SLCH Neurological Surgery residency 2024-2031, Stanford MD 2024, St. Louis address; search snippet: PGY1 WashU, Stanford MD/MS",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity (self-reported) still lists WashU neurosurgery 2024-2031, St. Louis; not on WashU current-residents page (research leave possible). No evidence of departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (self-reported), St. Louis",
+  "agrees_with_db": true,
+  "disagreement": "Doximity still lists residency through 2031; departure not confirmed (likely research leave).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-jin-md-0f58b74d",
+    "type": "doximity",
+    "evidence": "Washington University/B-JH/SLCH Consortium Residency, Neurological Surgery, 2024 - 2031; Stanford Class of 2024"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "120:kyl:mcgrath",
+  "name": "Kyle McGrath",
+  "program_id": 120,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UF College of Medicine 2025, WashU neurosurgery residency 2025; WashU profile snippet PGY1, UF MD",
+  "residency_stated": [
+   {
+    "institution": "Washington University/B-JH/SLCH Consortium",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Not on WashU current-residents page or UF neurosurgery current residents; Doximity still lists WashU residency 2025 with Gainesville FL address; 2026 papers with no destination. Probable departure after PGY-1 but destination not found.",
+  "year_left": 2026,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kyle-mcgrath-md",
+    "type": "doximity",
+    "evidence": "Washington University/B-JH/SLCH Consortium Residency, Neurological Surgery, 2025; University of Florida College of Medicine Class of 2025"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "McGrath not listed"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "121:jam:smith",
+  "name": "James Smith",
+  "program_id": 121,
+  "identity": "ambiguous",
+  "identity_basis": "Common name; searches returned only unrelated neurosurgeons named James Smith (Myrtle Beach SC, WashU alum)",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "No profile found matching MD Saint Louis University / WVU PGY-2 2014-15.",
+  "year_left": 2015,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.hsc.wvu.edu/neurosurgery/faculty-staff/",
+    "type": "search_snippet",
+    "evidence": "WVU neurosurgery faculty list; no James Smith match"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "121:dav:arsanious",
+  "name": "David Arsanious",
+  "program_id": 121,
+  "identity": "probable",
+  "identity_basis": "Doximity: UVM MD 2018 (matches WVU entry 2018); Vitals lists David Arsanious, Morgantown WV; radiosurgery/neurosurgical publications",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "radiation oncology",
+    "start": 2021,
+    "end": 2025
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left WVU neurosurgery during/after 2020-21; radiation oncology residency at Penn 2021-2025; now board-certified radiation oncologist.",
+  "year_left": 2021,
+  "destination_program": "University of Pennsylvania Health System (Radiation Oncology)",
+  "destination_start_year": 2021,
+  "current": "Radiation oncologist, Dayton Physicians Network, Kettering/Dayton OH",
+  "agrees_with_db": true,
+  "disagreement": "DB 'did not complete' confirmed; destination is radiation oncology.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-arsanious-md",
+    "type": "doximity",
+    "evidence": "University of Pennsylvania Health System Residency, Radiation Oncology, 2021 - 2025; University of Vermont College of Medicine Class of 2018"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/MedicalDoctors_David_Arsanious.html",
+    "type": "search_snippet",
+    "evidence": "Dr. David Arsanious | Morgantown, WV | Radiation Oncology"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "123:kom:atsina",
+  "name": "Komli-Kofi Atsina",
+  "program_id": 123,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Komli-Kofi Atsina Jr., Yale-New Haven Neurological Surgery residency 2011-2018, Pitt MD 2011, practising at Yale-New Haven Hospital; distinct from Kofi-Buaku Atsina (Jefferson radiology)",
+  "residency_stated": [
+   {
+    "institution": "Yale-New Haven Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity and WebMD list him as a neurosurgeon, New Haven CT, with Yale NS residency 2011-2018.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Yale-New Haven Hospital, New Haven CT",
+  "agrees_with_db": false,
+  "disagreement": "DB says left/did not complete; Doximity shows completed Yale NS 2011-2018 and practising neurosurgery (no ABNS shown).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/komli-kofi-atsina-md",
+    "type": "doximity",
+    "evidence": "Yale-New Haven Medical Center Residency, Neurological Surgery, 2011 - 2018; Neurosurgery, New Haven, CT"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "123:ula:cikla",
+  "name": "Ulas Cikla",
+  "program_id": 123,
+  "identity": "confirmed",
+  "identity_basis": "UF Health bio: fellowship at Yale-New Haven 2020 (endovascular), Istanbul MD 2003; DB note: Turkish-trained neurosurgeon, Yale associate scientist from 2019",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Foreign-trained neurosurgeon; not a US resident-track attritor. UF bio lists Yale endovascular neurosurgery fellowship 2020, BIDMC fellowship 2022, UW-Madison cerebrovascular/skull base fellowships 2024, then UF Health Jacksonville assistant professor of neurosurgery (2024). He practises neurosurgery; left the PGY-1 resident role at Yale in 2019-20 (converted to fellow 2020).",
+  "year_left": 2020,
+  "destination_program": "Yale endovascular fellowship (2020), then BIDMC, UW-Madison fellowships",
+  "destination_start_year": 2020,
+  "current": "Assistant professor of neurosurgery, UF Health Jacksonville",
+  "agrees_with_db": true,
+  "disagreement": "Practising neurosurgeon, so not attrition from neurosurgery; not a completed Yale residency either.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://ufhealthjax.org/doctors/ulas-cikla/bio",
+    "type": "bio",
+    "evidence": "Endovascular Neurosurgery Fellowship at Yale - New Haven Medical Center, 2020; Assistant Professor at University of Florida, 2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ulas-cikla-md",
+    "type": "doximity",
+    "evidence": "Public profile not found or disabled"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "125:eli:klein",
+  "name": "Elizabeth Klein",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Detroit Medical Center/Wayne State Neurological Surgery residency 2011-2018, Loyola Stritch MD 2011; Wayne State new-resident spotlight snippet (Loyola Stritch, Grosse Pointe)",
+  "residency_stated": [
+   {
+    "institution": "Detroit Medical Center/Wayne State University",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity lists completion of DMC/Wayne State NS 2011-2018; practising neurosurgeon, Carmel, Indiana (SC license 2017-2021, IN license 2020-).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Carmel IN",
+  "agrees_with_db": false,
+  "disagreement": "DB says left after 2015-16 PGY-5; Doximity shows residency 2011-2018 and neurosurgeon in Carmel IN (no ABNS shown).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/elizabeth-klein-md-23146fe0",
+    "type": "doximity",
+    "evidence": "Detroit Medical Center/Wayne State University Residency, Neurological Surgery, 2011 - 2018; Neurosurgery, Carmel, IN"
+   },
+   {
+    "url": "https://neurosurgery.med.wayne.edu/new-resident-spotlight",
+    "type": "search_snippet",
+    "evidence": "attended the Stritch School of Medicine at Loyola University"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "125:r:garling",
+  "name": "R. Justin Garling",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Richard Garling, DMC/Wayne State Neurological Surgery residency 2014-2020, UTHSCSA MD 2009; Pacific Neuroscience Institute page; Wayne State physician-extender page",
+  "residency_stated": [
+   {
+    "institution": "Detroit Medical Center/Wayne State University",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed DMC/Wayne State neurosurgery residency 2014-2020; ABNS certified; neurosurgeon in Fort Worth TX (also Pacific Neuroscience Institute 2021-22 fellowship listing).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Fort Worth TX (Acclaim/JPS)",
+  "agrees_with_db": false,
+  "disagreement": "DB recorded outcome unknown; Doximity shows completion 2014-2020 and ABNS certification.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/richard-garling-md",
+    "type": "doximity",
+    "evidence": "Detroit Medical Center/Wayne State University Residency, Neurological Surgery, 2014 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.pacificneuroscienceinstitute.org/people/r-justin-garling/",
+    "type": "search_snippet",
+    "evidence": "R. Justin Garling, MD | 2021-22 | Pacific Neuroscience Institute"
+   }
+  ],
+  "searches_used": 1
+ }
+]

@@ -1,0 +1,920 @@
+[
+ {
+  "key": "10:qua:nguyen",
+  "name": "Quang Nguyen",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "UH residents page: Quang Nguyen PGY-7, Texas Tech HSC SOM; WebMD lists Quang Nhat Nguyen, Neurological Surgery, Texas Tech HSC SOM 2020, at UH Cleveland address; agree on name, school, city. Doximity/US News neurosurgery profile not found (US News deferred).",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 senior resident CWRU/UH neurosurgery, entered 2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, University Hospitals Cleveland",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Quang Nguyen, MD Medical School: Texas Tech University Health Sciences Center School of Medicine (PGY-7)"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/quang-nguyen-65acc595-21dd-4335-9fee-cdebc38842f4-overview",
+    "type": "bio",
+    "evidence": "Specialty Neurological Surgery; graduated Texas Tech HSC School of Medicine 2020; Cleveland OH"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 2,
+  "program_site_url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents",
+  "external_url": "https://doctor.webmd.com/doctor/quang-nguyen-65acc595-21dd-4335-9fee-cdebc38842f4-overview",
+  "evidence_level": "silver"
+ },
+ {
+  "key": "10:var:shah",
+  "name": "Varun Shah",
+  "program_id": 10,
+  "identity": "probable",
+  "identity_basis": "UH residents page: Varun Shah PGY-6 chief, Ohio State College of Medicine. No external directory/match source found naming him; Doximity Varun Shah hits are neurology/anesthesiology namesakes; co-author listing in 2026 paper is publication only (does not count).",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 chief resident CWRU/UH neurosurgery (entered 2021)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-6 chief resident neurosurgery, University Hospitals Cleveland",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Varun Shah, MD Medical School: The Ohio State University College of Medicine (PGY-6 Chief Residents)"
+   }
+  ],
+  "searches_used": 5,
+  "ident_searches": 5,
+  "sources_count": 1,
+  "program_site_url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents",
+  "external_url": null,
+  "evidence_level": "program_only"
+ },
+ {
+  "key": "10:mic:mann",
+  "name": "Michael Mann",
+  "program_id": 10,
+  "identity": "probable",
+  "identity_basis": "UH residents page: Michael Mann PGY-3, CWRU SOM. External: CWRU SOM 2024 de-identified match list shows a Neurological Surgery match to Case Western/University Hospitals (no names), consistent but not name-specific; ResearchGate CWRU profile is publication-level only. Namesakes in other specialties excluded.",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 CWRU/UH neurosurgery (entered 2024)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-3 neurosurgery resident, University Hospitals Cleveland",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Michael Mann, MD Medical School: Case Western Reserve University School of Medicine (PGY-3)"
+   },
+   {
+    "url": "https://case.edu/medicine/md/sites/default/files/2024-07/SOM%20Match%20List%202024.pdf",
+    "type": "other",
+    "evidence": "CWRU SOM 2024 match list, no names: Neurological Surgery - Case Western/University Hospitals Cleveland Medical Center"
+   }
+  ],
+  "searches_used": 5,
+  "ident_searches": 5,
+  "sources_count": 1,
+  "program_site_url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents",
+  "external_url": "https://case.edu/medicine/md/sites/default/files/2024-07/SOM%20Match%20List%202024.pdf",
+  "evidence_level": "program_only"
+ },
+ {
+  "key": "10:pra:kumar",
+  "name": "Pranav Kumar",
+  "program_id": 10,
+  "identity": "confirmed",
+  "identity_basis": "UH residents page: Pranav Kumar PGY-1, CWRU SOM. CWRU pathway page names student Pranav Kumar (Middlebury 2020, CWRU MD); CWRU SOM 2026 de-identified match list shows two Neurological Surgery matches to CWRU/UH, consistent with two CWRU-MD PGY-1s (Kumar, Olive Jung). Delhi neurosurgeon Pranav Kumar excluded.",
+  "residency_stated": [
+   {
+    "institution": "Case Western Reserve University/University Hospitals Cleveland Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 (entered 2026) CWRU/UH neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-1 neurosurgery resident, University Hospitals Cleveland",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Pranav Kumar, MD Medical School: Case Western Reserve University School of Medicine (PGY-1)"
+   },
+   {
+    "url": "https://case.edu/medicine/world-medicine-pathway/members/current-students/pranav-kumar",
+    "type": "bio",
+    "evidence": "Pranav Kumar, CWRU medical student pathway member"
+   },
+   {
+    "url": "https://case.edu/medicine/md/sites/default/files/2026-05/CWRU%20SOM%20Deidentified%20Match%20List%202026.pdf",
+    "type": "other",
+    "evidence": "2026 CWRU SOM match list (no names): 2 x Neurological Surgery, Case Western Reserve University/University Hospitals"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 3,
+  "program_site_url": "https://www.uhhospitals.org/medical-education/neurological-surgery-medical-education/neurological-surgery-residency/residents",
+  "external_url": "https://case.edu/medicine/md/sites/default/files/2026-05/CWRU%20SOM%20Deidentified%20Match%20List%202026.pdf",
+  "evidence_level": "silver"
+ },
+ {
+  "key": "11:ash:patel",
+  "name": "Ashish Patel",
+  "program_id": 11,
+  "identity": "confirmed",
+  "identity_basis": "Cedars 2012-13 roster (Wayback): Ashish Patel PGY-2, University of Maryland. Geisinger neurology alumni page: Ashish Patel, University of Maryland School of Medicine, 2025 graduate, fellowship neuro-oncology MGB/Dana-Farber; Doximity: Ashish D. Patel, Maryland class of 2011, Geisinger neurology 2021-2025, ABPN; Vitals lists Ashish D. Patel Neurological Surgery/Neurology Danville PA. Same distinctive med school + class year across all. (Doximity header says General Surgery, San Diego address; note only.)",
+  "residency_stated": [
+   {
+    "institution": "Geisinger Health System (Danville)",
+    "specialty": "neurology",
+    "start": 2021,
+    "end": 2025
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Cedars neurosurgery after 2012-13 (PGY-2, roster last seen); neurology residency Geisinger Danville 2021-2025 (ABPN neurology), then neuro-oncology fellowship at Mass General Brigham/Dana-Farber. What he did 2013-2021 is not stated in any source found (CA license listed from 2013).",
+  "year_left": 2013,
+  "destination_program": "Geisinger neurology (2021)",
+  "destination_start_year": 2021,
+  "current": "neuro-oncology fellow (neurologist), Mass General Brigham/Dana-Farber",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20121226200300/http://www.cedars-sinai.edu/Patients/Programs-and-Services/Neurosurgery/Medical-Education/Residency-Program/Our-Residents.aspx",
+    "type": "program_page",
+    "evidence": "Current Residents 2012-2013, PGY 2: Ashish Patel, MD, University of Maryland"
+   },
+   {
+    "url": "https://www.geisinger.edu/gchs/education/residencies-fellowships/residencies/neurology-residency/residents",
+    "type": "program_page",
+    "evidence": "Ashish Patel, University of Maryland School of Medicine; Fellowship: Neuro-Oncology, Mass General Brigham & Dana Farber Cancer Centers"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ashish-patel-md-6b6563df",
+    "type": "doximity",
+    "evidence": "Geisinger Residency, Neurology, 2021-2025; University of Maryland School of Medicine Class of 2011; ABPN Neurology"
+   }
+  ],
+  "searches_used": 5,
+  "ident_searches": 5,
+  "sources_count": 3,
+  "program_site_url": "https://web.archive.org/web/20121226200300/http://www.cedars-sinai.edu/Patients/Programs-and-Services/Neurosurgery/Medical-Education/Residency-Program/Our-Residents.aspx",
+  "external_url": "https://www.geisinger.edu/gchs/education/residencies-fellowships/residencies/neurology-residency/residents",
+  "evidence_level": "silver"
+ },
+ {
+  "key": "11:and:miller",
+  "name": "Andrew Miller",
+  "program_id": 11,
+  "identity": "confirmed",
+  "identity_basis": "Cedars program page: Andrew Miller PGY-5, University of Kansas SOM. Cedars Neurosurgery X post (Match Day 2021) welcoming Andrew Miller and Catherine Garcia; WebMD/LinkedIn list Andrew Miller Cedars neurosurgery resident, Kansas MD 2021; agree on name, program, school, year.",
+  "residency_stated": [
+   {
+    "institution": "Cedars-Sinai Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5 Cedars-Sinai neurosurgery (entered 2021)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, Cedars-Sinai",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.cedars-sinai.edu/education/graduate-medical/residency/neurological-surgery/residents.html",
+    "type": "program_page",
+    "evidence": "Andrew Miller, MD PGY-5 Resident; Medical School: University of Kansas School of Medicine"
+   },
+   {
+    "url": "https://x.com/neurosurgery_cs/status/1372994037502799874",
+    "type": "news",
+    "evidence": "Congrats to Andrew Miller and Catherine Garcia, the newest members of our Cedars-Sinai Neurosurgery family! matchday2021"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/andrew-miller-5ad1702d-f387-45c8-97ed-d0932af7b8d0-overview",
+    "type": "bio",
+    "evidence": "Andrew Miller, Neurological Surgery, Los Angeles; Kansas 2021 (search summary)"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 3,
+  "program_site_url": "https://www.cedars-sinai.edu/education/graduate-medical/residency/neurological-surgery/residents.html",
+  "external_url": "https://x.com/neurosurgery_cs/status/1372994037502799874",
+  "evidence_level": "silver"
+ },
+ {
+  "key": "12:eli:abbott",
+  "name": "Elizabeth Abbott",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "CCF rosters 2012-13..2017-18 list Elizabeth Abbott (program_sources). M Health Fairview provider page: Elizabeth Bennett MD, MD Medical College of Wisconsin 2011, neurological surgery residency Cleveland Clinic Foundation 2018, fellowships CCF 2016-2017. WebMD/Vitals slugs \"elizabeth-abbott\" resolve to Elizabeth (E.) Bennett neurosurgeon Maplewood MN, and Doximity Bennett page ABNS: same person under a different surname. Years 2011-2018 match roster span.",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed CCF neurosurgery residency 2018; ABNS certified; practising neurosurgeon/spine surgeon M Health Fairview, St. Paul MN (listed under a different surname)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, M Health Fairview, St. Paul MN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20130227063454/http://my.clevelandclinic.org:80/neurological_institute/education/neurosurgeryfellows.aspx",
+    "type": "program_page",
+    "evidence": "CCF Current Residents roster 2012-13 (Wayback), listed as Elizabeth Abbott"
+   },
+   {
+    "url": "https://providers.mhealthfairview.org/provider/elizabeth-bennett/2240046",
+    "type": "bio",
+    "evidence": "Neurological surgery residency Cleveland Clinic Foundation, 2018; MD Medical College of Wisconsin 2011; Neurosurgery, Spine Surgery"
+   },
+   {
+    "url": "https://www.doximity.com/pub/elizabeth-bennett-md-108f6890",
+    "type": "doximity",
+    "evidence": "CCF Residency Neurological Surgery 2011-2018; ABNS"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/elizabeth-abbott-2918d0c4-dec5-11e7-9f4c-005056a225bf-overview",
+    "type": "bio",
+    "evidence": "WebMD \"elizabeth-abbott\" URL titled Dr. Elizabeth Bennett, Neurosurgeon, Maplewood MN"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 4,
+  "program_site_url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery (Common Crawl CC-MAIN-2017-51, 2017-12-17)",
+  "external_url": "https://providers.mhealthfairview.org/provider/elizabeth-bennett/2240046",
+  "evidence_level": "gold"
+ },
+ {
+  "key": "12:and:maldonado",
+  "name": "Andres Maldonado",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "CCF rosters 2012-13..2018-19 list Andres Maldonado. OSF HealthCare blog/provider page: Andres L. Maldonado, neurosurgeon Peoria IL, completed neurosurgery residency at Cleveland Clinic with functional/epilepsy fellowships; Doximity/Healthgrades: Central Univ of Ecuador 2003, CCF Neurological Surgery 2009-2019, ABNS. Distinctive name, single CCF match. Start-year difference (2009 vs first roster 2012) likely reflects earlier research/prelim years; note only.",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2009,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed CCF neurosurgery residency (last on roster 2018-19; Doximity/Healthgrades end 2019); ABNS certified; epilepsy/functional neurosurgeon at OSF, Peoria IL",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (functional/epilepsy), OSF HealthCare, Peoria IL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20190718183415/https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "CCF residents roster 2018-19 PGY-7 (Wayback)"
+   },
+   {
+    "url": "https://www.osfhealthcare.org/blog/how-a-neurosurgeon-is-changing-the-lives-of-his-patients",
+    "type": "bio",
+    "evidence": "Completed his neurosurgery residency at Cleveland Clinic, with fellowships in functional neurosurgery and epilepsy surgery (OSF HealthCare)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/andres-maldonado-md",
+    "type": "doximity",
+    "evidence": "CCF Residency Neurological Surgery 2009-2019; ABNS"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3,
+  "program_site_url": "https://web.archive.org/web/20130227063454/http://my.clevelandclinic.org:80/neurological_institute/education/neurosurgeryfellows.aspx",
+  "external_url": "https://www.osfhealthcare.org/blog/how-a-neurosurgeon-is-changing-the-lives-of-his-patients",
+  "evidence_level": "gold"
+ },
+ {
+  "key": "12:sar:bourne",
+  "name": "Sara Bourne",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "CCF 2013-14 roster lists Sara Bourne PGY-1. WebMD URL slug \"sarah-bourne\" resolves to Sarah Kathleen Bick, Neurological Surgery, MD Vanderbilt 2013 (listed under a different surname at CCF). Vanderbilt neurosurgery bio: MD Vanderbilt, internship at Cleveland Clinic, residency+fellowship Massachusetts General Hospital, now Assistant Professor. Years and school align (MD 2013, CCF PGY-1 2013-14).",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "surgery internship",
+    "start": 2013,
+    "end": 2014
+   },
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2020
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "One CCF year (PGY-1/internship 2013-14), then neurosurgery residency at Massachusetts General Hospital (2014-2020, Doximity/Vanderbilt search snippet); now Vanderbilt epilepsy/functional neurosurgeon",
+  "year_left": 2014,
+  "destination_program": "Massachusetts General Hospital neurosurgery",
+  "destination_start_year": 2014,
+  "current": "Assistant Professor of Neurological Surgery, Vanderbilt University Medical Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20131217014306/http://my.clevelandclinic.org:80/neurological_institute/for-medical-professionals/residencies/neurosurgery-residency.aspx",
+    "type": "program_page",
+    "evidence": "CCF residency page 2013-14 (Wayback), listed as Sara Bourne PGY-1"
+   },
+   {
+    "url": "https://www.vumc.org/neurosurgerydept/person/sarah-bick-md",
+    "type": "bio",
+    "evidence": "MD Vanderbilt; internship at the Cleveland Clinic; residency and fellowship at Massachusetts General Hospital; Assistant Professor of Neurological Surgery"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/sarah-bourne-4c45189e-1c49-4a5f-843f-52045c403104-overview",
+    "type": "bio",
+    "evidence": "Sarah Kathleen Bick, Neurological Surgery, Vanderbilt 2013; slug sarah-bourne"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sarah-bick-md",
+    "type": "doximity",
+    "evidence": "MGH neurosurgery residency 2014-2020 (search snippet)"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 4,
+  "program_site_url": "https://web.archive.org/web/20131217014306/http://my.clevelandclinic.org:80/neurological_institute/for-medical-professionals/residencies/neurosurgery-residency.aspx",
+  "external_url": "https://www.vumc.org/neurosurgerydept/person/sarah-bick-md",
+  "evidence_level": "gold"
+ },
+ {
+  "key": "12:rem:kessler",
+  "name": "Remi Kessler",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "CCF 2021-22 roster (Wayback) lists Remi Kessler PGY-1. WebMD/MediFind/Healthgrades: Remi Kessler, Icahn Mount Sinai MD 2021, anesthesiology at MUSC (Charleston), additional Cleveland OH location, taxonomy lists Neurological Surgery (consistent with a CCF neurosurgery year); MUSC anesthesia resident roster page. Only one Remi Kessler; name, MD year, and Cleveland location agree. (Weak point: no bio explicitly states the CCF neurosurgery year.)",
+  "residency_stated": [],
+  "outcome": "switched_specialty",
+  "outcome_detail": "One CCF PGY-1 year 2021-22 in neurosurgery, then anesthesiology (MUSC, Charleston SC; listed with MUSC Medical Center affiliation); no longer on MUSC 2026-27 resident roster (graduated). Exact MUSC start year not stated in accessible source.",
+  "year_left": 2022,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "anesthesiologist, MUSC / Charleston SC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20220117171326/https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "CCF neurosurgery residency page 2021-22 (Wayback), Remi Kessler PGY-1"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/remi-kessler-0cd8b35d-1502-4ee6-bab5-8d80a91f82ba-overview",
+    "type": "bio",
+    "evidence": "Anesthesiology, Family Medicine and Neurological Surgery; Icahn School of Medicine at Mount Sinai 2021; Medical University South Carolina Anesthesia, Charleston; Cleveland OH location"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 3,
+  "program_site_url": "https://web.archive.org/web/20220117171326/https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+  "external_url": "https://doctor.webmd.com/doctor/remi-kessler-0cd8b35d-1502-4ee6-bab5-8d80a91f82ba-overview",
+  "evidence_level": "silver"
+ },
+ {
+  "key": "12:ama:bingaman",
+  "name": "Amanda Bingaman",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "CCF live page: Amanda Bingaman, MD, Vanderbilt undergrad, Temple SOM (Year Two). No school match list, directory or social source naming her found in 4 searches (William Bingaman results are the unrelated CCF faculty member).",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 CCF neurosurgery (entered 2025)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "Amanda Bingaman, MD; Undergraduate: Vanderbilt University; Medical School: Temple University School of Medicine (Year Two)"
+   }
+  ],
+  "searches_used": 5,
+  "ident_searches": 5,
+  "sources_count": 1,
+  "program_site_url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+  "external_url": null,
+  "evidence_level": "program_only"
+ },
+ {
+  "key": "12:moh:el-abtah",
+  "name": "Mohamed El-Abtah",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "CCF live page: Mohamed El-Abtah, Harvard undergrad, CWRU MD (Year Two). Doximity: Mohamed El-Abtah MD Cleveland OH, CWRU class of 2025 (agrees on name and school; lists no residency). Unique name.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 CCF neurosurgery (entered 2025)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "Mohamed El-Abtah, MD; Undergraduate: Harvard University; Medical School: Case Western Reserve University (Year Two)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/mohamed-el-abtah-md",
+    "type": "doximity",
+    "evidence": "Cleveland OH, CWRU MD 2025 (no residency line)"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 2,
+  "program_site_url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+  "external_url": "https://www.doximity.com/pub/mohamed-el-abtah-md",
+  "evidence_level": "silver"
+ },
+ {
+  "key": "12:set:meade",
+  "name": "Seth Meade",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "CCF live page: Seth Meade, CWRU undergrad, CCLCM MD (Year Two). CCLCM Class of 2025 Match Results: Seth Meade - Cleveland Clinic OH - Neurological Surgery; LinkedIn \"Seth Meade - Neurosurgery Resident at Cleveland Clinic\"; Doximity CCLCM 2025.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 CCF neurosurgery (matched 2025)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "Seth Meade, MD; Medical School: Cleveland Clinic Lerner College of Medicine (Year Two)"
+   },
+   {
+    "url": "https://portal.cclcm.ccf.org/cclcm/CCLCMDependencies/popup/match_2025.html",
+    "type": "news",
+    "evidence": "CCLCM Class of 2025 match: Seth Meade, Cleveland Clinic - OH, Neurological Surgery"
+   },
+   {
+    "url": "https://www.linkedin.com/in/sethmeadecwru/",
+    "type": "bio",
+    "evidence": "Neurosurgery Resident at Cleveland Clinic"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 3,
+  "program_site_url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+  "external_url": "https://portal.cclcm.ccf.org/cclcm/CCLCMDependencies/popup/match_2025.html",
+  "evidence_level": "silver"
+ },
+ {
+  "key": "12:ala:gordillo",
+  "name": "Alan Gordillo",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "CCF live page: Alan Gordillo, Ohio State undergrad, CCLCM/CWRU MD (Year One). CCLCM Class of 2026 Match Results: Alan Gordillo - Cleveland Clinic OH - Neurological Surgery (sole neurosurgery match); Doximity CCLCM class of 2026.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 CCF neurosurgery (matched 2026)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "Alan Gordillo, MD; Undergraduate: Ohio State; Medical School: Cleveland Clinic Lerner College of Medicine/CWRU (Year One)"
+   },
+   {
+    "url": "https://portal.cclcm.ccf.org/cclcm/CCLCMDependencies/popup/match_2026.html",
+    "type": "news",
+    "evidence": "CCLCM Class of 2026 match: Alan Gordillo, Cleveland Clinic OH, Neurological Surgery"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 2,
+  "program_site_url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+  "external_url": "https://portal.cclcm.ccf.org/cclcm/CCLCMDependencies/popup/match_2026.html",
+  "evidence_level": "silver"
+ },
+ {
+  "key": "12:ant:allam",
+  "name": "Anthony Kaspa Allam",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "CCF live page: Anthony Kaspa Allam, Baylor undergrad, Baylor COM MD (Year One). Only external hits are Baylor publications/ResearchGate (do not count); no match list or directory naming him found.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 CCF neurosurgery (entered 2026)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "Anthony Kaspa Allam, MD; Undergraduate: Baylor University; Medical School: Baylor College of Medicine (Year One)"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 1,
+  "program_site_url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+  "external_url": null,
+  "evidence_level": "program_only"
+ },
+ {
+  "key": "12:isa:pelcher",
+  "name": "Isabelle Pelcher",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "CCF live page: Isabelle Pelcher, Boston Univ undergrad, Zucker Hofstra/Northwell MD (Year One). External hits only AANS abstracts (publication, not counted); Zucker match-day pages do not list names.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 CCF neurosurgery (entered 2026)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "Isabelle Pelcher, MD; Undergraduate: Boston University; Medical School: Zucker School of Medicine at Hofstra/Northwell (Year One)"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 1,
+  "program_site_url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+  "external_url": null,
+  "evidence_level": "program_only"
+ },
+ {
+  "key": "12:pat:barhouse",
+  "name": "Patrick Barhouse",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "CCF live page: Patrick Barhouse, Minnesota undergrad, Brown Alpert MD (Year One). Brown MD 2026 Match List: Patrick Barhouse - Cleveland Clinic Foundation - Neurological Surgery (sponsoring-school column shows CWRU, which is CCF affiliation); LinkedIn \"Neurosurgical Resident at The Cleveland Clinic\".",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 CCF neurosurgery (matched 2026)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+    "type": "program_page",
+    "evidence": "Patrick Barhouse, MD; Medical School: Warren Alpert Medical School of Brown University (Year One)"
+   },
+   {
+    "url": "https://medical.brown.edu/md-2026-match-list",
+    "type": "news",
+    "evidence": "Patrick Barhouse | Cleveland Clinic Foundation | Neurological Surgery"
+   },
+   {
+    "url": "https://www.linkedin.com/in/patrick-barhouse-md-23b494171",
+    "type": "bio",
+    "evidence": "Neurosurgical Resident at The Cleveland Clinic (search result title)"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 3,
+  "program_site_url": "https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+  "external_url": "https://medical.brown.edu/md-2026-match-list",
+  "evidence_level": "silver"
+ },
+ {
+  "key": "13:gra:roe",
+  "name": "Grace Roe",
+  "program_id": 13,
+  "identity": "confirmed",
+  "identity_basis": "CCF Florida residency page: Grace Roe MD PGY-1, USU Hebert SOM. CCF Florida program X post (inaugural neurosurgery Match): incoming PGY-1 Air Force 2nd Lt Grace Roe, Uniformed Services University. Agree on name, school, program, year.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 (entered 2026) at Cleveland Clinic Florida neurosurgery, inaugural class",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Cleveland Clinic Florida (Weston)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://my.clevelandclinic.org/florida/medical-professionals/education/graduate-medical-education/neurosurgery-residency",
+    "type": "program_page",
+    "evidence": "Grace Roe, MD PGY-1; USU F. Edward Hebert School of Medicine"
+   },
+   {
+    "url": "https://x.com/ccfl_braintumor",
+    "type": "news",
+    "evidence": "Incoming PGY-1 Air Force 2nd Lt Grace Roe; inaugural Match, top-ranked applicant (search snippet)"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 2,
+  "program_site_url": "https://my.clevelandclinic.org/florida/medical-professionals/education/graduate-medical-education/neurosurgery-residency",
+  "external_url": "https://x.com/ccfl_braintumor",
+  "evidence_level": "silver"
+ },
+ {
+  "key": "15:hir:patel",
+  "name": "Hiren Patel",
+  "program_id": 15,
+  "identity": "confirmed",
+  "identity_basis": "PCOM/Cooper program roster 2014-15 (PGY-4 Hiren Patel). Mass General Brigham profile: Hiren N Patel DO, LECOM 2011, internship Mercy Catholic Medical Center osteopathic neurosurgery 2012, residency Philadelphia College of Osteopathic Med Neurological Surgery 2017, fellowship New England Baptist complex spine 2018; Doximity/NWH: neurosurgery Wellesley Hills. The PCOM neurosurgery program is the program sponsored via Cooper/Rowan (same program per Doximity residency page). 2011 MD, 2012 internship, PGY-4 in 2014-15 all consistent.",
+  "residency_stated": [
+   {
+    "institution": "Philadelphia College of Osteopathic Medicine (Cooper/Rowan)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2017
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed PCOM/Cooper neurosurgery residency 2017; spine fellowship New England Baptist 2018; practising neurosurgeon Newton-Wellesley Hospital (Mass General Brigham)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Newton-Wellesley Hospital, Newton MA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20150417022620/http://www.pcom.edu:80/Graduate_Medical_Education/Residency_Programs/neuro/current-residents/",
+    "type": "program_page",
+    "evidence": "PCOM neurosurgery current residents 2014-15 (Wayback), PGY-4 Hiren Patel"
+   },
+   {
+    "url": "https://www.massgeneralbrigham.org/en/doctors/p/hiren-patel-3008498",
+    "type": "bio",
+    "evidence": "Residency: Philadelphia College Of Osteopathic Med, Neurological Surgery, 2017; Fellowship: New England Baptist Hospital-Boston, Complex Spinal Surgery, 2018; Specialties Neurosurgery and Spine Surgery"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 2,
+  "program_site_url": "https://web.archive.org/web/20150417022620/http://www.pcom.edu:80/Graduate_Medical_Education/Residency_Programs/neuro/current-residents/",
+  "external_url": "https://www.massgeneralbrigham.org/en/doctors/p/hiren-patel-3008498",
+  "evidence_level": "gold"
+ },
+ {
+  "key": "15:jil:ploof",
+  "name": "Jillian Ploof",
+  "program_id": 15,
+  "identity": "confirmed",
+  "identity_basis": "PCOM/Cooper program rosters 2014-15 (PGY-2) through 2017-18 (PGY-5). Our Lady of the Lake Children's / Woman's Hospital bios: Jillian Ploof DO, PCOM 2013, internship PCOM Neurological Surgery 2014, residency PCOM Neurological Surgery 2019, fellowship Nationwide Children's pediatric neurosurgery 2020; AOBS certified. Years align with roster PGY sequence.",
+  "residency_stated": [
+   {
+    "institution": "Philadelphia College of Osteopathic Medicine (Cooper/Rowan)",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed PCOM/Cooper neurosurgery residency 2019 (roster shows PGY-5 in 2017-18); pediatric neurosurgery fellowship Nationwide Children's 2020; practising pediatric neurosurgeon Baton Rouge LA",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Our Lady of the Lake Children's Health / Woman's Hospital, Baton Rouge LA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20150417022620/http://www.pcom.edu:80/Graduate_Medical_Education/Residency_Programs/neuro/current-residents/",
+    "type": "program_page",
+    "evidence": "PCOM neurosurgery current residents 2014-15 (Wayback), PGY-2 Jillian Ploof"
+   },
+   {
+    "url": "https://doctors.ololrmc.com/provider/jillian-ann-ploof/1534966",
+    "type": "bio",
+    "evidence": "Residency: Philadelphia College Of Osteopathic Medicine, Neurological Surgery, 2019; Fellowship: Nationwide Children's Hospital, Pediatric Neurosurgery, 2020"
+   },
+   {
+    "url": "https://healthcarejournalbr.com/news/our-lady-of-the-lake-children%E2%80%99s-health-welcomes-pediatric-neurosurgeon",
+    "type": "news",
+    "evidence": "completed a residency in neurosurgery at Philadelphia College of Osteopathic Medicine"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3,
+  "program_site_url": "https://web.archive.org/web/20150417022620/http://www.pcom.edu:80/Graduate_Medical_Education/Residency_Programs/neuro/current-residents/",
+  "external_url": "https://doctors.ololrmc.com/provider/jillian-ann-ploof/1534966",
+  "evidence_level": "gold"
+ }
+]

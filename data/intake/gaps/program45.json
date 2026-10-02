@@ -1,0 +1,213 @@
+{
+ "program_id": 45,
+ "name": "MedStar Health Georgetown University Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "georgetownuniversityhospital.org/body_dept_home.cfm?id=331 (Neurosciences / Neurosurgery dept pages)",
+   "from": "2009",
+   "to": "2013-10 (301 to medstargeorgetown.org); no residency or resident pages ever archived"
+  },
+  {
+   "url": "www.medstargeorgetown.org/our-services/neurosciences/neurosurgery/... (hospital clinical site)",
+   "from": "2013-07",
+   "to": "live; clinical only, no residency roster"
+  },
+  {
+   "url": "www.medstarhealth.org/education/affiliated-hospitals-2/medstar-georgetown-university-hospital/neurosurgery-residency/{current-residents-19,recent-graduates-11}/",
+   "from": "2015-08",
+   "to": "2016-11 (then 301 to neurosurgery-residency-program/)"
+  },
+  {
+   "url": "www.medstarhealth.org/education/affiliated-hospitals-2/medstar-georgetown-university-hospital/neurosurgery-residency-program/ (landing only; its current-residents-19/ and recent-graduates-11/ subpages never archived by Wayback or Common Crawl)",
+   "from": "2016-12",
+   "to": "2021-10"
+  },
+  {
+   "url": "https://www.medstarhealth.org/education/residency-programs/neurosurgery (landing), /current-residents, /recent-graduates",
+   "from": "2021-11 (landing); 2024-04 (current-residents, recent-graduates)",
+   "to": "live"
+  },
+  {
+   "url": "som.georgetown.edu/neurosurgery/ (medical-student elective page, no roster)",
+   "from": "2019-12",
+   "to": "2025-07"
+  }
+ ],
+ "observed_years": [
+  "2014-2015",
+  "2016-2017",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2015-2016",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No program roster page for any host before 2015-08 (Wayback prefix audits of georgetownuniversityhospital.org, medstargeorgetown.org, medstarhealth.org/education, som/gumc.georgetown.edu, guessed hosts; Common Crawl 2013-2014 crawls: 0 roster records). Reconstructed alumni-confirmed graduates of 2012-2018 only; PGY from graduation year.",
+  "2012-2013": "As 2011-12. The 2012 entry class (PGY-1 in 2012-13, would graduate 2019) is unknown: no 2019 graduates on the alumni page and no PGY-3 class on the 2014-15 roster. Phase 2: PubMed (Georgetown[ad] AND neurosurgery, 772 PMIDs 2011-2025) and MedStar Washington Hospital Center neurosurgery affiliations show no unaccounted resident 2012-2019; every unlisted Georgetown-neurosurgery author was a medical student, research fellow, attending or resident elsewhere (Oermann, Yaeger, Murthy, Chidambaram, Lajthia, Alqahtani, Rotter, H. Alexander, Samir Sur = Miami resident then GU faculty, J.A. Thomas = attending).",
+  "2013-2014": "As 2011-12. Reconstructed alumni graduates 2014-2020 (Conte/Mueller as PGY-1 also confirmed at PGY-2 in 2014-15).",
+  "2014-2015": "Observed via a STALE page: current-residents-19 captured 2015-08-22..2016-05-31 still shows 2014-15 content (Petteys/Spitz, 2015 graduates, at top; the recent-graduates page of the same date ends at 2014). Labels 'NS-6..NS-1' number the six listed classes sequentially; PGYs assigned from alumni graduation years (NS-2 = PGY-2, NS-1 = PGY-1; no PGY-3 class).",
+  "2015-2016": "No 2015-16 content ever published/archived: page stayed on 2014-15 content until 2016-07. Reconstructed from bracketing (2014-15 & 2016-17) and alumni years; Fayed/Tai (2015 entrants) via alumni grad 2022 + 2016-17 PGY-2.",
+  "2016-2017": "Observed (Wayback 2016-10-05; unchanged 2016-07..2016-11). Page labels top classes PGY-6/PGY-5; corrected to PGY-7/6 for Felbaum/Ryan (2017 grads) and Jha/McGowan (2018 grads).",
+  "2017-2018": "No roster capture 2016-12..2024-04 in Wayback or Common Crawl (CC only has 301s and the landing page 2016-12, 2019-12, 2020-09, 2021-09, and residency-programs/neurosurgery landing 2021-11..2024-03, all without names). Only alumni-confirmed residents reconstructed.",
+  "2018-2019": "As 2017-18.",
+  "2019-2020": "As 2017-18.",
+  "2020-2021": "As 2017-18. 2020 entrants Stewart/Keating (first seen 2023-24 PGY-4) not back-filled (not graduated). Phase 2: back-filled 2020-2022 entrants (Stewart, Keating, Breton, Garrett, Grady, Bryant) as reconstructed from first-observed PGY; PubMed shows each at med school until entry (GU, Tufts, UF, Miami) and at MedStar Georgetown neurosurgery from 2020-2023; GU SOM placement table (2019-2025) matches the observed GU-graduate counts per class (2021:1 Garrett, 2022-24:0, 2025:1 Wong).",
+  "2021-2022": "As 2017-18. 2020-2021 entrants (Stewart, Keating, Breton, Garrett) not back-filled. Phase 2: back-filled 2020-2022 entrants (Stewart, Keating, Breton, Garrett, Grady, Bryant) as reconstructed from first-observed PGY; PubMed shows each at med school until entry (GU, Tufts, UF, Miami) and at MedStar Georgetown neurosurgery from 2020-2023; GU SOM placement table (2019-2025) matches the observed GU-graduate counts per class (2021:1 Garrett, 2022-24:0, 2025:1 Wong).",
+  "2022-2023": "As 2017-18. 2020-2022 entrants (Stewart, Keating, Breton, Garrett, Grady, Bryant) not back-filled. Phase 2: back-filled 2020-2022 entrants (Stewart, Keating, Breton, Garrett, Grady, Bryant) as reconstructed from first-observed PGY; PubMed shows each at med school until entry (GU, Tufts, UF, Miami) and at MedStar Georgetown neurosurgery from 2020-2023; GU SOM placement table (2019-2025) matches the observed GU-graduate counts per class (2021:1 Garrett, 2022-24:0, 2025:1 Wong).",
+  "2023-2024": "Observed from the earliest capture of the new current-residents page, 2024-04-15 (spring; no new interns yet; Celano/Zhao, 2024 grads, at PGY-7). NIH-track McAbee, Roehrkasse, Der excluded.",
+  "2024-2025": "Observed 2024-10-07. NIH-track (McAbee, Roehrkasse, Der, Chen) excluded. The 2025-03 and 2025-08-04 captures are the same roster.",
+  "2025-2026": "Observed 2026-01-21. NIH-track (incl. Mizrachi) excluded. June-2026 capture adds Alex Waldman as PGY-1 (loaded as a one-row 'other' capture).",
+  "2026-2027": "Live page 2026-09-27 (= Wayback 2026-09-07); advanced and has new interns. NIH-track (McAbee, Roehrkasse, Der, Chen, Presto) excluded."
+ },
+ "alumni_page": "https://www.medstarhealth.org/education/residency-programs/neurosurgery/recent-graduates",
+ "departures": [
+  {
+   "name": "Raed Moustafa",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "note": "2014 entrant (PGY-1 2014-15, PGY-3 2016-17). Not on alumni page (classmate Lynes graduated 2021 alone). Left sometime 2017-2021; exact year hidden by the 2017-2023 roster gap. Phase 2: no PubMed/OpenAlex output under his name, NPPES record (1306264064) never updated after 2014-03-31 (student taxonomy, DC). training_history row added (completed=no, departure_type=unknown, end_year NULL)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Alex Waldman",
+   "first_ay": "2025-2026",
+   "first_pgy": 1,
+   "note": "Absent from Jan/Feb 2026 rosters; appears as PGY-1 in the June 2026 capture and PGY-2 in 2026-27. Mid-year/off-cycle addition to the 2025 class (which had only Georgia Wong plus NIH-track Mizrachi). First full-year appearance 2026-27 at PGY-2."
+  }
+ ],
+ "residents_2011plus": 30,
+ "adjudication_summary": {
+  "COMPLETED": 27,
+  "IN TRAINING": 14,
+  "LEFT -> did not complete": 1
+ },
+ "problems": "2012 entry class: no roster before 2014-15, so a 2012 entrant who left by June 2014 without publishing cannot be excluded (low). 2017-2023 rosters never archived: Moustafa's exit year (2017-2021) unknown; a departure replaced 1:1 by a transfer-in would be invisible, but all 2020-22 entrants came straight from med school. CC-MAIN-2012 (old index format) not searchable, but medstarhealth.org/education did not exist before 2015. NIH-track (program 14) residents excluded: McAbee, Roehrkasse, Der, J. Chen, Mizrachi, Presto.",
+ "years": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster exists; 2005-2011 and 2013 classes each full at 2 (alumni page + 2014-15 roster) so no unreplaced loss; PubMed GT-neurosurgery authors 2011-14 show no unlisted resident."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster exists; 2005-2011 and 2013 classes each full at 2 (alumni page + 2014-15 roster) so no unreplaced loss; PubMed GT-neurosurgery authors 2011-14 show no unlisted resident. 2012 entry class absent: no PGY-3 in 2014-15, no PGY-5 in 2016-17, no 2019 graduates, and no unaccounted Georgetown-neurosurgery author 2012-2019; a 2012 entrant could only be hidden if they left by June 2014 without publishing."
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster exists; 2005-2011 and 2013 classes each full at 2 (alumni page + 2014-15 roster) so no unreplaced loss; PubMed GT-neurosurgery authors 2011-14 show no unlisted resident."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Stale-but-content-dated roster (2014-15 content), PGYs from alumni years."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Bracketed by observed 2014-15 and 2016-17 rosters with identical membership plus 2015 entrants; only a same-year enter-and-leave could hide; CC retries 2015-11, 2016-22 returned 0 records."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2016-10-05 roster."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Every class 2017-2019 graduated intact (2 alumni each); 2014 class lost Moustafa (unreplaced, Lynes graduated alone). Only Moustafa's exact exit year is hidden."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Every class 2017-2019 graduated intact (2 alumni each); 2014 class lost Moustafa (unreplaced, Lynes graduated alone). Only Moustafa's exact exit year is hidden."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Every class 2017-2019 graduated intact (2 alumni each); 2014 class lost Moustafa (unreplaced, Lynes graduated alone). Only Moustafa's exact exit year is hidden."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "2020-22 entrants back-filled; all 6 seen at full complement in 2023-24 and PubMed/med-school records show each came straight from med school (no transfers in). Only a departure replaced 1:1 by an unseen transfer-in, or Moustafa's exit year, remains unobservable."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "2020-22 entrants back-filled; all 6 seen at full complement in 2023-24 and PubMed/med-school records show each came straight from med school (no transfers in). Only a departure replaced 1:1 by an unseen transfer-in, or Moustafa's exit year, remains unobservable."
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "2020-22 entrants back-filled; all 6 seen at full complement in 2023-24 and PubMed/med-school records show each came straight from med school (no transfers in). Only a departure replaced 1:1 by an unseen transfer-in, or Moustafa's exit year, remains unobservable."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Direct roster capture (NIH-track excluded)."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Direct roster capture (NIH-track excluded)."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Direct roster capture (NIH-track excluded)."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Direct roster capture (NIH-track excluded)."
+  }
+ },
+ "crossmatch": [
+  {
+   "pair": "Caleb Stewart (LSU Shreveport [32]) -> Jeffrey Stewart [45]",
+   "verdict": "rejected: different first names; Jeffrey J Stewart is a Georgetown SOM graduate (pubs 2016-19) at MedStar Georgetown neurosurgery from 2020 (PMID 32639646)"
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "Common Crawl retries via raw CDXJ: CC-MAIN-2015-11, 2016-22, 2018-09 (affiliated-hospitals-2/.../neurosurgery*), 2019-22, 2024-30 (residency-programs/neurosurgery*): all ok, 0 records",
+   "Wayback link audit: GUH neurosurgery dept pages 2010-2013 (body_dept_home.cfm?id=331, 556690, 556696 Resources): no residency links; medstarhealth landing pages 2016-2024: only GME-wide pages (house-staff-information-4, graduate-medical-education-graduates, faqs), no neurosurgery names",
+   "Georgetown SOM match lists / matchplacement page (2019 & 2025 captures) and gumc match-day news: GU-grad counts per year to MedStar Georgetown NS",
+   "medstargeorgetown.org newsroom medical-education category (2020)",
+   "PubMed affiliation mining: Georgetown AND neurosurgery 2011-2025 (772 PMIDs); MedStar Washington Hospital Center neurosurgery 2011-2023; author timelines for 2017-2022 entrants, Waldman, Moustafa and all unlisted GT-neurosurgery authors",
+   "OpenAlex and NPPES for Raed Moustafa",
+   "crossmatch.json (1 candidate)"
+  ],
+  "found": [
+   "No new roster capture for any gap year",
+   "PubMed: no unaccounted Georgetown neurosurgery resident 2011-2023",
+   "2020-2022 entrants confirmed as direct-from-med-school matches; back-filled into 2020-21..2022-23",
+   "GU SOM placement table consistent with observed classes",
+   "Crossmatch Stewart pair rejected"
+  ],
+  "remaining": [
+   "2012 entry class: absent from all evidence; only a pre-2014 unpublished departure could hide (low)",
+   "Moustafa exit year 2017-2021 unknown",
+   "1:1 replacement transfers in 2017-2023 unobservable (low)"
+  ]
+ }
+}

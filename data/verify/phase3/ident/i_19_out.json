@@ -1,0 +1,1066 @@
+[
+ {
+  "key": "103:gau:rao",
+  "name": "Gautam Rao",
+  "program_id": 103,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://health.usf.edu/medicine/neurosurgery/residency/alumni",
+  "identity": "confirmed",
+  "identity_basis": "USF alumni page: Class of 2026 'Gautam Rao, MD: Advent Health - Wesley Chapel' (plus USF rosters 2019-2026 in program_sources); Vitals search snippet: neurological surgery, affiliated AdventHealth Wesley Chapel, USF Health Morsani College of Medicine MD 2019. Name + program/city + destination hospital + 2019 MD (= USF entry 2019) agree.",
+  "residency_stated": [
+   {
+    "institution": "University of South Florida Morsani",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "USF neurosurgery Class of 2026; now neurosurgeon at AdventHealth Wesley Chapel",
+  "current": "neurosurgeon, AdventHealth Wesley Chapel, FL",
+  "external_url": "https://www.vitals.com/doctors/Gautam_Rao.html",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://health.usf.edu/medicine/neurosurgery/residency/alumni",
+    "type": "program_page",
+    "evidence": "Class of 2026: 'Gautam Rao, MD: Advent Health - Wesley Chapel'"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/Gautam_Rao.html",
+    "type": "search_snippet",
+    "evidence": "search summary: 'affiliated with AdventHealth Wesley Chapel... specialist in neurological surgery... graduated from medical school in 2019... University Of South Florida Health Morsani College Of Medicine' (page 403 on direct fetch; no AdventHealth bio found)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/gautam-rao-md-32e864ce",
+    "type": "doximity",
+    "evidence": "Gautam Rao MD, Tampa FL, 17 Davis Blvd (USF neurosurgery office); USF spine publications"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 3,
+  "searches_used": 3
+ },
+ {
+  "key": "104:ted:peck",
+  "name": "Ted Peck",
+  "program_id": 104,
+  "year_left": 2016,
+  "destination_program": "LAC+USC Emergency Medicine",
+  "destination_start_year": 2016,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20170227145909/http://keck.usc.edu/neurological-surgery-pdfs/USC-Neurosurgery-2015-16.pdf",
+  "identity": "confirmed",
+  "identity_basis": "USC neurosurgery rosters 2014-15 (PGY-1) and 2015-16 (PGY-2) list Ted Peck; Doximity Edwin (Ted) Peck III: UCSD MD 2014, residency USC/LA General Emergency Medicine completed 2020, ABEM certified; search summary of his profiles: neurosurgery intern/resident LAC+USC 2014-2016 then EM residency LAC+USC 2016-2020. Name (Ted = Edwin Cady Peck III), program and years agree. Theodore M. Peck obituary result is a different person.",
+  "residency_stated": [
+   {
+    "institution": "LAC+USC (USC neurosurgery)",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2016
+   },
+   {
+    "institution": "University of Southern California/Los Angeles General Medical Center",
+    "specialty": "emergency medicine",
+    "start": 2016,
+    "end": 2020
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left USC neurosurgery after PGY-2 (2015-16); emergency medicine residency LAC+USC 2016-2020; ABEM-certified emergency physician (Huntington Health, Pasadena)",
+  "current": "emergency medicine physician, Huntington Health / LAC+USC, Pasadena-Los Angeles CA",
+  "external_url": "https://www.doximity.com/pub/edwin-peck-md",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20170227145909/http://keck.usc.edu/neurological-surgery-pdfs/USC-Neurosurgery-2015-16.pdf",
+    "type": "program_page",
+    "evidence": "USC neurosurgery 2015-16 roster lists Ted Peck, PGY-2 (program_sources.json)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/edwin-peck-md",
+    "type": "doximity",
+    "evidence": "UCSD School of Medicine Class of 2014; Residency: USC/LA General, Emergency Medicine, completed 2020; ABEM Emergency Medicine"
+   },
+   {
+    "url": "https://www.huntingtonhealth.org/physicians/edwin-c-peck-iii-md/",
+    "type": "search_snippet",
+    "evidence": "search summary: 'LAC/USC Medical Center internship in neurosurgery (2014-2015), residency in LAC+USC Department of Neurosurgery (2014-2016), and an Emergency Medicine residency at LAC & USC (2016-2020)'; board certified emergency medicine physician, Pasadena (page 403 on direct fetch)"
+   }
+  ],
+  "ident_searches": 2,
+  "sources_count": 3,
+  "searches_used": 2
+ },
+ {
+  "key": "104:law:chung",
+  "name": "Lawrance Chung",
+  "program_id": 104,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "USC current page alumni section: 'Lawrance Chung MD. Cornell. Fellowship' (2025 graduate); Weill Cornell VIVO lists Lawrance Chung, Instructor in Neurological Surgery; Doximity UCLA Geffen MD, neurosurgery New York; LinkedIn 'Clinical Spine Fellow at Weill Cornell'. Program alumni entry and Cornell destination agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/LA General",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "USC neurosurgery graduate 2025 (alumni list); now spine fellow / Instructor in Neurological Surgery, Weill Cornell",
+  "current": "Instructor in Neurological Surgery (spine fellow), Weill Cornell Medicine / NewYork-Presbyterian",
+  "external_url": "https://vivo.weill.cornell.edu/display/cwid-lkc4002",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "Alumni 2025: 'Lawrance Chung MD. Cornell. Fellowship'"
+   },
+   {
+    "url": "https://vivo.weill.cornell.edu/display/cwid-lkc4002",
+    "type": "bio",
+    "evidence": "Lawrance Chung, 'Instructor in Neurological Surgery', Weill Cornell Medical College"
+   },
+   {
+    "url": "https://www.doximity.com/pub/lawrance-chung-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, New York NY; David Geffen School of Medicine at UCLA"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 3,
+  "searches_used": 1
+ },
+ {
+  "key": "104:gra:briggs",
+  "name": "Grady Briggs",
+  "program_id": 104,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "USC current page alumni section: 'Grady Briggs MD. University of Miami. Fellowship' (2026 graduate); University of Miami neurosurgery Current Fellows page: Robert Grady Briggs, MD, Neuro-Oncology Fellow 07/2026-06/2027, University of Oklahoma MD, residency at University of Southern California with enfolded fellowship under Dr. Gabriel Zada. Doximity: OU College of Medicine 2019. All agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/LA General",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed USC neurosurgery residency 2026; neuro-oncology fellow University of Miami 2026-27",
+  "current": "neuro-oncology fellow (neurosurgery), University of Miami Miller School of Medicine",
+  "external_url": "https://med.miami.edu/departments/neurosurgery/education/clinical-fellowship-programs/current-fellows",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "Alumni 2026: 'Grady Briggs MD. University of Miami. Fellowship'"
+   },
+   {
+    "url": "https://med.miami.edu/departments/neurosurgery/education/clinical-fellowship-programs/current-fellows",
+    "type": "bio",
+    "evidence": "Robert Grady Briggs, M.D., Neuro-Oncology Fellow 07/2026-06/2027; medical school University of Oklahoma; 'completed his residency at the University of Southern California' (search summary of page)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/robert-briggs-md-f10b8f6e",
+    "type": "doximity",
+    "evidence": "Robert Grady Briggs MD; University of Oklahoma College of Medicine Class of 2019"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 3,
+  "searches_used": 1
+ },
+ {
+  "key": "104:ben:hopkins",
+  "name": "Benjamin Hopkins",
+  "program_id": 104,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "Current USC page (fetched 2026-09-29): 'Benjamin Hopkins, MD, MBA. Medical School: Northwestern Feinberg School of Medicine. Undergraduate: Brigham Young University', PGY-7; LinkedIn: Neurosurgery Resident at USC since July 2022 after Northwestern Medicine neurosurgery residency July 2020-July 2022. Name + med school + program agree.",
+  "residency_stated": [
+   {
+    "institution": "Northwestern (McGaw)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2022
+   },
+   {
+    "institution": "University of Southern California/LA General",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-7 on USC current resident page 2026-27; transferred in from Northwestern neurosurgery in 2022 (per LinkedIn)",
+  "current": "neurosurgery resident PGY-7, USC",
+  "external_url": "https://www.linkedin.com/in/benjamin-hopkins-35829893/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY7: 'Benjamin Hopkins, MD, MBA. Medical School: Northwestern Feinberg School of Medicine. Undergraduate: Brigham Young University'"
+   },
+   {
+    "url": "https://www.linkedin.com/in/benjamin-hopkins-35829893/",
+    "type": "search_snippet",
+    "evidence": "search summary: 'neurosurgery residency at Northwestern Medicine from July 2020 to July 2022, and has been a Neurosurgery Resident at University of Southern California since July 2022'"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 2,
+  "searches_used": 1
+ },
+ {
+  "key": "104:kei:kang",
+  "name": "Keiko Kang",
+  "program_id": 104,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "Current USC page: 'Keiko Kang, MD. Medical School: UC San Diego School of Medicine. Undergraduate: University of Southern California', PGY-6; USC Neurosurgery Facebook post 'Keiko Kang' (program social); LinkedIn Resident Physician LAC USC. Agree on name, program, school.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/LA General",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-6 on USC current resident page 2026-27",
+  "current": "neurosurgery resident PGY-6, USC",
+  "external_url": "https://m.facebook.com/NeurosurgeryUSC/photos/keiko-kang/3830177187073593/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY6: 'Keiko Kang, MD. Medical School: UC San Diego School of Medicine. Undergraduate: University of Southern California'"
+   },
+   {
+    "url": "https://m.facebook.com/NeurosurgeryUSC/photos/keiko-kang/3830177187073593/",
+    "type": "search_snippet",
+    "evidence": "USC Department of Neurosurgery Facebook photo post titled 'Keiko Kang'"
+   },
+   {
+    "url": "https://www.linkedin.com/in/keiko-kang-3641a625a/",
+    "type": "search_snippet",
+    "evidence": "'Keiko Kang - Resident Physician at LAC USC KECK SCHOOL OF MEDICINE'"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 3,
+  "searches_used": 1
+ },
+ {
+  "key": "104:aus:borja",
+  "name": "Austin Borja",
+  "program_id": 104,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "Current USC page: 'Austin Borja, MD | Perelman School of Medicine at UPenn | UPenn', PGY-4; LinkedIn 'Resident Physician - Keck Medicine of USC Neurosurgery', Penn MD; Penn 2023 research prize (neurosurgery). Name + school + program agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/LA General",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-4 on USC current resident page 2026-27",
+  "current": "neurosurgery resident PGY-4, USC",
+  "external_url": "https://www.linkedin.com/in/austin-borja-md-ms-510b6617b/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY4: 'Austin Borja, MD | Perelman School of Medicine at UPenn | UPenn'"
+   },
+   {
+    "url": "https://www.linkedin.com/in/austin-borja-md-ms-510b6617b/",
+    "type": "search_snippet",
+    "evidence": "'Austin Borja, MD, MS - Resident Physician - Keck Medicine of USC Neurosurgery'"
+   }
+  ],
+  "ident_searches": 2,
+  "sources_count": 2,
+  "searches_used": 2
+ },
+ {
+  "key": "104:bri:lien",
+  "name": "Brian Lien",
+  "program_id": 104,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "Current USC page: 'Brian Lien, MD | University of California, Irvine | UCSD', PGY-3; LinkedIn 'Brian Lien, MD, MS - Neurosurgery Resident at USC', UC Irvine MD. Name + school + program agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/LA General",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-3 on USC current resident page 2026-27",
+  "current": "neurosurgery resident PGY-3, USC",
+  "external_url": "https://www.linkedin.com/in/brian-lien-md-ms-3464002a3/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY3: 'Brian Lien, MD | University of California, Irvine | UCSD'"
+   },
+   {
+    "url": "https://www.linkedin.com/in/brian-lien-md-ms-3464002a3/",
+    "type": "search_snippet",
+    "evidence": "'Brian Lien, MD, MS - Neurosurgery Resident at USC'"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 2,
+  "searches_used": 1
+ },
+ {
+  "key": "104:jan:han",
+  "name": "Jane Han",
+  "program_id": 104,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "Current USC page: 'Jane Han, MD | Keck School of Medicine of USC | USC', PGY-2; USC Attenello Lab team page: 'Jane Han, MD, MS, Neurosurgery Resident ... neurosurgery resident at the Keck Hospital of USC ... medical degree from USC'. Doximity Jane Sungmin Han at USC neurosurgery address consistent. Other Jane Han Doximity pages are namesakes.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/LA General",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-2 on USC current resident page 2026-27",
+  "current": "neurosurgery resident PGY-2, USC",
+  "external_url": "https://sites.usc.edu/attenellolab/staff/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY2: 'Jane Han, MD | Keck School of Medicine of USC | USC'"
+   },
+   {
+    "url": "https://sites.usc.edu/attenellolab/staff/",
+    "type": "bio",
+    "evidence": "'Jane Han, MD, MS, Neurosurgery Resident. Jane is a neurosurgery resident at the Keck Hospital of USC. She received her BS in Biochemistry, MS in Molecular Genetics and Biochemistry, and medical degree from USC.'"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jane-han-md-c5338339",
+    "type": "doximity",
+    "evidence": "Jane Sungmin Han MD, Los Angeles; 1200 N State St Ste 3300"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 3,
+  "searches_used": 1
+ },
+ {
+  "key": "104:mic:olmos",
+  "name": "Michelle Olmos",
+  "program_id": 104,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "Current USC page: 'Michelle Olmos, MD | Tufts University School of Medicine | Cal State Northridge', PGY-2; Tufts Now Match Day 2025 article: Olmos, aspiring neurosurgeon, 'Her match: Keck Medicine of the University of Southern California'. Name + school + program + year agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/LA General",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-2 on USC current resident page 2026-27; matched USC 2025",
+  "current": "neurosurgery resident PGY-2, USC",
+  "external_url": "https://now.tufts.edu/2025/03/21/match-made-fourth-year-medical-students-learn-their-next-steps",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY2: 'Michelle Olmos, MD | Tufts University School of Medicine | Cal State Northridge'"
+   },
+   {
+    "url": "https://now.tufts.edu/2025/03/21/match-made-fourth-year-medical-students-learn-their-next-steps",
+    "type": "news",
+    "evidence": "'Her match: Keck Medicine of the University of Southern California. I'm going home!' (began Tufts with plans to study neurosurgery)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/michelle-olmos-md",
+    "type": "doximity",
+    "evidence": "Michelle Olmos MD, Los Angeles; CA license 2025-2028"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 3,
+  "searches_used": 1
+ },
+ {
+  "key": "104:tho:staniszewski",
+  "name": "Thomas Staniszewski",
+  "program_id": 104,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "Current USC page: 'Thomas Staniszewski, MD | University of Wisconsin School of Medicine | UW-Madison', PGY-1; Doximity Thomas Michael Staniszewski, Resident Physician, Los Angeles, 2051 Marengo St (LAC+USC) agrees on name + program location. No match-list naming him found (UW 2026 Match Day article does not list names). Distinctive name.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/LA General",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-1 on USC current resident page 2026-27",
+  "current": "neurosurgery resident PGY-1, USC",
+  "external_url": "https://www.doximity.com/pub/thomas-staniszewski-md",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://keck.usc.edu/neurological-surgery/training-education/residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY1: 'Thomas Staniszewski, MD | University of Wisconsin School of Medicine | UW-Madison'"
+   },
+   {
+    "url": "https://www.doximity.com/pub/thomas-staniszewski-md",
+    "type": "doximity",
+    "evidence": "Thomas Michael Staniszewski, Resident Physician, Los Angeles CA; 2051 Marengo St (LAC+USC)"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 2,
+  "searches_used": 3
+ },
+ {
+  "key": "105:jon:dvorak",
+  "name": "Jonathan Dvorak",
+  "program_id": 105,
+  "year_left": 2020,
+  "destination_program": "Atrium Health Carolinas Medical Center Internal Medicine",
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "DB 'LEFT -> did not complete'; finding refines to switched to internal medicine/GI",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20191022200829/http://uthsc.edu/neurosurgery/residency/current-residents.php",
+  "identity": "confirmed",
+  "identity_basis": "UTHSC/Semmes-Murphey rosters 2017-18 to 2019-20 list Jonathan Dvorak (PGY-1..3); Atrium Health provider profile Jonathan David Dvorak, MD lists residencies 'The University of Tennessee Health Science Center, Neurosurgery' and 'Atrium Health Carolinas Medical Center, Internal Medicine', Brody/ECU MD, GI fellowship. Name + program agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee Health Science Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2020
+   },
+   {
+    "institution": "Atrium Health Carolinas Medical Center",
+    "specialty": "internal medicine",
+    "start": null,
+    "end": null
+   },
+   {
+    "institution": "Atrium Health Carolinas Medical Center",
+    "specialty": "gastroenterology fellowship",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UTHSC neurosurgery after PGY-3 (last seen 2019-20); internal medicine residency then gastroenterology fellowship at Atrium Health Carolinas Medical Center; ABIM certified. Not on UTHSC graduates list.",
+  "current": "internal medicine / gastroenterology, Atrium Health, Charlotte NC",
+  "external_url": "https://atriumhealth.org/provider-profile/jonathan-dvorak-1912432386",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20191022200829/http://uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC current residents 2019-20 lists Jonathan Dvorak PGY-3 (program_sources.json)"
+   },
+   {
+    "url": "https://atriumhealth.org/provider-profile/jonathan-dvorak-1912432386",
+    "type": "bio",
+    "evidence": "Specialty 'Internal Medicine'; Residencies: 'Atrium Health Carolinas Medical Center, Internal Medicine'; 'The University of Tennessee Health Science Center, Neurosurgery'; Fellowship: Gastroenterology; Board: 'American Board of Internal Medicine'"
+   },
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "UTHSC graduates list does not include Dvorak"
+   }
+  ],
+  "ident_searches": 0,
+  "sources_count": 2,
+  "searches_used": 0
+ },
+ {
+  "key": "105:kar:parikh",
+  "name": "Kara Parikh",
+  "program_id": 105,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+  "identity": "confirmed",
+  "identity_basis": "UTHSC former residents page: 2025 graduates 'Kara Parikh, MD'; search summaries: PGY-7 chief resident UT/Semmes Murphey, 2025 skull-base fellowship at Ohio State (Prevedello), LSU New Orleans MD 2018 (Doximity, matches 2018 entry); UAB provider directory lists her as neurosurgeon, Kirklin Clinic. All agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine (Semmes Murphey)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   },
+   {
+    "institution": "Ohio State University Wexner Medical Center",
+    "specialty": "skull base neurosurgery fellowship",
+    "start": 2025,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated UTHSC neurosurgery 2025; OSU skull base fellowship 2025-26; now neurosurgeon at UAB (Kirklin Clinic, Birmingham AL) per UAB provider directory; Doximity shows Alabama license 2026",
+  "current": "neurosurgeon, UAB Medicine, Birmingham AL",
+  "external_url": "https://providerdirectory.uabmedicine.org/search?page=3&provider_fields=-clinical_keywords&search_alerts=false&shuffle_seed=&sort=name&specialties=Neurosurgery",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/former-residents.php",
+    "type": "program_page",
+    "evidence": "2025 graduates: 'Kara Parikh, MD'"
+   },
+   {
+    "url": "https://providerdirectory.uabmedicine.org/search?page=3&provider_fields=-clinical_keywords&search_alerts=false&shuffle_seed=&sort=name&specialties=Neurosurgery",
+    "type": "search_snippet",
+    "evidence": "search summary: 'neurosurgeon at the Neurosurgery Clinic in Neurosciences One at The Kirklin Clinic of UAB Hospital in Birmingham, Alabama'"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kara-parikh-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Columbus OH; LSU New Orleans Class of 2018; Ohio license 2025-2027; Alabama license 2026"
+   },
+   {
+    "url": "https://wexnermedical.osu.edu/find-a-doctor/kara-parikh-md-183256",
+    "type": "search_snippet",
+    "evidence": "'fellowship at Ohio State University Wexner Medical Center from July 1, 2025 to June 30, 2026', Neurological Surgery"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 4,
+  "searches_used": 3
+ },
+ {
+  "key": "105:rac:stein",
+  "name": "Rachel Stein",
+  "program_id": 105,
+  "year_left": 2020,
+  "destination_program": "University of Florida College of Medicine - Jacksonville, Diagnostic Radiology",
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20201022102720/https://www.semmes-murphey.com/residency-training",
+  "identity": "confirmed",
+  "identity_basis": "Semmes-Murphey roster Oct 2020 lists Rachel Stein PGY-2; LinkedIn: Neurosurgery Resident Mayo Clinic Jul 2019-May 2020 and The University of Tennessee Health Science Center May 2020-Nov 2020, then Radiology Resident R4/ESIR at UF Jacksonville, Edward Via COM; UF Jacksonville radiology alumni page: 'Rachel Stein, D.O.' Class of 2025. Program + years agree.",
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic (Jacksonville)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2020
+   },
+   {
+    "institution": "University of Tennessee Health Science Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2020
+   },
+   {
+    "institution": "University of Florida College of Medicine - Jacksonville",
+    "specialty": "diagnostic radiology (ESIR)",
+    "start": null,
+    "end": 2025
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Transferred into UTHSC neurosurgery from Mayo (May 2020), left UTHSC Nov 2020; switched to diagnostic radiology at UF Jacksonville (Class of 2025), then interventional radiology fellowship 2025-26",
+  "current": "interventional radiology fellow (2025-26 per LinkedIn), University of Florida",
+  "external_url": "https://radiology.med.jax.ufl.edu/diagnostic-radiology-residency/alumni/",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20201022102720/https://www.semmes-murphey.com/residency-training",
+    "type": "program_page",
+    "evidence": "Semmes-Murphey/UTHSC roster Oct 2020 lists Rachel Stein PGY-2 (program_sources.json)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/rachel-stein-66264231a/",
+    "type": "search_snippet",
+    "evidence": "'Neurosurgery Resident at both Mayo Clinic (July 2019 - May 2020) and The University of Tennessee Health Science Center (May 2020 - November 2020)'; 'Radiology Resident, R4/ESIR and Incoming Interventional Radiology Fellow at University of Florida'"
+   },
+   {
+    "url": "https://radiology.med.jax.ufl.edu/diagnostic-radiology-residency/alumni/",
+    "type": "program_page",
+    "evidence": "'Rachel Stein, D.O.' - Class of 2025 diagnostic radiology alumni"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 3,
+  "searches_used": 1
+ },
+ {
+  "key": "105:dav:wallace",
+  "name": "David Wallace",
+  "program_id": 105,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+  "identity": "confirmed",
+  "identity_basis": "UTHSC current residents page (updated Aug 14 2026) lists 'David Wallace, MD' PGY-7 (also Semmes-Murphey page and UTHSC GME neurosurgery housestaff list); WebMD/Vitals David Alexander Wallace: Neurological Surgery, UTHSC College of Medicine 2020 (= 2020 entry), office 920 Madison Ave Ste 447 Memphis (UTHSC); LinkedIn 'Neurosurgery Resident - University of Tennessee'. Doximity david-wallace-md-0b1b2619 is David J Wallace, Chattanooga, Rush residency 2012-15, ABNS: a different person.",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-7 on UTHSC current residents page 2026-27",
+  "current": "neurosurgery resident PGY-7, UTHSC/Semmes Murphey, Memphis",
+  "external_url": "https://www.linkedin.com/in/david-wallace-116a51226/",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "PGY-7: 'David Wallace, MD' (page updated Aug 14, 2026)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/david-wallace-116a51226/",
+    "type": "search_snippet",
+    "evidence": "'David Wallace - Neurosurgery Resident - University of Tennessee'"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/MedicalDoctors_David_Alexander_Wallace.html",
+    "type": "search_snippet",
+    "evidence": "search summary: David Alexander Wallace, Neurological Surgery, Memphis; 'graduated from the University of Tennessee Health Science Center College of Medicine in 2020'; office 920 Madison Ave Ste 447"
+   },
+   {
+    "url": "https://www.doximity.com/pub/david-wallace-md-0b1b2619",
+    "type": "doximity",
+    "evidence": "DIFFERENT PERSON: David J Wallace, Chattanooga, Rush MD 2012, Rush neurosurgery 2012-2015, ABNS"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 3,
+  "searches_used": 1
+ },
+ {
+  "key": "105:jac:mcnulty",
+  "name": "Jack McNulty",
+  "program_id": 105,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+  "identity": "confirmed",
+  "identity_basis": "UTHSC current residents page lists 'Jack McNulty, MD' PGY-4 (also UTHSC GME supervision page: Jack McNulty, Department of Neurosurgery, PGY-4); Doximity jack-mcnulty-md: Columbia Vagelos P&S Class of 2023, 'University of Tennessee College of Medicine, Residency in Neurological Surgery (2023-2030)' (Iowa City address/Iowa license 2022-23 is a stale sub-internship-era entry). Program + start year agree. Doximity john-jack-mcnulty-md (Columbia 2021, New York resident) and Rhinebeck NY John F. McNulty are different people.",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-4 on UTHSC current residents page 2026-27",
+  "current": "neurosurgery resident PGY-4, UTHSC/Semmes Murphey, Memphis",
+  "external_url": "https://www.doximity.com/pub/jack-mcnulty-md",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "PGY-4: 'Jack McNulty, MD'"
+   },
+   {
+    "url": "https://www.uthsc.edu/graduate-medical-education/current-residents/resident-id.php?resident=425350",
+    "type": "program_page",
+    "evidence": "Name: Jack McNulty; Program: Department of Neurosurgery; PGY-4"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jack-mcnulty-md",
+    "type": "doximity",
+    "evidence": "Columbia University Vagelos College of Physicians and Surgeons, Class of 2023; University of Tennessee College of Medicine, Residency in Neurological Surgery (2023-2030)"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 2,
+  "searches_used": 3
+ },
+ {
+  "key": "105:ho:yun",
+  "name": "Ho Jun Yun",
+  "program_id": 105,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+  "identity": "confirmed",
+  "identity_basis": "UTHSC current residents page lists 'Ho Jun Yun, MD' PGY-3; Doximity ho-yun-pa is Ho Jun Yun, PA-C, MD: Arcadia PA 2011-13, Wayne State MD 2020-2024, 'University of Tennessee Health Science Center, Neurosurgery Residency (2025-2031)' (address = former Baystate Neurosurgery PA job). Prior finding treated this page as a different person; it is the same person (former neurosurgery PA who became an MD). Doximity residency start 2025 vs roster PGY-1 in 2024-25 is a 1-year discrepancy in Doximity.",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee Health Science Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-3 on UTHSC current residents page 2026-27",
+  "current": "neurosurgery resident PGY-3, UTHSC/Semmes Murphey, Memphis",
+  "external_url": "https://www.doximity.com/pub/ho-yun-pa",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "PGY-3: 'Ho Jun Yun, MD'"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ho-yun-pa",
+    "type": "doximity",
+    "evidence": "Ho Jun Yun, PA-C, MD; Wayne State University School of Medicine MD (2020-2024); University of Tennessee Health Science Center, Neurosurgery Residency (2025-2031)"
+   }
+  ],
+  "ident_searches": 4,
+  "sources_count": 2,
+  "searches_used": 4
+ },
+ {
+  "key": "105:ale:fabiano",
+  "name": "Alex Fabiano",
+  "program_id": 105,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+  "identity": "confirmed",
+  "identity_basis": "UTHSC current residents page lists 'Alex Fabiano, MD' PGY-2; UT Southwestern Match Day 2025 Specialty List: Neurological Surgery 'Alexander Fabiano, U Tennessee HSC, Memphis'. Name + program + year agree.",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee Health Science Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-2 on UTHSC current residents page 2026-27; matched UTHSC neurosurgery 2025 from UT Southwestern",
+  "current": "neurosurgery resident PGY-2, UTHSC/Semmes Murphey, Memphis",
+  "external_url": "https://www.utsouthwestern.edu/ctplus/stories/2025/match-day-2025-list.html",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "PGY-2: 'Alex Fabiano, MD'"
+   },
+   {
+    "url": "https://www.utsouthwestern.edu/ctplus/stories/2025/match-day-2025-list.html",
+    "type": "news",
+    "evidence": "Neurological Surgery: 'Alexander Fabiano, U Tennessee HSC, Memphis'"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 2,
+  "searches_used": 1
+ },
+ {
+  "key": "105:kai:young",
+  "name": "Kailah Young",
+  "program_id": 105,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+  "identity": "probable",
+  "identity_basis": "Listed on three program-side pages (UTHSC current residents 'Kailah Young, MD' PGY-2; Semmes-Murphey residency page PGY2; UTHSC GME neurosurgery housestaff list and resident supervision page). No independent external source (match list, Doximity, LinkedIn, bio) found; only publication co-authorships (not counted). Distinctive name; no namesake conflict.",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee Health Science Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-2 on UTHSC current residents page 2026-27",
+  "current": "neurosurgery resident PGY-2, UTHSC/Semmes Murphey, Memphis",
+  "external_url": null,
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "PGY-2: 'Kailah Young, MD'"
+   },
+   {
+    "url": "https://www.semmes-murphey.com/residency-training",
+    "type": "program_page",
+    "evidence": "Kailah Young (PGY2)"
+   },
+   {
+    "url": "https://www.uthsc.edu/graduate-medical-education/current-residents/resident-id.php?resident=10453206",
+    "type": "program_page",
+    "evidence": "UTHSC GME resident supervision page, neurosurgery"
+   }
+  ],
+  "ident_searches": 5,
+  "sources_count": 1,
+  "tried": "'Kailah Young' neurosurgery; + doximity/medical student; + match 2025 Tennessee; + UTHSC/Semmes 2025; UTHSC Match Day 2025 news (no names)",
+  "searches_used": 5
+ },
+ {
+  "key": "105:alh:nagm",
+  "name": "Alhusain Nagm",
+  "program_id": 105,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "program_site_url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+  "identity": "probable",
+  "identity_basis": "UTHSC current residents page lists 'Alhusain Nagm, MD' PGY-1 (also Semmes-Murphey page and UTHSC GME housestaff list). The only externally visible Alhusain Nagm is an internationally trained skull-base neurosurgeon (MD, MSc, PhD-Japan; Univ. of Maryland 360 Skull Base Lab per LinkedIn); a foreign-trained neurosurgeon entering US residency is plausible and the name is very distinctive, but no source links him to UTHSC (X profile paywalled; no match announcement found).",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee Health Science Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-1 on UTHSC current residents page 2026-27",
+  "current": "neurosurgery resident PGY-1, UTHSC/Semmes Murphey, Memphis",
+  "external_url": null,
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.uthsc.edu/neurosurgery/residency/current-residents.php",
+    "type": "program_page",
+    "evidence": "PGY-1: 'Alhusain Nagm, MD'"
+   },
+   {
+    "url": "https://www.semmes-murphey.com/residency-training",
+    "type": "program_page",
+    "evidence": "Alhusain Nagm (PGY-1)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/alhusain-nagm-7245aa85/",
+    "type": "search_snippet",
+    "evidence": "'Alhusain NAGM - 360 SKULL BASE LAB UNIVERSITY OF MARYLAND, BALTIMORE' (possible same person, not linked to UTHSC)"
+   }
+  ],
+  "ident_searches": 4,
+  "sources_count": 1,
+  "tried": "'Alhusain Nagm' neurosurgery resident Tennessee; + matched 2026 Memphis; + UTHSC PGY-1; + 2026 match/Memphis; X profile fetch (402)",
+  "searches_used": 4
+ }
+]

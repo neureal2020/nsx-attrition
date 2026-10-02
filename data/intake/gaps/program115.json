@@ -1,0 +1,227 @@
+{
+ "program_id": 115,
+ "name": "University of Wisconsin Hospitals and Clinics Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.neurosurg.wisc.edu/current_residents.asp (+ former_residents.asp; old ASP site, roster names only in rollover menus)",
+   "from": "2001",
+   "to": "2012-04 (last 200 capture of site; roster last captured 2011-12-25; 302 to new host from 2013-05)"
+  },
+  {
+   "url": "http://www.neurosurgery.wisc.edu/people/residents/alpha (Drupal)",
+   "from": "2013-05",
+   "to": "2018-10"
+  },
+  {
+   "url": "http://www.neurosurgery.wisc.edu/people/residents/year (+ /picture, /former; Drupal)",
+   "from": "2015-09",
+   "to": "2019-10"
+  },
+  {
+   "url": "https://www.neurosurgery.wisc.edu/people/ (WordPress; Residents and Fellows section with PGY headings; also /staff-type/resident/)",
+   "from": "2019-10",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://www.neurosurgery.wisc.edu/alumni/alumni-list/ (graduates by year + former fellows)",
+   "from": "2019-11",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "http://www.uwhealth.org/neurosurgery/ (clinical pages only, no roster)",
+   "from": "2008",
+   "to": "2013"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2013-2014"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Wayback 2011-12-25 current_residents.asp (same digest 2011-10-03..12-25, 'Last update 8/23/11'). Names+PGY parsed from Dreamweaver rollover menus of the group-photo image map (stale 2008-09 menus in source ignored). Complete PGY1-7 (14).",
+  "2012-2013": "Only capture: Drupal alpha directory 2013-05-14 ('current residents for 2012-2013'); no PGY labels, PGY inferred from entry year. Complete (14).",
+  "2013-2014": "UNOBSERVED. No Wayback capture of any roster page between 2013-05-14 and 2014-10-19 (domain-wide CDX 2013-07..2014-07: only home, research, specialties, education pages, rss.xml). Common Crawl 2013-20..2014-52 under edu,wisc,neurosurgery)/people and old host: only faculty/dempsey. Reconstructed 13: 11 bracketed by 2012-13/2014-15, Lake/Nickele via alumni 2014, Haldeman via alumni 2020 (entry 2013). Class of 2013 has only Haldeman: a second 2013 intern who left during 2013-14 would be invisible.",
+  "2014-2015": "Drupal alpha 2015-01-28 (same membership 2014-10-19, 2014-12-19); no PGY labels, inferred. Complete (14).",
+  "2015-2016": "Drupal year view 2015-12-10 (labelled). Stale copies of this list persist to 2016-09.",
+  "2016-2017": "Year view 2017-06-05 (content 2016-17, still AY 2016-17; earlier year-view captures stale). Matches alpha 2016-08-17.",
+  "2017-2018": "Year view 2018-06-07 (content 2017-18; Aug 2017 year view stale). Matches alpha 2017-10..2018-06.",
+  "2018-2019": "Year view 2018-10-24.",
+  "2019-2020..2025-2026": "WordPress /people/ captures (2019-11-13, 2020-10-27, 2021-09-21, 2022-10-07, 2023-11-13, 2024-11-09, 2026-01-08), all labelled PGY-1..7 + Chief Residents; 2025-07-23 capture still showed 2024-25.",
+  "2026-2027": "Live /people/ 2026-09-27, advanced (new PGY-1 Chu, Greenberg, Tran)."
+ },
+ "alumni_page": "https://www.neurosurgery.wisc.edu/alumni/alumni-list/",
+ "departures": [
+  {
+   "name": "Sung Ha",
+   "last_ay": "2015-2016",
+   "last_pgy": 6,
+   "outcome": "switched_specialty (anesthesiology/pain)",
+   "note": "Class of 2010. On alpha list through 2016-07-08, absent 2016-08-17 on; not on alumni list (classmates graduated 2017). UW profile: MD Indiana University. Sung P. Ha, Dept of Anesthesiology, UW SMPH, 2020 (PMID 32022852); same Sung P. Ha published from Indiana University SOM 2007-2010 (PMID 21084750). training_history th_id 3169."
+  },
+  {
+   "name": "Zhikui (Zeke) Wei",
+   "last_ay": "2017-2018",
+   "last_pgy": 2,
+   "outcome": "switched_specialty (neurology)",
+   "note": "Class of 2016. On alpha list through 2018-06-12, absent 2018-07-17 on; not on alumni list. UW profile: MD Johns Hopkins. Zhikui Wei, Dept of Neurology, Vanderbilt 2020-2022 (PMID 32055253, 35892989), then Neurology/Jefferson Sleep Disorders Center 2024-2026 (PMID 38656805). training_history th_id 3170."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 35,
+ "adjudication_summary": {
+  "COMPLETED": 29,
+  "IN TRAINING": 16,
+  "LEFT -> SWITCHED SPECIALTY": 2,
+  "residents_total": 47
+ },
+ "problems": "No roster capture for 2013-14 (reconstructed). 2012-13 and 2014-15 alpha lists carry no PGY labels (PGYs inferred from entry years; consistent with labelled years). Pre-window note: Jane Ng (class-of-2009 PGY3 in 2011-12) is absent from the Aug-2009 roster whose PGY1s were Ryan Holdsworth and Brenton Meier (both gone by 2011-12) -> Ng probably joined above PGY1 in 2010-11; not classified as a joiner because 2010-11 is unobserved and before the window. Fellows listed in PGY groups (Dawkins, Parmar, Corriveau, Burkett, Bowman, Meisner) are in-folded fellowships of residents seen since PGY1, kept; pure fellows excluded. 29 alumni graduations (2012-2026) inserted into training_history. www.neurosurgery.wisc.edu TLS certificate fails verification (curl -k needed). Phase 2: 2013-14 still reconstructed; no capture found in Wayback or Common Crawl.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "alpha list (no PGY labels), all 14 consistent with bracketing years"
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "no roster capture exists; class of 2013 shows only Haldeman and the 2014 class has 3 (a free slot), so a second 2013 intern who left during 2013-14 cannot be ruled out"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "alpha list (no PGY labels), all 14 consistent with bracketing years"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled or entry-year-consistent roster, complete class sizes"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Wayback CDX prefix neurosurgery.wisc.edu and neurosurg.wisc.edu 2013-06..2014-10 (226 URLs): fetched home, rss, education, education/description, galleries, people, node/23,72,97,100,106,182,193,300,308,311,312 -- no roster, match or welcome news",
+   "Drupal /people/residents/former (2015-09-08): graduates only (2013-2015 grads match alumni list), no non-graduates",
+   "Per-resident profiles: haldeman (PGY-3 2015-09), ha (PGY-6, Indiana MD), wei (PGY-2, Johns Hopkins MD), ng (UCL MD), tarula (fellow)",
+   "Common Crawl full-domain prefixes edu,wisc,neurosurgery)/ and edu,wisc,neurosurg)/ over all 10 crawls 2013-2014 with the fixed filter: only faculty/dempsey; no crawl failed",
+   "PubMed affiliation mining Wisconsin neurosurgery 2013-2016 (525 PMIDs): no unknown UW resident found (list mixes MCW authors)",
+   "SMPH (med.wisc.edu) Match Day 2013 and 2014 news: no neurosurgery mention",
+   "PubMed author searches for Sung Ha, Zhikui Wei, Jane Ng, Ryan Holdsworth, Brenton Meier",
+   "old ASP current_residents.asp captures 2009-06, 2010-06 (both Aug-2009 content), 2011-10",
+   "crossmatch.json: no entries for program 115"
+  ],
+  "found": [
+   "Sung Ha switched to anesthesiology/pain at UW (PMID 32022852): training_history row added",
+   "Zeke Wei switched to neurology (Vanderbilt, then Jefferson; PMID 32055253): training_history row added",
+   "Jane Ng: UCL MD with prior neurosurgery work at Queen Square London (2005, PMID 16276564), so a lateral entrant; joined 2010-11 (PGY2) or July 2011 (PGY3); no 2010-11 roster exists (the June 2010 capture still carries Aug-2009 content)",
+   "Pre-window: 2009 interns Ryan Holdsworth and Brenton Meier left by 2011-12; Holdsworth later in UW Radiology (PMID 23544414, 25685705). Not recorded (departure before AY 2011-12, date unknown)"
+  ],
+  "remaining": [
+   "2013-14 unobserved: a second 2013 intern who left during 2013-14 remains possible (significant)",
+   "Jane Ng joining year (2010-11 vs 2011-12) unresolved; low significance, most likely before the window"
+  ]
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "program_id": 97,
+ "name": "University of New Mexico School of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://hsc.unm.edu/som/neurosurgery/ (residents.shtml, residency.shtml, newsletters.shtml)",
+   "from": "2006-08 (archive)",
+   "to": "2014-10 (last 200; 404 from 2015-01)"
+  },
+  {
+   "url": "http://neurosurgery.unm.edu/education/residency/current.html ('Current Housestaff')",
+   "from": "2014-12",
+   "to": "2015-09 (404 from 2016-01)"
+  },
+  {
+   "url": "http://neurosurgery.unm.edu/training-education/meet-our-residents.html",
+   "from": "2016-03",
+   "to": "2017-06 (Wayback last 2016-11; Common Crawl to 2017-06-29; host root archived to 2019-01, page no longer captured)"
+  },
+  {
+   "url": "https://hsc.unm.edu/school-of-medicine/neurosurgery/ (education/residency.html, no roster)",
+   "from": "2019-08",
+   "to": "2019-12 (302 to new host by 2024)"
+  },
+  {
+   "url": "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency1.html (program text, names first resident 2022)",
+   "from": "2020-10 (host) / 2022-10 (page)",
+   "to": "live"
+  },
+  {
+   "url": "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency/our-residents.html",
+   "from": "2024-12",
+   "to": "2025-08"
+  },
+  {
+   "url": "https://hsc.unm.edu/medicine/departments/neurosurgery/education/our-residents.html",
+   "from": "2025-05",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2022-2023",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2023-2024"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "residents.shtml CDX (no collapse) 2011-06-22, 2011-07-06, 2011-08-21 all one digest = 2010-11 list (Carlson, Rehman, Pappu, Kaloostian, Upchurch, Chohan, Ramirez, Lyons; lacks 2011 entrants Sanchez/Westhout), next change 2012-08-26. residency/index/newsletters pages carry no names; Aug-2011 newsletter PDF 404 in archive; CC-MAIN-2012 had 16 records on hsc.unm.edu/som/neurosurgery but no residents page. Reconstructed Chohan PGY4, Ramirez PGY3 (bracketed) and Pappu (SOM 2013 annual report: resident July 2008-June 2012). Sanchez, Westhout (PGY-1 in 2011-12) and Jameel (PGY-2) NOT reconstructed (not seen before). SIGNIFICANT.",
+  "2012-2013": "Wayback residents.shtml 2012-08-26 (Chohan 5 chief, Ramirez 4, Jameel 3, Westhout 2, Sanchez 2, Messegee 1); Common Crawl 2013-05-21 copy headed '2012/2013' is identical.",
+  "2013-2014": "Only capture is 2014-10-13 on the old host, headed '2013/2014 Department of Neurosurgery Residents' (stale when captured); content consistent with neighbours.",
+  "2014-2015": "Wayback neurosurgery.unm.edu current.html 2014-12-30 (same digest through 2015-09-19, i.e. stale for early 2015-16). No Program Year 5 or 7 group listed.",
+  "2015-2016": "Wayback meet-our-residents 2016-03-09 (first capture of page; no matched interns). Pre-residents Green/Vera/Miller excluded.",
+  "2016-2017": "Wayback captures 2016-09/11 still showed 2015-16 names (stale); Common Crawl CC-MAIN-2017-09 (2017-02-21) has the updated list (identical 2017-03-30, 2017-06-29), loaded as source_type other.",
+  "2017-2018": "Reconstructed (phase 2): see years. No roster in Wayback/CC (gapaudit 2017-06..2020-09 on 4 hosts: only residency/prospective/pre-residency text pages).",
+  "2018-2019": "Reconstructed (phase 2). One unidentified 2018 entrant implied by the Journal count.",
+  "2019-2020": "Reconstructed (phase 2) from Albuquerque Journal 2019-10-17 'UNM med school to lose residency program' (abqjournal.com/1379907, Common Crawl CC-MAIN-2019-47 and 2020-24; saved data/raw/extraction/p97/phase2/abqjournal_1379907_cc201947.html). Two unidentified entrants (2018, 2019).",
+  "2020-2021": "not_applicable: accreditation withdrawn 2020-06-30, no residents.",
+  "2021-2022": "not_applicable: no residents; new program accredited 2022-04-01.",
+  "2022-2023": "residency1.html 2022-10-02: 'This is the first year of our residency program ... started training our first resident, Dr. Syed Kazim, on July 1, 2022.'",
+  "2023-2024": "No roster page archived (our-residents pages first captured 2024-12); residency1/education/team/our-mission/rotation pages (Wayback + CC 2023-23..2024-46) carry no resident names. Kazim reconstructed (bracketed), PGY-2 assumed. Rumalla (PGY-3 in 2024-25) may already have been here; not reconstructed. SIGNIFICANT.",
+  "2024-2025": "Wayback residency/our-residents.html 2024-12-14. Tomas Holy and Hayley Kiernan appear under PGY-3 but link to orthopaedics resident pages (template leftovers), removed by 2025-03-15: excluded.",
+  "2025-2026": "Wayback our-residents.html 2025-08-08 (first 2025-26 update). By 2025-10-21 Kazim and Bhamidipati were removed. 2026-03-12 adds matched intern Ekanem.",
+  "2026-2027": "Live page 2026-09-27 differs from 2025-26 (advanced PGYs, 2 new interns): loaded."
+ },
+ "alumni_page": null,
+ "departures": [
+  {
+   "name": "Franklin Westhout",
+   "last_ay": "2012-2013",
+   "last_pgy": 2,
+   "note": "absent from 2013-14 list"
+  },
+  {
+   "name": "Anver Jameel",
+   "last_ay": "2013-2014",
+   "last_pgy": 4,
+   "note": "absent from 2014-15 list (PGY-5 slot empty in 2014-15)"
+  },
+  {
+   "name": "Carlos Sanchez",
+   "last_ay": "2016-2017",
+   "last_pgy": 6,
+   "note": "hidden by 2017-20 gap; probably completed 2017/2018",
+   "outcome": "completed June 2017 (PGY-6, 6-yr track)"
+  },
+  {
+   "name": "James Messegee",
+   "last_ay": "2016-2017",
+   "last_pgy": 5,
+   "note": "hidden by gap; PubMed UNM affiliation 2019; probably completed",
+   "outcome": "gone by 2019-20; due June 2018 (6-yr track); completion unconfirmed"
+  },
+  {
+   "name": "Seymur Gahramanov",
+   "last_ay": "2016-2017",
+   "last_pgy": 5,
+   "note": "hidden by gap; PubMed UNM to 2019, Salem OR practice 2022; probably completed",
+   "outcome": "completed ~June 2018 (inferred; practising neurosurgeon Salem OR 2022)"
+  },
+  {
+   "name": "Omar Akbik",
+   "last_ay": "2016-2017",
+   "last_pgy": 4,
+   "note": "hidden by gap; PubMed UNM to 2020/21 then UTSW; likely one of the June-2020 last graduates",
+   "outcome": "completed June 2020 (Journal: 2 finished)"
+  },
+  {
+   "name": "Laila Mohammad",
+   "last_ay": "2016-2017",
+   "last_pgy": 4,
+   "note": "hidden by gap; PubMed UNM to 2021 then paediatric NS (Cook/Lurie); likely June-2020 graduate",
+   "outcome": "completed June 2020 (Journal: 2 finished)"
+  },
+  {
+   "name": "Benjamin Vidalis",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "note": "hidden by gap; could not finish here (7-yr, due 2021, program had no residents after June 2020) -> transfer out; lead: 2021 Tulane graduate",
+   "outcome": "TRANSFERRED at closure end 2019-20 (PGY6) -> Tulane (66) PGY7 2020-21, grad 2021"
+  },
+  {
+   "name": "Zoya Voronovich",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "note": "as Vidalis; PubMed UNM to 2020, Oklahoma 2021-23 -> probable transfer to OU",
+   "outcome": "TRANSFERRED end 2019-20 (PGY6) -> Oklahoma (99) PGY7 2020-21, grad 2021"
+  },
+  {
+   "name": "Dominic Harris",
+   "last_ay": "2016-2017",
+   "last_pgy": 2,
+   "note": "could not finish here (due 2022) -> left by June 2020; PubMed UNM 2019",
+   "outcome": "TRANSFERRED end 2019-20 (PGY5) -> BIDMC (7) PGY5 2020-21, grad 2023"
+  },
+  {
+   "name": "Robert Starling",
+   "last_ay": "2016-2017",
+   "last_pgy": 2,
+   "note": "could not finish here -> left by June 2020; PubMed UNM 2019-20, Buffalo 2021-23 -> probable transfer",
+   "outcome": "TRANSFERRED end 2019-20 (PGY5) -> Buffalo (69) PGY6 2020-21, grad 2022"
+  },
+  {
+   "name": "Ross Green",
+   "last_ay": "2016-2017",
+   "last_pgy": 1,
+   "note": "former pre-resident; could not finish here -> left by June 2020; outcome unknown",
+   "outcome": "TRANSFERRED end 2019-20 (PGY4) -> Hofstra/Northwell (124) PGY5 2020-21"
+  },
+  {
+   "name": "Syed Faraz Kazim",
+   "last_ay": "2025-2026",
+   "last_pgy": 4,
+   "note": "listed 2025-08-08, removed by 2025-10-21; PubMed UNM through 2025",
+   "outcome": "left 2025 (PGY4), destination unknown; adjudicator's NPI 'switched specialty' call is unsupported"
+  },
+  {
+   "name": "Akshay Bhamidipati",
+   "last_ay": "2025-2026",
+   "last_pgy": 2,
+   "note": "listed 2025-08-08, removed by 2025-10-21; PubMed 2026 Rothman Orthopaedics (Vanderbilt-MD match) suggests switch to orthopaedics, identity unverified",
+   "outcome": "TRANSFERRED 2025 (PGY2) -> Vanderbilt (117) PGY2 2025-26; NOT orthopaedics"
+  },
+  {
+   "name": "William McKay",
+   "last_ay": "2019-2020",
+   "last_pgy": 3,
+   "note": "never on an archived UNM roster; inferred 2017 entrant",
+   "outcome": "TRANSFERRED end 2019-20 -> Colorado (80) PGY IV 2020-21, chief 2023-24"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Kavelin Rumalla",
+   "first_ay": "2024-2025",
+   "first_pgy": 3
+  },
+  {
+   "name": "William McKay",
+   "first_ay": "2017-2018",
+   "first_pgy": 1,
+   "note": "reconstructed (inferred) entrant"
+  }
+ ],
+ "residents_2011plus": 19,
+ "adjudication_summary": {
+  "COMPLETED": 7,
+  "IN TRAINING": 5,
+  "LEFT -> TRANSFERRED": 7,
+  "LEFT -> outcome unknown": 3,
+  "LEFT -> SWITCHED SPECIALTY (Kazim; NPI-based, not supported)": 1
+ },
+ "problems": "Old program (dept founded 2006) lost ACGME accreditation c.2019-20; last graduate June 2020; no residents 2020-22; new program accredited 2022-04-01 (1/yr, 7 yrs). 2017-18..2019-20 unobservable (no roster on any archived host, Wayback or CC), so the wind-down transfers-out (Vidalis, Voronovich, Harris, Starling, Green) and graduations are unobserved. Common Crawl failures (listed for phase 2 retry): CC-MAIN-2012 edu,unm,neurosurgery)/; 2015-11 edu,unm,neurosurgery)/; 2016-18 hsc som; 2017-26 hsc medicine; 2018-09 hsc som + hsc medicine; 2018-47 hsc medicine; 2019-47 hsc som; 2021-43 hsc medicine; 2023-06 hsc medicine. PGY inconsistencies: Gahramanov Program Year 1 in 2014-15 but 4th year in 2015-16 (entry 2014 vs 2012); Kazim PGY1 2022-23 but PGY4 in both 2024-25 and 2025-26; Rumalla (Barrow PGY-2 2022-23) is UNM PGY3 in 2024-25 (entry by arithmetic 2022). Old-program chiefs finished at listed PGY-6 (6-yr track for pre-2013 entrants; ACGME 7-yr from 2013), so adjudicator marks Ramirez/Sanchez 'LEFT' at PGY-6. Two PGY-1s in 2014 (three), 2015, 2024 and 2026 despite stated 1/yr complement. Pre-2011 entrants Kristen Upchurch and Andrew Lyons (2010-11 list only, not in 2012-13) not loaded. training_history: inserted Pappu (2012) and Chohan (2014) graduation rows from program documents (annual report, history page). PHASE 2: CC-MAIN-2020-34 abqjournal index range failed. Adjudicator labels Kazim 'SWITCHED SPECIALTY' from NPI only; training_history records departure_type unknown.",
+ "not_applicable_years": [
+  "2020-2021",
+  "2021-2022"
+ ],
+ "terminal_pgy_by_entry_year": {
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "Pre-2013 entrants trained 6 years (Pappu 2012, Chohan 2014, Ramirez 2015, Sanchez 2017 graduated at PGY-6); 2013+ entrants 7 years (Akbik, Mohammad PGY-7 June 2020).",
+ "accreditation": {
+  "old_program_withdrawn_effective": "2020-06-30",
+  "circumstances": "ACGME Office of Complaints letter Aug 2018 (7 allegations: falling caseload, residents pulled from OR for service tasks, retaliation, chair threatening dismissal, no pediatric/spine/functional faculty); program on probation; summer-2019 site visit; withdrawal notified Aug 2019, effective 2020-06-30. Chair post vacant ~5 months; Meic Schmidt hired (started Feb 2020). 10 residents in 2019-20: 2 finished June 2020, 8 (1-6 years left) had to transfer, UNM paying their salaries at the new programs.",
+  "sources": [
+   "Albuquerque Journal 2019-10-17 'UNM med school to lose residency program' (abqjournal.com/1379907, Common Crawl CC-MAIN-2019-47 and 2020-24; saved data/raw/extraction/p97/phase2/abqjournal_1379907_cc201947.html)",
+   "Daily Lobo 2019-10-14 'UNMH neurosurgery residency program canceled' (web.archive.org/web/20211021030122/https://www.dailylobo.com/article/2019/10/loss-of-unmh-neurosurgery-residency-program; says 8 residents, 6 already left, 2 remain - conflicts with the Journal's 10; destination rosters show the moves took effect July 2020)",
+   "UNM HSC news 2021-10-26 'UNM Department of Neurosurgery Set to Seek Reinstatement of Residency Program' (web.archive.org/web/20211027235427/https://hsc.unm.edu/news/2021/10/neurosurgery-reinstatement-residency-program.html)",
+   "residency1.html (2022-10): new program accredited 2022-04-01, first resident 2022-07-01"
+  ],
+  "new_program_accredited": "2022-04-01"
+ },
+ "years": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Only 2010-11 content archived; Chohan/Ramirez bracketed, Pappu from annual report. 2011 entrants Sanchez/Westhout (and Jameel) are visible from 2012-13; residual risk is only a 2011 entrant who left within one year. Not re-searched in phase 2."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "residents.shtml 2012-08-26."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Page headed 2013/2014."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "current.html 2014-12-30."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "meet-our-residents 2016-03-09."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl 2017-02-21."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster anywhere; 2016-17 list advanced one PGY plus McKay (2017 entrant, Colorado PGY-IV 2020-21). Headcount closes against the Journal's 10 residents in 2019-20: every 2013-2017 entrant is accounted for; Messegee/Gahramanov (6-yr track) finish June 2018."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "As 2017-18. The Journal count implies one 2018 entrant (PGY-1) who is unidentified; his/her outcome is known in kind (forced transfer at the June-2020 closure)."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Journal: 10 residents, 2 completed (Akbik, Mohammad), 8 transferred out at the 2020-06-30 withdrawal. 8 of 10 named with destinations; the 2018 and 2019 entrants (PGY-2, PGY-1) remain unnamed. Closure departures are transfers, not voluntary attrition."
+  },
+  "2020-2021": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Accreditation withdrawn 2020-06-30; no residents (residency1.html)."
+  },
+  "2021-2022": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "No residents; new program accredited 2022-04-01."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Kazim sole resident (residency1.html 2022-10)."
+  },
+  "2023-2024": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster archived; Kazim bracketed. Rumalla (Barrow PGY-2 2022-23, UNM PGY-3 2024-25) may have joined in 2023-24; 1-per-year program, 2023 intern would appear 2024-25 (none at PGY-2 in 2024-25, so no 2023 match or an unseen 2023 leaver). Not searched further in phase 2."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2024-12-14."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2025-08-08; Kazim and Bhamidipati removed by 2025-10-21."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2017-06..2020-09 on neurosurgery.unm.edu, hsc.unm.edu/school-of-medicine/neurosurgery, hsc.unm.edu/som/neurosurgery, hsc.unm.edu/medicine/departments/neurosurgery (phase2/gapaudit.txt)",
+   "Wayback CDX filtered (neurosurg) on dailylobo.com, news.unm.edu, hsc.unm.edu/news, unmhealth.org, krqe/kob/koat; abqjournal.com domain filter timed out (504) -> Common Crawl index scan of com,abqjournal)/ 2019-30..2022-33 (26 crawls; 2020-34 failed)",
+   "apps.acgme.org public program pages via Wayback CDX (none archived)",
+   "hsc.unm.edu CDX 2017-2020 for match/resident/GME pages (only other departments)",
+   "Destination rosters Aug 2019-Sep 2020 (Tulane, OU, Buffalo, BIDMC) for timing of transfers (phase2/dest.txt)",
+   "PubMed per-author affiliation histories for all 2016-17 residents, Kazim, Bhamidipati; PubMed affiliation mining 2017-2021 (phase2/pubmed_aff_2017_2021.txt)",
+   "All loaded programs' rosters: 2019-22 joiners at PGY2-5 checked against PubMed UNM affiliations (found McKay; no match for the 2018/2019 entrants)",
+   "NPPES for Messegee, Gahramanov, Sanchez, McKay (context only)"
+  ],
+  "found": [
+   "Accreditation withdrawal effective 2020-06-30, notified Aug 2019, after probation (Albuquerque Journal 2019-10-17; Daily Lobo 2019-10-14; UNM HSC news 2021-10-26)",
+   "2019-20 headcount: 10 residents, 2 completed June 2020, 8 transferred",
+   "William McKay: previously unknown UNM resident (2017 entrant) -> Colorado PGY-IV 2020-21",
+   "Ross Green -> Zucker Hofstra/Northwell PGY5 2020-21",
+   "Transfers took effect July 2020 (not visible on destination rosters through Dec 2019-Feb 2020)",
+   "Bhamidipati is the same person as Vanderbilt's PGY2 2025-26 joiner (transfer, not orthopaedics)",
+   "Ramirez (2015) and Sanchez (2017) completion rows added (PGY-6 terminal, 6-yr track)"
+  ],
+  "remaining": [
+   "Two unidentified residents (2018 and 2019 entrants, PGY-2 and PGY-1 in 2019-20) who transferred out at the closure; destinations unknown",
+   "Messegee completion unconfirmed",
+   "Kazim destination (left 2025) unknown",
+   "2023-24 (Rumalla arrival year) not re-searched",
+   "Daily Lobo (8 residents, 6 already gone by Oct 2019) conflicts with the Journal (10) and with destination rosters; Journal figures used"
+  ]
+ }
+}

@@ -1,0 +1,606 @@
+[
+ {
+  "program_id": 55,
+  "program": "Riverside University Health System Program",
+  "match_year": 2024,
+  "roster_entrants": 0,
+  "nrmp_filled": 1,
+  "net_missing": 1,
+  "our_roster_nearby": [
+   {
+    "key": "55:ali:wang",
+    "name": "Alice Wang",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2025-2026",
+    "outcome": "in_training"
+   },
+   {
+    "key": "55:rap:rahman",
+    "name": "Raphia Rahman",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2024-2025",
+    "outcome": "in_training"
+   }
+  ],
+  "question": "NRMP says 1 matched into this program in the 2024 Match; our rosters have 0 entrant(s) that year. Identify every 2024 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 72,
+  "program": "University of Arizona College of Medicine- Tucson Program",
+  "match_year": 2015,
+  "roster_entrants": 1,
+  "nrmp_filled": 2,
+  "net_missing": 1,
+  "our_roster_nearby": [
+   {
+    "key": "72:aar:burket",
+    "name": "Aaron Burket",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "outcome": "completed"
+   },
+   {
+    "key": "72:and:marrero",
+    "name": "Andres Monserrate Marrero",
+    "entry_year": 2017,
+    "first_seen": "2021-2022",
+    "last_seen": "2022-2023",
+    "outcome": "left_destination_unknown"
+   },
+   {
+    "key": "72:leo:brasiliense",
+    "name": "Leonardo Brasiliense",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "72:mau:avila",
+    "name": "Mauricio Avila",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "outcome": "completed"
+   },
+   {
+    "key": "72:rob:bina",
+    "name": "Robert Bina",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "72:wya:ramey",
+    "name": "Wyatt Ramey",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   }
+  ],
+  "question": "NRMP says 2 matched into this program in the 2015 Match; our rosters have 1 entrant(s) that year. Identify every 2015 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 76,
+  "program": "University of California (San Francisco) Program \u00a9 2026 Accreditation ",
+  "match_year": 2012,
+  "roster_entrants": 0,
+  "nrmp_filled": 3,
+  "net_missing": 2,
+  "our_roster_nearby": [
+   {
+    "key": "76:and:chan",
+    "name": "Andrew Chan",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "76:cal:rutledge",
+    "name": "Caleb Rutledge",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "76:dar:lau",
+    "name": "Darryl Lau",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "76:der:southwell",
+    "name": "Derek Southwell",
+    "entry_year": 2011,
+    "first_seen": "2013-2014",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "76:eth:winkler",
+    "name": "Ethan Winkler",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "76:jon:breshears",
+    "name": "Jonathan Breshears",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "76:jos:osorio",
+    "name": "Joseph Osorio",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "76:mar:rutkowski",
+    "name": "Martin Rutkowski",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "76:mic:safaee",
+    "name": "Michael Safaee",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "76:ste:magill",
+    "name": "Stephen Magill",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   }
+  ],
+  "question": "NRMP says 3 matched into this program in the 2012 Match; our rosters have 0 entrant(s) that year. Identify every 2012 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine Program",
+  "match_year": 2017,
+  "roster_entrants": 1,
+  "nrmp_filled": 2,
+  "net_missing": 1,
+  "our_roster_nearby": [
+   {
+    "key": "97:dom:harris",
+    "name": "Dominic Harris",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   },
+   {
+    "key": "97:rob:starling",
+    "name": "Robert Starling",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   },
+   {
+    "key": "97:ros:green",
+    "name": "Ross Green",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   },
+   {
+    "key": "97:wil:mckay",
+    "name": "William McKay",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   }
+  ],
+  "question": "NRMP says 2 matched into this program in the 2017 Match; our rosters have 1 entrant(s) that year. Identify every 2017 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine Program",
+  "match_year": 2018,
+  "roster_entrants": 0,
+  "nrmp_filled": 1,
+  "net_missing": 1,
+  "our_roster_nearby": [
+   {
+    "key": "97:ros:green",
+    "name": "Ross Green",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   },
+   {
+    "key": "97:wil:mckay",
+    "name": "William McKay",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   }
+  ],
+  "question": "NRMP says 1 matched into this program in the 2018 Match; our rosters have 0 entrant(s) that year. Identify every 2018 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine Program",
+  "match_year": 2019,
+  "roster_entrants": 0,
+  "nrmp_filled": 1,
+  "net_missing": 1,
+  "our_roster_nearby": [
+   {
+    "key": "97:wil:mckay",
+    "name": "William McKay",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   }
+  ],
+  "question": "NRMP says 1 matched into this program in the 2019 Match; our rosters have 0 entrant(s) that year. Identify every 2019 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 99,
+  "program": "University of Oklahoma Health Sciences Center Program",
+  "match_year": 2016,
+  "roster_entrants": 1,
+  "nrmp_filled": 2,
+  "net_missing": 1,
+  "our_roster_nearby": [
+   {
+    "key": "99:ali:palejwala",
+    "name": "Ali Palejwala",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "outcome": "completed"
+   },
+   {
+    "key": "99:gri:ernst",
+    "name": "Griffin Ernst",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "outcome": "completed"
+   },
+   {
+    "key": "99:hel:shi",
+    "name": "Helen Shi",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "outcome": "completed"
+   },
+   {
+    "key": "99:hur:tullos",
+    "name": "Hurtis Tullos",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "99:lac:carter",
+    "name": "Lacey Carter",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "99:lan:villeneuve",
+    "name": "Lance Villeneuve",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "outcome": "completed"
+   },
+   {
+    "key": "99:pan:pelargos",
+    "name": "Panayiotis Pelargos",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "outcome": "completed"
+   },
+   {
+    "key": "99:zoy:voronovich",
+    "name": "Zoya Voronovich",
+    "entry_year": 2014,
+    "first_seen": "2020-2021",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   }
+  ],
+  "question": "NRMP says 2 matched into this program in the 2016 Match; our rosters have 1 entrant(s) that year. Identify every 2016 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 101,
+  "program": "University of Puerto Rico School of Medicine Program",
+  "match_year": 2011,
+  "roster_entrants": 0,
+  "nrmp_filled": 1,
+  "net_missing": 1,
+  "our_roster_nearby": [
+   {
+    "key": "101:joe:cestero",
+    "name": "Joel E. Pellot Cestero",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "101:jos:fernandez-abinader",
+    "name": "Jose A. Fernandez-Abinader",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "101:jua:vicenty-padilla",
+    "name": "Juan C. Vicenty-Padilla",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   }
+  ],
+  "question": "NRMP says 1 matched into this program in the 2011 Match; our rosters have 0 entrant(s) that year. Identify every 2011 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 101,
+  "program": "University of Puerto Rico School of Medicine Program",
+  "match_year": 2019,
+  "roster_entrants": 1,
+  "nrmp_filled": 2,
+  "net_missing": 1,
+  "our_roster_nearby": [
+   {
+    "key": "101:ale:cruz",
+    "name": "Alejandro J. Matos Cruz",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2020-2021",
+    "outcome": "transferred"
+   },
+   {
+    "key": "101:jos:consuegra",
+    "name": "Jose I. Sandoval Consuegra",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2020-2021",
+    "outcome": "transferred"
+   },
+   {
+    "key": "101:jos:jimenez",
+    "name": "Jose G. Sanchez Jimenez",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2020-2021",
+    "outcome": "transferred"
+   },
+   {
+    "key": "101:ric:thomas",
+    "name": "Ricardo J. Fernandez-de Thomas",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2020-2021",
+    "outcome": "transferred"
+   },
+   {
+    "key": "101:san:fontanez",
+    "name": "Santos E. Santos Fontanez",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2020-2021",
+    "outcome": "transferred"
+   }
+  ],
+  "question": "NRMP says 2 matched into this program in the 2019 Match; our rosters have 1 entrant(s) that year. Identify every 2019 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 101,
+  "program": "University of Puerto Rico School of Medicine Program",
+  "match_year": 2021,
+  "roster_entrants": 0,
+  "nrmp_filled": 2,
+  "net_missing": 2,
+  "our_roster_nearby": [
+   {
+    "key": "101:jos:jimenez",
+    "name": "Jose G. Sanchez Jimenez",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2020-2021",
+    "outcome": "transferred"
+   },
+   {
+    "key": "101:san:fontanez",
+    "name": "Santos E. Santos Fontanez",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2020-2021",
+    "outcome": "transferred"
+   }
+  ],
+  "question": "NRMP says 2 matched into this program in the 2021 Match; our rosters have 0 entrant(s) that year. Identify every 2021 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 115,
+  "program": "University of Wisconsin Hospitals and Clinics Program",
+  "match_year": 2013,
+  "roster_entrants": 1,
+  "nrmp_filled": 2,
+  "net_missing": 1,
+  "our_roster_nearby": [
+   {
+    "key": "115:bra:schmidt",
+    "name": "Bradley Schmidt",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "115:cla:haldeman",
+    "name": "Clayton Haldeman",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "115:dem:dawkins",
+    "name": "Demi Dawkins",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "115:kim:hamilton",
+    "name": "Kimberly Hamilton",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "115:kut:uluc",
+    "name": "Kutluay Uluc",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "115:lar:bodden",
+    "name": "Larry Bodden",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "115:mar:corriveau",
+    "name": "Mark Corriveau",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "115:sol:ondoma",
+    "name": "Solomon Ondoma",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "115:vik:parmar",
+    "name": "Vikas Parmar",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "115:yip:li",
+    "name": "Yiping Li",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   }
+  ],
+  "question": "NRMP says 2 matched into this program in the 2013 Match; our rosters have 1 entrant(s) that year. Identify every 2013 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ },
+ {
+  "program_id": 122,
+  "program": "Westchester Medical Center Program",
+  "match_year": 2024,
+  "roster_entrants": 0,
+  "nrmp_filled": 2,
+  "net_missing": 2,
+  "our_roster_nearby": [
+   {
+    "key": "122:cam:rawanduzy",
+    "name": "Cameron Rawanduzy",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2025-2026",
+    "outcome": "in_training"
+   },
+   {
+    "key": "122:eri:feldstein",
+    "name": "Eric Feldstein",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2025-2026",
+    "outcome": "in_training"
+   },
+   {
+    "key": "122:eri:spirollari",
+    "name": "Eris Spirollari",
+    "entry_year": 2025,
+    "first_seen": "2025-2026",
+    "last_seen": "2025-2026",
+    "outcome": "in_training"
+   },
+   {
+    "key": "122:ilo:cazorla-morales",
+    "name": "Ilona Cazorla-Morales",
+    "entry_year": 2025,
+    "first_seen": "2025-2026",
+    "last_seen": "2025-2026",
+    "outcome": "in_training"
+   },
+   {
+    "key": "122:sau:soldozy",
+    "name": "Sauson Soldozy",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2025-2026",
+    "outcome": "in_training"
+   },
+   {
+    "key": "122:sha:busse",
+    "name": "Shaye Busse",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2025-2026",
+    "outcome": "in_training"
+   }
+  ],
+  "question": "NRMP says 2 matched into this program in the 2024 Match; our rosters have 0 entrant(s) that year. Identify every 2024 matchee (school match lists, program Match Day posts/news, later rosters, alumni pages) and say for each: already in our_roster_nearby (under which key), or NOT in our data - and if not, what happened to them by 30 June 2025 (started and left = attrition / deferred or research year and joined a later class / transferred out / completed / never started)."
+ }
+]

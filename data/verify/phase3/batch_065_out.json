@@ -1,0 +1,1122 @@
+[
+ {
+  "key": "48:har:howell",
+  "name": "Harrison Howell",
+  "program_id": 48,
+  "identity": "confirmed",
+  "identity_basis": "Columbia neurosurgery current-residents page lists Harrison Howell MD as PGY-1, Columbia VP&S; 2026 entry matches",
+  "residency_stated": [
+   {
+    "institution": "NewYork-Presbyterian Hospital (Columbia)",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 Columbia neurosurgery resident, 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), NYP Columbia",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.columbia.edu/education/residency-program/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-1 Residents: Harrison Howell, MD - Medical School: Columbia University Vagelos College of Physicians and Surgeons"
+   },
+   {
+    "url": "https://www.doximity.com/pub/harrison-howell-md",
+    "type": "doximity",
+    "evidence": "Search result showed Harrison Howell resident in Shreveport LA (namesake); direct page: Public profile not found or disabled"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "48:var:ambati",
+  "name": "Vardhaan Ambati",
+  "program_id": 48,
+  "identity": "confirmed",
+  "identity_basis": "Columbia current-residents page lists Vardhaan Ambati MD (UCSF); Doximity lists Neurosurgery Resident Physician at 710 W 168th St NYC, UCSF Class of 2026",
+  "residency_stated": [
+   {
+    "institution": "NewYork-Presbyterian Hospital (Columbia)",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 Columbia neurosurgery resident, 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-1), NYP Columbia",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.neurosurgery.columbia.edu/education/residency-program/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-1 Residents: Vardhaan Ambati, MD - Medical School: University of California, San Francisco"
+   },
+   {
+    "url": "https://www.doximity.com/pub/vardhaan-ambati-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Resident Physician, 710 W 168th St; UCSF Class of 2026"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:pet:morgenstern",
+  "name": "Peter Morgenstern",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Weill Cornell MD 2011, residency Neurological Surgery NYP (Cornell) 2011-2018, pediatric neurosurgery fellowship U Washington; Mount Sinai faculty",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2018",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Assistant Professor, Mount Sinai, New York",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2018"
+   },
+   {
+    "url": "https://www.doximity.com/pub/peter-morgenstern-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:bre:pennicooke",
+  "name": "Brenton Pennicooke",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Weill Cornell news item and alumni list; WashU bio: residency at NYP/Weill Cornell & MSK, board-certified neurosurgeon",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2018",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, complex spine; WashU St. Louis, moving to Rutgers RWJ (Aug 2026) as Division Chief of Spinal Neurosurgery",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2018"
+   },
+   {
+    "url": "https://neurosurgery.wustl.edu/dr-brenton-pennicooke-begins-new-chapter-as-division-chief-at-rutgers/",
+    "type": "bio",
+    "evidence": "search snippet: Division Chief of Spinal Neurosurgery at Rutgers University-RWJ Medical School"
+   },
+   {
+    "url": "https://brentonpennicookemd.com/brenton-pennicooke-md-neurosurgeon-complex-spine-surgeon/",
+    "type": "bio",
+    "evidence": "spine fellowship-trained and board-certified neurosurgeon; residency NYP/Weill Cornell & MSK"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "49:hil:tomasiewicz",
+  "name": "Hilarie Tomasiewicz",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Wellstar bio: residency NYP Cornell 2012-2019, Mount Sinai MD/PhD 2012, then Emory functional fellowship",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2019",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "functional neurosurgeon, Wellstar, Marietta GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2019"
+   },
+   {
+    "url": "https://www.doximity.com/pub/hilarie-tomasiewicz-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.wellstar.org/physicians/hilarie-tomasiewicz-md-phd",
+    "type": "bio",
+    "evidence": "neurosurgical residency training at NYP/Weill Cornell and MSK; fellowship Emory"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:ben:rapoport",
+  "name": "Benjamin Rapoport",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Harvard MD 2013, Residency Neurological Surgery NYP (Cornell); Mount Sinai profile: residency, chief residency at NYP/Weill Cornell",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Assistant Professor, Mount Sinai; co-founder Precision Neuroscience",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2020"
+   },
+   {
+    "url": "https://www.doximity.com/pub/benjamin-rapoport-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery (no years shown); American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://profiles.mountsinai.org/benjamin-rapoport",
+    "type": "bio",
+    "evidence": "search snippet: completed neurosurgery residency, chief residency and fellowship at NewYork-Presbyterian/Weill Cornell"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:ibr:hussain",
+  "name": "Ibrahim Hussain",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rutgers NJMS 2013, Residency Neurological Surgery NYP (Cornell) 2013-2020, Miami spine fellowship; Weill Cornell faculty page",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Assistant Professor, Weill Cornell / NYP",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2020"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ibrahim-hussain-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://neurosurgery.weillcornell.org/faculty/ibrahim-hussain-md",
+    "type": "bio",
+    "evidence": "search snippet: completed residency at NYP/Weill Cornell and MSK; spine fellowship U Miami"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:tho:link",
+  "name": "Thomas Link",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Johns Hopkins MD 2013, Residency NYP (Cornell) 2013-2020; Weill Cornell news: virtual graduation June 2020",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (cerebrovascular/endovascular), Northwell North Shore, Great Neck NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2020"
+   },
+   {
+    "url": "https://www.doximity.com/pub/thomas-link-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:jus:schwarz",
+  "name": "Justin Schwarz",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Weill Cornell MD 2013, Residency NYP (Cornell) 2014-2021; Weill Cornell faculty page",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2021",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "cerebrovascular neurosurgeon, Weill Cornell / NYP, New York",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2021"
+   },
+   {
+    "url": "https://www.doximity.com/pub/justin-schwarz-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021"
+   },
+   {
+    "url": "https://neurosurgery.weillcornell.org/faculty/justin-taylor-schwarz-md",
+    "type": "bio",
+    "evidence": "search snippet: completed residency in neurosurgery at NYP/Weill Cornell; neuroendovascular fellowship"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:whi:parker",
+  "name": "Whitney Parker",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Penn MD/PhD, Residency NYP (Cornell) 2014-2021; UMMS bio: residency NYP/Weill Cornell-MSK, SickKids fellowship 2021",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2021",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Assistant Professor, University of Maryland, Baltimore",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2021"
+   },
+   {
+    "url": "https://www.doximity.com/pub/whitney-parker-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021"
+   },
+   {
+    "url": "https://www.umms.org/find-a-doctor/profiles/dr-whitney-erin-parker-md--phd-1003227067",
+    "type": "bio",
+    "evidence": "search snippet: began residency at NYP/Weill Cornell and MSK; pediatric fellowship SickKids 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:ben:hartley",
+  "name": "Benjamin Hartley",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: SUNY Downstate MD 2015, Residency NYP (Cornell); Jamaica Hospital bio: neurosurgeon, residency Weill-Cornell/MSK; Weill Cornell news lists him as neurosurgery resident (Apuzzo award 2021)",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2022",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Jamaica Hospital / Medisys, Jamaica NY (neurosurgical oncology fellowship, Northwell)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2022"
+   },
+   {
+    "url": "https://www.doximity.com/pub/benjamin-hartley-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; also lists American Board of Radiology Diagnostic Radiology and Neuroradiology certs (appears to be a merged/erroneous entry; specialty shown Neurosurgery)"
+   },
+   {
+    "url": "https://jamaicahospital.org/newsletter/meet-our-doctors-dr-benjamin-hartley/",
+    "type": "bio",
+    "evidence": "neurosurgeon; residency Weill-Cornell Medical College and Memorial Sloan Kettering; fellowship neurosurgical oncology Northwell"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "49:ale:ramos",
+  "name": "Alexander Ramos",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UCSF MD 2016, Residency NYP (Cornell) 2016-2023; Columbia Neurosurgery bio: MD/PhD UCSF, residency NYP/Weill Cornell, joined Columbia Aug 2023",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "endovascular neurosurgeon, Columbia Neurosurgery / NYP, New York",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alexander-ramos-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://www.neurosurgery.columbia.edu/news/welcome-dr-alexander-ramos",
+    "type": "bio",
+    "evidence": "search snippet: neurosurgical residency at NYP/Weill Cornell and MSK; joined Columbia Neurosurgery in August 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:eva:bander",
+  "name": "Evan Bander",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Baptist Health: Weill Cornell MD 2015, Residency NYP (Cornell) 2016-2023, MD Anderson fellowship 2023-24",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2023",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Baptist Health Miami Neuroscience Institute",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/evan-bander-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:jac:goldberg",
+  "name": "Jacob Goldberg",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity cv page (Jacob Louis Goldberg, Englewood NJ): UW MD 2016, Residency NYP (Cornell) 2017-2024, spine fellowship 2023-24; Weill Cornell news 5th-year resident; NOTE pub/jacob-goldberg-md is an internal-medicine namesake, not him",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed NYP Cornell neurosurgery residency 2024 (chief 2022-23) + spine fellowship",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Englewood Health / Metropolitan Neurosurgery Associates, NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2024"
+   },
+   {
+    "url": "https://www.doximity.com/cv/jacob-goldberg-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024; Chief Residency 2022-2023; Fellowship Neurosurgical Spine 2023-2024"
+   },
+   {
+    "url": "https://www.englewoodhealth.org/providers/jacob-goldberg",
+    "type": "bio",
+    "evidence": "search snippet: internship, residency in neurosurgery, fellowship in spine surgery at NYP/Weill Cornell"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:jos:carnevale",
+  "name": "Joseph Carnevale",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and NJ Brain and Spine bio: Brown MD 2017, residency NYP Cornell/MSK 2017-2024 with endovascular fellowship",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2024",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "cerebrovascular neurosurgeon, New Jersey Brain and Spine, Montclair NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/joseph-carnevale-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://njbrainspine.com/doctor/joseph-carnevale/",
+    "type": "bio",
+    "evidence": "search snippet: completed neurosurgical residency at Weill Cornell - NYP and Memorial Sloan Kettering"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:gar:kocharian",
+  "name": "Gary Kocharian",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity, Nuvance/Elite Brain and Spine bio: Weill Cornell MD 2018, residency NYP Cornell 2018-2025 with endovascular fellowship",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "cerebrovascular neurosurgeon, Elite Brain and Spine of Connecticut / Nuvance, Danbury CT",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/gary-kocharian-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025"
+   },
+   {
+    "url": "https://elitebrainspine.com/gary-kocharian-neurosurgeon/",
+    "type": "bio",
+    "evidence": "search snippet: completed residency NYP-Weill Cornell plus endovascular fellowship, both 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:mar:rivera",
+  "name": "Maricruz Rivera",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Case Western MD/PhD 2018, Residency NYP (Cornell) 2018-2025, Round Rock TX neurosurgery; Weill Cornell Match 2018 news (name is common; confirmed by program + years + school)",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Round Rock TX (Ascension Seton Williamson)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/maricruz-rivera-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025; Case Western Class of 2018"
+   },
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/about-us/news-updates/weill-cornell-medicine-neurosurgery-residents-selected-match-day-2018",
+    "type": "news",
+    "evidence": "search snippet: Maricruz Rivera selected to join Weill Cornell neurosurgery program in June 2018"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:ale:larsen",
+  "name": "Alexandra Giantini Larsen",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Weill Cornell residents page and news (Harvard MD, 4th-year resident 2023-24) plus alumni page 2026; Doximity stub lists only HMS 2019 (no residency data)",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2026",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "recent graduate (2026) of Weill Cornell neurosurgery; next position not stated",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2026"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alexandra-giantini-larsen-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Boston; Harvard Medical School Class of 2019 (stale stub, no residency listed)"
+   },
+   {
+    "url": "https://neurosurgery.weillcornell.org/residents/alexandra-giantini-larsen-md",
+    "type": "program_page",
+    "evidence": "search snippet: completing fourth year of neurosurgical residency at NYP and Weill Cornell (2023-24)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:and:garton",
+  "name": "Andrew Garton",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Weill Cornell resident page: chief resident PGY-7, Columbia P&S MD; alumni page lists 2026",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at NYP Cornell/Weill Cornell-MSK, graduated 2026",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "recent graduate (2026) of Weill Cornell neurosurgery; endovascular fellowship during residency",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2026"
+   },
+   {
+    "url": "https://neurosurgery.weillcornell.org/residents/andrew-garton-md",
+    "type": "program_page",
+    "evidence": "search snippet: chief resident (PGY-7); CAST-accredited endovascular fellowship during residency"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:raf:uribe",
+  "name": "Rafael Uribe",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Listed as Rafael Uribe(-Cardenas): Weill Cornell faculty bio says accepted into Weill Cornell neurosurgery residency (previous Colombian residency + fellowships) to finish US requirements; alumni 2025; Doximity Rafael Uribe-Cardenas NYC neurosurgery, Pontifical Xavierian Univ 2007",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Weill Cornell neurosurgery residency 2025 (prior Colombian neurosurgery residency and US pediatric fellowships)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (brain tumors), White Plains Hospital / Montefiore area, NY",
+  "agrees_with_db": true,
+  "disagreement": "Doximity pub/rafael-uribe-md not found; found under Uribe-Cardenas surname",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+    "type": "program_page",
+    "evidence": "Weill Cornell neurosurgery residency alumni page lists graduation year 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/rafael-uribe-cardenas-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Brain & Spinal Tumor, Skull Base; Pontifical Xavierian University Class of 2007; no residency listed"
+   },
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/our-faculty/rafael-uribe",
+    "type": "bio",
+    "evidence": "search snippet: accepted into neurosurgical residency at Weill Cornell, expected to complete in 2023 [sic]"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:gra:winston",
+  "name": "Graham Winston",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Weill Cornell MD 2020 (AOA); Weill Cornell residents page and AANS bio: PGY-6 resident; Doximity stub shows Cornell Class of 2020 only",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Weill Cornell/NYP neurosurgery resident (entered 2020)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Weill Cornell/NYP",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/current-weill-cornell-residents",
+    "type": "program_page",
+    "evidence": "search snippet: Graham Winston, MD - currently a PGY-6 resident in the neurosurgery program at Weill Cornell Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/graham-winston-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO stub; Weill Cornell Medicine Class of 2020; no residency listed"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:umb:tosi",
+  "name": "Umberto Tosi",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Weill Cornell MD 2020; Weill Cornell news: chief neurosurgery resident, Staff of the Month Oct 2025",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Weill Cornell/NYP neurosurgery resident (entered 2020)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "chief neurosurgery resident, Weill Cornell/NYP",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/current-weill-cornell-residents",
+    "type": "program_page",
+    "evidence": "search snippet: Dr. Tosi is a chief neurosurgery resident ... Graduate Staff of the Month for October 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/umberto-tosi-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO stub; Weill Cornell Medicine Class of 2020; no residency listed"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:nal:tata",
+  "name": "Nalini Tata",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Weill Cornell resident page: Nalini Tata MD MPP, Northwestern MD; Match Day 2021; White House Fellow 2024-25 (4th-year resident) - explains PGY-6 in 2026-27",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Weill Cornell/NYP neurosurgery resident (entered 2021)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Weill Cornell/NYP (White House Fellow 2024-25)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/current-weill-cornell-residents",
+    "type": "program_page",
+    "evidence": "search snippet: neurosurgery resident at NYP Weill Cornell/MSK; fourth-year resident selected as 2024-2025 White House Fellow"
+   },
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/about-us/news-updates/nalini-tata-selected-white-house-fellow",
+    "type": "news",
+    "evidence": "fourth-year resident in neurological surgery selected White House Fellow 2024-2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:nat:kharas",
+  "name": "Natasha Kharas",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Weill Cornell residents page (MD/PhD UTHealth McGovern), Match Day 2021; Doximity resident physician NYC, McGovern Class 2017",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Weill Cornell/NYP neurosurgery resident (entered 2021)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-5/6), Weill Cornell/NYP",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/current-weill-cornell-residents",
+    "type": "program_page",
+    "evidence": "search snippet: Natasha Kharas, MD, PhD, PGY-5 neurosurgery resident (2025 Gaposchkin Prize)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/natasha-kharas-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, New York; McGovern Medical School at UTHealth Class of 2017; no residency listed"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "49:joh:chae",
+  "name": "John Chae",
+  "program_id": 49,
+  "identity": "confirmed",
+  "identity_basis": "Weill Cornell MD 2022 (AOA), starts July 2022; Doximity (pub/john-chae-md-faaf64b2) lists Residency Neurological Surgery NYP Cornell 2022-2029. NOTE pub/john-chae-md is a PM&R namesake in Cleveland",
+  "residency_stated": [
+   {
+    "institution": "New York Presbyterian Hospital (Cornell Campus)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Weill Cornell/NYP neurosurgery resident (entered 2022)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-5), Weill Cornell/NYP",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/current-weill-cornell-residents",
+    "type": "program_page",
+    "evidence": "search snippet: John Chae MD ... beginning training in July 2022"
+   },
+   {
+    "url": "https://www.doximity.com/pub/john-chae-md-d66d65d9",
+    "type": "doximity",
+    "evidence": "Neurosurgery, NYC; Residency, Neurological Surgery, 2022 - 2029; Weill Cornell Class of 2022"
+   }
+  ],
+  "searches_used": 2
+ }
+]

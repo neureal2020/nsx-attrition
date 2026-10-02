@@ -1,0 +1,225 @@
+{
+ "program_id": 33,
+ "name": "Louisiana State University School of Medicine Program (New Orleans, LA)",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.medschool.lsuhsc.edu/neurosurgery/residency_residents.aspx",
+   "from": "2007-12",
+   "to": "2019-10 (roster content); by 2022-08 a meta-refresh stub to residents.lsuhsc.edu; 404/301 from 2024-07"
+  },
+  {
+   "url": "http://www.medschool.lsuhsc.edu/Neurosurgery/residents.asp",
+   "from": "2004",
+   "to": "2007 (pre-window)"
+  },
+  {
+   "url": "https://www.medschool.lsuhsc.edu/neurosurgery/ (department site; alumni.aspx, docs/ newsletters and resident manuals)",
+   "from": "2004",
+   "to": "live"
+  },
+  {
+   "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+   "from": "2024-04 (first archive; root /no/neurosurgery/ archived 2020-10)",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "partial_years": {
+  "2016-2017": "department newsletter Aug/Fall 2016 (docs/newsletter august.pdf): 2016 interns Podet+Webb, Crutcher PGY-4, Morrow PGY-2; rest bracketed"
+ },
+ "reconstructed_years": [
+  "2016-2017",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2016-2017": "No roster capture in Wayback (none 2016-03..2019-07) or Common Crawl (2016-07 retried OK: 0 roster records; 2016-44/50, 2017-04..26: no residency_residents.aspx). Newsletter Aug 2016 names both 2016 interns (Podet, Webb) + Crutcher PGY-4, Morrow PGY-2. 2015-16 and 2017-18 rosters bracket everyone else (Eggart 7, Gesheva 6, DiGiorgio 5, Lasseigne 3, Shields 2). Class membership is identical before and after.",
+  "2017-2018": "CLOSED in phase 2: Common Crawl CC-MAIN-2017-43 capture of residency_residents.aspx (2017-10-19, headed '2017- 2018 Residents'): Gesheva 7, DiGiorgio 6, Crutcher 5, Lasseigne 4, Morrow 3, Shields 3, Podet 2, Webb 2, Robichaux 1. Also Newsletter.pdf (2017-08-29) now fetched via id_ replay: it is the Winter 2016 (2015-16) newsletter, no new names.",
+  "2020-2021": "No roster in Wayback or Common Crawl (all 2019-2023 crawls on both prefixes; July 2020 CC capture still shows 2019-20; residents.lsuhsc.edu/no/neurosurgery/residents.aspx never captured before 2024-04; old URL a meta-refresh stub by 2022-08). Reconstructed with evidence: Lasseigne 7 in 2020-21 (Thibodaux Regional Aug 2021: completed LSU neurosurgery residency); Morrow & Shields PGY-6/7 (LSU Dept Neurosurgery PubMed affiliation Sep 2021; later Colorado/Desert Regional and Emory neurosurgery); Podet to PGY-7 2022-23 (LSU faculty page: residency LSUHSC-NO); Robichaux, Girolamo, Wilson, Guillen Arguello bracketed 2019-20/2023-24; Crabill, Shoap (MD 2020), Lawhon (MD 2021), Glasser, Hayden (MD 2022) from their 2023-24 PGY. Site text 2020-2023: program 'accepts one and two residents in alternating years' -- observed 2020=2, 2021=1, 2022=2. PubMed/OpenAlex LSU neurosurgery 2020-2025 affiliation mining found no unlisted resident.",
+  "2021-2022": "No roster in Wayback or Common Crawl (all 2019-2023 crawls on both prefixes; July 2020 CC capture still shows 2019-20; residents.lsuhsc.edu/no/neurosurgery/residents.aspx never captured before 2024-04; old URL a meta-refresh stub by 2022-08). Reconstructed with evidence: Lasseigne 7 in 2020-21 (Thibodaux Regional Aug 2021: completed LSU neurosurgery residency); Morrow & Shields PGY-6/7 (LSU Dept Neurosurgery PubMed affiliation Sep 2021; later Colorado/Desert Regional and Emory neurosurgery); Podet to PGY-7 2022-23 (LSU faculty page: residency LSUHSC-NO); Robichaux, Girolamo, Wilson, Guillen Arguello bracketed 2019-20/2023-24; Crabill, Shoap (MD 2020), Lawhon (MD 2021), Glasser, Hayden (MD 2022) from their 2023-24 PGY. Site text 2020-2023: program 'accepts one and two residents in alternating years' -- observed 2020=2, 2021=1, 2022=2. PubMed/OpenAlex LSU neurosurgery 2020-2025 affiliation mining found no unlisted resident.",
+  "2022-2023": "No roster in Wayback or Common Crawl (all 2019-2023 crawls on both prefixes; July 2020 CC capture still shows 2019-20; residents.lsuhsc.edu/no/neurosurgery/residents.aspx never captured before 2024-04; old URL a meta-refresh stub by 2022-08). Reconstructed with evidence: Lasseigne 7 in 2020-21 (Thibodaux Regional Aug 2021: completed LSU neurosurgery residency); Morrow & Shields PGY-6/7 (LSU Dept Neurosurgery PubMed affiliation Sep 2021; later Colorado/Desert Regional and Emory neurosurgery); Podet to PGY-7 2022-23 (LSU faculty page: residency LSUHSC-NO); Robichaux, Girolamo, Wilson, Guillen Arguello bracketed 2019-20/2023-24; Crabill, Shoap (MD 2020), Lawhon (MD 2021), Glasser, Hayden (MD 2022) from their 2023-24 PGY. Site text 2020-2023: program 'accepts one and two residents in alternating years' -- observed 2020=2, 2021=1, 2022=2. PubMed/OpenAlex LSU neurosurgery 2020-2025 affiliation mining found no unlisted resident."
+ },
+ "alumni_page": "https://www.medschool.lsuhsc.edu/neurosurgery/alumni.aspx (live now 404; archived to 2025-09) -- graduates 2014 Trahan, 2015 Sure & Volk, 2016 Conger, 2017 Eggart, 2018 Gesheva Baxter, 2019 DiGiorgio, 2020 Crutcher; nothing after 2020 in any capture 2021-2025",
+ "departures": [
+  {
+   "name": "Walid Radwan",
+   "last_ay": "2014-2015",
+   "last_pgy": 2,
+   "note": "TRANSFERRED to West Virginia University (program 121), PGY-3 2015-16 (WVU roster; PubMed WVU affiliation from Oct 2016). training_history row added (end_year 2015)."
+  },
+  {
+   "name": "Leo Webb",
+   "last_ay": "2017-2018",
+   "last_pgy": 2,
+   "note": "SWITCHED SPECIALTY: neurosurgery PGY-2 2017-18 (CC roster); LSU New Orleans anesthesiology residents page (Oct 2019) lists him in Class of 2021 (joined July 2018). training_history row added (end_year 2018)."
+  },
+  {
+   "name": "John Gachiani",
+   "last_ay": "2010-2011",
+   "last_pgy": 6,
+   "note": "pre-window (entry 2005): PGY-6 on 2010-11 roster, absent from 2011-12 roster, not on alumni list; not loaded"
+  }
+ ],
+ "joiners": [],
+ "joiner_note": "No one appears above PGY-1 in a year whose preceding roster exists. Robichaux (PGY-2 2018-19), Crabill/Shoap (PGY-4), Lawhon (PGY-3), Glasser/Hayden (PGY-2) in 2023-24 all follow gaps; their entry years match MD years (2017, 2020, 2021, 2022) so they are gap-hidden, not transfers. Sure & Volk were PGY-3 in 2010-11 with 'Residency at LSUHSC, 2009 to present' (prior internship/fellowship credit) -- pre-window.",
+ "residents_2011plus": 25,
+ "adjudication_summary": {
+  "COMPLETED": 18,
+  "IN TRAINING": 11,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "note": "Radwan -> WVU 2015; Webb -> LSU anesthesiology 2018. Lasseigne/Morrow/Shields/Podet resolved as completions (Morrow/Shields inferred from publications)."
+ },
+ "problems": "Morrow and Shields completion rests on publication affiliations (LSU Sep 2021, then neurosurgery departments elsewhere), not a program page; alumni page stops at 2020. Radwan transfer-in row at WVU (program 121) not written (outside this program's allowed rows). Common Crawl: all crawls retried OK except CC-MAIN-2018-13 medschool prefix (range errors twice); it cannot matter because 2017-18 and 2018-19 are both observed. programs.name field contains ACGME footer junk.",
+ "complement_note": "Program text (2016-2023): 'accepts one and two residents in alternating years'. Classes: 2 in 2013, 2015, 2016, 2018, 2020, 2022, 2024, 2026; 1 in 2011, 2012, 2014, 2017, 2019, 2021, 2023, 2025 (2016 is the one break in alternation: Podet + Webb).",
+ "common_crawl": "Phase 1: CC-MAIN-2016-18..40. Phase 2: CC-MAIN-2016-07 and 2016-44 .. 2023-50 on edu,lsuhsc,medschool)/neurosurgery and edu,lsuhsc,residents)/no/neurosurgery (scripts via data/raw/extraction/p33/phase2/ccrun.py). Roster hits: residency_residents.aspx 2017-10-19, 2017-12-13/16, 2018-02-22 (2017-18); 2018-05/07/08 (stale 2017-18); 2018-10-20, 2018-12-16, 2019-02-18, 2019-04-19 (2018-19); 2019-10-18 (2019-20); 2020-07-04 (stale 2019-20); 2022-08-11 (redirect stub). residents.lsuhsc.edu: only the program root (2020-10..2023-12) and faculty.aspx (2023-12); residents.aspx never crawled.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster found in Common Crawl CC-MAIN-2017-43 (2017-10-19), repeated in 2017-51 and 2018-09"
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "no roster, but 2015-16 roster + Aug 2016 newsletter (full 2016 intern class) + 2017-18 roster give identical class membership on both sides; only a one-year transient transfer could be missed"
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "every 2019-20 resident accounted for (Lasseigne completion per employer bio; Morrow/Shields LSU affiliation Sep 2021; Podet LSU faculty; others on 2023-24 roster); 2020 class (Crabill, Shoap; MD 2020) fills the stated 2-per-even-year complement"
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "same bracketing; 2021 class = Lawhon (MD 2021) fills the stated 1-per-odd-year complement; Morrow/Shields completion inferred from publications, not a program page"
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "same bracketing; 2022 class Glasser+Hayden (MD 2022) fills the 2-per-even-year complement; Podet (PGY-7) completion confirmed by LSU faculty page"
+  }
+ },
+ "resolved_gap_hidden": [
+  {
+   "name": "Lindsay Lasseigne",
+   "outcome": "completed 2021",
+   "evidence": "Thibodaux Regional welcome post Aug 2021 (employer_bio)"
+  },
+  {
+   "name": "Kevin Morrow",
+   "outcome": "completed 2022 (inferred)",
+   "evidence": "PubMed: LSU neurosurgery Sep 2021; Colorado neurosurgery 2024; Desert Regional neurosurgery 2025"
+  },
+  {
+   "name": "Jessica Shields",
+   "outcome": "completed 2022 (inferred)",
+   "evidence": "PubMed: LSU neurosurgery Sep 2021; Emory neurosurgery Jun 2023"
+  },
+  {
+   "name": "Adam Podet",
+   "outcome": "completed 2023",
+   "evidence": "LSU neurosurgery faculty page: residency LSUHSC-NO"
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "gapaudit 2016-04..2024-06: medschool.lsuhsc.edu/neurosurgery/ (all case/host variants), residents.lsuhsc.edu/ and /no/, www.lsuhsc.edu/newsroom/, medschool medical_education/ and graduate/ (GME), medical_education/omen/ news blog",
+   "link/scan of every distinct capture 2016-2025: department home, residency.aspx, default.aspx, faculty.aspx, alumni.aspx, residents-site root and faculty.aspx",
+   "Common Crawl 2016-07 + 2016-44..2023-50, both prefixes",
+   "Wayback Newsletter.pdf 2017-08-29 (id_ replay works; it is the 2015-16 newsletter)",
+   "PubMed affiliation mining LSU neurosurgery 2020-2025; PubMed/OpenAlex per-author for Lasseigne, Morrow, Shields, Podet, Webb, Radwan",
+   "LSU anesthesiology residents pages (other LSU program site) 2017-2026",
+   "Thibodaux Regional site (Wayback), Emory & Colorado neurosurgery fellowship pages (no hits), Desert Regional (no hits)",
+   "NPPES (supporting only)"
+  ],
+  "found": [
+   "2017-18 full roster (Common Crawl 2017-10-19) -> year observed; Webb PGY-2 2017-18",
+   "2018-19 in-year roster captures (CC 2018-10-20, 2019-02-18) confirm the loaded July 2019 capture",
+   "Webb -> LSU anesthesiology Class of 2021 (switched specialty, left after 2017-18)",
+   "Lasseigne completed LSU residency (Thibodaux Regional Aug 2021)",
+   "Podet completed LSU residency (LSU faculty page)",
+   "Morrow & Shields at LSU neurosurgery Sep 2021, later neurosurgery positions (Colorado/Desert Regional; Emory)",
+   "Radwan transfer to WVU confirmed by PubMed WVU affiliation 2016-2018",
+   "program text: one and two residents in alternating years"
+  ],
+  "remaining": [
+   "No roster page exists for 2016-17 or 2020-21..2022-23 in any archive; these stay reconstructed (significance low).",
+   "Morrow/Shields graduation year 2022 inferred, not program-confirmed.",
+   "CC-MAIN-2018-13 (medschool prefix) still fails; irrelevant (both neighbouring years observed)."
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+# Sources — Henry Ford Providence Hospital Program (program 25)
+
+Every claim below links to the page it came from. Wayback links open the exact capture used.
+RECONSTRUCTED rows were not listed on any page for that year; the note says what they were inferred from.
+
+## Rosters by academic year
+
+| Academic year | Type | Captured | Residents | Reconstructed | Source | Note |
+|---|---|---|---|---|---|---|
+| 2011-2012 | wayback | 2012-03-05 | 12 | 0 | https://web.archive.org/web/20120305234407/http://www.stjohnprovidence.org:80/InnerPage.aspx?PageID=1733 | PH GME Osteopathic Neurosurgery Program - Current Residents (InnerPage.aspx?PageID=1733). Sep/Dec-2011 captures still showed the 2010-11 list (Beier PY6); first |
+| 2012-2013 | wayback | 2012-11-24 | 12 | 0 | https://web.archive.org/web/20121124020903/http://www.stjohnprovidence.org:80/InnerPage.aspx?PageID=1733 | PageID=1733. Identical content persisted through Dec 2013 and into the new URL (Apr 2015) - stale. D'Andrea still labelled Program Year 1 (not updated; PY1 in 2 |
+| 2013-2014 | reconstructed | 2014-01-01 | 12 | 12 | `manual reconstruction (no 2013-14 roster: PageID=1733 Oct/Dec-2013 and osteopathicneurosurgery/currentresidents Apr-2015 captures repeat the 2012-13 list)` | Reconstructed: bracketed 2012-13 & 2015-16, or alumni graduation year. [phase2] Marat Grigorov added (bracketed by the 2012-13 roster and an April-2015 St. John |
+| 2014-2015 | reconstructed | 2015-01-01 | 12 | 12 | `manual reconstruction (no 2014-15 roster: Apr-2015 capture of osteopathicneurosurgery/currentresidents repeats the 2012-13 list)` | Reconstructed: bracketed 2012-13 & 2015-16, or alumni graduation year. [phase2] Marat Grigorov added (bracketed by the 2012-13 roster and an April-2015 St. John |
+| 2015-2016 | wayback | 2016-04-02 | 12 | 0 | https://web.archive.org/web/20160402110151/http://www.stjohnprovidence.org/providencegme/residencyprograms/osteopathicneurosurgery/currentresidents/ | Osteopathic Neurosurgery Program - Current Residents (new CMS URL); only 2015-16 capture. |
+| 2016-2017 | wayback | 2017-06-25 | 12 | 0 | https://web.archive.org/web/20170625220421/http://www.stjohnprovidence.org/providencegme/residencyprograms/neurosurgery/currentresidents/ | Neurosurgery Program - Current Residents; only capture (June 2017, still 2016-17 labels: PGY-6 To/D'Andrea = class of 2017). |
+| 2017-2018 | reconstructed | 2018-01-01 | 11 | 11 | `manual reconstruction (no capture of any roster page 2017-07..2019-07)` | Reconstructed: bracketed 2016-17 & 2019-20/2021-22, or alumni graduation year. |
+| 2018-2019 | reconstructed | 2019-01-01 | 12 | 12 | `manual reconstruction (no capture of any roster page 2017-07..2019-07; apneurosurgery.org Jul/Aug-2019 captures render no names)` | Reconstructed: bracketed or alumni graduation year. [phase2] Michael Lawless added at PGY-3 (Ascension Providence neurosurgery affiliation Oct 2018 and Jan 2019 |
+| 2019-2020 | wayback | 2019-11-19 | 12 | 0 | https://web.archive.org/web/20191119210257/https://www.apneurosurgery.org/current-residents | Wix page; captured HTML carries only headshots. Text read from the page JSON the capture references (pages.wixstatic.com/sites/e1ba1a_48a2f85d4bad593ff0c6d67c29 |
+| 2020-2021 | wayback | 2020-09-28 | 14 | 0 | https://web.archive.org/web/20200928030903/https://www.apneurosurgery.org/current-residents | Wix page; text from referenced page JSON e1ba1a_c119dfafe3e586a2f58df5f01ee545e8_1019.json.z (pages.wixstatic.com, fetched 2026-09-27). Same in versions 984 (Au |
+| 2021-2022 | wayback | 2021-11-30 | 14 | 0 | https://web.archive.org/web/20211130153326/https://www.apneurosurgery.org/current-residents | apneurosurgery.org Current Residents (Wix; SSR text). |
+| 2022-2023 | wayback | 2022-12-09 | 14 | 0 | https://web.archive.org/web/20221209062826/https://www.apneurosurgery.org/current-residents | apneurosurgery.org Current Residents. |
+| 2023-2024 | wayback | 2023-10-31 | 14 | 0 | https://web.archive.org/web/20231031215036/https://www.apneurosurgery.org/current-residents | apneurosurgery.org Current Residents. INCOMPLETE: no PGY-1 group listed on any 2023-24 capture (Sep 2023-Jun 2024); 2023 interns Caskey/Desai first appear as PG |
+| 2024-2025 | wayback | 2024-09-19 | 14 | 0 | https://web.archive.org/web/20240919150321/https://www.apneurosurgery.org/current-residents | apneurosurgery.org Current Residents (last Wix capture May 2025 identical). |
+| 2025-2026 | wayback | 2026-05-15 | 14 | 0 | https://web.archive.org/web/20260515235107/https://www.henryford.com/hcp/med-ed/residencies-fellowships/providence/neurosurgery/current-residents | henryford.com Providence neurosurgery Current Residents. Used May-2026 capture: Oct-2025 capture (20251018140852) had same 13 people but listed Kyle Scott under |
+| 2026-2027 | live | 2026-09-27 | 14 | 0 | https://www.henryford.com/hcp/med-ed/residencies-fellowships/providence/neurosurgery/current-residents | Live henryford.com page fetched 2026-09-27 (advanced from 2025-26; new interns Lui/Schaible). |
+
+## Program-side graduation lists
+
+- https://web.archive.org/web/20121124020903/http://www.stjohnprovidence.org:80/InnerPage.aspx?PageID=1733 — 1 graduates, 2017–2017
+- https://www.henryford.com/hcp/med-ed/residencies-fellowships/providence/neurosurgery/program-history — 25 graduates, 2012–2025
+
+## Departures, transfers and mid-program joiners
+
+| Resident | Years | Completed here | Departure type | Evidence | Source |
+|---|---|---|---|---|---|
+| Marat Grigorov | 2009–2015 | unknown | unknown | [phase2] LEFT/UNCONFIRMED COMPLETION: 2009 entrant (PY3 2011-12, PY4 2012-13), class of 2015 with Sandquist. PMID 26425399 (Surg Neurol Int, received 2015-04-23) affiliation Dept of Neurosurgery, St. John Providence -> still in program in 2014-15 (PGY-6). Absent 2015-16 roster; NOT on the Apr-2016/Jun-2017 graduates pages nor the Henry Ford alumni list (which list Sandquist 2015). Left at or near the end of the terminal year without being listed as a graduate; NPPES 1063613628 now Neurological Surgery, Springdale AR (not evidence of completion). | https://pubmed.ncbi.nlm.nih.gov/26425399/ |
+| Charles Yourshaw | 2011–2012 | no | switched_specialty | [phase2] SWITCH: PY1 2011-12 (Mar-2012 roster https://web.archive.org/web/20120305234407/http://www.stjohnprovidence.org:80/InnerPage.aspx?PageID=1733); absent Nov-2012; slot taken by Chiu Yuen To (PY2 2012-13). PMID 25552800 (Proc Bayl Univ Med Cent, Jan 2015): Department of Pathology, Baylor University Medical Center at Dallas -> pathology (publication affiliation). | https://pubmed.ncbi.nlm.nih.gov/25552800/ |
+| Bina Kviatkovsky | 2016–2017 | no | switched_specialty | [phase2] SWITCH: PGY-1 2016-17 (Jun-2017 roster https://web.archive.org/web/20170625220421/http://www.stjohnprovidence.org/providencegme/residencyprograms/neurosurgery/currentresidents/); absent 2019-20; Michael Lawless took her class slot (probably Jul 2017, by Oct 2018 at the latest, so end 2017 probable, 2018 possible). PMID 31746769 (received 2019-05) Staten Island University Hospital, Northwell; PMID 32382497 (2020) Department of Internal Medicine, Staten Island University Hospital -> internal medicine (publication affiliation). | https://pubmed.ncbi.nlm.nih.gov/32382497/ |
+| Michael Lawless | 2017–2023 | yes |  | [phase2] JOINER (same person as the 2023 alumni-page row): first on a roster 2019-20 at PGY-4; not on the 2016-17 roster. Navy: PMID 29053083 (J Neurosurg Spine, Oct 2017) Surgery/Clinical Investigation depts (Naval Medical Center Portsmouth) co-authored with Providence resident Lytle; NPPES 1598116774 enumerated 2016-06 (Surgery, Neurological Surgery). At Ascension Providence neurosurgery by Oct 2018 (PMID 30613451) -> joined at PGY-2 in 2017 (probable) or PGY-3 in 2018 after a Navy surgical internship, taking Kviatkovsky's slot. Not a transfer from another neurosurgery residency. | https://pubmed.ncbi.nlm.nih.gov/30613451/ |
+
+## Graduate verification (US News / Doximity / bios)
+
+- Michael Lawless (2017–2023): [phase2] JOINER (same person as the 2023 alumni-page row): first on a roster 2019-20 at PGY-4; not on the 2016-17 roster. Navy: PMID 29053083 (J Neurosurg Spine, Oct 2017) Surgery/Clinical Investigation depts (Naval Medical Center Portsmouth) co-authored with Providence resident Lytle; NPPES 1598116774 enumerated 2016-06 (Surgery, Neurological Surgery). At Ascension Providence neurosurgery by Oct 2018 (PMID 30613451) -> joined at PGY-2 in 2017 (probable) or PGY-3 in 2018 after a Navy surgical internship, taking Kviatkovsky's slot. Not a transfer from another neurosurgery residency. https://pubmed.ncbi.nlm.nih.gov/30613451/

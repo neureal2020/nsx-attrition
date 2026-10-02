@@ -1,0 +1,1177 @@
+[
+ {
+  "key": "100:jar:pisapia",
+  "name": "Jared Pisapia",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists Penn neurosurgery residency 2011-2018 and Penn MD 2011; NYMC faculty search snippet says residency at HUP",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2018 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric/peripheral nerve neurosurgeon, Westchester Medical Center, Valhalla NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2018: Jared Pisapia, MD, MTR, Westchester Medical Center"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jared-pisapia-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 (University of Pennsylvania Health System); ABNS listed"
+   },
+   {
+    "url": "https://www.nymc.edu/som/faculty/pisapia-jared.php",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency at the Hospital of the University of Pennsylvania"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "100:eri:hudgins",
+  "name": "Eric Hudgins",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Penn alumni 2019 entry 'Eric Hudgins, MD, Ph.D, Neurosurgeon, Southern Illinois Healthcare'; SIH provider page and Wake Forest MD/PhD snippets match; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2019 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Southern Illinois Healthcare (per Penn alumni page; later Tower Health, West Reading PA per search results)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2019: Eric Hudgins, MD, Ph.D, Neurosurgeon, Southern Illinois Healthcare"
+   },
+   {
+    "url": "https://www.sih.net/providers/eric-hudgins-md",
+    "type": "search_snippet",
+    "evidence": "Eric Hudgins, MD is a Neurosurgeon with the SIH Medical Group and SIH Brain and Spine Institute in Carbondale, IL"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-eric-hudgins-cbx4z",
+    "type": "search_snippet",
+    "evidence": "board-certified neurosurgeon in West Reading, PA (Tower Health)"
+   }
+  ],
+  "searches_used": 5
+ },
+ {
+  "key": "100:kal:abdullah",
+  "name": "Kalil Abdullah",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Pitt/UPMC bios both state Penn neurosurgery residency; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2019 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon-scientist (brain tumors), Northwell Health (previously UPMC/UTSW)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2019: Kalil Abdullah, MD, Associate Professor, University of Pittsburgh"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kalil-abdullah-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019 (University of Pennsylvania Health System); ABNS listed"
+   },
+   {
+    "url": "https://www.neurosurgery.pitt.edu/people/kalil-abdullah",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency at the University of Pennsylvania"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "100:mat:piazza",
+  "name": "Matthew Piazza",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn residency 2012-2019; matches Penn alumni entry (Loveland, CO)",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2019 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, University of Colorado Health, Loveland CO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2019: Matthew Piazza, MD, University of Colorado Health, Loveland, CO"
+   },
+   {
+    "url": "https://www.doximity.com/pub/matthew-piazza-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019 (University of Pennsylvania Health System); Columbia P&S 2012; ABNS listed"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/matthew-piazza-1065639",
+    "type": "search_snippet",
+    "evidence": "US News listing seen in search results (not opened)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:ker:vaughan",
+  "name": "Kerry Vaughan",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn residency 2013-2020 and Columbia MD 2012; Barrow bio and Penn alumni match",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2020 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor, Barrow Global Division, Barrow Neurological Institute, Phoenix AZ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2020: Kerry Vaughan, MD, Assistant Professor, Barrow"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kerry-vaughan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 (Penn); Fellowship SickKids 2020-2021; Barrow Fellowship 2023-2024; ABNS listed"
+   },
+   {
+    "url": "https://www.barrowneuro.org/about/news-and-articles/doctors/barrow-welcomes-inaugural-franke-global-neurosurgery-fellow/",
+    "type": "news",
+    "evidence": "Barrow Franke Global Neurosurgery Fellow"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:pet:madsen",
+  "name": "Peter Madsen",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn residency 2013-2020, Penn MD 2013; Penn faculty snippet: residency HUP 2013-2019, chief 2019-2020",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2020 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor, Director Neuro-oncology and Translational Research, CHOP",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2020: Peter Madsen, MD, Assistant Professor, CHOP"
+   },
+   {
+    "url": "https://www.doximity.com/pub/peter-madsen-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 (Penn); Penn MD 2013; ABNS listed"
+   },
+   {
+    "url": "https://www.med.upenn.edu/apps/faculty/index.php/g325/p8205977",
+    "type": "bio",
+    "evidence": "residency in the Department of Neurosurgery at Hospital of the University of Pennsylvania 2013-2019; Chief Resident 2019-2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:viv:buch",
+  "name": "Vivek Buch",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn residency 2013-2020; Stanford profile snippet: residency at Penn Neurosurgery 2020",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2020 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurosurgery and Bioengineering, Stanford University",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2020: Vivek Buch, MD, Assistant Professor, Stanford"
+   },
+   {
+    "url": "https://www.doximity.com/pub/vivek-buch-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 (Penn); Brown MD 2013; ABNS listed"
+   },
+   {
+    "url": "https://profiles.stanford.edu/vivek-buch",
+    "type": "bio",
+    "evidence": "completed his residency at the University of Pennsylvania Department of Neurosurgery in 2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:pat:sullivan",
+  "name": "Patti Zadnik Sullivan",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: JHU 2014, Providence RI neurosurgery; Brown Health bio search snippet: residency in neurosurgery at Univ of Pennsylvania then Brown spine fellowship",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2021 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor, Director Center for Spine Tumor and Chordoma Research, Brown/Rhode Island Hospital",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2021: Patricia Zadnik Sullivan, MD, Assistant Professor, Brown"
+   },
+   {
+    "url": "https://www.doximity.com/pub/patricia-sullivan-md-a6b2ce32",
+    "type": "doximity",
+    "evidence": "Johns Hopkins Class of 2014; Providence RI Neurosurgery; residency and ABNS not listed on public page"
+   },
+   {
+    "url": "https://www.brownhealth.org/providers/patricia-leigh-zadnik-sullivan-md",
+    "type": "bio",
+    "evidence": "completed a residency in neurosurgery at the University of Pennsylvania ... fellowship in reconstructive spine and spinal oncology at Rhode Island Hospital"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "100:rya:salinas",
+  "name": "Ryan Salinas",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn 2014-2021, UCSF 2014; Penn alumni 2021 Renton WA",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2021 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Valley Medical Center, Renton WA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2021: Ryan D. Salinas, MD, UW Medicine - Valley Medical Center, Renton WA"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ryan-salinas-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 (Penn); UCSF MD 2014; ABNS listed"
+   },
+   {
+    "url": "https://www.valleymed.org/find-a-provider/s/ryan-d-salinas",
+    "type": "bio",
+    "evidence": "Valley Medical Center provider page"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:tra:flanders",
+  "name": "Tracy Ma Flanders",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn 2014-2021, NYU MD 2014; Penn Medicine provider page; Penn alumni 2021",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2021 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Co-Director Prenatal and Neonatal Neurosurgery / Asst Prof, CHOP",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2021: Tracy Ma Flanders, MD, CHOP"
+   },
+   {
+    "url": "https://www.doximity.com/pub/tracy-flanders-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 (Penn); CHOP Neurological Surgery 2021-2022; NYU MD 2014"
+   },
+   {
+    "url": "https://www.pennmedicine.org/providers/tracy-flanders",
+    "type": "bio",
+    "evidence": "Penn Medicine provider profile (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:and:yang",
+  "name": "Andrew Yang",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn 2015-2022 with NYU 2015; Barrow bio: NYU MD, Penn residency, Emory fellowship; Penn alumni 2022 Barrow",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2022 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Cranial neurosurgeon, Director of Epilepsy Surgery, Barrow Neurological Institute",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2022: Andrew I. Yang, MD, MS, Barrow"
+   },
+   {
+    "url": "https://www.doximity.com/pub/andrew-yang-md-3c567f95",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 (Penn); NYU Class of 2015; Phoenix AZ neurosurgeon"
+   },
+   {
+    "url": "https://www.barrowneuro.org/person/andrew-yang-md/",
+    "type": "bio",
+    "evidence": "neurosurgery residency at the University of Pennsylvania ... fellowship in stereotactic, functional, and epilepsy neurosurgery at Emory"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:fre:hitti",
+  "name": "Frederick Hitti",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn 2015-2022; UTSW bio matches",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2022 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurosurgery and Psychiatry, UT Southwestern",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2022: Frederick L. Hitti, MD, PhD, UT Southwestern"
+   },
+   {
+    "url": "https://www.doximity.com/pub/frederick-hitti-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 (Penn); Columbia MD/PhD 2015; ABNS listed"
+   },
+   {
+    "url": "https://utswmed.org/doctors/frederick-hitti/",
+    "type": "bio",
+    "evidence": "residency in neurosurgery and fellowship in functional neurosurgery at the University of Pennsylvania"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:you:su",
+  "name": "YouRong Sophie Su",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Hackensack bio snippet: neurosurgery residency at Penn (Chief Resident), Stanford MD; Penn alumni 2022 'Endovascular Neurosurgeon, Hackensack Meridian Health'",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2022 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Endovascular/cerebrovascular neurosurgeon, Hackensack Meridian Jersey Shore University Medical Center, Neptune NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2022: YouRong Sophie Su, MD, Endovascular Neurosurgeon, Hackensack Meridian Health"
+   },
+   {
+    "url": "https://www.getcare.hackensackmeridianhealth.org/provider/yourong-sophie-su/6796932",
+    "type": "bio",
+    "evidence": "completed a rigorous neurosurgery residency at the University of Pennsylvania ... Chief Resident (search snippet)"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-sophie-yourong-xylwskm",
+    "type": "search_snippet",
+    "evidence": "Endovascular/open cerebrovascular fellowship Baptist Neurological Institute, Jacksonville FL"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "100:ash:ramayya",
+  "name": "Ashwin Ramayya",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Stanford profile: MD/PhD Penn, Penn neurosurgery residency and stereotactic/functional fellowship; Penn alumni 2023 Stanford",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2023 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurosurgery, Stanford University",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2023: Ashwin Ramayya, MD, PhD, Assistant Professor, Stanford"
+   },
+   {
+    "url": "https://profiles.stanford.edu/ashwin-ramayya",
+    "type": "bio",
+    "evidence": "obtained his MD and PhD from the University of Pennsylvania, where he also completed his neurosurgery residency"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "100:sau:sinha",
+  "name": "Saurabh Sinha",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Penn alumni 2023 'Saurabh Sinha, MD, Attending Neurosurgeon, New England Neurological Associates'; Healthgrades/WebMD: Rutgers RWJ MD 2016, residency HUP, ABNS certification eligible; namesake neurologist excluded",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2023 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Attending neurosurgeon, New England Neurological Associates (Tufts Medicine), Lawrence MA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2023: Saurabh Sinha, MD, Attending Neurosurgeon, New England Neurological Associates"
+   },
+   {
+    "url": "https://www.neneuro.com/physicians/neurosurgery/sinha-saurabh-m-d/",
+    "type": "bio",
+    "evidence": "Tufts/NENA neurosurgery physician page (search result)"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-saurabh-sinha-xymtbc9",
+    "type": "search_snippet",
+    "evidence": "graduated from Rutgers Robert Wood Johnson Medical School in 2016 ... residency at Hospital Of The University Of Pennsylvania"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "100:sve:kvint",
+  "name": "Svetlana Kvint",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Penn alumni 2023 'Svetlana Kvint, MD, Neuroendovascular Surgeon, Bronson Medical Group'; Bronson bio snippet: NYU MD, neurosurgery residency 2023 at HUP, neuroendovascular fellowship NYU 2024; Doximity NYU 2016 (matches 2016 start)",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2023 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neuroendovascular surgeon, Bronson Medical Group, Kalamazoo MI (WMed)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2023: Svetlana Kvint, MD, Neuroendovascular Surgeon, Bronson Medical Group"
+   },
+   {
+    "url": "https://www.doximity.com/pub/svetlana-kvint-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Kalamazoo MI; NYU Class of 2016; no residency listed, no ABNS (page shows endovascular publications). Second Doximity URL (-82b44f12, 'Neurosurgery') was not public"
+   },
+   {
+    "url": "https://www.bronsonhealth.com/doctors/svetlana-kvint/",
+    "type": "search_snippet",
+    "evidence": "completed her Neurosurgery Residency in 2023 at the Hospital of the University of Pennsylvania and her Interventional Neuroradiology/Endovascular Fellowship in 2024 at NYU Langone Health"
+   },
+   {
+    "url": "https://www.linkedin.com/in/svetlana-kvint-644375119/",
+    "type": "search_snippet",
+    "evidence": "Neuroendovascular Fellow - NYU Langone Health"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "100:mic:spadola",
+  "name": "Michael Spadola",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn neurosurgery residency + Penn MD 2017; Penn faculty pages; Penn alumni 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2024 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor / spine neurosurgeon, Penn Medicine (Shore Physicians Group, NJ)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2024: Michael F. Spadola, MD, Assistant Professor, University of Pennsylvania"
+   },
+   {
+    "url": "https://www.doximity.com/pub/michael-spadola-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery (Penn), no dates; Penn MD Class of 2017; 'Resident Physician' title (page stale)"
+   },
+   {
+    "url": "https://www.pennmedicine.org/providers/michael-spadola",
+    "type": "bio",
+    "evidence": "Penn Medicine neurosurgeon, complex and minimally invasive spine surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:rac:blue",
+  "name": "Rachel Blue",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn 2017-2024; Penn Medicine provider page; Penn alumni 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2024 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurosurgery, University of Pennsylvania",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2024: Rachel E. Blue, MD, Assistant Professor, University of Pennsylvania"
+   },
+   {
+    "url": "https://www.doximity.com/pub/rachel-blue-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 (Penn); Wellington fellowship 2022-2023; Univ of Minnesota 2017"
+   },
+   {
+    "url": "https://www.pennmedicine.org/providers/rachel-blue",
+    "type": "bio",
+    "evidence": "Rachel Elizabeth Blue, MD, Penn Medicine"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:ste:miranda",
+  "name": "Stephen Miranda",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Mount Sinai profile: Rochester MD, neurosurgical residency at HUP incl. peripheral nerve fellowship, MS Health Policy Research Penn; Penn alumni 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2024 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor and Director of Peripheral Nerve, Icahn School of Medicine at Mount Sinai",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2024: Stephen P. Miranda, MD, MS, Assistant Professor, Mount Sinai"
+   },
+   {
+    "url": "https://profiles.mountsinai.org/stephen-miranda",
+    "type": "bio",
+    "evidence": "completed his neurosurgical residency at the Hospital of the University of Pennsylvania, including a fellowship in peripheral nerve surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "100:con:wathen",
+  "name": "Connor Wathen",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn neurosurgery resident + Cleveland Clinic 2018; Penn provider page; Brown neurosurgery faculty page; Penn alumni 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2025 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor, Neurosurgery (Brown University Health, Providence RI per Brown pages; Penn alumni page lists Assistant Professor, Penn)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2025: Connor A. Wathen, MD, Assistant Professor, University of Pennsylvania"
+   },
+   {
+    "url": "https://www.doximity.com/pub/connor-wathen-md",
+    "type": "doximity",
+    "evidence": "Resident Physician / Neurosurgery Resident, Philadelphia (stale); Cleveland Clinic Lerner Class of 2018; PA license 2022-2026, RI license 2024-2026; no residency dates"
+   },
+   {
+    "url": "https://www.pennmedicine.org/providers/connor-wathen",
+    "type": "bio",
+    "evidence": "Connor Andrew Wathen, MD, Penn Medicine"
+   },
+   {
+    "url": "https://neurosurgery.med.brown.edu/people/connor-wathen-md",
+    "type": "bio",
+    "evidence": "Connor Wathen, MD, Brown Neurosurgery (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:mar:punchak",
+  "name": "Maria Punchak",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity UCLA 2017 (matches PGY-1 2018), Texas Children's; Penn alumni 2025 'Pediatric Neurological Surgery Fellow, Texas Children's Hospital'",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2025 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Pediatric neurosurgery fellow / attending, Texas Children's Hospital, Houston TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2025: Maria A. Punchak, MD MSc, Pediatric Neurological Surgery Fellow, Texas Children's Hospital"
+   },
+   {
+    "url": "https://www.doximity.com/pub/maria-punchak-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Houston TX (Texas Children's); UCLA Class of 2017; residency not listed, no ABNS"
+   },
+   {
+    "url": "https://x.com/mariapunchak_md/status/1847289261256491375",
+    "type": "news",
+    "evidence": "Maria Punchak X post tagging @PennNSG (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:sab:heman-ackah",
+  "name": "Sabrina Heman-Ackah",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn 2018-2025; Penn alumni 2025 Harvard skull base fellow",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2025 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Skull base fellow, Harvard (Boston MA)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2025: Sabrina M. Heman-Ackah, MD, DPhil, MSE, Skull Base Fellow, Harvard University"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sabrina-heman-ackah-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025 (Penn); UNC 2018; Boston MA"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-sabrina-heman-ackah-xyntk2g",
+    "type": "search_snippet",
+    "evidence": "neurosurgeon in Boston, MA; UNC 2018"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:joh:arena",
+  "name": "John D. Arena",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn 2019-2026, Penn MD 2019; Penn Medicine provider page; Penn alumni 2026",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2026 graduate with post-residency position; other sources agree on Penn neurosurgery residency",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor, University of Pennsylvania (just graduated 2026)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2026: John Arena, MD, Assistant Professor, University of Pennsylvania"
+   },
+   {
+    "url": "https://www.doximity.com/pub/john-arena-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026 (Penn); Penn MD 2019"
+   },
+   {
+    "url": "https://www.pennmedicine.org/providers/john-arena",
+    "type": "bio",
+    "evidence": "John Daniel Arena, MD, Penn Medicine"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "100:sus:howard",
+  "name": "Susanna D. Howard",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Search snippets: UChicago Pritzker 2019, neurosurgery resident at Penn; Penn alumni 2026 entry",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2026 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Stereotactic and Functional Neurosurgery Fellow, University of Pennsylvania (just graduated 2026)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2026: Susanna Howard, MD, Stereotactic and Functional Neurosurgery Fellow, University of Pennsylvania"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/susanna-howard-qv36fn",
+    "type": "search_snippet",
+    "evidence": "Dr. Susanna D. Howard, MD, Philadelphia PA, Neurosurgeon"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/susanna-howard-f4037658-82ec-486f-9166-0f1758646399-overview",
+    "type": "search_snippet",
+    "evidence": "graduated from University of Chicago Pritzker 2019; resident physician in neurosurgery at Penn"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "100:yoh:ghenbot",
+  "name": "Yohannes G. Ghenbot",
+  "program_id": 100,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Penn MD 2019, now Providence RI; Brown Health provider page; Penn alumni 2026 'Complex Spine Fellow, Brown University'",
+  "residency_stated": [
+   {
+    "institution": "University of Pennsylvania Health System",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed on Penn 'Residency Alumni' page as 2026 graduate with post-residency position; other sources agree on Penn neurosurgery residency (Doximity years not stated; start inferred from input)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Complex spine fellow, Brown University Health, Providence RI (just graduated 2026)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/departments-and-centers/neurosurgery/education-and-training/residency/neurosurgery-residency-alumni",
+    "type": "program_page",
+    "evidence": "2026: Yohannes Ghenbot, MD, Complex Spine Fellow, Brown University"
+   },
+   {
+    "url": "https://www.doximity.com/pub/yohannes-ghenbot-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Providence RI (Brown); Penn Class of 2019 MD; no residency dates listed"
+   },
+   {
+    "url": "https://www.brownhealth.org/providers/yohannes-ghiorghis-ghenbot-md",
+    "type": "bio",
+    "evidence": "Yohannes Ghiorghis Ghenbot, MD, Brown University Health (search result)"
+   }
+  ],
+  "searches_used": 1
+ }
+]

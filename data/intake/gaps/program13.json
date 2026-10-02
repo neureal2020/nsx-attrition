@@ -1,0 +1,149 @@
+{
+ "program_id": 13,
+ "name": "Cleveland Clinic Foundation/Florida Weston Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2025,
+ "hosts": [
+  {
+   "url": "https://my.clevelandclinic.org/florida/medical-professionals/education/graduate-medical-education/neurosurgery-residency (tabs incl. Current Residents)",
+   "from": "2025-06 (first capture, pre-launch, no residents section)",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012..2024-2025": "Program did not exist: ACGME initial accreditation effective 2025-07-01 (programs table); residency URL first archived 2025-06-15 with no Current Residents section; CCF GME prefix CDX (my.clevelandclinic.org/florida/medical-professionals/education, /florida/education) shows no neurosurgery residency page before 2025 (only skull-base and spine fellowships).",
+  "2025-2026": "Wayback 2025-11-12 (identical lists 2026-03-14, 2026-06-13): Ko PGY-1, Alomari PGY-2.",
+  "2026-2027": "Live page 2026-09-27: Roe PGY-1, Ko PGY-2, Alomari PGY-3."
+ },
+ "alumni_page": null,
+ "departures": [],
+ "joiners": [
+  {
+   "name": "Safwan Alomari",
+   "first_ay": "2025-2026",
+   "first_pgy": 2,
+   "prior": "Johns Hopkins Dept of Neurosurgery postdoctoral research fellow (HEPIUS lab, Wayback team page 2022-05..2024-05; past member by 2025-06); NPPES trainee NPI 2023-04 at JHU Neurosurgery; earlier intern King Abdullah Univ Hospital Jordan (2019-20) and AUB Division of Neurosurgery (2020-21). No prior ACGME neurosurgery residency found (not on JHU p30 rosters 2023-26); where his PGY-1 credit came from is unresolved.",
+   "training_history_id": 3433
+  }
+ ],
+ "residents_2011plus": 3,
+ "adjudication_summary": {
+  "IN TRAINING": 3
+ },
+ "problems": "Europe PMC returned 503. Alomari's PGY-1 year source unresolved (no WebSearch/Doximity allowed in phase 2). No reconstructed or missing years.",
+ "terminal_pgy_by_entry_year": {
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "7-year program from launch (PGY-6 chief year + PGY-7 elective/enfolded-fellowship/research year that the page calls the final year of residency; residency page 2025-11 onward). '2024' = cohort-equivalent entry year of Alomari (joined at PGY-2 in 2025-26). No graduates before 2031-2032 (Alomari expected 2031-06 as PGY-7 in 2030-31).",
+ "year_status": {
+  "2011-2012": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2012-2013": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2013-2014": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2014-2015": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2015-2016": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2016-2017": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2017-2018": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2018-2019": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2019-2020": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2020-2021": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2021-2022": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2022-2023": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2023-2024": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2024-2025": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist (ACGME initial accreditation effective 2025-07-01)"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete: 2 residents (Ko PGY-1 = the 1/yr match; Alomari PGY-2 founding joiner); identical in Wayback 2025-11/2026-03/2026-06 and Common Crawl 2025-47/2026-12/2026-34; no other PGY groups possible in year 1"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete: live 2026-09-27 lists PGY-1 Roe, PGY-2 Ko, PGY-3 Alomari = 1 per class, matches complement; all 2025-26 residents carried forward"
+  }
+ },
+ "first_class_year_confirmed": "2025-2026: June 2025 capture of the residency page has no Current Residents section; programs table says initial accreditation 07/01/2025; CCF Florida GME prefix CDX (2024-2026) shows no earlier neurosurgery residency page; first PGY-1 Ko (2025).",
+ "phase2": {
+  "searched": [
+   "Wayback CDX (digest) of the residency URL since 2024: 4 versions (2025-06 no residents; 2025-11, 2026-03, 2026-06 same 2 names) - all re-parsed incl. inline/Chiefs/PGY7 patterns",
+   "Common Crawl, fixed filter, all 21 crawls 2025-2026 over my.clevelandclinic.org/florida/.../graduate-medical-education/neuro* (no failures): residency page in CC-MAIN-2025-26/2025-47/2026-12/2026-34, same lists",
+   "Wayback CDX prefix of CCF Florida GME (2024+): no other neurosurgery-resident page; GS/IM/neurology residency and skull-base/spine fellowship pages (all digests 2024-2026) - no Alomari",
+   "PubMed author search Alomari S 2019-2026 (affiliations), OpenAlex author profiles and raw affiliations 2024+",
+   "NPPES API for NPI 1639874480",
+   "JHU HEPIUS lab team pages (Wayback 2022-2025), JHU neurosurgery rosters (p30) 2023-26, JHU general surgery PGY-1 and prelim pages 2023-2025",
+   "AUB neurosurgery pages (Wayback CDX 2019-2022): none archived",
+   "Europe PMC full-text: 503 (unavailable)"
+  ],
+  "found": [
+   "Alomari prior affiliation: JHU Neurosurgery research fellow 2021-2024 (HEPIUS team page), recorded as transfer-in row th_id 3433",
+   "CC-MAIN-2026-34 (2026-08-13) capture of the roster (stale 2025-26 list)"
+  ],
+  "remaining": [
+   "Institution of Alomari's PGY-1 (or the basis for PGY-1 credit) not identified; low significance: he is a founding joiner, not a departure from a tracked program"
+  ]
+ }
+}

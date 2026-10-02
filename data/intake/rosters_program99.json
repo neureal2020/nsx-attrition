@@ -1,0 +1,923 @@
+[
+ {
+  "source_url": "https://web.archive.org/web/20120621060245/http://www.oumedicine.com/neurosurgery/academic-information/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2012-06-21",
+  "academic_year": "2011-2012",
+  "note": "oumedicine.com Current Residents (June 2012, before July turnover). Page prints NO PGY labels; PGY derived from the 2013-14 roster (-2) and alumni graduation year (1 resident/yr, 7-yr program per residency page).",
+  "rows": [
+   {
+    "name": "Mason Andrews",
+    "pgy": 7,
+    "context": "'Mason Andrews M.D.' 'Chief resident, Presbyterian Service'; alumni grad 2012 -> PGY7 (derived)"
+   },
+   {
+    "name": "Sam Safavi-Abbasi",
+    "pgy": 6,
+    "context": "'Sam Safavi-Abbasi M.D., Ph.D.' 'Chief Resident, Children/VA Service'; alumni grad 2013 -> PGY6 (derived)"
+   },
+   {
+    "name": "Kevin Cooper",
+    "pgy": 4,
+    "context": "'Kevin Cooper M.D.' 'Elective'; PGY6 in 2013-14 -> PGY4 (derived)"
+   },
+   {
+    "name": "Ahmed Cheema",
+    "pgy": 3,
+    "context": "'Ahmed Cheema M.D.' 'Elective/Children's/VA Service'; PGY5 in 2013-14 -> PGY3 (derived)"
+   },
+   {
+    "name": "Pal Randhawa",
+    "pgy": 3,
+    "context": "'Pal S. Randhawa M.D.' 'Children's/VA/Elective'; PGY5 in 2013-14 -> PGY3 (derived)"
+   },
+   {
+    "name": "Chad Glenn",
+    "pgy": 2,
+    "context": "'Chad Glenn, M.D.' 'Presbyterian Service'; PGY4 in 2013-14 -> PGY2 (derived)"
+   },
+   {
+    "name": "Andrew Conner",
+    "pgy": 1,
+    "context": "'Andrew Conner' 'General Surgery/Neurosurgery'; PGY3 in 2013-14 -> PGY1 (derived)"
+   }
+  ]
+ },
+ {
+  "source_url": "reconstructed:2012-2013",
+  "source_type": "manual",
+  "captured_at": "2013-06-30",
+  "academic_year": "2012-2013",
+  "note": "RECONSTRUCTED: no capture of the roster between 2012-06-25 and 2013-10-01 (Wayback digests; Common Crawl 2012-2013 found no roster URL). People bracketed by 2011-12 and 2013-14 or confirmed by alumni graduation year. Phase 2: CC-MAIN-2012 retried OK (only /neurosurgery home + body.cfm pages, no roster).",
+  "rows": [
+   {
+    "name": "Sam Safavi-Abbasi",
+    "pgy": 7,
+    "reconstructed": true,
+    "context": "PGY6-equivalent chief in 2011-12; alumni graduation 2013"
+   },
+   {
+    "name": "Kevin Cooper",
+    "pgy": 5,
+    "reconstructed": true,
+    "context": "PGY4 (derived) 2011-12, PGY6 2013-14"
+   },
+   {
+    "name": "Ahmed Cheema",
+    "pgy": 4,
+    "reconstructed": true,
+    "context": "PGY3 (derived) 2011-12, PGY5 2013-14"
+   },
+   {
+    "name": "Pal Randhawa",
+    "pgy": 4,
+    "reconstructed": true,
+    "context": "PGY3 (derived) 2011-12, PGY5 2013-14"
+   },
+   {
+    "name": "Chad Glenn",
+    "pgy": 3,
+    "reconstructed": true,
+    "context": "PGY2 (derived) 2011-12, PGY4 2013-14"
+   },
+   {
+    "name": "Andrew Conner",
+    "pgy": 2,
+    "reconstructed": true,
+    "context": "PGY1 (derived) 2011-12, PGY3 2013-14"
+   },
+   {
+    "name": "Allison Strickland",
+    "pgy": 1,
+    "reconstructed": true,
+    "context": "PGY2 in 2013-14; alumni graduation 2019 (7-yr) -> PGY1 2012-13; NPPES NPI enumerated 2012-06-05"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20131001221708/http://www.oumedicine.com/neurosurgery/academic-information/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2013-10-01",
+  "academic_year": "2013-2014",
+  "note": "Only capture of AY2013-14 (Oct 2013). No PGY1 and no PGY7 listed: Smitherman (alumni grad 2020, PGY3 in 2015-16) is missing, so the intern was not yet posted (the page also lacked the intern in Aug 2015). INCOMPLETE for PGY1. Phase 2: intern Adam Smitherman added as reconstructed PGY-1 (NPPES enumeration 2013-05-16 in Oklahoma City + PGY3 2015-16 + alumni grad 2020).",
+  "rows": [
+   {
+    "name": "Kevin Cooper",
+    "pgy": 6,
+    "context": "'James Kevin Cooper, MD' followed by 'PGY 6'"
+   },
+   {
+    "name": "Pal Randhawa",
+    "pgy": 5,
+    "context": "'Pal Randhawa, MD' followed by 'PGY 5'"
+   },
+   {
+    "name": "Ahmed Cheema",
+    "pgy": 5,
+    "context": "'Ahmed Abdal Cheema, MD' followed by 'PGY 5'"
+   },
+   {
+    "name": "Chad Glenn",
+    "pgy": 4,
+    "context": "'Chad A.Glenn, MD' followed by 'PGY 4'"
+   },
+   {
+    "name": "Andrew Conner",
+    "pgy": 3,
+    "context": "'Andrew K.P. Conner, MD' followed by 'PGY 3'"
+   },
+   {
+    "name": "Allison Strickland",
+    "pgy": 2,
+    "context": "'Allison E. Strickland, MD' followed by 'PGY 2'"
+   },
+   {
+    "name": "Adam Smitherman",
+    "pgy": 1,
+    "reconstructed": true,
+    "context": "Not printed on the 2013-10-01 capture (site posted interns late). Entry 2013 confirmed: NPPES NPI 1962848010 enumerated 2013-05-16 (Neurological Surgery, Oklahoma City); PGY3 on 2015-16 roster; alumni graduation 2020 (7-yr program)."
+   }
+  ]
+ },
+ {
+  "source_url": "reconstructed:2014-2015",
+  "source_type": "manual",
+  "captured_at": "2015-06-30",
+  "academic_year": "2014-2015",
+  "note": "RECONSTRUCTED: no capture between 2013-10-01 and 2015-08-24 (Wayback digests); Common Crawl 2014-2015 held only non-roster oumedicine.com/neurosurgery URLs. Randhawa (PGY5 2013-14) is NOT reconstructed: absent from 2015-16 and from the alumni list. Phase 2: Wayback (all hosts, link audit), Common Crawl (all 2014-2015 crawls incl. retried 2014-42/2014-49: homepage only) found no roster. Program took 1/yr (residency page 2014-08-21). Randhawa's exit (after 2013-14 PGY5; at Colorado PGY4 from 2015-16) cannot be dated within 2014-15.",
+  "rows": [
+   {
+    "name": "Kevin Cooper",
+    "pgy": 7,
+    "reconstructed": true,
+    "context": "PGY6 2013-14; alumni graduation 2015"
+   },
+   {
+    "name": "Ahmed Cheema",
+    "pgy": 6,
+    "reconstructed": true,
+    "context": "PGY5 2013-14, PGY7 2015-16"
+   },
+   {
+    "name": "Chad Glenn",
+    "pgy": 5,
+    "reconstructed": true,
+    "context": "PGY4 2013-14, PGY6 2015-16"
+   },
+   {
+    "name": "Andrew Conner",
+    "pgy": 4,
+    "reconstructed": true,
+    "context": "PGY3 2013-14, PGY5 2015-16"
+   },
+   {
+    "name": "Allison Strickland",
+    "pgy": 3,
+    "reconstructed": true,
+    "context": "PGY2 2013-14, PGY4 2015-16"
+   },
+   {
+    "name": "Adam Smitherman",
+    "pgy": 2,
+    "reconstructed": true,
+    "context": "PGY3 2015-16; alumni graduation 2020"
+   },
+   {
+    "name": "Hurtis Tullos",
+    "pgy": 1,
+    "reconstructed": true,
+    "context": "PGY2 2015-16; alumni graduation 2021; NPPES NPI enumerated 2014-06-27 (Neurological Surgery)"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20151124064937/http://www.oumedicine.com/neurosurgery/academic-information/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2015-11-24",
+  "academic_year": "2015-2016",
+  "note": "Nov 2015 capture (Aug 2015 capture identical but lacked intern Carter). This exact list stayed unchanged through Aug 2017 (stale).",
+  "rows": [
+   {
+    "name": "Ahmed Cheema",
+    "pgy": 7,
+    "context": "'Ahmed Abdal Cheema, MD' followed by 'PGY 7'"
+   },
+   {
+    "name": "Chad Glenn",
+    "pgy": 6,
+    "context": "'Chad A.Glenn, MD' followed by 'PGY 6'"
+   },
+   {
+    "name": "Andrew Conner",
+    "pgy": 5,
+    "context": "'Andrew K.P. Conner, MD' followed by 'PGY 5'"
+   },
+   {
+    "name": "Allison Strickland",
+    "pgy": 4,
+    "context": "'Allison E. Strickland, MD' followed by 'PGY 4'"
+   },
+   {
+    "name": "Adam Smitherman",
+    "pgy": 3,
+    "context": "'Adam D. Smitherman, MD' followed by 'PGY 3'"
+   },
+   {
+    "name": "Hurtis Tullos",
+    "pgy": 2,
+    "context": "'Hurtis Tullos, M.D.' followed by 'PGY 2'"
+   },
+   {
+    "name": "Lacey Carter",
+    "pgy": 1,
+    "context": "'Lacey Carter, M.D.' followed by 'PGY 1'"
+   }
+  ]
+ },
+ {
+  "source_url": "reconstructed:2016-2017",
+  "source_type": "manual",
+  "captured_at": "2017-06-30",
+  "academic_year": "2016-2017",
+  "note": "RECONSTRUCTED: the roster page (oumedicine.com, moved to /department-of-neurosurgery/ in Aug 2016) kept showing the unchanged 2015-16 list in every capture 2016-02..2017-08 (stale; Cheema still PGY7 although alumni grad 2016). Everyone below is bracketed by 2015-16 and 2017-18. Phase 2: CC-MAIN-2016-40..2017-09 retried (department-of-neurosurgery prefix: home page only); faculty-and-staff and residency pages 2016-11/2017-02 carry no names. Residency page (2016-11) says the program alternates 1 and 2 per year; 2016 class = 1 (Palejwala), 2017 class = 2.",
+  "rows": [
+   {
+    "name": "Chad Glenn",
+    "pgy": 7,
+    "reconstructed": true,
+    "context": "PGY6 2015-16; alumni graduation 2017"
+   },
+   {
+    "name": "Andrew Conner",
+    "pgy": 6,
+    "reconstructed": true,
+    "context": "PGY5 2015-16, PGY7 2017-18"
+   },
+   {
+    "name": "Allison Strickland",
+    "pgy": 5,
+    "reconstructed": true,
+    "context": "PGY4 2015-16, PGY6 2017-18"
+   },
+   {
+    "name": "Adam Smitherman",
+    "pgy": 4,
+    "reconstructed": true,
+    "context": "PGY3 2015-16, PGY5 2017-18"
+   },
+   {
+    "name": "Hurtis Tullos",
+    "pgy": 3,
+    "reconstructed": true,
+    "context": "PGY2 2015-16, PGY4 2017-18"
+   },
+   {
+    "name": "Lacey Carter",
+    "pgy": 2,
+    "reconstructed": true,
+    "context": "PGY1 2015-16, PGY3 2017-18"
+   },
+   {
+    "name": "Ali Palejwala",
+    "pgy": 1,
+    "reconstructed": true,
+    "context": "PGY2 2017-18; alumni graduation 2023; NPPES NPI enumerated 2016-05-25"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20171119083500/https://www.oumedicine.com/department-of-neurosurgery/academic-information/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2017-11-19",
+  "academic_year": "2017-2018",
+  "note": "Nov 2017; new CMS layout, first update since 2015-16.",
+  "rows": [
+   {
+    "name": "Andrew Conner",
+    "pgy": 7,
+    "context": "'Andrew K.P. Conner, MD' followed by 'PGY 7'"
+   },
+   {
+    "name": "Allison Strickland",
+    "pgy": 6,
+    "context": "'Allison E. Williams, MD' followed by 'PGY 6'"
+   },
+   {
+    "name": "Adam Smitherman",
+    "pgy": 5,
+    "context": "'Adam D. Smitherman, MD' followed by 'PGY 5'"
+   },
+   {
+    "name": "Hurtis Tullos",
+    "pgy": 4,
+    "context": "'Hurtis Tullos, M.D.' followed by 'PGY 4'"
+   },
+   {
+    "name": "Lacey Carter",
+    "pgy": 3,
+    "context": "'Lacey Carter, M.D.' followed by 'PGY 3'"
+   },
+   {
+    "name": "Ali Palejwala",
+    "pgy": 2,
+    "context": "'Ali Palejwala, M.D.' followed by 'PGY 2'"
+   },
+   {
+    "name": "Griffin Ernst",
+    "pgy": 1,
+    "context": "'Griffin Ernst, M.D.' followed by 'PGY 1'"
+   },
+   {
+    "name": "Panayiotis Pelargos",
+    "pgy": 1,
+    "context": "'Panayiotis Pelargos, M.D.' followed by 'PGY 1'"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20181120082902/https://www.oumedicine.com/department-of-neurosurgery/academic-information/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2018-11-20",
+  "academic_year": "2018-2019",
+  "note": "Nov 2018.",
+  "rows": [
+   {
+    "name": "Allison Strickland",
+    "pgy": 7,
+    "context": "'Allison E. Strickland, MD' followed by 'PGY 7'"
+   },
+   {
+    "name": "Adam Smitherman",
+    "pgy": 6,
+    "context": "'Adam D. Smitherman, MD' followed by 'PGY 6'"
+   },
+   {
+    "name": "Hurtis Tullos",
+    "pgy": 5,
+    "context": "'Hurtis Tullos, M.D.' followed by 'PGY 5'"
+   },
+   {
+    "name": "Lacey Carter",
+    "pgy": 4,
+    "context": "'Lacey Carter, M.D.' followed by 'PGY 4'"
+   },
+   {
+    "name": "Ali Palejwala",
+    "pgy": 3,
+    "context": "'Ali Palejwala, M.D.' followed by 'PGY 3'"
+   },
+   {
+    "name": "Griffin Ernst",
+    "pgy": 2,
+    "context": "'Griffin Ernst, M.D.' followed by 'PGY 2'"
+   },
+   {
+    "name": "Panayiotis Pelargos",
+    "pgy": 2,
+    "context": "'Panayiotis Pelargos, M.D.' followed by 'PGY 2'"
+   },
+   {
+    "name": "Helen Shi",
+    "pgy": 1,
+    "context": "'Helen H. Shi, MD' followed by 'PGY 1'"
+   },
+   {
+    "name": "Lance Villeneuve",
+    "pgy": 1,
+    "context": "'Lance M. Villeneuve, M.D.' followed by 'PGY 1'"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20191119045056/https://www.oumedicine.com/department-of-neurosurgery/academic-information/residency/current-residents",
+  "source_type": "wayback",
+  "captured_at": "2019-11-19",
+  "academic_year": "2019-2020",
+  "note": "Nov 2019 (path moved under /residency/).",
+  "rows": [
+   {
+    "name": "Adam Smitherman",
+    "pgy": 7,
+    "context": "'Adam D. Smitherman, M.D.' followed by 'PGY 7'"
+   },
+   {
+    "name": "Hurtis Tullos",
+    "pgy": 6,
+    "context": "'Hurtis J. Tullos, M.D.' followed by 'PGY 6'"
+   },
+   {
+    "name": "Lacey Carter",
+    "pgy": 5,
+    "context": "'Lacey M. Carter, M.D.' followed by 'PGY 5'"
+   },
+   {
+    "name": "Ali Palejwala",
+    "pgy": 4,
+    "context": "'Ali H. Palejwala, M.D.' followed by 'PGY 4'"
+   },
+   {
+    "name": "Griffin Ernst",
+    "pgy": 3,
+    "context": "'Griffin L. Ernst, M.D.' followed by 'PGY 3'"
+   },
+   {
+    "name": "Panayiotis Pelargos",
+    "pgy": 3,
+    "context": "'Panayiotis E. Pelargos, M.D., M.S.' followed by 'PGY 3'"
+   },
+   {
+    "name": "Helen Shi",
+    "pgy": 2,
+    "context": "'Helen H. Shi, M.D.' followed by 'PGY 2'"
+   },
+   {
+    "name": "Lance Villeneuve",
+    "pgy": 2,
+    "context": "'Lance M. Villeneuve, M.D., Ph.D.' followed by 'PGY 2'"
+   },
+   {
+    "name": "Mark Stephens",
+    "pgy": 1,
+    "context": "'Mark E. Stephens, M.D.' followed by 'PGY 1'"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20210123211850/https://medicine.ouhsc.edu/Academic-Departments/Neurosurgery/Residency-Program/Residents",
+  "source_type": "wayback",
+  "captured_at": "2021-01-23",
+  "academic_year": "2020-2021",
+  "note": "Jan 2021, medicine.ouhsc.edu. Oct 2020 capture identical except it lacked Voronovich (first listed Jan 2021, PGY-7).",
+  "rows": [
+   {
+    "name": "Nicholas Hopkins",
+    "pgy": 1,
+    "context": "'Nicholas J. Hopkins, MD' under PGY-1 heading"
+   },
+   {
+    "name": "Kyle Zhao",
+    "pgy": 1,
+    "context": "'Xiaochun \"Kyle\" Zhao, MD' under PGY-1 heading"
+   },
+   {
+    "name": "Mark Stephens",
+    "pgy": 2,
+    "context": "'Mark E. Stephens, M.D.' under PGY-2 heading"
+   },
+   {
+    "name": "Helen Shi",
+    "pgy": 3,
+    "context": "'Helen H. Shi, M.D.' under PGY-3 heading"
+   },
+   {
+    "name": "Lance Villeneuve",
+    "pgy": 3,
+    "context": "'Lance M. Villeneuve, M.D., Ph.D.' under PGY-3 heading"
+   },
+   {
+    "name": "Griffin Ernst",
+    "pgy": 4,
+    "context": "'Griffin L. Ernst, M.D.' under PGY-4 heading"
+   },
+   {
+    "name": "Panayiotis Pelargos",
+    "pgy": 4,
+    "context": "'Panayiotis E. Pelargos, M.D., M.S.' under PGY-4 heading"
+   },
+   {
+    "name": "Ali Palejwala",
+    "pgy": 5,
+    "context": "'Ali H. Palejwala, M.D.' under PGY-5 heading"
+   },
+   {
+    "name": "Lacey Carter",
+    "pgy": 6,
+    "context": "'Lacey M. Carter, M.D.' under PGY-6 heading"
+   },
+   {
+    "name": "Hurtis Tullos",
+    "pgy": 7,
+    "context": "'Hurtis J. Tullos, M.D.' under PGY-7 heading"
+   },
+   {
+    "name": "Zoya Voronovich",
+    "pgy": 7,
+    "context": "'Zoya Voronovich, MD' under PGY-7 heading"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20220518064803/https://medicine.ouhsc.edu/Academic-Departments/Neurosurgery/Residency-Program/Residents",
+  "source_type": "wayback",
+  "captured_at": "2022-05-18",
+  "academic_year": "2021-2022",
+  "note": "May 2022: the only capture with 2021-22 content (captures jump 2021-04 -> 2022-05); content-dated by Tavakol PGY-1, Hopkins/Zhao PGY-2.",
+  "rows": [
+   {
+    "name": "Sherwin Tavakol",
+    "pgy": 1,
+    "context": "'Sherwin Tavakol, M.D.' under PGY-1 heading"
+   },
+   {
+    "name": "Nicholas Hopkins",
+    "pgy": 2,
+    "context": "'Nicholas J. Hopkins, M.D.' under PGY-2 heading"
+   },
+   {
+    "name": "Kyle Zhao",
+    "pgy": 2,
+    "context": "'Xiaochun \"Kyle\" Zhao, M.D.' under PGY-2 heading"
+   },
+   {
+    "name": "Mark Stephens",
+    "pgy": 3,
+    "context": "'Mark E. Stephens, M.D.' under PGY-3 heading"
+   },
+   {
+    "name": "Helen Shi",
+    "pgy": 4,
+    "context": "'Helen H. Shi, M.D.' under PGY-4 heading"
+   },
+   {
+    "name": "Lance Villeneuve",
+    "pgy": 4,
+    "context": "'Lance M. Villeneuve, M.D., Ph.D.' under PGY-4 heading"
+   },
+   {
+    "name": "Griffin Ernst",
+    "pgy": 5,
+    "context": "'Griffin L. Ernst, M.D.' under PGY-5 heading"
+   },
+   {
+    "name": "Panayiotis Pelargos",
+    "pgy": 5,
+    "context": "'Panayiotis E. Pelargos, M.D., M.S.' under PGY-5 heading"
+   },
+   {
+    "name": "Ali Palejwala",
+    "pgy": 6,
+    "context": "'Ali H. Palejwala, M.D.' under PGY-6 heading"
+   },
+   {
+    "name": "Lacey Carter",
+    "pgy": 7,
+    "context": "'Lacey M. Carter, M.D.' under PGY-7 heading"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20221127192346/https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+  "source_type": "wayback",
+  "captured_at": "2022-11-27",
+  "academic_year": "2022-2023",
+  "note": "Nov 2022.",
+  "rows": [
+   {
+    "name": "Burak Ozaydin",
+    "pgy": 1,
+    "context": "'Burak Ozaydin, M.D.' under PGY-1 heading"
+   },
+   {
+    "name": "Alison Westrup",
+    "pgy": 1,
+    "context": "'Alison M. Westrup, M.D.' under PGY-1 heading"
+   },
+   {
+    "name": "Sherwin Tavakol",
+    "pgy": 2,
+    "context": "'Sherwin Tavakol, M.D.' under PGY-2 heading"
+   },
+   {
+    "name": "Nicholas Hopkins",
+    "pgy": 3,
+    "context": "'Nicholas J. Hopkins, M.D.' under PGY-3 heading"
+   },
+   {
+    "name": "Kyle Zhao",
+    "pgy": 3,
+    "context": "'Xiaochun \"Kyle\" Zhao, M.D.' under PGY-3 heading"
+   },
+   {
+    "name": "Mark Stephens",
+    "pgy": 4,
+    "context": "'Mark E. Stephens, M.D.' under PGY-4 heading"
+   },
+   {
+    "name": "Helen Shi",
+    "pgy": 5,
+    "context": "'Helen H. Shi, M.D.' under PGY-5 heading"
+   },
+   {
+    "name": "Lance Villeneuve",
+    "pgy": 5,
+    "context": "'Lance M. Villeneuve, M.D., Ph.D.' under PGY-5 heading"
+   },
+   {
+    "name": "Griffin Ernst",
+    "pgy": 6,
+    "context": "'Griffin L. Ernst, M.D.' under PGY-6 heading"
+   },
+   {
+    "name": "Panayiotis Pelargos",
+    "pgy": 6,
+    "context": "'Panayiotis E. Pelargos, M.D., M.S.' under PGY-6 heading"
+   },
+   {
+    "name": "Ali Palejwala",
+    "pgy": 7,
+    "context": "'Ali H. Palejwala, M.D.' under PGY-7 heading"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20231001160829/https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+  "source_type": "wayback",
+  "captured_at": "2023-10-01",
+  "academic_year": "2023-2024",
+  "note": "Oct 2023. Westrup (PGY-1 2022-23) gone; Mignucci-Jimenez new at PGY-2.",
+  "rows": [
+   {
+    "name": "Abdurrahman Kharbat",
+    "pgy": 1,
+    "context": "'Abdurrahman Kharbat, M.D., MBA' under PGY-1 heading"
+   },
+   {
+    "name": "Abigail York",
+    "pgy": 1,
+    "context": "'Abigail York, M.D.' under PGY-1 heading"
+   },
+   {
+    "name": "Giancarlo Mignucci-Jimenez",
+    "pgy": 2,
+    "context": "'Giancarlo Mignucci-Jimenez, MD' under PGY-2 heading"
+   },
+   {
+    "name": "Burak Ozaydin",
+    "pgy": 2,
+    "context": "'Burak Ozaydin, M.D.' under PGY-2 heading"
+   },
+   {
+    "name": "Sherwin Tavakol",
+    "pgy": 3,
+    "context": "'Sherwin Tavakol, M.D.' under PGY-3 heading"
+   },
+   {
+    "name": "Nicholas Hopkins",
+    "pgy": 4,
+    "context": "'Nicholas J. Hopkins, M.D.' under PGY-4 heading"
+   },
+   {
+    "name": "Kyle Zhao",
+    "pgy": 4,
+    "context": "'Xiaochun \"Kyle\" Zhao, M.D.' under PGY-4 heading"
+   },
+   {
+    "name": "Mark Stephens",
+    "pgy": 5,
+    "context": "'Mark E. Stephens, M.D.' under PGY-5 heading"
+   },
+   {
+    "name": "Helen Shi",
+    "pgy": 6,
+    "context": "'Helen H. Shi, M.D.' under PGY-6 heading"
+   },
+   {
+    "name": "Lance Villeneuve",
+    "pgy": 6,
+    "context": "'Lance M. Villeneuve, M.D., Ph.D.' under PGY-6 heading"
+   },
+   {
+    "name": "Griffin Ernst",
+    "pgy": 7,
+    "context": "'Griffin L. Ernst, M.D.' under PGY-7 heading"
+   },
+   {
+    "name": "Panayiotis Pelargos",
+    "pgy": 7,
+    "context": "'Panayiotis E. Pelargos, M.D., M.S.' under PGY-7 heading"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20241202112222/https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+  "source_type": "wayback",
+  "captured_at": "2024-12-02",
+  "academic_year": "2024-2025",
+  "note": "Dec 2024 (same list Jul 2024 - Sep 2025). Mulvaney new at PGY-6.",
+  "rows": [
+   {
+    "name": "Sufyan Ibrahim",
+    "pgy": 1,
+    "context": "'Sufyan Ibrahim, MBBS' under PGY-1 heading"
+   },
+   {
+    "name": "Kiana Prather",
+    "pgy": 1,
+    "context": "'Kiana Prather, MD' under PGY-1 heading"
+   },
+   {
+    "name": "Abdurrahman Kharbat",
+    "pgy": 2,
+    "context": "'Abdurrahman Kharbat, M.D., MBA' under PGY-2 heading"
+   },
+   {
+    "name": "Abigail York",
+    "pgy": 2,
+    "context": "'Abigail York, M.D.' under PGY-2 heading"
+   },
+   {
+    "name": "Giancarlo Mignucci-Jimenez",
+    "pgy": 3,
+    "context": "'Giancarlo Mignucci-Jimenez, MD' under PGY-3 heading"
+   },
+   {
+    "name": "Burak Ozaydin",
+    "pgy": 3,
+    "context": "'Burak Ozaydin, M.D.' under PGY-3 heading"
+   },
+   {
+    "name": "Sherwin Tavakol",
+    "pgy": 4,
+    "context": "'Sherwin Tavakol, M.D.' under PGY-4 heading"
+   },
+   {
+    "name": "Nicholas Hopkins",
+    "pgy": 5,
+    "context": "'Nicholas J. Hopkins, M.D.' under PGY-5 heading"
+   },
+   {
+    "name": "Kyle Zhao",
+    "pgy": 5,
+    "context": "'Xiaochun \"Kyle\" Zhao, M.D.' under PGY-5 heading"
+   },
+   {
+    "name": "Graham Mulvaney",
+    "pgy": 6,
+    "context": "'Graham Mulvaney, MD' under PGY-6 heading"
+   },
+   {
+    "name": "Mark Stephens",
+    "pgy": 6,
+    "context": "'Mark E. Stephens, M.D.' under PGY-6 heading"
+   },
+   {
+    "name": "Helen Shi",
+    "pgy": 7,
+    "context": "'Helen H. Shi, M.D.' under PGY-7 heading"
+   },
+   {
+    "name": "Lance Villeneuve",
+    "pgy": 7,
+    "context": "'Lance M. Villeneuve, M.D., Ph.D.' under PGY-7 heading"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20251021105414/https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+  "source_type": "wayback",
+  "captured_at": "2025-10-21",
+  "academic_year": "2025-2026",
+  "note": "Oct 2025 (same list through May 2026).",
+  "rows": [
+   {
+    "name": "Benjamin Petersen",
+    "pgy": 1,
+    "context": "'Benjamin Petersen, MD' under PGY-1 heading"
+   },
+   {
+    "name": "Syeda Batool",
+    "pgy": 1,
+    "context": "'Syeda Batool , MD' under PGY-1 heading"
+   },
+   {
+    "name": "Sufyan Ibrahim",
+    "pgy": 2,
+    "context": "'Sufyan Ibrahim, MBBS' under PGY-2 heading"
+   },
+   {
+    "name": "Kiana Prather",
+    "pgy": 2,
+    "context": "'Kiana Prather, MD' under PGY-2 heading"
+   },
+   {
+    "name": "Abdurrahman Kharbat",
+    "pgy": 3,
+    "context": "'Abdurrahman Kharbat, M.D., MBA' under PGY-3 heading"
+   },
+   {
+    "name": "Abigail York",
+    "pgy": 3,
+    "context": "'Abigail York, M.D.' under PGY-3 heading"
+   },
+   {
+    "name": "Giancarlo Mignucci-Jimenez",
+    "pgy": 4,
+    "context": "'Giancarlo Mignucci-Jimenez, MD' under PGY-4 heading"
+   },
+   {
+    "name": "Burak Ozaydin",
+    "pgy": 4,
+    "context": "'Burak Ozaydin, M.D.' under PGY-4 heading"
+   },
+   {
+    "name": "Sherwin Tavakol",
+    "pgy": 5,
+    "context": "'Sherwin Tavakol, M.D.' under PGY-5 heading"
+   },
+   {
+    "name": "Nicholas Hopkins",
+    "pgy": 6,
+    "context": "'Nicholas J. Hopkins, M.D.' under PGY-6 heading"
+   },
+   {
+    "name": "Kyle Zhao",
+    "pgy": 6,
+    "context": "'Xiaochun \"Kyle\" Zhao, M.D.' under PGY-6 heading"
+   },
+   {
+    "name": "Graham Mulvaney",
+    "pgy": 7,
+    "context": "'Graham Mulvaney, MD' under PGY-7 heading"
+   },
+   {
+    "name": "Mark Stephens",
+    "pgy": 7,
+    "context": "'Mark E. Stephens, M.D.' under PGY-7 heading"
+   }
+  ]
+ },
+ {
+  "source_url": "https://medicine.ouhsc.edu/academic-departments/neurosurgery/residency-program/residents",
+  "source_type": "live",
+  "captured_at": "2026-09-27",
+  "academic_year": "2026-2027",
+  "note": "Live page fetched with curl 2026-09-27; advanced from 2025-26 (new interns Balasubramanian, Bialek). Same as Wayback 2026-09-08.",
+  "rows": [
+   {
+    "name": "Kishore Balasubramanian",
+    "pgy": 1,
+    "context": "'Kishore Balasubramanian , M.D.' under PGY-1 heading"
+   },
+   {
+    "name": "Shannan Bialek",
+    "pgy": 1,
+    "context": "'Shannan Bialek, M.D.' under PGY-1 heading"
+   },
+   {
+    "name": "Benjamin Petersen",
+    "pgy": 2,
+    "context": "'Benjamin Petersen, MD' under PGY-2 heading"
+   },
+   {
+    "name": "Syeda Batool",
+    "pgy": 2,
+    "context": "'Syeda Batool , MD' under PGY-2 heading"
+   },
+   {
+    "name": "Sufyan Ibrahim",
+    "pgy": 3,
+    "context": "'Sufyan Ibrahim, MBBS' under PGY-3 heading"
+   },
+   {
+    "name": "Kiana Prather",
+    "pgy": 3,
+    "context": "'Kiana Prather, MD' under PGY-3 heading"
+   },
+   {
+    "name": "Abdurrahman Kharbat",
+    "pgy": 4,
+    "context": "'Abdurrahman Kharbat, M.D., MBA' under PGY-4 heading"
+   },
+   {
+    "name": "Abigail York",
+    "pgy": 4,
+    "context": "'Abigail York, M.D.' under PGY-4 heading"
+   },
+   {
+    "name": "Giancarlo Mignucci-Jimenez",
+    "pgy": 5,
+    "context": "'Giancarlo Mignucci-Jimenez, MD' under PGY-5 heading"
+   },
+   {
+    "name": "Burak Ozaydin",
+    "pgy": 5,
+    "context": "'Burak Ozaydin, M.D.' under PGY-5 heading"
+   },
+   {
+    "name": "Sherwin Tavakol",
+    "pgy": 6,
+    "context": "'Sherwin Tavakol, M.D.' under PGY-6 heading"
+   },
+   {
+    "name": "Nicholas Hopkins",
+    "pgy": 7,
+    "context": "'Nicholas J. Hopkins, M.D.' under PGY-7 heading"
+   },
+   {
+    "name": "Kyle Zhao",
+    "pgy": 7,
+    "context": "'Xiaochun \"Kyle\" Zhao, M.D.' under PGY-7 heading"
+   }
+  ]
+ }
+]

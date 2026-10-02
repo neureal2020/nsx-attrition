@@ -1,0 +1,1039 @@
+[
+ {
+  "key": "33:kev:morrow",
+  "name": "Kevin Morrow",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery LSU 2015-2022, LSU MD 2015; co-author with LSU residents (Podet, Robichaux, Shields); search result lists same residency",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "LSU neurosurgery residency 2015-2022 then neurosurgical oncology fellowship Univ of Colorado 2022-2023; ABNS listed",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Desert Regional Medical Center / Desert Care Network, Palm Springs CA",
+  "agrees_with_db": true,
+  "disagreement": "Doximity residency end year 2022 vs DB last seen 2021-22 (consistent).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kevin-morrow-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.desertcarenetwork.com/find-a-doctor/detail/kevin-morrow-1629462577",
+    "type": "bio",
+    "evidence": "Kevin Morrow, MD - Neurosurgery, Desert Care Network (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:ada:podet",
+  "name": "Adam Podet",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery LSU 2016-2023, LSU MD 2016; LSU faculty page (Clinical Assistant Professor)",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery 2023; practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Culicchia Neurological Clinic / North Oaks, Louisiana; Clinical Assistant Professor LSU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adam-podet-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://culicchianeuro.com/adam-podet-md/",
+    "type": "bio",
+    "evidence": "Adam Podet, MD - Culicchia Neurological Clinic (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:leo:webb",
+  "name": "Leo Webb",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Anesthesiology, LSU New Orleans MD class of 2016 (same as DB neurosurgery PGY-1 2016-17 entry year); LSU anesthesiology residency alumni page lists Leo Webb class of 2021, post-grad private practice New Orleans",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery (per DB roster)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2018
+   },
+   {
+    "institution": "LSU anesthesiology",
+    "specialty": "anesthesiology",
+    "start": 2018,
+    "end": 2021
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left LSU neurosurgery after 2017-18; LSU anesthesiology residency class of 2021; board-certified anesthesiologist",
+  "year_left": 2018,
+  "destination_program": "LSU New Orleans anesthesiology",
+  "destination_start_year": 2018,
+  "current": "anesthesiologist, private practice New Orleans (LCMC/Touro)",
+  "agrees_with_db": true,
+  "disagreement": "none; anesthesia start year 2018 is inferred (class of 2021)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/leo-webb-md",
+    "type": "doximity",
+    "evidence": "Anesthesiology, New Orleans; LSU MD class of 2016; American Board of Anesthesiology"
+   },
+   {
+    "url": "https://residents.lsuhsc.edu/no/anesthesiology/past_residents.aspx",
+    "type": "program_page",
+    "evidence": "Leo Webb, class 2021, Private Practice, New Orleans LA"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:jar:robichaux",
+  "name": "Jared Robichaux",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: LSU HSC neurosurgery residency 2017-2024, LSU MD 2017; bio says residency LSU HSC New Orleans neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2024; spine neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, AVALA Spine / LCMC, Louisiana",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jared-robichaux-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://avalaspine.com/about-us/meet-our-doctors/dr-jared-robichaux/",
+    "type": "bio",
+    "evidence": "Dr. Jared Robichaux - Highest Trained Neurosurgeon - AVALA Spine (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:joh:wilson",
+  "name": "John Wilson",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (john-wilson-md-a2fa5570): LSU neurosurgery residency 2018-2025, Texas Tech MD 2018; co-author 'John M Wilson' on LSU neurosurgery papers with Lawhon/Crabill/Hayden; Lee Health lists him as neurosurgeon who trained at LSU New Orleans",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery 2025; now neurosurgeon Cape Coral FL. Name ambiguity resolved via LSU co-authored papers",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Lee Health, Cape Coral / Southwest Florida",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/john-wilson-md-a2fa5570",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025; Texas Tech Class of 2018"
+   },
+   {
+    "url": "https://www.leehealth.org/find-a-doctor/john-wilson",
+    "type": "search_snippet",
+    "evidence": "completed residency in Neurological Surgery at Louisiana State University ... practices in Southwest Florida"
+   }
+  ],
+  "searches_used": 2,
+  "note": "Doximity lists ABIM (odd); Lee Health snippet says board-certified neurosurgeon (not verified with ABNS)"
+ },
+ {
+  "key": "33:tay:girolamo",
+  "name": "Taylor Girolamo",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: LSU neurosurgery residency 2018-2025, USC Greenville MD 2018; Prisma Health bio; LSU neurosurgery Facebook post",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2025 (incl. neurocritical care and MHA 2022-23 during residency); neurosurgeon at Prisma Health Midlands",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Prisma Health, Columbia SC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/taylor-girolamo-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025; board-eligible neurological surgeon Prisma Health"
+   },
+   {
+    "url": "https://doctors.prismahealth.org/provider/taylor-wapshott-girolamo/5847647",
+    "type": "bio",
+    "evidence": "residency in neurosurgery at LSU HSC New Orleans (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:rob:arguello",
+  "name": "Roboan Guillen Arguello",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (roboan-guillen-md-81e2b97a): LSU neurosurgery 2019-2026, FIU MD 2019; co-authored 'Roboan Guillen-Arguello' LSU papers; WebMD lists neurosurgeon Marrero LA",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency 2019-2026; finished 2026",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (recent graduate), New Orleans LA (FL license 2026 - possible move to Florida)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/roboan-guillen-md-81e2b97a",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026; FIU Class of 2019"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/roboan-guillen-20655d35-4a37-4cd0-907a-cfa8d9da0e4e-overview",
+    "type": "search_snippet",
+    "evidence": "Dr. Roboan Guillen Arguello, MD, Neurosurgeon | Marrero, LA"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:geo:crabill",
+  "name": "George Crabill",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "LSU residents page: 7th-year resident, U Maryland MD 2020; Doximity Resident Physician Baltimore, U Maryland class 2020 (pre-residency address); WebMD lists Marrero LA neurosurgeon",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as 7th-year resident on LSU residents page (2026-27)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-7 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "Seventh Year Residents: George Crabill, M.D. University of Maryland 2020"
+   },
+   {
+    "url": "https://www.doximity.com/pub/george-crabill-md",
+    "type": "doximity",
+    "evidence": "Resident Physician Baltimore; University of Maryland Class of 2020 (no residency listed)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "33:wes:shoap",
+  "name": "Wesley Shoap",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "LSU residents page 7th year, U Maryland 2020; Doximity U Maryland class 2020; LSU co-authored papers",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "7th-year resident on LSU page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-7 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "Seventh Year Residents: Wesley Shoap, M.D. University of Maryland 2020"
+   },
+   {
+    "url": "https://www.doximity.com/pub/wesley-shoap-md",
+    "type": "doximity",
+    "evidence": "Resident Physician; University of Maryland Class of 2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:sar:lawhon",
+  "name": "Sarah Lawhon",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "LSU residents page 6th year, LSU MD 2021; Doximity: Resident Physician Neurosurgery, LSU MD/MPH class of 2021",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "6th-year resident on LSU page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-6 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "Sixth Year Resident: Sarah Lawhon, M.D. LSU 2021"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sarah-lawhon-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Neurosurgery; LSU Class of 2021, MD/MPH"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:ell:hayden",
+  "name": "Ellery Hayden",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "LSU residents page 5th year, LSU MD 2022; Doximity Resident Physician LSU class of 2022; KKU observership notice",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "5th-year resident (observership abroad Aug-Dec 2026)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-5 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "Fifth Year Residents: Ellery Hayden, M.D. LSU 2022"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ellery-hayden-md",
+    "type": "doximity",
+    "evidence": "Resident Physician; LSU New Orleans Class of 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:jam:glasser",
+  "name": "Jamieson Glasser",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "LSU residents page 5th year, FSU MD 2022; FSU alumni directory; Doximity page (Other MD/DO Marrero LA, no training listed) with co-authored LSU-era case report",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "5th-year resident on LSU page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-5 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "Fifth Year Residents: Jamieson Glasser, M.D. Florida State 2022"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jamieson-glasser-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Marrero LA; no education section"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:ade:adesina",
+  "name": "Adeleso Adesina",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "LSU residents page 4th year, Case Western MD 2023; Doximity Resident Physician New Orleans (2020 Gravier St, LSU neurosurgery office), Case Western",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "4th-year resident on LSU page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-4 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "Doximity says CWRU Class of 2022 vs LSU page 2023 (minor)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "Fourth Year Resident: Adeleso Adesina, M.D. Case Western 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/adeleso-adesina-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, New Orleans; Case Western School of Medicine"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:ian:ramsay",
+  "name": "Ian Ramsay",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "LSU residents page 3rd year, U Miami MD 2024; Doximity: Residency Neurological Surgery LSU 2024-2031, U Miami class 2024",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity lists projected residency 2024-2031",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-3 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "Third Year Residents: Ian Ramsay, M.D. University of Miami 2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ian-ramsay-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:tyl:schriber",
+  "name": "Tyler Schriber",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "LSU residents page 3rd year, Creighton MD 2024; Doximity: LSU neurosurgery residency 2024-2031, Creighton class 2024",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity lists projected residency 2024-2031",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-3 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "Third Year Residents: Tyler Schriber, M.D. Creighton 2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/tyler-schriber-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:kal:derouen",
+  "name": "Kaleb Derouen",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "LSU residents page 2nd year, LSU MD 2025; Doximity Neurosurgery LSU class of 2025; LSU-co-authored papers",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "2nd-year resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-2 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "Second Year Resident: Kaleb Derouen, M.D. LSU 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kaleb-derouen-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, New Orleans; LSU Class of 2025"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "33:car:ramos",
+  "name": "Cara Ramos",
+  "program_id": 33,
+  "identity": "probable",
+  "identity_basis": "LSU residents page lists Cara Ramos, M.D., LSU 2026, first-year; no independent profile found",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "1st-year resident on LSU page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-1 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "First Year Residents: Cara Ramos, M.D. LSU School of Medicine, New Orleans, 2026"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "33:jac:leoni",
+  "name": "Jack Leoni",
+  "program_id": 33,
+  "identity": "confirmed",
+  "identity_basis": "LSU residents page 1st year, LSU 2026; LSU med student research symposium poster with Dr Tender (LSU neurosurgery); co-author 'Jack A Leoni' LSU neurosurgery case reports",
+  "residency_stated": [
+   {
+    "institution": "LSU neurosurgery",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "1st-year resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-1 neurosurgery resident, LSU New Orleans",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://residents.lsuhsc.edu/no/neurosurgery/residents.aspx",
+    "type": "program_page",
+    "evidence": "First Year Residents: Jack Leoni, M.D. LSU 2026"
+   },
+   {
+    "url": "https://www.medschool.lsuhsc.edu/pulse_archive/2025_03/med_student_sci_symposium.aspx",
+    "type": "program_page",
+    "evidence": "Jack Leoni with Dr. Gabriel Tender, LSUHSC Neurosurgery (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "34:mic:wemhoff",
+  "name": "Michael Wemhoff",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurosurgery residency 2011-2018, Loyola Stritch MD 2011; Loyola co-authors Swong, Hofler, Johans",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Loyola neurosurgery 2018; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, UW Health SwedishAmerican, Downers Grove / Rockford IL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-wemhoff-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "34:kev:swong",
+  "name": "Kevin Swong",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurosurgery 2012-2019, SIU MD 2012; Northwestern faculty profile",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor neurosurgery, Northwestern Feinberg, Chicago",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kevin-swong-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/faculty/profile.html?xid=48500",
+    "type": "bio",
+    "evidence": "Kevin N Swong faculty profile (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "34:ste:johans",
+  "name": "Stephen Johans",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurosurgery 2012-2019, U Missouri MD 2012; practice bio",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Neurosurgery of St. Louis / O'Fallon IL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/stephen-johans-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://stlbrainandspine.com/team/dr-stephen-johans/",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency at Loyola University Medical Center 2012-2019 (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "34:dan:heiferman",
+  "name": "Daniel Heiferman",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurosurgery 2013-2020, Rush MD 2013; Endeavor Health bio",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "cerebrovascular neurosurgeon, Endeavor Health, Naperville IL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-heiferman-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.endeavorhealth.org/providers/daniel-heiferman",
+    "type": "bio",
+    "evidence": "Daniel Heiferman | Endeavor Health (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "34:rya:hofler",
+  "name": "Ryan Hofler",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurosurgery 2013-2020, Case Western MD 2013; spine fellowship Rush 2020-21",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2020, spine fellowship Rush 2020-2021; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Novant Health, Charlotte NC (assistant professor)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ryan-hofler-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "34:dap:li",
+  "name": "Daphne Li",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurosurgery 2014-2021, NY Medical College MD 2014; Loyola faculty/alumni pages",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2021, pediatric neurosurgery fellowship Stanford 2021-22; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Advocate Children's Park Ridge IL; Clinical Assistant Professor Loyola",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daphne-li-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "Meet the Neurological Surgery Residency Alumni (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "34:ign:torres",
+  "name": "Ignacio Jusue Torres",
+  "program_id": 34,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola neurosurgery 2016-2022 (DB entry 2015; Doximity start 2016), fellowship Mayo 2022-23; dual training Spain and US; Loyola-linked papers",
+  "residency_stated": [
+   {
+    "institution": "Loyola University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Loyola 2022; neuro-oncology fellowship Mayo 2022-2023; practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Northwestern Medicine McHenry IL (Clinical Asst Prof)",
+  "agrees_with_db": true,
+  "disagreement": "Doximity start 2016 vs DB entry 2015 (possibly prelim/critical care year 2015-16)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ignacio-jusue-torres-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2022; Clinical Assistant Professor Northwestern; 'board certified neurosurgeon' in summary (ABNS not listed)"
+   }
+  ],
+  "searches_used": 1
+ }
+]

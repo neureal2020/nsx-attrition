@@ -1,0 +1,316 @@
+[
+ {
+  "name": "Thomas Wozny",
+  "program_id": 116,
+  "verdict": "transferred_out",
+  "neurosurgery_residency": {
+   "institution": "University of Pittsburgh (PGY1 2018-19) -> UCSF (PGY2-PGY7 2019-2025)",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Spine neurosurgery",
+    "institution": "University of Miami",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "current_position": "Spine neurosurgery fellow, University of Miami (from 2025)",
+  "sources": [
+   "https://web.archive.org/web/20181118015004/http://www.neurosurgery.pitt.edu:80/training/residency-program/current-residents",
+   "https://web.archive.org/web/20181019232621/http://neurosurgery.ucsf.edu/index.php/about_us_residents.html",
+   "https://web.archive.org/web/20191029053706/https://neurosurgery.ucsf.edu/residents",
+   "https://neurosurgery.ucsf.edu/news/neurosurgery-department-celebrates-residency-program-graduates-of-2025",
+   "https://neurosurgery.ucsf.edu/residency-program-alumni",
+   "https://www.pstp.pitt.edu/people/thomas-tom-wozny-md"
+  ],
+  "evidence": "Archived Pitt current-residents page (Nov 18 2018) lists Thomas Wozny under PGY-1. Archived UCSF residents page Oct 2018 does NOT list him (UCSF PGY-1 that year included Claire Faltermeier, who left for cardiothoracic surgery); UCSF residents pages list Wozny as PGY-2 in 2019-20, PGY-3 2020-21 ... PGY-7 2024-25 (project roster intake, rosters_program76.json / rosters_program116.json; web.archive.org was not fetchable in this session, so these are from the project's earlier captures). UCSF 2025 graduates article: Pitt BS+MD, 'completed a seven-year neurosurgery residency training program at UCSF', finishing June 21 2025, next spine fellowship at University of Miami. UCSF alumni list: Thomas Wozny, 2025, Spine Fellowship, University of Miami. Pitt PSTP page: Pitt MD 2018, residency Neurological Surgery UCSF.",
+  "confidence": "high",
+  "notes": "Conflict resolved: both sources are right. He was a Pitt neurosurgery PGY-1 in 2018-19 and moved to UCSF as a PGY-2 in July 2019, filling the spot left by Faltermeier. The UCSF article's 'seven-year residency' counts the whole program length, including his Pitt intern year, and does not mean all 7 years were at UCSF. This agrees with current_outcome 'LEFT -> TRANSFERRED (UCSF)' and corrects batch_9's 'conflicting'/'never at Pitt' guess. Completed neurosurgery elsewhere (UCSF 2025)."
+ },
+ {
+  "name": "James Yoon",
+  "program_id": 116,
+  "verdict": "not_found",
+  "neurosurgery_residency": {
+   "institution": "University of Pittsburgh (UPMC)",
+   "start": 2022,
+   "end": 2024
+  },
+  "other_training": [],
+  "current_position": "Unknown. Stale public profiles (LinkedIn, Doximity, WebMD, Vitals) still say he is a Pitt neurosurgery resident. No new employer or training program was found.",
+  "sources": [
+   "https://web.archive.org/web/20221204190636/https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+   "https://web.archive.org/web/20240526204819/https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+   "https://web.archive.org/web/20241215175705/https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+   "https://web.archive.org/web/20251008005329/https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+   "https://www.neurosurgery.pitt.edu/people/residents",
+   "https://www.neurosurgery.pitt.edu/people/james-yoon",
+   "https://pre.neurosurgery.pitt.edu/people/james-yoon",
+   "https://www.linkedin.com/in/james-yoon-nsgy/",
+   "https://www.doximity.com/pub/james-yoon-md-d8b85ca4",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=James&last_name=Yoon&limit=50",
+   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=37982614&rettype=medline&retmode=text"
+  ],
+  "evidence": "Pitt bio (search snippet): joined the Pitt neurosurgery residency in July 2022 with a Yale MD (2022) and a Brown BS (2017). Pitt current-residents rosters (project captures): PGY-1 in Dec 2022 (with Garcia, Shuman, Nturibi) and PGY-2 in May 2024. He is ABSENT from the Dec 2024, Oct 2025 and Sep 2026 rosters. His classmates Garcia and Shuman are still listed as PGY-3/4/5. Pitt also keeps listing residents during research years (e.g., the 2021 class Faramand/Schulien/Huq/Anand is listed every year). His Pitt profile URL now just goes to the general People directory. NPI 1972253284 (James Seungwon Yoon) is still the 2022 trainee record (New Haven CT / Pittsburgh PA) and has not been updated since, so no new taxonomy or state appears. His last Pitt-affiliated PubMed paper is PMID 37982614 (Neurosurgery 2024, 'Department of Neurosurgery, UPMC'). No PubMed papers from 2025-26 and no other residency, employer or startup was found. LinkedIn, Doximity and X could not be fetched (999/406/402). Their snippets still say 'Resident Doctor - University of Pittsburgh Neurosurgery', which looks stale.",
+  "confidence": "medium",
+  "notes": "Resolution: the research-years explanation is unlikely. The Pitt roster includes research-year residents, yet Yoon disappeared after 2023-24 while his classmates stayed on it. This supports current_outcome 'LEFT'. Per project notes, a Pitt profile said PGY-3 in Aug 2024, so he probably left during or right after the 2024-25 year. Where he went is still unknown. The verdict is 'not_found' because we found no destination, not because we doubt the identity; departure itself is medium confidence. He is linked to Forbes 30 Under 30 (2022) and a Techstars startup post (2022), so a move into industry or a startup is plausible but not documented. Namesakes to exclude: James Sangho Yoon (family medicine, Brea CA), James Jun Yoon (MSK oncology), a nephrologist, an ID physician, and others. The Barrow-affiliated Google Scholar profile covers his pre-med-school research. Batch 9 said 'still a Pitt resident'. That is rejected, because it rested only on stale profiles."
+ },
+ {
+  "name": "Georgios Alexopoulos",
+  "program_id": 60,
+  "verdict": "left_medicine_or_other",
+  "neurosurgery_residency": {
+   "institution": "Saint Louis University (SSM Health), dismissed before completion",
+   "start": 2018,
+   "end": 2024
+  },
+  "other_training": [
+   {
+    "type": "residency",
+    "specialty": "General surgery",
+    "institution": "General Hospital of Corfu, Greece",
+    "start": 2010,
+    "end": 2012
+   },
+   {
+    "type": "residency",
+    "specialty": "Neurosurgery",
+    "institution": "Papageorgiou GH Thessaloniki / G. Gennimatas GH Athens, Greece",
+    "start": 2012,
+    "end": 2016
+   },
+   {
+    "type": "residency",
+    "specialty": "General surgery (prelim)",
+    "institution": "University of Illinois at Chicago",
+    "start": 2016,
+    "end": 2017
+   },
+   {
+    "type": "fellowship",
+    "specialty": "Pediatric neurosurgery (clinical fellow)",
+    "institution": "Boston Children's Hospital/Harvard",
+    "start": 2017,
+    "end": 2018
+   },
+   {
+    "type": "degree",
+    "specialty": "MSc Biomedical Informatics & Computational Neurosciences",
+    "institution": "University of Maine",
+    "start": 2020,
+    "end": 2025
+   }
+  ],
+  "current_position": "Attending neurosurgeon at Panarkadiko General Hospital (Tripoli, Greece) and HYGEIA/MITERA (Athens); co-founder of Neuroknife. Holds a Greek neurosurgery specialty title (2025) and is European Board certified.",
+  "sources": [
+   "https://www.legalnewsline.com/stlouis-record/neuro-resident-alleges-retaliation-discrimination-at-slu-hospital/article_d5a6e93c-b16b-4abe-b3c7-6b89e335caf3.html",
+   "https://neuroknife.gr/georgios-alexopoulos/",
+   "https://neuroknife.gr/en/georgios-alexopoulos-md-msc/",
+   "https://www.doximity.com/pub/georgios-alexopoulos-md",
+   "https://health.usnews.com/doctors/georgios-alexopoulos-1018918"
+  ],
+  "evidence": "St. Louis Record (Jul 17 2025) reports on his lawsuit against SSM Saint Louis University Hospital. He was 'involuntarily dismissed from SSM Saint Louis University Hospital's neurosurgery residency program on July 8, 2024, just months before completing his seven-year training', after academic probation. The complaint says he 'remains unable to practice medicine' (in the US). His Neuroknife CV lists 'Neurosurgery Resident - Saint Louis University ... (2018-2024)' with no completion claim. It also lists earlier Greek neurosurgery residency (2012-2016), a UIC general surgery year (2016-17), a Boston Children's pediatric neurosurgery clinical fellowship (2017-18), a Greek neurosurgery specialty title (2025), and current attending posts in Tripoli and Athens.",
+  "confidence": "high",
+  "notes": "Conflict resolved: he did NOT complete SLU. He was dismissed July 8 2024 at the start of what would have been PGY-7, which agrees with current_outcome 'LEFT -> did not complete'. 'SLU 2018-2024' on Doximity and his bio covers his time as a resident, not graduation. He did not transfer to another US residency. He went back to Greece and got the Greek neurosurgery specialty title, so he still practices neurosurgery abroad. The verdict is 'left_medicine_or_other' as the closest fit ('other' = dismissed and now practicing abroad); it does not mean he left medicine. The lawsuit (allegations of discrimination/retaliation) was pending as of Jul 2025."
+ },
+ {
+  "name": "Archis Bhandarkar",
+  "program_id": 40,
+  "verdict": "conflicting",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic (Rochester, MN)",
+   "start": 2023,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Unknown. He is off the Mayo roster for 2026-27. His NPI (updated Feb 24 2026) now shows Johns Hopkins Hospital (1800 Orleans St, Baltimore) as the practice location and Mayo Rochester as the mailing address. Papers in 2025-26 still carry Mayo affiliations.",
+  "sources": [
+   "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-minnesota/meet-our-trainees/",
+   "https://web.archive.org/web/20251111040959/https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-minnesota/meet-our-trainees/",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1104547009",
+   "https://npiregistry.cms.hhs.gov/provider-view/1104547009",
+   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=41938168,39909144&rettype=medline&retmode=text",
+   "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents"
+  ],
+  "evidence": "Mayo 'Meet our residents' rosters (project captures) list him as PGY-1 2023-24, PGY-2 2024-25 and PGY-3 2025-26 (Nov 2025). The live 2026-27 page does not list him. His classmates De La Pena, Michalopoulos and S. Ransom are PGY-4, and the PGY-4 row has only 3 names. Salomon Cohen Cohen (2020 class) also disappeared in 2026-27, so Mayo may drop people who are off-cycle. NPI 1104547009 (Archis Ramkrishna Bhandarkar MD) lists Neurological Surgery with two Minnesota licenses. Its practice location is 1800 Orleans St, Baltimore MD 21287 (Johns Hopkins Hospital), and 200 1st St SW Rochester is listed as mailing/other. It was last updated Feb 24 2026. PubMed: PMID 39909144 (Feb 2025) is affiliated 'Department of Neurological Surgery, Mayo Clinic'. PMID 41938168 (Apr 2026) still carries his old 'Mayo Clinic Alix School of Medicine' affiliation. Batch 5 reported Mar/Aug 2026 papers with 'Dept of Neurologic Surgery, Mayo Clinic'. We could not confirm that he is on the Johns Hopkins neurosurgery resident page (403). A site-restricted search snippet did not show an MIT-educated resident there. A 'Shaan Bhandarkar' co-authoring Hopkins neurosurgery papers is a different person (a JHU medical student, possibly a relative).",
+  "confidence": "low",
+  "notes": "Not fully resolved. We do not accept the research-years explanation from the brief without evidence: Mayo lists residents through all PGY years, and he is off the 2026-27 page. The best new lead is the Feb 2026 NPI update adding a Johns Hopkins Hospital practice location, which fits a transfer to Hopkins neurosurgery (or a long away rotation or research period in Baltimore). That is still unconfirmed, so the verdict stays 'conflicting'. Leans toward: left Mayo in mid-2026, possibly transferred to Johns Hopkins. Next check: an archived Hopkins neurosurgery residents page from 2026 (web.archive.org is blocked for WebFetch in this session) or his Doximity page. current_outcome 'LEFT -> outcome unknown' is consistent with this."
+ },
+ {
+  "name": "Joe Garcia",
+  "program_id": 116,
+  "verdict": "transferred_out",
+  "neurosurgery_residency": {
+   "institution": "University of Pittsburgh (2022-~2026) -> SUNY Upstate Medical University (Syracuse)",
+   "start": 2022,
+   "end": null
+  },
+  "other_training": [],
+  "current_position": "Neurosurgery resident at SUNY Upstate Medical University, Syracuse NY (PGY level not visible)",
+  "sources": [
+   "https://www.upstate.edu/neurosurgery/education/residents-fellows.php",
+   "https://scholar.google.com/citations?user=T90AGXAAAAAJ&hl=en",
+   "https://doctor.webmd.com/doctor/joseph-garcia-b9527036-40e5-497c-9534-8f66aa1fe4d0-overview",
+   "https://www.facebook.com/pitt.neurosurgery/posts/university-of-pittsburgh-pgy-1-resident-joseph-garcia-with-cerebrovascular-secti/712446617340936/",
+   "https://www.neurosurgery.pitt.edu/news/garcia-takes-top-rowe-presentation-award",
+   "https://web.archive.org/web/20251008005329/https://www.neurosurgery.pitt.edu/training/residency-program/current-residents",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/current-residents"
+  ],
+  "evidence": "Pitt rosters (project captures) list Joe Garcia as PGY-1 2022-23 through PGY-4 2025-26 (Oct 2025). A Pitt news item says he was a PGY-4 who won the Rowe Research Day award on Nov 12 2025. He is ABSENT from the live Sep 2026 Pitt roster, where classmate Will Shuman is PGY-5, and his Pitt profile URL now resolves to a generic department page. WebMD/search snippet: Joseph Garcia, UCSF School of Medicine 2022, neurosurgery, Pittsburgh (UPMC Presbyterian). The SUNY Upstate 'Neurosurgery Resident and Fellow Team' page (search snippet only; direct fetch 403) lists Joseph Garcia, MD with a UCSF MD and UC Davis education, the same background. His Google Scholar profile (Joseph H. Garcia; UCSF neurosurgery / GBM / pediatric AVM papers, i.e. the same researcher) now gives his affiliation as 'SUNY Upstate'.",
+  "confidence": "medium",
+  "notes": "Agrees with current_outcome 'LEFT -> TRANSFERRED (SUNY Upstate)'. Two independent sources tie him to Upstate (the Upstate roster snippet with matching UCSF MD/UC Davis, and his Scholar profile affiliation), which resolves the ambiguous-name flag. He probably moved after the 2025-26 year (mid-2026). His entry PGY level at Upstate could not be read (403). NPI search by name plus neurosurgery taxonomy returned 0, so his NPI is probably listed under the student/trainee taxonomy."
+ },
+ {
+  "name": "Michael Prim",
+  "program_id": 60,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "SSM Health Saint Louis University Hospital",
+   "start": 2015,
+   "end": 2022
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Spine surgery",
+    "institution": "Banner University Medical Center Phoenix",
+    "start": 2022,
+    "end": 2023
+   }
+  ],
+  "current_position": "Neurosurgeon / spine surgeon, Banner - University Medicine Neurosurgery Clinic, Phoenix AZ",
+  "sources": [
+   "https://doctors.bannerhealth.com/provider/michael-prim/2275824",
+   "https://www.healthgrades.com/physician/dr-michael-prim-xym8q8x",
+   "https://www.sfasu.edu/archived-sawdust/issue-17-fall/feature-precise-profession.html"
+  ],
+  "evidence": "Banner Health provider bio (Michael Prim, MD): MD from UTHealth Houston 2015. Residency in Neurosurgery at SSM Health Saint Louis University Hospital, completed 2022. Spine surgery fellowship at Banner University Medical Center Phoenix, completed 2023. Now a neurosurgeon at Banner in Phoenix. The SFASU alumni feature (search snippet) describes him as a second-year neurosurgery resident at Saint Louis University Hospital. Healthgrades: Michael Dyton Prim, neurosurgeon, Phoenix, graduated 2015.",
+  "confidence": "high",
+  "notes": "Agrees with current_outcome COMPLETED. The employer bio explicitly says the SLU residency was completed in 2022. The name is unique, and it matches NPI Michael Dyton Prim."
+ },
+ {
+  "name": "Joseph Abbatematteo",
+  "program_id": 4,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Barrow Neurological Institute (St. Joseph's, Phoenix)",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [
+   {
+    "type": "enfolded fellowship",
+    "specialty": "Minimally invasive spine surgery",
+    "institution": "Barrow Neurological Institute",
+    "start": 2023,
+    "end": 2024
+   }
+  ],
+  "current_position": "Neurosurgeon (spine), Barrow Neurological Institute / Barrow Brain and Spine, Gilbert AZ",
+  "sources": [
+   "https://www.barrowneuro.org/person/joseph-abbatematteo-md/",
+   "https://www.barrowbrainandspine.com/physicians/dr-abbatematteo/",
+   "https://www.healthgrades.com/physician/dr-joseph-abbatematteo-xynpm3b",
+   "https://npiregistry.cms.hhs.gov/provider-view/1073017083"
+  ],
+  "evidence": "Barrow faculty bio: MD University of Florida 2018, PharmD UF 2014. 'Residency, Barrow Neurological Institute, Neurosurgery, 2018-2025'. 'Fellowship, Barrow Neurological Institute, Minimally Invasive Spine Surgery, 2023-2024' (enfolded). He is now a spine neurosurgeon in Barrow's Department of Neurosurgery and practices at Barrow Brain and Spine in Gilbert AZ. NPI 1073017083 lists Neurological Surgery in AZ.",
+  "confidence": "high",
+  "notes": "Agrees with current_outcome COMPLETED. The employer bio states the Barrow residency years (2018-2025) explicitly. The name is unique."
+ },
+ {
+  "name": "Luis Fernandez",
+  "program_id": 41,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "McGaw Medical Center of Northwestern University",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Advanced endoscopic & open skull base surgery",
+    "institution": "Cleveland Clinic",
+    "start": 2025,
+    "end": 2026
+   }
+  ],
+  "current_position": "Neurosurgeon, Tyler TX (NPI practice address 700 Olympic Plaza Circle Ste 850, Tyler; updated Jul 2026)",
+  "sources": [
+   "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+   "https://www.instagram.com/p/DLARv9KMD2x/",
+   "https://www.healthgrades.com/physician/dr-luis-fernandez-xynpj3r",
+   "https://www.everydayhealth.care/providers/4478043/luis-guillermo-fernandez-iii-md/",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1932603461",
+   "https://www.linkedin.com/in/luis-fernandez-4b3398127/"
+  ],
+  "evidence": "Northwestern neurosurgery alumni page: 'Luis Fernandez III, MD (2025): Advanced Endoscopic & Open Skull Base Surgery Fellowship, Cleveland Clinic'. Northwestern Neurosurgery Instagram (June 2025) celebrates the graduation of 'Luis Fernandez III, MD; William Gibson, MD, PhD; and Daniel Oyon, MD' 'after seven years of training'. Healthgrades: Luis Fernandez III, Baylor College of Medicine 2018, Northwestern-affiliated neurosurgeon, Cleveland Clinic skull base fellowship. NPI 1932603461 (Luis Guillermo Fernandez III): Neurological Surgery licenses in OH (fellowship), IL (residency) and TX. Enumerated Mar 2018. Updated Jul 13 2026 with a Tyler TX practice address.",
+  "confidence": "high",
+  "notes": "Agrees with current_outcome COMPLETED. The ambiguous-name flag is resolved by the 'III' suffix together with the program's own alumni list and graduation post. Namesakes to exclude: Luis Fernandez MD, a trauma surgeon at UT Tyler (Northwestern general surgery 1987-90), and pediatric neurologists in Erie/Pittsburgh. The current Tyler TX job comes only from the NPI address and is a likely post-fellowship practice."
+ },
+ {
+  "name": "Joshua Hughes",
+  "program_id": 40,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "Mayo Clinic (Rochester, MN)",
+   "start": 2012,
+   "end": 2019
+  },
+  "other_training": [
+   {
+    "type": "enfolded fellowship",
+    "specialty": "Skull base surgery",
+    "institution": "Mayo Clinic Rochester",
+    "start": null,
+    "end": 2019
+   }
+  ],
+  "current_position": "Neurosurgeon, CarePoint Neurosurgery and Spine, Englewood/Denver CO (since 2025). Earlier practice was in Mississippi (Baptist Memorial-North Mississippi affiliation).",
+  "sources": [
+   "https://www.hughes-neurosurgery.com/",
+   "https://health.usnews.com/doctors/joshua-hughes-881322",
+   "https://www.doximity.com/pub/joshua-hughes-md-317381fa",
+   "https://healthy.kaiserpermanente.org/colorado/clinicians/joshua-hughes-3904895",
+   "https://npiregistry.cms.hhs.gov/provider-view/1982968525",
+   "https://orcid.org/0000-0003-0362-302X"
+  ],
+  "evidence": "His practice website says he 'graduated from the University of Mississippi Medical School in Jackson, MS, in 2012' and completed neurosurgery training at Mayo Clinic Rochester 'finishing in 2019 with an in-folded skull base fellowship'. He joined CarePoint Neurosurgery and Spine in Denver in 2025. US News (Joshua D. Hughes, Englewood CO, neurosurgeon) lists affiliations including Baptist Memorial Hospital-North Mississippi. NPI 1982968525 (Joshua D Hughes, Neurological Surgery, CO) matches, and ORCID shows University of Mississippi MD 2008-2012 plus Mayo publications.",
+  "confidence": "high",
+  "notes": "Agrees with current_outcome COMPLETED. The ambiguous-name flag is resolved: his own practice site links UMMC MD 2012 to Mayo neurosurgery 2012-2019, which ties ORCID and NPI together. The 'joshua-hughes-md' Doximity slug for an EM physician is a different person."
+ },
+ {
+  "name": "William Gibson",
+  "program_id": 41,
+  "verdict": "completed_here",
+  "neurosurgery_residency": {
+   "institution": "McGaw Medical Center of Northwestern University",
+   "start": 2018,
+   "end": 2025
+  },
+  "other_training": [
+   {
+    "type": "fellowship",
+    "specialty": "Functional (stereotactic & functional) neurosurgery",
+    "institution": "UT Southwestern Medical Center",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "current_position": "Neurosurgeon at UT Southwestern, Dallas TX: functional neurosurgery fellow from 2025. A UTSW provider page and a Dallas US News/Doximity listing exist.",
+  "sources": [
+   "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+   "https://www.instagram.com/p/DLARv9KMD2x/",
+   "https://health.usnews.com/doctors/william-gibson-1813135",
+   "https://www.doximity.com/pub/william-gibson-md-e999c1bd",
+   "https://utswmed.org/doctors/william-gibson/",
+   "https://www.everydayhealth.care/providers/4481373/william-samuel-james-gibson-mdphd/"
+  ],
+  "evidence": "Northwestern neurosurgery alumni page: 'William Gibson, MD, PhD (2025): Functional Neurosurgery Fellowship, UT Southwestern'. The Northwestern Instagram graduation post (June 2025) names William Gibson, MD, PhD among the three residents graduating after seven years. Search snippets (US News/Doximity/Healthgrades): William S. Gibson, stereotactic & functional neurosurgery, Mayo Clinic MD 2019, completed residency at Northwestern Memorial in 2025, now in a UT Southwestern functional fellowship in Dallas TX. A UTSW provider page 'William Gibson, M.D., Ph.D.: Neurological Surgery' is indexed, but the direct fetch returned 404.",
+  "confidence": "high",
+  "notes": "Agrees with current_outcome COMPLETED. The ambiguous-name flag is resolved by the program's alumni list plus the MD-PhD match (William Samuel James Gibson, Mayo MD-PhD). The 'William S Gibson' Louisville biochemistry papers belong to a different person. A Chicago Doximity page (d18a8153) is likely his residency-era profile."
+ }
+]

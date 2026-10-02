@@ -1,0 +1,791 @@
+[
+ {
+  "key": "84:nol:winslow",
+  "name": "Nolan Winslow",
+  "program_id": 84,
+  "program": "University of Illinois College of Medicine at Peoria Program",
+  "entry_year": 2016,
+  "first_seen": "2016-2017",
+  "last_seen": "2022-2023",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity MD Iowa 2016 with Peoria co-authors (Ivankovic, Boyle); search snippet: medical school Univ of Illinois Peoria then UCI epilepsy 2023-24 / skull base 2024-25 fellowships (residency years not stated explicitly by any source opened)",
+   "outcome": "completed",
+   "outcome_detail": "Practising neurosurgeon (Mercy Rogers AR; UCI/CHOC). Doximity shows no residency entry and an IL license 2016-2023; UCI fellowship page snippet places him after Peoria. Completion inferred from practice + fellowships.",
+   "current": "Neurosurgeon, Mercy Clinic Neurosurgery, Rogers AR (fellowship-trained epilepsy/skull base)",
+   "residency_stated": [
+    {
+     "institution": "University of Illinois College of Medicine at Peoria",
+     "specialty": "neurosurgery",
+     "start": 2016,
+     "end": 2023
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/nolan-winslow-md",
+     "type": "doximity",
+     "evidence": "Class of 2016 Iowa; IL license 2016 - 2023; co-authors Ivankovic, Boyle, Miller"
+    },
+    {
+     "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/fellowship-programs",
+     "type": "search_snippet",
+     "evidence": "Epilepsy Neurological Surgery Fellowship 2023-24; Skull Base 2024-25 at UC Irvine"
+    },
+    {
+     "url": "https://www.researchgate.net/scientific-contributions/Nolan-Winslow-2183430478",
+     "type": "search_snippet",
+     "evidence": "OSF Saint Francis Medical Center"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "84:tho:russell",
+  "name": "Thomas Russell",
+  "program_id": 84,
+  "program": "University of Illinois College of Medicine at Peoria Program",
+  "entry_year": 2016,
+  "first_seen": "2016-2017",
+  "last_seen": "2022-2023",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "neurosurgen.com lists Thomas M. Russell 2023 Univ. of Illinois / Peoria; OSF Peoria neurosurgery listing; Doximity SUNY Upstate 2015 with IL license 2016",
+   "outcome": "completed",
+   "outcome_detail": "Neurosurgery residency at Peoria (graduated 2023 per neurosurgen.com) and practises neurosurgery (Madison WI; OSF Illinois Neurological Institute). Doximity page lists no residency.",
+   "current": "Neurosurgeon, Madison WI (also OSF Illinois Neurological Institute)",
+   "residency_stated": [
+    {
+     "institution": "University of Illinois College of Medicine at Peoria",
+     "specialty": "neurosurgery",
+     "start": 2016,
+     "end": 2023
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.neurosurgen.com/person/6db083c7-ff8b-447f-ac28-8680e9c8165d",
+     "type": "search_snippet",
+     "evidence": "Thomas M. Russell, 2023 Univ. of Illinois / Peoria"
+    },
+    {
+     "url": "https://www.doximity.com/pub/thomas-russell-md-ddaaa3a5",
+     "type": "doximity",
+     "evidence": "Thomas M Russell MD, Neurosurgery, SUNY Upstate Class of 2015; IL license 2016-2029; WI license 2023-2025"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "84:rob:dunwoody",
+  "name": "Robert Dunwoody",
+  "program_id": 84,
+  "program": "University of Illinois College of Medicine at Peoria Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "WebMD/Healthgrades-type listing: neurosurgeon Peoria, Mercer MD 2019; NPI student Peoria; coauthor with Sardar/Klopfenstein 2026",
+   "outcome": "completed",
+   "outcome_detail": "Snippets list him as Peoria neurosurgeon (Mercer 2019) but Doximity/CareDash directory still list him as Resident Physician Peoria; PGY-7 in 2025-26 implies graduation June 2026. No source explicitly states completion.",
+   "current": "Neurosurgeon/resident, OSF Saint Francis, Peoria IL",
+   "residency_stated": [
+    {
+     "institution": "University of Illinois College of Medicine at Peoria",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://doctor.webmd.com/doctor/robert-dunwoody-a3f2e120-d2e3-4b48-81c7-5a355c318605-overview",
+     "type": "search_snippet",
+     "evidence": "neurosurgeon practicing in Peoria, IL ... graduated from the Mercer University School of Medicine in 2019"
+    },
+    {
+     "url": "https://www.caredash.com/doctors/robert-dunwoody-peoria-il",
+     "type": "search_snippet",
+     "evidence": "Dr. Robert P. Dunwoody - Resident - Peoria, IL"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "84:ans:desai",
+  "name": "Ansh Desai",
+  "program_id": 84,
+  "program": "University of Illinois College of Medicine at Peoria Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Peoria X post re 2024 Match welcoming; CWRU MD 2024 in snippets; Doximity profile for an 'Ansh Desai' shows contradictory neurology residency (Univ of Chicago 2022-2025)",
+   "outcome": "in_training",
+   "outcome_detail": "Snippets state he matched into Peoria neurosurgery 2024 (CWRU MD 2024); WebMD/Vitals Peoria neurosurgery listing. Doximity page is labeled Neurology with UChicago residency 2022-2025 (timeline impossible with 2024 MD), likely a merged/erroneous profile.",
+   "current": "Neurosurgery resident, Peoria",
+   "residency_stated": [
+    {
+     "institution": "University of Illinois College of Medicine at Peoria",
+     "specialty": "neurosurgery",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://x.com/PeoriaNeurosurg/status/1768698682457624650",
+     "type": "search_snippet",
+     "evidence": "welcomed to the Peoria family through the 2024 Match"
+    },
+    {
+     "url": "https://www.doximity.com/pub/ansh-desai-md",
+     "type": "doximity",
+     "evidence": "Neurology, Peoria IL; Residency Neurology Univ of Chicago 2022-2025; CWRU Class of 2024 (conflicting)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "84:mac:miller",
+  "name": "Mackenzie Miller",
+  "program_id": 84,
+  "program": "University of Illinois College of Medicine at Peoria Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Peoria Match Day 2026 page snippet: Mackenzie Miller matched Neurological Surgery, UI College of Medicine-Peoria OSF; no personal profile found",
+   "outcome": "in_training",
+   "outcome_detail": "Matched into Peoria neurosurgery for 2026 (PGY-1 2026-27).",
+   "current": "Incoming neurosurgery PGY-1, Peoria",
+   "residency_stated": [
+    {
+     "institution": "University of Illinois College of Medicine at Peoria",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://peoria.medicine.uic.edu/campus/student-life/ceremonies-and-events/match-day-2026-results/",
+     "type": "search_snippet",
+     "evidence": "Mackenzie Miller matched into Neurological Surgery at the University of Illinois College of Medicine-Peoria OSF"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "85:abh:srinath",
+  "name": "Abhinav Srinath",
+  "program_id": 85,
+  "program": "University of Iowa Health Care Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Iowa roster lists Abhinav Srinath PGY-1; Google shows Abhinav Srinath as UChicago Pritzker MD/PhD in neurosurgery research (Awad lab); Iowa link not independently confirmed",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 on current Iowa roster.",
+   "current": "neurosurgery resident (PGY-1), University of Iowa",
+   "residency_stated": [
+    {
+     "institution": "University of Iowa",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.medicine.uiowa.edu/education/neurological-surgery-residency/our-people/residents",
+     "type": "program_page",
+     "evidence": "Abhinav Srinath (PGY-1)"
+    },
+    {
+     "url": "https://scholar.google.com/citations?user=IB_hx2MAAAAJ&hl=en",
+     "type": "search_snippet",
+     "evidence": "completing his MD at the University of Chicago, Pritzker School of Medicine; MD/PhD"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "85:dia:halalmeh",
+  "name": "Dia Halalmeh",
+  "program_id": 85,
+  "program": "University of Iowa Health Care Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Iowa roster lists Dia Halalmeh PGY-1; search shows Dia Halalmeh (Univ of Jordan MD, research fellow Hurley/Wayne State) with Iowa City neurosurgery affiliation",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 on current Iowa roster.",
+   "current": "neurosurgery resident (PGY-1), University of Iowa",
+   "residency_stated": [
+    {
+     "institution": "University of Iowa",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.medicine.uiowa.edu/education/neurological-surgery-residency/our-people/residents",
+     "type": "program_page",
+     "evidence": "Dia Halalmeh (PGY-1)"
+    },
+    {
+     "url": "https://health.usnews.com/doctors/dia-halalmeh-5192675",
+     "type": "search_snippet",
+     "evidence": "Dr. Dia Halalmeh, MD | Iowa City, IA | Neurosurgeon (snippet only; page not opened, US News deferred)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "85:jak:dillard",
+  "name": "Jake Dillard",
+  "program_id": 85,
+  "program": "University of Iowa Health Care Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Iowa roster lists Jake Dillard PGY-1 from Waukee, Iowa; LinkedIn snippet 'Neurosurgery Resident, University of Iowa' with UNC School of Medicine background",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 on current Iowa roster.",
+   "current": "neurosurgery resident (PGY-1), University of Iowa",
+   "residency_stated": [
+    {
+     "institution": "University of Iowa",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://neurosurgery.medicine.uiowa.edu/education/neurological-surgery-residency/our-people/residents",
+     "type": "program_page",
+     "evidence": "Jake Dillard (PGY-1)"
+    },
+    {
+     "url": "https://www.linkedin.com/in/jake-dillard-544b2646/",
+     "type": "search_snippet",
+     "evidence": "Jake Dillard - Neurosurgery Resident, University of Iowa"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "86:ahm:masri-elyafaoui",
+  "name": "Ahmad Masri-Elyafaoui",
+  "program_id": 86,
+  "program": "University of Kansas School of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Healthgrades/WebMD list Ahmad Masri-Elyafaoui, neurosurgeon, Oakland University William Beaumont MD 2019, Kansas City KS at KU; unique name; no bio stating completion",
+   "outcome": "completed",
+   "outcome_detail": "Probably completed 2026: PGY-7 in 2025-26 and absent from live 2026-27 KU current-resident page; no faculty/practice bio found stating completion or next position. No Doximity page found.",
+   "current": "unknown (listed neurosurgery, Kansas City KS)",
+   "residency_stated": [
+    {
+     "institution": "University of Kansas School of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.healthgrades.com/physician/dr-ahmad-masri-elyafaoui-9het8ln240",
+     "type": "search_snippet",
+     "evidence": "Dr. Ahmad Masri-Elyafaoui, MD - Neurosurgeon in Kansas City, KS"
+    },
+    {
+     "url": "https://www.kumc.edu/school-of-medicine/academics/departments/neurosurgery/academics/residency-program/current-residents.html",
+     "type": "program_page",
+     "evidence": "Current residents page (2026-27) lists PGY-7 Dharia, Guillotte; not Masri-Elyafaoui"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "87:bar:brown",
+  "name": "Barrett Brown",
+  "program_id": 87,
+  "program": "University of Kentucky College of Medicine Program",
+  "entry_year": 2008,
+  "first_seen": "2012-2013",
+  "last_seen": "2013-2014",
+  "last_pgy": 6,
+  "recorded_outcome": "LEFT -> outcome unknown [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Sharecare/MD.com listings: Barrett Brown MD, University of Kentucky College of Medicine, neurosurgery residency at University of Kentucky, TN Brain and Spine, Alcoa TN; Doximity search returned only pathology/orthopaedic namesakes (excluded)",
+   "outcome": "completed",
+   "outcome_detail": "Directory listings state UK neurosurgery residency and current practice as neurosurgeon in Alcoa TN; no dates or faculty bio found.",
+   "current": "neurosurgeon, TN Brain and Spine, Alcoa TN",
+   "residency_stated": [
+    {
+     "institution": "University of Kentucky",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.sharecare.com/doctor/dr-barrett-w-brown",
+     "type": "search_snippet",
+     "evidence": "graduated from University of Kentucky College of Medicine before completing a residency in Neurosurgery at University of Kentucky... TN Brain and Spine"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "87:cat:wang",
+  "name": "Catherine Wang",
+  "program_id": 87,
+  "program": "University of Kentucky College of Medicine Program",
+  "entry_year": 2016,
+  "first_seen": "2016-2017",
+  "last_seen": "2022-2023",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "No Doximity profile for neurosurgeon Catherine Wang found (Doximity Catherine Wang hits are other specialties). Healthgrades/Sharecare snippet: neurosurgeon Florence SC, graduated UK/Chandler Medical Center 2016, McLeod Regional; same practice as UK grad Hines. Not on Florence Neurosurgery about page.",
+   "outcome": "completed",
+   "outcome_detail": "Practising neurosurgeon per Healthgrades snippet, with UK/Chandler training beginning 2016; end year not stated by sources found.",
+   "current": "neurosurgeon, McLeod, Florence SC (per Healthgrades)",
+   "residency_stated": [
+    {
+     "institution": "University of Kentucky (Chandler Medical Center)",
+     "specialty": "neurosurgery",
+     "start": 2016,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.healthgrades.com/physician/dr-catherine-wang-xymqlp7",
+     "type": "search_snippet",
+     "evidence": "neurosurgeon in Florence, SC ... graduated from University of Kentucky / Chandler Medical Center in 2016. affiliated with McLeod Regional Medical Center"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "87:tra:dinsmore",
+  "name": "Travis Dinsmore",
+  "program_id": 87,
+  "program": "University of Kentucky College of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity Travis Dinsmore MD, Marshall MD 2019, neurosurgery Huntington WV, KY medical license 2020-2026 (consistent with UK residency 2019-2026); UK College of Medicine directory page thdi222 exists; WebMD lists neurological surgery Huntington WV. Residency program itself not stated on the pages I could read (UK page 403)",
+   "outcome": "completed",
+   "outcome_detail": "Listed as practising neurosurgeon in Huntington WV (Doximity/WebMD); KY license 2020-2026 fits UK residency; UK roster PGY-7 in 2025-26. Residency program/years not explicitly stated by source",
+   "current": "neurosurgeon, Huntington, WV",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/travis-dinsmore-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Huntington, WV; Marshall University Joan C. Edwards School of Medicine Class of 2019; KY State Medical License 2020 - 2026"
+    },
+    {
+     "url": "https://medicine.uky.edu/users/thdi222",
+     "type": "search_snippet",
+     "evidence": "Travis Dinsmore, MD | University of Kentucky College of Medicine"
+    },
+    {
+     "url": "https://doctor.webmd.com/doctor/travis-dinsmore-d1f516de-a865-4cbc-8604-99ea8d2c3c9d-overview",
+     "type": "search_snippet",
+     "evidence": "Dr. Travis Dinsmore, Neurological Surgery | HUNTINGTON, WV"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "87:han:choi",
+  "name": "Hannah Choi",
+  "program_id": 87,
+  "program": "University of Kentucky College of Medicine Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2026-2027",
+  "last_pgy": 6,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UK trainees page lists PGY-6 Hannah Choi, Loma Linda MD; Doximity Hannah Choi (Lexington KY, Resident Physician, Loma Linda class of 2021); UK page in neurosurgery department users. Doximity does not state specialty",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-6 neurosurgery resident at UK in 2026-27 per UK trainees page",
+   "current": "PGY-6 neurosurgery resident, UK",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+     "type": "program_page",
+     "evidence": "PGY-6: Hannah Choi, MD - Loma Linda University School of Medicine - CA"
+    },
+    {
+     "url": "https://www.doximity.com/pub/hannah-choi-md-d8bf8b42",
+     "type": "doximity",
+     "evidence": "Resident Physician, Lexington KY; Loma Linda University School of Medicine Class of 2021; KY license 2022-2027"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "87:sar:johnson",
+  "name": "Sarah Johnson",
+  "program_id": 87,
+  "program": "University of Kentucky College of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UK trainees page lists PGY-1 Sarah Johnson, MBBS (only name match; no independent bio found; common name, no Doximity match confirmed)",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as PGY-1 at UK neurosurgery in 2026-27; no personal profile found",
+   "current": "PGY-1 neurosurgery resident, UK",
+   "residency_stated": [
+    {
+     "institution": "University of Kentucky College of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": 2033
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+     "type": "program_page",
+     "evidence": "PGY-1: Sarah Johnson, MBBS"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "88:jef:rice",
+  "name": "Jeffrey Rice",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2014,
+  "first_seen": "2017-2018",
+  "last_seen": "2017-2018",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: Jeffrey M Rice MD MPH, Louisville MD 2010, KY license 2016-2024, CNS member, Neurological Surgery residency University of Arizona 2010-2013; DB note names Jeffrey M. Rice, MD, UofL SOM. The dates conflict (Arizona 2010-13 vs Louisville PGY-4 2017-18) so timeline is uncertain",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Doximity: after neurosurgery residency (Arizona 2010-2013, KY license from 2016) later residency in Preventive Medicine/Aerospace medicine (2021-2023), currently Navy CVN-72 SMO San Diego. No evidence he completed neurosurgery at Louisville; left Louisville by 2018. Some directories (WebMD/Vitals) still list him as neurological surgery, Tucson.",
+   "current": "aerospace/preventive medicine physician (Navy), San Diego CA",
+   "residency_stated": [
+    {
+     "institution": "University of Arizona College of Medicine-Tucson",
+     "specialty": "neurosurgery",
+     "start": 2010,
+     "end": 2013
+    },
+    {
+     "institution": "Navy Medicine Operational Training Center Aerospace Medicine",
+     "specialty": "preventive medicine",
+     "start": 2021,
+     "end": 2023
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/jeffrey-rice-md-5875b948",
+     "type": "doximity",
+     "evidence": "Residency, Preventive Medicine 2021-2023; Residency, Neurological Surgery, University of Arizona 2010-2013; University of Louisville Class of 2010; KY license 2016-2024"
+    },
+    {
+     "url": "https://doctor.webmd.com/doctor/jeffrey-rice-c01ac036-7fa9-4b8d-828d-c0ca8a883a29-overview",
+     "type": "search_snippet",
+     "evidence": "Neurological Surgery, Tucson AZ"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "88:luk:pearson",
+  "name": "Luke Pearson",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2022-2023",
+  "last_pgy": 5,
+  "recorded_outcome": "LEFT -> TRANSFERRED",
+  "tier": 2,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Louisville resident page (UCF MD 2018, joined Louisville 2018); WebMD Luke Henry Pearson UCF 2018 with UF Health Jacksonville and Jewish Hospital (Louisville) affiliations; UF Jax neurotrauma fellow 2026 from 'Neurosurgery Residency, Kansas City, MO'; Saint Luke's KC lists Luke Pearson PGY 4",
+   "outcome": "transferred",
+   "outcome_detail": "Louisville PGY-5 2022-23, then appears as neurosurgery resident at Saint Luke's Hospital of Kansas City (page lists PGY 4, 2026) and as UF Jacksonville neurotrauma/spine fellow 2026 listed with 'Neurosurgery Residency, Kansas City, MO'. PGY labels inconsistent so exact transfer year unclear.",
+   "current": "Neurotrauma/spine fellow 2026, UF Health Jacksonville (per fellows page)",
+   "residency_stated": [
+    {
+     "institution": "University of Louisville",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2023
+    },
+    {
+     "institution": "Saint Luke's Hospital of Kansas City (BJC)",
+     "specialty": "neurosurgery",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.saintlukeskc.org/education/residencies-fellowships/neurosurgery-residency",
+     "type": "program_page",
+     "evidence": "Luke Pearson, MD PGY 4"
+    },
+    {
+     "url": "https://neurosurgery.med.jax.ufl.edu/education/neurotrauma-spine-fellowship/fellows/",
+     "type": "program_page",
+     "evidence": "2026: Luke Pearson, M.D. - Neurosurgery Residency, Kansas City, MO"
+    },
+    {
+     "url": "https://doctor.webmd.com/doctor/luke-pearson-bf1c489d-d4e7-472e-bbe9-4e7018c15596-overview",
+     "type": "search_snippet",
+     "evidence": "Luke Henry Pearson, UCF College of Medicine 2018; UF Health Jacksonville, Jewish Hospital"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "88:muh:kandel",
+  "name": "Muhammad Kandel",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2014,
+  "first_seen": "2016-2017",
+  "last_seen": "2019-2020",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> TRANSFERRED (Saint Louis University)",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity/Google: Muhammad Kandel MD, Ain Shams class of 2003, neurosurgery Hot Springs AR, KY license 2020-2027 and MO license 2022-2027; ResearchGate/SLU list 'Neurosurgery Chief Resident, Saint Louis University' PGY-6; NPI/vitadox lists earlier Louisville KY practice address. Matches Ain Shams MD 2002 and Louisville entry in input notes",
+   "outcome": "transferred",
+   "outcome_detail": "Louisville PGY-3/4 2016-2020, then Saint Louis University neurosurgery (chief resident, PGY-6); MO license 2022, now neurosurgeon in Hot Springs AR. SLU start year not stated by sources read; SLU roster page could not be fetched",
+   "current": "neurosurgeon, Mercy Hot Springs AR",
+   "residency_stated": [
+    {
+     "institution": "University of Louisville School of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2016,
+     "end": 2020
+    },
+    {
+     "institution": "Saint Louis University",
+     "specialty": "neurosurgery",
+     "start": 2020,
+     "end": 2022
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.researchgate.net/profile/Muhammad-Kandel",
+     "type": "search_snippet",
+     "evidence": "Muhammad KANDEL | Neurosurgery Chief Resident | MD, PhD | Saint Louis University, St. Louis | SLU | Department of Neurosurgery"
+    },
+    {
+     "url": "https://www.doximity.com/pub/muhammad-kandel-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Hot Springs, AR; Ain Shams University Faculty of Medicine Class of 2003; MO State Medical License 2022 - 2027; KY 2020 - 2027"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "89:abd:ahmed",
+  "name": "Abdul-Kareem Ahmed",
+  "program_id": 89,
+  "program": "University of Maryland Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2023-2024",
+  "last_pgy": 6,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "LinkedIn/WebMD/neurosurgen: Abdul-Kareem Ahmed, Brown MD, neurosurgery resident University of Maryland; Baltimore listing",
+   "outcome": "in_training",
+   "outcome_detail": "No evidence of leaving. Directories/LinkedIn list him as a neurosurgery resident at Univ of Maryland (a 2025 neurosurgen listing). Absent from UMMC alumni list (through 2024). Possibly extended for research / MIT science writing year.",
+   "current": "neurosurgery resident, University of Maryland (per directories)",
+   "residency_stated": [
+    {
+     "institution": "University of Maryland",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/abdul-kareem-ahmed-a49ba714/",
+     "type": "search_snippet",
+     "evidence": "Neurosurgery Resident at University of Maryland Medical Center, Science Writer"
+    },
+    {
+     "url": "https://doctor.webmd.com/doctor/abdul-kareem-ahmed-b823e96f-1fc7-42f9-bcd7-c4ecc68a9679-overview",
+     "type": "search_snippet",
+     "evidence": "Neurological Surgery, Baltimore MD; Brown University; neurosurgery residency at University of Maryland"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "89:kev:kim",
+  "name": "Kevin Kim",
+  "program_id": 89,
+  "program": "University of Maryland Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2026-2027",
+  "last_pgy": 5,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity (resident at UMMC, UMSOM MD 2022, residency 2022-2029); ResearchGate 'Kevin KIM Resident UMMC Dept of Neurosurgery'. Doximity page also shows unrelated internal medicine board listings (likely a different Kevin Kim merged) - ignored",
+   "outcome": "in_training",
+   "outcome_detail": "Doximity lists UMD neurosurgery residency 2022-2029 (projected end); still in training",
+   "current": "neurosurgery resident, University of Maryland Medical Center",
+   "residency_stated": [
+    {
+     "institution": "University of Maryland",
+     "specialty": "neurosurgery",
+     "start": 2022,
+     "end": 2029
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/kevin-kim-md-6829df32",
+     "type": "doximity",
+     "evidence": "University of Maryland Residency, Neurological Surgery, 2022 - 2029"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "89:jos:torres",
+  "name": "Jose Torres",
+  "program_id": 89,
+  "program": "University of Maryland Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UMD residents page lists Jose Torres, PGY-1 (class of 2033), UT Austin, McGovern UTHealth MD; co-author with UMD staff (Crandall, Kim, Serra) on J Neurosurg Case Lessons 2024. No personal profile found",
+   "outcome": "in_training",
+   "outcome_detail": "In training at UMD (listed PGY-1 in 2025-26 per UMD page snippet); no Doximity profile located",
+   "current": "neurosurgery resident, University of Maryland Medical Center",
+   "residency_stated": [
+    {
+     "institution": "University of Maryland",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/residents/bios",
+     "type": "program_page",
+     "evidence": "Jose Torres, MD PGY-1 (Class of 2033)... McGovern Medical School (search snippet summary)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

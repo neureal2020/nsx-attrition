@@ -1,0 +1,1022 @@
+[
+ {
+  "key": "53:pat:halloran",
+  "name": "Patrick Halloran",
+  "program_id": 53,
+  "identity": "probable",
+  "identity_basis": "Penn State College of Medicine Current Residents in Neurosurgery lists Patrick Halloran as PGY-1; no further profile found (possible UConn medical student of same name per ResearchGate, unconfirmed)",
+  "residency_stated": [
+   {
+    "institution": "Penn State Milton S Hershey Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-1 neurosurgery resident at Penn State (entered 2026).",
+  "current": "PGY-1 neurosurgery resident, Penn State Hershey",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-1 Resident, Neurosurgery Residency: Patrick Halloran"
+   }
+  ],
+  "searches_used": 3,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:rad:torabi",
+  "name": "Radmehr Torabi",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Brown Neurosurgery faculty page list residency at Rhode Island Hospital/Brown; MD American Univ of Antigua 2009",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at Brown per Doximity (2013-2020; DB entry_year 2011 is 2 years earlier); then endovascular fellowship (Univ of Tennessee Jackson 2018-2020 per Doximity; Semmes-Murphey per bio). Now faculty.",
+  "current": "Neurosurgeon, associate professor, co-director endovascular neurosurgery, Rhode Island Hospital/Brown, Providence RI",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/radmehr-torabi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.brownhealth.org/providers/radmehr-torabi-md",
+    "type": "bio",
+    "evidence": "served his residency in neurosurgery at Rhode Island Hospital/Brown (search snippet)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": ""
+ },
+ {
+  "key": "54:fra:pucci",
+  "name": "Francesco Pucci",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Brown Class of 2012, residency Rhode Island Hospital/Brown; UI Health neurosurgery faculty page",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency 2014-2021 at Brown (DB entry_year 2012 = MD year); now attending neurosurgeon.",
+  "current": "Neurosurgeon (epilepsy/functional), UI Health, Chicago IL",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/francesco-pucci-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 Rhode Island Hospital/Brown University Health"
+   },
+   {
+    "url": "https://hospital.uillinois.edu/find-a-doctor/francesco-pucci",
+    "type": "bio",
+    "evidence": "Department of Neurosurgery at UI Health (search snippet)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:kri:moldovan",
+  "name": "Krisztina Moldovan",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity residency at Rhode Island Hospital/Brown; Brown faculty bio; MD UVA 2013",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Brown neurosurgery residency 2015-2022 per Doximity, ABNS certified; neuroendovascular fellowship Mount Sinai; now Brown faculty. (DB entry 2013 = MD year.)",
+  "current": "Assistant professor of neurosurgery, co-director endovascular neurosurgery, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/krisztina-moldovan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.brownhealth.org/providers/krisztina-moldovan-md",
+    "type": "bio",
+    "evidence": "residency in neurosurgery at Brown; fellowship Mount Sinai (search snippet)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": ""
+ },
+ {
+  "key": "54:ama:baker",
+  "name": "Amanda Baker",
+  "program_id": 54,
+  "identity": "probable",
+  "identity_basis": "Amanda Baker MD (Drexel 2014) completed diagnostic radiology residency at Brown 2020 (Montefiore bio, Brown radiology alumni page); DB phase-2 note ties her to Brown neurosurgery PGY-1 2014-15; no source found that names neurosurgery training, so link to the input person rests on the timeline (MD 2014, Brown) and DB note",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "diagnostic radiology",
+    "start": null,
+    "end": 2020
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Switched to diagnostic radiology at Rhode Island Hospital/Brown (residency completed 2020); then neuroradiology / neurointerventional fellowships at UCSF (2023; alumni page also lists Boston Children's). Neurosurgery PGY-1 2014-15 not independently confirmed.",
+  "year_left": 2015,
+  "destination_program": "Rhode Island Hospital/Brown University Health (diagnostic radiology)",
+  "destination_start_year": 2015,
+  "current": "Attending, neurointerventional radiology and neuroradiology, Montefiore Einstein, Bronx NY",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://doctors.montefioreeinstein.org/providers/1790198125/amanda-baker",
+    "type": "bio",
+    "evidence": "MD Drexel 2014; residency in diagnostic radiology at Brown, completed 2020; UCSF fellowships 2023"
+   },
+   {
+    "url": "https://radiology.med.brown.edu/education/diagnostic-radiology-residency-program/alumni",
+    "type": "program_page",
+    "evidence": "Amanda Baker, graduation 2020, fellowship neurointerventional radiology UCSF"
+   }
+  ],
+  "searches_used": 3,
+  "disagreement": "",
+  "agrees_with_db": true,
+  "abns_certified": null
+ },
+ {
+  "key": "54:xun:li",
+  "name": "Xun Li",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity residency at Rhode Island Hospital/Brown ending 2021, MD Temple 2013; Jamaica Hospital bio",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed at Brown 2021 (Doximity, snippet of Doximity cv page); fellowships Penn / Shriners 2021-22. Transfer-in from UVM per DB not re-verified by these sources (Jamaica Hospital bio lists Brown, not Vermont).",
+  "current": "Neurosurgeon (spine), Jamaica Hospital Medical Center, Queens NY",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/xunlimd",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 Rhode Island Hospital/Brown University Health; Temple Class of 2013"
+   },
+   {
+    "url": "https://jamaicahospital.org/newsletter/meet-our-doctors-dr-xun-li/",
+    "type": "bio",
+    "evidence": "training at Temple, Brown, University of Pennsylvania"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:soh:syed",
+  "name": "Sohail Syed",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity residency Brown 2015-2022, MD Albany 2015; OSF HealthCare bio",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Brown 2015-2022, spine fellowship Brown 2022-23.",
+  "current": "Neurosurgeon (spine), OSF HealthCare, Peoria IL",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sohail-syed-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022; Fellowship, Neurosurgical Spine Surgery, 2022 - 2023"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:jon:poggi",
+  "name": "Jonathan Poggi",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Texas Health bio states Brown neurosurgery residency, MD Albany 2016; Doximity RI license 2016-2023 and Rhode Island Hospital affiliation",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgeon at Texas Health Plano; neurosurgery residency at Brown then neurovascular fellowship at Emory. Doximity page lists no residency dates.",
+  "current": "Neurosurgeon (neurovascular), Texas Health Neurosurgery and Spine Specialists, Plano TX",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.care.texashealth.org/Providers/THPG/Texas-Health-Neurosurgery-and-Spine-Specialists/General/jonathan-andrew-poggi-md",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at Brown University ... neurovascular fellowship at Emory (search snippet)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jonathan-poggi-md",
+    "type": "doximity",
+    "evidence": "Albany Medical College Class of 2016; Neurosurgery Plano TX; no residency listed"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:mat:anderson",
+  "name": "Matthew Anderson",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Matthew N. Anderson: Brown bio/search snippet (chief resident, UConn MD); Doximity UConn Class of 2016, RI license 2016-2023, co-author with Brown residents 2024; UW endovascular fellowship",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgery residency at Brown then endovascular fellowships (Brown, then Univ of Washington 2023); now attending in Union NJ. Doximity shows RI license 2016-2023 consistent with 7-yr residency; no residency line.",
+  "current": "Neurosurgeon (endovascular/cerebrovascular), Union NJ (Atlantic Health / IGEA)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-anderson-md-d350e990",
+    "type": "doximity",
+    "evidence": "UConn School of Medicine Class of 2016; RI State Medical License 2016 - 2023; Neurosurgery, Union NJ"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/news-and-resources/meet-our-new-uw-neurological-surgery-fellows-1",
+    "type": "search_snippet",
+    "evidence": "completed his neurosurgery residency at Brown University and went on to an Endovascular Fellowship at the University of Washington in 2023"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:eli:shaaya",
+  "name": "Elias Shaaya",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Brown bio: residency Rhode Island Hospital/Brown, MD Georgetown 2017",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Brown residency 2017-2024, then neurointerventional fellowship; now Brown faculty.",
+  "current": "Assistant professor of neurosurgery (cerebrovascular), Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/elias-shaaya-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:rah:sastry",
+  "name": "Rahul Sastry",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "UCSF bio: MD Harvard, residency Neurological Surgery at Brown; Doximity Providence RI, Harvard Class of 2017, RI license 2018",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "UCSF profile lists Brown neurological surgery residency and he is at UCSF Neurosurgery (Doximity still labels 'Resident Physician', Providence; stale). Completion year 2024-25 inferred from DB last_seen and UCSF move.",
+  "current": "Neurosurgery, UCSF Health (fellow/faculty), San Francisco CA",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.ucsfhealth.org/providers/rahul-sastry",
+    "type": "bio",
+    "evidence": "Residency: Neurological Surgery at Brown University Medical School"
+   },
+   {
+    "url": "https://www.doximity.com/pub/rahul-sastry-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Providence RI; Harvard Medical School Class of 2017"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:roh:ali",
+  "name": "Rohaid Ali",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Providence RI neurosurgery, Stanford MD 2018, RI license 2018-2025; UChicago and LinkedIn snippets describe Brown neurosurgery chief resident and residency completed 2025",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Search snippet (LinkedIn/AANS): completed neurosurgery residency at Brown 2025; then spine fellow at Harvard (2026); now at UChicago Medicine. Doximity itself lists no residency line.",
+  "current": "Neurosurgeon/assistant professor (computational neurosurgery), UChicago Medicine",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rohaid-ali-md",
+    "type": "doximity",
+    "evidence": "Stanford University School of Medicine Class of 2018; RI State Medical License 2018 - 2025; press: UChicago Neurosurgery AI Section"
+   },
+   {
+    "url": "https://www.uchicagomedicine.org/find-a-physician/physician/rohaid-ali",
+    "type": "search_snippet",
+    "evidence": "completed his Neurosurgery Residency at Brown (completed in 2025); spinal fellow at Harvard"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:bel:shao",
+  "name": "Belinda Shao",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity residency at Rhode Island Hospital/Brown 2019-2026, MD Rutgers NJMS 2019; Brown neurosurgery resident page",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity lists Brown residency 2019-2026 (completed June 2026); LinkedIn snippet lists pediatric neurosurgery fellow at Vanderbilt.",
+  "current": "Pediatric neurosurgery fellow (Vanderbilt per LinkedIn snippet); Doximity address Paramus NJ",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/belinda-shao-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026 Rhode Island Hospital/Brown University Health; Rutgers NJMS Class of 2019"
+   },
+   {
+    "url": "https://www.linkedin.com/in/belinda-shao-741242b4",
+    "type": "search_snippet",
+    "evidence": "Belinda Shao - Pediatric Neurosurgery Fellow, Vanderbilt"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:hae:abdulrazeq",
+  "name": "Hael Abdulrazeq",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Providence RI, MD Rutgers NJMS 2019, residency Rhode Island Hospital/Brown 2020-2026",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity: residency 2020-2026 (DB entry 2019). Functional neurosurgery fellowship UT Southwestern per LinkedIn snippet.",
+  "current": "Functional neurosurgery fellow, UT Southwestern, Dallas (TX license 2026)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/hael-abdulrazeq-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2026 Rhode Island Hospital/Brown; TX State Medical License 2026-2027"
+   },
+   {
+    "url": "https://www.linkedin.com/in/hael-abdulrazeq-50898b52/",
+    "type": "search_snippet",
+    "evidence": "Functional Neurosurgery Fellow @ UT Southwestern"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:fel:sun",
+  "name": "Felicia Sun",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Brown neurosurgery resident page; Doximity Providence RI, MD Univ of Illinois 2019, RI license 2020-2027",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Brown neurosurgery resident. Doximity does not list residency dates.",
+  "current": "Neurosurgery resident, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/felicia-sun-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Providence RI; University of Illinois College of Medicine Class of 2019; RI license 2020 - 2027"
+   },
+   {
+    "url": "https://neurosurgery.med.brown.edu/people/felicia-sun-md-mphil",
+    "type": "program_page",
+    "evidence": "Felicia Sun, MD, Mphil | Neurosurgery | Brown University"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:jos:feler",
+  "name": "Josh Feler",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: residency Rhode Island Hospital/Brown 2020-2027, MD Yale 2020; Brown neurosurgery resident page",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity shows residency 2020-2027 (expected end 2027); currently in endovascular fellow/resident year at Brown.",
+  "current": "Neurosurgery resident (PGY-7), Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joshua-feler-md/",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027; Yale School of Medicine Class of 2020"
+   },
+   {
+    "url": "https://neurosurgery.med.brown.edu/people/josh-feler-md-ms",
+    "type": "program_page",
+    "evidence": "Josh Feler, MD, MS | Neurosurgery | Brown University (search result)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:san:fontanez",
+  "name": "Santos E. Santos Fontanez",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Brown bio: MD Universidad Central del Caribe, prior residency University of Puerto Rico, now PGY-7 at Brown; Doximity Providence RI, UCC Class of 2020, RI license 2021-2027",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Brown neurosurgery resident. Transferred in from University of Puerto Rico neurosurgery (consistent with DB note); Brown RI licence starts 2021.",
+  "current": "Neurosurgery resident, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/santos-santos-fontanez-md",
+    "type": "doximity",
+    "evidence": "Universidad Central del Caribe School of Medicine Class of 2020; RI State Medical License 2021 - 2027"
+   },
+   {
+    "url": "https://neurosurgery.med.brown.edu/people/santos-e-santos-fontanez-md",
+    "type": "program_page",
+    "evidence": "Prior residency: University of Puerto Rico School of Medicine; PGY-7 in neurosurgery at Brown (WebFetch summary)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:cod:doberstein",
+  "name": "Cody Doberstein",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Brown neurosurgery page: MD Brown 2021, PGY-6; Brown affiliations",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Brown neurosurgery resident. Doximity public profile disabled ('Public profile not found or disabled'); Google snippets only.",
+  "current": "Neurosurgery resident, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://neurosurgery.med.brown.edu/people/cody-doberstein-md",
+    "type": "program_page",
+    "evidence": "Warren Alpert Medical School of Brown University; PGY-6 neurosurgery (WebFetch summary)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:nat:nieves",
+  "name": "Natalie Amaral Nieves",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Brown neurosurgery page 'Natalie Amaral Nieves, MD'; WebMD: UPR School of Medicine 2020; publications with Brown authors (Amaral-Nieves, Shao, Sastry)",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Brown neurosurgery resident. Doximity search returned no matching profile.",
+  "current": "Neurosurgery resident, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://neurosurgery.med.brown.edu/people/natalie-amaral-nieves-md",
+    "type": "program_page",
+    "evidence": "Natalie Amaral Nieves, MD | Neurosurgery | Brown University (search result)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:ela:wang",
+  "name": "Elaina Wang",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Brown neurosurgery page for Elaina Wang; snippet: graduated Brown Medical School 2022, resident at Brown University Health",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Brown neurosurgery resident. Doximity search returned no matching profile.",
+  "current": "Neurosurgery resident, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://neurosurgery.med.brown.edu/people/elaina-wang-md",
+    "type": "program_page",
+    "evidence": "Elaina Wang, MD | Neurosurgery | Brown University; graduated Warren Alpert Medical School 2022 (search snippet)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:tor:riccelli",
+  "name": "Tori Riccelli",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Brown neurosurgery page; Doximity Providence RI Mayo Clinic 2022, RI license 2022-2027",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Brown neurosurgery resident. Doximity has no residency dates.",
+  "current": "Neurosurgery resident, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/tori-riccelli-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Providence RI; Mayo Clinic College of Medicine Class of 2022; RI license 2022 - 2027"
+   },
+   {
+    "url": "https://neurosurgery.med.brown.edu/people/tori-riccelli-md",
+    "type": "program_page",
+    "evidence": "Tori Riccelli, MD | Neurosurgery | Brown University"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:car:chuck",
+  "name": "Carlin Chuck",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Brown neurosurgery resident; Doximity Providence RI, Brown MD 2023, RI license 2023-2027",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Brown neurosurgery resident. Doximity has no residency dates.",
+  "current": "Neurosurgery resident, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/carlin-chuck-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Providence RI; Warren Alpert Medical School of Brown University Class of 2023"
+   },
+   {
+    "url": "https://brownneurosurgery.com/our-team/carlin-chuck/chuck-2/",
+    "type": "program_page",
+    "evidence": "Carlin Chuck - Brown Neurosurgery (search result)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:ale:rigamonti",
+  "name": "Alessandra Rigamonti",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Brown neurosurgery resident page; Doximity Providence RI Neurosurgery, Drexel MD 2024, RI license 2024-2027",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Brown neurosurgery resident. Doximity has no residency dates.",
+  "current": "Neurosurgery resident, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alessandra-rigamonti-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Providence RI; Drexel University College of Medicine Class of 2024; RI license 2024 - 2027"
+   },
+   {
+    "url": "https://brownneurosurgery.com/our-team/alessandra-rigamonti/",
+    "type": "program_page",
+    "evidence": "Alessandra Rigamonti, MD - Brown Neurosurgery; PGY1 Neurosurgery Resident at Brown/Lifespan RIH (search snippet)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:dej:rush",
+  "name": "Deja Rush",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Doximity residency Rhode Island Hospital/Brown 2024-2031, Howard MD 2024; Brown Neurosurgery page",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Brown neurosurgery resident. ",
+  "current": "Neurosurgery resident, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/deja-rush-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031 Rhode Island Hospital/Brown University Health; Howard University College of Medicine Class of 2024"
+   },
+   {
+    "url": "https://brownneurosurgery.com/our-team/deja-rush/",
+    "type": "program_page",
+    "evidence": "Deja Rush, MD - Brown Neurosurgery; matched into neurosurgery at Brown (search snippet)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ },
+ {
+  "key": "54:ana:tekriwal",
+  "name": "Anand Tekriwal",
+  "program_id": 54,
+  "identity": "confirmed",
+  "identity_basis": "Brown neurosurgery page (PGY-2, MD/PhD Colorado, Penn undergrad); Doximity Providence RI, Colorado MD 2024, RI license 2025-2027",
+  "residency_stated": [
+   {
+    "institution": "Rhode Island Hospital/Brown University Health",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Brown neurosurgery resident. ",
+  "current": "Neurosurgery resident, Rhode Island Hospital/Brown",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anand-tekriwal-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Providence RI; Univ of Colorado School of Medicine Class of 2024; RI State Medical License 2025 - 2027"
+   },
+   {
+    "url": "https://neurosurgery.med.brown.edu/people/anand-tekriwal-md",
+    "type": "program_page",
+    "evidence": "Anand Tekriwal is a neurosurgery resident at Brown, PGY-2 (WebFetch summary)"
+   }
+  ],
+  "searches_used": 2,
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "abns_certified": null
+ }
+]

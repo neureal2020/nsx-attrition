@@ -1,0 +1,410 @@
+[
+ {
+  "program_id": 55,
+  "match_year": 2024,
+  "matchees": [
+   {
+    "name": "Christopher Wong, DO",
+    "source_url": "https://forums.studentdoctor.net/threads/official-2024-osteopathic-match-thread.1492767/page-2",
+    "in_our_data_as": null,
+    "fate": "in_training",
+    "fate_detail": "NOT in our data; still in training at this program (value outside the given enum, none fits). Touro Univ. California (TUCOM) 2024 match list shows 1 match in Neurological Surgery at Riverside University Health Systems (no name). Arrowhead Neurosurgical Medical Group resident page (undated; lists Alice Wang [our 2022 entrant] as PGY-5, i.e. AY 2026-27) lists Christopher Wong, DO, Touro University California COM, as PGY-3 / 'Third Year Resident' at RUHS => entered 2024 and still in training as of 30 June 2025. Identification is by inference (school + PGY), not by a named match list.",
+    "fate_sources": [
+     "https://anmg-ca.com/neurosurgery-residents.html",
+     "https://forums.studentdoctor.net/threads/official-2024-osteopathic-match-thread.1492767/page-2"
+    ]
+   }
+  ],
+  "explanation": "No published RUHS roster exists for 2017-2025 (our program-55 rosters are a partial PubMed/NPPES reconstruction), so the 2024 intern was never observed; he appears on the current Arrowhead Neurosurgical resident page.",
+  "queries_tried": [
+   "Riverside University Health System neurosurgery residents PGY-2 2024 intern",
+   "\"2024\" match list \"Neurological Surgery\" \"Riverside University Health System\"",
+   "matched neurosurgery \"Riverside University Health System\" 2024 match day DO student",
+   "Touro University California 2024 neurosurgery match Riverside student",
+   "\"Touro University California\" neurosurgery resident \"Riverside University Health System\" PGY",
+   "\"RUHS\" neurosurgery resident \"Touro\" DO 2024",
+   "RUHS neurosurgery instagram welcome new intern class 2024",
+   "\"Riverside University Health System\" \"Department of Neurosurgery\" DO resident 2025 case report Touro University California graduate",
+   "\"Christopher Wong\" DO neurosurgery Riverside Touro"
+  ]
+ },
+ {
+  "program_id": 72,
+  "match_year": 2015,
+  "matchees": [
+   {
+    "name": "Leonardo Brasiliense",
+    "source_url": "https://web.archive.org/web/20151130005133/http://surgery.arizona.edu:80/residents/neurosurgery",
+    "in_our_data_as": "72:leo:brasiliense",
+    "fate": "in_our_data",
+    "fate_detail": "Only PGY-1 on the 2015-16 roster (per our parsed snapshot); completed.",
+    "fate_sources": [
+     "https://web.archive.org/web/20151130005133/http://surgery.arizona.edu:80/residents/neurosurgery"
+    ]
+   },
+   {
+    "name": "UNIDENTIFIED second 2015 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not found. 2015-16 (Nov 2015) and 2016-17 rosters show only one 2015-entry resident; no later-class member fits (2016 class = Avila only; 2017 = Burket). No school match list naming a 2015 Arizona-Tucson neurosurgery match was found (SDN 2015 match-list pages 3 and 5 checked, UA Match Day 2015 posts have no names). Side note: Andres Monserrate Marrero (72:and:marrero, 'entry 2017', first seen 2021-22) is a Univ. of Puerto Rico SOM graduate, likely a UPR-program transfer, not a 2015 matchee.",
+    "fate_sources": []
+   }
+  ],
+  "explanation": "Unresolved: the 2015-16 roster lists a single PGY-1, so the second matchee either never started/left before fall 2015 or entered outside the roster window; no public source names them.",
+  "queries_tried": [
+   "2015 match list \"neurological surgery\" \"University of Arizona\" Tucson",
+   "\"2015\" match results \"Neurological Surgery\" \"U Arizona COM-Tucson\" OR ...",
+   "University of Arizona College of Medicine Tucson \"match day 2015\" neurosurgery",
+   "\"2015\" match list neurosurgery \"Arizona-Tucson\" OR ...",
+   "\"neurosurgery\" \"University of Arizona\" residency 2015 2016 intern then ... former neurosurgery resident",
+   "\"Andres Monserrate\" neurosurgery University of Arizona resident",
+   "\"matched\" \"neurosurgery at the University of Arizona\" 2015",
+   "studentdoctor \"2015 match list\" \"Neurological Surgery\" \"Arizona\""
+  ]
+ },
+ {
+  "program_id": 76,
+  "match_year": 2012,
+  "matchees": [
+   {
+    "name": "Jonathan Breshears",
+    "source_url": "https://doctor.webmd.com/doctor/jonathan-breshears-28c078fc-dec5-11e7-9f4c-005056a225bf-overview",
+    "in_our_data_as": "76:jon:breshears",
+    "fate": "in_our_data",
+    "fate_detail": "MD Washington University 2012 (WebMD) => necessarily a 2012 matchee; our entry_year 2011 is an inference from 2018 graduation under a 7-yr assumption and should be 2012. Completed UCSF 2018 (alumni page).",
+    "fate_sources": [
+     "https://doctor.webmd.com/doctor/jonathan-breshears-28c078fc-dec5-11e7-9f4c-005056a225bf-overview",
+     "https://neurosurgery.ucsf.edu/residency-program-alumni",
+     "https://saintlukeskc.org/provider/jonathan-d-breshears/1458003"
+    ]
+   },
+   {
+    "name": "Joseph Osorio",
+    "source_url": "https://doctor.webmd.com/doctor/joseph-osorio-f29b47ac-3544-4368-af80-4e4194fae888-overview",
+    "in_our_data_as": "76:jos:osorio",
+    "fate": "in_our_data",
+    "fate_detail": "MD UCSF 2012 (WebMD) => 2012 matchee; our entry_year 2011 should be 2012. Completed UCSF 2018 (alumni page).",
+    "fate_sources": [
+     "https://doctor.webmd.com/doctor/joseph-osorio-f29b47ac-3544-4368-af80-4e4194fae888-overview",
+     "https://neurosurgery.ucsf.edu/residency-program-alumni"
+    ]
+   },
+   {
+    "name": "Martin Rutkowski",
+    "source_url": "https://doctor.webmd.com/doctor/martin-rutkowski-33cdd7eb-cfc7-485c-9e74-593f260ca910-overview",
+    "in_our_data_as": "76:mar:rutkowski",
+    "fate": "in_our_data",
+    "fate_detail": "MD UCLA 2012 (WebMD); Kaiser profile lists internship and residency at UCSF => 2012 matchee; our entry_year 2011 should be 2012. Completed UCSF 2018 (alumni page).",
+    "fate_sources": [
+     "https://doctor.webmd.com/doctor/martin-rutkowski-33cdd7eb-cfc7-485c-9e74-593f260ca910-overview",
+     "https://healthy.kaiserpermanente.org/washington/clinicians/martin-rutkowski-1033740",
+     "https://neurosurgery.ucsf.edu/residency-program-alumni"
+    ]
+   }
+  ],
+  "explanation": "Mis-dated class, not missing people: the 2011-12 intern row was reconstructed (old site omitted interns) by assuming 7-yr training back from 2018 graduation, but Breshears, Osorio and Rutkowski all received their MDs in 2012, so they are the 3 NRMP 2012 matchees and the real gap is 2011 (no 2011 intern class). UCSF alumni page lists no 2019 graduates, consistent with this. Derek Southwell (also 'entry 2011', first seen 2013-14, grad 2018) was not checked and may be a separate case.",
+  "queries_tried": [
+   "UCSF neurosurgery residency graduated 2019 completed residency ...",
+   "UCSF neurosurgery \"no intern class\" OR \"did not take\" residents 2012 match Lau Magill Rutledge medical school graduation",
+   "\"2012\" match list \"neurological surgery\" \"UCSF\" OR ...",
+   "\"Stephen Magill\" neurosurgery residency UCSF began 2012 MD PhD graduated",
+   "\"Jonathan Breshears\" neurosurgery residency UCSF 2011 2018 medical school MD year",
+   "\"Martin Rutkowski\" neurosurgeon medical school graduated residency UCSF 2011 OR 2012 Augusta",
+   "\"Joseph Osorio\" neurosurgeon UCSD MD PhD medical school residency UCSF internship year",
+   "\"Breshears\" neurosurgeon \"Washington University\" \"2012\" medical school graduated webmd OR vitals",
+   "\"Joseph Osorio\" webmd neurosurgeon San Diego ..."
+  ]
+ },
+ {
+  "program_id": 97,
+  "match_year": 2017,
+  "matchees": [
+   {
+    "name": "William McKay",
+    "source_url": null,
+    "in_our_data_as": "97:wil:mckay",
+    "fate": "in_our_data",
+    "fate_detail": "Already our 2017 entrant (inferred); transferred to Colorado 2020 on program closure.",
+    "fate_sources": []
+   },
+   {
+    "name": "UNIDENTIFIED second 2017 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. The Candle article gives the class makeup at the accreditation loss as 2 residents in year 3 (i.e., two 2017 entrants), consistent with NRMP's 2 filled. The Albuquerque Journal count (10 residents in 2019-20, 2 finishing in 2020, 8 to be placed elsewhere) leaves 2 unnamed transferees, probably this person and the 2019 PGY-1. If so, this person was forced to transfer out in 2020 (closure) and was not attrition, but the destination is unknown. UNM 2017 SOM match list and UMN 2017 list checked: no UNM neurosurgery matchee.",
+    "fate_sources": [
+     "https://thecandlepublishing.com/beginning-tomorrow-flaws-foreshadowing-2019-unm-neurosurgery-losing-accreditation-resurface-as-docs-in-charge-rake-in-millions/",
+     "https://hsc.unm.edu/medicine/education/md/_docs/omsa/omsa-faculty-and-dept-resources/2017-match-list-alpha-public.pdf"
+    ]
+   }
+  ],
+  "explanation": "No UNM roster archived after 2016-17; the 2017 class was reconstructed only from McKay's PubMed/Colorado trail, so a second 2017 intern never surfaced.",
+  "queries_tried": [
+   "\"2017\" match \"Neurological Surgery\" \"University of New Mexico\" match list medical school",
+   "hsc.unm.edu match list 2019 OR 2017 \"Neurological Surgery\" \"U New Mexico SOM\"",
+   "University of New Mexico neurosurgery residency accreditation withdrawn residents transferred 2020",
+   "\"University of New Mexico\" neurosurgery resident transferred 2020 \"PGY\" joined residency program from UNM",
+   "neurosurgery resident \"University of New Mexico\" \"intern year\" OR \"first year\" OR \"PGY-1\" transferred 2020 bio",
+   "neurosurgery resident bio \"began his neurosurgical training at the University of New Mexico\" OR ...",
+   "\"matched\" neurosurgery \"University of New Mexico\" 2019 OR 2017 student match day news"
+  ]
+ },
+ {
+  "program_id": 97,
+  "match_year": 2018,
+  "matchees": [
+   {
+    "name": "Jordan L. Davies",
+    "source_url": "https://hscweb3.hsc.usf.edu/wp-content/uploads/2018/03/Match1-2018-USF.pdf",
+    "in_our_data_as": "UCI (program 74) roster name 'Jordan Davies' PGY-2 2019-20..PGY-7 2024-25; training_history row UNM 2018-2019 (resident_id not linked)",
+    "fate": "transferred_out",
+    "fate_detail": "USF 2018 match list: Davies, Jordan L., Neurological Surgery, University of New Mexico SOM. Did PGY-1 at UNM in 2018-19 and transferred to UC Irvine as PGY-2 in 2019-20 (program on probation); UCI alumni Class of 2025, i.e. completed at UCI.",
+    "fate_sources": [
+     "https://hscweb3.hsc.usf.edu/wp-content/uploads/2018/03/Match1-2018-USF.pdf",
+     "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+     "https://web.archive.org/web/20200520000747/http://www.neurosurgery.uci.edu/residency.asp"
+    ]
+   }
+  ],
+  "explanation": "UNM 2018-19 roster was reconstructed and Davies left after 1 year; he was in our data only at the destination (UCI) and in training_history, not as a UNM entrant.",
+  "queries_tried": [
+   "\"2018\" match list \"Neurological Surgery\" \"University of New Mexico\" OR \"U New Mexico SOM\"",
+   "\"Jordan Davies\" neurosurgery resident",
+   "University of New Mexico neurosurgery residency accreditation withdrawn residents transferred 2020",
+   "\"University of New Mexico\" neurosurgery resident transferred 2020 \"PGY\" joined residency program from UNM",
+   "neurosurgery resident \"University of New Mexico\" \"intern year\" OR \"first year\" OR \"PGY-1\" transferred 2020 bio",
+   "neurosurgery resident bio \"began his neurosurgical training at the University of New Mexico\" OR ...",
+   "\"matched\" neurosurgery \"University of New Mexico\" 2019 OR 2017 student match day news"
+  ]
+ },
+ {
+  "program_id": 97,
+  "match_year": 2019,
+  "matchees": [
+   {
+    "name": "UNIDENTIFIED 2019 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. They would have been a PGY-1 in 2019-20, the final year before ACGME withdrawal (2020-06-30). The Albuquerque Journal says all non-graduating residents were to be placed elsewhere, so this person almost certainly transferred out in 2020 (closure, not attrition), destination unknown. The UNM SOM 2019 match list has no neurosurgery rows.",
+    "fate_sources": [
+     "https://hsc.unm.edu/medicine/education/md/_docs/omsa/omsa-faculty-and-dept-resources/2019-match-list-alpha-public.pdf",
+     "https://thecandlepublishing.com/beginning-tomorrow-flaws-foreshadowing-2019-unm-neurosurgery-losing-accreditation-resurface-as-docs-in-charge-rake-in-millions/",
+     "https://www.beckershospitalreview.com/quality/hospital-physician-relationships/u-of-new-mexico-neurosurgery-residency-to-lose-accreditation-in-2020/"
+    ]
+   }
+  ],
+  "explanation": "No UNM roster archived for 2019-20 (reconstructed); the PGY-1 was one of the 2 unnamed of the 10 residents reported by the Journal.",
+  "queries_tried": [
+   "\"2019\" match list \"Neurological Surgery\" \"University of New Mexico\" Albuquerque",
+   "hsc.unm.edu match list 2019 OR 2017 \"Neurological Surgery\" \"U New Mexico SOM\"",
+   "University of New Mexico neurosurgery residency accreditation withdrawn residents transferred 2020",
+   "\"University of New Mexico\" neurosurgery resident transferred 2020 \"PGY\" joined residency program from UNM",
+   "neurosurgery resident \"University of New Mexico\" \"intern year\" OR \"first year\" OR \"PGY-1\" transferred 2020 bio",
+   "neurosurgery resident bio \"began his neurosurgical training at the University of New Mexico\" OR ...",
+   "\"matched\" neurosurgery \"University of New Mexico\" 2019 OR 2017 student match day news"
+  ]
+ },
+ {
+  "program_id": 99,
+  "match_year": 2016,
+  "matchees": [
+   {
+    "name": "Ali Palejwala",
+    "source_url": "https://web.archive.org/web/20171119083500/https://www.oumedicine.com/department-of-neurosurgery/academic-information/current-residents",
+    "in_our_data_as": "99:ali:palejwala",
+    "fate": "in_our_data",
+    "fate_detail": "Only PGY-2 on the Nov 2017 roster; completed 2023.",
+    "fate_sources": [
+     "https://web.archive.org/web/20171119083500/https://www.oumedicine.com/department-of-neurosurgery/academic-information/current-residents"
+    ]
+   },
+   {
+    "name": "UNIDENTIFIED second 2016 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. The OU roster page was stale from 2015-16 to Aug 2017. The first updated capture (Nov 2017) shows only one PGY-2 (Palejwala), and no later class has an extra member (2017 = Ernst + Pelargos, 2018 = Shi + Villeneuve). So the second 2016 matchee, if they started, was gone by Nov 2017: possible attrition or never started. Not in the OU COM 2016-2020 match results (no OU-to-OU neurosurgery match) or the VCU 2016 list.",
+    "fate_sources": [
+     "https://medicine.ouhsc.edu/Portals/1365/Assets/Documents/CAMP/OU%20COM%20Match%20Results%202016_2020%20(1).pdf?ver=2020-07-16-110235-083",
+     "https://medschool.vcu.edu/media/medschool/documents/2016MatchList.pdf"
+    ]
+   }
+  ],
+  "explanation": "Unresolved: no roster exists for 2016-17 (the page was stale), and by the next update only one 2016 entrant remained, so the second matchee left or never started before Nov 2017.",
+  "queries_tried": [
+   "\"2016\" match list \"Neurological Surgery\" \"U Oklahoma COM-OK City\" OR \"University of Oklahoma\"",
+   "\"2016\" match \"Neurological Surgery\" \"Oklahoma City\" match list medical school \"U Oklahoma\"",
+   "OU neurosurgery \"match day\" 2016 welcome new residents Palejwala",
+   "\"neurosurgery\" \"University of Oklahoma\" residency 2016-2017 intern later switched bio ...",
+   "2016 match list pdf \"Neurological Surgery\" \"U Oklahoma COM-OK City\" -neurology"
+  ]
+ },
+ {
+  "program_id": 101,
+  "match_year": 2011,
+  "matchees": [
+   {
+    "name": "UNIDENTIFIED 2011 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. UPR has never published a roster (ours is reconstructed), and our reconstruction has no 2011 entrant: 2010 Estronza-Ojeda, 2012 Vicenty-Padilla and Fernandez-Abinader, 2013 Pellot Cestero. The JNS letter confirms a 1/yr (+1 on alternate years) match pattern since 2007. The current UPR faculty list has UPR-trained neurosurgeons whose residency years are unverified (e.g., Juan Vigo, Juan Ramos, Luis Almodovar, Ivan Sosa); one of them could be the ~2011-2017/18 resident. Unverified leads only.",
+    "fate_sources": [
+     "https://md.rcm.upr.edu/neurosurgery/program-faculty/",
+     "https://thejns.org/view/journals/j-neurosurg/138/2/article-p577.xml"
+    ]
+   }
+  ],
+  "explanation": "UPR never published rosters; the reconstruction relies on fellowship lists/PubMed/NPI and has no trace of a 2011 entrant.",
+  "queries_tried": [
+   "neurosurgeon \"residency\" \"University of Puerto Rico\" neurosurgery 2011-2018 OR \"2018\" completed residency ...",
+   "De Jesus \"history of neurosurgery in Puerto Rico\" Rifkinson ... graduates",
+   "\"Gisela Murray\" OR \"Luis Almodovar\" OR \"Juan Ramos\" neurosurgery \"University of Puerto Rico\" residency completed 2017 OR 2018 fellowship"
+  ]
+ },
+ {
+  "program_id": 101,
+  "match_year": 2019,
+  "matchees": [
+   {
+    "name": "Jose G. Sanchez Jimenez",
+    "source_url": "https://thejns.org/view/journals/j-neurosurg/138/2/article-p577.xml",
+    "in_our_data_as": "101:jos:jimenez",
+    "fate": "in_our_data",
+    "fate_detail": "UPR MD. The JNS letter's table lists the 2019 UPR matchees as 2 UPR SOM graduates. Transferred to MCW 2021 (closure-driven).",
+    "fate_sources": [
+     "https://thejns.org/view/journals/j-neurosurg/138/2/article-p577.xml"
+    ]
+   },
+   {
+    "name": "Freddie Rodriguez Beato",
+    "source_url": "https://thejns.org/view/journals/j-neurosurg/138/2/article-p577.xml",
+    "in_our_data_as": "training_history th 3445 (UPR 2019-2021) / th 3179; UC Davis (program 77) roster name 'Freddie Rodriguez Beato' PGY-3 2021-22..PGY-7 2025-26",
+    "fate": "transferred_out",
+    "fate_detail": "UPR SOM MD 2019 (WebMD). He is the second UPR-graduate 2019 matchee in the JNS table. UPR PGY-1 2019-20 and PGY-2 2020-21; joined UC Davis at PGY-3 in 2021-22 after UPR lost accreditation (closure-driven, not attrition). In training at UC Davis as of 30 June 2025 (PGY-6 2024-25).",
+    "fate_sources": [
+     "https://doctor.webmd.com/doctor/freddie-rodriguez-beato-5ceedc60-8f7f-4170-9e58-6cf18772a9af-overview",
+     "https://web.archive.org/web/20220318003429/https://health.ucdavis.edu/neurosurg/our_team/team_residents.html",
+     "https://web.archive.org/web/20240818095843/https://health.ucdavis.edu/neurosurg/our_team/team_residents.html",
+     "https://thejns.org/view/journals/j-neurosurg/138/2/article-p577.xml"
+    ]
+   }
+  ],
+  "explanation": "Rodriguez Beato was recorded only as a transfer-in at UC Davis (and in training_history), not as a UPR 2019 entrant in the program-101 roster reconstruction.",
+  "queries_tried": [
+   "\"Freddie Rodriguez Beato\" neurosurgery"
+  ]
+ },
+ {
+  "program_id": 101,
+  "match_year": 2021,
+  "matchees": [
+   {
+    "name": "Kyle J. Ortiz Rodriguez (probable)",
+    "source_url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "in_our_data_as": "IU (program 28) roster name 'Kyle Ortiz Rodriguez' PGY-1 2021-22 .. PGY-6 2026-27",
+    "fate": "transferred_out",
+    "fate_detail": "INFERENCE, not directly sourced. UPR SOM MD 2021 (WebMD). IU PGY-1 in 2021-22 although IU filled only 2 positions in the 2021 NRMP, and IU had 3 PGY-1s (Kwon, Ortiz Rodriguez, Witten). ACGME withdrew UPR's accreditation in April 2021, after the Match, so the UPR 2021 matchees had to be placed elsewhere. Probably placed at IU before starting at UPR (never started at UPR). In training at IU as of 30 June 2025.",
+    "fate_sources": [
+     "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+     "https://web.archive.org/web/20211208102606/https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+     "https://doctor.webmd.com/doctor/kyle-ortiz-rodriguez-0dcf044a-7aed-496f-9d5b-9ad2fd7acd42-overview/",
+     "https://www.elnuevodia.com/english/news/story/puerto-rico-oversight-board-laments-upr-losing-accreditation-for-neurosurgery-program/"
+    ]
+   },
+   {
+    "name": "Natalie Amaral Nieves (possible)",
+    "source_url": "https://neurosurgery.med.brown.edu/people/natalie-amaral-nieves-md",
+    "in_our_data_as": "Brown (program 54) roster name 'Natalie Amaral Nieves' PGY-1 2021-22",
+    "fate": "transferred_out",
+    "fate_detail": "INFERENCE, weaker. UPR SOM MD 2020 (WebMD); Brown PGY-6 in 2026-27, so entered 2021. Brown filled 1 position in the 2021 NRMP but had 2 PGY-1s in 2021-22 (Amaral Nieves, Doberstein). Brown also absorbed UPR's 2020 entrant, Santos Fontanez. This fits a displaced UPR 2021 matchee, but whether she or Doberstein was Brown's own matchee is unconfirmed. In training at Brown as of 30 June 2025.",
+    "fate_sources": [
+     "https://neurosurgery.med.brown.edu/people/natalie-amaral-nieves-md",
+     "https://doctor.webmd.com/doctor/natalie-amaral-nieves-2c37a599-591e-4f16-988d-0b7eaf889676-overview"
+    ]
+   }
+  ],
+  "explanation": "UPR's accreditation was withdrawn in April 2021, after the 2021 Match; its 2 matchees apparently never started at UPR and were placed at other programs (probably IU and Brown), so they appear only as extra PGY-1s at those programs.",
+  "queries_tried": [
+   "\"2021\" match \"Neurological Surgery\" \"University of Puerto Rico\" OR \"U Puerto Rico\" match list neurosurgery San Juan",
+   "neurosurgery resident \"University of Puerto Rico\" MD 2021 PGY-5 2025 transferred ...",
+   "neurosurgery resident \"Previous Residency\" OR \"internship\" \"University of Puerto Rico\" neurosurgery joined 2022 PGY-2",
+   "UPR neurosurgery residency 2021 interns accreditation withdrawn residents relocated ...",
+   "neurosurgery resident PGY-5 \"University of Puerto Rico School of Medicine\" OR \"Universidad Central del Caribe\" OR ...",
+   "\"Kyle Ortiz\" OR \"Kyle J. Ortiz\" neurosurgery Puerto Rico Indiana University 2021 matched",
+   "\"Natalie Amaral Nieves\" OR \"Natalie Amaral-Nieves\" neurosurgery"
+  ]
+ },
+ {
+  "program_id": 115,
+  "match_year": 2013,
+  "matchees": [
+   {
+    "name": "Clayton Haldeman",
+    "source_url": "https://web.archive.org/web/20150128101739/http://www.neurosurgery.wisc.edu:80/people/residents/",
+    "in_our_data_as": "115:cla:haldeman",
+    "fate": "in_our_data",
+    "fate_detail": "The only PGY-2 on the Jan 2015 roster; completed 2020.",
+    "fate_sources": []
+   },
+   {
+    "name": "UNIDENTIFIED second 2013 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. No 2013-14 roster was captured (ours is reconstructed). The first capture after that (Jan 2015) shows only Haldeman at PGY-2, and the 2014 class (Dawkins, Bodden, Parmar) is 3 PGY-1s. NRMP 2014 filled 3, which accounts for the 3 PGY-1s, so this was not a deferral into the 2014 class. They left during 2013-14 (possible attrition) or never started. CWRU 2013 and Northwestern match lists checked: no UW neurosurgery match.",
+    "fate_sources": [
+     "https://case.edu/medicine/sites/default/files/2018-05/2013-CWRU-Match-List.pdf"
+    ]
+   }
+  ],
+  "explanation": "No 2013-14 roster exists; by the next capture (Jan 2015) only one 2013 entrant remained, so the second matchee left or never started without being observed.",
+  "queries_tried": [
+   "\"2013\" match list \"Neurological Surgery\" \"U Wisconsin Hospital\" OR \"University of Wisconsin Hospitals\" Madison",
+   "\"University of Wisconsin\" neurosurgery \"internship\" 2013-2014 ... physician bio",
+   "2013 match results pdf \"Neurological Surgery\" \"U Wisconsin Hosp\" OR \"U Wisconsin Hospital and Clinics\" student name"
+  ]
+ },
+ {
+  "program_id": 122,
+  "match_year": 2024,
+  "matchees": [
+   {
+    "name": "UNIDENTIFIED 2024 matchee #1 (RWJMS Class of 2024 graduate)",
+    "source_url": "https://rwjms.rutgers.edu/sites/default/files/2024-03/Match-List-2024.pdf",
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "The Rutgers RWJMS 2024 match list (no names) shows one Neurological Surgery match at Westchester Medical Ctr-NY. Name not found. This person does not appear on any WMC roster: the 2023-24 page stayed frozen until Sep 2025, and on the Oct 2025 wmchealth page the PGY-2 tab still shows the 2023 class (Busse, Rawanduzy). Status as of 30 June 2025 unknown; they could be a current PGY-2 omitted from the stale page, or they may have left.",
+    "fate_sources": [
+     "https://rwjms.rutgers.edu/sites/default/files/2024-03/Match-List-2024.pdf",
+     "https://www.wmchealth.org/graduate-medical-education/neurosurgery-residency-program"
+    ]
+   },
+   {
+    "name": "UNIDENTIFIED 2024 matchee #2",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. NYMC reports 3 neurosurgery matches in 2024 but gives no programs or names, and the AMC 2024 list has none at WMC. The current PGY-1s (Cazorla-Morales, Spirollari) are true 2025 entrants (Spirollari NYMC MD May 2025), not 2024 matchees.",
+    "fate_sources": [
+     "https://www.nymc.edu/som/about/outcomes/2024-match-day/",
+     "https://spinesummit25.eventscribe.net/ajaxcalls/posterPresenterInfo.asp?PresenterID=1783410"
+    ]
+   }
+  ],
+  "explanation": "WMC's roster page was frozen on the 2023-24 list until Sep 2025, and the new page's PGY-2..6 tabs were not advanced, so the 2024 interns have never appeared on any roster we hold.",
+  "queries_tried": [
+   "Westchester Medical Center neurosurgery residents PGY-2 2025 new residents 2024 match",
+   "\"2024\" match list \"Neurological Surgery\" \"Westchester Medical Center\" Valhalla",
+   "New York Medical College 2024 match list neurological surgery Westchester",
+   "Westchester Medical Center neurosurgery \"match day 2024\" OR \"welcome our new interns\" ...",
+   "\"Eris Spirollari\" OR \"Ilona Cazorla-Morales\" medical school graduated 2024 OR 2025 neurosurgery",
+   "\"Westchester Medical Ctr-NY\" \"Neurological Surgery\" 2024 match",
+   "neurosurgery resident \"Westchester Medical Center\" \"Rutgers Robert Wood Johnson Medical School\" 2024 graduate PGY-2",
+   "\"Department of Neurosurgery, Westchester Medical Center\" resident 2025 \"PGY-2\" ..."
+  ]
+ }
+]

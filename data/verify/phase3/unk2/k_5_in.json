@@ -1,0 +1,238 @@
+[
+ {
+  "key": "119:phi:dagostino",
+  "name": "Phillip Dagostino",
+  "program_id": 119,
+  "program": "Wake Forest University Baptist Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2011,
+  "first_seen": "2011-2012",
+  "last_seen": "2014-2015",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete",
+  "program_site": [
+   "http://www.wakehealth.edu/School/Neurosurgery/Resident-Profiles.htm (Common Crawl CC-MAIN-2014-10, 2014-03-11)",
+   "http://www.wakehealth.edu/School/Neurosurgery/Current-Neurosurgery-Residents.htm (Common Crawl CC-MAIN-2014-42, 2014-10-20)"
+  ],
+  "prior_detail": "Only stub profiles (Doximity, RateMDs), no education. Tried other specialties, Boston/MA neurosurgery, PubMed, Wake roster/alumni (alumni page 404). Nothing shows completion or destination.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "119:kri:pawlowski",
+  "name": "Kristen Pawlowski",
+  "program_id": 119,
+  "program": "Wake Forest University Baptist Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2024-2025",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "program_site": [
+   "https://school.wakehealth.edu/residents-and-fellows/p/kristen-danielle-pawlowski (Common Crawl CC-MAIN-2023-40, 2023-09-26)",
+   "https://school.wakehealth.edu/residents-and-fellows/p/kristen-danielle-pawlowski (Common Crawl CC-MAIN-2024-42, 2024-10-11)"
+  ],
+  "prior_detail": "LEAD ONLY: search summaries describe the LinkedIn profile 'Kristen Pawlowski, MD - Michigan Medicine' as a neurology resident at University of Michigan (possible switch to neurology); LinkedIn is behind an auth wall and Michigan roster pages returned 403/404, so not verified.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "120:tat:mahlokozera",
+  "name": "Tatenda Mahlokozera",
+  "program_id": 120,
+  "program": "Washington University/B-JH/SLCH Consortium Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2024-2025",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "program_site": [
+   "https://web.archive.org/web/20231029091402/https://neurosurgery.wustl.edu/people-page/residents/",
+   "https://web.archive.org/web/20241002235702/https://neurosurgery.wustl.edu/people-page/residents/"
+  ],
+  "prior_detail": "2022 intern class had 4; the 2026-27 WashU roster shows PGY5 = Chatrath, Perdomo Pantoja, Yuan only, so he is no longer in the clinical track. No destination or research-year note found (searched WashU rad onc/other depts, T32/fellowship terms).",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "120:mic:jin",
+  "name": "Michael Jin",
+  "program_id": 120,
+  "program": "Washington University/B-JH/SLCH Consortium Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2025-2026",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> outcome unknown [ambiguous name]",
+  "program_site": [
+   "https://web.archive.org/web/20241002235702/https://neurosurgery.wustl.edu/people-page/residents/",
+   "https://web.archive.org/web/20251007134545/https://neurosurgery.wustl.edu/people-page/residents/"
+  ],
+  "prior_detail": "WashU people page (neurosurgery.wustl.edu/people/michael-jin-md-ms/) now returns 404 in Chrome and he is absent from the 2026-27 roster (PGY3 = Koleske, Moniz Garcia, Polavarapu) and from Stanford's roster; suggests departure but no destination found. Other Michael Jins (Stony Brook radiology etc.) are different people.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "120:kyl:mcgrath",
+  "name": "Kyle McGrath",
+  "program_id": 120,
+  "program": "Washington University/B-JH/SLCH Consortium Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "program_site": [
+   "https://web.archive.org/web/20251007134545/https://neurosurgery.wustl.edu/people-page/residents/"
+  ],
+  "prior_detail": "WashU page for him now 404; 2025 entry class PGY2 on 2026-27 roster = Graves, Bhole, Driscoll (not him); not on UF neurosurgery roster. Searches for other specialties (UF and search summaries) found nothing. Destination unknown.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "121:jam:smith",
+  "name": "James Smith",
+  "program_id": 121,
+  "program": "West Virginia University Program",
+  "entry_year": 2013,
+  "first_seen": "2014-2015",
+  "last_seen": "2014-2015",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "program_site": [
+   "https://web.archive.org/web/20140810071738/http://medicine.hsc.wvu.edu:80/Neurosurgery/Residency/Current-Residents"
+  ],
+  "prior_detail": "No profile matching SLU MD / WVU PGY-2 2014-15 found across ~5 searches (WVU, SLU, other specialties, Doximity Class of 2013).",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "48:ann:filley",
+  "name": "Anna Filley",
+  "program_id": 48,
+  "program": "New York Presbyterian Hospital (Columbia Campus) Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2021-2022",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "program_site": [
+   "https://web.archive.org/web/20201029214001/https://www.columbianeurosurgery.org/education/residents/current-residents/",
+   "https://web.archive.org/web/20211028201129/https://www.neurosurgery.columbia.edu/education/residency-program/current-residents"
+  ],
+  "prior_detail": "Not on Columbia neurosurgery current-residents page (PGY1-7) nor on 2024-2026 graduates list; last publications 2024 are with Columbia orthopaedic spine authors (Rangwalla, Gendelberg); ResearchGate lists Dept of Orthopaedic Surgery postdoc 2018-Jan 2025. Doximity residency 2018-2025 looks auto-populated; CA license 2023-2025. Switch to orthopaedics not confirmed, completion of neurosurgery not supported.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "57:sea:munier",
+  "name": "Sean Munier",
+  "program_id": 57,
+  "program": "Rutgers Health/New Jersey Medical School Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "program_site": [
+   "https://web.archive.org/web/20250315174401/https://njms.rutgers.edu/departments/neurosurgery/resident.php",
+   "https://web.archive.org/web/20260114172409/https://njms.rutgers.edu/departments/neurosurgery/resident.php"
+  ],
+  "prior_detail": "PGY7 in 2025-26 so expected to graduate June 2026, but no announcement, fellowship or practice listing found in 5 searches (Doximity, WebMD, Rutgers page, fellowship/graduation searches).",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "73:rya:turner",
+  "name": "Ryan Turner",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "program_site": [
+   "https://web.archive.org/web/20241106164816/https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+   "https://web.archive.org/web/20251212175849/https://medicine.uams.edu/neurosurgery/residents/current-residents/"
+  ],
+  "prior_detail": "Not on UAMS 2026-27 roster (chiefs Coggins, Porter; PGY1-6 others); entry 2019 + 7 yr = expected graduation 2026. Doximity slug e5a846b4 shows 'Resident Physician' Seattle 325 9th Ave (Harborview) with UAMS residency labelled 2024 (label unreliable). Suggests post-residency fellowship at UW/Harborview but not confirmed; UAMS team page 404.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "73:kev:thomas",
+  "name": "Kevin Thomas",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2022-2023",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "program_site": [
+   "https://web.archive.org/web/20211207024455/https://neurosurgery.uams.edu/residents/current-residents/",
+   "https://web.archive.org/web/20220810010546/https://medicine.uams.edu/neurosurgery/residents/current-residents/"
+  ],
+  "prior_detail": "Absent from 2026-27 UAMS roster; no source corroborates UNC Peds Allergy/Immunology or any other destination after 6 searches (allergy/immunology, UNC, UAMS 2021 match, Doximity UAMS 2021).",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "79:amb:gaulden",
+  "name": "Amber Gaulden",
+  "program_id": 79,
+  "program": "University of Cincinnati Medical Center/College of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2020-2021",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "program_site": [
+   "https://web.archive.org/web/20240905175051/https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+   "https://web.archive.org/web/20251108201355/https://med.uc.edu/depart/neurosurgery/education/residency/current-residents"
+  ],
+  "prior_detail": "PGY7 in 2025-26; not on UC 2026-27 residents roster (PGY7 only Garner, Kaye), consistent with graduating June 2026; no announcement, fellowship or practice source found in 5 searches. Serves on a 2025-2027 AANS pediatric neurosurgery committee.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "79:mar:johnson",
+  "name": "Mark Johnson",
+  "program_id": 79,
+  "program": "University of Cincinnati Medical Center/College of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "program_site": [
+   "https://web.archive.org/web/20240905175051/https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+   "https://web.archive.org/web/20251108201355/https://med.uc.edu/depart/neurosurgery/education/residency/current-residents"
+  ],
+  "prior_detail": "Not on UC 2026-27 roster, consistent with graduating June 2026; WebMD lists Mark Daniel Johnson neurosurgeon at UC (UC MD 2019, still resident-era listing); no announcement/fellowship found.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "118:cha:fleming",
+  "name": "Charles Fleming",
+  "program_id": 118,
+  "program": "Virginia Commonwealth University Health System Program",
+  "entry_year": 2019,
+  "first_seen": "2022-2023",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "program_site": [
+   "https://web.archive.org/web/20241114075319/https://neurosurgery.vcu.edu/education/residency/",
+   "https://web.archive.org/web/20251209231108/https://neurosurgery.vcu.edu/education/residency/"
+  ],
+  "prior_detail": "Not on VCU 2026-27 roster (consistent with June 2026 graduation); VCU alumni/fellowship pages name nobody; Doximity Charles Fleming is an Indianapolis anesthesiologist (different person). 4 searches found no destination.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "119:pau:marcet",
+  "name": "Paul Marcet",
+  "program_id": 119,
+  "program": "Wake Forest University Baptist Medical Center Program \u00a9 2026 Accredita",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "program_site": [
+   "https://school.wakehealth.edu/residents-and-fellows/m/paul-andrew-marcet (Common Crawl CC-MAIN-2024-46, 2024-11-11)",
+   "https://school.wakehealth.edu/residents-and-fellows/m/paul-andrew-marcet (Common Crawl CC-MAIN-2025-33, 2025-08-15)"
+  ],
+  "prior_detail": "Doximity (listed as 'Other MD/DO'): NC license 2019-2026, FL license 2026-2028, suggesting a move to Florida after residency (likely fellowship/job), but no source states completion or destination.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ }
+]

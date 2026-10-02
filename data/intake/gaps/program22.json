@@ -1,0 +1,202 @@
+{
+ "program_id": 22,
+ "name": "George Washington University Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.gwneurosurgery.com/residents.shtml (dept site, Chinese-product/spam domain after 2015)",
+   "from": "2007-06",
+   "to": "2013-09"
+  },
+  {
+   "url": "http://smhs.gwu.edu/neurosurgery/residents",
+   "from": "2014-10",
+   "to": "2020-04"
+  },
+  {
+   "url": "https://smhs.gwu.edu/neurosurgery/residency-program-0 (Our Residents)",
+   "from": "2020-07",
+   "to": "2022-01"
+  },
+  {
+   "url": "https://neurosurgery.smhs.gwu.edu/our-residents (live)",
+   "from": "2022-10",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2016-2017",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2015-2016",
+  "2017-2018"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Observed only via Common Crawl CC-MAIN-2012 (2012-02-05) of gwneurosurgery.com/residents.shtml; no Wayback capture between 2008-07 and 2013-08.",
+  "2015-2016": "Stale page: every smhs capture 2015-07..2016-05 (incl. 2015-09-06/12, 2016-03-24, 2016-05-18/19) is the 2014-15 list with Chinn deleted, PGYs not advanced, no 2015 interns. CC 2015-06..2016-18 had no residents URLs. Reconstructed 8 (bracketed or alumni-confirmed); 2015 intern Justin Reagan omitted (not bracketed, not an alumnus). PHASE 2: Reagan added as reconstructed PGY1 (MUSC 2019 roster: 'Clinical Year: George Washington University'). No Wayback/CC capture found with a fresh 2015-16 list.",
+  "2017-2018": "Stale page: 2017-06/09, 2018-05/06 Wayback and CC 2018-13/2018-34 captures all repeat the 2016-17 list. Reconstructed 6; omitted Justin Reagan (last seen 2016-17, gone 2018-19) and the 2017 interns Ross-Jordon Elliott and Kenneth Sack (first seen 2018-19 PGY2). PHASE 2: Elliott and Sack added as reconstructed PGY1 (alumni 2024, PGY2 2018-19). All 43 Common Crawl crawls 2015-2018 (incl. CC-MAIN-2017-04, now OK) give only the stale pages already known."
+ },
+ "alumni_page": "https://neurosurgery.smhs.gwu.edu/our-residents (graduates list on the same page; earlier on gwneurosurgery.com and smhs.gwu.edu/neurosurgery/residents)",
+ "departures": [
+  {
+   "name": "Peter DeRosa",
+   "last_ay": "2013-2014",
+   "last_pgy": 3,
+   "note": "2011 entrant; absent Oct 2014. CONFIRMED switch to pathology by publication affiliations: GW Neurosurgery 2014 (PMID 25083377) -> GW Pathology 2020 (PMID 32939388) -> U Maryland Pathology 2022-23."
+  },
+  {
+   "name": "Moshe Chinn",
+   "last_ay": "2014-2015",
+   "last_pgy": 2,
+   "note": "2013 entrant; deleted from page 2015-05/07. CONFIRMED switch to anesthesiology: GW Anesthesiology & Critical Care Medicine affiliation (PMID 33963083, 2021; 39380859, 2024)."
+  },
+  {
+   "name": "Justin Reagan",
+   "last_ay": "2016-2017",
+   "last_pgy": 2,
+   "note": "2015 entrant; left GW between Jul 2017 and Dec 2018 (stale page listed him to Aug 2018). CONFIRMED switch to radiology: MUSC diagnostic radiology current-residents page (Wayback 2019-10-19) lists him as First Year Resident 2019-20 with 'Clinical Year: George Washington University'; MUSC Radiology affiliation 2021 (PMID 33783916)."
+  },
+  {
+   "name": "Crystal Adams",
+   "last_ay": "2019-2020",
+   "last_pgy": 4,
+   "note": "2016 entrant; last 2019-20 PGY4, not on alumni list. CONFIRMED switch to anesthesiology: GW Neurological Surgery affiliation 2018 (PMID 29614361) -> GW Anesthesiology & Critical Care Medicine 2025-26 (PMID 41509883, 42171957, 42006902)."
+  },
+  {
+   "name": "Kristina Terrani",
+   "last_ay": "2025-2026",
+   "last_pgy": 1,
+   "note": "2025 entrant; PGY1 2025-26 (still listed Apr 2026), absent from live page Sep 2026. GW Neurosurgery affiliation on a paper received Feb 2026 (PMID 42084726). Not on any other roster in this study (checked U Arizona Tucson). NPPES unchanged (last update 2025-06). Outcome UNKNOWN."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 24,
+ "adjudication_summary": {
+  "COMPLETED": 16,
+  "IN TRAINING": 9,
+  "LEFT -> SWITCHED SPECIALTY": 4,
+  "LEFT -> outcome unknown": 1
+ },
+ "problems": "Kristina Terrani's outcome unknown (left after PGY1 2025-26). Exact exit date of Justin Reagan (2017-18 vs mid-2018) unknown. Babington labelled PGY6 in 2014-15 but graduated 2015. Weingarten (2007 entrant) gone before 2012 (pre-window). Alumni list spells Ross-Jordon Elliott as 'Ross-Elliott Jordon' (same person: 2017 entrant, 2024 grad; roster/NPPES spelling kept). CC-MAIN-2017-04 retried OK (no roster URL in it).",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl 2012-02-05 full PGY1-7 roster"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2014-10-28; Babington mislabelled PGY6 (2015 grad)"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "dated roster capture"
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "none",
+   "reason": "All 9 residents bracketed (2014-15/2016-17 rosters, alumni list, MUSC roster for Reagan). 2015 intake = Reagan + Hogan = full complement of 2 (classes alternate 2/1); no 2014-15 resident is unaccounted for; Chinn's exit (May-Jul 2015) is dated by captures."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "8 residents bracketed (2016-17/2018-19 rosters, alumni list). 2017 intake = Elliott + Sack = full complement of 2 (both graduated 2024). Only open point: whether Reagan (PGY3) was still present in 2017-18; his exit is documented (left GW between Jul 2017 and Dec 2018, radiology R1 at MUSC Jul 2019), only its exact date is unknown."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2015-2018: smhs.gwu.edu/neurosurgery, gwneurosurgery.com, gwdocs.com/neurosurgery, smhs.gwu.edu/gme, smhs.gwu.edu/news, gwhospital.com, smhs.gwu.edu/academics/residency (no new roster, profile or news page)",
+   "all smhs.gwu.edu/neurosurgery URLs 2014-2021 (node/* redirects resolve to residency-program/residents pages; department-news only from 2020)",
+   "link audit of residency-program page (CC 2018-03): no roster links other than /neurosurgery/residents",
+   "Common Crawl all 43 crawls 2015-2018, prefix edu,gwu,smhs)/neurosurgery (CC-MAIN-2017-04 retried OK, no failures): only the known stale residents pages (2018-13, 2018-34)",
+   "PubMed affiliation mining GWU neurosurgery 2014-2020: no unknown resident",
+   "PubMed/Europe PMC/OpenAlex author searches for DeRosa, Chinn, Reagan, Adams, Terrani",
+   "MUSC radiology current-residents page (Wayback 2019-10-19)",
+   "NPPES for the five departures; GW live our-residents page 2026-09-28 and 2026 residency-program/news captures"
+  ],
+  "found": [
+   "DeRosa -> pathology (GW, then U Maryland), publication affiliations",
+   "Chinn -> anesthesiology (GW), publication affiliations",
+   "Reagan -> diagnostic radiology, MUSC R1 2019-20 (roster, 'Clinical Year: GWU')",
+   "Crystal Adams -> anesthesiology (GW), publication affiliations",
+   "2015 and 2017 intake classes complete at complement 2 (Reagan+Hogan; Elliott+Sack)"
+  ],
+  "remaining": [
+   "Terrani outcome unknown (left after 2025-26 PGY1)",
+   "Reagan's exact exit date within Jul 2017 - Dec 2018"
+  ]
+ }
+}

@@ -1,0 +1,1063 @@
+[
+ {
+  "key": "28:sco:mitchell",
+  "name": "Scott Mitchell",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU roster lists Scott Mitchell (PGY 7, University of Vermont College of Medicine); Doximity profile scott-mitchell-md-3523de22 shows Neurological Surgery residency at IU 2020-2027, MD UVM 2020. A second Doximity 'Resident Physician' profile (9e508dfc) matches (UVM 2020, Dartmouth BE). Distinctive middle name/suffix not needed: program + school + year match",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-7 neurosurgery resident/fellow-year, IU School of Medicine",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-7 neurosurgery resident/fellow-year, IU School of Medicine",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU roster lists Scott Mitchell (PGY 7, University of Vermont College of Medicine); Doximity profile scott-mitchell-md-3523de22 shows Neurological Surgery residency at IU 2020-2027, MD UVM 2020. A seco"
+   },
+   {
+    "url": "https://www.doximity.com/pub/scott-mitchell-md-3523de22",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027 (Indiana University School of Medicine); University of Vermont College of Medicine Class of 2020"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "28:and:witten",
+  "name": "Andrew Witten",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 6 (MD IU School of Medicine); Doximity andy-witten-md: IU SOM class of 2021, neurosurgery pubs with IU faculty",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-6 neurosurgery resident, IU (listed as 'Andy Witten')",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-6 neurosurgery resident, IU (listed as 'Andy Witten')",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 6 (MD IU School of Medicine); Doximity andy-witten-md: IU SOM class of 2021, neurosurgery pubs with IU faculty"
+   },
+   {
+    "url": "https://www.doximity.com/pub/andy-witten-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Indianapolis; Indiana University School of Medicine Class of 2021; co-author with Kwon/Bohnstedt (IU neurosurgery)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "28:jae:kwon",
+  "name": "Jae Hyun Kwon",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 6 (MD IU School of Medicine); Doximity jae-kwon-md: IU SOM, Indianapolis resident, IU neurosurgery publications",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-6 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-6 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 6 (MD IU School of Medicine); Doximity jae-kwon-md: IU SOM, Indianapolis resident, IU neurosurgery publications"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jae-kwon-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Indianapolis; Indiana University School of Medicine Class of 2019 (as listed); co-author of IU neurosurgery papers"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "28:kyl:rodriguez",
+  "name": "Kyle Ortiz Rodriguez",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 6 (University of Puerto Rico School of Medicine); Doximity kyle-ortiz-md (listed as Kyle Ortiz): IU neurosurgery residency 2021-2028, UPR MD 2021",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-6 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-6 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 6 (University of Puerto Rico School of Medicine); Doximity kyle-ortiz-md (listed as Kyle Ortiz): IU neurosurgery residency 2021-2028"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kyle-ortiz-md/",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 - 2028, Indiana University School of Medicine; University of Puerto Rico School of Medicine Class of 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "28:chi:flores",
+  "name": "Chiara Flores",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 5 (Drexel University College of Medicine); Doximity chiara-flores-md: Drexel class of 2022, 'Neurosurgery Resident', Indianapolis",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-5 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-5 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 5 (Drexel University College of Medicine); Doximity chiara-flores-md: Drexel class of 2022, 'Neurosurgery Resident', Indianapolis"
+   },
+   {
+    "url": "https://www.doximity.com/pub/chiara-flores-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery Resident, Indianapolis; Drexel University College of Medicine Class of 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "28:sar:merrill",
+  "name": "Sarah Merrill",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 5 (Mayo Clinic Alix School of Medicine); IU 'Never Too Late' page and news describe her starting IU neurosurgery residency after Mayo MD 2022. Doximity sarah-merrill-md-7473278e (Neurosurgery, Indianapolis) is a stub without education",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-5 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-5 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 5 (Mayo Clinic Alix School of Medicine); IU 'Never Too Late' page and news describe her starting IU neurosurgery residency after May"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sarah-merrill-md-df9d4b25",
+    "type": "doximity",
+    "evidence": "Sarah Merrill MD, Neurosurgery, Indianapolis IN (stub profile; no education section shown)"
+   },
+   {
+    "url": "https://medicine.iu.edu/blogs/women-in-medicine/never-too-late",
+    "type": "news",
+    "evidence": "search result: mother of nine, Mayo Clinic Alix MD, completing seven-year neurosurgery residency at IU"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "28:wes:troja",
+  "name": "Weston Troja",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 5 (MD IU School of Medicine); Doximity weston-troja-md: IU SOM class of 2022, Resident Physician Indianapolis (phone matches IU neurosurgery 317-963-8145 program line)",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-5 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-5 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 5 (MD IU School of Medicine); Doximity weston-troja-md: IU SOM class of 2022, Resident Physician Indianapolis (phone matches IU neur"
+   },
+   {
+    "url": "https://www.doximity.com/pub/weston-troja-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Indianapolis; Indiana University School of Medicine Class of 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:ale:christodoulides",
+  "name": "Alexei Christodoulides",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 4 (MD IU School of Medicine); Doximity: Neurological Surgery residency IU 2023-2030, IU MD 2023",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-4 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-4 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 4 (MD IU School of Medicine); Doximity: Neurological Surgery residency IU 2023-2030, IU MD 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alexei-christodoulides-md-8d998daa",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030, Indiana University School of Medicine"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:rya:cloyd",
+  "name": "Ryan Cloyd",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 4 (University of Kentucky College of Medicine); Doximity: Neurological Surgery residency IU 2023-2030, UK MD 2023",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-4 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-4 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 4 (University of Kentucky College of Medicine); Doximity: Neurological Surgery residency IU 2023-2030, UK MD 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ryan-cloyd-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030, Indiana University School of Medicine; University of Kentucky College of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:sam:palma",
+  "name": "Samantha Palma",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 4 (MD IU School of Medicine); Doximity samantha-palma-md: Indianapolis, IU neurosurgery-address, skull base authorship papers by Palma (IU Lafayette affiliation on ResearchGate). Doximity page has no education section (search snippet: IU SOM 2023)",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-4 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-4 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 4 (MD IU School of Medicine); Doximity samantha-palma-md: Indianapolis, IU neurosurgery-address, skull base authorship papers by Pal"
+   },
+   {
+    "url": "https://www.doximity.com/pub/samantha-palma-md-aa6c38e5",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Indianapolis; address 355 W 16th St GH5100 (IU neurosurgery); no education listed"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:joh:linczer",
+  "name": "John Linczer",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 3 (Loyola University Chicago); Doximity john-linczer-md: Indianapolis, IU neurosurgery address, IU SOM class of 2024 (as listed), IU neurosurgery publication",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-3 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-3 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 3 (Loyola University Chicago); Doximity john-linczer-md: Indianapolis, IU neurosurgery address, IU SOM class of 2024 (as listed), IU"
+   },
+   {
+    "url": "https://www.doximity.com/pub/john-linczer-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Indianapolis; 355 W 16th St GH5100; co-author with Christopher Wilson (IU neurosurgery)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:mar:arhin",
+  "name": "Martin Arhin",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 3 (UNC Chapel Hill School of Medicine); Doximity martin-arhin-md: Neurosurgery Indianapolis, UNC class of 2024, NIH research fellowship 2022-23",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-3 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-3 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 3 (UNC Chapel Hill School of Medicine); Doximity martin-arhin-md: Neurosurgery Indianapolis, UNC class of 2024, NIH research fellows"
+   },
+   {
+    "url": "https://www.doximity.com/pub/martin-arhin-md",
+    "type": "doximity",
+    "evidence": "Neurosurgeon resident based in Indianapolis; UNC Chapel Hill School of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:che:rahn",
+  "name": "Cheyenne Rahn",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 2 (Pacific Northwest University of Health Sciences COM); LinkedIn snippet: 'PGY1 Neurosurgery Resident', Indiana University Indianapolis",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-2 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-2 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 2 (Pacific Northwest University of Health Sciences COM); LinkedIn snippet: 'PGY1 Neurosurgery Resident', Indiana University Indianap"
+   },
+   {
+    "url": "https://www.linkedin.com/in/cheyenne-rahn-025245275/",
+    "type": "search_snippet",
+    "evidence": "Cheyenne Rahn - PGY1 Neurosurgery Resident, Indiana University Indianapolis"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:gui:finger",
+  "name": "Guilherme Finger",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 2 (Universidade de Caxias do Sul); X post: 'I matched at @Neurosurgery_IU for Neurosurgery!!'; OSU skull base research fellow. Doximity page (Columbus OH, 'Other MD/DO') lists only OSU-era publications, no residency",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-2 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-2 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 2 (Universidade de Caxias do Sul); X post: 'I matched at @Neurosurgery_IU for Neurosurgery!!'; OSU skull base research fellow. Doxim"
+   },
+   {
+    "url": "https://www.doximity.com/pub/guilherme-finger-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Columbus OH; publications from OSU neurosurgery; no residency listed (not yet updated)"
+   },
+   {
+    "url": "https://x.com/guilherme_fngr/status/1903884081282302168",
+    "type": "search_snippet",
+    "evidence": "I matched at @Neurosurgery_IU for Neurosurgery!! ... Honored to be a Hoosier now!!"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:raj:lavadi",
+  "name": "Raj Lavadi",
+  "program_id": 28,
+  "identity": "confirmed",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 2 (Vydehi Institute (MBBS)); Doximity raj-lavadi-md: Neurosurgery Resident at IU SOM, residency start 2025, Vydehi MBBS 2015-2021",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-2 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-2 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 2 (Vydehi Institute (MBBS)); Doximity raj-lavadi-md: Neurosurgery Resident at IU SOM, residency start 2025, Vydehi MBBS 2015-2021"
+   },
+   {
+    "url": "https://www.doximity.com/pub/raj-lavadi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2025, Indiana University School of Medicine; Vydehi Institute M.B.B.S. 2015-2021"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:gab:magnant",
+  "name": "Gabrielle Magnant",
+  "program_id": 28,
+  "identity": "probable",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine); IU resident profile page medicine.iu.edu/resident/66823/magnant-gabrielle",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-1 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-1 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine); IU resident profile page medicine.iu.edu/resident/66823/magnant-gabrielle"
+   },
+   {
+    "url": "https://medicine.iu.edu/resident/66823/magnant-gabrielle",
+    "type": "program_page",
+    "evidence": "Gabrielle Magnant, MD - Indiana University School of Medicine (resident profile)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:tre:line",
+  "name": "Trenton Line",
+  "program_id": 28,
+  "identity": "probable",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine)",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-1 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-1 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "28:whi:brown",
+  "name": "Whitney Brown",
+  "program_id": 28,
+  "identity": "probable",
+  "identity_basis": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine); common name; only the IU roster confirms, Doximity results were a different Whitney Brown (pediatric endocrinology, Columbia SC)",
+  "residency_stated": [
+   {
+    "institution": "Indiana University School of Medicine Program",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on IU current residents page; PGY-1 neurosurgery resident, IU",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-1 neurosurgery resident, IU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.iu.edu/neurological-surgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "IU Neurological Surgery current-residents page lists him/her at PGY 1 (MD IU School of Medicine); common name; only the IU roster confirms, Doximity results were a different Whitney Brown (pediatric e"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "29:set:mansinghani",
+  "name": "Sethesh Mansinghani",
+  "program_id": 29,
+  "identity": "confirmed",
+  "identity_basis": "UVM Health bio: MD Texas A&M, anesthesiology residency UT Southwestern; search snippet: 'Inova Fairfax Hospital from 7/17 - 6/20 and UT Southwestern Medical Center from 7/20 - 6/23' (Texas A&M MD 2017 matches Inova entry 2017)",
+  "residency_stated": [
+   {
+    "institution": "Inova Fairfax Hospital",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2020
+   },
+   {
+    "institution": "UT Southwestern (anesthesiology)",
+    "specialty": "anesthesiology",
+    "start": 2020,
+    "end": 2023
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Inova neurosurgery residency 2020 (last roster 2019-20); anesthesiology residency at UT Southwestern 2020-2023; now neuroanesthesiologist, Univ of Vermont Medical Center. Inova stint listed 7/17-6/20 without specialty in snippet; roster evidence supports neurosurgery",
+  "year_left": 2020,
+  "destination_program": "UT Southwestern anesthesiology",
+  "destination_start_year": 2020,
+  "current": "neuroanesthesiologist/assistant professor, University of Vermont Medical Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.inova.org/education/gme/neurosurgical-residency-program/residents",
+    "type": "program_page",
+    "evidence": "UVM Health bio: MD Texas A&M, anesthesiology residency UT Southwestern; search snippet: 'Inova Fairfax Hospital from 7/17 - 6/20 and UT Southwestern Medical Center from 7/20 - 6/23' (Texas A&M MD 2017"
+   },
+   {
+    "url": "https://www.uvmhealth.org/providers/sethesh-mansinghani-md",
+    "type": "bio",
+    "evidence": "Residency in Anesthesiology through University of Texas Southwestern; ABA certified; MD Texas A&M College of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/seth-mansinghani-md",
+    "type": "doximity",
+    "evidence": "Doximity page for 'Seth Mansinghani, Anesthesiology, Dallas' returned 'Public profile not found or disabled'; search snippet showed Texas A&M 2017"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "29:dan:dang",
+  "name": "Danielle Dang",
+  "program_id": 29,
+  "identity": "confirmed",
+  "identity_basis": "Inova roster class of 2025 (Texas A&M College of Medicine); Doximity: Residency, Neurological Surgery, Inova Fairfax 2018-2025, Texas A&M class of 2018; first graduate of program",
+  "residency_stated": [
+   {
+    "institution": "Inova Fairfax Medical Campus",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Inova neurosurgery residency 2025 (first graduate); skull base fellowship Mayo Clinic 2025-26; now Assistant Professor of Neurosurgery, MedStar Georgetown",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor of neurosurgery, MedStar Georgetown University Hospital (Vienna VA)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.inova.org/education/gme/neurosurgical-residency-program/residents",
+    "type": "program_page",
+    "evidence": "Inova roster class of 2025 (Texas A&M College of Medicine); Doximity: Residency, Neurological Surgery, Inova Fairfax 2018-2025, Texas A&M class of 2018; first graduate of program"
+   },
+   {
+    "url": "https://www.doximity.com/pub/danielle-dang-md-62815f20",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025 Inova Fairfax Medical Campus; Skull base fellowship Mayo 2025-2026"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "29:luk:mugge",
+  "name": "Luke Mugge",
+  "program_id": 29,
+  "identity": "confirmed",
+  "identity_basis": "Inova roster class of 2026 (Univ of Toledo College of Medicine); Doximity luke-mugge-md: Inova residency 2019-2026, Toledo class of 2019",
+  "residency_stated": [
+   {
+    "institution": "Inova Fairfax Medical Campus",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Inova neurosurgery residency 2026 (Outstanding Resident Award 2025); now Complex Spine Fellow (Dr. Lenke), New York; Doximity also lists a 2023-24 Barrow fellowship (vascular neurology line, likely an enfolded/research year)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "complex spine fellow, New York (Lenke), after Inova neurosurgery",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.inova.org/education/gme/neurosurgical-residency-program/residents",
+    "type": "program_page",
+    "evidence": "Inova roster class of 2026 (Univ of Toledo College of Medicine); Doximity luke-mugge-md: Inova residency 2019-2026, Toledo class of 2019"
+   },
+   {
+    "url": "https://www.doximity.com/pub/luke-mugge-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026, Inova Fairfax Medical Campus; Complex Spine Fellow under Dr. Lenke"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "29:oma:awan",
+  "name": "Omar Awan",
+  "program_id": 29,
+  "identity": "confirmed",
+  "identity_basis": "Inova roster class 2027 (University of Florida); Vitals/WebMD listing: neurological surgery Falls Church, UF 2020; Inova resident co-author with Dang/Gong",
+  "residency_stated": [
+   {
+    "institution": "Inova Fairfax Medical Campus",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Inova neurosurgery resident (class of 2027)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-6 neurosurgery resident, Inova Fairfax",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.inova.org/education/gme/neurosurgical-residency-program/residents",
+    "type": "program_page",
+    "evidence": "Inova roster class 2027 (University of Florida); Vitals/WebMD listing: neurological surgery Falls Church, UF 2020; Inova resident co-author with Dang/Gong"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/omar-awan-bf57d84f-6117-4942-addf-1f19080743ff-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery, Falls Church VA, affiliated with Inova Fairfax Hospital; graduated University of Florida College of Medicine 2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "29:and:gong",
+  "name": "Andrew Gong",
+  "program_id": 29,
+  "identity": "confirmed",
+  "identity_basis": "Inova roster class 2028 (Buffalo); Doximity andrew-gong-md: Inova neurosurgery residency 2021-2028, Buffalo class of 2021",
+  "residency_stated": [
+   {
+    "institution": "Inova Fairfax Medical Campus",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Inova neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-5 neurosurgery resident, Inova Fairfax",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.inova.org/education/gme/neurosurgical-residency-program/residents",
+    "type": "program_page",
+    "evidence": "Inova roster class 2028 (Buffalo); Doximity andrew-gong-md: Inova neurosurgery residency 2021-2028, Buffalo class of 2021"
+   },
+   {
+    "url": "https://www.doximity.com/pub/andrew-gong-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 - 2028, Inova Fairfax Medical Campus"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "29:seb:salas-vega",
+  "name": "Sebastian Salas-Vega",
+  "program_id": 29,
+  "identity": "confirmed",
+  "identity_basis": "Inova roster class 2029 (Case Western; PhD LSE); Doximity sebastian-salas-md: Inova residency 2022-2029, CWRU 2022, LSE PhD",
+  "residency_stated": [
+   {
+    "institution": "Inova Fairfax Medical Campus",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Inova neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-4 neurosurgery resident, Inova Fairfax",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.inova.org/education/gme/neurosurgical-residency-program/residents",
+    "type": "program_page",
+    "evidence": "Inova roster class 2029 (Case Western; PhD LSE); Doximity sebastian-salas-md: Inova residency 2022-2029, CWRU 2022, LSE PhD"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sebastian-salas-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2022 - 2029, Inova Fairfax Medical Campus"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "29:car:stuebe",
+  "name": "Caren Stuebe",
+  "program_id": 29,
+  "identity": "confirmed",
+  "identity_basis": "Inova roster class 2031 (Texas A&M); Doximity caren-stuebe-md: Inova residency 2024-2031, Texas A&M 2024",
+  "residency_stated": [
+   {
+    "institution": "Inova Fairfax Medical Campus",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Inova neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-2 neurosurgery resident, Inova Fairfax",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.inova.org/education/gme/neurosurgical-residency-program/residents",
+    "type": "program_page",
+    "evidence": "Inova roster class 2031 (Texas A&M); Doximity caren-stuebe-md: Inova residency 2024-2031, Texas A&M 2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/caren-stuebe-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031, Inova Fairfax Medical Campus"
+   }
+  ],
+  "searches_used": 1
+ }
+]

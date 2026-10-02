@@ -1,0 +1,188 @@
+{
+ "program_id": 70,
+ "name": "University of Alabama Hospital (Birmingham) Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://main.uab.edu/Sites/neurosurgery/ (roster: education/40944/, alumni: education/40950/)",
+   "from": "2009-07",
+   "to": "2013-05",
+   "note": "UAB Division of Neurosurgery (Dept of Surgery era); roster page not updated after 2011-12"
+  },
+  {
+   "url": "http://uabneurosurgery.com/ (roster: current-uab-residents/, alumni: alumni/)",
+   "from": "2013-05",
+   "to": "2016",
+   "note": "department WordPress site after departmental status"
+  },
+  {
+   "url": "http://www.uab.edu/medicine/neurosurgery/education/current-residents",
+   "from": "2014-10",
+   "to": "2017-11",
+   "note": "Joomla; stale 2016-17 list through Nov-2017; per-PGY subcategories 18-pgy1..36-pgy7"
+  },
+  {
+   "url": "https://www.uab.edu/medicine/neurosurgery/education/residency/current-residents",
+   "from": "2018-02",
+   "to": "live",
+   "note": "Wayback captures only from 2019-11; 2018 copies from Common Crawl"
+  },
+  {
+   "url": "https://www.uab.edu/medicine/neurosurgery/education/alumni -> education/residency/graduates -> education/residency/alumni",
+   "from": "2014-10",
+   "to": "live",
+   "note": "alumni by graduation year 2004-2025"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Wayback 2012-09-21 capture of main.uab.edu/Sites/neurosurgery/education/40944/ is content-dated 2011-12 (PGY-1 Dawkins/Foreman/Romeo = 2011 entrants; 2012 graduates Fleming/Naftel still chiefs). Chief-resident PGYs set from the May-2011 page (Fleming PGY-6, Naftel PGY-5 in 2010-11).",
+  "2012-2013": "No 2012-13 roster anywhere: Wayback captures of 40944 have only 2 digests (2011-05, 2012-09), Common Crawl CC-MAIN-2013-20 copy (2013-05-19) is byte-identical to the 2011-12 list; division home/education/overview pages Oct-2012..Apr-2013 carry no names; uabneurosurgery.com starts 2013-05 with first roster capture 2013-09. Reconstructed 16 (13 bracketed; 3 alumni-2013 graduates Fusco/Whisenhunt/Mortazavi; 2012 entrants Amburgy/McClugage/Dupepe from 2013-14 PGY-2 + alumni). An intern or resident who left during 2012-13 would be invisible. Phase 2: re-checked all Sept-2012 education subpages (40942-87442: overview, visiting students, courses, clinical research staff, Galbraith prizes naming only Gordon/Fusco/Miller) and Wayback host audit 2012-05..2013-10 (main.uab.edu/Sites/neurosurgery, /Sites/surgery, /Sites/gme, uabneurosurgery.com): no roster. PubMed 2012-14 UAB-neurosurgery affiliations show no unlisted resident. Every 2011-12 resident not graduating in 2012-13 reappears in 2013-14, so the only invisible case is a 4th 2012 intern who left within the year: low significance.",
+  "2016-2017": "Only 2 PGY-1s (Salehani, Tabibian). Phase 2: Common Crawl CC-MAIN-2016-30 copy of education/current-residents dated 2016-07-24 already shows the new 2016-17 roster with the same 2 PGY-1s (June-2016 and 2016-07-01 copies still show 2015-16). Program total in 2016-17 = 21 = 7x3 ACGME complement because the 2013 class had 4; a third 2016 intern would have made 22. Conclusion: unfilled (complement-offset) slot, not an unseen early leaver.",
+  "2017-2018": "No Wayback capture of the new education/residency/current-residents URL before 2019-11; old URL stale (Aug/Sept/Nov-2017 = 2016-17 list). Used Common Crawl CC-MAIN-2018-09 copy (2018-02-19, UIkit filter tags 'PGY n'); May/Aug-2018 CC copies identical.",
+  "2018-2019": "Common Crawl CC-MAIN-2018-43 copy (2018-10-22); Jan-2019 CC copy identical.",
+  "2020-2021": "Only capture is 2021-04-14 (spring) but content is 2020-21 (PGY-1 = 2020 entrants).",
+  "2026-2027": "Live page 2026-09-27, advanced (new PGY-1 Jarrell/Knott/Weidenkopf)."
+ },
+ "alumni_page": "https://www.uab.edu/medicine/neurosurgery/education/residency/alumni",
+ "departures": [
+  {
+   "name": "Logan Powell",
+   "last_ay": "2025-2026",
+   "last_pgy": 1,
+   "note": "PGY-1 on 2025-26 roster (Aug-2025, Jan-2026); absent from live 2026-27 roster, PGY-2 class shows only Butler and Patrick. Left after PGY-1; destination unknown. The adjudicator's NPI 'switched specialty' call is not evidence; training_history row recorded with departure_type='unknown'."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 48,
+ "adjudication_summary": {
+  "COMPLETED": 39,
+  "IN TRAINING": 20,
+  "LEFT -> did not complete": 1
+ },
+ "problems": "John Amburgy (2012 entrant) is listed PGY-7 on four consecutive rosters (2018-19..2021-22) while the alumni page gives graduation 2021; entry-year inconsistency left as listed (probable extended/research time or stale listing). E.B. Kuhn = Elizabeth Alford (married name, rosters 2014-2019 as Kuhn, 2020-21 as Alford, alumni 2021 as Alford); canonicalised to 'Elizabeth Alford'. Pre-2013 classes had irregular PGY labels (e.g. Gordon PGY-3 2010-11 -> PGY-4 2011-12 -> chief 2013-14, graduated 2014; Griessenauer PGY-2 -> PGY-4); 2013-14 chief Gordon set to PGY-6 from her 2011-12 PGY-4. John Amburgy: alumni page grad 2021 while still listed PGY-7 on the Dec-2021 roster, probably an off-cycle (late-2021) finish after extra time; counted as completed. No Common Crawl failures.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "stale Sept-2012 capture, content-dated 2011-12"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2016 class of 2 confirmed by CC copy 2016-07-24 (~3 weeks into the year) and 21 residents = 7x3 complement; the 2013 class of 4 used the third 2016 slot. Unfilled slot, not an unseen leaver."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "spring 2021 capture, content 2020-21"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page 2026-09-27"
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "All 13 continuing residents appear on both 2011-12 and 2013-14 rosters; 3 graduates on alumni page (2013); 2012 class = 3 (full complement) seen at PGY-2 in 2013-14 and all graduated. Only a 2012 intern above complement who left before Sept 2013 could be unseen; no such person in site pages (all Sept-2012 education subpages checked) or PubMed 2012-14 UAB neurosurgery affiliations."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2016-03..2017-03: www.uab.edu/medicine/neurosurgery, uabneurosurgery.com, uabmedicine.org/news",
+   "gapaudit 2012-05..2013-10: main.uab.edu/Sites/neurosurgery, /Sites/surgery, /Sites/gme, uabneurosurgery.com",
+   "all Sept-2012 education subpages of main.uab.edu/Sites/neurosurgery",
+   "Wayback CDX of neurosurgery/news and education/current-residents/* 2015-2018",
+   "Common Crawl 2016 (9 crawls, CC-MAIN-2016-07..2016-50) for edu,uab)/medicine/neurosurgery/ and com,uabneurosurgery)/ -> phase2/cc2016/",
+   "PubMed affiliation mining 2012-2014 and 2016-2020 (UAB neurosurgery)",
+   "crossmatch.json (no p70 entries)"
+  ],
+  "found": [
+   "CC 2016-07-24 roster copy: 2016 class = 2 PGY-1s three weeks into the year; total complement 21 = 7x3 (2013 class of 4 offsets)",
+   "no unlisted residents in PubMed 2012-2020 affiliations or 2012-13 site pages"
+  ],
+  "remaining": [
+   "2012-13 roster itself never published; residual (low) risk of a 4th 2012 intern leaving within the year",
+   "Logan Powell destination unknown (left after 2025-26 PGY-1)"
+  ]
+ },
+ "departures_recorded_phase2": 1
+}

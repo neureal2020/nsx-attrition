@@ -1,0 +1,232 @@
+[
+ {
+  "program_id": 76,
+  "program": "University of California (San Francisco)",
+  "years": [
+   {
+    "year": "2011-2012",
+    "resolved": true,
+    "how": "UCSF alumni page lists 4 graduates in 2018 (7-yr program): Breshears, Osorio, Rutkowski, Southwell; bios put all four at UCSF 2011-2018, so the 2011 entering class (NRMP 3) is fully accounted for and graduated",
+    "classes_confirmed": [
+     "2011 entrants: Jonathan Breshears, Joseph Osorio, Martin Rutkowski, Derek Southwell - all graduated 2018 (neurosurgery.ucsf.edu/residency-program-alumni, live 2026-09)"
+    ],
+    "sources": [
+     "https://neurosurgery.ucsf.edu/residency-program-alumni",
+     "https://saintlukeskc.org/provider/jonathan-d-breshears/1458003",
+     "https://healthy.kaiserpermanente.org/washington/clinicians/martin-rutkowski-1033740",
+     "https://providers.ucsd.edu/details/33208/neurosurgery-surgery"
+    ]
+   }
+  ],
+  "new_people": [],
+  "notes": "Breshears, Osorio, Rutkowski are already in data/verify/all_residents.json (UCSF, entry 2011, grad 2018, COMPLETED) but were not in our_residents_nearby, so entrants_held=1 likely reflects a DB linkage gap rather than missing people. Four 2018 graduates vs NRMP 3 matched in 2011: the 2011-2018 residency dates come from Doximity/US News search snippets (leads only); the alumni page itself gives only the 2018 graduation year. None of the four left, so there is no attrition either way."
+ },
+ {
+  "program_id": 20,
+  "program": "Emory University School of Medicine",
+  "years": [
+   {
+    "year": "2013-2014",
+    "resolved": false,
+    "how": "Alumni page (live) lists only Joseph Quillin for 2020 (Wetzel is not listed); 2021 graduates are Boucher, Eshraghi, Frerich, Rindler, and Rindler's bios give 2014-2021. No match list, news post or roster naming a third 2013 intern was found, so 1 of the 3 NRMP entrants is still unaccounted for",
+    "classes_confirmed": [
+     "2013 entrants (partial): Joseph Quillin (alumni 2020); Jeremy Wetzel already held; third entrant not found"
+    ],
+    "sources": [
+     "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html"
+    ]
+   }
+  ],
+  "new_people": [],
+  "notes": "Searches: Emory 2013 match lists (none public; the Miami 2013 match page is 404), '2013-2020' Emory residency bios, Emory annual report/newsletter 2013-14, 2021 graduates' bios (Rindler 2014-2021). Possible lead left unchecked: whether any of the four 2021 graduates (Boucher, Eshraghi, Frerich) actually entered in 2013 with an extra year."
+ },
+ {
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine",
+  "years": [
+   {
+    "year": "2017-2018",
+    "resolved": false,
+    "how": "No roster, alumni page or match list names a second 2017 intern. The Candle's count of residents at the 2019 accreditation loss has 2 in year three (2017 class) against our 1 (McKay), which supports a second 2017 entrant still present in 2019. Name not found",
+    "classes_confirmed": [],
+    "sources": [
+     "https://thecandlepublishing.com/beginning-tomorrow-flaws-foreshadowing-2019-unm-neurosurgery-losing-accreditation-resurface-as-docs-in-charge-rake-in-millions/"
+    ]
+   },
+   {
+    "year": "2019-2020",
+    "resolved": false,
+    "how": "ACGME withdrew accreditation in Aug 2019, effective 30 Jun 2020. The UNM HSC legislative presentation (Nov 2019) says '10 residents impacted', 8 to be placed elsewhere, and graduates of June 2020 finish from an accredited program. We hold 8 in 2019-20 (Mohammad and Akbik completed; Vidalis, Voronovich, Harris, Starling, Green, McKay transferred), so about 2 transferring residents are unnamed. The Candle's count by year ('two in year one, one in year two, two in year three, one in year four, two in year five, one in year six, and two in year seven', 11 total) implies 2019 interns we do not hold. Every resident was forced to transfer, not attrited by choice; names not found",
+    "classes_confirmed": [
+     "2013 entrants (graduating June 2020): Mohammad, Akbik - consistent with the '2 completing' in news reports"
+    ],
+    "sources": [
+     "https://www.krwg.org/regional/2019-10-18/unms-neurosurgery-residency-program-to-lose-accreditation",
+     "https://www.nmlegis.gov/handouts/LHHS%20111219%20Item%207%20Dr.%20Roth%20Presentation.pdf",
+     "https://thecandlepublishing.com/beginning-tomorrow-flaws-foreshadowing-2019-unm-neurosurgery-losing-accreditation-resurface-as-docs-in-charge-rake-in-millions/",
+     "https://thesheriffofsodium.com/2022/02/04/how-much-are-resident-physicians-worth/"
+    ]
+   }
+  ],
+  "new_people": [],
+  "notes": "Program lost ACGME accreditation effective 2020-06-30. Per the legislative presentation (read via pdftotext of the fetched PDF): May 2018 ACGME survey, resident complaint Aug 2018, probation Feb 2019, withdrawal Aug 2019; '10 residents impacted', 'Financially assist 8 Neurosurgery Residents in new placement transitions', 'Most residents departing by the end of the calendar year'. The Candle's by-year count (11) conflicts with 10 and with our 2014 class of 2 (it says 1 in year six), so treat it as approximate. The unnamed residents (likely one 2017 and one or two 2019 entrants, plus possibly Jordan Davies, 2018, if he was still there) would all have transferred when the program closed. Check whether Davies (last seen 2018-19, 'transferred') was the single 'year two' resident in 2019-20. Albuquerque Journal article URL 404."
+ },
+ {
+  "program_id": 94,
+  "program": "University of Missouri-Columbia",
+  "years": [
+   {
+    "year": "2011-2012",
+    "resolved": false,
+    "how": "No roster found. Found that Rylan Brantl (PGY-3 on the 2010-11 list) was still a resident, with residency 1 Jul 2008 to 30 Jun 2013 per court records and news. Hiser finished 2006-2012 (Doximity lead only). Muzinich's fate was not found, so the year stays open",
+    "classes_confirmed": [
+     "2008 entrant Rylan Brantl: present 2011-12 (lawsuit: resident 2008-2013; repeated a year)"
+    ],
+    "sources": [
+     "https://hkm.com/neurosurgery-resident-alleges-hostile-work-environment-university/",
+     "https://krcgtv.com/news/local/former-neurosurgery-resident-sues-the-university-of-missouri",
+     "https://www.leagle.com/decision/infdco20190605f89",
+     "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents"
+    ]
+   },
+   {
+    "year": "2012-2013",
+    "resolved": false,
+    "how": "Brantl was dismissed in 2013 (resident to 30 Jun 2013, 'fifth year of a six-year program' after repeating a year), a previously unseen attrition. Muzinich (PGY-4 in 2010-11, due 2013) remains unconfirmed, and there is still no roster",
+    "classes_confirmed": [
+     "Rylan Brantl: final year 2012-13, dismissed 2013"
+    ],
+    "sources": [
+     "https://hkm.com/neurosurgery-resident-alleges-hostile-work-environment-university/",
+     "https://krcgtv.com/news/local/former-neurosurgery-resident-sues-the-university-of-missouri"
+    ]
+   }
+  ],
+  "new_people": [
+   {
+    "name": "Rylan Brantl",
+    "entry_year": 2008,
+    "first_seen": "2010-2011",
+    "last_seen": "2012-2013",
+    "last_pgy": "5",
+    "outcome": "left_other",
+    "fate_detail": "Dismissed from the MU neurosurgery residency in 2013. Employment as a resident ran 1 Jul 2008 to 30 Jun 2013; he says he was made to repeat PGY-4 despite passing the written boards in 2011 and was cut in the fifth year of a six-year program. His post-residency job offer was rescinded; he later worked as a general practitioner in North Dakota (HKM). Sued the UM Curators in 2018 (W.D. Mo. 2:18-cv-04130), dismissed 2019. Did not complete neurosurgery training = attrition. 'left_other' because he practises as a GP (no evidence of another residency); switched_specialty is also possible",
+    "sources": [
+     "https://hkm.com/neurosurgery-resident-alleges-hostile-work-environment-university/",
+     "https://krcgtv.com/news/local/former-neurosurgery-resident-sues-the-university-of-missouri",
+     "https://www.leagle.com/decision/infdco20190605f89"
+    ]
+   }
+  ],
+  "notes": "Brantl was on the muhealth 2010-11 roster (PGY-3) but not held after the gap. Columbia Missourian and Becker's articles on the suit returned 429/403, and the Missouri appellate opinion (courts.mo.gov id=170699) returned 403. The 1 Jul 2008 to 30 Jun 2013 dates come from the search summary of the court record; HKM and KRCG confirm 2008-2013 and dismissal. Hiser: Doximity snippet says MU residency 2006-2012 (lead only). Paullus: search snippet (US News, not opened) says 2006-2011, so he graduated before the gap. Muzinich: no trace found; still a possible unseen leaver. Wayback not reachable with WebFetch and Chrome extension not connected, so the archived alumni.html (2014-16) was not rechecked."
+ },
+ {
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center)",
+  "years": [
+   {
+    "year": "2011-2012",
+    "resolved": false,
+    "how": "No new source. The live alumni and resident lists are JS-rendered (empty to WebFetch), and searches for 2012/2013 graduation or chief-resident news returned nothing",
+    "classes_confirmed": [],
+    "sources": [
+     "https://www.houstonmethodist.org/academic-institute/gme/neurosurgery-residency/",
+     "https://www.houstonmethodist.org/education/medical/graduate-medical-education/neurosurgery-residency/alumni/"
+    ]
+   },
+   {
+    "year": "2012-2013",
+    "resolved": false,
+    "how": "Same as 2011-12: no roster, news or history text reachable (the World Neurosurgery 'History of Neurosurgery at Houston Methodist' returned 403)",
+    "classes_confirmed": [],
+    "sources": [
+     "https://www.houstonmethodist.org/academic-institute/gme/neurosurgery-residency/"
+    ]
+   },
+   {
+    "year": "2017-2018",
+    "resolved": false,
+    "how": "The program site says it offers 2 NRMP positions a year (14 total), which conflicts with the NRMP count of 3 for 2017. The Nov 2017 Houston Methodist residency brochure on Issuu would list the 2017-18 PGY-1s but its text is not readable through WebFetch. No third 2017 intern identified",
+    "classes_confirmed": [],
+    "sources": [
+     "https://issuu.com/instituteforacademicmedicine/docs/neurosurgery_20residency",
+     "https://www.houstonmethodist.org/education/medical/graduate-medical-education/neurosurgery-residency/our-residents"
+    ]
+   },
+   {
+    "year": "2023-2024",
+    "resolved": false,
+    "how": "No 2023 match list or welcome post naming a third intern; the program states 2 positions per year, so the NRMP 3 may be a counting artifact, but that is unverified",
+    "classes_confirmed": [],
+    "sources": [
+     "https://www.houstonmethodist.org/academic-institute/gme/neurosurgery-residency/"
+    ]
+   }
+  ],
+  "new_people": [],
+  "notes": "The program page says 'two residents in each training level' and 2 NRMP positions a year, which makes NRMP matched=3 in 2017 and 2023 suspect (it may count a one-off extra slot or a data artifact). Best remaining lead: the Issuu brochure 'Neurosurgery Residency' (instituteforacademicmedicine, published 2017-11-15), which likely lists 2017-18 residents by PGY; open it in a browser. The Chrome extension was not connected for this agent. The live alumni list needs JS (POST /api/faculty/directory/)."
+ },
+ {
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College o",
+  "years": [
+   {
+    "year": "2011-2012",
+    "resolved": false,
+    "how": "Resolved one unseen resident: Michael R. Raber, on the Feb 2012 sitemap but not in our_residents_nearby, interned and began neurosurgery at UAMS and then transferred to Brigham and Women's (chief resident there early 2016, then a Johns Hopkins spine fellowship). No full 2011-12 roster was found",
+    "classes_confirmed": [
+     "Continuing resident Michael R. Raber (Wake Forest MD 2008; UAMS intern + resident, later BWH) - transferred"
+    ],
+    "sources": [
+     "https://www.kh.org/provider/michael-raber/",
+     "https://doctor.webmd.com/doctor/michael-raber-6f92a489-d480-4b83-a232-1d51aa7b25d6-overview",
+     "https://ecf.ca8.uscourts.gov/opndir/15/01/132536P.pdf"
+    ]
+   },
+   {
+    "year": "2012-2013",
+    "resolved": false,
+    "how": "No roster, alumni page or news found. Raber's UAMS exit date is unknown (after Feb 2012), so he may still have been at UAMS in 2012-13",
+    "classes_confirmed": [],
+    "sources": []
+   },
+   {
+    "year": "2013-2014",
+    "resolved": false,
+    "how": "No new source found",
+    "classes_confirmed": [],
+    "sources": []
+   },
+   {
+    "year": "2014-2015",
+    "resolved": false,
+    "how": "No new source found (UAMS has no public alumni page; searches for UAMS graduation/chief news 2012-2015 returned nothing)",
+    "classes_confirmed": [],
+    "sources": []
+   },
+   {
+    "year": "2015-2016",
+    "resolved": false,
+    "how": "No new source found",
+    "classes_confirmed": [],
+    "sources": []
+   }
+  ],
+  "new_people": [
+   {
+    "name": "Michael R. Raber",
+    "entry_year": 2008,
+    "first_seen": "2011-2012",
+    "last_seen": "2011-2012",
+    "last_pgy": "",
+    "outcome": "transferred",
+    "fate_detail": "Wake Forest MD 2008. Kootenai Health bio: internship at University Hospital of Arkansas; residency at University Hospital of Arkansas and Brigham and Women's Hospital; fellowship at Johns Hopkins. Court record in WRMC v. Raber (W.D. Ark. 5:17-cv-05245), from a search summary, says he was chief resident at Harvard/BWH in early 2016 and then at Hopkins. Completed neurosurgery at BWH (board certified; later Baylor faculty, now Kootenai Health). Exact UAMS exit date not found (after the 2012-02 sitemap). Entry year 2008 inferred from MD 2008 plus a UAMS internship",
+    "sources": [
+     "https://www.kh.org/provider/michael-raber/",
+     "https://doctor.webmd.com/doctor/michael-raber-6f92a489-d480-4b83-a232-1d51aa7b25d6-overview"
+    ]
+   }
+  ],
+  "notes": "Eighth Circuit Fatemi v. White (2015) gives pre-window UAMS facts. Nasrin Fatemi, hired Jan 2010 as PGY-2, was terminated effective 3 Jun 2010. Baraa Al Hafez left UAMS in 2010 for Baylor (Doximity lead). Monir Tabbosha was hired as a PGY-3 on 22 Jan 2010 (so entered earlier than the held entry_year 2011). Gautam Gandhi was a PGY-1 from July 2009 (held entry_year 2011 is likely wrong; should be 2009). Chief resident 2009-10 was Igor DeCastro. Elswick: search snippet (Doximity) says UAMS residency 2010-2017 (held entry 2011). Fatemi and Al Hafez are outside the 2011+ window, so they are not added as new people. Check Tabbosha and Gandhi entry years."
+ }
+]

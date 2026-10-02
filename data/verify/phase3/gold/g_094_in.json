@@ -1,0 +1,730 @@
+[
+ {
+  "key": "88:hyu:lee",
+  "name": "Hyunchul Lee",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2018,
+  "last_seen": "2020-2021",
+  "outcome": "transferred",
+  "outcome_detail": "Searches: name+MBBS PhD Louisville; name+PGY Louisville. UofL dept page/WebMD still list him; UofL resident roster page has no retrievable list. Not established.",
+  "current": "unknown",
+  "program_site": [
+   "https://web.archive.org/web/20181020203635/http://louisville.edu/medicine/departments/neurosurgery/neuroresidency/current-residents",
+   "https://web.archive.org/web/20200126134049/http://louisville.edu:80/medicine/departments/neurosurgery/neuroresidency/current-residents",
+   "https://web.archive.org/web/20200926115336/http://louisville.edu/medicine/departments/neurosurgery/neuroresidency/current-residents"
+  ],
+  "prior_sources": [],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "88:jef:rice",
+  "name": "Jeffrey Rice",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2014,
+  "last_seen": "2017-2018",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity: after neurosurgery residency (Arizona 2010-2013, KY license from 2016) later residency in Preventive Medicine/Aerospace medicine (2021-2023), currently Navy CVN-72 SMO San Diego. No evidence he completed neurosurgery at Louisville; left Louisville by 2018. Some directories (WebMD/Vitals) still list him as neurological surgery, Tucson.",
+  "current": "aerospace/preventive medicine physician (Navy), San Diego CA",
+  "program_site": [
+   "https://web.archive.org/web/20171121175434/http://louisville.edu:80/medicine/departments/neurosurgery/residency/neuroresidency/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/jeffrey-rice-md-5875b948",
+    "type": "doximity",
+    "evidence": "Residency, Preventive Medicine 2021-2023; Residency, Neurological Surgery, University of Arizona 2010-2013; University of Louisville Class of 2010; KY license 2016-2024"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/jeffrey-rice-c01ac036-7fa9-4b8d-828d-c0ca8a883a29-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery, Tucson AZ"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "88:luk:pearson",
+  "name": "Luke Pearson",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2018,
+  "last_seen": "2022-2023",
+  "outcome": "transferred",
+  "outcome_detail": "Louisville PGY-5 2022-23, then appears as neurosurgery resident at Saint Luke's Hospital of Kansas City (page lists PGY 4, 2026) and as UF Jacksonville neurotrauma/spine fellow 2026 listed with 'Neurosurgery Residency, Kansas City, MO'. PGY labels inconsistent so exact transfer year unclear.",
+  "current": "Neurotrauma/spine fellow 2026, UF Health Jacksonville (per fellows page)",
+  "program_site": [
+   "https://web.archive.org/web/20200926115336/http://louisville.edu/medicine/departments/neurosurgery/neuroresidency/current-residents",
+   "https://web.archive.org/web/20211207124739/https://louisville.edu/medicine/departments/neurosurgery/neuroresidency/current-residents/",
+   "https://web.archive.org/web/20230206083729/https://louisville.edu/medicine/departments/neurosurgery/neuroresidency/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.saintlukeskc.org/education/residencies-fellowships/neurosurgery-residency",
+    "type": "program_page",
+    "evidence": "Luke Pearson, MD PGY 4"
+   },
+   {
+    "url": "https://neurosurgery.med.jax.ufl.edu/education/neurotrauma-spine-fellowship/fellows/",
+    "type": "program_page",
+    "evidence": "2026: Luke Pearson, M.D. - Neurosurgery Residency, Kansas City, MO"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/luke-pearson-bf1c489d-d4e7-472e-bbe9-4e7018c15596-overview",
+    "type": "search_snippet",
+    "evidence": "Luke Henry Pearson, UCF College of Medicine 2018; UF Health Jacksonville, Jewish Hospital"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "88:lyd:leavitt",
+  "name": "Lydia Leavitt",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2023,
+  "last_seen": "2024-2025",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Louisville neurosurgery in 2025; now family medicine resident at St. Mark's, Salt Lake City UT (UAFP profile posted July 2026 says she chose family medicine).",
+  "current": "family medicine resident, St. Mark's, Salt Lake City",
+  "program_site": [
+   "https://web.archive.org/web/20250113143824/https://louisville.edu/medicine/departments/neurosurgery/neuroresidency/current-residents/"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://utahafp.org/st-marks-resident-representative-lydia-leavitt-md/",
+    "type": "bio",
+    "evidence": "I chose family medicine because it allows me to combine meaningful long-term patient relationships"
+   },
+   {
+    "url": "https://www.doximity.com/pub/lydia-leavitt-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Salt Lake City; Illinois Rockford; KY license 2024-2025; UT license 2025-2028"
+   },
+   {
+    "url": "https://2023aansannualmeeting.eventscribe.net/ajaxcalls/posterPresenterInfo.asp?PresenterID=1433299",
+    "type": "search_snippet",
+    "evidence": "starting her neurosurgical residency at the University of Louisville"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "88:muh:kandel",
+  "name": "Muhammad Kandel",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2014,
+  "last_seen": "2019-2020",
+  "outcome": "transferred",
+  "outcome_detail": "Louisville PGY-3/4 2016-2020, then Saint Louis University neurosurgery (chief resident, PGY-6); MO license 2022, now neurosurgeon in Hot Springs AR. SLU start year not stated by sources read; SLU roster page could not be fetched",
+  "current": "neurosurgeon, Mercy Hot Springs AR",
+  "program_site": [
+   "https://web.archive.org/web/20171121175434/http://louisville.edu:80/medicine/departments/neurosurgery/residency/neuroresidency/current-residents",
+   "https://web.archive.org/web/20181020203635/http://louisville.edu/medicine/departments/neurosurgery/neuroresidency/current-residents",
+   "https://web.archive.org/web/20200126134049/http://louisville.edu:80/medicine/departments/neurosurgery/neuroresidency/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.researchgate.net/profile/Muhammad-Kandel",
+    "type": "search_snippet",
+    "evidence": "Muhammad KANDEL | Neurosurgery Chief Resident | MD, PhD | Saint Louis University, St. Louis | SLU | Department of Neurosurgery"
+   },
+   {
+    "url": "https://www.doximity.com/pub/muhammad-kandel-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Hot Springs, AR; Ain Shams University Faculty of Medicine Class of 2003; MO State Medical License 2022 - 2027; KY 2020 - 2027"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "88:raj:jani",
+  "name": "Raja Jani",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "entry_year": 2018,
+  "last_seen": "2024-2025",
+  "outcome": "completed",
+  "outcome_detail": "Entered neurosurgery 2018 at NYCOMEC/Saint Barnabas (Rutgers); Louisville listed as a residency by WellSpan; Doximity lists Rutgers 2018-2025 only; now practising neurosurgeon at WellSpan York. Completion attributed to 2025 either way; Louisville transfer-in consistent with WellSpan listing",
+  "current": "Neurosurgeon, WellSpan Health, York PA",
+  "program_site": [
+   "https://web.archive.org/web/20250113143824/https://louisville.edu/medicine/departments/neurosurgery/neuroresidency/current-residents/"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.wellspan.org/doctors/raja-n-jani-york-pa-5836868",
+    "type": "bio",
+    "evidence": "lists NYCOMEC/Saint Barnabas Medical Center Neurological Surgery Residency and University of Louisville Neurosurgery Residency"
+   },
+   {
+    "url": "https://www.doximity.com/pub/raja-jani-do",
+    "type": "doximity",
+    "evidence": "Rutgers Health/New Jersey Medical School Residency, Neurological Surgery, 2018 - 2025; Touro Class of 2018; York PA Neurosurgery"
+   },
+   {
+    "url": "https://sites.rutgers.edu/neurological-surgery/people/raja-jani-do/",
+    "type": "program_page",
+    "evidence": "began his neurosurgery residency in 2018 (Rutgers page, PGY 6)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "89:abd:ahmed",
+  "name": "Abdul-Kareem Ahmed",
+  "program_id": 89,
+  "program": "University of Maryland Program",
+  "entry_year": 2018,
+  "last_seen": "2023-2024",
+  "outcome": "completed",
+  "outcome_detail": "No evidence of leaving. Directories/LinkedIn list him as a neurosurgery resident at Univ of Maryland (a 2025 neurosurgen listing). Absent from UMMC alumni list (through 2024). Possibly extended for research / MIT science writing year.",
+  "current": "neurosurgery resident, University of Maryland (per directories)",
+  "program_site": [
+   "https://web.archive.org/web/20211020232745/https://www.umms.org/ummc/pros/gme/residency/neurosurgery/current-residents",
+   "https://web.archive.org/web/20220929113852/https://www.umms.org/ummc/pros/gme/residency/neurosurgery/current-residents",
+   "https://web.archive.org/web/20230925142618/https://www.umms.org/ummc/pros/gme/residency/neurosurgery/residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.linkedin.com/in/abdul-kareem-ahmed-a49ba714/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at University of Maryland Medical Center, Science Writer"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/abdul-kareem-ahmed-b823e96f-1fc7-42f9-bcd7-c4ecc68a9679-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery, Baltimore MD; Brown University; neurosurgery residency at University of Maryland"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "89:eli:le",
+  "name": "Elizabeth Le",
+  "program_id": 89,
+  "program": "University of Maryland Program",
+  "entry_year": 2011,
+  "last_seen": "2017-2018",
+  "outcome": "completed",
+  "outcome_detail": "Completed 2018; enfolded neuroendovascular fellowship 2015-16, then fellow/instructor 2018-19; ABNS certified",
+  "current": "Assistant Professor neurosurgery, UAB, Birmingham AL",
+  "program_site": [
+   "manual reconstruction p89 2015-2016 (bracketing rosters + UMMC alumni page)",
+   "https://web.archive.org/web/20170413094936/http://neurosurgery.umaryland.edu:80/Neurosurgery-Residency-Program/Neurosurgery-Residents/",
+   "https://web.archive.org/web/20180515025834/http://neurosurgery.umaryland.edu:80/Neurosurgery-Residency-Program/Neurosurgery-Residents/"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.uab.edu/medicine/neurosurgery/faculty/le",
+    "type": "bio",
+    "evidence": "completed neurological surgery internship and residency at the University of Maryland Medical Center 2011-2018"
+   },
+   {
+    "url": "https://www.doximity.com/pub/elizabeth-le-md-88d50318",
+    "type": "doximity",
+    "evidence": "University of Maryland Residency, Neurological Surgery, 2011 - 2018; ABNS"
+   },
+   {
+    "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2018 - Elizabeth Le, MD"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "89:eri:hayman",
+  "name": "Erik Hayman",
+  "program_id": 89,
+  "program": "University of Maryland Program",
+  "entry_year": 2012,
+  "last_seen": "2018-2019",
+  "outcome": "completed",
+  "outcome_detail": "Completed Maryland 2019, then spine fellowship Swedish; USF faculty",
+  "current": "Neurosurgeon (spine), USF Health / Tampa General, Tampa FL",
+  "program_site": [
+   "https://web.archive.org/web/20170413094936/http://neurosurgery.umaryland.edu:80/Neurosurgery-Residency-Program/Neurosurgery-Residents/",
+   "https://web.archive.org/web/20180515025834/http://neurosurgery.umaryland.edu:80/Neurosurgery-Residency-Program/Neurosurgery-Residents/",
+   "https://web.archive.org/web/20180814152603/http://neurosurgery.umaryland.edu:80/Neurosurgery-Residency-Program/Neurosurgery-Residents/"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://health.usf.edu/medicine/neurosurgery/profiles/erikhayman",
+    "type": "bio",
+    "evidence": "search summary: completed his residency training at the University of Maryland; MD University of Colorado; fellowship Swedish Neuroscience Institute"
+   },
+   {
+    "url": "https://www.umms.org/ummc/pros/gme/residency/neurosurgery/alumni",
+    "type": "program_page",
+    "evidence": "2019 - Erik Hayman, MD Fellowship: Complex & Minimally Invasive Spine Surgery, Swedish"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:ang:richardson",
+  "name": "Angela Richardson",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2013,
+  "last_seen": "2019-2020",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2013-2020 (neuro-oncology fellowship Miami 2017-18, skull base fellowship Wisconsin 2020-21); ABNS",
+  "current": "Director of Surgical Neuro-oncology, Assistant Professor Neurological Surgery, Indiana University, Indianapolis",
+  "program_site": [
+   "https://web.archive.org/web/20180121082716/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "https://web.archive.org/web/20190106002840/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "https://web.archive.org/web/20200122174125/http://neurosurgery.med.miami.edu:80/education/current-residents/"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/angela-richardson-md-f1f0798f",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 University of Miami/Jackson; Drexel Class of 2013; ABNS"
+   },
+   {
+    "url": "https://iuhealth.org/find-providers/provider/angela-m-richardson-md-1640534",
+    "type": "bio",
+    "evidence": "residency in neurological surgery at University of Miami / Jackson Memorial (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:ari:jamshidi",
+  "name": "Aria Jamshidi",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2017,
+  "last_seen": "2023-2024",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2017-2024 (spine fellowship at Miami, then open vascular/skull base fellowship UW); ABNS not shown on Doximity",
+  "current": "Assistant Professor of Neurosurgery, Hackensack Meridian JFK University Medical Center, Edison NJ",
+  "program_site": [
+   "manual reconstruction program 90 2021-2022",
+   "https://web.archive.org/web/20230131013550/https://med.miami.edu/en/departments/neurosurgery/education/residency-program/current-residents",
+   "manual reconstruction program 90 2023-2024"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/aria-jamshidi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 University of Miami/Jackson"
+   },
+   {
+    "url": "https://doctors.hackensackmeridianhealth.org/provider/aria-mousa-jamshidi/5846661",
+    "type": "bio",
+    "evidence": "completed his neurosurgical residency at the University of Miami Miller School of Medicine/Jackson Memorial (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:ash:shah",
+  "name": "Ashish Shah",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2014,
+  "last_seen": "2020-2021",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2014-2021, then NIH neuro-oncology fellowship; ABNS",
+  "current": "Assistant Professor of Neurological Surgery, University of Miami (brain tumor clinical trials)",
+  "program_site": [
+   "https://web.archive.org/web/20190106002840/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "https://web.archive.org/web/20200122174125/http://neurosurgery.med.miami.edu:80/education/current-residents/",
+   "https://web.archive.org/web/20200704151849/http://neurosurgery.med.miami.edu:80/education/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/ashish-shah-md-fc7a235f",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 University of Miami/Jackson; ABNS (page URL redirected to ...-5bef2ba7)"
+   },
+   {
+    "url": "https://med.miami.edu/faculty/ashish-h-shah-md",
+    "type": "bio",
+    "evidence": "completed neurosurgical internship and residency at Univ of Miami/Jackson (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:chr:theodotou",
+  "name": "Christian Theodotou",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2017,
+  "last_seen": "2023-2024",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2017-2024; practising neurosurgeon Orlando; ABNS not listed (board-eligible per search snippet)",
+  "current": "neurosurgeon, Orlando Neurosurgery / AdventHealth, Orlando FL",
+  "program_site": [
+   "manual reconstruction program 90 2021-2022",
+   "https://web.archive.org/web/20230131013550/https://med.miami.edu/en/departments/neurosurgery/education/residency-program/current-residents",
+   "manual reconstruction program 90 2023-2024"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/christian-theodotou-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2017 - 2024 University of Miami/Jackson"
+   },
+   {
+    "url": "https://orlandoneurosurgery.com/christian-b-theodotou-md/",
+    "type": "bio",
+    "evidence": "completed neurosurgical training at University of Miami (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:dan:eichberg",
+  "name": "Daniel Eichberg",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2016,
+  "last_seen": "2022-2023",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2016-2023; ABNS",
+  "current": "Assistant Professor of Neurosurgery, Northwell Health (North Shore/LIJ), Great Neck NY",
+  "program_site": [
+   "https://web.archive.org/web/20200704151849/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "manual reconstruction program 90 2021-2022",
+   "manual reconstruction program 90 2022-2023 (Eichberg)"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-eichberg-md-2b6bcaeb",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 University of Miami/Jackson; ABNS"
+   },
+   {
+    "url": "https://www.northwell.edu/find-care/find-a-doctor/dr-daniel-g-eichberg-md-1609238948",
+    "type": "bio",
+    "evidence": "served as Chief Resident; Neurosurgical Oncology fellowship at University of Miami (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:eva:luther",
+  "name": "Evan Luther",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2016,
+  "last_seen": "2022-2023",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2016-2023 (endovascular fellowship year 2019-20); ABNS not listed on Doximity (recent graduate), practising neurosurgeon",
+  "current": "Chief of Vascular Neurosurgery, Allegheny Health Network, Pittsburgh",
+  "program_site": [
+   "https://web.archive.org/web/20200704151849/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "manual reconstruction program 90 2021-2022",
+   "https://web.archive.org/web/20230131013550/https://med.miami.edu/en/departments/neurosurgery/education/residency-program/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/evan-luther-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023 University of Miami/Jackson; Chief of Vascular Neurosurgery AHN"
+   },
+   {
+    "url": "https://findcare.ahn.org/Evan-Luther",
+    "type": "bio",
+    "evidence": "AHN neurosurgeon profile (search result)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:gre:basil",
+  "name": "Gregory Basil",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2015,
+  "last_seen": "2021-2022",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2015-2022; spine fellowship; ABNS",
+  "current": "Assistant Professor of Neurosurgery, Director of Endoscopic Spine Surgery, University of Miami",
+  "program_site": [
+   "https://web.archive.org/web/20200122174125/http://neurosurgery.med.miami.edu:80/education/current-residents/",
+   "https://web.archive.org/web/20200704151849/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "manual reconstruction program 90 2021-2022"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/gregory-basil-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 University of Miami/Jackson; ABNS"
+   },
+   {
+    "url": "https://news.med.miami.edu/dr-gregory-w-basil-joins-the-department-of-neurological-surgery/",
+    "type": "bio",
+    "evidence": "completed residency at University of Miami/Jackson Memorial (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:iah:cajigas",
+  "name": "Iahn Cajigas",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2014,
+  "last_seen": "2020-2021",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2014-2021; UCSF epilepsy/functional fellowship 2021-22; ABNS",
+  "current": "Assistant Professor of Neurosurgery, University of Pennsylvania",
+  "program_site": [
+   "https://web.archive.org/web/20190106002840/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "https://web.archive.org/web/20200122174125/http://neurosurgery.med.miami.edu:80/education/current-residents/",
+   "https://web.archive.org/web/20200704151849/http://neurosurgery.med.miami.edu:80/education/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/cv/iahn-cajigas-md-phd",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 University of Miami/Jackson; Fellowship UCSF 2021-2022; ABNS"
+   },
+   {
+    "url": "https://www.pennmedicine.org/providers/iahn-cajigas-gonzalez",
+    "type": "bio",
+    "evidence": "residency in neurological surgery at Miami/Jackson (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:kar:madhavan",
+  "name": "Karthik Madhavan",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2013,
+  "last_seen": "2019-2020",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami neurosurgery residency 2013-2020; ABNS. Doximity also lists an undated Iowa neurological surgery residency (IA licence 2009-2011), i.e. prior training before Miami, not attrition from Miami",
+  "current": "neurosurgeon (spine), Cooper University Health Care, Cherry Hill NJ",
+  "program_site": [
+   "https://web.archive.org/web/20180121082716/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "https://web.archive.org/web/20190106002840/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "https://web.archive.org/web/20200122174125/http://neurosurgery.med.miami.edu:80/education/current-residents/"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/karthik-madhavan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 University of Miami/Jackson; University of Iowa Health Care Medical Center Residency, Neurological Surgery; ABNS"
+   },
+   {
+    "url": "https://www.cooperhealth.org/doctors/karthik-madhavan-md",
+    "type": "bio",
+    "evidence": "board certified by ABNS; fellowship-trained spine surgeon (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:mic:kader",
+  "name": "Michael Kader",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2018,
+  "last_seen": "2024-2025",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2018-2025 (spine fellowship noted in bio); practising neurosurgeon",
+  "current": "neurosurgeon, Memorial Neuroscience Institute, Hollywood FL",
+  "program_site": [
+   "https://web.archive.org/web/20230131013550/https://med.miami.edu/en/departments/neurosurgery/education/residency-program/current-residents",
+   "manual reconstruction program 90 2023-2024",
+   "https://web.archive.org/web/20241227034002/https://med.miami.edu/departments/neurosurgery/education/residency-program/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-kader-md-4d1c9d84",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025 University of Miami/Jackson; NYU class of 2018"
+   },
+   {
+    "url": "https://www.mhs.net/providers/k/kader-michael",
+    "type": "bio",
+    "evidence": "internship and residency completed in University of Miami/Jackson Health System (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:mic:silva",
+  "name": "Michael Silva",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2019,
+  "last_seen": "2025-2026",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2019-2026 (endovascular fellowship Barrow); practising neurosurgeon Nashville/Paris TN",
+  "current": "neurosurgeon (endovascular/cerebrovascular), Howell Allen Clinic / Ascension Saint Thomas, Nashville TN",
+  "program_site": [
+   "manual reconstruction program 90 2023-2024",
+   "https://web.archive.org/web/20241227034002/https://med.miami.edu/departments/neurosurgery/education/residency-program/current-residents",
+   "https://web.archive.org/web/20260311032149/https://med.miami.edu/departments/neurosurgery/education/residency-program/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-silva-md-2fdb5e87",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026 University of Miami/Jackson; Harvard Medical School Class of 2019 (redirected to ...-485b6cfb)"
+   },
+   {
+    "url": "https://healthcare.ascension.org/find-care/provider/1699234443/michael-silva",
+    "type": "bio",
+    "evidence": "medical degree from Harvard Medical School; neurosurgery residency at University of Miami; Barrow endovascular fellowship (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:nic:ferraro",
+  "name": "Nicholas Ferraro",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2011,
+  "last_seen": "2017-2018",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami neurosurgery residency 2011-2018; ABNS listed; practising neurosurgeon",
+  "current": "neurosurgeon, Ferraro Brain and Spine, Frisco TX",
+  "program_site": [
+   "https://web.archive.org/web/20160111120753/http://neurosurgery.med.miami.edu:80/education/current-residents/",
+   "https://web.archive.org/web/20170309062033/http://neurosurgery.med.miami.edu:80/education/current-residents/",
+   "https://web.archive.org/web/20180121082716/http://neurosurgery.med.miami.edu:80/education/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/nicholas-ferraro-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 University of Miami/Jackson Health System; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.care.texashealth.org/Providers/Affiliated/Ferraro-Brain-and-Spine/General/nicholas-christian-ferraro-md",
+    "type": "bio",
+    "evidence": "trained at Jackson Memorial Hospital and University of Miami (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:sam:sur",
+  "name": "Samir Sur",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2012,
+  "last_seen": "2018-2019",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami neurosurgery 2012-2019, ABNS; neuroendovascular practice",
+  "current": "neurosurgeon (cerebrovascular/skull base), MedStar Franklin Square/Washington Hospital Center",
+  "program_site": [
+   "https://web.archive.org/web/20170309062033/http://neurosurgery.med.miami.edu:80/education/current-residents/",
+   "https://web.archive.org/web/20180121082716/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "https://web.archive.org/web/20190106002840/http://neurosurgery.med.miami.edu:80/education/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/samir-sur-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019 University of Miami/Jackson; ABNS"
+   },
+   {
+    "url": "https://www.medstarhealth.org/doctors/samir-sur-md",
+    "type": "bio",
+    "evidence": "board certified, fellowship-trained neurosurgeon (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:sim:buttrick",
+  "name": "Simon Buttrick",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2013,
+  "last_seen": "2019-2020",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2013-2020; ABNS",
+  "current": "neurosurgeon, Memorial Healthcare System, Hollywood FL",
+  "program_site": [
+   "https://web.archive.org/web/20180121082716/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "https://web.archive.org/web/20190106002840/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "https://web.archive.org/web/20200122174125/http://neurosurgery.med.miami.edu:80/education/current-residents/"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/simon-buttrick-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 University of Miami/Jackson; ABNS"
+   },
+   {
+    "url": "https://www.mhs.net/providers/b/buttrick-simon-s",
+    "type": "bio",
+    "evidence": "Memorial Healthcare System provider page (search result)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:ste:burks",
+  "name": "Stephen Shelby Burks",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2014,
+  "last_seen": "2020-2021",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2014-2021; spine/peripheral nerve fellowship; ABNS",
+  "current": "Assistant Professor of Clinical Neurosurgery, University of Miami (Jackson Health)",
+  "program_site": [
+   "https://web.archive.org/web/20190106002840/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "https://web.archive.org/web/20200122174125/http://neurosurgery.med.miami.edu:80/education/current-residents/",
+   "https://web.archive.org/web/20200704151849/http://neurosurgery.med.miami.edu:80/education/current-residents"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/stephen-burks-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 University of Miami/Jackson; ABNS"
+   },
+   {
+    "url": "https://burksneurospine.com/about-dr-shelby-burks/",
+    "type": "bio",
+    "evidence": "completed neurosurgical residency at Univ of Miami Jackson Memorial (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ },
+ {
+  "key": "90:ste:chen",
+  "name": "Stephanie Chen",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2015,
+  "last_seen": "2021-2022",
+  "outcome": "completed",
+  "outcome_detail": "Completed Miami residency 2015-2022; cerebrovascular fellowship UW 2022-23; ABNS",
+  "current": "Assistant Professor of Neurological Surgery, University of Washington/Harborview",
+  "program_site": [
+   "https://web.archive.org/web/20200122174125/http://neurosurgery.med.miami.edu:80/education/current-residents/",
+   "https://web.archive.org/web/20200704151849/http://neurosurgery.med.miami.edu:80/education/current-residents",
+   "manual reconstruction program 90 2021-2022"
+  ],
+  "prior_sources": [
+   {
+    "url": "https://www.doximity.com/pub/stephanie-chen-md-a69d66cb",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022 University of Miami/Jackson; ABNS (page URL redirected to ...-51527fb5)"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/bio/stephanie-h-chen-md",
+    "type": "bio",
+    "evidence": "completed residency at Univ of Miami/Jackson Memorial Hospital (search snippet)"
+   }
+  ],
+  "task": "CURRENT_BIO"
+ }
+]

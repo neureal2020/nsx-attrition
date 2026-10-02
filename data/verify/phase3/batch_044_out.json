@@ -1,0 +1,947 @@
+[
+ {
+  "key": "36:ope:alabi",
+  "name": "Opeyemi Alabi",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGB/MGH neurosurgery residency 2021-2028, Penn Class of 2021 (MD/PhD)",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2021); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGB/MGH, Boston",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/opeyemi-alabi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 - 2028; Perelman School of Medicine Class of 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:tar:parker",
+  "name": "Tariq Parker",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Search results: LinkedIn/CNTR MGH page 'Neurosurgery Resident at Massachusetts General Hospital', MD PhD, part of MGB neurosurgery program; Doximity search found no profile",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2021); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.cntr.mgh.harvard.edu/our-team/tariq-parker,-md,-phd",
+    "type": "program_page",
+    "evidence": "Tariq Parker, MD, PhD (MGH CNTR team page)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/tariq-parker-md-phd-a551a4134/",
+    "type": "search_snippet",
+    "evidence": "Tariq Parker MD, PhD - Neurosurgery Resident at Massachusetts General Hospital. Rhodes Scholar."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:bri:prager",
+  "name": "Briana Prager",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn/Dana-Farber snippets: neurosurgery resident MGH, MD PhD Case Western, 2022 match class with Lee and Smith; PGY-4 (postdoc in Filbin Lab from 2025); Doximity search found no profile",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2022); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-4 neurosurgery resident, MGH (research time in Filbin Lab, Dana-Farber, from 2025)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://labs.dana-farber.org/filbinlab/people/briana-prager",
+    "type": "bio",
+    "evidence": "Briana Prager - PGY-4 Neurosurgery Resident at Massachusetts General Hospital (search snippet)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/briana-prager-9b252b40/",
+    "type": "search_snippet",
+    "evidence": "Briana Prager - PGY-1 Neurosurgery Resident at Massachusetts General Hospital"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:suk:lee",
+  "name": "Suk Joon Lee",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGB/MGH residency 2022-2029, Harvard Medical School Class of 2022",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2022); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/suk-joon-lee-md-d0fcf69a",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2022 - 2029; Harvard Medical School Class of 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:wil:smith",
+  "name": "William Smith",
+  "program_id": 36,
+  "identity": "probable",
+  "identity_basis": "Search snippets: William J. Smith, MGH neurosurgery resident, Dartmouth Geisel MD 2022 (matches 2022 MGH match class); common name; Doximity 'William Smith' in Portland OR is a different person, so doximity not_found",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2022); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGH (William J. Smith, MD)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/william-smith-md-93552654/",
+    "type": "search_snippet",
+    "evidence": "William Smith, MD - Massachusetts General Hospital (Geisel MD 2022)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:adr:rodrigues",
+  "name": "Adrian Rodrigues",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGB/MGH residency 2023-2030, Stanford Class of 2023",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2023); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adrian-rodrigues-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030; Stanford University School of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:gra:ng",
+  "name": "Grace Ng",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGB/MGH residency 2023-2030, Penn Class of 2023",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2023); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/grace-ng-md-048ff01d",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030; Perelman School of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:jac:kosyakovsky",
+  "name": "Jacob Kosyakovsky",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGB/MGH residency 2023-2030, UVA Class of 2023",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2023); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jacob-kosyakovsky-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030; University of Virginia School of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:chr:rossitto",
+  "name": "Christina Rossitto",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGB/MGH residency 2024-2031, Mount Sinai Class of 2023",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2024); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christina-rossitto-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031; Icahn School of Medicine at Mount Sinai Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:edw:owolo",
+  "name": "Edwin Owolo",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGB/MGH residency 2024-2031, Duke Class of 2024",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2024); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/edwin-owolo-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031; Duke University School of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:gab:colon",
+  "name": "Gabriela Ruiz Colon",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Her X post 'matched at MGHNSResidency' (Stanford MD); MGH PGY-2 per snippet. Doximity search returned only an unrelated OB/GYN Gabriela Colon (FL), not used",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2024); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-2 neurosurgery resident, MGH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/g_ruizcolon/status/1768740993984299483",
+    "type": "search_snippet",
+    "evidence": "I am so thrilled to have matched at @MGHNSResidency ! Thank you to @StanfordNsurg"
+   },
+   {
+    "url": "https://www.linkedin.com/in/gruizcolon",
+    "type": "search_snippet",
+    "evidence": "Gabriela (Gaby) Ruiz Colon, MD - Massachusetts General Hospital"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:gra:nevil",
+  "name": "Grace Nevil",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGB/MGH residency 2024-2031, Dartmouth Geisel Class of 2024",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2024); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/grace-nevil-md-416e4fb0",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031; Geisel School of Medicine at Dartmouth Class of 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:nat:hughes",
+  "name": "Natasha Hughes",
+  "program_id": 36,
+  "identity": "probable",
+  "identity_basis": "LinkedIn/Vitals/Scholar snippets: Natasha C. Hughes, neurosurgery resident at MGH, Vanderbilt MD 2025. Doximity search only returned an unrelated pediatrician (FL), not used",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2025); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-1 neurosurgery resident, MGH (Vanderbilt MD 2025)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/natasha-hughes-063ab3209/",
+    "type": "search_snippet",
+    "evidence": "Natasha Hughes - Neurosurgery Resident at ..."
+   },
+   {
+    "url": "https://www.vitals.com/doctors/natasha-hughes-rlxt36",
+    "type": "search_snippet",
+    "evidence": "Dr. Natasha C. Hughes | Boston, MA | Neurosurgeon"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:rav:pancholi",
+  "name": "Ravi Pancholi",
+  "program_id": 36,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MGB/MGH residency 2025-2032, NYU Class of 2025",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2025); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ravi-pancholi-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2025 - 2032; New York University School of Medicine Class of 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "36:roh:jha",
+  "name": "Rohan Jha",
+  "program_id": 36,
+  "identity": "probable",
+  "identity_basis": "Search snippets: Rohan Jha, MD, neurosurgery resident at MGB (MEND Lab), HMS graduate; Doximity search returned only unrelated people",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Massachusetts General Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at MGB/MGH (start 2025); no sign of leaving; consistent with in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, MGB (per search snippet)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.massgeneral.org/neurosurgery/education-and-training.page",
+    "type": "search_snippet",
+    "evidence": "Rohan Jha appears in MGH neurosurgery residency search result; MEND Lab affiliation"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "37:hor:dasenbrock",
+  "name": "Hormuzdiyar Dasenbrock",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: BWH residency 2011-2018, Johns Hopkins MD 2011",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at MGB/Brigham and Women's (stated 2011-2018); practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor, endovascular neurosurgery, Boston Medical Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/hormuzdiyar-dasenbrock-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "37:vir:vasudeva",
+  "name": "Viren Vasudeva",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: BWH residency 2011-2018, Medical College of Georgia 2011",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at MGB/Brigham and Women's (stated 2011-2018); practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Athens GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/viren-vasudeva-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "37:pok:see",
+  "name": "Pokmeng See",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: BWH residency 2012-2019, Johns Hopkins MD",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at MGB/Brigham and Women's (stated 2012-2019); practising neurosurgeon; later fellowships in IR, neuroendovascular, cerebrovascular, pediatric neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Boston Children's Hospital, assistant professor",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/pokmeng-see-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; ABNS and ABPNS certified"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "37:vam:chavakula",
+  "name": "Vamsidhar Chavakula",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: BWH residency 2012-2019, Harvard Medical School 2012",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at MGB/Brigham and Women's (stated 2012-2019); practising neurosurgeon; a clinic bio snippet says residency completed June 2020, so end year may be 2019 or 2020",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Neurosurgical Medical Clinic, San Diego",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/vamsidhar-chavakula-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "37:zie:moses",
+  "name": "Ziev Moses",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: BWH residency 2012-2019, Dartmouth MD 2012",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at MGB/Brigham and Women's (stated 2012-2019); practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Massachusetts",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ziev-moses-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "37:chr:strong",
+  "name": "Christian Strong",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: BWH residency 2013-2020, Harvard MD 2013; matched on program, years, school",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at MGB/Brigham and Women's (stated 2013-2020); practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Piedmont Eastside, Snellville GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christian-strong-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "37:dav:penn",
+  "name": "David Penn",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: BWH residency 2013-2020, Jefferson MD 2013, fellowship Case Western 2020-21",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at MGB/Brigham and Women's (stated 2013-2020); practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "attending neurosurgeon (skull base/cerebrovascular), Poughkeepsie NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-penn-md-c7ac732f",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "37:dus:donnelly",
+  "name": "Dustin Donnelly",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Doximity bio: BWH neurosurgery residency 2014-2020, Ohio State MD 2013",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at MGB/Brigham and Women's (stated 2014-2020); practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor, spine neurosurgery, UH / Case Western, Westlake OH",
+  "agrees_with_db": true,
+  "disagreement": "Doximity lists BWH neurosurgery residency 2014-2020 (2013-14 was an anesthesiology internship elsewhere); DB entry_year 2013. Outcome completed agrees.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/cv/dustindonnellymdphd",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2020; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "37:ian:tafel",
+  "name": "Ian Tafel",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: BWH residency 2014-2021, Commonwealth Medical College 2014",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at MGB/Brigham and Women's (stated 2014-2021); practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "attending spine neurosurgeon, Halifax Health / UF, Daytona Beach FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ian-tafel-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "37:kev:huang",
+  "name": "Kevin Huang",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: BWH residency 2014-2021 (chief 2020-21), Duke MD 2014; BWH physician directory lists him as attending",
+  "residency_stated": [
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery residency at MGB/Brigham and Women's (stated 2014-2021); practising neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "attending spine neurosurgeon, Brigham and Women's; assistant program director MGB neurosurgery residency",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kevin-huang-md-7b323607",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021; Chief Residency 2020-2021; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ }
+]

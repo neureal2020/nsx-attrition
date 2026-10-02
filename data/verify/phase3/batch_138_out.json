@@ -1,0 +1,961 @@
+[
+ {
+  "key": "108:kat:karahalios",
+  "name": "Katherine Karahalios",
+  "program_id": 108,
+  "identity": "ambiguous",
+  "identity_basis": "Only search hits: an author 'Katherine Karahalios' on Barrow-affiliated neurosurgery papers; no page tying her to UT Health San Antonio",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "No source confirming UTHSCSA PGY-1 2026; UTHSCSA resident page not populated online",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://sciprofiles.com/profile/3043465",
+    "type": "search_snippet",
+    "evidence": "Katherine Karahalios | Author (neurosurgical publications, Barrow Neurological Institute)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "108:lau:raelly-muze",
+  "name": "Laureen Raelly-Muze",
+  "program_id": 108,
+  "identity": "probable",
+  "identity_basis": "UT Health San Antonio med student (Neurosurgery interest, AANS 2025 poster with UTHSCSA neurosurgery faculty); rare name",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Matched neurosurgery presumably 2026; recorded PGY-1 2026-27 at UTHSCSA. No resident page confirming",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery PGY-1 (per DB), UTHSCSA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://aans2025.eventscribe.net/fsPopup.asp?PresenterID=1789870&mode=posterPresenterInfo",
+    "type": "search_snippet",
+    "evidence": "third-year medical student at UT Health San Antonio ... pursue neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:ach:patel",
+  "name": "Achal Patel",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UTMB residency 2011-2018, MD Arkansas; UTMB alumni 2018",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "ABNS certified, practises neurosurgery Edinburg TX (DHR Health)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, DHR Health/Doctors Hospital at Renaissance, Edinburg TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/achal-patel-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 ... American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/neurosurgery-alumni",
+    "type": "program_page",
+    "evidence": "Achal Patel: 2018"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:ris:lall",
+  "name": "Rishi Lall",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "UTMB faculty bio + Doximity: MD Wisconsin, UTMB residency; alumni 2018",
+  "residency_stated": [
+   {
+    "institution": "Northwestern (internship)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2014
+   },
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transfer-in from Northwestern (internship/early residency) to UTMB as PGY-3; completed UTMB, chief; now UTMB faculty. Doximity lists UTMB 2012-2019 (span imprecise)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Director of Spine, UTMB Galveston",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/faculty-and-staff/rishi-lall-md-mba",
+    "type": "bio",
+    "evidence": "completed his internship at Northwestern Memorial Hospital ... neurosurgery residency training and Chief Residency at UTMB (search snippet)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/rishi-lall-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:eri:garcia",
+  "name": "Erick Garcia",
+  "program_id": 109,
+  "identity": "probable",
+  "identity_basis": "Ponce School of Medicine 2013 grad; Erick Garcia Gorbea now neurosurgeon at UT Health San Antonio (UTHSCSA neurosurgery page, WebMD/Vitals); WSU link comes from phase 2, not re-verified",
+  "residency_stated": [],
+  "outcome": "transferred",
+  "outcome_detail": "Consistent with phase-2 finding (transfer out to Wayne State after 2014-15); I could not open a WSU profile/bio confirming years. Practising neurosurgery, San Antonio",
+  "year_left": null,
+  "destination_program": "Wayne State University (per phase 2)",
+  "destination_start_year": null,
+  "current": "neurosurgeon, UT Health San Antonio (per UTHSCSA neurosurgery page)",
+  "agrees_with_db": true,
+  "disagreement": "Wayne State transfer not independently confirmed in this pass",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/erick-garcia-gorbea/",
+    "type": "program_page",
+    "evidence": "Erick Garcia Gorbea - Neurosurgery (UTHSCSA page)"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/Erick_Guillermo_GarciaGorbea.html",
+    "type": "search_snippet",
+    "evidence": "graduated from the Ponce School of Medicine in 2013; Neurological Surgery, San Antonio"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "109:dan:branch",
+  "name": "Daniel Branch",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UTMB MD 2014, residency 2014-2021; UTMB alumni 2021",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "ABNS certified; practising neurosurgeon Jackson TN",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Jackson-Madison County General Hospital, Jackson TN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-branch-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 ... American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/neurosurgery-alumni",
+    "type": "program_page",
+    "evidence": "Daniel Branch: 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:ken:maynard",
+  "name": "Kenneth Maynard",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UTMB residency 2015-2022 (listed as Ken Maynard); UTMB news 2020 PGY-5 award; alumni 2022",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising neurosurgeon Portsmouth NH (Appledore Medical Group); ABNS not listed on Doximity",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Portsmouth NH",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ken-maynard-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022"
+   },
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/neurosurgery-alumni",
+    "type": "program_page",
+    "evidence": "Kenneth Maynard: 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:ran:allison",
+  "name": "Randall Zain Allison",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UTMB residency 2015-2022, MD Hawaii; Neurosurgery One bio",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Chief resident; practising neurosurgeon Denver",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Neurosurgery One, Denver CO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/randall-allison-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2015 - 2022"
+   },
+   {
+    "url": "https://www.neurosurgeryone.com/blog/new-denver-neurosurgeon-joins-neurosurgery-one/",
+    "type": "bio",
+    "evidence": "recently completed his neurosurgery residency at UTMB, chief resident (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:tho:frank",
+  "name": "Thomas Frank",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Tucson profile: UTMB residency 2016-2023, UTHealth MD 2016, Lahey spine fellowship 2021-22; UTMB news PGY-6 2021-22 Lahey fellowship",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising neurosurgeon (AZ); Carondelet/Abrazo bios",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Arizona (Tucson/Glendale)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/thomas-frank-md-2cc8c3f0",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2016 - 2023; Fellowship Lahey 2021-2022"
+   },
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/neurosurgery-alumni",
+    "type": "program_page",
+    "evidence": "Thomas Frank: 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:mir:hayworth",
+  "name": "Miranda Hayworth",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "Healthgrades/McLeod bio: MCG MD, UTMB neurosurgery residency; Doximity neurosurgery Florence SC; alumni 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising neurosurgeon Florence SC (McLeod Health); Doximity lacks training entry",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, McLeod Health / Florence Neurosurgery, Florence SC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/miranda-hayworth-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Florence SC; Class of 2017 Medical College of Georgia"
+   },
+   {
+    "url": "https://www.mcleodhealth.org/physician/miranda-hayworth/",
+    "type": "bio",
+    "evidence": "joins Florence Neurosurgery and Spine at McLeod Health (search snippet)"
+   },
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/neurosurgery-alumni",
+    "type": "program_page",
+    "evidence": "Miranda Hayworth: 2025"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "109:bri:oliver",
+  "name": "Brian Oliver",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "UTMB faculty bio + Doximity: Howard MD 2017, UTMB residency 2018-2025 (prelim surgery Arizona 2017-18)",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Now UTMB assistant professor",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Assistant Professor, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/faculty-and-staff/brian-oliver-md",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at UTMB in June 2025 (search snippet)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/brian-oliver-md-fb240a96",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2018 - 2025"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "109:ada:carlton",
+  "name": "Adam Carlton",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UTMB neurosurgery 2019-2023 then UTMB integrated IR 2023-2028",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2023
+   },
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "integrated interventional radiology",
+    "start": 2023,
+    "end": 2028
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Switched to integrated IR at UTMB (Doximity lists neurosurgery 2019-2023, IR 2023-2028)",
+  "year_left": 2023,
+  "destination_program": "UTMB integrated interventional radiology",
+  "destination_start_year": 2023,
+  "current": "interventional radiology resident (IR JR Chief), UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adam-carlton-md-4cad082f",
+    "type": "doximity",
+    "evidence": "Residency, Interventional Radiology - Integrated, 2023 - 2028; Residency, Neurological Surgery, 2019 - 2023"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "109:pre:souza",
+  "name": "Preston D'Souza",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "UTMB current-residents page + news: D'Souza PGY-6, Texas Tech MD",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 at UTMB; Doximity lists only med school",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-6, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+    "type": "program_page",
+    "evidence": "Preston D'Souza, MD PGY-6 Texas Tech"
+   },
+   {
+    "url": "https://www.doximity.com/pub/preston-d-souza-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Galveston; Texas Tech Class of 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:chr:ogasawara",
+  "name": "Christian Ogasawara",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "UTMB current-residents page: PGY-5, University of Hawaii MD",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5 at UTMB",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+    "type": "program_page",
+    "evidence": "Christian Ogasawara, MD PGY-5 University of Hawaii"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:jos:villarreal",
+  "name": "Joseph Villarreal",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UTMB MD 2022, neurosurgery internship 2022-2025, integrated IR 2025-2030",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery (internship)",
+    "start": 2022,
+    "end": 2025
+   },
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "integrated interventional radiology",
+    "start": 2025,
+    "end": 2030
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Switched to integrated IR at UTMB after 3 years in neurosurgery",
+  "year_left": 2025,
+  "destination_program": "UTMB integrated interventional radiology",
+  "destination_start_year": 2025,
+  "current": "interventional radiology resident, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joseph-villarreal-md-530db792",
+    "type": "doximity",
+    "evidence": "Residency, Interventional Radiology - Integrated, 2025 - 2030; Internship, Neurological Surgery, 2022 - 2025"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "109:mat:costa",
+  "name": "Matias Costa",
+  "program_id": 109,
+  "identity": "probable",
+  "identity_basis": "UTMB current-residents page: PGY-5, Universidad Nacional de Rosario; Doximity (Other MD/DO Seattle) publications with UTMB authors",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5 at UTMB per program page (joined PGY-2 2023-24 per DB); prior Seattle neuro-endovascular role",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+    "type": "program_page",
+    "evidence": "Matias Costa, MD PGY-5 Universidad Nacional de Rosario"
+   },
+   {
+    "url": "https://www.doximity.com/pub/matias-costa-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO Seattle; no training listed; 2026 paper with Brian Oliver (UTMB)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:dar:shah",
+  "name": "Darsh Shah",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "UTSW residents page + Doximity: Darsh Shah PGY-4, Dell Medical School; Doximity UTSW neurosurgery 2024-2030",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Southwestern",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2030
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left UTMB after PGY-1 2023-24; UTSW neurosurgery from 2024",
+  "year_left": 2024,
+  "destination_program": "UT Southwestern",
+  "destination_start_year": 2024,
+  "current": "neurosurgery resident PGY-4, UT Southwestern",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utsouthwestern.edu/departments/neurological-surgery/education-training/residency-program/residents/",
+    "type": "program_page",
+    "evidence": "Darsh Shah PGY-4, Dell Medical School"
+   },
+   {
+    "url": "https://www.doximity.com/pub/darsh-shah-md-ed20d502",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, UTSW, 2024 - 2030"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:fra:morden",
+  "name": "Frances Morden",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "UTMB residents page + Doximity: PGY-3, Hawaii MD 2023, UW surgery internship 2023, UTMB residency 2024-",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 at UTMB",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+    "type": "program_page",
+    "evidence": "Frances Morden, MD PGY-3"
+   },
+   {
+    "url": "https://www.doximity.com/pub/frances-morden-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "109:kev:cordeiro",
+  "name": "Kevin Cordeiro",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "UW Psychiatry staff page + Doximity Madison WI: UW MD 2024, matched neurosurgery in Texas then psychiatry",
+  "residency_stated": [],
+  "outcome": "switched_specialty",
+  "outcome_detail": "UTMB neurosurgery PGY-1 2024-25, then psychiatry at UW-Madison",
+  "year_left": 2025,
+  "destination_program": "University of Wisconsin psychiatry",
+  "destination_start_year": 2025,
+  "current": "psychiatry resident, UW-Madison",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.psychiatry.wisc.edu/staff/cordeiro-kevin",
+    "type": "program_page",
+    "evidence": "initially matched into a neurological surgery residency in Texas before returning to Wisconsin to pursue psychiatry residency"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kevin-cordeiro-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO Madison WI; UW SMPH Class of 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:ale:evans",
+  "name": "Alexander Evans",
+  "program_id": 109,
+  "identity": "probable",
+  "identity_basis": "UTMB residents page: Alexander Evans PGY-2, Univ of Oklahoma MD; Doximity OKC profile Class of 2024 OU (no residency listed)",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 at UTMB",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+    "type": "program_page",
+    "evidence": "Alexander Evans, MD PGY-2 University of Oklahoma"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alexander-evans-md-631dc803",
+    "type": "doximity",
+    "evidence": "Other MD/DO Oklahoma City; Class of 2024 University of Oklahoma College of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:ank:iyer",
+  "name": "Ankitha Iyer",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "UTMB residents page: PGY-2 Wake Forest; Doximity Wake Forest Class 2024",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 at UTMB",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+    "type": "program_page",
+    "evidence": "Ankitha Iyer, MD PGY-2 Wake Forest"
+   },
+   {
+    "url": "https://www.doximity.com/pub/ankitha-iyer-md",
+    "type": "doximity",
+    "evidence": "Class of 2024 Wake Forest School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:par:juvekar",
+  "name": "Parikshit Juvekar",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "UTMB residents page: PGY-2, K.J. Somaiya; Doximity lists OU surgery internship 2023-24 and 'Pre-Residency Neurosurgery Fellow' Galveston",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 at UTMB; not a transfer (surgery intern OU 2023-24, then research/pre-residency fellow)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+    "type": "program_page",
+    "evidence": "Parikshit Juvekar, MD PGY-2 K.J. Somaiya Medical College"
+   },
+   {
+    "url": "https://www.doximity.com/pub/parikshit-juvekar-md",
+    "type": "doximity",
+    "evidence": "Internship, Surgery, 2023-2024 University of Oklahoma; Pre-Residency Neurosurgery Fellow"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:bil:moiz",
+  "name": "Bilal Moiz",
+  "program_id": 109,
+  "identity": "confirmed",
+  "identity_basis": "UTMB residents page PGY-1 Univ of Maryland; Maryland Neurosurgery X post March 2026 congratulating Bilal Moiz on matching",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 at UTMB",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+    "type": "program_page",
+    "evidence": "Bilal Moiz, MD PGY-1 University of Maryland"
+   },
+   {
+    "url": "https://x.com/UMDNeurosurgery/status/2036085784214655030",
+    "type": "search_snippet",
+    "evidence": "med students who matched in #Neurosurgery! ... Bilal Moiz"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "109:whi:carriveau",
+  "name": "Whitney Carriveau",
+  "program_id": 109,
+  "identity": "probable",
+  "identity_basis": "UTMB residents page: PGY-1, Univ of North Dakota; no independent page",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 at UTMB",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, UTMB",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.utmb.edu/neurosurgery/residency-program/currrent-residents",
+    "type": "program_page",
+    "evidence": "Whitney Carriveau, MD PGY-1 University of North Dakota"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "110:kat:hoes",
+  "name": "Kathryn Hoes",
+  "program_id": 110,
+  "identity": "confirmed",
+  "identity_basis": "Doximity + UPMC bio: Rutgers RWJ MD 2011, UTSW neurosurgery 2011-2018 (chief), Indiana fellowship",
+  "residency_stated": [
+   {
+    "institution": "UT Southwestern Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "ABNS certified; UPMC neurosurgery faculty",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Clinical Assistant Professor, UPMC (Wexford PA)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kathryn-hoes-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 ... American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://providers.upmc.com/provider/kathryn-s-hoes/2351123",
+    "type": "bio",
+    "evidence": "residency at the University of Texas Southwestern Medical Center (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ }
+]

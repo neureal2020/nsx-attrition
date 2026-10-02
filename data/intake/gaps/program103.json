@@ -1,0 +1,352 @@
+{
+ "program_id": 103,
+ "name": "University of South Florida Morsani College of Medicine Program (Tampa, FL)",
+ "program_length": 7,
+ "complement_per_year": "2 (3 from the 2025 entry class)",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://health.usf.edu/medicine/neurosurgery/residency/residents.htm (also www.hsc.usf.edu mirror 2010)",
+   "from": "2007",
+   "to": "2012-02 (Wayback only to 2010-06; Common Crawl 2012-02)"
+  },
+  {
+   "url": "http://health.usf.edu/medicine/neurosurgery/residency/residency_residents_alumni.html",
+   "from": "2013-05",
+   "to": "2014-12"
+  },
+  {
+   "url": "http://health.usf.edu/medicine/neurosurgery/residency/residency_residents_alumni.htm",
+   "from": "2014-12",
+   "to": "2016-11"
+  },
+  {
+   "url": "http://health.usf.edu/medicine/neurosurgery/residency/residency_residents_alumni",
+   "from": "2017-05",
+   "to": "2018-04"
+  },
+  {
+   "url": "https://health.usf.edu/medicine/neurosurgery/residency/residency_current",
+   "from": "2018-06",
+   "to": "2024-04"
+  },
+  {
+   "url": "https://health.usf.edu/medicine/neurosurgery/residency/current-residents/",
+   "from": "2024-06",
+   "to": "2026-09 (live)"
+  },
+  {
+   "url": "https://health.usf.edu/medicine/neurosurgery/residency/alumni/",
+   "from": "2018-06",
+   "to": "2026-09 (live; alumni also on the residents_alumni pages 2013-2018)"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No Wayback capture of residents.htm after 2010-06 (index.htm links to it through 2012). Filled from Common Crawl CC-MAIN-2012 (2012-02-12), page headed 'Current Residents 2011 - 2012', modified 2/3/2012. 15 names, complete (2 per class, 3 in PGY-4).",
+  "2012-2013": "First Wayback capture of the new residency_residents_alumni.html is 2013-09-09 and still shows the 2012-13 list; used Common Crawl CC-MAIN-2013-20 (2013-05-25), identical content.",
+  "2014-2015": "Nov 2014 capture keeps the '2013 - 2014' heading but PGYs are advanced and new interns listed: content-dated 2014-15.",
+  "2016-2017": "Page showed the 2015-16 list through Nov 2016; first 2016-17 capture is 2017-05-11 (used).",
+  "2017-2018": "Used Oct 2017; Sep 2017 version lacks Krafft (added at PGY-3).",
+  "2019-2020": "Only capture with 2019-20 content is 2019-07-20 (headed 2019-20, PGY-1 already listed). Next capture 2020-09.",
+  "2022-2023": "2022-23 list stayed up (stale) through Oct 2023.",
+  "2023-2024": "Only 2023-24 capture is 2024-04-20 (headed '2023-24'); Sep/Oct 2023 captures were the stale 2022-23 list.",
+  "2026-2027": "Live page advanced from 2025-26 (new PGY-1s), loaded as live."
+ },
+ "alumni_page": "https://health.usf.edu/medicine/neurosurgery/residency/alumni/",
+ "departures": [
+  {
+   "name": "Vladimir Ljubimov",
+   "last_ay": "2018-2019",
+   "last_pgy": 3,
+   "outcome": "transferred",
+   "destination": "Cedars-Sinai (program 11), PGY-4 2019-20, graduated 2023",
+   "th_id": 3425,
+   "note": "Confirmed on both rosters (USF Aug-2018 PGY-3; Cedars Nov-2019 PGY-4) and by PubMed affiliations (USF 2017-18, Cedars 2019+)."
+  },
+  {
+   "name": "Daniel Welsh",
+   "last_ay": "2019-2020",
+   "last_pgy": 3,
+   "outcome": "unknown",
+   "th_id": 3426,
+   "note": "Georgetown MD 2017. On Jul-2019 roster, absent Sep-2020, not on alumni page, on no other study roster. Only trace: co-author of a 2023 Riverside (RUHS) neurosurgery case report affiliated 'Neurosurgery, Georgetown University' (PMID 37881388); identity and role unconfirmed, not on Georgetown (45) rosters. NPPES shows a trainee record in Syracuse NY (lead only, not evidence). Adjudicator's NPI 'switch' call dropped: outcome unknown."
+  },
+  {
+   "name": "Jayson Sack",
+   "last_ay": "2009-2010",
+   "last_pgy": 1,
+   "outcome": "transferred",
+   "destination": "UC San Diego (program 75), PGY-3 2011-12, graduated 2016",
+   "th_id": 3427,
+   "note": "Pre-window cohort (entered 2009). Left USF after 2009-10 or 2010-11 (2010-11 unarchived). UCSD profile confirms he began training at USF."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Paul Krafft",
+   "first_ay": "2017-2018",
+   "first_pgy": 3,
+   "origin": "Loma Linda (program 31), PGY-2 2016-17; 2017 LL disruption",
+   "th_id": 3428,
+   "origin_row": "31: th 2716 present"
+  },
+  {
+   "name": "Gabriel Flores-Milan",
+   "first_ay": "2020-2021",
+   "first_pgy": 5,
+   "origin": "University of Puerto Rico (program 101); PubMed UPR 2017-2020, same OpenAlex/ORCID author as USF papers",
+   "th_id": 3429,
+   "origin_row": "101: th 2544 present"
+  },
+  {
+   "name": "Ivo Petoe",
+   "first_ay": "2020-2021",
+   "first_pgy": 3,
+   "origin": "Non-US: prior residency at Albert-Ludwigs University Freiburg, Germany (USF bio)",
+   "th_id": 3431,
+   "origin_row": "none (not a US program)"
+  },
+  {
+   "name": "Cesar Carballo Cuello",
+   "first_ay": "2021-2022",
+   "first_pgy": 5,
+   "origin": "University of Puerto Rico (program 101); USF bio 'Previous Residency: University of Puerto Rico, Neurosurgery'",
+   "th_id": 3430,
+   "origin_row": "101: th 2545 present"
+  },
+  {
+   "name": "Glen Pollock",
+   "first_ay": "2009-2010",
+   "first_pgy": 5,
+   "origin": "Northwestern (program 41): 'Glenn Pollock, MD, USF College of Medicine' PGY-2 on the 2006-07 Northwestern roster; absent USF Sep-2007; USF PGY-5 2009-10. Pre-window arrival, USF graduate 2012.",
+   "th_id": 3432,
+   "origin_row": "41: NO transfer-out row"
+  }
+ ],
+ "unclassified_arrivals": [
+  {
+   "name": "Angela Downes",
+   "first_ay": "2011-2012",
+   "first_pgy": 4,
+   "note": "Not on the 2009-10 roster (her class then was only Ahmadian and Manwaring at PGY-2). 2010-11 not observable, so she joined in 2010-11 or 2011-12. Graduated 2015. Phase 2: she co-authored with USF neurosurgery faculty from 2009 (PMIDs 19795957, 21438020), so she was probably at USF (research) before joining the residency; no other program's roster lists her."
+  },
+  {
+   "name": "Michael S. Park",
+   "first_ay": "2011-2012",
+   "first_pgy": 3,
+   "note": "Not on the 2009-10 roster. Arrived 2010-11 or 2011-12 into Sack's class, probably filling Sack's spot. Shown as PGY-6 in both 2014-15 and 2015-16 (repeated or extra year); graduated 2017. Phase 2: no pre-2012 neurosurgery affiliation found in PubMed; the crossmatch pair with Utah's Paul Park is a different person (first name differs)."
+  }
+ ],
+ "residents_2011plus": 38,
+ "adjudication_summary": {
+  "COMPLETED": 33,
+  "IN TRAINING": 16,
+  "LEFT -> TRANSFERRED (Cedars-Sinai)": 1,
+  "LEFT -> outcome unknown": 1
+ },
+ "problems": "No roster gaps. For other programs (not written here): (1) program 41 (Northwestern) has no transfer-out row for Glenn Pollock (left after 2006-07 or 2007-08 -> USF). (2) program 101 rows 2544/2545 infer UPR entry 2015 for both Flores-Milan and Carballo Cuello; USF placed them at PGY-5 in 2020-21 and 2021-22 (entry-equivalent 2016 and 2017), so either the 101 entry years are off or each repeated/lost a year on transfer. (3) The adjudicator uses a transfer-in row's start_year as the entry cohort, so joiners (and Pollock, entry 2005) are listed under their USF arrival year. Park PGY-6 twice (2014-16) and Petoe PGY-5 -> PGY-7 (2022-24) are real roster irregularities, not parse errors.",
+ "years": {
+  "2011-2012": {
+   "status": "observed",
+   "capture": "Common Crawl CC-MAIN-2012 2012-02-12 residents.htm",
+   "count": "15 (2/2/2/3/2/2/2)",
+   "significance": "low",
+   "reason": "Complete roster, but Downes (PGY-4) and Park (PGY-3) arrived in 2010-11 or 2011-12; 2010-11 is unarchived, so their arrival year (and Sack's exit year) cannot be pinned. Both graduated USF."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "capture": "Common Crawl CC-MAIN-2013-20 2013-05-25",
+   "count": "15",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "capture": "Wayback 2013-10-10",
+   "count": "15",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "capture": "Wayback 2014-11-21",
+   "count": "15",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "capture": "Wayback 2015-10-29",
+   "count": "14 (PGY-7 = Alikhani only: Sack left that class pre-window; Park repeated PGY-6)",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "capture": "Wayback 2017-05-11",
+   "count": "15 (3 PGY-7: Park)",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "capture": "Wayback 2017-10-05",
+   "count": "15 (Krafft joined PGY-3)",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "capture": "Wayback 2018-08-11",
+   "count": "15",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "capture": "Wayback 2019-07-20",
+   "count": "14 (PGY-4 = McBride only: Ljubimov left)",
+   "significance": "low",
+   "reason": "Complete, but only a July-2019 capture exists and the next roster is Sep-2020: Welsh's exit and Petoe/Flores-Milan's arrival may fall anywhere in 2019-20/summer 2020. Counts reconcile, so nobody is unseen."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "capture": "Wayback 2020-09-21",
+   "count": "15 (PGY-4 = Chinea only: Welsh left; joiners Petoe PGY-3, Flores-Milan PGY-5)",
+   "significance": "none",
+   "reason": "Complete; changes vs 2019-20 fully explained (Welsh out; Petoe, Flores-Milan in; Ljubimov's slot filled)."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "capture": "Wayback 2021-09-24",
+   "count": "16 (Carballo Cuello joined PGY-5)",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "capture": "Wayback 2022-09-25",
+   "count": "15",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "capture": "Wayback 2024-04-20",
+   "count": "15 (Petoe PGY-5 -> PGY-7)",
+   "significance": "none",
+   "reason": "Only capture is Apr-2024 (headed 2023-24); complete, and 2022-23 and 2024-25 bracket it with no unexplained changes."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "capture": "Wayback 2024-10-15",
+   "count": "14 (2 per class; Petoe graduated early)",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "capture": "Wayback 2025-10-15",
+   "count": "15 (3 interns: complement now 3)",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "capture": "live 2026-09-27",
+   "count": "16 (3 interns)",
+   "significance": "none",
+   "reason": "Complete roster; every class matches the complement or an explained departure/joiner."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "7-year program throughout (PGY-7 chiefs every year 2011-27). Individual exceptions: Park (entry 2009) listed PGY-6 twice and graduated 2017; Petoe (joined PGY-3 2020-21) skipped from PGY-5 to PGY-7 and graduated 2024. Complement 2 per year through the 2024 class, 3 from the 2025 class.",
+ "crossmatch_check": [
+  {
+   "pair": "Krafft 31 -> 103",
+   "verdict": "confirmed"
+  },
+  {
+   "pair": "Ljubimov 103 -> 11",
+   "verdict": "confirmed"
+  },
+  {
+   "pair": "Flores-Milan 101 -> 103",
+   "verdict": "confirmed"
+  },
+  {
+   "pair": "Glenn Pollock 41 (PGY2) -> Glen Pollock 103 (PGY7 2011-12)",
+   "verdict": "confirmed (same USF MD; PGYs consistent with 2005 entry; pre-window)"
+  },
+  {
+   "pair": "Paul Park 111 -> Michael S. Park 103",
+   "verdict": "rejected (different first name)"
+  },
+  {
+   "pair": "Carballo Cuello 101 -> 103",
+   "verdict": "not in crossmatch.json (UPR years reconstructed) but confirmed by USF bio"
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "Raw text of all 16 chosen captures re-read (PGY/Chief headings, inline 'Name, MD PGY-n', M.D./MD/DO variants, suffixes, faculty/alumni menus); every year complete",
+   "Phase-1 cc/ and wayback captures: nothing unparsed inside the window (no gap years)",
+   "Pre-window USF residents.htm 2007-08 and 2009-10; Northwestern residents index 2007-2010 (Pollock)",
+   "PubMed/Europe PMC/OpenAlex for Welsh, Ljubimov, Krafft, Flores-Milan, Carballo Cuello, Petoe, Park, Downes",
+   "Other programs' rosters and phase-2 data (11, 31, 41, 45, 55, 75, 101) for the linked residents",
+   "data/intake/crossmatch.json (5 pairs involving 103)"
+  ],
+  "found": [
+   "8 training_history rows (th 3425-3432): 2 transfers out (Ljubimov, Sack), 1 unknown exit (Welsh), 5 transfers in (Krafft, Flores-Milan, Carballo Cuello, Petoe, Pollock)",
+   "Pollock = Northwestern transfer (new; pre-window)",
+   "Petoe's origin = Freiburg, Germany (non-US)"
+  ],
+  "remaining": [
+   "Daniel Welsh outcome unknown",
+   "Downes and Park arrival year (2010-11 unarchived; pre-window cohorts, both graduated)"
+  ]
+ }
+}

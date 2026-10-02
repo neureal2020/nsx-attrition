@@ -1,0 +1,484 @@
+[
+ {
+  "program_id": 1,
+  "match_year": 2016,
+  "matchees": [
+   {
+    "name": "Nicholas Field",
+    "source_url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+    "in_our_data_as": "1:nic:field",
+    "fate": "in_our_data",
+    "fate_detail": "UVM MD 2016; listed as 2023 graduate on Albany Meet Us page (7-yr program => 2016 entrant)",
+    "fate_sources": [
+     "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/"
+    ]
+   },
+   {
+    "name": "UNIDENTIFIED second 2016 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. Albany alumni list shows only Field graduating in 2023 and O'Brien/Szewczyk (2017 entrants) in 2024, so the second 2016 matchee did not graduate on schedule from Albany (left, transferred, or never started). No Wayback capture of the Albany roster exists between 2016-05-20 and 2023-12 (last capture 2016-05-20 still shows 2015-16 roster); Upstate match list blocked by Cloudflare check; VCU 2016 list has no Albany NS match.",
+    "fate_sources": [
+     "https://web.archive.org/web/20160520223806/http://www.amc.edu/academic/gme/programs/Neurosurgery/residents_fellows.cfm",
+     "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/",
+     "https://medschool.vcu.edu/media/medschool/documents/2016MatchList.pdf"
+    ]
+   }
+  ],
+  "explanation": "Albany 2016-2023 rosters are reconstructed from the graduate list only (no archived roster 2016-06..2023-11), so a 2016 matchee who did not graduate from Albany would be invisible; identity not found.",
+  "queries_tried": [
+   "\"2016\" match list \"neurological surgery\" \"Albany Medical Center\"",
+   "Albany Medical Center neurosurgery residency graduates 2023 chief residents Nicholas Field",
+   "\"Neurological Surgery\" \"Albany Medical Center\" 2016 match results medical school list",
+   "2016 match list pdf \"Albany Med\" \"Neurosurgery\" OR \"Neurological Surgery\" Albany NY",
+   "\"Albany Med Ctr-NY\" \"Neurological Surgery\" 2016",
+   "\"Albany Medical Center\" \"neurosurgery\" intern 2016-2017 ... began neurosurgical residency Albany",
+   "\"Albany Medical College\" \"Class of 2016\" match list neurosurgery",
+   "\"neurosurgery resident at Albany Medical Center\" 2017 OR 2018",
+   "2016 match results pdf \"Neurological Surgery\" \"Albany Medical Center-NY\"",
+   "Wayback amc.edu residents_fellows.cfm 2016/2017 snapshots"
+  ]
+ },
+ {
+  "program_id": 4,
+  "match_year": 2012,
+  "matchees": [
+   {
+    "name": "Celene Mulholland",
+    "source_url": "https://web.archive.org/web/20140112042007/http://www.thebarrow.org:80/Who_We_Are/Meet_Our_Neurosurgery_Residents/index.htm",
+    "in_our_data_as": "4:cel:mulholland",
+    "fate": "in_our_data",
+    "fate_detail": "PGY-2 in 2013-14 roster (2012 entrant)",
+    "fate_sources": [
+     "https://web.archive.org/web/20140112042007/http://www.thebarrow.org:80/Who_We_Are/Meet_Our_Neurosurgery_Residents/index.htm"
+    ]
+   },
+   {
+    "name": "David Xu",
+    "source_url": "https://web.archive.org/web/20140112042007/http://www.thebarrow.org:80/Who_We_Are/Meet_Our_Neurosurgery_Residents/index.htm",
+    "in_our_data_as": "4:dav:xu",
+    "fate": "in_our_data",
+    "fate_detail": "PGY-2 in 2013-14 roster",
+    "fate_sources": [
+     "https://web.archive.org/web/20140112042007/http://www.thebarrow.org:80/Who_We_Are/Meet_Our_Neurosurgery_Residents/index.htm"
+    ]
+   },
+   {
+    "name": "Randall Hlubek",
+    "source_url": "https://web.archive.org/web/20140112042007/http://www.thebarrow.org:80/Who_We_Are/Meet_Our_Neurosurgery_Residents/index.htm",
+    "in_our_data_as": "4:ran:hlubek",
+    "fate": "in_our_data",
+    "fate_detail": "PGY-2 in 2013-14 roster",
+    "fate_sources": [
+     "https://web.archive.org/web/20140112042007/http://www.thebarrow.org:80/Who_We_Are/Meet_Our_Neurosurgery_Residents/index.htm"
+    ]
+   },
+   {
+    "name": "Samuel Kalb (Samuel Kalb Goldsmit)",
+    "source_url": "https://web.archive.org/web/20140112042007/http://www.thebarrow.org:80/Who_We_Are/Meet_Our_Neurosurgery_Residents/index.htm",
+    "in_our_data_as": null,
+    "fate": "completed",
+    "fate_detail": "Listed as 'Neurosurgery Resident PGY-2' on the Jan-2014 Barrow roster (2012 entrant), and in intake/rosters_program4.json as PGY1 2012-13 through PGY7 2018-19 (2018-08 capture). He is NOT in merged_final.json: intake/adjudication/program4.txt dated his entry to 2010 (from a Doximity-style '2010-2017' residency date), which likely put him outside the 2011+ cohort. Anahuac MD (IMG). Now a practicing neurosurgeon, Director of Minimally Invasive Complex Spine Surgery at Mount Sinai Medical Center, Miami Beach; bio says he practiced neurosurgery at Barrow before that, with spine fellowships at Barrow and Johns Hopkins. Training completed (not attrition). Caveat: the Mount Sinai bio does not state residency years.",
+    "fate_sources": [
+     "https://web.archive.org/web/20140112042007/http://www.thebarrow.org:80/Who_We_Are/Meet_Our_Neurosurgery_Residents/index.htm",
+     "https://web.archive.org/web/20180812054505/https://www.barrowneuro.org/get-to-know-barrow/departments/department-of-neurosurgery/neurosurgery-residents/",
+     "https://www.msmc.com/doctor/samuel-kalb-goldsmit/"
+    ]
+   }
+  ],
+  "explanation": "Samuel Kalb is on Barrow rosters as the 4th member of the 2012 class (PGY-2 in 2013-14) but was dropped from merged_final because adjudication dated his entry to 2010.",
+  "queries_tried": [
+   "local: intake/rosters_program4.json (Kalb PGY1 2012-13..PGY7 2018-19)",
+   "Samuel Kalb MD neurosurgeon residency Barrow Neurological Institute"
+  ]
+ },
+ {
+  "program_id": 29,
+  "match_year": 2023,
+  "matchees": [
+   {
+    "name": "Robert C. Sterner",
+    "source_url": "https://spinesummit24.eventscribe.net/fsPopup.asp?efp=WkZYS0JXVU8xNzQ1Mg&PresenterID=1760076&rnd=0.1729497&mode=presenterinfo",
+    "in_our_data_as": null,
+    "fate": "started_and_left",
+    "fate_detail": "The 2024 DSPN Spine Summit presenter page (Feb 2024) lists him as 'Resident, Inova Fairfax Medical Campus' (UW-Madison MD). That matches a 2023 intern, since the Inova program takes one resident per year and the 2023 class is otherwise empty. The program's own Jan-2025 information guide lists 'Inova Neurosurgery Residents: 6' with no PGY-2, so he was gone before Jan 2025. PROBABLE attrition. Destination unknown: not on the UW MSTP alumni page; phase 2 notes say he was on no Yale roster. The NPI enumerated 2023-03-20 with the residency coordinator's phone is a lead only.",
+    "fate_sources": [
+     "https://spinesummit24.eventscribe.net/fsPopup.asp?efp=WkZYS0JXVU8xNzQ1Mg&PresenterID=1760076&rnd=0.1729497&mode=presenterinfo",
+     "https://cdnm.heyzine.com/files/uploaded/d43227a181b3b16e286358bb539e3e6ecce682a0.pdf",
+     "https://web.archive.org/web/20221006065853/https://www.inova.org/education/gme/neurosurgical-residency-program/residents"
+    ]
+   }
+  ],
+  "explanation": "Inova's Residents page was stale from Oct 2022 to Oct 2024, and the sole 2023 intern (Sterner) had left before the Jan-2025 guide, so he never appeared on any roster.",
+  "queries_tried": [
+   "\"Robert Sterner\" neurosurgery Inova 2023 match",
+   "\"Robert C. Sterner\" MD 2025 OR 2026 resident",
+   "University of Wisconsin School of Medicine 2023 match list \"Neurological Surgery\" Inova Fairfax",
+   "\"Robert Sterner\" MD MS residency Yale OR Wisconsin OR \"resident physician\" 2025",
+   "local: intake/gaps/program29.md lead (NPI + PMID 39364321)"
+  ]
+ },
+ {
+  "program_id": 30,
+  "match_year": 2023,
+  "matchees": [
+   {
+    "name": "Joshua Materi",
+    "source_url": "https://web.archive.org/web/20240224032825/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents",
+    "in_our_data_as": "30:jos:materi",
+    "fate": "in_our_data",
+    "fate_detail": "PGY-1 in Feb 2024; PGY-4 on the live page",
+    "fate_sources": [
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents"
+    ]
+   },
+   {
+    "name": "Aaron Rusheen",
+    "source_url": "https://web.archive.org/web/20240224032825/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents",
+    "in_our_data_as": "30:aar:rusheen",
+    "fate": "in_our_data",
+    "fate_detail": "PGY-1 in Feb 2024; PGY-4 on the live page",
+    "fate_sources": [
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents"
+    ]
+   },
+   {
+    "name": "Patricia Yee",
+    "source_url": "https://web.archive.org/web/20240224032825/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents",
+    "in_our_data_as": "30:pat:yee",
+    "fate": "in_our_data",
+    "fate_detail": "PGY-1 in Feb 2024; PGY-4 on the live page",
+    "fate_sources": [
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents"
+    ]
+   },
+   {
+    "name": "Safwan Alomari",
+    "source_url": "https://web.archive.org/web/20240224032825/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents",
+    "in_our_data_as": null,
+    "fate": "transferred_out",
+    "fate_detail": "Listed as 'Postgraduate Year 1' in the Feb-2024 capture and 'Postgraduate Year 2' in the Aug-2024 capture of the Hopkins residents page (JUST MBBS 2017). Our 2023-24 and 2024-25 roster rows come from these same captures but omitted him (extraction miss). On 2025-06-18 he posted on X that he is transferring his neurosurgery residency to Cleveland Clinic Florida. A reply in the same thread welcomes him to CCF's new program 'from @HopkinsNsurg, PGY-2'. He is not on the live Hopkins page. So he was a Hopkins resident through 2024-25 and moved to CCF for 2025-26: a transfer out that takes effect at the 30-Jun-2025 cutoff, not attrition.",
+    "fate_sources": [
+     "https://web.archive.org/web/20240224032825/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents",
+     "https://web.archive.org/web/20240804193153/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents",
+     "https://x.com/SafwanAlomari0/status/1935428190068998207",
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents"
+    ]
+   }
+  ],
+  "explanation": "Roster extraction error: Safwan Alomari is on the Feb-2024 and Aug-2024 Hopkins captures our roster used but was dropped; he transferred to Cleveland Clinic Florida in June 2025.",
+  "queries_tried": [
+   "2023 match list \"Neurological Surgery\" \"Johns Hopkins\" Materi OR Rusheen OR Yee",
+   "\"Match Day 2023\" Johns Hopkins neurosurgery matched ...",
+   "\"Safwan Alomari\" neurosurgery",
+   "HopkinsNsurg welcome Alomari Materi Rusheen Yee match 2023"
+  ]
+ },
+ {
+  "program_id": 30,
+  "match_year": 2018,
+  "matchees": [
+   {
+    "name": "Alice Hung",
+    "source_url": "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+    "in_our_data_as": "30:ali:hung",
+    "fate": "in_our_data",
+    "fate_detail": "Alumni class of 2025; in 2019 trainee photo",
+    "fate_sources": [
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/about-us/history/2019"
+    ]
+   },
+   {
+    "name": "Kurt Lehner",
+    "source_url": "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+    "in_our_data_as": "30:kur:lehner",
+    "fate": "in_our_data",
+    "fate_detail": "Alumni class of 2025",
+    "fate_sources": [
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni"
+    ]
+   },
+   {
+    "name": "Andrew Luksik",
+    "source_url": "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+    "in_our_data_as": "30:and:luksik",
+    "fate": "in_our_data",
+    "fate_detail": "Alumni class of 2025",
+    "fate_sources": [
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni"
+    ]
+   },
+   {
+    "name": "Jose \"Tito\" Porras (Jose Luis Porras Jr.)",
+    "source_url": "https://web.archive.org/web/20190921151152/https://www.hopkinsmedicine.org/neurology_neurosurgery/education/residencies/neurosurgery_residency/current_residents/",
+    "in_our_data_as": null,
+    "fate": "started_and_left",
+    "fate_detail": "Dartmouth MD 2018. Listed under 'Postgraduate Year 2' with Hung/Lehner/Luksik on the Sep-2019 Hopkins roster, so he was a 2018 entrant. He is still listed with Luksik (then PGY-6) in the Feb-2024 capture, with a Carey Business School MBA scholarship (2023-2025) and an NINDS R25. The Flare Capital bio calls him 'a sixth-year neurosurgery resident at Johns Hopkins'. He is absent from the Aug-2024 capture (when his classmates were PGY-7), from the class-of-2025 alumni list (Hung, Lehner, Luksik only), from the class of 2026 and from the live roster. His Hopkins provider profile is now unavailable. A search snippet from Semaphor Surgical (now Inner Logic) described him as CEO/co-founder who 'trained in neurosurgery at Johns Hopkins'; the page I opened only showed a redirect. So he left in 2024 after PGY-6 without completing, for a surgical-AI startup: ATTRITION. The roster rows for 2019-20 to 2023-24 omitted him (extraction miss).",
+    "fate_sources": [
+     "https://web.archive.org/web/20190921151152/https://www.hopkinsmedicine.org/neurology_neurosurgery/education/residencies/neurosurgery_residency/current_residents/",
+     "https://web.archive.org/web/20240224032825/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents",
+     "https://web.archive.org/web/20240804193153/https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents",
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/alumni",
+     "https://www.flarecapital.com/people/tito-porras/",
+     "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-residency/residents"
+    ]
+   }
+  ],
+  "explanation": "Roster extraction error: Tito Porras (2018 entrant) is on the Sep-2019 and Feb-2024 Hopkins captures but was left out of our roster rows. He left after PGY-6 in 2024 without graduating.",
+  "queries_tried": [
+   "Johns Hopkins neurosurgery residency 2018 match incoming interns Alice Hung Andrew Luksik Kurt Lehner",
+   "2018 match list \"Johns Hopkins Hospital\" \"Neurological Surgery\" -Luksik",
+   "\"matched\" \"neurosurgery\" \"Johns Hopkins\" \"Match Day 2018\"",
+   "\"2018\" match list pdf \"Neurological Surgery\" \"Johns Hopkins Hosp-MD\" (Weill Cornell deidentified, Vanderbilt 2018 lists checked: no Hopkins NS)",
+   "\"neurosurgery residency at Johns Hopkins\" 2018 intern switching/transferred/left",
+   "Hopkins MSTP residency-matches page (no 2018 NS match)",
+   "Wayback current_residents 2018-12 (redirects to 2017-09 capture)",
+   "Jose \"Tito\" Porras MD neurosurgery Johns Hopkins Dartmouth"
+  ]
+ },
+ {
+  "program_id": 26,
+  "match_year": 2017,
+  "matchees": [
+   {
+    "name": "Samuel Asante",
+    "source_url": "https://web.archive.org/web/20171101193151/http://www.houstonmethodist.org:80/1285_houstonmethodist/2623_education/medical-education/graduatemedicaleducation/gme-programs/gme_neurosurgeryresidency/2689_education_ourresidents/",
+    "in_our_data_as": "26:sam:asante",
+    "fate": "in_our_data",
+    "fate_detail": "PGY 1 Nov 2017",
+    "fate_sources": [
+     "https://web.archive.org/web/20171101193151/http://www.houstonmethodist.org:80/1285_houstonmethodist/2623_education/medical-education/graduatemedicaleducation/gme-programs/gme_neurosurgeryresidency/2689_education_ourresidents/"
+    ]
+   },
+   {
+    "name": "Bradley Daniels",
+    "source_url": "https://web.archive.org/web/20171101193151/http://www.houstonmethodist.org:80/1285_houstonmethodist/2623_education/medical-education/graduatemedicaleducation/gme-programs/gme_neurosurgeryresidency/2689_education_ourresidents/",
+    "in_our_data_as": "26:bra:daniels",
+    "fate": "in_our_data",
+    "fate_detail": "PGY 1 Nov 2017",
+    "fate_sources": [
+     "https://web.archive.org/web/20171101193151/http://www.houstonmethodist.org:80/1285_houstonmethodist/2623_education/medical-education/graduatemedicaleducation/gme-programs/gme_neurosurgeryresidency/2689_education_ourresidents/"
+    ]
+   },
+   {
+    "name": "UNIDENTIFIED 3rd 2017 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. The Nov-2017 roster (first 2017-18 update) lists only two PGY-1s. The Jul-2017 capture is still the stale 2016-17 list. So the third 2017 matchee either never started or left within about 4 months. Checked Michael Ghali (2018 intern, Drexel MD 2017) as a possible deferral: the Drexel 2017 match list has no Houston Methodist NS match. Also, Houston's 2018 class (3) equals the NRMP 2018 filled count (3), so a deferral is unlikely.",
+    "fate_sources": [
+     "https://web.archive.org/web/20171101193151/http://www.houstonmethodist.org:80/1285_houstonmethodist/2623_education/medical-education/graduatemedicaleducation/gme-programs/gme_neurosurgeryresidency/2689_education_ourresidents/",
+     "https://web.archive.org/web/20170715023923/http://www.houstonmethodist.org/1285_houstonmethodist/2623_education/medical-education/graduatemedicaleducation/gme-programs/gme_neurosurgeryresidency/2689_education_ourresidents",
+     "https://web.archive.org/web/20180323160834/https://webcampus.drexelmed.edu/cdc/2017-MatchList.asp"
+    ]
+   }
+  ],
+  "explanation": "The first 2017-18 roster capture (Nov 2017) shows only 2 interns. The 3rd matchee never appeared on any roster (never started or left early); identity not found.",
+  "queries_tried": [
+   "2017 match list \"Neurological Surgery\" \"Methodist Hospital-Houston\" OR \"Houston Methodist\"",
+   "\"Michael Ghali\" MD neurosurgery Houston Methodist resident",
+   "Drexel University College of Medicine 2017 match list \"Neurological Surgery\"",
+   "\"Houston Methodist\" neurosurgery residency \"2017\" matched intern Asante Daniels",
+   "issuu Houston Methodist Neurosurgery Residency brochure Nov 2017 (no text)",
+   "Wayback Houston roster Jul-2017 (stale 2016-17)"
+  ]
+ },
+ {
+  "program_id": 20,
+  "match_year": 2013,
+  "matchees": [
+   {
+    "name": "Joseph Quillin",
+    "source_url": "https://web.archive.org/web/20151025065518/http://neurosurgery.emory.edu:80/residency-education/education/current-residents.html",
+    "in_our_data_as": "20:jos:quillin",
+    "fate": "in_our_data",
+    "fate_detail": "PGY-3 Oct 2015; Emory 2013-2020 per current employer bio",
+    "fate_sources": [
+     "https://web.archive.org/web/20151025065518/http://neurosurgery.emory.edu:80/residency-education/education/current-residents.html",
+     "https://www.southwesternhealth.org/find-a-provider/medical-staff/joseph-quillin"
+    ]
+   },
+   {
+    "name": "Jeremy Wetzel",
+    "source_url": "https://web.archive.org/web/20151025065518/http://neurosurgery.emory.edu:80/residency-education/education/current-residents.html",
+    "in_our_data_as": "20:jer:wetzel",
+    "fate": "in_our_data",
+    "fate_detail": "PGY-3 Oct 2015",
+    "fate_sources": [
+     "https://web.archive.org/web/20151025065518/http://neurosurgery.emory.edu:80/residency-education/education/current-residents.html"
+    ]
+   },
+   {
+    "name": "UNIDENTIFIED 3rd 2013 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. The first archived Emory roster (Oct 2015) shows only two PGY-3s (Quillin, Wetzel), and the class of 2020 on the alumni page has the same two. The third 2013 matchee either left before Oct 2015 or never started. Emory has no Wayback or Common Crawl roster capture for 2008-09 to 2015-09.",
+    "fate_sources": [
+     "https://web.archive.org/web/20151025065518/http://neurosurgery.emory.edu:80/residency-education/education/current-residents.html"
+    ]
+   }
+  ],
+  "explanation": "No Emory roster was archived before Oct 2015, so a 2013 intern who left in the first two years would be invisible; identity not found.",
+  "queries_tried": [
+   "2013 match list \"Neurological Surgery\" \"Emory Univ SOM-GA\"",
+   "\"Emory\" neurosurgery resident 2013-2014 intern later general surgery/neurology/radiology",
+   "Emory neurosurgery \"new residents\" 2013 Quillin Wetzel",
+   "Northwestern NS match results page (not NS-specific)"
+  ]
+ },
+ {
+  "program_id": 38,
+  "match_year": 2018,
+  "matchees": [
+   {
+    "name": "UNIDENTIFIED 2018 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. NRMP shows 1 filled in 2018. The Feb-2018 roster has Ebot as the only PGY-1 (2017 entrant). No roster capture exists for 2018-19. The Mayo Florida alumni page lists no 2024 or 2025 graduate (2023 Akinduro, then 2026 Ravindran, a 2019 entrant). So the 2018 matchee did not complete at Mayo Florida: either never started or left early. Rachel Stein, who might have been this person, entered in 2019 (phase 2: VCOM student affiliation through Aug 2018).",
+    "fate_sources": [
+     "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/graduate-outcomes/",
+     "https://web.archive.org/web/20180216151131/http://www.mayo.edu:80/mayo-clinic-school-of-graduate-medical-education/residencies-fellowships/neurologic-surgery/neurologic-surgery-residency-florida/resident-profiles"
+    ]
+   }
+  ],
+  "explanation": "No Mayo Florida roster was archived for 2018-19 and the 2018 matchee never appears later or graduated, so they are invisible (never started or left early); identity not found.",
+  "queries_tried": [
+   "Mayo Clinic Florida Jacksonville neurosurgery residency 2018 match intern ... class of 2025",
+   "2018 match list \"Neurological Surgery\" \"Mayo\" \"FL\" Jacksonville -2019",
+   "SDN Official Match Lists 2018 page 5 (no Mayo FL NS)",
+   "\"Mayo Clinic\" Jacksonville \"neurosurgery resident\" 2018 OR 2019 \"PGY-1\" OR intern -Ravindran -Stein -Ebot",
+   "Mayo FL graduate-outcomes page"
+  ]
+ },
+ {
+  "program_id": 39,
+  "match_year": 2020,
+  "matchees": [
+   {
+    "name": "Miles Hudson",
+    "source_url": "https://web.archive.org/web/20211119233438/https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-arizona/meet-our-residents/",
+    "in_our_data_as": "39:mil:hudson",
+    "fate": "in_our_data",
+    "fate_detail": "PGY-2 Nov 2021 (2020 entrant)",
+    "fate_sources": [
+     "https://web.archive.org/web/20211119233438/https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-arizona/meet-our-residents/"
+    ]
+   },
+   {
+    "name": "Devi Prasad Patra",
+    "source_url": "https://medicine.iu.edu/blogs/neuroscience/fellowship-trained-neurosurgeon-brings-unique-set-of-skills",
+    "in_our_data_as": "39:dev:patra",
+    "fate": "in_our_data",
+    "fate_detail": "PROBABLE second 2020 matchee. The IU Medicine blog says he joined Mayo Clinic Phoenix in 2018 for a two-year cerebrovascular/endovascular/skull-base fellowship, 'followed by my residency training and CAST fellowship', completed 2024. That puts his residency start in 2020, the program's first year. A Doximity snippet (lead only) gives residency 2020-2024. Given credit for prior neurosurgery training in India, he was PGY-4 in 2021-22 and graduated in 2025 per the Mayo AZ alumni list. Our data has him with nominal entry_year 2018 and first_seen 2021-22, so the 2020 match slot is already counted under his key. Suggest setting his entry year to 2020 (advanced placement).",
+    "fate_sources": [
+     "https://medicine.iu.edu/blogs/neuroscience/fellowship-trained-neurosurgeon-brings-unique-set-of-skills",
+     "https://web.archive.org/web/20211119233438/https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-arizona/meet-our-residents/"
+    ]
+   }
+  ],
+  "explanation": "The second 2020 matchee is most likely Devi Patra, who started residency in 2020 with advanced credit and is in our data with a nominal 2018 entry year; there is no missing person.",
+  "queries_tried": [
+   "Mayo Clinic Arizona neurosurgery residency first class 2020 match Miles Hudson",
+   "Mayo Clinic Alumni Association residency match 2020 page (no NS)",
+   "\"Devi Patra\" neurosurgery residency Mayo Clinic Arizona 2020 matched"
+  ]
+ },
+ {
+  "program_id": 42,
+  "match_year": 2011,
+  "matchees": [
+   {
+    "name": "UNIDENTIFIED 2011 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. No roster capture exists for 2011-12. The next roster (georgiahealth.edu, revised 8/9/12) lists no PGY-2, so the 2011 matchee was gone by Aug 2012 or never started. The MCG alumni page has no one who fits: Yowtak 2017 and Viers 2018 are the 2010 entrants, and Todnem 2019 is the 2012 entrant. The phase-2 lead Michael T. Cormican (MCG MD 2011) looks REFUTED: his NGMC GME faculty bio gives internship at UNC Chapel Hill and residency at Duke and Emory (general surgery), not MCG neurosurgery.",
+    "fate_sources": [
+     "https://web.archive.org/web/20121205060356/http://www.georgiahealth.edu:80/medicine/neurosurgery/residents/",
+     "https://www.augusta.edu/mcg/neurosurgery/residents/alumni.php",
+     "https://www.ngmcgme.org/instructors/michael-cormican-md/"
+    ]
+   }
+  ],
+  "explanation": "MCG's 2011-12 roster was never archived and the 2011 intern was gone by Aug 2012 (no PGY-2 on the 2012-13 page), so they are invisible; identity not found.",
+  "queries_tried": [
+   "\"Cormican\" MD Medical College of Georgia 2011 neurosurgery OR \"general surgery\" Emory",
+   "augusta.edu mcg neurosurgery residency alumni graduates list Viers Yowtak Todnem",
+   "2011 match list \"Neurological Surgery\" \"Georgia Health Sciences\" OR \"Med Coll Georgia\" OR \"MCG-GA\" Augusta",
+   "ResearchGate MCG neurosurgery history 1956-2013 (403)"
+  ]
+ },
+ {
+  "program_id": 43,
+  "match_year": 2013,
+  "matchees": [
+   {
+    "name": "Michael Gelsomino",
+    "source_url": "https://web.archive.org/web/20150215194203/http://neurosurgery.mcw.edu:80/education/residency-program/residents/",
+    "in_our_data_as": "43:mic:gelsomino",
+    "fate": "in_our_data",
+    "fate_detail": "Residency completion 2020 on the Feb-2015 roster (2013 entrant)",
+    "fate_sources": [
+     "https://web.archive.org/web/20150215194203/http://neurosurgery.mcw.edu:80/education/residency-program/residents/"
+    ]
+   },
+   {
+    "name": "UNIDENTIFIED 2nd 2013 matchee",
+    "source_url": null,
+    "in_our_data_as": null,
+    "fate": "unknown",
+    "fate_detail": "Not identified. The Feb-2015 MCW roster (first real roster after the page froze in 2011-12) lists only one 'Residency Completion 2020' resident (Gelsomino). So the second 2013 matchee left before Feb 2015 or never started. The 2013-14 roster is reconstructed from dept extranet mentions and bios; PubMed affiliation mining (phase 2) found no one unlisted.",
+    "fate_sources": [
+     "https://web.archive.org/web/20150215194203/http://neurosurgery.mcw.edu:80/education/residency-program/residents/"
+    ]
+   }
+  ],
+  "explanation": "There is no MCW roster capture for 2012-13 or 2013-14 (the page was frozen), so a 2013 intern who left before Feb 2015 is invisible; identity not found.",
+  "queries_tried": [
+   "2013 match list \"Neurological Surgery\" \"Med Coll Wisconsin\" OR \"Medical College of Wisconsin Affiliated Hospitals\"",
+   "\"2013\" match results pdf \"Neurological Surgery\" \"Wisconsin\" Milwaukee \"Med Coll\" (UND 2013 list: no NS; Miami 2013 page 404)"
+  ]
+ },
+ {
+  "program_id": 45,
+  "match_year": 2012,
+  "matchees": [
+   {
+    "name": "R. Tushar Jha (Ribhu Tushar Jha)",
+    "source_url": "https://providers.northside.com/provider/ribhu-tushar-jha/2699455",
+    "in_our_data_as": "45:tus:jha",
+    "fate": "in_our_data",
+    "fate_detail": "Northside bio: Medical School University of Tennessee HSC, 2012; Residency MedStar Georgetown Neurosurgery, 2018. A 2012 MD cannot have started in 2011, so he is a 2012 entrant. Our data has entry_year 2011, mis-dated by assuming 7 years back from his 2018 graduation. MedStar Recent Graduates lists him under 2018. In the Aug-2015 capture he is labelled NS-3 with McGowan, one class above Mueller/Conte (2013 entrants, NS-2). Completed. Program length check: Felbaum's MedStar bio gives Medical School Marshall (2011), Residency Georgetown (2017), i.e. 6 years.",
+    "fate_sources": [
+     "https://providers.northside.com/provider/ribhu-tushar-jha/2699455",
+     "https://www.medstarhealth.org/education/residency-programs/neurosurgery/recent-graduates",
+     "https://web.archive.org/web/20150822111658/http://www.medstarhealth.org:80/education/affiliated-hospitals-2/medstar-georgetown-university-hospital/neurosurgery-residency/current-residents-19/",
+     "https://www.medstarhealth.org/doctors/daniel-roque-felbaum-md"
+    ]
+   },
+   {
+    "name": "Jason McGowan",
+    "source_url": "https://www.mountain.commonspirit.org/provider-search/jason-mcgowan-md",
+    "in_our_data_as": "45:jas:mcgowan",
+    "fate": "in_our_data",
+    "fate_detail": "CommonSpirit bio: Georgetown SOM MD, internship at MedStar Georgetown in General Surgery, then Neurosurgery residency at MedStar Georgetown. A search snippet (Doximity-type, lead only) gives MD 2011 and residency 2012-2019. MedStar Recent Graduates lists him under 2018 with Jha, and the Aug-2015 roster puts him in Jha's class (NS-3). So he is most likely the other 2012 neurosurgery matchee, after a 2011-12 surgery intern year. Our data has entry_year 2011. Completed.",
+    "fate_sources": [
+     "https://www.mountain.commonspirit.org/provider-search/jason-mcgowan-md",
+     "https://www.medstarhealth.org/education/residency-programs/neurosurgery/recent-graduates",
+     "https://web.archive.org/web/20150822111658/http://www.medstarhealth.org:80/education/affiliated-hospitals-2/medstar-georgetown-university-hospital/neurosurgery-residency/current-residents-19/"
+    ]
+   }
+  ],
+  "explanation": "Georgetown's pre-2013 classes finished in 6 years (Felbaum: Marshall MD 2011, residency 2011-2017; Jha: MD 2012, graduated 2018), but our reconstruction assumed 7. That shifted Jha/McGowan to 2011 and left the 2012 class looking empty. Side effect: the real 2011 class (Daniel Felbaum, Joshua Ryan; graduated 2017) was dated to 2010 and is probably missing from the 2011+ cohort.",
+  "queries_tried": [
+   "Tushar Jha MD neurosurgeon University of Tennessee medical school graduation year MedStar Georgetown residency",
+   "Jason McGowan MD neurosurgeon NeurosurgeryOne Georgetown ... residency",
+   "Daniel Felbaum MD Marshall University medical school year neurosurgery residency MedStar Georgetown 2011-2017",
+   "Wayback MedStar current-residents-19 Aug 2015; live MedStar Recent Graduates page"
+  ]
+ }
+]

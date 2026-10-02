@@ -1,0 +1,293 @@
+{
+ "program_id": 36,
+ "name": "Mass General Brigham (Massachusetts General Hospital) Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "complement_note": "Not stated; observed intern classes of 3 almost every year (4 in 2014, 2019, 2024; 2 in 2018 and pre-2006 class).",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://residents.neurosurgery.mgh.harvard.edu/CurrentResidents.html (program's own residency site; unlabelled seniority-ordered list, INTERNS section until 2013)",
+   "from": "2007",
+   "to": "2017 (last real roster Jul 2017 CC; 2021 captures are placeholders; host now serves a cPanel default page / 404)"
+  },
+  {
+   "url": "http://alumni.neurosurgery.mgh.harvard.edu/ResidentAlumni.htm (alumni list with graduation years; neurosurgery.mgh.harvard.edu/alumnihp.htm redirects here)",
+   "from": "2010",
+   "to": "2024-02"
+  },
+  {
+   "url": "http://www.massgeneral.org/neurosurgery/doctors/current_residents.aspx (hospital site; STALE/partial - not used)",
+   "from": "2012",
+   "to": "2017"
+  },
+  {
+   "url": "http://www.massgeneral.org/neurosurgery/doctors/doctors_category.aspx?display=residents_list and /neurosurgery/faculty/?display=residents_list (unlabelled)",
+   "from": "2016-04",
+   "to": "2019-10"
+  },
+  {
+   "url": "http://www.massgeneral.org/neurosurgery/education/residency.aspx?id=72&display=residents",
+   "from": "2018-02",
+   "to": "2019-09"
+  },
+  {
+   "url": "https://www.massgeneral.org/neurosurgery/doctors/current-residents (PGY headings)",
+   "from": "2019-12",
+   "to": "2026-05 (now 301 -> massgeneralbrigham.org/en/services/neuroscience)"
+  },
+  {
+   "url": "https://research.massgeneralbrigham.org/en/education-and-training/graduate-medical-education/neurosurgery/mgb-neurosurgery-residency-program (merged MGB program; brochure PDF dated Jan 2026 lists 2025-26 MGH and BWH residents separately + alumni)",
+   "from": "2026",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "Wayback 2012-01-07 residents host, complete 20 (no PGY labels; PGY from class, anchored on alumni graduation years and intern sections).",
+  "2012-2013": "Wayback 2012-12-05, complete 20.",
+  "2013-2014": "Wayback has no version between May 2013 and Dec 2014; massgeneral.org Aug/Dec 2013 list is stale (keeps 2013 grads, omits 2010 class and 2013 interns). Used Common Crawl CC-MAIN-2014-10 (2014-03-11) residents page: 18 names; Fecci/Kahle/Terry (2014 grads, removed early) added as reconstructed (manual). Spring capture.",
+  "2014-2015": "Wayback 2015-02-12 (Dec 2014 version lacks the 2014 interns). Codd (2015 grad removed early) added as reconstructed.",
+  "2015-2016": "massgeneral.org residents list 2016-04-06 (residents host Oct 2015 lacks 2015 interns). Jones/Aronson (2016 grads, removed early) reconstructed.",
+  "2016-2017": "Common Crawl CC-MAIN-2016-50 (2016-12-03) residents page with 2016 interns; Pricola Fehnel/Shankar (2017 grads, removed early) reconstructed. Wayback Oct 2016 lacks interns.",
+  "2017-2018": "massgeneral.org residents_list 2017-09-06, complete 21, unlabelled.",
+  "2018-2019": "Only content-dated 2018-19 version is massgeneral.org residents_list captured 2019-10-22 (stale: still has 2019 grads, has 2018 interns, no 2019 interns); 20 names. 2018 massgeneral captures (Feb-Mar 2018) are 2017-18 content.",
+  "2019-2020..2025-2026": "massgeneral.org current-residents with PGY headings, complete each year.",
+  "2026-2027": "MISSING. massgeneral.org pages 301 to massgeneralbrigham.org (no roster); residents host dead; MGB research page has no roster; its brochure PDF (created 2026-01-03) shows the 2025-26 roster; last Wayback current-residents (2026-05-12) is still 2025-26. No combined 2026-27 roster exists anywhere found."
+ },
+ "merger_note": "MGH and BWH neurosurgery merged in 2025; integrated MGB program matched its first class March 2026. No live 2026-27 combined roster was found, so no BWH legacy residents or combined 2026 interns were recorded. bwh_legacy_2026_27 is empty for that reason. BWH 2025-26 residents shown in the MGB brochure were NOT added to program 36.",
+ "bwh_legacy_2026_27": [],
+ "alumni_page": "http://alumni.neurosurgery.mgh.harvard.edu/ResidentAlumni.htm (+ 'Mass General Alumni' section of the MGB residency brochure PDF)",
+ "departures": [
+  {
+   "name": "John Berry-Candelario",
+   "last_ay": "2014-2015",
+   "last_pgy": 4,
+   "outcome": "transferred to Duke (program 19), PGY-4 there in 2015-16, Duke alumni 2018",
+   "recorded": "training_history end 2015 transferred"
+  },
+  {
+   "name": "Robert Gramer",
+   "last_ay": "2023-2024",
+   "last_pgy": 4,
+   "outcome": "unknown. Left mid-2023-24 (listed Sep 2023, gone by Apr 2024). Not on any roster in the study. Later PubMed: MGH (Dec 2025, legacy global-neurosurgery project), Duke Neurosurgery (Mar 2026), Children's Hospital of Orange County Division of Neurosurgery (Jul 2026); role unstated",
+   "recorded": "training_history end 2024 completed=no departure_type=unknown"
+  },
+  {
+   "name": "Giannina Garces-Ambrossi",
+   "last_ay": "2010-2011",
+   "last_pgy": 2,
+   "note": "Pre-window; not loaded."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Joshua Aronson",
+   "first_ay": "2011-2012",
+   "first_pgy": 3,
+   "from": "Brigham and Women's (program 37), PGY-2 2010-11",
+   "recorded": "training_history transfer-in row start 2011, graduated 2016"
+  },
+  {
+   "name": "Sarah Bick (Sarah Bourne)",
+   "first_ay": "2014-2015",
+   "first_pgy": 2,
+   "from": "Cleveland Clinic (program 12), PGY-1 2013-14 as 'Sara Bourne'",
+   "recorded": "training_history transfer-in row start 2014, graduated 2019 (one year ahead of her class); roster PGYs 2014-18 set to 2-5 and 2018-19 set to 7"
+  }
+ ],
+ "other_flags": [
+  "Matthew Mian: 2012 intern, graduated 2018 (one year early; alumni list). PGY-7 set for 2017-18; adjudicated COMPLETED.",
+  "Sarah Bick: joined PGY-2 2014 from Cleveland Clinic; graduated 2019, one year early like Mian (6 years total including her CC intern year).",
+  "Amy Wang: dropped back one year in 2022-23; PGY-7 on the roster through 2025-04-30 alongside Friedman/Nanda, absent Sep 2025 -> completion June 2025 recorded (PGY-terminal roster). She is missing from the MGB brochure's 2025 alumni list; 2026 PubMed shows MGH + Univ of Miami neurosurgery affiliations and NPPES lists Amy Julia Wang, Neurological Surgery, Aurora CO (updated 2026-07).",
+  "PGY labels exist only from 2019-20; earlier PGYs inferred from class (intern sections + alumni graduation years).",
+  "Chiefs are routinely removed from the page months before June; added back as reconstructed rows only where the alumni list confirms completion."
+ ],
+ "residents_2011plus": 45,
+ "adjudication_summary": {
+  "COMPLETED": 44,
+  "IN TRAINING": 18,
+  "LEFT -> TRANSFERRED (Duke)": 1,
+  "LEFT -> did not complete (Gramer, outcome unknown)": 1,
+  "note": "after phase 2; 2026 PGY-7s (Connolly, Munoz Miranda, Robertson) recorded as June 2026 graduates"
+ },
+ "problems": "No new problems. Phase-1 CC failures (CC-MAIN-2013-20, 2016-18, 2016-36) cover observed years only. No MGB 2026-27 roster exists.",
+ "supplemented_years": {
+  "2013-2014": [
+   "Peter Fecci",
+   "Kristopher Kahle",
+   "Anna Terry"
+  ],
+  "2014-2015": [
+   "Patrick Codd"
+  ],
+  "2015-2016": [
+   "Pamela Jones",
+   "Joshua Aronson"
+  ],
+  "2016-2017": [
+   "Ganesh Shankar",
+   "Katie Pricola Fehnel"
+  ]
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "observed; chiefs removed early (Peter Fecci, Kristopher Kahle, Anna Terry) supplemented as reconstructed rows, each confirmed by the alumni list"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "observed; chiefs removed early (Patrick Codd) supplemented as reconstructed rows, each confirmed by the alumni list"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "observed; chiefs removed early (Pamela Jones, Joshua Aronson) supplemented as reconstructed rows, each confirmed by the alumni list"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "observed; chiefs removed early (Ganesh Shankar, Katie Pricola Fehnel) supplemented as reconstructed rows, each confirmed by the alumni list"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "observed (content-dated stale list captured 2019-10-22, 2018-19 content, complete with both PGY bounds bracketed by 2017-18 and 2019-20)"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "MGH-BWH merger: no merged MGB 2026-27 roster published anywhere (massgeneral.org pages 301 to massgeneralbrigham.org; last Wayback 2026-05-12 still 2025-26; MGB brochure is 2025-26). Not closable until MGB publishes a roster. Jun-Sep 2026 PubMed shows MGH/MGB neurosurgery affiliations for 11 of the 18 continuing residents; none of the 18 is seen elsewhere except Rodrigues (a Stanford AI-lab paper, his med-school group) and N. Hughes (Vanderbilt med-school co-affiliation)."
+  }
+ },
+ "terminal_pgy_by_entry_year": {},
+ "evidence_2026_27": {
+  "graduated_2026": {
+   "Ian Connolly": "Miami spine fellow 07/2026 (Miami current-fellows page, Wayback 2026-09-24: completed residency at MGH)",
+   "Faith Robertson": "Duke Division of Spine affiliation Sep 2026 (PMID 42721370)",
+   "William Munoz Miranda": "no 2026 evidence; PGY-terminal roster only"
+  },
+  "continuing_with_MGH_MGB_affiliation_Jun_Sep_2026": [
+   "Kow Essuman (42385702)",
+   "Nathaniel Sisterson (42720972, 42641499, 42239197)",
+   "Opeyemi Alabi (42641499, 42264664)",
+   "Brian Hsueh (42437767, 42358667)",
+   "Tariq Parker (42708093)",
+   "Briana Prager (42251046)",
+   "William Smith (42628465, 42556098)",
+   "Grace Ng (42556098)",
+   "Edwin Owolo (42725768, 42640617, 42628465)",
+   "Rohan Jha (42599080)",
+   "Natasha Hughes (42537546, 42386530; co-affiliated Vanderbilt)"
+  ],
+  "no_2026_evidence": [
+   "Suk Joon Lee",
+   "Jacob Kosyakovsky",
+   "Adrian Rodrigues (only a Stanford AI-lab paper, Jul 2026; Stanford was his med school)",
+   "Grace Nevil",
+   "Christina Rossitto",
+   "Gabriela Ruiz Colon",
+   "Ravi Pancholi"
+  ],
+  "note": "No 2026-27 roster rows loaded (no PGY stated anywhere, no later bracket); the stale 2025-26 page (2026-05-12) was NOT loaded as 2026-27. MGB integrated-program 2026 interns belong to the new program. bwh_legacy_2026_27 stays empty here; the program 37 gap JSON lists the 18 BWH legacy residents."
+ },
+ "phase2": {
+  "searched": [
+   "raw p36 folder re-checked: every year 2011-26 already observed from parsed captures; no unparsed gap-year roster",
+   "gapaudit 2026-05..2026-09 on massgeneral.org/neurosurgery, research.massgeneralbrigham.org neurosurgery GME, residents host, massgeneralbrigham.org neurosurgery (only stale current-residents 2026-05-12, alumni landing page, dead residents host)",
+   "Wayback massgeneral.org/neurosurgery/alumni and alumni host 2024-2026 (no resident alumni list after 2024-02)",
+   "Wayback CDX current-residents 2025-01..2026-05 (Amy Wang present through 2025-04-30)",
+   "PubMed Jun-Sep 2026 affiliations for all 21 residents of 2025-26",
+   "PubMed for Gramer (2019-2026) and Amy Wang (2019-2026)",
+   "NPPES for Amy Wang, Robert Gramer, Sarah Bick",
+   "Univ of Miami neurosurgery faculty/fellows/residents pages (Wayback + live), CU Anschutz neurosurgery faculty/fellowship/resident pages (live)",
+   "crossmatch.json: Berry-Candelario 36->19; Bourne/Bick 12->36; Aronson 37->36"
+  ],
+  "found": [
+   "Berry-Candelario transfer to Duke 2015 recorded",
+   "Bick = Bourne transfer in from Cleveland Clinic at PGY-2 2014 (NPI enumerated 2013) recorded; roster PGYs filled",
+   "Aronson transfer in from BWH at PGY-3 2011 recorded",
+   "Amy Wang on roster as PGY-7 until 2025-04-30 -> completion 2025 recorded",
+   "Gramer post-MGH affiliations (Duke 2026, CHOC 2026), role unknown",
+   "Connolly confirmed 2026 MGH graduate (Miami spine fellow 2026-27)",
+   "11 of 18 continuing residents with MGH/MGB neurosurgery affiliations Jun-Sep 2026"
+  ],
+  "remaining": [
+   "2026-27 roster (significant; merger, no roster published)",
+   "Gramer's destination (unknown)",
+   "Amy Wang's omission from the 2025 brochure alumni list (low)"
+  ]
+ }
+}

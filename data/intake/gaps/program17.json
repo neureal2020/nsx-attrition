@@ -1,0 +1,178 @@
+{
+ "program_id": 17,
+ "name": "Corewell Health/William Beaumont University (Dearborn/Royal Oak) Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2014,
+ "hosts": [
+  {
+   "url": "https://www.beaumont.edu/graduate-medical-education/residency-programs/neurosurgery/neurological-surgery-residency-royal-oak (+ /residents, /program-graduates, /faculty)",
+   "from": "2018-07 (Common Crawl CC-MAIN-2018-30; first Wayback capture 2019-07)",
+   "to": "2025-05 (then redirects to corewellhealth.org)"
+  },
+  {
+   "url": "https://corewellhealth.org/graduate-medical-education/southeast-michigan/residencies/dearborn-and-royal-oak/neurological-surgery (+ /residents, /graduates, /faculty)",
+   "from": "2025-06",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "reconstructed_years": [
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019"
+ ],
+ "missing_years": [
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012..2013-2014": "Before the earliest cohort (Elfallal, entry 2014). The 2019 program page calls it a 'newly accredited 7-year program ... 1 resident/year'. Not counted as missing.",
+  "2014-2015..2016-2017": "Phase 2: reconstructed with Elfallal only. He was a resident of the Beaumont Hospital System osteopathic neurosurgery program at Trenton (ex-Oakwood Southshore; the 'Dearborn' of the program name), which fed into the ACGME program: 'Beaumont Hospital System, Neurological surgery, PGY4 resident, Trenton, MI' (Spartan Med Res J Apr 2018, PMID 33655134; co-author Samer Elfallal, Chief of Neurosurgery Trenton). NPI enumerated 2014-06-26. No web roster exists for the precursor.",
+  "2017-2018": "Reconstructed: Rapp PGY1, Elfallal PGY4 (Elfallal confirmed by PMID 33655134).",
+  "2018-2019": "Reconstructed: Elfallal PGY5, Rapp PGY2, Chieng PGY1 (Chieng Beaumont Neurosurgery affiliation received Jul 2018, PMID 30771765).",
+  "2019-2020": "Wayback 2019-08-23 residents page: Elfallal 6, Rapp 3, Chieng 2, Mong 1 (PGY4/5/7 empty). Identical 2019-10-20.",
+  "2020-2021": "No residents-page capture Aug 2020-Jan 2021; 2021-04-16 capture content-dated 2020-21 (Elfallal PGY7, grad 2021): +Nachar PGY1.",
+  "2021-2022": "Only capture 2022-08-15, content-dated 2021-22 (stale page: Rapp PGY5, grad 2024; Black PGY1; no 2022 interns).",
+  "2022-2023": "Wayback 2023-01-29: Rapp 6, Chieng 5, Mong 4, Black 2, Chehab 1, Spinelli 1. Nachar gone.",
+  "2023-2024": "No capture Aug-Jan; 2024-02-24 content-dated 2023-24 (Rapp PGY7). Spinelli now PGY3 (listed PGY1 a year earlier).",
+  "2024-2025": "Wayback 2024-10-14: Chieng 7, Mong 6, Black 4, Spinelli 4, Chehab 3, Singhal 2, Kobeissi 1.",
+  "2025-2026": "corewellhealth.org Wayback 2025-12-15 (identical 2026-03-13): Mong 7, Black 5, Spinelli 5, Chehab 4, Singhal 3, Kobeissi 2, Thibault 1.",
+  "2026-2027": "Missing. Live page 2026-09-28 and Common Crawl CC-MAIN-2026-34 (2026-08-18) show the unchanged 2025-26 roster; graduates page has no 2026 entry."
+ },
+ "alumni_page": "https://corewellhealth.org/graduate-medical-education/southeast-michigan/residencies/dearborn-and-royal-oak/neurological-surgery/graduates",
+ "departures": [
+  {
+   "name": "Layla Nachar",
+   "last_ay": "2021-2022",
+   "last_pgy": 2,
+   "note": "Entered 2020 (LSU New Orleans MD). Gone by Jan 2023; not on graduates page. NPPES 1164044871 updated 2022-07-12: trainee (student taxonomy, LA license) at Ochsner Medical Center, 1514 Jefferson Hwy, New Orleans -> left July 2022 for a New Orleans training post, specialty unknown. Not on Tulane/Ochsner neurosurgery (66) 2023-24 roster. Recorded completed=no, departure_type=unknown."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Wissam Elfallal",
+   "first_ay": "2019-2020",
+   "first_pgy": 6,
+   "note": "Not an outside transfer: in the Beaumont Trenton osteopathic neurosurgery residency since 2014 (PGY4 Apr 2018, PMID 33655134), carried into the ACGME program. Graduated 2021; now AdventHealth Daytona Beach."
+  },
+  {
+   "name": "Casey Spinelli",
+   "first_ay": "2022-2023",
+   "first_pgy": 2,
+   "note": "Transfer in at PGY2 (listed PGY1 in Jan 2023, PGY3 2023-24). 2021-22 in New Orleans with 'Tulane University & Ochsner Clinic Neurosurgery Program' affiliation (PMIDs 34718197, 35599459) but absent from the Tulane categorical roster (Jan 2022): probably a prelim/research PGY1, not a Tulane departure. Took the place vacated by Nachar."
+  }
+ ],
+ "residents_2011plus": 11,
+ "adjudication_summary": {
+  "IN TRAINING": 7,
+  "COMPLETED": 3,
+  "LEFT -> did not complete": 1
+ },
+ "problems": "Common Crawl rerun (fixed filter) 2014-2019 on beaumont.edu GME neuro prefixes and 2025-2026 on corewellhealth.org: all phase-1 failed crawls (2015-06, 2016-07, 2017-26, 2018-30, 2018-39) retried OK, 0 roster hits before 2019-08. data.commoncrawl.org returned intermittent 403s; all retries eventually succeeded (0 unfinished crawls). Spinelli's 2022-23 PGY1 label kept as listed. Precursor osteopathic program has no archived web presence.",
+ "terminal_pgy_by_entry_year": {
+  "2014": 7,
+  "2017": 7
+ },
+ "years": {
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Pre-ACGME: Elfallal (PGY1) in the Beaumont Trenton/Dearborn osteopathic neurosurgery residency (NPI 2014-06; PGY4 Apr 2018, PMID 33655134). No web page on any host; PubMed Trenton/Dearborn/Oakwood neurosurgery mining finds no other resident."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "As 2014-15 (Elfallal PGY2). The 2019 page's empty PGY4/PGY5/PGY7 slots show no 2013/2015/2016 entrant survived; an AOA-era entrant who left before 2019 remains theoretically unseen."
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "As 2014-15 (Elfallal PGY3). CC 2014-2019 (fixed filter, all crawls) and Wayback on beaumont.edu/.org, oakwood.org, botsford.org, beaumonthospitals.com: no neurosurgery residency page before 2018-07."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Elfallal PGY4 confirmed by PMID 33655134 (Apr 2018); Rapp PGY1 (first ACGME intern, grad 2024). 1-per-year complement filled in every later class, so an unseen 2017 leaver would need an unseen replacement."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Chieng at Beaumont Neurosurgery by Jul 2018 (PMID 30771765); Rapp PGY2; Elfallal PGY5. Main page in CC 2018-07..2019-05 has no roster link. Aug 2019 roster continues all three at the expected PGY."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2019-08-23."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2021-04-16, content-dated."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2022-08-15 stale page, content-dated 2021-22."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2023-01-29 (Spinelli labelled PGY1; really PGY2 transfer-in)."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2024-02-24, content-dated."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2024-10-14; CC 2025-06-23 identical."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2025-12-15; CC 2026-03-13 identical."
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "Live page 2026-09-28 and CC 2026-08-18 still show the 2025-26 roster (stale). Thibault still at Corewell Aug 2026 (PMID 42687051). Lead: Daniela Perez-Chadid (Rutgers NJMS research, Corewell Royal Oak affiliation Jun 2026) may be a 2026 PGY1; unconfirmed, no NPI."
+  }
+ },
+ "wayne_state_check": "No Wayne State/DMC (125) resident appears on any Beaumont roster 2019-2026. WSU 2018-19 dispersal: Garling stayed with DMC affiliation to 2020-21 (PMIDs), Walker -> Carilion, the rest to named programs; Beaumont's empty PGY4/5/7 slots in 2019-20 confirm none came here.",
+ "phase2": {
+  "searched": [
+   "Common Crawl 2014-2019 (edu,beaumont GME neuro prefixes, org,beaumont medical-education, edu,beaumont news) and 2025-2026 (corewellhealth program prefix), fixed filter, failed crawls retried",
+   "Wayback gapaudit 2013-2019: oakwood.org, beaumont.edu, beaumont.org, botsford.org, beaumonthospitals.com; CDX filters for osteopathic/neurosurgery paths on oakwood.org, meded.beaumont.edu, neurosciences.beaumont.edu, com.msu.edu, scs.msu.edu",
+   "Archived parent pages: beaumonthospitals.com/education (2015), oakwood.org medical-education (2015)",
+   "PubMed affiliation mining 2010-2026: Beaumont/Oakwood/Corewell + Royal Oak/Dearborn/Trenton neurosurgery; author searches Elfallal, Nachar, Spinelli, Rapp, Chieng, current residents, Garling/Walker (WSU)",
+   "OpenAlex authors Spinelli, Nachar; NPPES Nachar, Spinelli, Elfallal, Thibault, Perez-Chadid",
+   "Tulane (66) Jan 2022 roster checked for Spinelli; WSU (125) dispersal list checked",
+   "Live corewellhealth residents/graduates pages 2026-09-28"
+  ],
+  "found": [
+   "Elfallal PGY4 at Beaumont Trenton Apr 2018 (PMID 33655134) -> precursor osteopathic program, entry 2014 confirmed, not a transfer",
+   "Chieng at Beaumont neurosurgery Jul 2018 (PMID 30771765)",
+   "Spinelli 2021-22 in New Orleans with Tulane/Ochsner neurosurgery affiliation, not on Tulane roster -> transfer-in PGY2 2022",
+   "Nachar NPPES July 2022 -> trainee at Ochsner New Orleans (specialty unknown)",
+   "No Wayne State transfers into Beaumont",
+   "CC 2026-08-18 residents page = stale 2025-26 roster; lead Perez-Chadid (possible 2026 PGY1)"
+  ],
+  "remaining": [
+   "2026-27 roster (stale site)",
+   "Nachar's destination specialty",
+   "Other residents (if any) of the precursor Trenton osteopathic program 2014-2019"
+  ]
+ }
+}

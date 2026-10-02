@@ -1,0 +1,402 @@
+[
+ {
+  "key": "125:jos:loya",
+  "name": "Joshua Loya",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Stanford MD 2015, residency University at Buffalo neurosurgery (2014-2021 listed) plus UC San Diego neurosurgery residency; DB notes Buffalo->WSU PGY3 2017 ->UCSD",
+  "residency_stated": [
+   {
+    "institution": "University at Buffalo",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": null
+   },
+   {
+    "institution": "UC San Diego Medical Center",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Doximity lists residency at University at Buffalo and UC San Diego; no Wayne State entry shown. Consistent with closure transfer to UCSD (2020). Now neurosurgeon at OHSU.",
+  "year_left": 2020,
+  "destination_program": "UC San Diego",
+  "destination_start_year": 2020,
+  "current": "neurosurgeon, OHSU, Portland OR",
+  "agrees_with_db": true,
+  "disagreement": "Doximity does not list Wayne State; otherwise consistent",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joshua-loya-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, University at Buffalo 2014-2021; University of California (San Diego) Medical Center Residency, Neurological Surgery; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "125:seo:moon",
+  "name": "Seong-Jin Moon",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Univ of Illinois MD 2015, neurosurgeon Palm Coast FL; search snippet states residency at OHSU",
+  "residency_stated": [
+   {
+    "institution": "Oregon Health & Science University",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Search snippet: 'completed his residency at the Oregon Health and Science University'. Doximity lists no residency. Practising neurosurgeon at AdventHealth Palm Coast; board eligible (not ABNS on Doximity).",
+  "year_left": 2020,
+  "destination_program": "Oregon Health & Science University",
+  "destination_start_year": 2020,
+  "current": "neurosurgeon, AdventHealth Palm Coast FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.adventhealth.com/doctors/seong-jin-moon-md-1154717528",
+    "type": "search_snippet",
+    "evidence": "board eligible neurosurgeon... completed his residency at the Oregon Health and Science University in Portland, Oregon"
+   },
+   {
+    "url": "https://www.doximity.com/pub/seong-jin-moon-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Palm Coast FL; University of Illinois College of Medicine Class of 2015; no residency or ABNS listed"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "125:cat:peterson",
+  "name": "Catherine Peterson",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Indiana Univ MD 2016; Detroit Medical Center residency 2016-2023 and UC Davis neurosurgery residency 2020-2023; MI license 2016-2019",
+  "residency_stated": [
+   {
+    "institution": "Detroit Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2020
+   },
+   {
+    "institution": "UC Davis Health",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2023
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred to UC Davis neurosurgery (2020); completed 2023; INR fellowship UCLA 2023-2025.",
+  "year_left": 2020,
+  "destination_program": "UC Davis Health",
+  "destination_start_year": 2020,
+  "current": "neurointerventional neurosurgeon/INR, Los Angeles area CA",
+  "agrees_with_db": true,
+  "disagreement": "Name-ambiguity flag resolved",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/catherine-peterson-md-9c08e40d",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, UC Davis Health 2020-2023; Detroit Medical Center Residency 2016-2023; Indiana University School of Medicine Class of 2016"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "125:man:shah",
+  "name": "Manan Shah",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "Rutgers bio + Doximity both: Rutgers NJMS MD 2016, WSU/DMC 2016-2020, Rutgers 2020-2023",
+  "residency_stated": [
+   {
+    "institution": "Detroit Medical Center/Wayne State University",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2020
+   },
+   {
+    "institution": "Rutgers NJMS/RWJBarnabas",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2023
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Rutgers bio: WSU/DMC PGY1-4 July 2016-June 2020, Rutgers PGY5-7 finishing June 2023; spine fellowship UPMC 2023-24. Now Rutgers/RWJBH spine neurosurgeon.",
+  "year_left": 2020,
+  "destination_program": "Rutgers New Jersey Medical School",
+  "destination_start_year": 2020,
+  "current": "neurosurgeon (spine), Rutgers/RWJBarnabas, New Brunswick NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://sites.rutgers.edu/neurological-surgery/people/manan-shah-md/",
+    "type": "bio",
+    "evidence": "Wayne State University/Detroit Medical Center from July 2016 to June 2020; Rutgers PGY5-7 completing training in June 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/manan-shah-md-04965e00",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Rutgers 2020-2023; Detroit Medical Center/Wayne State 2016-2020"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "125:dyl:goodrich",
+  "name": "Dylan Goodrich",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: DMC/Wayne State neurosurgery residency 2017-2020, SGU MD 2017, MI license; ResearchGate lists Neurosurgery Resident at UC Davis",
+  "residency_stated": [
+   {
+    "institution": "Detroit Medical Center/Wayne State University",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2020
+   },
+   {
+    "institution": "UC Davis Health",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred to UC Davis (ResearchGate: neurosurgery resident UC Davis; CA license 2020-2024). Now neurosurgeon at MyMichigan, Midland MI.",
+  "year_left": 2020,
+  "destination_program": "UC Davis Health",
+  "destination_start_year": 2020,
+  "current": "neurosurgeon (spine), MyMichigan Medical Center Midland MI",
+  "agrees_with_db": true,
+  "disagreement": "UC Davis end year not stated by sources",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dylan-goodrich-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Detroit Medical Center/Wayne State University 2017-2020; CA State Medical License 2020-2024"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Dylan-Goodrich",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident, University of California, Davis, Department of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "125:nei:klinger",
+  "name": "Neil Klinger",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "Munson bio + directories: Wayne State MD 2017, residency at WSU/DMC then Brigham & Women's",
+  "residency_stated": [
+   {
+    "institution": "Detroit Medical Center/Wayne State University",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2020
+   },
+   {
+    "institution": "Brigham and Women's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Munson bio: initial residency at WSU/DMC followed by additional residency at Brigham & Women's; years not given. Now neurosurgeon at Munson, Traverse City MI.",
+  "year_left": 2020,
+  "destination_program": "Brigham and Women's Hospital",
+  "destination_start_year": 2020,
+  "current": "neurosurgeon (spine), Munson Neurosurgery, Traverse City MI",
+  "agrees_with_db": true,
+  "disagreement": "BWH dates not stated in sources",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.munsonhealthcare.org/about-the-system/news-media-relations/news/neil-klinger-md-joins-munson-neurosurgery",
+    "type": "bio",
+    "evidence": "completed his medical education and initial residency at Wayne State University/Detroit Medical Center, followed by an additional residency at Brigham & Women's Hospital"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "125:ari:kappel",
+  "name": "Ari Kappel",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/MGB: Stony Brook MD 2018, DMC internship 2018-2020, BWH neurosurgery residency 2020-2025",
+  "residency_stated": [
+   {
+    "institution": "Detroit Medical Center/Wayne State University",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2020
+   },
+   {
+    "institution": "Brigham and Women's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2025
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred to BWH after 2 years at DMC (listed as internship); completed 2025; endovascular fellowship USC 2026.",
+  "year_left": 2020,
+  "destination_program": "Brigham and Women's Hospital",
+  "destination_start_year": 2020,
+  "current": "endovascular/cerebrovascular neurosurgeon, Boston",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ari-kappel-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, Brigham and Women's 2020-2025; Detroit Medical Center/Wayne State Internship, Neurological Surgery 2018-2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "125:shi:huang",
+  "name": "Shiwei Huang",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "UMN news: began residency at Wayne State July 2018, joined UMN neurosurgery Feb 17 2020 as PGY-2; Drexel MD; Doximity Drexel 2018, MN + MI licenses",
+  "residency_stated": [
+   {
+    "institution": "Wayne State University",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2020
+   },
+   {
+    "institution": "University of Minnesota",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred mid-year Feb 2020 to UMN neurosurgery (PGY-2). Later status unclear: Doximity shows only 'Resident Physician', not on UMN current-resident roster (Classes 2027-2033), 2024 papers co-authored with UMN neuroradiologist (Nascene); possible later move to neuroradiology NOT verified.",
+  "year_left": 2020,
+  "destination_program": "University of Minnesota",
+  "destination_start_year": 2020,
+  "current": "unknown (resident at UMN; specialty after transfer unverified)",
+  "agrees_with_db": true,
+  "disagreement": "Transfer confirmed; final specialty at UMN unverified",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://med.umn.edu/neurosurgery/news/department-welcomes-new-resident",
+    "type": "program_page",
+    "evidence": "joined the University of Minnesota's Neurosurgery Residency Program on February 17, 2020 as a second-year resident; began residency at Wayne State in July 2018"
+   },
+   {
+    "url": "https://www.doximity.com/pub/shiwei-huang-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Minneapolis MN; Drexel Class of 2018; MI license 2018-2020"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "125:amb:gaulden",
+  "name": "Amber Gaulden",
+  "program_id": 125,
+  "identity": "probable",
+  "identity_basis": "UC Cincinnati neurosurgery resident (PGY5 per program Instagram late 2023), USC Greenville MD 2019; consistent with starting 2019 at WSU and moving 2020; no source names WSU explicitly",
+  "residency_stated": [
+   {
+    "institution": "University of Cincinnati",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Neurosurgery resident at University of Cincinnati (PGY5 in 2023-24 implies 2019 start); no Wayne State mention found in sources.",
+  "year_left": 2020,
+  "destination_program": "University of Cincinnati",
+  "destination_start_year": 2020,
+  "current": "neurosurgery resident, University of Cincinnati",
+  "agrees_with_db": true,
+  "disagreement": "Wayne State PGY-1 not independently confirmed; Cincinnati destination inferred",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/amber-gaulden-205016369/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at UNIVERSITY OF CINCINNATI MEDICAL CENTER/COLLEGE OF MEDICINE"
+   },
+   {
+    "url": "https://www.instagram.com/p/C0XQzpCJgzW/",
+    "type": "search_snippet",
+    "evidence": "Congratulations to PGY 5, Amber Gaulden, MD"
+   }
+  ],
+  "searches_used": 3
+ }
+]

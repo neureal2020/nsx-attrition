@@ -1,0 +1,267 @@
+[
+ {
+  "key": "94:vya:makler",
+  "name": "Vyacheslav Makler",
+  "program_id": 94,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and bio: DO Rocky Vista 2014; neurosurgeon; bio names Dartmouth-Hitchcock residency; Missouri roster PGY-1 2014 to PGY-3 2016-17 fits",
+  "residency_stated": [
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2017
+   },
+   {
+    "institution": "Dartmouth-Hitchcock Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Started at Missouri 2014; bio says neurosurgical residency completed at Dartmouth-Hitchcock (transfer 2017 per phase2 roster evidence); fellowship spine, Univ of Miami",
+  "year_left": 2016,
+  "destination_program": "Dartmouth-Hitchcock Medical Center",
+  "destination_start_year": 2017,
+  "current": "neurosurgeon (spine), Springfield Neurological and Spine Institute, Springfield MO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://springfieldneurological.com/team/vyacheslav-makler-do/",
+    "type": "bio",
+    "evidence": "completed his neurosurgical residency at Dartmouth-Hitchcock Medical Center; fellowship in minimally invasive and complex spine surgery at the University of Miami"
+   },
+   {
+    "url": "https://www.doximity.com/pub/vyacheslav-makler-do",
+    "type": "doximity",
+    "evidence": "Rocky Vista Class of 2014; American Board of Neurological Surgery, Neurological Surgery; Neurosurgery Springfield MO"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "94:pat:belton",
+  "name": "Patrick Belton",
+  "program_id": 94,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD SUNY Upstate 2015, Residency Neurological Surgery Missouri-Columbia 2015-2022; UW bio neurosurgeon",
+  "residency_stated": [
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Missouri neurosurgery residency 2022, then neurocritical care fellowship UCSF 2022-23",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (neurotrauma/neurocritical care), UW Health, Madison WI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/patrick-belton-md",
+    "type": "doximity",
+    "evidence": "University of Missouri-Columbia Residency, Neurological Surgery, 2015 - 2022; Fellowship Neurocritical Care UCSF 2022-2023"
+   },
+   {
+    "url": "https://www.uwhealth.org/providers/patrick-belton-md",
+    "type": "bio",
+    "evidence": "UW Health neurosurgeon (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "94:jos:herbert",
+  "name": "Joseph Herbert",
+  "program_id": 94,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery Missouri-Columbia 2016-2023, MD UTHealth McGovern 2016; Memorial Hermann press release also names Missouri residency",
+  "residency_stated": [
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated Missouri residency June 2023; spine fellowship U Washington",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Memorial Hermann Mischer Neuroscience Associates, Katy TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/joseph-herbert-md-e7cf5bae",
+    "type": "doximity",
+    "evidence": "University of Missouri-Columbia Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://memorialhermann.org/about-us/newsroom/press-releases/joseph-herbert-md-joins-mischer-neuroscience-associates-katy-neurosurgery",
+    "type": "bio",
+    "evidence": "completed residency in neurosurgery at the University of Missouri; fellowship spine University of Washington (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "94:mic:torres",
+  "name": "Michael Ortiz Torres",
+  "program_id": 94,
+  "identity": "probable",
+  "identity_basis": "Doximity: MD Univ Puerto Rico 2017, MO license 2017-2024, NM 2025; Missouri publications; Healthgrades neurosurgery Albuquerque (Presbyterian). Doximity lists no residency line",
+  "residency_stated": [
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising as neurosurgeon in Albuquerque NM (Healthgrades specialty Neurosurgery; Presbyterian Hospital); MO license ended 2024, matches finishing 2024",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Presbyterian, Albuquerque NM",
+  "agrees_with_db": true,
+  "disagreement": "Doximity lists specialty 'Resident Physician' and no residency; no ABNS yet",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-michael-ortiz-torres-xymvvbh",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery, Albuquerque NM, affiliated Presbyterian Hospital; WebMD lists Columbia MO Neurological Surgery, University of Puerto Rico 2017"
+   },
+   {
+    "url": "https://www.doximity.com/pub/michael-ortiz-torres-md",
+    "type": "doximity",
+    "evidence": "University of Puerto Rico School of Medicine Class of 2017; MO State Medical License 2017 - 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "94:bro:kennamer",
+  "name": "Brooke Kennamer",
+  "program_id": 94,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: DO Touro 2018, Residency Neurological Surgery Missouri-Columbia 2019-2021, then dermatology",
+  "residency_stated": [
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2021
+   },
+   {
+    "institution": "University of Missouri",
+    "specialty": "dermatology",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left neurosurgery after 2 years (2019-2021, bio says three years incl. research); Boston University dermatology fellowship 2021-22 (cutaneous), then dermatology resident at University of Missouri",
+  "year_left": 2021,
+  "destination_program": "University of Missouri dermatology (after BU dermatology research fellowship 2021-22)",
+  "destination_start_year": 2022,
+  "current": "dermatology resident, University of Missouri (previously Boston University)",
+  "agrees_with_db": true,
+  "disagreement": "DB says switched specialty; confirmed. Destination is dermatology at Missouri not BU as inferred (BU listed as fellowship)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brooke-kennamer-do",
+    "type": "doximity",
+    "evidence": "Dermatology Resident at the University of Missouri. I also completed three years of neurosurgery training at the University of Missouri; Residency, Neurological Surgery, 2019 - 2021"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "94:rav:nunna",
+  "name": "Ravi Nunna",
+  "program_id": 94,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Cincinnati 2015; Rush neurosurgery residency 2015-2019; Swedish spine fellowship 2020-21; Missouri residency 2021-2024; Mosaic bio lists both residencies",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2019
+   },
+   {
+    "institution": "University of Missouri-Columbia",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transfer in from Rush (PGY-4 2018-19) then research/fellowship; completed at Missouri 2024",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Rush University Medical Center, Chicago (earlier Mosaic Life Care, St Joseph MO)",
+  "agrees_with_db": true,
+  "disagreement": "Dates: Doximity Missouri 2021-2024 (DB last seen 2024-25 PGY-7)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ravi-nunna-md",
+    "type": "doximity",
+    "evidence": "University of Missouri-Columbia Residency, Neurological Surgery, 2021 - 2024; Rush University Medical Center Residency 2015 - 2019"
+   },
+   {
+    "url": "https://www.mymlc.com/Main/Doctor/Dr-Ravi-S-Nunna-MD/",
+    "type": "bio",
+    "evidence": "completed residencies at Rush Medical Center and University of Missouri - Columbia; fellowships Swedish Medical Center"
+   }
+  ],
+  "searches_used": 2
+ }
+]

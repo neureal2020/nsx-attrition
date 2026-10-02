@@ -1,0 +1,221 @@
+[
+ {
+  "key": "114:kat:kelly",
+  "name": "Katherine Kelly",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "City sweep found no destination. Vanderbilt neurosurgery current roster (PGY1-7 + chiefs) has no Kelly; Vanderbilt radiology residents page has no Kelly. Site searches of uw.edu/washington.edu return only the stale UW neurosurgery bio (PGY-4). Seattle-area sponsors (Swedish, Virginia Mason, Madigan, Providence) and Boston hospitals (MGH, BWH, BMC, BIDMC) turned up no Katherine Kelly resident. Doximity lead only: specialty now 'Other MD/DO', address 325 9th Ave Seattle (Harborview), MA license 2025-2027. This is consistent with leaving clinical neurosurgery, but it is not proof. OHSU neurosurgery roster URL returned 404.",
+  "sources": [
+   "https://www.vumc.org/neurosurgerydept/person/current-residents",
+   "https://www.vumc.org/radiology/radiology-residency-residents",
+   "https://www.doximity.com/pub/katherine-kelly-md-c4461aee"
+  ],
+  "rosters_checked": [
+   "https://www.vumc.org/neurosurgerydept/person/current-residents",
+   "https://www.vumc.org/radiology/radiology-residency-residents",
+   "https://www.ohsu.edu/brain-institute/neurosurgery-residents (404)"
+  ],
+  "queries_tried": [
+   "site:uw.edu \"Katherine Kelly\" resident",
+   "site:vumc.org \"Katherine Kelly\" resident",
+   "\"Katherine Kelly\" MD 2026 resident OR fellow Seattle OR Nashville OR Boston",
+   "\"Katherine Kelly\" site:massgeneral.org OR brighamandwomens.org OR bmc.org OR bidmc.org resident",
+   "\"Katherine Kelly\" MD Harvard 2025 OR 2026 fellow OR MPH OR health policy neurosurgery",
+   "\"Katherine Kelly\" resident Swedish OR Virginia Mason OR Madigan OR Providence 2025 2026",
+   "\"Katherine Kelly\" Vanderbilt School of Medicine resident PGY neurology/radiology/PM&R/psychiatry/preventive",
+   "\"Kelly\" Vanderbilt resident 2025-2026 UW neurology/radiology/rehab/anesthesiology",
+   "site:washington.edu \"Katherine Kelly\" Vanderbilt"
+  ]
+ },
+ {
+  "key": "114:ant:maxin",
+  "name": "Anthony Maxin",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No destination found. The UW neurosurgery clerkship site 'Current Residents & Fellows (Seattle)' still lists 'Anthony Maxin, MD', but the page is undated (only a (c) 2026 footer). It is a 2025-26 snapshot: it includes the 2025 interns Bashti, Costello and Muzyka and no 2026 interns, so it does not prove he is a current resident. UW careers profile is old (Creighton med student, UW BS Biochemistry 2021), and he previously worked as a research assistant in UW Otolaryngology. UW Otolaryngology news has no Maxin, and its roster page URL 404s. Omaha (Creighton/UNMC) residency searches: no Maxin. Lead only: LinkedIn/Apertur.ai startup.",
+  "sources": [
+   "https://sites.uw.edu/nsclerk/current-residents-fellows/",
+   "https://careers.uw.edu/people/anthony-maxin/",
+   "https://otolaryngology.uw.edu/news/"
+  ],
+  "rosters_checked": [
+   "https://sites.uw.edu/nsclerk/current-residents-fellows/ (undated 2025-26 list; Maxin present)",
+   "https://otolaryngology.uw.edu/news/",
+   "https://otolaryngology.uw.edu/our-people/residents (404)",
+   "https://otolaryngology.uw.edu/search/?field_tags=Residents (no roster)"
+  ],
+  "queries_tried": [
+   "\"Maxin\" resident 2026 site:uw.edu OR site:washington.edu",
+   "\"Anthony Maxin\" Creighton",
+   "University of Washington otolaryngology current residents 2026 \"Maxin\"",
+   "site:otolaryngology.uw.edu residents PGY-1 2026",
+   "\"Maxin\" residents Omaha Creighton OR UNMC 2026 residency program"
+  ]
+ },
+ {
+  "key": "116:eri:nturibi",
+  "name": "Eric Nturibi",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No destination found, and leaving is NOT proven. The Pitt residents page (2026-27) omits him along with most of his cohort: PGY-5 lists only Shuman and PGY-6 only Faramand. The Pitt rotations page describes PGY-5 as a 'Research/Flexible Year' with 21-month clinical-investigator or surgeon-scientist paths, so his cohort (PGY-5 in 2026-27) is probably in an unlisted research block. His Jan 2026 J Neurosurg Pediatr papers carry the UPMC Dept of Neurological Surgery affiliation. No dated 2026 source names him a current resident, so in_training_research_year is not recorded. Site searches of pitt.edu, upmc.edu and ahn.org and all-specialty searches found no other program. Pitt MD 2022; Doximity 'Resident Physician, Pittsburgh' is a lead only. Recommend treating as probable in-program research; do not count as attrition without further evidence.",
+  "sources": [
+   "https://www.neurosurgery.pitt.edu/people/residents",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/rotations",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/research-opportunities"
+  ],
+  "rosters_checked": [
+   "https://www.neurosurgery.pitt.edu/people/residents",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/rotations"
+  ],
+  "queries_tried": [
+   "\"Nturibi\" site:pitt.edu OR site:upmc.edu OR site:ahn.org",
+   "\"Nturibi\" PGY OR \"resident physician\" OR \"house staff\" radiology/ortho/psychiatry/PM&R/EM",
+   "Pitt neurosurgery residents research years 2026 \"Nturibi\" OR \"Garcia\" OR \"Yoon\" lab OR fellowship OR research resident"
+  ]
+ },
+ {
+  "key": "116:jam:yoon",
+  "name": "James Yoon",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No destination found, and leaving is NOT proven. He fits the same cohort pattern as Nturibi: Pitt's rotations page makes PGY-5 a research/flexible year (21-month paths), and the 2026-27 roster lists only Shuman at PGY-5. His Doximity profile (Yale MD 2022) still says Neurosurgery, Pittsburgh (200 Lothrop St), 'Residency at Shadyside Campus (expected completion 2027)', PA license 2024-2026. That is a directory lead only; the Shadyside wording probably reflects the UPMC Medical Education (Presbyterian Shadyside) sponsor name. Pittsburgh sweep: AHN EM residents and UPMC Shadyside FM people have no Yoon, and the Pitt IM residents page (only the international-track view loaded) has none. The Pitt dermatology people page could not be loaded (certificate error / error page). Other James Yoon MDs (MSK leukemia, Brea FM, Stanford radiology) are different people.",
+  "sources": [
+   "https://www.neurosurgery.pitt.edu/people/residents",
+   "https://www.neurosurgery.pitt.edu/training/residency-program/rotations",
+   "https://www.doximity.com/pub/james-yoon-md-11e5ecd8"
+  ],
+  "rosters_checked": [
+   "https://www.neurosurgery.pitt.edu/people/residents",
+   "https://www.ahn.org/health-care-professionals/education/graduate-medical-education/residencies/emergency-medicine/residents (no names rendered)",
+   "https://www.shadyside.familymedicine.pitt.edu/people",
+   "https://residency.dom.pitt.edu/people/residents/ (partial)",
+   "http://dermatology.pitt.edu/people (failed to load)"
+  ],
+  "queries_tried": [
+   "\"James Yoon\" site:upmc.edu OR site:pitt.edu OR site:ahn.org resident",
+   "\"James Yoon\" dermatology resident Pittsburgh OR UPMC",
+   "\"James Yoon, MD\" 2026",
+   "UPMC Shadyside internal medicine residents \"Yoon\""
+  ]
+ },
+ {
+  "key": "118:dea:leonard",
+  "name": "Dean Leonard",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No destination and no completion source found. The current VCU residency page (7-year program; PGY-7 Atkinson [Complex Spine Fellow] and Poulos) does not list him, so absence is consistent with finishing in June 2026 (Texas A&M MD 2019, entry 2019), but there is no dated graduation post. Doximity lead: 'Resident Physician', Richmond (417 N 11th St, VCU), VA license 2019-2025. Texas lead checked: Alamo Neurosurgical Institute (San Antonio) lists Michael A. Leonard, MD and Ajeya Joshi, MD only, with no Dean Leonard. The fellowship-directory search had no hit. The Wayback 2025-26 VCU roster could not be read (web.archive.org blocked for fetch and Chrome), so whether he was listed as PGY-7 in 2025-26 is unverified.",
+  "sources": [
+   "https://neurosurgery.vcu.edu/education/residency/",
+   "https://www.doximity.com/pub/dean-leonard-md",
+   "https://alamoneurosurgicalinstitute.com/"
+  ],
+  "rosters_checked": [
+   "https://neurosurgery.vcu.edu/education/residency/",
+   "https://alamoneurosurgicalinstitute.com/ (providers)"
+  ],
+  "queries_tried": [
+   "\"Leonard\" neurosurgery fellow 2026-2027 fellows spine OR endovascular OR pediatric \"Dean\"",
+   "\"Dean Leonard, MD\" OR \"Dean M. Leonard, MD\" OR \"Dr. Dean Leonard\"",
+   "\"Dean Leonard\" neurosurgeon",
+   "site:alamoneurosurgicalinstitute.com Leonard physicians"
+  ]
+ },
+ {
+  "key": "120:tat:mahlokozera",
+  "name": "Tatenda Mahlokozera",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No destination found. The WashU neurosurgery current-residents page (re-read 2026-09-29; PGY1-7) omits him. The WashU Radiation Oncology 2026-27 roster (PGY2-5) has no Mahlokozera. A site:wustl.edu search returns only his 2020 thesis defense, the 2022 PhD ETD and papers (latest co-authorship in the Puram/Kim vestibular schwannoma paper, Nat Commun 2024), with no resident or other-department page. Doximity is 410 Gone; US News 'Resident Physician, Saint Louis', MO license 2022-2026 is a stale lead. The surname is unique, and no roster anywhere is indexed with it.",
+  "sources": [
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://radonc.wustl.edu/education/acgme-residency-program/current-residents-2/",
+   "https://puramlab.wustl.edu/home-2/publications/"
+  ],
+  "rosters_checked": [
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://radonc.wustl.edu/education/acgme-residency-program/current-residents-2/",
+   "https://neurology.wustl.edu/education/adult-residency/people-page/current-residents/ (names JS-loaded, not readable in WebFetch or Chrome)"
+  ],
+  "queries_tried": [
+   "site:wustl.edu \"Mahlokozera\"",
+   "\"Tatenda Mahlokozera\" 2026 OR \"Dr. Mahlokozera\"",
+   "WashU radiation oncology current residents 2026-2027",
+   "WashU neurology residency current residents 2026 site:wustl.edu"
+  ]
+ },
+ {
+  "key": "120:mic:jin",
+  "name": "Michael Jin",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No destination found. The WashU neurosurgery 2026-27 roster omits him (PGY3: Koleske, Moniz Garcia, Polavarapu). His WashU people page (neurosurgery.wustl.edu/people/michael-jin-md-ms/, 'PGY2 Resident', Stanford MD/MS) is still indexed by search but previously returned 404. The WashU Radiation Oncology 2026-27 roster has no Jin. A site:wustl.edu search finds only the neurosurgery people page. A site:stanford.edu search for a 2026 resident found only an unrelated 2014 Bio-X undergraduate Michael Jin.",
+  "sources": [
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://neurosurgery.wustl.edu/people/michael-jin-md-ms/",
+   "https://radonc.wustl.edu/education/acgme-residency-program/current-residents-2/"
+  ],
+  "rosters_checked": [
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://radonc.wustl.edu/education/acgme-residency-program/current-residents-2/",
+   "https://neurology.wustl.edu/education/adult-residency/people-page/current-residents/ (names JS-loaded, not readable in WebFetch or Chrome)"
+  ],
+  "queries_tried": [
+   "site:wustl.edu \"Michael Jin\" OR \"Kyle McGrath\"",
+   "site:stanford.edu \"Michael Jin\" resident 2026",
+   "WashU radiation oncology current residents 2026-2027"
+  ]
+ },
+ {
+  "key": "120:kyl:mcgrath",
+  "name": "Kyle McGrath",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No destination found. The WashU neurosurgery 2026-27 roster omits him (PGY2: Bauman Graves, Bhole, Driscoll). His WashU people page (indexed as 'PGY1 Resident'; UF MD, UNC-Chapel Hill BS, hometown Vienna VA) previously 404'd. WashU Radiation Oncology 2026-27 has no McGrath. Hometown lead (Northern Virginia) checked: the Inova general surgery page lists no McGrath (the 2026-27 facesheet PDF is not parsed) and the UVA anesthesiology current residents have no McGrath.",
+  "sources": [
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://neurosurgery.wustl.edu/people/kyle-mcgrath-md/",
+   "https://www.inova.org/education/gme/surgery-residency-program/meet-our-residents",
+   "https://med.virginia.edu/anesthesiology/education/residency-program/residents/"
+  ],
+  "rosters_checked": [
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://radonc.wustl.edu/education/acgme-residency-program/current-residents-2/",
+   "https://neurology.wustl.edu/education/adult-residency/people-page/current-residents/ (names JS-loaded, not readable in WebFetch or Chrome)",
+   "https://www.inova.org/education/gme/surgery-residency-program/meet-our-residents",
+   "https://med.virginia.edu/anesthesiology/education/residency-program/residents/"
+  ],
+  "queries_tried": [
+   "site:wustl.edu \"Michael Jin\" OR \"Kyle McGrath\"",
+   "\"Kyle McGrath\" MD resident Virginia OR Chapel Hill OR Inova OR Georgetown OR George Washington 2026"
+  ]
+ },
+ {
+  "key": "121:jam:smith",
+  "name": "James Smith",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No destination found. He left in 2014-15, so current rosters are not relevant and the sweep targeted SLU/Denver/WV-linked alumni. More James Smiths were ruled out: James Francis Smith (Creighton 1992, SLU radiology 1993-97, Omaha IR); a Shreveport interventional cardiologist (LSU); a Sacramento James H. Smith (Ross University, general surgery); WashU EM graduates (only Clark 'Samuel' Smith 2016). Searches combining SLU MD + WVU or + Colorado residency found no match. The surname is too common to resolve without a middle initial.",
+  "sources": [
+   "https://web.archive.org/web/20140810071738/http://medicine.hsc.wvu.edu:80/Neurosurgery/Residency/Current-Residents",
+   "https://www.doximity.com/pub/james-smith-md-628f8f50",
+   "https://emergencymedicine.wustl.edu/items/emergency-medicine-resident-graduates/"
+  ],
+  "rosters_checked": [
+   "https://emergencymedicine.wustl.edu/items/emergency-medicine-resident-graduates/"
+  ],
+  "queries_tried": [
+   "\"James Smith\" MD \"Saint Louis University School of Medicine\" 2012 residency radiologist OR anesthesiologist OR neurologist",
+   "\"James Smith\" \"Saint Louis University\" \"West Virginia University\" physician residency",
+   "\"James Smith\" Denver Health OR \"University of Colorado\" residency graduate 2018-2020 SLU medical school"
+  ]
+ }
+]

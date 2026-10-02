@@ -1,0 +1,113 @@
+# Program 11: Cedars-Sinai Medical Center Program (Los Angeles, CA)
+
+7-year program with two tracks set by each resident's performance, so some finish in 6 years. Usually 2 per year, but 1 in the 2013, 2014, 2016, 2017 and 2019 entry classes and 0 in 2015. Phase 2 was done on 2026-09-28.
+
+## Hosts / paths
+- `http://www.cedars-sinai.edu/Patients/Programs-and-Services/Neurosurgery/For-Physicians/Residency-Program/`: 2010-07 to 2011-10. program pages, no resident list
+- `http://www.cedars-sinai.edu/Patients/Programs-and-Services/Neurosurgery/Medical-Education/Residency-Program/Our-Residents.aspx`: 2012-12 to 2013-05. 'Current Residents: Academic Year 2012-2013'
+- `http://www.cedars-sinai.edu/Patients/Programs-and-Services/Neurosurgery/Training-Program/Residency-Program/Our-Residents.aspx`: 2013-12 to 2015-06. same 2012-13 list, never updated (stale); recorded programs.website is this Training-Program path, now 301 to live site
+- `http://www.cedars-sinai.edu/Education/Graduate-Medical-Education/Residency-Programs/Neurological-Surgery-Residency-Program/`: 2013-11 to 2015-08. GME pages incl. Graduates.aspx; no roster
+- `http://www.cedars-sinai.edu/Education/Graduate-Medical-Education/Residency-Programs/Neurological-Surgery/Publications-by-Residents.aspx`: 2015-09 to 2018-12. flat publications list (incl. alumni) until 2016-12; 'Current Residents' PGY roster from 2017-03 (2016-17 list, not updated until 2018-10)
+- `https://www.cedars-sinai.org/education/graduate-medical/residency/neurological-surgery/residents.html`: 2019-07 to 2020-11. roster + alumni
+- `https://www.cedars-sinai.edu/education/graduate-medical/residency/neurological-surgery/residents.html`: 2021-06 to live. server-rendered roster until 2023-09; now AEM JS app, content in residents.model.json (never archived)
+
+
+## Years (phase 2)
+
+| AY | status | significance | reason |
+|---|---|---|---|
+| 2011-2012 | reconstructed | low | No roster page existed (Wayback + CC-MAIN-2012, now read successfully, show only the program intro page). The 2010 and 2011 entry classes are full (2 each: Mukherjee/Birch, Patel/Schiraldi) on the Dec-2012 roster and there was no 2012 graduate (alumni list 2010, 2011, 2013...); only a pre-2011 entrant leaving during 2011-12 could be missed. |
+| 2012-2013 | observed | none | Dec-2012 roster 'Academic Year 2012-2013'. |
+| 2013-2014 | reconstructed | significant | Page stale (2012-13 list) in every Wayback and CC copy 2013-05..2015-05. Ashish Patel's exit (2013-2016) may fall here, and a short-stay 2013 entrant would be invisible. |
+| 2014-2015 | reconstructed | significant | Same stale page. Patel's exit year is unknown, and a short-stay 2014 entrant would be invisible. |
+| 2015-2016 | reconstructed | significant | Only a flat 'Publications by Residents' name list exists (it includes alumni and omits Babu/Schiraldi). There is no 2015 entry class in any later source, so a 2015 intern who left before Mar 2017 cannot be excluded. PubMed/CC/Wayback found no such person. |
+| 2016-2017 | observed | none | Mar-2017 roster. |
+| 2017-2018 | reconstructed | low | Page stale (2016-17 list) in all 6 CC copies 2017-09..2018-08. Everyone on 2016-17 is accounted for (graduates or on 2018-19). Julie Chan was added as PGY-2 (transfer in from Loma Linda in summer 2017). Only a 2017 entrant or joiner who arrived and left within 2017-18 could be missed. |
+| 2018-2019 | observed | none | Jul-2019 capture with 2018-19 content, confirmed by CC Oct-2018. |
+| 2019-2020 | observed | none | Nov-2019 roster. |
+| 2020-2021 | observed | none | Aug-2020 roster (lists 2020 interns). |
+| 2021-2022 | observed | none | Sep-2021 roster. |
+| 2022-2023 | observed | none | Mar-2023 roster, consistent with neighbours. |
+| 2023-2024 | observed | none | Sep-2023 roster. |
+| 2024-2025 | reconstructed | low | JS app page, model.json never archived; no residents capture in any 2024-25 CC crawl (all now read) or Wayback. Every 2023-24 resident is on the 2025-26 roster or on the 2024/2025 alumni lists. The 2024 class shows 2 (Kanungo, Tran) = complement. Only an extra entrant or joiner who left within 2024-25 could be missed. |
+| 2025-2026 | observed | none | Live model.json (last modified 2026-01-15), content-dated 2025-26. |
+| 2026-2027 | missing | significant | Live model.json refetched 2026-09-28 is unchanged (still 2025-26, dateLastModified 2026-01-15). No 2026 Wayback or CC (2026-12..2026-39) residents capture. The 2026 interns, and whether Nisson graduated in 2026, are unknown. |
+
+Significant gaps still open: **2013-14, 2014-15, 2015-16** (stale pages; Patel's exit year; the 2015 class is absent and cannot be proven empty) and **2026-27** (the live page has not been updated).
+
+## Gap details
+
+- **2011-2012**: No roster page existed (For-Physicians/Residency-Program 2010-07..2011-10 has no resident list; CC-MAIN-2012 has no roster URL). Reconstructed 6 alumni-confirmed people from the Dec-2012 roster (PGY-1). Ashish Patel (PGY-2 2012-13, never graduated here) NOT reconstructed. SIGNIFICANT: anyone who left before Dec 2012 is invisible. PHASE 2: CC-MAIN-2012 (previously failing) read: For-Physicians/Residency-Program intro page only (May 2012), no roster.
+- **2013-2014**: Our-Residents.aspx carried the 2012-13 list unchanged through 2015-06 (Wayback + 13 Common Crawl copies 2013-05..2015-05). Education site had no roster. Reconstructed bracketed/alumni people; Schiraldi PGY left null (one year behind by 2016-17). Patel's exit year unknown (2013-2016). SIGNIFICANT.
+- **2014-2015**: Same as 2013-14 (stale page). 2014 entrant Sarmiento reconstructed from alumni 2021. SIGNIFICANT.
+- **2015-2016**: Publications-by-Residents.aspx 2015-09..2016-12 is a flat publications list including alumni (Jeswani, Eboli), not a roster. No 2015 entrant ever appears (no PGY-2 in 2016-17, no PGY-4 in 2018-19, no 2022 graduates): either no 2015 match or a 2015 intern left before 2017-03. SIGNIFICANT.
+- **2016-2017**: Observed from Mar-2017 capture. No PGY-6 and no PGY-2 listed.
+- **2017-2018**: Page not updated: Common Crawl copies 2017-09-26..2018-08-16 show the 2016-17 list; Wayback has none 2017-07..2019-07. Reconstructed bracketed people plus Angelique Do/Tay (alumni 2024). Julie Chan (first seen 2018-19 PGY-3) not reconstructed. SIGNIFICANT. PHASE 2: Julie Chan added as reconstructed PGY-2 (transfer in from Loma Linda, alumni-confirmed grad 2023); CC 2017-39..2018-34 copies re-read: stale 2016-17 list.
+- **2018-2019**: Wayback 2019-07-16 (stale, content 2018-19) confirmed in-year by CC-MAIN-2018-43 2018-10-21. No PGY-4.
+- **2022-2023**: Only a March 2023 capture exists; consistent with 2021-22 and 2023-24.
+- **2024-2025**: residents.html became a JS shell after 2023-09; residents.model.json never archived. No residents page in any 2024-2025 Common Crawl that ran (some failed, see problems). Reconstructed 11 bracketed people; 2024 interns Kanungo and Tran (PGY-2 in 2025-26) not reconstructed. SIGNIFICANT. PHASE 2: all 2024-2025 CC crawls read (incl. previously failed 2025-21/2025-33 retries): no residents.html or model.json; Wayback prefix CDX 2023-2026 has only training/faculty/landing pages and 2 DAM headshots (Babadjouni, Quintero-Consuegra, Mar 2025). Downgraded to low: all 2023-24 residents accounted for.
+- **2025-2026**: Live page fetched 2026-09-27 (model.json). Content-dated to 2025-26: dateLastModified 15 Jan 2026, alumni list ends at 2025, Nisson (PGY-1 2019-20) is PGY-7. Loaded as 2025-2026 with source_type live.
+- **2026-2027**: Live page not yet updated for 2026-27 (see 2025-26). No other source. Unobserved: 2026 interns and who graduated in June 2026 are unknown. SIGNIFICANT. PHASE 2: live model.json refetched 2026-09-28: unchanged.
+
+## Departures
+
+- Ashish Patel: last seen 2012-2013 PGY-2. Entered in 2011 (Univ. of Maryland MD; a 2010 Univ. of Maryland Dept of Neurosurgery paper lists an 'Ashish D Patel', probably him). Not on the 2016-17 roster or on any alumni list 2010-2025. Left between mid-2013 and early 2016. A Cureus 2016 paper (PMID 26929887) co-authored with Cedars' Drazin lists him at 'Surgery, UCSD School of Medicine', so he was probably at UCSD by 2016. He is not on UCSD's neurosurgery roster (program 75) or its archived general-surgery rosters (2013, 2016). Destination and outcome are unconfirmed. training_history row: completed='unknown', departure_type='unknown'.
+
+## Joiners (transfers in)
+
+- Julie Chan: joined 2017-2018 as PGY-2. Transfer in from Loma Linda (31), where she was PGY-1 in 2016-17 (entered 2016). She left in the 2017 LL exodus: LL's 2017-18 nav lists a single resident. Cedars' 2017-18 page is stale; she is first listed at PGY-3 in 2018-19 and graduated in 2023 with no lost year, so she joined as PGY-2 in 2017-18. MD, PhD on both programs' pages. training_history rows: LL transfer-out (by the program-31 agent) and Cedars transfer-in (start 2017).
+- Vladimir Ljubimov: joined 2019-2020 as PGY-4. Transfer in from USF (103), PGY-3 in 2018-19 (entered 2016). His 2018 PubMed affiliation is USF Neurology and Neurosurgery. He is absent from the Cedars Jul/Aug-2019 captures, listed in Nov 2019 at PGY-4, and graduated in 2023. Cedars transfer-in row inserted (start 2019). The USF-side transfer-out row belongs to the program-103 agent and is not yet in training_history.
+
+## Program length
+
+Two tracks by individual performance, not by cohort (program page: 'Two training tracks dependent on the residents' interest and performance'): 6-year finishes Jeswani (2007 entry), Eboli (2009), Birch (2010), Babu (2012); 7-year Drazin (2009), Mukherjee (2010), Ross (2012), Barnard (2013) and later; Schiraldi 8 years (2011-2019). All pre-2020 finishers are on the alumni list (training_history), so PGY-6 exits are not departures. Complement: 1 per year for the 2013, 2014, 2016, 2017 and 2019 entry classes; 0 for 2015; 2 otherwise (plus the 2 transfers into the 2016 class).
+
+## Alumni page
+https://www.cedars-sinai.edu/education/graduate-medical/residency/neurological-surgery/residents.html (live, 2020-2025 graduates). The 2019-2020 Wayback copies of the cedars-sinai.org residents page list graduates back to 2010 (2010, 2011, 2013, 2015-2019). There were no 2012, 2014 or 2022 graduates.
+
+## Counts
+Residents entering 2011+: 25. Adjudication after phase 2: {'COMPLETED': 16, 'IN TRAINING': 13, 'LEFT -> outcome unknown': 1}.
+
+## training_history rows added in phase 2
+- 2827 Julie Chan: transfer in (start 2017, PGY-2), graduated 2023.
+- 2828 Vladimir Ljubimov: transfer in (start 2019, PGY-4), graduated 2023.
+- 2829 Ashish Patel: left, outcome and year unknown (completed='unknown', departure_type='unknown'). 'unknown' was chosen over 'no' because the adjudicator would otherwise match another 'A. Patel' who graduated elsewhere as a false transfer.
+
+## Notes
+- Angelique Do (2018-2023 rosters) = Angelique Tay (2023-24 roster, 2024 alumni; PubMed 'Angelique Sao-Mai S Tay'); canonicalised to Angelique Tay.
+- Sept-2023 capture labels Chan/Cohen/Ljubimov '2022 Graduates'. They were PGY-7 on the Mar-2023 roster and the live page says 2023, so 2023 is used.
+- 'Chief Resident' means PGY-7 or PGY-6 depending on year. It was assigned by track: Cohen 2021-22 = 6, Chang 2023-24 = 6, Menaker 2025-26 = 6.
+- Irregular tracks: Babu graduated 2018 after 6 years (PGY-1 2012-13). Schiraldi took 8 years (PGY-2 2012-13, PGY-5 2016-17, graduated 2019). Eboli and Birch graduated in 6-year tracks (2015, 2016).
+- Alumni graduations inserted into training_history (16 rows, 2013-2025). There are no 2022 graduates, which fits the missing 2015 class.
+
+## Phase 2
+**searched**:
+- gapaudit Wayback 2011-2018: Patients/Programs-and-Services/Neurosurgery (www and bare), Education/Graduate-Medical-Education, Research, About-Us/News, Medical-Professionals
+- gapaudit Wayback 2023-2026: cedars-sinai.edu/.org education/graduate-medical, programs/neurosurgery, newsroom, content/ (DAM)
+- linkaudit of GME/neurosurgery residency index pages 2013-2018 (no unarchived roster links)
+- GME PDFs 2013-2016 (PITA-2013/2015, 2013-Attachments, 2014-15/2015 Attachments): contracts/policies, no names
+- Publications-by-Residents.aspx all 11 Wayback versions 2015-09..2017-06 and CC 2017-09..2018-08; Graduates.aspx CC copies
+- Common Crawl rerun with fixed filter + cluster.idx fix: all crawls 2012-2018 (patients/neurosurgery, GME neurological-surgery, training-program prefixes) and 2023-2026 (edu/org residency/neurological-surgery, programs/neurosurgery); CC-MAIN-2023-23 now OK (no residents page); 15 throttled pairs retried OK
+- Wayback CDX prefix of residency/neurological-surgery 2023-2026 and DAM headshot folder
+- live residents.model.json refetched 2026-09-28 (unchanged, 2026-01-15)
+- cedars-sinai.org sitemaps (newsroom, stories-and-insights, edu): neurosurgery/resident/match news items read (CNS 2025, Rubenstein 2024 and earlier): no neurosurgery resident names
+- PubMed affiliation mining ('Cedars-Sinai' AND neurosurg*) 2011-2018 and 2023-2026, min 1 year; candidate short-stay names (Shweikeh, Al-Khouja, Seksenyan, Nosova, Spitler, T. Thomas) checked: students/research fellows, not residents
+- PubMed author searches for Ashish Patel, Julie Chan, Vladimir Ljubimov
+- UCSD general surgery current-residents (Wayback 2013, 2016) and plastic surgery (2017) for Ashish Patel: absent
+- crossmatch.json: Chan LL->Cedars (3.4), Ljubimov USF->Cedars (3.7) confirmed; Patel matches (Hiren/Nitesh Patel) rejected (different first names)
+
+**found**:
+- Julie Chan joined as PGY-2 in 2017-18 (transfer from Loma Linda); reconstructed row added; transfer-in row in training_history
+- Vladimir Ljubimov transfer from USF confirmed (USF PubMed affiliation 2018; USF PGY-3 2018-19 -> Cedars PGY-4 2019-20); transfer-in row in training_history
+- Ashish Patel: 2016 Cureus affiliation 'Surgery, UCSD School of Medicine' (probable post-Cedars location); departure row recorded as unknown outcome
+- CC-MAIN-2012 readable: no roster page in May 2012 (confirms 2011-12 unobservable)
+- No 2024-25 residents capture exists anywhere; 2023-24 cohort fully accounted for -> 2024-25 low
+- cclocal cluster.idx long-line bug identified (cause of CC-MAIN-2023-23 failure)
+
+**remaining**:
+- 2013-2016: Patel's exit year; no roster for 2013-14..2015-16 (stale pages); the absent 2015 entry class cannot be proven empty
+- 2026-27: live roster not yet updated (recheck later in the year)
+- USF (103) side of the Ljubimov transfer is not in training_history (other agent's program)
+
+## Problems
+Phase 2: every Common Crawl crawl 2012-2018 and 2023-2026 was run with the fixed filter (cclocal via data/raw/extraction/p11/phase2/cc2.py). The earlier CC-MAIN-2023-23 'list index out of range' was a bug in cclocal's cluster.idx binary search: line_at returns None when a cluster.idx line is longer than 8 KB (byu.edu atom URLs), which collapsed the search window onto the wrong block. cc2.py patches this locally (adaptive window, 2 MB scan); scripts/tools/cclocal.py is unchanged and still has the bug. 15 crawl/prefix pairs failed with range/size errors (throttling); all succeeded on retry (ccretry2.log). The broad graduate-medical-education/ prefix was not scanned for 2015-48..2018 (stopped after 20 min); the narrower neurological-surgery and training-program prefixes were scanned for every crawl in that window. Europe PMC returned 503, so PubMed was used instead. The live roster is still 2025-26, so 2026-27 needs a recheck after the page updates.

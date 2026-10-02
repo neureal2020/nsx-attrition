@@ -1,0 +1,222 @@
+{
+ "program_id": 51,
+ "name": "Ohio State University Hospital Program",
+ "program_length": 7,
+ "complement_per_year": 4,
+ "complement_note": "2 per year for 2005-2015 entrants, 3 for 2016-2023 (2020 class listed with only 2), 4 from the 2024 entry class",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://neurosurgery.osu.edu/education/residency/current_residents/ (index.cfm); alumni /education/residency/former_residents/",
+   "from": "2010-06",
+   "to": "2016-01 (404 from 2016-02; host 301s to wexnermedical from 2016-12)"
+  },
+  {
+   "url": "https://wexnermedical.osu.edu/neurological-institute/departments-and-centers/departments/department-neurosurgery/neurosurgery-residency/our-residents (+ /past-residents)",
+   "from": "2016-10",
+   "to": "2018-12 (404 by 2023)"
+  },
+  {
+   "url": "https://wexnermedical.osu.edu/neurological-institute/departments-and-centers/departments/department-neurosurgery/education-and-training/neurosurgery-residency/our-residents (+ /past-residents)",
+   "from": "2020-01",
+   "to": "2020-10"
+  },
+  {
+   "url": "https://medicine.osu.edu/departments/neurosurgery/education/residency/residents (graduates list on same page; /past-residents to 2024-07)",
+   "from": "2021-01",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2012-2013": "No roster capture between 2012-01-14 and 2014-04-02 (phase 1 and phase 2: CDX on current_residents/, index.cfm, residency index, fellows; host-wide gapaudit 2012-01..2014-07 of neurosurgery.osu.edu, medicalcenter.osu.edu/{education,gme,neuro,...}, medicine.osu.edu/{residency,gme,education}, osumc.edu/gme). Common Crawl 2012-2014 rerun with the new filter over edu,osu,neurosurgery)/ (whole host), medicalcenter)/neuro, /education, medicine)/residency, /gme: 11 crawls, 0 failures, only the May-2012 residency index (faculty list) and a 2014 neuromodulation-trials team page. Home-page captures 2012-06..2013-12, news.cfm, rss, article pages and lab pages have no resident news. Reconstructed 15 residents: 13 bracketed by the 2011-12 and 2013-14 rosters, Dornbos (grad 2019) and, new in phase 2, Baidya at PGY1.",
+  "2013-2014": "Only an April-2014 capture (spring); content-dated by PGY1 Huntoon/Schunemann. Jul-2014 capture is the same stale roster.",
+  "2014-2015": "No Aug-Jan capture; March-2015 capture used (PGY1 Nguyen/Look).",
+  "2026-2027": "Live page differs from 2025-26 (advanced PGYs, 4 new interns); matches Wayback 2026-09-24."
+ },
+ "alumni_page": "https://medicine.osu.edu/departments/neurosurgery/education/residency/residents",
+ "departures": [
+  {
+   "name": "Nishanta Baidya",
+   "last_ay": "2016-2017",
+   "last_pgy": 5,
+   "outcome": "switched_specialty (radiology)",
+   "note": "Absent 2017-18, not on graduates list. UW Radiology affiliation 2018-2019 (PubMed 31183841); NPI nuclear medicine/radiology corroborates."
+  },
+  {
+   "name": "Candice Carpenter",
+   "last_ay": "2018-2019",
+   "last_pgy": 3,
+   "outcome": "unknown (did not complete)",
+   "note": "Absent 2019-20 on, not on graduates list. No publication after 2019; NPI trainee-only. Phase-1 NPI switch call withdrawn."
+  },
+  {
+   "name": "Orel Zaninovich",
+   "last_ay": "2019-2020",
+   "last_pgy": 1,
+   "outcome": "unknown (did not complete)",
+   "note": "Absent 2020-21 on. Last paper OSU NS 2020. NPI anesthesiology AZ (not counted); not on U Arizona anesthesiology residents/alumni pages."
+  },
+  {
+   "name": "James Mossner",
+   "last_ay": "2021-2022",
+   "last_pgy": 2,
+   "outcome": "transferred",
+   "note": "To McGaw/Northwestern (program 41) at PGY3 2022-23; Northwestern rosters 2022-26 and Northwestern affiliations 2024-26."
+  },
+  {
+   "name": "Ahmed Jorge",
+   "last_ay": "2023-2024",
+   "last_pgy": 3,
+   "outcome": "unknown",
+   "note": "PGY4 on Jun/Jul-2024 page, gone Nov 2024 on. No later publication or roster. A hidden research leave cannot be excluded (OSU hid Kreatsoulas 2019-23)."
+  },
+  {
+   "name": "Christen O'Neal Swann",
+   "last_ay": "2025-2026",
+   "last_pgy": 4,
+   "outcome": "unknown",
+   "note": "Listed through Apr 2026, absent on live 2026-27 page. OSU Wexner papers 2026; not on OU 2026-27 roster. Too recent; may be a research year."
+  }
+ ],
+ "joiners": [],
+ "roster_absences": [
+  {
+   "name": "Daniel Kreatsoulas",
+   "note": "PGY1 2018-19, off the roster 2019-20 through 2022-23, back at PGY6 2023-24, graduated 2025. Continuous OSU Dept of Neurological Surgery affiliations 2020-2023 (PubMed 32019726, 33174136, 35365316, 36871221) confirm he stayed in the department (research years hidden from the roster). Not a departure."
+  }
+ ],
+ "residents_2011plus": 45,
+ "adjudication_summary": {
+  "COMPLETED": 32,
+  "IN TRAINING": 20,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> did not complete": 2,
+  "LEFT -> outcome unknown": 2
+ },
+ "problems": "Europe PMC returned 503 throughout (used PubMed + OpenAlex instead). Wayback slow but no 403/429. Common Crawl complete (11 crawls, 0 failed).",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "April-2014 capture; every class complete (2/yr), content-dated by PGY1 Huntoon/Schunemann"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "March-2015 capture; every class complete"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page, advanced PGYs and 4 new interns"
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture, but no one can have entered or left unseen: all 2011 and earlier entrants are on both bracketing rosters; the 2012 class (complement 2) is Dornbos + Baidya, both first seen as PGY2 in 2013-14, so no slot is left for an unseen 2012 intern who left."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Wayback CDX exact + host-wide gapaudit 2012-01..2014-07 (neurosurgery.osu.edu, medicalcenter.osu.edu paths, medicine.osu.edu paths, osumc.edu/gme)",
+   "link audit of neurosurgery.osu.edu home captures 2012-06..2013-12, news.cfm, rss.cfm, 13 article pages, skull-base and brain-tumor lab pages",
+   "Common Crawl 2012-2014 (11 crawls) with new filter over 5 SURT prefixes incl. whole edu,osu,neurosurgery)/",
+   "PubMed affiliation mining 2012-2013 (OSU neurosurgery): 97 PMIDs, only roster residents plus fellows/visiting scholars",
+   "PubMed/OpenAlex per-departure affiliations; NPPES (context only)",
+   "crossmatch.json (Mossner OSU->Northwestern) checked against both rosters",
+   "Univ. of Arizona anesthesiology residents/alumni pages 2021-2025 (Zaninovich); OU neurosurgery live roster (Swann)"
+  ],
+  "found": [
+   "Baidya entered 2012: NPI enumerated 2012-04-03, OSU skull-base lab papers 2011-12, PGY labels 2013-17 all give entry 2012, fills the 2012 class of 2 -> added reconstructed PGY1 2012-13",
+   "Baidya switched to radiology (UW Radiology 2018-19)",
+   "Mossner transfer to Northwestern PGY3 2022-23 confirmed",
+   "Kreatsoulas stayed at OSU neurosurgery through his off-roster years (publications)"
+  ],
+  "remaining": [
+   "Destinations of Carpenter, Zaninovich, Jorge and O'Neal Swann unknown (no program page or publication after they left)",
+   "Jorge and O'Neal Swann may be on hidden research years; recheck the 2027-28 roster"
+  ]
+ }
+}

@@ -1,0 +1,308 @@
+{
+ "program_id": 2,
+ "name": "Allegheny Health Network Medical Education Consortium (AGH) Program, Pittsburgh PA",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.wpahs.org/agh/education/graduate/agh_neurosurgres.html",
+   "from": "2005-03",
+   "to": "2009-09",
+   "note": "program description only (then 6-yr, 1/yr); no roster"
+  },
+  {
+   "url": "http://www.wpahs.org/education/graduate-medical-education/residencies/neurosurgery-residency-program",
+   "from": "2011-09",
+   "to": "2014-03",
+   "note": "program pages (overview, faculty, photo gallery, policies); no roster"
+  },
+  {
+   "url": "http://www.wpahs.org/education/graduate-medical-education/residencies/neurosurgery/residents",
+   "from": "2013-02",
+   "to": "2014-04",
+   "note": "ROSTER (Wayback 2013-02..2014-02, Common Crawl 2014-03/04)"
+  },
+  {
+   "url": "https://www.ahn.org/education/graduate-medical-education/residencies/neurosurgery/residents",
+   "from": "2015-03",
+   "to": "2015-09",
+   "note": "ROSTER (Common Crawl 2015-03..07, Wayback 2015-09 only); parent pages /neurosurgery and /neurosurgery-residency-program captured to 2017-08"
+  },
+  {
+   "url": "https://www.ahn.org/education/residencies/neurosurgery/residents",
+   "from": "2018-04",
+   "to": "2019-07",
+   "note": "ROSTER (Common Crawl 2018-04, 2019-02; Wayback 2019-07)"
+  },
+  {
+   "url": "https://www.ahn.org/health-care-professionals/education/graduate-medical-education/residencies/neurosurgery/residents(.html)",
+   "from": "2020-05",
+   "to": "2026-09 (live)",
+   "note": "ROSTER, AEM layout with 'PGY n' h2 headings"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "reconstructed_years": [
+  "2016-2017"
+ ],
+ "missing_years": [
+  "2011-2012",
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "No roster anywhere. wpahs.org program pages (Sep 2011, Apr/Jul/Sep/Nov 2012; CC-MAIN-2012 May 2012) have no resident list or residents link; the /neurosurgery/residents page first appears Feb 2013. Old /agh/education/graduate/ pages end 2009. No reconstruction possible (nothing observed before 2012-13). Entry classes <=2011 therefore start observation at 2012-13. PHASE 2: cclocal rerun over CC-MAIN-2012 (wpahs.org/education, /agh, /neuro); gapaudit wpahs.org 2010-2013 (education, agh, news, specialties); 2010 ResAchieve.pdf, the neuroscience-institute residency page (Oct 2011) and the photo gallery have no resident names. May 2012 overview: one position per year for 7 years.",
+  "2013-2014": "Observed. Yu's absence is correct: he graduated in 2013 (AHN findcare profile, residency graduation_year 2013). Castellvi at PGY2 again means he trained one extra year ('PGY Year: 6.5' in 2017-18, PGY7 in 2018-19). Alcindor's repeated PGY7 is unexplained, but he entered before 2011.",
+  "2014-2015": "No Wayback capture of any roster (wpahs residents last 2014-02; ahn.org residents first 2015-09). Observed via Common Crawl CC-MAIN-2015-14 (2015-03-29), complete PGY1-7. Nihar Gala removed between CC-MAIN-2015-18 (Apr 2015) and -22 (26 May 2015).",
+  "2016-2017": "Still no capture (the phase-2 cclocal rerun over CC-MAIN-2016-*/2017-* found only program pages; the crawls that failed in phase 1, 2016-30, 2016-50 and 2017-43, now succeed with 0 residents records; Wayback gapaudit of ahn.org/education, news and neuroscience for 2016-03..2017-12 finds the residents link but no capture of it). Reconstructed 11: the 9 bracketed residents, plus Diana Jho PGY7 (Penn State Health profile: AGH neurosurgery residency 2017) and Dan Myers PGY1 (PGY2 in Apr 2018; NPPES Apr 2016 neurosurgery, Pittsburgh area).",
+  "2017-2018": "Common Crawl CC-MAIN-2018-17 (2018-04-21) only; complete list.",
+  "2018-2019": "Common Crawl CC-MAIN-2019-09 (2019-02-18) used; Wayback 2019-07-17 has the same content minus graduating PGY7 Castellvi.",
+  "2019-2020": "Only capture is May 2020 (Wayback); content consistent (2020 interns not yet added).",
+  "2020-2021": "Sep 2020 used; Dec 2020 identical except Andrea Alonso removed.",
+  "2023-2024": "Dec 2023 Wayback capture truncated after the PGY6 group; May 2024 capture (complete) used. Bhavika Gupta absent (first listed PGY2 in 2024-25).",
+  "2026-2027": "MISSING (stale live page, not loaded). Live 2026-09-28 and Wayback 2026-09-23/24: the 12 names of 2025-26, PGYs not advanced, 'PGY 6' heading empty, 'PGY 5' and 'PGY 1' duplicated, no 2026 interns. Common Crawl 2026 (CC-MAIN-2026-04..39): the residents page Apr/Jul 2026 = the 2025-26 roster."
+ },
+ "alumni_page": null,
+ "departures": [
+  {
+   "name": "Alexander Yu",
+   "last_ay": "2012-2013",
+   "last_pgy": 6,
+   "outcome": "graduated 2013 (not attrition)",
+   "note": "AHN findcare profile: residency graduation 2013, internship 2008 (6-year track); now AHN faculty. Entered before 2011. th_id 3049."
+  },
+  {
+   "name": "Nihar Gala",
+   "last_ay": "2014-2015",
+   "last_pgy": 3,
+   "outcome": "left 2015, destination unknown",
+   "note": "Removed between Apr and May 2015. The NPPES anesthesiology record is not evidence. Only Rutgers NJMS neurosurgery research papers (2011-16; not a Rutgers resident). th_id 3057."
+  },
+  {
+   "name": "Diana Jho",
+   "last_ay": "2016-2017",
+   "last_pgy": 7,
+   "outcome": "graduated 2017",
+   "note": "Penn State Health profile: AGH neurosurgery residency 2017. Now reconstructed at PGY7 in 2016-17. th_id 3050."
+  },
+  {
+   "name": "Andrea Alonso",
+   "last_ay": "2020-2021",
+   "last_pgy": 2,
+   "outcome": "switched to vascular surgery (moderate confidence)",
+   "note": "Removed by Dec 2020. PubMed/OpenAlex: Division of Vascular and Endovascular Surgery, Boston Medical Center/BU, 2023-25. th_id 3055."
+  },
+  {
+   "name": "Kevin Sexton",
+   "last_ay": "2020-2021",
+   "last_pgy": 2,
+   "outcome": "left 2021, destination unknown",
+   "note": "Absent Nov 2021. The radiology NPI is not evidence, and no later papers were found. th_id 3056."
+  },
+  {
+   "name": "Rocco Dabecco",
+   "last_ay": "2021-2022",
+   "last_pgy": 6,
+   "outcome": "graduated 2022 (not attrition)",
+   "note": "findcare profile: Saint Barnabas neurosurgery residency until 2018, AGH residency 2022, then a Cleveland Clinic Florida skull base fellowship in 2023. Now AHN faculty. th_id 3051."
+  },
+  {
+   "name": "Lance Valls",
+   "last_ay": "2022-2023",
+   "last_pgy": 2,
+   "outcome": "off roster since 2023-24, outcome unknown",
+   "note": "Absent from May 2024 onward, but still listed as an AHN Neurosurgery author on papers from 2023 and 2026 (the 2026 one received Jun 2025). An IDIBAPS Barcelona abstract from Oct 2023 suggests a research leave. th_id 3058."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Rocco Dabecco",
+   "first_ay": "2018-2019",
+   "first_pgy": 3,
+   "note": "TRANSFER IN from Saint Barnabas Medical Center neurosurgery (AOA; not in the programs table), per findcare. th_id 3051."
+  },
+  {
+   "name": "Jose Sandoval Consuegra",
+   "first_ay": "2021-2022",
+   "first_pgy": 4,
+   "note": "TRANSFER IN from UPR (program 101) when it closed. Graduated 2025. th_id 3053 (UPR side 2549)."
+  },
+  {
+   "name": "Alejandro Matos Cruz",
+   "first_ay": "2021-2022",
+   "first_pgy": 5,
+   "note": "TRANSFER IN from UPR (program 101) when it closed. Graduated 2024. th_id 3052 (UPR side 2548)."
+  },
+  {
+   "name": "Bhavika Gupta",
+   "first_ay": "2024-2025",
+   "first_pgy": 2,
+   "note": "Late joiner who filled the 2023 slot. Before that, research at Cleveland Clinic Florida neurosurgery 2023-24; PGY1 site unknown. th_id 3054."
+  }
+ ],
+ "residents_2011plus": 33,
+ "adjudication_summary": {
+  "COMPLETED": 22,
+  "IN TRAINING": 12,
+  "LEFT -> did not complete": 3,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "left_unknown": [
+   "Nihar Gala",
+   "Kevin Sexton",
+   "Lance Valls"
+  ],
+  "switched_specialty_publication": [
+   "Andrea Alonso (vascular surgery)"
+  ],
+  "note": "Of the 2011+ entrants, 4 left (Gala 2015, Alonso 2020, Sexton 2021, Valls 2023). Yu, Jho and Dabecco are graduates, not departures."
+ },
+ "problems": "There is no alumni page. The live 2026-27 page is stale, so no 2026-27 observation exists. Alcindor's repeated PGY7 in 2013-14 is unexplained (he entered before 2011). Saint Barnabas (Dabecco's origin) is not in the programs table, so no departure row was written there. Transfer-in rows use start_year = the year the resident joined (the adjudicator shows them as entry 2018/2021/2024), with the joining PGY in notes.",
+ "terminal_pgy_by_entry_year": {
+  "2006": 7,
+  "2007": 6,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7
+ },
+ "terminal_pgy_note": "7-year program (PGY1-7) for every 2008+ entry class. The 2007 entrant (Yu) finished after PGY6 (findcare: residency graduation 2013). Transfer-in Dabecco (joined PGY3 2018 from Saint Barnabas) graduated after AGH PGY6 in 2022 with credit for prior training.",
+ "year_status": {
+  "2011-2012": {
+   "status": "missing",
+   "significance": "low",
+   "reason": "No roster page before Feb 2013 (Wayback, CC-MAIN-2012 rerun, wpahs.org full audit). The May 2012 overview says 'one residency position for each of the seven years'; every entry class 2006-2011 is filled on the 2012-13 roster, and the 2011 class already has two (Dupre; Castellvi, NPI enumerated Oct 2011 in Pittsburgh). An unseen 2011 intern who left would have to be a third, above complement."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Not really mis-edited for 2011+ entrants: Yu graduated 2013 (6-year track, findcare), and Castellvi's second PGY2 year matches his later 'PGY 6.5' and PGY7 in 2018-19. Only the repeat of Alcindor's PGY7 (entered 2006) is unexplained."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete (Common Crawl Mar 2015)"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster"
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "There is still no capture (Common Crawl 2016-17 rerun with the fixed filter, including the three crawls that failed in phase 1, plus a full Wayback audit). All 11 residents are placed: 9 appear on both sides, Jho is PGY7 (Penn State Health bio: residency done 2017), and Myers is PGY1 (PGY2 in 2017-18; NPI Apr 2016 Pittsburgh). The only risk left is a hypothetical second 2016 intern who quit within PGY1. The program took '1-2 per year' (pages from 2016-17), and no author affiliated with AGH neurosurgery in PubMed 2016-18 is unaccounted for."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete (Common Crawl Apr 2018)"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "May 2024 capture complete (Dec 2023 capture truncated)"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster"
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "The live page (2026-09-28) and Wayback Sep 2026 are stale and half-edited: the same 12 names as 2025-26, no 2026 interns, PGYs not advanced. Under the harmonised rule this is NOT a 2026-27 observation. The Apr 2026 Wayback and Jul 2026 Common Crawl captures show all 12 still listed at the end of 2025-26, but a stale page cannot show departures at the 2026 changeover or the 2026 interns. Recheck when the page is updated."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "unparsed phase-1 cc/ files (2012-2019 program pages, 2014 residents duplicates: nothing new)",
+   "cclocal rerun with the fixed filter: CC-MAIN-2012 (wpahs.org education/agh/neuro), CC-MAIN-2016-*/2017-* (ahn.org and wpahs.org neurosurgery, ahn neuroscience), CC-MAIN-2026-* (live path); no FAILED crawls",
+   "gapaudit Wayback: wpahs.org education/agh/news/neuroscience/specialties 2010-01..2013-03; ahn.org education/news/specialties-neuroscience and wpahs.org education 2016-03..2017-12",
+   "archived parent pages: 2016-04 neurosurgery program page (links to residents, never captured), neuroscience-institute education 2016, wpahs neuroscience residency page 2011-10, 2010 ResAchieve.pdf",
+   "live AHN pages 2026-09-28: residents (stale), research (award lists 2018-21), faculty",
+   "AHN findcare profiles (Yu, Dabecco, Xu), Penn State Health profile (Jho)",
+   "PubMed affiliation mining AGH/AHN neurosurgery 2010-13 and 2016-19; PubMed/OpenAlex per departed resident",
+   "crossmatch.json (UPR transfers confirmed; Raghav Gupta/USC and Katie Myers/Cincinnati rejected as name-only matches)",
+   "NPPES used only for timing (Castellvi Oct 2011, Myers Apr 2016, Dabecco 2015)"
+  ],
+  "found": [
+   "Yu graduated 2013 (findcare), not attrition; the 2013-14 page is consistent",
+   "Jho graduated 2017 (Penn State Health); added to 2016-17 at PGY7",
+   "Myers was a 2016 intern; added to 2016-17 at PGY1",
+   "Dabecco: transfer in from Saint Barnabas (AOA), graduated AGH 2022, then a CCF skull base fellowship",
+   "Castellvi entered 2011 (Pittsburgh NPI Oct 2011), and his extra PGY2 year explains the 2013-14 and 2017-18 PGYs",
+   "Alonso: vascular surgery at Boston Medical Center (publications)",
+   "Valls: AHN-affiliated papers through 2025-26, so possibly on research leave",
+   "Gupta: research at Cleveland Clinic Florida before joining",
+   "2026-27 live page is stale, so the year is removed and marked missing"
+  ],
+  "remaining": [
+   "2026-27 cannot be observed until the page is updated (significant)",
+   "2011-12 and 2016-17: low, with residual risk of an above-complement or unseen PGY1 who left",
+   "destinations of Gala, Sexton and Valls unknown"
+  ]
+ }
+}

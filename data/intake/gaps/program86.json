@@ -1,0 +1,248 @@
+{
+ "program_id": 86,
+ "name": "University of Kansas School of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www2.kumc.edu/neurosurgery/current_residents.html (+ past_residents.html, residency.html; old department site)",
+   "from": "2009-05",
+   "to": "2012-07 (last capture; 'meet our residents.htm' 404 by 2012-01)"
+  },
+  {
+   "url": "http://www.kumc.edu/school-of-medicine/neurosurgery/residency/residency-information.html (+ residency/current-residents.html, never archived)",
+   "from": "2012-10",
+   "to": "2013-05 (Common Crawl only; 301 to residency-program/ by 2013-09)"
+  },
+  {
+   "url": "http://www.kumc.edu/school-of-medicine/neurosurgery/residency-program/current-residents.html",
+   "from": "2013-05 (Common Crawl; Wayback from 2014-10)",
+   "to": "2021-02"
+  },
+  {
+   "url": "http://www.kumc.edu/school-of-medicine/neurosurgery/alumni---past-residents(-the-teachenor-williamson-society).html -> alumni-past-residents-the-teachenor-williamson-society.html -> alumni-past-residents.html",
+   "from": "2013-06",
+   "to": "2020-08"
+  },
+  {
+   "url": "https://www.kumc.edu/school-of-medicine/academics/departments/neurosurgery/academics/residency-program/current-residents.html (+ past-residents.html)",
+   "from": "2021-10",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Wayback 2012-04-19 www2 current_residents.html (only distinct version between 2010-06 and 2012-06; content-dated by Klemp PGY6, Shah PGY1). 6-year, 1/yr program, 6 residents - complete.",
+  "2012-2013": "No Wayback capture of any roster (site moved to www.kumc.edu/school-of-medicine/neurosurgery/residency/ in autumn 2012; only residency-information.html archived). Common Crawl CC-MAIN-2013-20 residency-program/current-residents.html 2013-05-22 (last modified 2013-04-07) used; complete (7 names, first 2/yr 7-year class Peterson/Smith).",
+  "2013-2014": "No Wayback capture. Common Crawl CC-MAIN-2013-48 (2013-12) still showed the 2012-13 list; CC-MAIN-2014-10 2014-03-12 (last modified 2014-01-18, PGY1 Jack/Sami) used. Complete.",
+  "2014-2015": "Wayback 2014-10-19 (last modified 2014-08-28). Complete.",
+  "2015-2016": "No Wayback capture between 2015-06-27 and 2016-08-01. Common Crawl CC-MAIN-2015-40 2015-10-09 (last modified 2015-07-07, PGY1 Alvarado/Lundy) used. Complete.",
+  "2020-2021": "Wayback 2020-12-02; page heading still reads '2019-20 Neurosurgery residents' but everyone is advanced and PGY1 = Dharia/Guillotte, so content is 2020-21.",
+  "2026-2027": "Live page 2026-09-27 (PGY1 Lara-Petrick/Park), advanced vs 2025-26, loaded as live."
+ },
+ "alumni_page": "https://www.kumc.edu/school-of-medicine/academics/departments/neurosurgery/academics/residency-program/past-residents.html",
+ "departures": [
+  {
+   "name": "Kevin Chatley",
+   "entry_year": 2017,
+   "last_ay": "2020-2021",
+   "last_pgy": 4,
+   "outcome": "left residency, destination unknown (departure_type unknown)",
+   "evidence": "Listed PGY-4 through 2021-02-28; absent from every roster 2022-01..2026-09; not on alumni page; classmate Masood graduated alone 2024. PubMed/Europe PMC: Kevin S. Chatley MD, Dept of Neurological Surgery, University of Kansas, on endovascular papers with Ebersole/Peterson Dec 2021-Jan 2023 (PMIDs 34894924, 36058488, 36281478, 36396057, 36473598, 36681323; SVIN 2023 abstracts PMC12773154, PMC12773137). So he stayed KU-affiliated in an unstated (non-roster) role through ~2022; no training elsewhere found; no affiliation after 2023 in PubMed/OpenAlex.",
+   "training_history": "inserted, completed=no, end_year=2021, departure_type=unknown"
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 31,
+ "adjudication_summary": {
+  "completed": 21,
+  "in_training": 14,
+  "left_outcome_unknown": 1,
+  "total_residents": 36,
+  "alumni_rows_inserted_training_history": 14,
+  "training_history_rows_total": 22
+ },
+ "problems": "Chatley's post-residency role/destination unresolved (NPPES not used). Alumni page still shows 2018 for Peterson/Smith (source error, corrected in training_history). Live alumni page omits 2024-2026 graduates; rows inserted from PGY-terminal rosters.",
+ "years": {
+  "2011-2012": {
+   "status": "observed",
+   "n": 6,
+   "capture": "2012-04-19",
+   "significance": "none",
+   "reason": "6/6 (1/yr x PGY1-6, 6-yr program); www2 capture 2012-04-19 and 2012-06-23 identical"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "n": 7,
+   "capture": "2013-05-22",
+   "significance": "none",
+   "reason": "7/7 (1/yr PGY2-6 + first 2/yr PGY1 class); CC 2013-05 and 2013-12 copies identical"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "n": 8,
+   "capture": "2014-03-12",
+   "significance": "none",
+   "reason": "8/8 (1/yr PGY3-6 + 2/yr PGY1-2); CC 2014-03/04 copies identical"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "n": 9,
+   "capture": "2014-10-19",
+   "significance": "none",
+   "reason": "9/9; Wayback + 13 CC copies Jul-2014..Jul-2015 identical"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "n": 10,
+   "capture": "2015-10-09",
+   "significance": "none",
+   "reason": "10/10; CC Aug-2015..Feb-2016 copies identical"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "n": 11,
+   "capture": "2016-09-04",
+   "significance": "none",
+   "reason": "11/11; three Wayback captures identical"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "n": 12,
+   "capture": "2017-10-16",
+   "significance": "none",
+   "reason": "12/12 (2/yr PGY1-6, no PGY7 yet); 8 Wayback captures identical; 'Chief Resident' lines checked"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "n": 14,
+   "capture": "2018-10-11",
+   "significance": "none",
+   "reason": "14/14 = full complement; PGY-7 chiefs carry 'PGY-7, Chief Resident' (no degree line) and were captured"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "n": 14,
+   "capture": "2019-12-11",
+   "significance": "none",
+   "reason": "14/14; 5 captures identical"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "n": 14,
+   "capture": "2020-12-02",
+   "significance": "none",
+   "reason": "14/14; 4 captures identical incl. 2021-02-28"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "n": 13,
+   "capture": "2022-01-19",
+   "significance": "none",
+   "reason": "13/14: vacancy is Chatley's (left after 2020-21), not a missed entry; degree-line count = 13 names"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "n": 13,
+   "capture": "2023-03-24",
+   "significance": "none",
+   "reason": "13/14 (Chatley vacancy); degree-line count matches"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "n": 13,
+   "capture": "2024-02-25",
+   "significance": "none",
+   "reason": "13/14 (Chatley vacancy, Masood PGY7 alone); 2 captures match"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "n": 14,
+   "capture": "2025-01-24",
+   "significance": "none",
+   "reason": "14/14"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "n": 14,
+   "capture": "2025-10-07",
+   "significance": "none",
+   "reason": "14/14"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "n": 14,
+   "capture": "2026-09-27",
+   "significance": "none",
+   "reason": "14/14 live"
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "alumni_year_conflict_resolved": {
+  "Jeremy Peterson": 2019,
+  "Kyle Smith": 2019,
+  "evidence": "KU news 'Neurosurgery faculty adds Jeremy Peterson, M.D.' (Wayback 20220528174636): 'A 2019 graduate of the department's residency program ... chief resident from 2017-19'. Both PGY-7 chiefs on the 2018-10 roster, absent 2019-08. Alumni page's 2018 is wrong. training_history rows 1906/1907 corrected to 2019."
+ },
+ "phase2": {
+  "searched": [
+   "all distinct Wayback captures (collapse=digest) of every roster URL: www2 2010-2012, residency-program/current-residents 2014-2021 (25), new-site current-residents 2022-2026 (14); name vs degree-line counts per capture",
+   "all 26 Common Crawl roster copies in data/raw/extraction/p86/cc (2013-2016)",
+   "old and new news directories (CDX prefix): 19-20_ns_grads, 20-21_residents_co-chiefs, 2022_graduation, neurosurgery-welcomes-new-residents, new-residents-2022-23, christopher-miller-joins-faculty, neurosurgery-faculty-adds-jeremy-peterson-md, welcome-anthony-alvarado",
+   "new-site faculty.html (2021-2023), research.html, research/current-and-completed-projects.html, neuroendovascular-fellowship.html",
+   "alumni pages 2019-07 and 2021-12",
+   "PubMed, Europe PMC (incl. full text PMC9592958, PMC12773154, PMC12773137), OpenAlex for Kevin Chatley",
+   "crossmatch.json and all other programs' rosters/raw extraction for Chatley (none)"
+  ],
+  "found": [
+   "All 16 years complete: no missed Chiefs heading, inline entries, faculty-menu PGY7s or suffix names; every capture's name count matches its degree-line/PGY-line count and the 2/yr (1/yr pre-2012) complement",
+   "Peterson and Smith graduated 2019 (KU news + rosters)",
+   "Chatley stayed KU-affiliated (publications) after leaving the roster; did not complete at KU",
+   "News confirms graduates: Jack/Sami 2020, Gattozzi/Miller 2021 (chiefs 2020-21), Alvarado/Lundy 2022; interns Dharia/Guillotte 2020, Bhargav/Dodin 2021, DeStefano/Minchew 2022"
+  ],
+  "remaining": [
+   "Chatley's destination after 2021 (role at KU in 2022 and any later training) unknown; not significant for roster completeness"
+  ]
+ }
+}

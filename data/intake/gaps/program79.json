@@ -1,0 +1,286 @@
+{
+ "program_id": 79,
+ "name": "University of Cincinnati Medical Center/College of Medicine Program",
+ "program_length": 7,
+ "program_length_note": "6 years (PGY1-6, chiefs PGY6) for entrants through 2012 (last 6-year class graduated 2018); 7 years from the 2013 entry class (first PGY7 chiefs 2019-20).",
+ "complement_per_year": 2,
+ "complement_note": "3/yr for 2009-2013 entrants; 2/yr 2014-2017; ACGME (June 2020 news) approved +1 every other year, so 2-3/yr since 2020 (2022, 2025, 2026 classes of 3). Only 1 PGY1 observed for 2018 and 2021 entry.",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.mayfieldclinic.com/DNS/R_OurRes.htm (UC Dept of Neurosurgery pages hosted on Mayfield Clinic site; r_ourres2.htm is a stale 2003 list)",
+   "from": "2007-12",
+   "to": "2012-10 (Oct-2012 capture still the 2011-12 list)"
+  },
+  {
+   "url": "http://med.uc.edu/neurosurgery/education/residency/residents.aspx (+ directory/directory.aspx, alumni/alumni.aspx)",
+   "from": "2013-01",
+   "to": "2015-03 (site 307-redirects from 2015-09; no roster capture until 2017-04)"
+  },
+  {
+   "url": "http://med.uc.edu/neurosurgery/residency/current-residents (+ directory/residents)",
+   "from": "2017-04",
+   "to": "2017-07"
+  },
+  {
+   "url": "http://med.uc.edu/neurosurgery/residency/current-residents and /directory/residents (Common Crawl copies)",
+   "from": "2017-03 (CC-MAIN-2017-13)",
+   "to": "2018-07; /education/residency/current-residents 2018-08..2019-12 (CC-MAIN-2018-34..2019-51)"
+  },
+  {
+   "url": "http://med.uc.edu/neurosurgery/education/residency/current-residents (+ directory/residents)",
+   "from": "2019-07",
+   "to": "2019-12"
+  },
+  {
+   "url": "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents (+ directory/residents)",
+   "from": "2020-08",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "ucneurosurgery.com (checked: unrelated New Jersey practice)",
+   "from": null,
+   "to": null
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2013-2014",
+  "2014-2015",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2015-2016"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2012-2013": "No usable capture. mayfieldclinic.com/DNS/R_OurRes.htm Oct-2012 capture is byte-identical to the Dec-2011 list (still shows 2012 graduates DePowell/Barnes Webb). med.uc.edu/neurosurgery first captured Jan-2013 (Home only); residents.aspx first captured Oct-2014. Common Crawl 2012-2013 (CC-MAIN-2012, 2013-20, 2013-48) has only R_OurRes (Feb-2012 = 2011-12) and May-2013 about/alumni pages. Reconstructed 14 people bracketed by 2011-12 and 2013-14 (Farley/Serrone confirmed by alumni 2013). NOT reconstructed: the 2012 intern class (Carroll, Kosty, Vuong; PGY2 in 2013-14) - a 2012 intern who left during 2012-13 would be invisible. PHASE 2: gapaudit (mayfieldclinic.com, med.uc.edu/neurosurgery, /gme, healthnews/uc.edu news, magazine.uc.edu, uchealth.com) and Mayfield Standard newsletters 2012-2013 found no roster; added the 2012 interns (complement 3, PubMed affiliations).",
+  "2013-2014": "Observed but names only: med.uc.edu dept directory (Oct-2013) tags residents 'Neurosurgery Resident' with no PGY; PGY inferred from 2011-12/2014-15 rosters. Farley and Serrone (alumni 2013) still tagged resident in Sep/Oct-2013 and excluded. No residents.aspx capture in AY.",
+  "2015-2016": "No capture: residents.aspx last captured Mar-2015; site moved to Sitefinity (307s from Sep-2015), new roster URL first captured Apr-2017. gapaudit over med.uc.edu/neurosurgery + mayfieldclinic.com/dns 2015-03..2019-07 found nothing else; med.uc.edu-wide CDX filtered on neurosurg|resident likewise. Common Crawl 2014-2016 (all crawls, incl. retried 2015-06, 2016-36) has only home/research pages. Reconstructed 10 bracketed residents. NOT reconstructed: Harwell, Tackla, York (PGY5 2014-15; would be PGY6 = graduating 2016 but no post-2014 alumni list) and 2015 interns Plummer, Robinson (first seen PGY2 2016-17). PHASE 2: Common Crawl 2015-2016 rerun with the new filter over edu,uc,med)/neurosurgery and /depart/neurosurgery: no roster pages. Mayfield Standard Winter 2016/Fall 2016 newsletters: no roster (Harwell 'fifth-year resident' at the May-2015 Dunsker award). Live award pages: 2016 Dunsker = Gogela, 2016 Tew = Kosty. Added 2015 interns Plummer, Robinson.",
+  "2016-2017": "Observed spring only: Wayback Apr-2017 plus Common Crawl Mar/May/Jun-2017 (all identical). No Aug-2016..Feb-2017 capture anywhere (CC 2016-40/44/50 and 2017-04/09 have only non-roster pages).",
+  "2017-2018": "PHASE 2 CLOSED: Common Crawl directory/residents and current-residents captures 2017-08-18..2018-07-21 (8), all the same 14. Roster source switched to CC-MAIN-2018-05 (2018-01-22).",
+  "2018-2019": "PHASE 2 CLOSED: Common Crawl current-residents/directory captures 2018-08-15..2019-08-18 (14), all the same 12 as the Jul-2019 Wayback capture. Roster source switched to CC-MAIN-2018-43 (2018-10-19)."
+ },
+ "alumni_page": "https://web.archive.org/web/20141230175633/http://med.uc.edu:80/neurosurgery/alumni/alumni.aspx (graduates 1949-2014; no later alumni page found, live /alumni paths 404)",
+ "departures": [
+  {
+   "name": "Katie Myers",
+   "last_ay": "2013-2014",
+   "last_pgy": 3,
+   "note": "2011 entrant (Univ. of Missouri MD); Oct-2013 and Feb-2014 directory, absent Oct-2014 on. Real departure; destination unknown (PubMed, NPPES by name: nothing). training_history completed='no', departure_type='unknown', end_year 2014."
+  },
+  {
+   "name": "Christopher Cutler",
+   "last_ay": "2025-2026",
+   "last_pgy": 2,
+   "note": "2024 entrant; PGY2 through Jun-2026, absent from the live 2026-27 page. Real departure; destination unknown (last UC affiliation PMID 41030388, 2025). training_history completed='no', departure_type='unknown', end_year 2026."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Amber Gaulden",
+   "first_ay": "2019-2020",
+   "first_pgy": 1,
+   "note": "Transfer from Wayne State/DMC (program 125, lost accreditation); joined March 2020 as PGY1 under a temporary ACGME complement increase (UC news 2020-06-10). Not on Sep/Nov-2019 captures; PGY2 Sep-2020. training_history start_year 2020."
+  },
+  {
+   "name": "Abhijith Matur",
+   "first_ay": "2023-2024",
+   "first_pgy": 2,
+   "note": "Absent Dec-2022/Mar-2023; PGY2 Sep-2023. Came from the University of Kentucky (PubMed: General Surgery 2020-21, Radiology 2022-23); UC MD ~2020. training_history start_year 2023."
+  }
+ ],
+ "pgy_anomalies": [
+  "Brittany Staarmann (2014 entrant): PGY4 in both 2017-18 and 2018-19, then PGY5-7, finishing 2022 (one extra year).",
+  "Mohamed Saleh (2014 entrant): listed PGY5 on Sep-2019 page (expected PGY6), dropped from Nov-2019 capture, chief PGY7 2020-21; news 2021-06 'finishes residency training'.",
+  "Chiefs labelled 'Chiefs' without PGY in 2016-17..2020-21; PGY assigned by cohort (6 for 2011-2013 entrants in their 6th year, 7 from 2019-20)."
+ ],
+ "residents_2011plus": 36,
+ "adjudication_summary": {
+  "COMPLETED": 32,
+  "IN TRAINING": 15,
+  "LEFT -> did not complete": 2,
+  "note": "After phase 2 training_history rows: PGY-6 finishers of the 6-year track (2009-2012 entrants) recorded as PGY-terminal roster completions; Harwell/Tackla/York 2016 inferred. Remaining LEFT = Myers, Cutler. Note: the transfer-in start_year rows make the adjudicator place Gaulden in the 2020 cohort (she began residency at Wayne State in 2019) and Matur in 2023."
+ },
+ "problems": "No roster capture for 2012-13 or 2015-16 in Wayback or any Common Crawl crawl (reconstructed, low significance). 2013-14 is a names-only directory. No alumni list after 2014. NPPES API (npiregistry) unreachable; local NPPES used. All Common Crawl crawls 2015-2019 completed (none failed).",
+ "terminal_pgy_by_entry_year": {
+  "2005": 6,
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "6-year track (PGY-6 chiefs) for entrants through 2012 (last 6-year class graduated June 2018); 7-year track from the 2013 entry class.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Full PGY-labelled Mayfield roster (Dec-2011)."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture, but every 2011-12 resident is accounted for (2012 alumni or on the Oct-2013 directory); the 2012 intern class (Carroll, Kosty, Vuong) is 3 = complement, all on the Oct-2013 directory, Carroll/Kosty with 2012-13 UC Neurosurgery PubMed affiliations. Only a resident who both joined and left inside the year could be missed."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Oct-2013 and Feb-2014 dept directory list every resident (no PGY on page); PGY inferred from bracketing rosters and consistent for all 18."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Full PGY-labelled roster (Oct-2014; identical Dec-2014/Mar-2015)."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture in Wayback or any Common Crawl, but all 2014-15 PGY1-4 reappear in 2016-17 (Gogela 2016 Dunsker and Kosty 2016 Tew awards confirm presence), the 2015 intern class (Plummer, Robinson) is 2 = complement and both are PGY2 in 2016-17. Harwell/Tackla/York (PGY6 on the 6-year track) are not on any 2015-16 page; their June-2016 completion is inferred (see departures)."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Spring only: identical rosters Mar-Jun 2017 (Common Crawl CC-MAIN-2017-13/-22/-26 and Wayback Apr-2017); nobody on the 2015-16 bracket is missing, so only a within-year joiner-and-leaver could be missed."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl captures Aug-2017..Jul-2018 (8 captures) all show the same 14 residents."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl captures Aug-2018..Aug-2019 (CC-MAIN-2018-34 to 2019-35, 14 captures) all show the same 12; Shah is the only 2018 intern all year (1-resident first year, as in 2019 before Gaulden's complement-increase transfer)."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Sep-2019 PGY-labelled roster; CC Oct and Dec-2019 identical. Saleh is missing only from the Nov-2019 CC capture (back in Dec-2019; PGY7 chief 2020-21, finished 2021). Gaulden joined Mar 2020 (transfer from Wayne State)."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "In-year PGY-labelled roster capture."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "In-year PGY-labelled roster capture."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "In-year PGY-labelled roster capture."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "In-year PGY-labelled roster capture."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "In-year PGY-labelled roster capture."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "In-year PGY-labelled roster capture."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page 2026-09-27, advanced vs 2025-26 (new interns Brehm, Khan, Sinclair)."
+  }
+ },
+ "completions_inferred": [
+  {
+   "name": "Daniel Harwell",
+   "end_year": 2016,
+   "note": "PGY5 2014-15 ('fifth-year resident' May 2015); 6-year track; UC affiliation 2016; NPPES 207T."
+  },
+  {
+   "name": "Ryan Tackla",
+   "end_year": 2016,
+   "note": "PGY5 2014-15; on the Apr-2017 UC dept directory but not among residents; UC affiliations 2016-17; NPPES 207T."
+  },
+  {
+   "name": "Jonathan York",
+   "end_year": 2016,
+   "note": "PGY5 2014-15; affiliation Swedish Neuroscience Institute 2016 (PMID 27800289); NPPES 207T."
+  }
+ ],
+ "not_residents": [
+  {
+   "name": "Stanley Hoang",
+   "note": "Stanford -> Missouri (grad 2019) -> UC Neurosurgery FELLOW: listed under directory/fellows as 'Instructor' (Wayback 2019-10-16, 2019-12-14); never on a UC resident roster. Not a residency; no training_history row at 79."
+  },
+  {
+   "name": "Almaz Kurbanov, Lincoln Jimenez, Pavel Poczos, Cody Woodhouse, Hardy Evans",
+   "note": "UC Neurosurgery PubMed affiliations 2014-2020 but never on a roster: research fellows / visiting / medical students (Woodhouse later an Allegheny resident, Evans Henry Ford orthopaedics)."
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "raw p79 folder re-read (cc/ files, Oct-2012/Dec-2014/Mar-2015/Jul-2017 captures)",
+   "gapaudit 2012-2019: mayfieldclinic.com, med.uc.edu/neurosurgery, med.uc.edu/Neurosurgery, med.uc.edu/depart/neurosurgery, med.uc.edu/gme, healthnews.uc.edu/news, magazine.uc.edu/editors_picks, uc.edu/news",
+   "CDX keyword filter 2012-2020 over healthnews.uc.edu, www.uc.edu/news, magazine.uc.edu, mayfieldclinic.com, uchealth.com",
+   "Mayfield Standard newsletters (Summer 2012 .. Fall 2017, 10 PDFs)",
+   "Common Crawl all crawls 2015-2019 (55) over edu,uc,med)/neurosurgery and /depart/neurosurgery with the new filter: 0 failed",
+   "live award pages (Dunsker, Tew, Zuccarello, DNS Scholarly)",
+   "UC fellows directory 2019 (Wayback)",
+   "PubMed affiliation mining 2012-2019 (658 PMIDs) + per-person affiliation checks",
+   "local NPPES",
+   "crossmatch.json (only a false Myers pairing with Dan Myers, AHN)"
+  ],
+  "found": [
+   "2017-18 and 2018-19 in-year rosters in Common Crawl (14 captures) -> both years now fully observed",
+   "2016-17 spring roster confirmed by 5 CC captures Mar-Jun 2017",
+   "2012 and 2015 intern classes added to the reconstructions (full complement, PubMed support)",
+   "Gogela (2016 Dunsker) and Kosty (2016 Tew) confirmed present in 2015-16",
+   "Hoang = UC fellow/instructor 2019, not a resident",
+   "Gaulden joined under a temporary complement increase; 2019 first year was 1 resident",
+   "Matur's prior training at University of Kentucky (surgery, radiology)",
+   "York at Swedish Neuroscience Institute 2016; Tackla stayed at UC as non-resident 2016-17"
+  ],
+  "remaining": [
+   "2012-13 and 2015-16 still have no roster capture (low significance: full complements and brackets)",
+   "Harwell/Tackla/York 2016 completion inferred, not observed",
+   "Myers and Cutler destinations unknown"
+  ],
+  "training_history_rows_added": {
+   "completed_terminal_roster": 8,
+   "completed_inferred": 3,
+   "departure_unknown": 2,
+   "transfer_in": 2
+  }
+ }
+}

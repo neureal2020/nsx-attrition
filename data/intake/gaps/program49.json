@@ -1,0 +1,230 @@
+{
+ "program_id": 49,
+ "name": "New York Presbyterian Hospital (Cornell Campus) / Weill Cornell Medicine neurosurgery program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.cornellneurosurgery.org/education/cur_wmc.html",
+   "from": "2007-11",
+   "to": "2013-06",
+   "note": "Current Residents page; alumni at /education/alu.html. Host 301s to weillcornellbrainandspine.org from Jul 2013; old residency.html reappears 2021+ as a stub"
+  },
+  {
+   "url": "http://weillcornellbrainandspine.org/residents",
+   "from": "2013-07",
+   "to": "2019-11",
+   "note": "Weill Cornell Brain and Spine Center site; alumni at /our-alumni; per-resident bios at /residents/<slug>"
+  },
+  {
+   "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/current-weill-cornell-residents",
+   "from": "2019-12",
+   "to": "2026-09 (live)",
+   "note": "paginated alphabetically, 10 per page (?page=1 holds the rest); /education/residency and /our-residency-program redirect/overview only"
+  },
+  {
+   "url": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+   "from": "2019-12",
+   "to": "2026-09 (live)",
+   "note": "alumni by graduation year, 1947-2026"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2025-2026": "Observed, but the archived roster page (page 0 20251213052456 + page 1 20251213155905; same through Apr 2026) omits the 2025 interns Albert Antar and Ruth Saganty. They were added from the program's Match Day 2025 news item (source_type other, PGY-1) and are PGY-2 on the live 2026-27 page. Otherwise complete (12 + 2 = 14).",
+  "2011-2012": "Mar 2012 version used (the Jul 2011 version is the same list but has Steven Addo-Yobo commented out in the HTML); content-dated 2011-12 by Knopman/Luther (2012 grads) at PGY-7.",
+  "2019-2020": "weillcornellbrainandspine.org Oct 2019 capture used; identical to new-site page 0 (Dec 2019) + page 1 (Apr 2020)."
+ },
+ "alumni_page": "https://neurosurgery.weill.cornell.edu/education/neurosurgery-residency/alumni-weill-cornell-neurosurgery-residency-program",
+ "departures": [
+  {
+   "name": "Steven Addo-Yobo",
+   "last_ay": "2012-2013",
+   "last_pgy": 2,
+   "note": "2011 intern; listed Mar 2012 (PGY-1) and Dec 2012 (PGY-2) on cornellneurosurgery.org; absent from the Jun 2013 version and from every later roster; not on the alumni page. Left during 2012-13 or at its end. His Morgenstern class then graduated alone (2018).",
+   "outcome": "left, destination unknown (departure_type unknown); not a research year",
+   "resolved_by": "removed between Wayback 20121205 and 20130603; absent from all 2013-2019 rosters and the alumni page; no publications after 2010 (PubMed/OpenAlex); no match on other programs' rosters; not in crossmatch.json",
+   "training_history_th_id": 3390
+  },
+  {
+   "name": "Lee Adam Wheeler",
+   "last_ay": "2018-2019",
+   "last_pgy": 4,
+   "note": "2015 intern (with Benjamin Hartley); listed PGY-1..PGY-4 2015-16..2018-19, still on the page 20190130, removed by 20190302; not on the alumni page (2022 lists Hartley alone). Adjudication (NPI) says switched specialty.",
+   "outcome": "left mid-PGY-4, destination unknown (departure_type unknown); not a research year. Phase-1 NPPES 'switched specialty' call withdrawn (not evidence)",
+   "resolved_by": "on roster Wayback 20190130, gone by Common Crawl 20190222 and every later roster through 2026-27; not on alumni page; last Weill Cornell NS paper 2018 (PMID 29487661), nothing later in PubMed/OpenAlex; no match on other programs' rosters; not in crossmatch.json",
+   "training_history_th_id": 3391
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 34,
+ "adjudication_summary": {
+  "COMPLETED": 31,
+  "IN TRAINING": 14,
+  "LEFT -> did not complete (outcome unknown)": 2,
+  "distinct_residents": 47
+ },
+ "problems": "Alumni page vs rosters: the alumni page lists Brenton Pennicooke as a 2018 graduate and Ibrahim Hussain as 2019, but the rosters list Pennicooke PGY-7 in 2018-19 (Oct 2018 - Mar 2019) and Hussain PGY-7 in 2019-20 (Jul-Dec 2019); rosters loaded as observed, alumni years inserted as stated. Rafael Uribe (2019 intern) jumped PGY-3 (2021-22) to PGY-5 (2022-23) and graduated 2025 with the 2018 entrants: an acceleration, not a transfer. Class sizes of 3 in 2013 (Hussain, Link, Rapoport) and 2019 (Garton, Giantini Larsen, Uribe). Common Crawl not run: no year missing. No Columbia (program 48) names involved. Phase 2: training_history alumni rows for Pennicooke (2018) and Hussain (2019) left as the alumni page states; their PGY-7 year was an enfolded fellowship and training ended the following June.",
+ "years": {
+  "2011-2012": {
+   "status": "observed",
+   "n": 15,
+   "significance": "none",
+   "reason": "complete: 15 names, PGY-1..7 all present; the only short class (PGY-4 Sigounas alone) is a 2008 single-entrant class (graduated alone 2015); raw HTML re-read incl. commented blocks"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "n": 15,
+   "significance": "none",
+   "reason": "complete: 15, every class continuous from 2011-12 plus 2 interns; Addo-Yobo PGY-2 still listed Dec 2012 (departure recorded)"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "complete: 14 = 15 - 2 grads - Addo-Yobo + 3 interns; 12 near-identical captures Jul 2013-May 2014"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "complete: 14, all classes continuous; PGY-7 Sigounas alone (single 2008 entrant)"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "n": 15,
+   "significance": "none",
+   "reason": "complete: 15; 'INR Fellow, PGY-7' (Marcus) parsed"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "complete: 14, all classes continuous"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "complete: 14; 'Chief Resident, PGY-6' (Pennicooke) parsed"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "n": 15,
+   "significance": "none",
+   "reason": "complete: 15; 'PGY-7 Spine Fellow' (Pennicooke, enfolded fellowship per 2018 graduation news) parsed; Wheeler removed Feb 2019 (departure recorded)"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "n": 15,
+   "significance": "none",
+   "reason": "complete: 15; 3rd intern Uribe (foreign-trained, off-match) in the slot vacated by Wheeler"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "complete: 14 = union of p0+p1; every class continuous"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "complete: 14, every class continuous"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "n": 15,
+   "significance": "none",
+   "reason": "complete: 15; Uribe advanced PGY-3 -> PGY-5 (bio: prior Colombian neurosurgery residency)"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "n": 15,
+   "significance": "none",
+   "reason": "complete: 15, every class continuous"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "n": 15,
+   "significance": "none",
+   "reason": "complete: 15, every class continuous"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "page omitted the 2 interns; filled from the program's Match Day 2025 news and confirmed as PGY-2 on the live 2026-27 page; all other classes continuous, so nothing can be unseen"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "n": 14,
+   "significance": "none",
+   "reason": "complete: 14 live page, every class continuous"
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "7 years for every cohort. Graduation per alumni page can precede PGY-7 when the PGY-7 year is an enfolded fellowship (Pennicooke: 2018 news 'completed six years of residency, will spend his final year ... in an enfolded fellowship in spinal surgery'; alumni lists 2018 though he is PGY-7 on the 2018-19 roster; Hussain likewise alumni 2019, PGY-7 2019-20). Uribe (2019 entrant) completed at PGY-7 in 2025 after being advanced PGY-3 -> PGY-5 (credit for prior foreign residency); not a departure.",
+ "phase2": {
+  "searched": [
+   "re-read raw HTML of every roster capture used (old site incl. commented-out blocks, brainandspine 2013-19, new site p0+p1 2020-26) for Chief/Fellow/inline/suffix entries: all parsed",
+   "class continuity check for every year vs complement 2 (3 in 2013 and 2019 classes)",
+   "Wayback CDX cur_wmc.html 2012-2013 (only 3 captures), weillcornellbrainandspine.org/residents/lee-adam-wheeler*, cornellneurosurgery.org prefix (bio PDFs, news)",
+   "Common Crawl: cornellneurosurgery.org CC-MAIN-2012, 2013-20, 2013-48; weillcornellbrainandspine.org all 24 crawls 2018-05..2019-51 (rosters, bios, news: 2017/2018 graduation, Match Day 2018/2019)",
+   "PubMed author search Addo-Yobo S / Wheeler LA; OpenAlex author works for both",
+   "all data/intake/rosters_program*.json and training_history for either surname; data/intake/crossmatch.json (no program-49 pairs)"
+  ],
+  "found": [
+   "Wheeler removal narrowed to 2019-01-30..2019-02-22 (CC-MAIN-2019-09 roster)",
+   "2018 graduation news: Pennicooke finished 6 years + enfolded spine fellowship PGY-7 (explains alumni-year vs roster conflict)",
+   "Match Day 2019 news names only Garton and Giantini Larsen; Uribe added off-match (bio: prior Colombian residency)",
+   "no parser misses in any year"
+  ],
+  "remaining": [
+   "destinations of Addo-Yobo and Wheeler unknown (no program page, bio or publication after departure); both recorded as departure_type unknown"
+  ]
+ }
+}

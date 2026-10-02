@@ -1,0 +1,75 @@
+# Program 24 -- Henry Ford Health/Henry Ford Hospital Program (Detroit, MI)
+
+Program page 2014-2015: 'trains two residents/year'. Intern classes of 3 in 2025 and 2026. Alumni list shows 1 graduate in 2018 and 3 in 2019; entry-2014 class was Karam Asmaro + Jessin John (John left after 2018-19).
+
+## Hosts
+- http://www.henryford.com/body_program.cfm?id=52196 (program page; alias /neurosurgeryresidency); residents page body_program.cfm?id=52416 never archived: 2010-12 to 2015-12 (last capture)
+- https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery (/residents, /past-residents, /resident-testimonials): 2017-02 (Common Crawl; residents page first crawled 2017-07; Wayback from 2019-07) to live 2026-09-27
+
+## Year status (phase 2)
+
+| Year | Status | Significance | Reason |
+|---|---|---|---|
+| 2011-2012 | missing | significant | no roster; one probable unrostered 2011 entrant (Omodon) left unseen, so further losses in classes 2011-2016 cannot be excluded |
+| 2012-2013 | missing | significant | no roster; classes 2011-2016 only seen from 2017-18 |
+| 2013-2014 | missing | significant | no roster; classes 2011-2016 only seen from 2017-18 |
+| 2014-2015 | missing | significant | no roster; classes 2011-2016 only seen from 2017-18 |
+| 2015-2016 | missing | significant | no roster; classes 2011-2016 only seen from 2017-18 |
+| 2016-2017 | reconstructed | significant | alumni-based only; a 2016-17 departure (or an early-leaving 2016 intern) would be invisible |
+| 2017-2018 | observed | none | full CC roster |
+| 2018-2019 | observed | none | full CC roster |
+| 2019-2020 | observed | none | full Wayback roster |
+| 2020-2021 | reconstructed | low | bracketed; both 2020 interns placed from NPPES + image-file class suffix; all 2019-20 residents accounted for |
+| 2021-2022 | observed | none | content-dated Wayback roster |
+| 2022-2023 | observed | none | full Wayback roster |
+| 2023-2024 | reconstructed | low | bracketed; both 2023 interns placed from NPPES + image-file class suffix; all 2022-23 residents accounted for |
+| 2024-2025 | observed | none | full roster |
+| 2025-2026 | observed | none | full roster |
+| 2026-2027 | observed | none | live page, advanced |
+
+## Gap details
+- **2011-2012** (same for 2012-13..2015-16): MISSING. The old ColdFusion residents page body_program.cfm?id=52416 was never captured (Wayback, any variant; Common Crawl only 301s from 2017-07). Phase 2: all 9 archived versions of the program page id=52196 (2010-12..2015-12) re-read and every linked subpage checked in CDX: Curriculum 52195, Typical Day 52193, Academic Schedule 52194, Neurosurgery Research 59431, Synapse Past Editions 60776, Contact 52188 have NO captures; Information for Applicants 37252 and the fellowship pages carry no resident names. gapaudit 2011-2016 over henryford.com/body_program.cfm, /neurosurgery*, /hfh/neuro, /documents (incl. HFH GME PDFs) and henryfordhospital.com: no roster, handbook or newsletter with resident names. Evidence instead: complement 2/yr ('program trains two residents/year', 2013-15 captures); every entry class 2011-2016 has 2 residents on the 2017-18 roster; PubMed + OpenAlex HFH-neurosurgery author mining 2010-2017 found one unrostered probable resident, Melvin Omodon (HFH neurosurgery affiliation 2012-2014, NPI 2011-06 with Neurological Surgery taxonomy, radiology from 2016) = probable 2011 entrant who left, so the classes were NOT closed and at least one departure happened unseen. Other HFH-neurosurgery authors of this era with NPIs from 2007-2008 (Bhangoo, Phillips, Mazaris, Alsaidi, Reinard) are probable pre-2011 entrants who graduated 2012-2015 (not on the alumni page, which starts at 2016); they do not affect 2011+ entrant counts.
+- **2016-2017**: RECONSTRUCTED (unchanged in phase 2). No 2016-17 roster anywhere (old page never archived; Sitecore residents page first crawled 2017-07-25 with 2017-18 content; phase-2 CC retry of the failed 2016-30/2017-26 indexes: CC-MAIN-2015-32, 2015-40, 2016-30 and 2017-26 indexes now read: no record under id=5241*, id=52196, /neurosurgeryresidency or /hfh/neuro-surgery). 13 alumni-confirmed residents at 2017-18 PGY minus 1; Jessin John (PGY-4 2017-18, entry 2014) was certainly present but is not reconstructed (not a graduate). Any 2016-17 departure would be invisible.
+- **2020-2021**: RECONSTRUCTED, significance low. Bracketed by observed 2019-20 and 2021-22 rosters. Phase 2 added the 2020 interns Jared Reese and Heegook Yeo at PGY-1: image files 'past-residents/jared-reese20.jpg' and 'heegook-yeo20.jpg'; NPPES shows Reese's NPI enumerated 2020-03-30 at 2799 W Grand Blvd (trainee taxonomy) and Yeo's record moved from Louisville (his medical school) to HFH with a Michigan training license on 2020-05-19; neither has any earlier residency affiliation in PubMed/OpenAlex; both PGY-2 in 2021-22. Every 2019-20 resident is either on the 2021-22 roster at PGY+2 or graduated (Tahir, Zakaria 2020; Asmaro 2021 per alumni page). Complement 2, both intern slots accounted for. Wayne State (125) closed ~2020: none of its residents (Garling, Walker, Lieber, Loya, Moon, Peterson, Shah, Goodrich, Klinger, Huang, Kappel) appears on any HFH roster 2019-2027 or on the HFH alumni list 2020-2022, and PubMed places Garling at DMC/WSU through 2021. No transfers into HFH. Common Crawl: phase-2 pass read every 2020-2021 crawl (fixed filter): residents page captured only 2020-02-17 and 2020-08-08 (unchanged 2019-20 content); no residents-page record in any 2020-40..2021 crawl; CC-MAIN-2021-04 index range still failed. Wayback: only capture 2020-08-08 = unchanged 2019-20 page.
+- **2023-2024**: RECONSTRUCTED, significance low. Bracketed by observed 2022-23 and 2024-25 rosters. Phase 2 added the 2023 interns Seamus Bartlett and Hangil Lee at PGY-1: image files 'bartlett_seamus_23.jpg', 'lee_hangil_23.jpg'; both Wayne State MDs (Bartlett's 2023 PubMed affiliation is WSU School of Medicine); NPPES: Bartlett NPI enumerated 2023-05-15 at HFH, Lee's record updated 2023-04-14 at HFH with a Michigan training license; both PGY-2 2024-25. Every 2022-23 resident is on the 2024-25 roster at PGY+2 or graduated 2024 (Hamilton, Hunt, alumni page). Common Crawl: phase-2 pass read every 2023-2024 crawl: residents page 2023-03-22 (2022-23 content) then 2024-06-25 (2024-25 content); nothing in between. Wayback: captures jump 2023-03-22 -> 2024-06-25.
+- Observed years: 2017-2018: Observed via Common Crawl CC-MAIN-2017-39 (2017-09-20); identical content 2017-07-25 through 2018-10-19. 14 residents; PGY-7 Mubita and Massie.; 2018-2019: Observed via Common Crawl CC-MAIN-2018-51 (2018-12-16); page updated between 2018-10-19 and 2018-12-16. Lara Massie (PGY-7 2017-18) absent although the alumni p; 2019-2020: Observed: 2019-10-16 capture (same content as 2019-08-19). 13 residents; PGY-6 has only Karam Asmaro (entry 2014 class of one).; 2021-2022: Observed via 2022-08-13 capture that still shows the 2021-22 roster (PGY-7 Macki/Zervos graduated 2022; PGY-1 Chaker/Kantak). Content-dated.; 2022-2023: Observed: 2022-11-30 capture (2023-03-22 identical roster).; 2024-2025: Observed: 2024-10-04 capture (same roster 2024-06-25 through 2025-07-18).; 2025-2026: Observed: 2025-11-18 capture (same roster to 2026-05-13).; 2026-2027: Observed: live page 2026-09-27; advanced (Reese/Yeo PGY-7, new PGY-1 Haver/Lucarelli/Picton).
+
+## Alumni page
+https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents
+
+Live page lists grads 2020-2026; 2022-08..2024-08 captures list grads 2016-2022 (Robin, Pabaney 2016; Ali, Basheer 2017; Mubita 2018; Massie, Noh, Rammo 2019). 21 graduates inserted into training_history (2016-2026). No graduates 2012-2015 on any version.
+
+## Departures
+- **Jessin John** (last 2018-2019, PGY 5): Entry 2014. Absent from 2019-20. SWITCHED to anesthesiology: PubMed affiliation HFH Dept of Anesthesiology, Pain Management 2021 (33980032) and 2022 (35509620); NPPES Anesthesiology/Interventional Pain. training_history row added (switched_specialty, end_year 2019).
+- **Melvin Omodon** (last 2013-2014 or 2014-2015 (inferred), PGY None): NOT on any roster (missing years). PROBABLE 2011 entrant: NPI 2011-06-23, Neurological Surgery taxonomy on a Michigan license; affiliation Dept of Neurological Surgery HFH 2012, 2013, 2014 (PMID 22380953, 29296385; OpenAlex); Aultman Hospital (radiology) 2016; now diagnostic/interventional radiology. training_history row added (switched_specialty, 2011-2014, flagged PROBABLE).
+
+Lara Massie (PGY-7 2017-18) was off the 2018-19 roster but graduated 2019 per alumni page (delayed completion, not attrition). Omodon is the only unrostered departure found; losses from classes 2011-2016 before 2017-18 are otherwise unobservable.
+
+## Joiners
+None. Reese/Yeo (2020) and Bartlett/Lee (2023) are now placed as PGY-1 in the reconstructed 2020-21 and 2023-24 rosters (entrants, not transfers). No Wayne State (125) closure transfers came to HFH.
+
+## Counts
+Residents entering 2011+: 35 (34 rostered entrants 2011-2026 (Massie, Mubita 2011 by 2017-18 PGY labels; NPPES dates suggest Mubita may have started 2010 and Massie 2012) plus probable unrostered 2011 entrant Melvin Omodon.)
+Adjudication: 19 COMPLETED, 16 IN TRAINING, 1 LEFT -> SWITCHED SPECIALTY
+
+## Phase 2
+**Searched:**
+- Wayback: all 9 content versions of body_program.cfm?id=52196 re-read; CDX of every linked subpage (52188, 52193-52195, 52416, 59431, 60776, 37252, 51876, 52190 ...)
+- gapaudit 2011-2016: henryford.com/body_program.cfm, henryford.com/neurosurgery*, henryford.com/hfh/neuro, henryford.com/documents, henryfordhospital.com; CDX prefixes henryford.com/documents/Neuro*, .../HFH GME/Neurosurgery, /documents/Synapse
+- gapaudit 2020-2024: Sitecore /hfh/neuro* pages, the neurosurgery portrait media folder, henryford.com/blog/202*
+- Common Crawl (cc_p2.py = cclocal records + fixed ROST filter): phase-1 failed crawls retried with all 4 prefixes; every 2020-2026 crawl for /hfh/neuro-surgery
+- PubMed affiliation mining ('Henry Ford' AND neurosurg*) 2009-2025 and per-person author histories; OpenAlex raw-affiliation mining 2010-2017 and 2019-2025
+- NPPES: all rostered residents 2009-2016 entry, the four 2020/2023 interns, Detroit neurological-surgery taxonomy sweep (65 NPIs), unknown HFH-neurosurgery authors
+- Wayne State (125) cross-check: its 2017-19 roster names vs all HFH rosters and alumni list; Garling PubMed history
+**Found:**
+- Reese, Yeo placed PGY-1 2020-21; Bartlett, Lee placed PGY-1 2023-24 (reconstructed rows with NPPES + image-file evidence)
+- Jessin John: switched to anesthesiology (HFH anesthesiology affiliation 2021-22)
+- Melvin Omodon: probable unrostered 2011 entrant, left 2014/15 for radiology
+- No Wayne State transfers into HFH
+- Probable pre-2011 entrants graduating 2012-2015 (not on alumni page): Sandeep Bhangoo, Scott Phillips, Paul Mazaris (NPIs 2007), Mohammed Alsaidi, Kevin Reinard (NPIs 2008) - outside the 2011+ cohort, not inserted
+**Remaining:**
+- 2011-12..2015-16 rosters (significant): no archive of id=52416; cannot exclude further early losses in classes 2011-2016 besides Omodon
+- 2016-17 (significant): alumni-only reconstruction
+
+## Problems
+2011-12..2015-16 still have no roster anywhere; 2016-17 alumni-based only. Entry-year labels for the 2011-2012 classes are uncertain (2017-18 page lists Mubita and Massie as PGY-7, but alumni years 2018/2019 and NPI dates 2010-06/2012-04 disagree). Omodon is a probable, not confirmed, resident (no program page names him). Common Crawl phase-2 pass: cc_p2.py read 60 crawls (phase-1 failures with all 4 prefixes; every 2020-2026 crawl for /hfh/neuro-surgery). Still failing after retries: CC-MAIN-2018-39 (id=52196 prefix), CC-MAIN-2021-04 (hfh), CC-MAIN-2024-22 (id=5241*, id=52196), CC-MAIN-2026-30 (hfh; 2026 is observed live). None can hold a roster for the missing years (old site gone by 2017; 2021-04 falls in the reconstructed 2020-21 year).

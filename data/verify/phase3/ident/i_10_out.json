@@ -1,0 +1,825 @@
+[
+ {
+  "key": "37:mar:loe",
+  "name": "Maren Loe",
+  "program_id": 37,
+  "identity": "confirmed",
+  "identity_basis": "Utah program page + Utah Match Day 2025 X post + WashU MSTP page (MD/PhD 2025) name her; MGB brochure lists her (program_sources); LinkedIn title 'Resident Doctor at Brigham and Women's'. Utah page now 404, consistent with move to BWH. Could not open brochure text again (PDF redirects).",
+  "outcome": "in_training",
+  "outcome_detail": "Matched Utah 2025, then appears at MGB/BWH (brochure 2026-01-05 + LinkedIn). Still in neurosurgery training.",
+  "current": "neurosurgery resident, MGB/BWH",
+  "evidence_level": "program_only",
+  "program_site_url": "https://delivery-p159191-e1712366.adobeaemcloud.com/adobe/assets/urn:aaid:aem:228e8f51-5171-4b8c-a258-d5c56c53fc14/original/as/mgb-neurosurgery-residency-program.pdf",
+  "external_url": "https://mstp.wustl.edu/people/maren-loe-md-phd/",
+  "sources": [
+   {
+    "url": "https://medicine.utah.edu/neurosurgery/residents/maren-loe",
+    "type": "program_page",
+    "evidence": "Maren Loe | Neurosurgery Department"
+   },
+   {
+    "url": "https://x.com/UofUNeurosurg/status/1903140654814990708",
+    "type": "search_snippet",
+    "evidence": "Welcome Dr. Matthew Findlay, Dr. Maren Loe, and Dr. Adi Mittal"
+   },
+   {
+    "url": "https://mstp.wustl.edu/people/maren-loe-md-phd/",
+    "type": "bio",
+    "evidence": "Maren Loe MD, PhD - Medical Scientist Training Program"
+   },
+   {
+    "url": "https://www.linkedin.com/in/maren-loe-4bb00b82/",
+    "type": "search_snippet",
+    "evidence": "Maren Loe - Resident Doctor at Brigham and Women's"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 4,
+  "residency_stated": [
+   {
+    "institution": "University of Utah",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   },
+   {
+    "institution": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "38:kri:ravindran",
+  "name": "Krishnan Ravindran",
+  "program_id": 38,
+  "identity": "confirmed",
+  "identity_basis": "Mayo Jacksonville rosters (2019-2025, Wayback) + Doximity (Neurological Surgery residency Mayo Jacksonville 2020-2026, Melbourne 2018) + ResearchGate; distinctive name; absent from 2026-27 roster (graduated). Doximity headline 'General Surgery' is a misclassification.",
+  "outcome": "completed",
+  "outcome_detail": "Doximity: Residency Neurological Surgery 2020-2026 Mayo Jacksonville; not on 2026-27 Mayo Florida roster. No current practice bio found; Doximity FL address 836 Prudential Dr.",
+  "current": "graduated Mayo Jacksonville neurosurgery 2026; position unconfirmed",
+  "evidence_level": "silver",
+  "program_site_url": "https://web.archive.org/web/20210921173120/https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/resident-profiles/",
+  "external_url": "https://www.doximity.com/pub/krishnan-ravindran-md",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/krishnan-ravindran-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2026 Mayo Clinic College of Medicine and Science (Jacksonville)"
+   },
+   {
+    "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/resident-profiles/",
+    "type": "program_page",
+    "evidence": "2026-27 roster PGY-1..7 does not list Ravindran"
+   }
+  ],
+  "ident_searches": 2,
+  "sources_count": 3,
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic College of Medicine and Science (Jacksonville)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "38:rac:stein",
+  "name": "Rachel Stein",
+  "program_id": 38,
+  "identity": "confirmed",
+  "identity_basis": "NPI 1063076834 for Rachel Stein DO (Via 2019) lists Neurological Surgery, Jacksonville and Mayo Clinic-Jacksonville affiliation (Healthgrades/Vitals) AND Diagnostic Radiology; UF Jacksonville radiology alumni class of 2025 names Rachel Stein, D.O.; timeline (2019 MD, Mayo Jax NS PGY-1 2019-20, radiology 2021-25) consistent. Roster entry does not give school, so residual name-ambiguity remains.",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left Mayo Jacksonville neurosurgery after PGY-1 (2019-20); diagnostic radiology residency UF Jacksonville (class of 2025); IR fellow 2025-26 per LinkedIn title.",
+  "year_left": 2020,
+  "destination_program": "University of Florida-Jacksonville (diagnostic radiology)",
+  "destination_start_year": 2021,
+  "current": "interventional radiology fellow / diagnostic radiologist",
+  "evidence_level": "silver",
+  "program_site_url": "https://web.archive.org/web/20191021205100/https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/resident-profiles/",
+  "external_url": "https://radiology.med.jax.ufl.edu/education/diagnostic-radiology-residency/residents/alumni/",
+  "sources": [
+   {
+    "url": "https://radiology.med.jax.ufl.edu/education/diagnostic-radiology-residency/residents/alumni/",
+    "type": "program_page",
+    "evidence": "Rachel Stein, D.O. - Undecided (class of 2025)"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-rachel-stein-etoqh1k411",
+    "type": "search_snippet",
+    "evidence": "Rachel Stein, DO ... Mayo Clinic Florida ... Neurological Surgery and Diagnostic Radiology (NPI 1063076834)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/rachel-stein-66264231a/",
+    "type": "search_snippet",
+    "evidence": "Radiology Resident, R4/ESIR and Incoming Interventional Radiology Fellow '25-26 at UF"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 3,
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic College of Medicine and Science (Jacksonville)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2020
+   },
+   {
+    "institution": "University of Florida-Jacksonville",
+    "specialty": "diagnostic radiology",
+    "start": 2021,
+    "end": 2025
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "38:jam:lee",
+  "name": "James Lee",
+  "program_id": 38,
+  "identity": "probable",
+  "identity_basis": "Mayo Florida roster (live 2026-27 PGY-7, UCLA Geffen; Wayback 2021-2023) only. Searches for an independent profile returned only a cardiologist namesake and a different Mayo resident (Seung Lee). Very common name.",
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 on 2026-27 roster; research interests 'surgical anatomy and techniques, and human electrophysiology'.",
+  "current": "neurosurgery resident PGY-7, Mayo Clinic Florida",
+  "evidence_level": "program_only",
+  "program_site_url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/resident-profiles/",
+  "external_url": null,
+  "sources": [
+   {
+    "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/resident-profiles/",
+    "type": "program_page",
+    "evidence": "PGY-7: James Lee, M.D. - David Geffen School of Medicine, UCLA"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 1,
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic College of Medicine and Science (Jacksonville)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "38:has:syed",
+  "name": "Hashim Syed",
+  "program_id": 38,
+  "identity": "confirmed",
+  "identity_basis": "Mayo roster (PGY-2, Iowa Carver) + University of Iowa Match Day 2025 listing: Hashim Syed matched Neurological Surgery, Mayo Jacksonville.",
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 2026-27 at Mayo Florida.",
+  "current": "neurosurgery resident PGY-2, Mayo Clinic Florida",
+  "evidence_level": "silver",
+  "program_site_url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/resident-profiles/",
+  "external_url": "https://md.medicine.uiowa.edu/program-events/match-week/match-day-2025",
+  "sources": [
+   {
+    "url": "https://md.medicine.uiowa.edu/program-events/match-week/match-day-2025",
+    "type": "search_snippet",
+    "evidence": "Hashim Syed ... matched into Neurological Surgery at Mayo Graduate School of Medicine, Jacksonville (search-summary of Iowa 2025 match list)"
+   },
+   {
+    "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/resident-profiles/",
+    "type": "program_page",
+    "evidence": "PGY-2: Hashim Syed, M.D. | University of Iowa Carver College of Medicine"
+   }
+  ],
+  "ident_searches": 2,
+  "sources_count": 2,
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic College of Medicine and Science (Jacksonville)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "38:ali:mohamed",
+  "name": "Ali Mohamed",
+  "program_id": 38,
+  "identity": "confirmed",
+  "identity_basis": "Mayo roster PGY-1 (FAU) + external profile (ResearchGate/RocketReach snippet): MD Florida Atlantic University 2021-2026, Neurosurgery Residency 2026-2033 Mayo; 4th-year FAU student interested in neurosurgery; research topics (AI, health policy) match roster blurb.",
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 2026-27.",
+  "current": "neurosurgery resident PGY-1, Mayo Clinic Florida",
+  "evidence_level": "silver",
+  "program_site_url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/resident-profiles/",
+  "external_url": "https://rocketreach.co/ali-mohamed-email_279203395",
+  "sources": [
+   {
+    "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/resident-profiles/",
+    "type": "program_page",
+    "evidence": "PGY-1: Ali Mohamed, M.D. | Florida Atlantic University"
+   },
+   {
+    "url": "https://rocketreach.co/ali-mohamed-email_279203395",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Residency 2026-2033 Mayo Clinic; MD Florida Atlantic University 2021-2026"
+   }
+  ],
+  "ident_searches": 2,
+  "sources_count": 2,
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic College of Medicine and Science (Jacksonville)",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "40:arc:bhandarkar",
+  "name": "Archis Bhandarkar",
+  "program_id": 40,
+  "identity": "confirmed",
+  "identity_basis": "Mayo Rochester rosters 2023-2025 (Wayback), Mayo Alumni Assoc. 2023 match story, Mayo Neurosurgery Residency X welcome (@archisrb), distinctive name, 2026 papers under Mayo Neuro-Informatics Laboratory.",
+  "outcome": "unknown",
+  "outcome_detail": "Not on 2026-27 Mayo Rochester roster (PGY-4 class lists 3 others). Still publishing as Mayo researcher (Neuro-Informatics Lab) July 2026, so most likely a research year, but no page states research-year, leave, or departure. Tried: name+neurosurgery, Mayo pages, X/LinkedIn search, MediFind (page not readable).",
+  "current": "Mayo Clinic Rochester researcher (Neuro-Informatics Lab)",
+  "evidence_level": "program_only",
+  "program_site_url": "https://web.archive.org/web/20251111040959/https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-minnesota/meet-our-trainees/",
+  "external_url": "https://alumniassociation.mayo.edu/news/get-to-know-2023-matching-med-students/",
+  "sources": [
+   {
+    "url": "https://alumniassociation.mayo.edu/news/get-to-know-2023-matching-med-students/",
+    "type": "news",
+    "evidence": "Bhandarkar matched Neurological Surgery, Mayo Clinic Rochester"
+   },
+   {
+    "url": "https://www.researchgate.net/scientific-contributions/Archis-R-Bhandarkar-2161996985",
+    "type": "search_snippet",
+    "evidence": "Mayo Clinic - Rochester; 2026 publication"
+   }
+  ],
+  "ident_searches": 4,
+  "sources_count": 3,
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic Rochester",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "40:nit:patel",
+  "name": "Nitesh Patel",
+  "program_id": 40,
+  "identity": "confirmed",
+  "identity_basis": "Mayo Rochester rosters 2019-2025 + Doximity (Rochester MN, Neurological Surgery residency Mayo Rochester 2019-2026, Texas A&M 2019) + Healthgrades 'Neurosurgeon Rochester MN' + Mayo Neuro X graduation post naming #NiteshPatel. A separate Doximity page (0733289a) with ABIM GI cert is a merged namesake profile. LinkedIn 'Assistant Professor of Neurosurgery' is a different Nitesh Patel (Hackensack, NJ).",
+  "outcome": "completed",
+  "outcome_detail": "Graduated June 2026 as Mayo chief resident.",
+  "current": "recent Mayo neurosurgery graduate; practice location unconfirmed",
+  "evidence_level": "silver",
+  "program_site_url": "https://web.archive.org/web/20251111040959/https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-minnesota/meet-our-trainees/",
+  "external_url": "https://www.doximity.com/pub/nitesh-patel-md-62d8c2db",
+  "sources": [
+   {
+    "url": "https://x.com/MayoClinicNeuro/status/2069075340782125124",
+    "type": "search_snippet",
+    "evidence": "graduation of our Mayo Clinic Neurologic Surgery Chief Residents ... #NiteshPatel"
+   },
+   {
+    "url": "https://www.doximity.com/pub/nitesh-patel-md-62d8c2db",
+    "type": "search_snippet",
+    "evidence": "Nitesh Patel MD, Neurosurgery, Rochester MN; residency Neurological Surgery Mayo Rochester 2019-2026; Texas A&M"
+   }
+  ],
+  "ident_searches": 2,
+  "sources_count": 3,
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic College of Medicine and Science (Rochester)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "40:mic:mcquinn",
+  "name": "Michelle McQuinn",
+  "program_id": 40,
+  "identity": "confirmed",
+  "identity_basis": "Mayo Rochester 2026-27 page PGY-7 Michelle McQuinn + WebMD/Healthgrades/Vitals (NPI 1801424684): NYU MD 2020, Neurological Surgery Rochester MN, Mayo Methodist/St Marys; NYU Grossman publications.",
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 in 2026-27.",
+  "current": "neurosurgery resident PGY-7, Mayo Clinic Rochester",
+  "evidence_level": "silver",
+  "program_site_url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-minnesota/meet-our-trainees/",
+  "external_url": "https://doctor.webmd.com/doctor/michelle-mcquinn-6a65a92c-9e3c-4812-889c-bee3dad81e08-overview",
+  "sources": [
+   {
+    "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-minnesota/meet-our-trainees/",
+    "type": "program_page",
+    "evidence": "PGY-7 Michelle McQuinn, M.D. (New York University School of Medicine)"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/michelle-mcquinn-6a65a92c-9e3c-4812-889c-bee3dad81e08-overview",
+    "type": "search_snippet",
+    "evidence": "graduated from New York University School of Medicine in 2020 ... Neurological Surgery, Rochester, MN"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 2,
+  "residency_stated": [
+   {
+    "institution": "Mayo Clinic College of Medicine and Science (Rochester)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "41:ann:park",
+  "name": "Anne Park",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Anne Elizabeth Park, West Hollywood) lists Residency Neurological Surgery McGaw/Northwestern and Penn State Class of 2011, plus ABA Anesthesiology and Pain Medicine; US News, Healthgrades, WebMD and Cedars-Sinai list the same Penn State 2011 physician as Anesthesiology/Pain at Cedars-Sinai. Not in Northwestern alumni list 2011-2018 (checked). Caveat: Doximity 2011-2018 residency dates and CA license 2015 do not fit a full NU stay, so directory dates are unreliable.",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Did not finish Northwestern neurosurgery (absent from alumni list); now board-certified anesthesiology and pain medicine physician at Cedars-Sinai. Year of switch and destination anesthesia program not found.",
+  "destination_program": "anesthesiology (destination program not found)",
+  "current": "anesthesiology/pain medicine physician, Cedars-Sinai, West Hollywood CA",
+  "evidence_level": "silver",
+  "program_site_url": "https://web.archive.org/web/20120204025405/http://www.feinberg.northwestern.edu:80/neurosurgery/residency/residents/index.htm",
+  "external_url": "https://www.doximity.com/pub/anne-park-md-e5d07d4c",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anne-park-md-e5d07d4c",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011-2018 McGaw ... Class of 2011 Penn State; American Board of Anesthesiology: Anesthesiology; Pain Medicine (opened in Chrome)"
+   },
+   {
+    "url": "https://www.cedars-sinai.org/provider/anne-park-1251219.html",
+    "type": "search_snippet",
+    "evidence": "Anne E. Park, MD | Cedars-Sinai - Anesthesiology"
+   },
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "2011-2018 alumni list has no Park"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 4,
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": null
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "41:mos:praver",
+  "name": "Moshe Praver",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Northwestern rosters 2015-2018 (Wayback) + LinkedIn (MD Columbia P&S, 'five years of clinical training in Neurosurgery', earlier 'Physician at Northwestern Medicine', now Gen AI at Abridge) + Columbia neurosurgery past-members page. Distinctive name.",
+  "outcome": "left_medicine",
+  "outcome_detail": "Left Northwestern neurosurgery after 2017-18 (PGY-3); now software engineer (Gen AI, Abridge), ex-Amazon/AWS, co-founder MedX Protocol. WebMD/Vitals 'Diagnostic Radiology' is an NPI-taxonomy listing only; no radiology residency found.",
+  "year_left": 2018,
+  "current": "Gen AI senior software engineer, Abridge",
+  "evidence_level": "gold",
+  "program_site_url": "https://web.archive.org/web/20151015055813/http://www.feinberg.northwestern.edu/sites/neurosurgery/education/residency/current-residents.html",
+  "external_url": "https://www.linkedin.com/in/moshe-praver-md-769a74ab/",
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/moshe-praver-md-769a74ab/",
+    "type": "bio",
+    "evidence": "MD | Gen AI @Abridge | Ex-Amazon; MD-turned-engineer with five years of clinical training in Neurosurgery"
+   },
+   {
+    "url": "https://www.zoominfo.com/p/Moshe-Praver/4190738804",
+    "type": "search_snippet",
+    "evidence": "Gen Ai Senior Software Engineer at Abridge; earlier Physician at Northwestern Medicine"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 3,
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2018
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "41:sha:fang",
+  "name": "Shanna Fang",
+  "program_id": 41,
+  "identity": "ambiguous",
+  "identity_basis": "Northwestern PGY-1 2015-16 roster only. Healthgrades lists a Shanna Fang MD neurosurgeon at Mayo Clinic-Rochester (NPI 1992199806; no education shown; not on Mayo faculty or resident pages checked), UCSF neurosurgery publications (2009) and an NREF medical-student fellowship (2026) name a Shanna Fang who may be a different person. Nothing ties the roster person to any of them.",
+  "outcome": "unknown",
+  "outcome_detail": "Not in Northwestern alumni list. Healthgrades neurosurgeon listing at Mayo Rochester is suggestive of a transfer but not verified. Tried 7 searches: name+neurosurgery, Mayo Rochester rosters, Northwestern, UCSF, Healthgrades page fetch.",
+  "evidence_level": "program_only",
+  "program_site_url": "https://web.archive.org/web/20151015055813/http://www.feinberg.northwestern.edu/sites/neurosurgery/education/residency/current-residents.html",
+  "external_url": null,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-shanna-fang-xylgb79",
+    "type": "search_snippet",
+    "evidence": "Shanna Fang, MD, Neurosurgery, Mayo Clinic-Rochester, NPI 1992199806 (no education shown)"
+   }
+  ],
+  "ident_searches": 6,
+  "sources_count": 1,
+  "residency_stated": [],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "41:lui:fernandez",
+  "name": "Luis Fernandez",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Northwestern alumni page 2025 (Luis Fernandez III, Cleveland Clinic skull base fellowship) + Doximity Neurosurgery Baylor 2018 with IL license 2018-2025, OH 2025 (Cleveland) and Healthgrades 'Neurosurgeon Cleveland OH, Baylor 2018, NM affiliations'. The Tyler TX Doximity page (bae2f13f) shows psychiatry board certs and is a merged namesake profile; a Tyler trauma surgeon Luis Fernandez is a different person.",
+  "outcome": "completed",
+  "outcome_detail": "Completed Northwestern neurosurgery 2025; skull base fellowship Cleveland Clinic 2025-26. No current faculty/practice bio found.",
+  "current": "skull base fellow, Cleveland Clinic (2025-26)",
+  "evidence_level": "silver",
+  "program_site_url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+  "external_url": "https://www.doximity.com/pub/luis-fernandez-md-823e757e",
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/alumni.html",
+    "type": "program_page",
+    "evidence": "Luis Fernandez III, MD - Advanced Endoscopic & Open Skull Base Surgery Fellowship, Cleveland Clinic (2025)"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-luis-fernandez-xynpj3r",
+    "type": "search_snippet",
+    "evidence": "Dr. Luis Fernandez III, MD - Neurosurgeon in Cleveland, OH"
+   }
+  ],
+  "ident_searches": 4,
+  "sources_count": 3,
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "41:lei:liu",
+  "name": "Lei Liu",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Northwestern current-residents page (PGY5, Univ. Virginia) + Doximity Lei Liu (251 E Huron St, UVA Class of 2022, IL license 2022). Healthgrades 'Lei Liu MD PhD neurosurgeon, Lurie Children's' is an established-attending namesake, not this resident.",
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5 on 2026-27 Northwestern page.",
+  "current": "neurosurgery resident, Northwestern",
+  "evidence_level": "silver",
+  "program_site_url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+  "external_url": "https://www.doximity.com/pub/lei-liu-md-d1472c0e",
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "PGY5: Lei Liu, MD, University of Virginia"
+   },
+   {
+    "url": "https://www.doximity.com/pub/lei-liu-md-d1472c0e",
+    "type": "doximity",
+    "evidence": "University of Virginia School of Medicine Class of 2022; 251 E Huron St Chicago"
+   }
+  ],
+  "ident_searches": 2,
+  "sources_count": 2,
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "42:man:revuelta",
+  "name": "Manuel Revuelta",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "Augusta/MCG resident profile snippet: PGY-1, Universidad Nacional de Cordoba, Puerta de Hierro Madrid; Emory bio: MD Univ. Nacional de Cordoba 2009, PhD Autonomous Univ. Madrid, PGY-5 neurosurgery. Same distinctive credentials. Live MCG 2026 page no longer lists him.",
+  "outcome": "transferred",
+  "outcome_detail": "PGY-1 at MCG 2022-23; now Emory neurosurgery resident listed PGY-5 in 2026-27 (implies credit for prior year; Emory bio does not mention MCG). Transfer year approx 2023.",
+  "year_left": 2023,
+  "destination_program": "Emory University",
+  "destination_start_year": 2023,
+  "current": "neurosurgery resident PGY-5, Emory",
+  "evidence_level": "silver",
+  "program_site_url": "https://web.archive.org/web/20230607021424/https://www.augusta.edu/mcg/neurosurgery/residents/",
+  "external_url": "https://med.emory.edu/departments/neurosurgery/education/residency/resident_bios/revuelta-barbero_manuel.html",
+  "sources": [
+   {
+    "url": "https://med.emory.edu/departments/neurosurgery/education/residency/resident_bios/revuelta-barbero_manuel.html",
+    "type": "bio",
+    "evidence": "PGY-5; Universidad Nacional de Cordoba 2009; Autonomous University of Madrid PhD"
+   },
+   {
+    "url": "https://web2.augusta.edu/mcg/neurosurgery/residents/",
+    "type": "search_snippet",
+    "evidence": "Manuel Revuelta, MD, PhD PGY-1 resident (search summary of earlier MCG page); not on current page"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 3,
+  "residency_stated": [
+   {
+    "institution": "Emory University",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "43:fat:conteh",
+  "name": "Fatu Conteh",
+  "program_id": 43,
+  "identity": "confirmed",
+  "identity_basis": "MCW rosters 2018-2020 (Wayback) + STAT News 2022 (Rutgers RWJ MD, left MCW neurosurgery residency June 2020) + Loma Linda residents page (Fatu Conteh, PGY 5, Rutgers Robert Wood Johnson) + Mission Brain event page (PGY-4, Loma Linda).",
+  "outcome": "transferred",
+  "outcome_detail": "Left MCW June 2020 after PGY-2; spent time in Sierra Leone; now Loma Linda neurosurgery resident (PGY-5 in 2026-27, so LLU start about 2022).",
+  "year_left": 2020,
+  "destination_program": "Loma Linda University",
+  "destination_start_year": 2022,
+  "current": "neurosurgery resident PGY-5, Loma Linda University",
+  "evidence_level": "silver",
+  "program_site_url": "https://web.archive.org/web/20191019100757/https://www.mcw.edu/departments/neurosurgery/people/residents",
+  "external_url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+  "sources": [
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Fatu Conteh, MD | PGY 5 | Rutgers Robertwood Johnson"
+   },
+   {
+    "url": "https://www.statnews.com/2022/06/20/black-doctors-forced-out-of-training-programs-at-far-higher-rates-than-white-residents/",
+    "type": "news",
+    "evidence": "residency at Medical College of Wisconsin; left in June 2020"
+   },
+   {
+    "url": "https://www.missionbrain.org/learning-center-post/beyond-borders-global-neurosurgery-engagement-for-residents",
+    "type": "news",
+    "evidence": "PGY-4, Loma Linda University"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 4,
+  "residency_stated": [],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "43:huy:truong",
+  "name": "Huy Truong",
+  "program_id": 43,
+  "identity": "confirmed",
+  "identity_basis": "MCW people page 'Neurosurgery Resident, Class of 2027' (MD Univ. of Medicine and Pharmacy of Ho Chi Minh City) + Doximity/US News/ResearchGate listings for Wauwatosa WI MCW/Froedtert neurosurgery with same school; MCW rosters 2020-2023 (Wayback).",
+  "outcome": "in_training",
+  "outcome_detail": "Class of 2027 (entry 2020, 7-year).",
+  "current": "neurosurgery resident, MCW",
+  "evidence_level": "silver",
+  "program_site_url": "https://www.mcw.edu/departments/neurosurgery/people/huy-truong-md",
+  "external_url": "https://www.doximity.com/pub/huy-truong-md-df09a648",
+  "sources": [
+   {
+    "url": "https://www.mcw.edu/departments/neurosurgery/people/huy-truong-md",
+    "type": "program_page",
+    "evidence": "Neurosurgery Resident, Class of 2027; MD University of Medicine and Pharmacy of Ho Chi Minh City"
+   },
+   {
+    "url": "https://www.doximity.com/pub/huy-truong-md-df09a648",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery, Wauwatosa WI"
+   }
+  ],
+  "ident_searches": 1,
+  "sources_count": 2,
+  "residency_stated": [
+   {
+    "institution": "Medical College of Wisconsin Affiliated Hospitals",
+    "specialty": "neurosurgery",
+    "start": 2020
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "44:lui:liogier-weyback",
+  "name": "Luis Liogier-Weyback",
+  "program_id": 44,
+  "identity": "confirmed",
+  "identity_basis": "ComCan Healthcare practice bio (search snippet): resident physician in neurological surgery at MUSC July 2014-August 2017; matches MUSC rosters 2014-2017 (Wayback); distinctive name; EVMS MD 2014.",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left MUSC neurosurgery Aug 2017 (roughly PGY-3/4) without completing; now founder of Doctor Jane medical cannabis practice (South Florida) and chair of Journal of Cannabinoid Medicine editors. Listed 'neurosurgery-trained'; no ABNS or evidence of neurosurgical practice. Destination program (if any) not found.",
+  "year_left": 2017,
+  "current": "President/founder, Doctor Jane (concierge medical cannabis), Wellington FL",
+  "evidence_level": "gold",
+  "program_site_url": "https://web.archive.org/web/20141225034741/http://academicdepartments.musc.edu:80/neurosciences/neurosurgery/academics/neurosurgery_residency/our_team/current_residents.html",
+  "external_url": "https://www.comcanhealthcare.com/team/dr-luis-enrique-liogier-weyback/",
+  "sources": [
+   {
+    "url": "https://www.comcanhealthcare.com/team/dr-luis-enrique-liogier-weyback/",
+    "type": "search_snippet",
+    "evidence": "Resident Physician in Neurological Surgery at MUSC from July 2014 to August 2017; President and Founder of Doctor Jane"
+   },
+   {
+    "url": "https://cannadelic.miami/speaker/dr-luis-enrique-r-liogier-weyback/",
+    "type": "search_snippet",
+    "evidence": "neurosurgery-trained physician ... President and founder of Doctor Jane"
+   }
+  ],
+  "ident_searches": 2,
+  "sources_count": 3,
+  "residency_stated": [
+   {
+    "institution": "Medical University of South Carolina",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": null
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "44:aim:weber",
+  "name": "Aimee Weber",
+  "program_id": 44,
+  "identity": "confirmed",
+  "identity_basis": "MUSC rosters 2019-2026 + WebMD/Healthgrades/Vitals (Aimee C. Weber, MUSC MD 2019, Neurological Surgery Charleston, MUSC Medical Center) + MUSC fMRI-guided DBS paper. Distinctive combination.",
+  "outcome": "completed",
+  "outcome_detail": "PGY-7 in 2025-26, absent from 2026-27 MUSC roster (graduated 2026). No practice bio or announcement found; aggregator listings still show MUSC.",
+  "current": "unknown (no post-residency position found)",
+  "evidence_level": "program_only",
+  "program_site_url": "https://web.archive.org/web/20191115230706/https://medicine.musc.edu/departments/neurosurgery/academics/neurosurgery-residency/current-residents",
+  "external_url": "https://doctor.webmd.com/doctor/aimee-weber-086e8059-1e60-46ec-aa35-9978d3c8cf3b-overview",
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/aimee-weber-086e8059-1e60-46ec-aa35-9978d3c8cf3b-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery, Charleston SC, MUSC; MUSC College of Medicine 2019"
+   },
+   {
+    "url": "https://medicine.musc.edu/departments/neurosurgery/education/residency/residents",
+    "type": "program_page",
+    "evidence": "2026-27 roster (PGY1-7) does not list Weber"
+   }
+  ],
+  "ident_searches": 3,
+  "sources_count": 3,
+  "residency_stated": [
+   {
+    "institution": "Medical University of South Carolina",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ },
+ {
+  "key": "44:aru:gunasekaran",
+  "name": "Arunprasad Gunasekaran",
+  "program_id": 44,
+  "identity": "confirmed",
+  "identity_basis": "MUSC rosters 2019-2026 + WebMD (Arunprasad Gunasekaran, Neurological Surgery Charleston, UAMS 2019) + Doximity as Arun Gunasekaran (UAMS 2019, SC license 2019-2026, GA license 2026-2028) + MUSC-coauthored papers (Saway).",
+  "outcome": "completed",
+  "outcome_detail": "PGY-7 in 2025-26, absent from 2026-27 roster; new GA license 2026 suggests neurosurgery job in Georgia; no practice bio found.",
+  "current": "likely neurosurgeon in Georgia (GA license 2026); unconfirmed",
+  "evidence_level": "silver",
+  "program_site_url": "https://web.archive.org/web/20191115230706/https://medicine.musc.edu/departments/neurosurgery/academics/neurosurgery-residency/current-residents",
+  "external_url": "https://www.doximity.com/pub/arun-gunasekaran-md",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/arun-gunasekaran-md",
+    "type": "search_snippet",
+    "evidence": "Arun Gunasekaran MD, Charleston SC; UAMS 2019; neurosurgery resident physician; GA license 2026"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/arunprasad-gunasekaran-f97fc800-0f20-47ed-9de7-66541d25c68f-overview",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery, Charleston SC; Univ. of Arkansas for Medical Sciences 2019"
+   }
+  ],
+  "ident_searches": 2,
+  "sources_count": 3,
+  "residency_stated": [
+   {
+    "institution": "Medical University of South Carolina",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked",
+   "usnews": "deferred"
+  }
+ }
+]

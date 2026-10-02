@@ -1,0 +1,563 @@
+[
+ {
+  "program_id": 125,
+  "program": "Wayne State University / Detroit Medical Center Program",
+  "target_years": [
+   "2023-2024"
+  ],
+  "handle": null,
+  "names_found": [],
+  "missing_from_our_data": [],
+  "note": "Program closed 2020-06-30 per input (never re-established); no residents possible in 2023-2024. No search spent."
+ },
+ {
+  "program_id": 45,
+  "program": "MedStar Health Georgetown University Program",
+  "target_years": [
+   "2015-2016",
+   "2017-2018",
+   "2018-2019"
+  ],
+  "handle": "@georgetownnsgy",
+  "names_found": [
+   {
+    "name": "Jason McGowan",
+    "year": "2018",
+    "context": "graduate (program recent-graduates page)",
+    "source": "https://www.medstarhealth.org/education/residency-programs/neurosurgery/recent-graduates",
+    "snippet_only": true
+   },
+   {
+    "name": "Tushar Jha",
+    "year": "2018",
+    "context": "graduate",
+    "source": "https://www.medstarhealth.org/education/residency-programs/neurosurgery/recent-graduates",
+    "snippet_only": true
+   },
+   {
+    "name": "Daniel Felbaum",
+    "year": "2017",
+    "context": "graduate",
+    "source": "https://www.medstarhealth.org/education/residency-programs/neurosurgery/recent-graduates",
+    "snippet_only": true
+   },
+   {
+    "name": "Joshua Ryan",
+    "year": "2017",
+    "context": "graduate",
+    "source": "https://www.medstarhealth.org/education/residency-programs/neurosurgery/recent-graduates",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "Handle found via a 2024 visiting-professor post (x.com/StavTjoumakaris/status/1781017173164482914). No X/IG posts from 2015-2019 indexed. All graduate names seen are already held. 3 searches."
+ },
+ {
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "target_years": [
+   "2015-2016",
+   "2018-2019"
+  ],
+  "handle": "@SLUNeurosurgery",
+  "names_found": [],
+  "missing_from_our_data": [],
+  "note": "Handle @SLUNeurosurgery found; only 2024/2025 match posts indexed (no names in snippets). No 2015-2019 X/IG posts or matched-name posts found. 3 searches."
+ },
+ {
+  "program_id": 124,
+  "program": "Zucker School of Medicine at Hofstra/Northwell Program",
+  "target_years": [
+   "2015-2016",
+   "2018-2019"
+  ],
+  "handle": "@NWHNeurosurgery (unofficial resident account per search)",
+  "names_found": [
+   {
+    "name": "Daniel Schneider",
+    "year": "2024-2025",
+    "context": "PGY7 on 2024-2025 roster PDF",
+    "source": "https://physicians.northwell.edu/sites/northwell.edu/files/2024-08/zucker-school-of-medicine-neurosurgery-residents-2024-2025.pdf",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "No 2015-2019 X/IG match posts indexed. 2018 class = Schneider + Prashin Unadkat (Unadkat held in merged_final with entry_year 2018, not in residents_we_hold list). 3 searches."
+ },
+ {
+  "program_id": 57,
+  "program": "Rutgers Health/New Jersey Medical School Program",
+  "target_years": [
+   "2015-2016",
+   "2017-2018",
+   "2018-2019"
+  ],
+  "handle": "@RUNeurosurgery (Rutgers Neurosurgery; appears to be RWJ-side account)",
+  "names_found": [
+   {
+    "name": "Ryan Radwanski",
+    "year": "2021",
+    "context": "welcome post (outside target years; likely RWJMS program)",
+    "source": "https://x.com/RUNeurosurgery/status/1375105835060322310",
+    "snippet_only": true
+   },
+   {
+    "name": "Nemanja Novakovic",
+    "year": "2021",
+    "context": "welcome post (outside target years; likely RWJMS program)",
+    "source": "https://x.com/RUNeurosurgery/status/1375105835060322310",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "No NJMS posts for 2015-2019 indexed. merged_final already holds 2017-2018 entrants not in residents_we_hold (Talbot, Purvee Patel, Wong, Jani, etc.). 3 searches."
+ },
+ {
+  "program_id": 25,
+  "program": "Henry Ford Providence Hospital Program",
+  "target_years": [
+   "2017-2018",
+   "2018-2019"
+  ],
+  "handle": null,
+  "names_found": [],
+  "missing_from_our_data": [],
+  "note": "No program X/IG handle found; no indexed welcome/match posts or medical-school match-list entries naming residents for 2017-2019. 3 searches."
+ },
+ {
+  "program_id": 96,
+  "program": "University of Nebraska Medical Center College of Medicine Program",
+  "target_years": [
+   "2017-2018",
+   "2018-2019"
+  ],
+  "handle": "@UNMC_NeuroSurg",
+  "names_found": [
+   {
+    "name": "Joseph Menousek",
+    "year": "2017",
+    "context": "match (UNMC Match Day news)",
+    "source": "https://www.unmc.edu/newsroom/2017/03/17/123-unmc-senior-medical-students-receive-residency-assignments/",
+    "snippet_only": true
+   },
+   {
+    "name": "Frank Mezzacappa",
+    "year": "2018",
+    "context": "match (UNMC Match Day news)",
+    "source": "https://www.unmc.edu/newsroom/2018/03/16/121-unmc-medical-students-receive-residency-assignments/",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "Handle posts indexed only for 2025 (Chris Brown, Cody Heskett; outside window). All target-year names found are held. 2 searches."
+ },
+ {
+  "program_id": 29,
+  "program": "Inova Fairfax Hospital Campus Program",
+  "target_years": [
+   "2017-2018",
+   "2018-2019",
+   "2023-2024"
+  ],
+  "handle": null,
+  "names_found": [],
+  "missing_from_our_data": [],
+  "note": "No program X handle found (only Inova OB/GYN). Program started 2017, 1 resident/yr; held entrants 2017 Mansinghani, 2018 Dang, 2023 Sterner match that size. No indexed welcome/match posts. 2 searches."
+ },
+ {
+  "program_id": 114,
+  "program": "University of Washington Program",
+  "target_years": [
+   "2017-2018",
+   "2018-2019",
+   "2023-2024"
+  ],
+  "handle": "@UWNeurosurgery",
+  "names_found": [
+   {
+    "name": "Fatima El-ghazali",
+    "year": "2023",
+    "context": "welcome (Meet Our Newest Residents)",
+    "source": "https://neurosurgery.uw.edu/news-and-resources/meet-our-newest-uw-neurological-surgery-residents-0",
+    "snippet_only": true
+   },
+   {
+    "name": "Nick Hug",
+    "year": "2023",
+    "context": "welcome",
+    "source": "https://neurosurgery.uw.edu/news-and-resources/meet-our-newest-uw-neurological-surgery-residents-0",
+    "snippet_only": true
+   },
+   {
+    "name": "Christine Park",
+    "year": "2023",
+    "context": "welcome",
+    "source": "https://neurosurgery.uw.edu/news-and-resources/meet-our-newest-uw-neurological-surgery-residents-0",
+    "snippet_only": true
+   },
+   {
+    "name": "Chiagoziem Anigbogu, Tom Hanks, Anne Lally, Denis Routkevitch",
+    "year": "2026",
+    "context": "welcome X post (outside window; all held)",
+    "source": "https://x.com/UWNeurosurgery",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "2023 class (Park, El-ghazali, Hug) matches held. NRMP: 3/3 matched in 2017 and 2018; held 2017 Barros/Greil/Sen (+Sivakanthan transfer from UNM), 2018 Pan/Eaton/Carroll. No 2017-2018 X posts indexed. 3 searches."
+ },
+ {
+  "program_id": 31,
+  "program": "Loma Linda University Health Education Consortium Program",
+  "target_years": [
+   "2017-2018",
+   "2018-2019",
+   "2023-2024"
+  ],
+  "handle": null,
+  "names_found": [
+   {
+    "name": "Marc Eastin",
+    "year": "2024",
+    "context": "alumni (completed June 2024)",
+    "source": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/alumni",
+    "snippet_only": true
+   },
+   {
+    "name": "Dinesh Ramanathan",
+    "year": "2023",
+    "context": "alumni (completed June 2023)",
+    "source": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/alumni",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "No program X/IG handle found; no indexed match/welcome posts. 2023 entrant in merged_final is Jorge Roa Loor (first_seen 2024-2025), not in residents_we_hold list but held. Alumni/current pages show only held names. 3 searches."
+ },
+ {
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine Program",
+  "target_years": [
+   "2017-2018",
+   "2018-2019",
+   "2023-2024"
+  ],
+  "handle": "@UNMNeurosurgery",
+  "names_found": [
+   {
+    "name": "Syed Faraz Kazim",
+    "year": "2022",
+    "context": "first resident of re-accredited program, started 2022-07-01",
+    "source": "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency/residency-index.html",
+    "snippet_only": false
+   },
+   {
+    "name": "Kavelin Rumalla",
+    "year": "2023 (inferred)",
+    "context": "roster: PGY-3 when Kazim PGY-4 => PGY-1 in 2023-2024",
+    "source": "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency/our-residents.html",
+    "snippet_only": false
+   },
+   {
+    "name": "Akshay Bhamidipati",
+    "year": "2024",
+    "context": "welcome post Oct 2024 (PGY-1)",
+    "source": "https://x.com/unmneurosurgery",
+    "snippet_only": true
+   },
+   {
+    "name": "Joshua Marquez",
+    "year": "2025",
+    "context": "news: 'three months into' residency, article dated 2025-10-07",
+    "source": "https://hscnews.unm.edu/news/home-grown-residents-how-unm-residency-programs-are-keeping-medical-professionals-in-state",
+    "snippet_only": false
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "2023 '0 vs 1 matched' gap is explained by Kavelin Rumalla: held in merged_final with entry_year 2022 (first_seen 2024-2025), but the UNM roster lists him one PGY below Kazim (2022 entrant), and the program took only 1 resident/yr after re-accreditation, so he is almost certainly the 2023 entrant. Suggest entry_year 2022->2023. Marquez entered 2025 (consistent with our data). No 2017-2019 posts found. 4 searches + 3 fetches."
+ },
+ {
+  "program_id": 53,
+  "program": "Penn State Milton S Hershey Medical Center Program",
+  "target_years": [
+   "2017-2018",
+   "2018-2019",
+   "2023-2024"
+  ],
+  "handle": "@PennStNeurosurg",
+  "names_found": [
+   {
+    "name": "Mitchell Paro",
+    "year": "2023",
+    "context": "match welcome #Match2023",
+    "source": "https://x.com/PennStNeurosurg/status/1636800063950450688",
+    "snippet_only": true
+   },
+   {
+    "name": "Mallory Peterson",
+    "year": "2023",
+    "context": "match welcome #Match2023 (surname only: 'Peterson')",
+    "source": "https://x.com/PennStNeurosurg/status/1636800063950450688",
+    "snippet_only": true
+   },
+   {
+    "name": "Scott Kamen",
+    "year": "2023",
+    "context": "match welcome #Match2023 (surname only: 'Kamen')",
+    "source": "https://x.com/PennStNeurosurg/status/1636800063950450688",
+    "snippet_only": true
+   },
+   {
+    "name": "Dennis Madden",
+    "year": "2021",
+    "context": "match (outside window)",
+    "source": "https://x.com/LDaggubatiMD/status/1372952869410902018",
+    "snippet_only": true
+   },
+   {
+    "name": "Sarah McNutt",
+    "year": "2021",
+    "context": "match (outside window)",
+    "source": "https://x.com/LDaggubatiMD/status/1372952869410902018",
+    "snippet_only": true
+   },
+   {
+    "name": "Michael Gigliotti",
+    "year": "2021",
+    "context": "match (outside window)",
+    "source": "https://x.com/LDaggubatiMD/status/1372952869410902018",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "2023 class (Paro, Peterson, Kamen) all held in merged_final (Peterson and Kamen not in residents_we_hold list but present with entry 2023). No 2017-2019 posts indexed. 4 searches."
+ },
+ {
+  "program_id": 8,
+  "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+  "target_years": [
+   "2015-2016",
+   "2017-2018",
+   "2018-2019"
+  ],
+  "handle": null,
+  "names_found": [
+   {
+    "name": "Brittany Stopa",
+    "year": "2023",
+    "context": "self-described incoming Carilion NS intern (outside window)",
+    "source": "https://x.com/BrittanyMStopa/status/1649100676855742500",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "No program X handle found. 1 position/yr; held entrants 2015 Benko, 2016 Klein, 2017 Guilliams, 2018 Cuoco form an unbroken chain. No 2015-2019 posts naming residents. 2 searches."
+ },
+ {
+  "program_id": 111,
+  "program": "University of Utah Health Program",
+  "target_years": [
+   "2018-2019"
+  ],
+  "handle": "@UofUNeurosurg",
+  "names_found": [
+   {
+    "name": "Cordell Baker",
+    "year": "2018",
+    "context": "incoming residents (department page snippet)",
+    "source": "https://medicine.utah.edu/neurosurgery/residency/alumni",
+    "snippet_only": true
+   },
+   {
+    "name": "Nicholas Gamboa",
+    "year": "2018",
+    "context": "incoming residents",
+    "source": "https://medicine.utah.edu/neurosurgery/residency/alumni",
+    "snippet_only": true
+   },
+   {
+    "name": "Brandon Sherrod",
+    "year": "2018",
+    "context": "incoming residents",
+    "source": "https://medicine.utah.edu/neurosurgery/residency/alumni",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "2018 class = Baker, Gamboa, Sherrod (3/3 filled), all held. No 2018 X posts indexed. 2 searches."
+ },
+ {
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "target_years": [
+   "2023-2024"
+  ],
+  "handle": "@UMneurosurgery",
+  "names_found": [
+   {
+    "name": "Seth Tigchelaar",
+    "year": "2023",
+    "context": "current residents page: started 07/2023",
+    "source": "https://med.miami.edu/departments/neurosurgery/education/residency-program/current-residents",
+    "snippet_only": true
+   },
+   {
+    "name": "Mary Margaret O'Hehir",
+    "year": "2023",
+    "context": "current residents page",
+    "source": "https://med.miami.edu/departments/neurosurgery/education/residency-program/current-residents",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "2023 class in merged_final = Tigchelaar, Govindarajan, O'Hehir (O'Hehir held with entry 2023, not in residents_we_hold list) = 3 matched. No 2023 match X post indexed (only 2021 post without names). 2 searches."
+ },
+ {
+  "program_id": 89,
+  "program": "University of Maryland Program",
+  "target_years": [
+   "2015-2016"
+  ],
+  "handle": "@UMDNeurosurgery",
+  "names_found": [
+   {
+    "name": "Timothy Chryssikos",
+    "year": "2015 (entry; completed 2022)",
+    "context": "physician profile / alumni",
+    "source": "https://www.umms.org/find-a-doctor/profiles/dr-timothy-james-chryssikos-md--phd-1841673332",
+    "snippet_only": true
+   },
+   {
+    "name": "Gregory Cannarsa",
+    "year": "2015 (entry; completed 2022)",
+    "context": "alumni / practice bio",
+    "source": "https://www.apexbrainandspine.com/gregory-cannarsa-md",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "2015 class (2 matched) = Cannarsa, Chryssikos, both held. No 2015-2016 X posts indexed. 2 searches."
+ },
+ {
+  "program_id": 63,
+  "program": "SUNY Upstate Medical University Program",
+  "target_years": [
+   "2015-2016"
+  ],
+  "handle": "@UpstateNSurg",
+  "names_found": [
+   {
+    "name": "Carlos Goulart",
+    "year": "2022 grad (2015 entry)",
+    "context": "graduates list",
+    "source": "https://www.upstate.edu/neurosurgery/education/graduates.php",
+    "snippet_only": true
+   },
+   {
+    "name": "Shawn Rai",
+    "year": "2022 grad (2015 entry)",
+    "context": "graduates list",
+    "source": "https://www.upstate.edu/neurosurgery/education/graduates.php",
+    "snippet_only": true
+   },
+   {
+    "name": "Stephanie Zyck",
+    "year": "2021 grad",
+    "context": "graduates list",
+    "source": "https://www.upstate.edu/neurosurgery/education/graduates.php",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "Graduates page (403 to direct fetch; via snippet) shows only held names for the relevant cohorts. Handle @UpstateNSurg found; no 2015-2016 posts indexed. 2 searches + 1 failed fetch."
+ },
+ {
+  "program_id": 79,
+  "program": "University of Cincinnati Medical Center/College of Medicine Program",
+  "target_years": [
+   "2015-2016"
+  ],
+  "handle": "@UCNeurosurgery",
+  "names_found": [
+   {
+    "name": "Zachary Plummer",
+    "year": "2015 entry (completed 2022)",
+    "context": "physician profile",
+    "source": "https://www.healthgrades.com/physician/dr-zachary-plummer-xyldwyw",
+    "snippet_only": true
+   },
+   {
+    "name": "Michael Robinson",
+    "year": "2015 entry (intern 2016, completed 2022)",
+    "context": "provider bio",
+    "source": "https://www.trihealth.com/provider/Michael-Robinson/2638717",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "2015 class (2 matched) = Plummer, Robinson, both held. No 2015-2016 X posts indexed. 2 searches."
+ },
+ {
+  "program_id": 28,
+  "program": "Indiana University School of Medicine Program",
+  "target_years": [
+   "2018-2019"
+  ],
+  "handle": "@Neurosurgery_IU",
+  "names_found": [
+   {
+    "name": "Hailey Budnick",
+    "year": "2018 entry (2025 alumni)",
+    "context": "alumni list",
+    "source": "https://medicine.iu.edu/neurological-surgery/education/residency/alumni",
+    "snippet_only": true
+   },
+   {
+    "name": "Josue Ordaz",
+    "year": "2018 entry (2025 alumni)",
+    "context": "alumni list",
+    "source": "https://medicine.iu.edu/neurological-surgery/education/residency/alumni",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "2018: 3/3 filled = Budnick, Ordaz + Blake Priddy (held in merged_final, entry 2018, switched_specialty; not in residents_we_hold list). Handle posts indexed only for later classes (Finger, Lavadi, Christodoulides, Cloyd, Palma). 2 searches."
+ },
+ {
+  "program_id": 110,
+  "program": "University of Texas Southwestern Medical Center Program",
+  "target_years": [
+   "2018-2019"
+  ],
+  "handle": "@UTSWNeurosurg (also @UTSWNSResidency)",
+  "names_found": [],
+  "missing_from_our_data": [],
+  "note": "2018 class (2 matched) = Julia Yi, Mary Ashley Liu, both held. No 2018-2019 X posts or match-list snippets naming residents indexed (handle posts found only for 2025). 2 searches."
+ },
+ {
+  "program_id": 84,
+  "program": "University of Illinois College of Medicine at Peoria Program",
+  "target_years": [
+   "2018-2019"
+  ],
+  "handle": "@PeoriaNeurosurg (IG @peoria_neurosurg)",
+  "names_found": [
+   {
+    "name": "Sven Ivankovic",
+    "year": "2018 entry (residency 2018-2025)",
+    "context": "profile",
+    "source": "https://www.doximity.com/pub/sven-ivankovic-md",
+    "snippet_only": true
+   },
+   {
+    "name": "Taylor Sommer",
+    "year": "2018 (MD 2018, NS in Peoria)",
+    "context": "profile",
+    "source": "https://www.doximity.com/pub/sven-ivankovic-md",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "2018 class (2 matched) = Ivankovic, Sommer, both held (Doximity used only as a lead). No 2018 X/IG posts indexed. 2 searches."
+ }
+]

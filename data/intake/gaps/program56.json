@@ -1,0 +1,317 @@
+{
+ "program_id": 56,
+ "name": "Rush University Medical Center Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.rush.edu/professionals/gme/neurosurgery/residents-fellows.html",
+   "from": "2001",
+   "to": "2011-06",
+   "note": "roster (2010-11 content)"
+  },
+  {
+   "url": "http://www.rush.edu/professionals/gme/neurosurgery/index.html",
+   "from": "2011-12",
+   "to": "2013-04",
+   "note": "meta-refresh stub to rushu servlet"
+  },
+  {
+   "url": "http://www.rushu.rush.edu/servlet/Satellite?c=RushUnivLevel3Page&cid=1249914457241",
+   "from": "2012-05",
+   "to": "2016-06",
+   "note": "GME > Neurosurgery; no roster"
+  },
+  {
+   "url": "http://www.rushu.rush.edu/servlet/Satellite?c=RushUnivLevel4Page&cid=1306073857793 (also cid=1320161224476)",
+   "from": "2013",
+   "to": "2016",
+   "note": "Faculty & Housestaff; links roster block cid=1307369094954, never archived"
+  },
+  {
+   "url": "https://www.rushu.rush.edu/education-and-training/graduate-medical-education/residency-programs/neurosurgery-residency",
+   "from": "2016-07",
+   "to": "2024-05",
+   "note": "no roster"
+  },
+  {
+   "url": "https://www.rushu.rush.edu/education-and-training/graduate-medical-education/residency-programs/neurosurgery-residency/meet-our-residents",
+   "from": "2019-08",
+   "to": "2024-06",
+   "note": "roster"
+  },
+  {
+   "url": "https://www.rushu.rush.edu/education-and-training/.../neurosurgery-residency/alumni-where-are-they-now (-> alumni-where-did-they-go-after-graduating)",
+   "from": "2022-08",
+   "to": "2024-07",
+   "note": "alumni"
+  },
+  {
+   "url": "https://www.rushu.rush.edu/education-training/graduate-medical-education/residency-programs/neurosurgery-residency/meet-our-residents",
+   "from": "2024-08",
+   "to": "2026-09-28 (live)",
+   "note": "roster"
+  },
+  {
+   "url": "https://www.rushu.rush.edu/education-training/graduate-medical-education/residency-programs/neurosurgery-residency/alumni-where-did-go-after-graduating",
+   "from": "2024",
+   "to": "2026-09-28 (live)",
+   "note": "alumni 2001-2026"
+  },
+  {
+   "url": "https://www.rushu.rush.edu/rush-medical-college/departments/department-neurological-surgery",
+   "from": "2016-06",
+   "to": "live",
+   "note": "department page (DB website); no roster"
+  }
+ ],
+ "observed_years": [
+  "2018-2019",
+  "2019-2020",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2020-2021"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "2011-12..2017-18 resident list (FatWire content block cid=1307369094954) never archived; phase 2 re-audited 2011-2019: 4,074 Wayback content_block captures (no neurosurgery block; nearby cids 1306073859695/712, 1307369092771, 1307969208400/9746 are unrelated), 134 level-4 pages, old rush.edu/professionals/gme/ (resident photo files 404 by 2013), rushu GME and department paths, rush.edu/news. Independent evidence instead: alumni list 2001-2026 (complete per class), PubMed affiliation mining 2010-2019 (737 papers, every non-faculty name checked), and cross-program rosters. Found: David Wallace (2012 entrant, left after PGY3 2014-15 to UT San Antonio, from his UTHSA bio) and Owoicho Adogwa was a Duke resident 2012-15 who joined Rush at PGY4 in 2015-16 (he had been wrongly reconstructed as a 2012 Rush entrant). Every entry class now matches the complement (2 per year to 2013, then alternating 3/2: 2014 3, 2015 2, 2016 3, 2017 2), so no open slot suggests another unseen departure.",
+  "2012-2013": "2011-12..2017-18 resident list (FatWire content block cid=1307369094954) never archived; phase 2 re-audited 2011-2019: 4,074 Wayback content_block captures (no neurosurgery block; nearby cids 1306073859695/712, 1307369092771, 1307969208400/9746 are unrelated), 134 level-4 pages, old rush.edu/professionals/gme/ (resident photo files 404 by 2013), rushu GME and department paths, rush.edu/news. Independent evidence instead: alumni list 2001-2026 (complete per class), PubMed affiliation mining 2010-2019 (737 papers, every non-faculty name checked), and cross-program rosters. Found: David Wallace (2012 entrant, left after PGY3 2014-15 to UT San Antonio, from his UTHSA bio) and Owoicho Adogwa was a Duke resident 2012-15 who joined Rush at PGY4 in 2015-16 (he had been wrongly reconstructed as a 2012 Rush entrant). Every entry class now matches the complement (2 per year to 2013, then alternating 3/2: 2014 3, 2015 2, 2016 3, 2017 2), so no open slot suggests another unseen departure.",
+  "2013-2014": "2011-12..2017-18 resident list (FatWire content block cid=1307369094954) never archived; phase 2 re-audited 2011-2019: 4,074 Wayback content_block captures (no neurosurgery block; nearby cids 1306073859695/712, 1307369092771, 1307969208400/9746 are unrelated), 134 level-4 pages, old rush.edu/professionals/gme/ (resident photo files 404 by 2013), rushu GME and department paths, rush.edu/news. Independent evidence instead: alumni list 2001-2026 (complete per class), PubMed affiliation mining 2010-2019 (737 papers, every non-faculty name checked), and cross-program rosters. Found: David Wallace (2012 entrant, left after PGY3 2014-15 to UT San Antonio, from his UTHSA bio) and Owoicho Adogwa was a Duke resident 2012-15 who joined Rush at PGY4 in 2015-16 (he had been wrongly reconstructed as a 2012 Rush entrant). Every entry class now matches the complement (2 per year to 2013, then alternating 3/2: 2014 3, 2015 2, 2016 3, 2017 2), so no open slot suggests another unseen departure.",
+  "2014-2015": "2011-12..2017-18 resident list (FatWire content block cid=1307369094954) never archived; phase 2 re-audited 2011-2019: 4,074 Wayback content_block captures (no neurosurgery block; nearby cids 1306073859695/712, 1307369092771, 1307969208400/9746 are unrelated), 134 level-4 pages, old rush.edu/professionals/gme/ (resident photo files 404 by 2013), rushu GME and department paths, rush.edu/news. Independent evidence instead: alumni list 2001-2026 (complete per class), PubMed affiliation mining 2010-2019 (737 papers, every non-faculty name checked), and cross-program rosters. Found: David Wallace (2012 entrant, left after PGY3 2014-15 to UT San Antonio, from his UTHSA bio) and Owoicho Adogwa was a Duke resident 2012-15 who joined Rush at PGY4 in 2015-16 (he had been wrongly reconstructed as a 2012 Rush entrant). Every entry class now matches the complement (2 per year to 2013, then alternating 3/2: 2014 3, 2015 2, 2016 3, 2017 2), so no open slot suggests another unseen departure.",
+  "2015-2016": "2011-12..2017-18 resident list (FatWire content block cid=1307369094954) never archived; phase 2 re-audited 2011-2019: 4,074 Wayback content_block captures (no neurosurgery block; nearby cids 1306073859695/712, 1307369092771, 1307969208400/9746 are unrelated), 134 level-4 pages, old rush.edu/professionals/gme/ (resident photo files 404 by 2013), rushu GME and department paths, rush.edu/news. Independent evidence instead: alumni list 2001-2026 (complete per class), PubMed affiliation mining 2010-2019 (737 papers, every non-faculty name checked), and cross-program rosters. Found: David Wallace (2012 entrant, left after PGY3 2014-15 to UT San Antonio, from his UTHSA bio) and Owoicho Adogwa was a Duke resident 2012-15 who joined Rush at PGY4 in 2015-16 (he had been wrongly reconstructed as a 2012 Rush entrant). Every entry class now matches the complement (2 per year to 2013, then alternating 3/2: 2014 3, 2015 2, 2016 3, 2017 2), so no open slot suggests another unseen departure.",
+  "2016-2017": "2011-12..2017-18 resident list (FatWire content block cid=1307369094954) never archived; phase 2 re-audited 2011-2019: 4,074 Wayback content_block captures (no neurosurgery block; nearby cids 1306073859695/712, 1307369092771, 1307969208400/9746 are unrelated), 134 level-4 pages, old rush.edu/professionals/gme/ (resident photo files 404 by 2013), rushu GME and department paths, rush.edu/news. Independent evidence instead: alumni list 2001-2026 (complete per class), PubMed affiliation mining 2010-2019 (737 papers, every non-faculty name checked), and cross-program rosters. Found: David Wallace (2012 entrant, left after PGY3 2014-15 to UT San Antonio, from his UTHSA bio) and Owoicho Adogwa was a Duke resident 2012-15 who joined Rush at PGY4 in 2015-16 (he had been wrongly reconstructed as a 2012 Rush entrant). Every entry class now matches the complement (2 per year to 2013, then alternating 3/2: 2014 3, 2015 2, 2016 3, 2017 2), so no open slot suggests another unseen departure.",
+  "2017-2018": "2011-12..2017-18 resident list (FatWire content block cid=1307369094954) never archived; phase 2 re-audited 2011-2019: 4,074 Wayback content_block captures (no neurosurgery block; nearby cids 1306073859695/712, 1307369092771, 1307969208400/9746 are unrelated), 134 level-4 pages, old rush.edu/professionals/gme/ (resident photo files 404 by 2013), rushu GME and department paths, rush.edu/news. Independent evidence instead: alumni list 2001-2026 (complete per class), PubMed affiliation mining 2010-2019 (737 papers, every non-faculty name checked), and cross-program rosters. Found: David Wallace (2012 entrant, left after PGY3 2014-15 to UT San Antonio, from his UTHSA bio) and Owoicho Adogwa was a Duke resident 2012-15 who joined Rush at PGY4 in 2015-16 (he had been wrongly reconstructed as a 2012 Rush entrant). Every entry class now matches the complement (2 per year to 2013, then alternating 3/2: 2014 3, 2015 2, 2016 3, 2017 2), so no open slot suggests another unseen departure.",
+  "2020-2021": "meet-our-residents has no Wayback capture between 2019-12-13 and 2022-08-09 (any status; prefix CDX 2020-2022 lists only the landing page, which has no names); Common Crawl 2020-05..2021-49 has only the landing page. Reconstructed: people on both 2019-20 and 2021-22 at consecutive PGYs plus alumni-confirmed 2021 grads. Not reconstructed: 2020 entrants Kelly/Mazza/Wolfson (first seen 2021-22 PGY2) and Krishna Joshi (first seen 2021-22 PGY5).",
+  "2022-2023": "OBSERVED BUT INCOMPLETE: Dec 2022 (= Mar 2023) capture omits the whole PGY-1 class (Otun, Richards, Olson appear 2023-24 as PGY-2). Any 2022 intern who left before 2023-24 would be unseen.",
+  "2018-2019": "Observed via Aug 2019 capture (first ever capture of meet-our-residents); CONTENT-DATED 2018-19 (Kerolus/Kochanski PGY6, become PGY7 in Dec 2019). No capture during 2018-19 itself; whether all 2018-19 residents were shown is unverifiable.",
+  "2026-2027": "Live page fetched 2026-09-28 (re-fetch; identical to 2026-09-27 save): advanced (Barrett, Shepherd new PGY1; Kolcun/Kolb gone). Kazuki Sakakura still listed PGY-1 (PGY-1 in 2025-26 too)."
+ },
+ "alumni_page": "https://www.rushu.rush.edu/education-training/graduate-medical-education/residency-programs/neurosurgery-residency/alumni-where-did-go-after-graduating",
+ "departures": [
+  {
+   "name": "David Wallace",
+   "last_ay": "2014-2015",
+   "last_pgy": 3,
+   "note": "NEW phase 2. Entry 2012 (Rush MD 2012). UTHSA bio: 'Residency - Rush University Medical Center, Department of Neurosurgery (2012-2015)' (https://web.archive.org/web/20201020235207/https://lsom.uthscsa.edu/neurosurgery/team-member/david-wallace-md/). TRANSFERRED to UT Health San Antonio (108): PGY4 2016-17, graduated 2020. Recorded in training_history."
+  },
+  {
+   "name": "Ravi Nunna",
+   "last_ay": "2018-2019",
+   "last_pgy": 4,
+   "note": "entry 2015; absent Dec 2019; not on alumni list. PubMed: UIC neurosurgery (research) 2020-22, then Missouri. TRANSFERRED to University of Missouri-Columbia (94): PGY5 2022-23, graduated 2025. Recorded."
+  },
+  {
+   "name": "Ayodamola Otun",
+   "last_ay": "2023-2024",
+   "last_pgy": 2,
+   "note": "entry 2022; absent Aug 2024 onward; not on alumni list. NPPES (2025-04) lists Anesthesiology, Milwaukee WI, but NPI only: destination unconfirmed (not on MCW anesthesiology pages checked). Recorded as completed=no, departure unknown."
+  },
+  {
+   "name": "Joseph Morrison",
+   "last_ay": "2023-2024",
+   "last_pgy": 6,
+   "note": "entry 2018; absent Aug 2024 onward; not on alumni list. NPPES (2024-07) trainee in Aurora CO, but not on the Colorado neurosurgery roster (80) 2024-27. Destination unknown. Recorded. NB: 16_adjudicate matches him to John Morrison (Buffalo 2018) by initial+surname and prints TRANSFERRED (Buffalo); that is wrong."
+  },
+  {
+   "name": "Mychael Delgardo",
+   "last_ay": "2024-2025",
+   "last_pgy": 1,
+   "note": "PGY-1 Aug 2024-May 2025; absent Jul 2025 onward; no Rush-affiliated papers. Outcome unknown. Recorded."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Owoicho Adogwa",
+   "first_ay": "2015-2016",
+   "first_pgy": 4,
+   "note": "NEW phase 2. Duke (19) roster PGY1 2012-13..PGY3 2014-15, absent Aug 2015; Rush affiliation from 2016; Rush alumni 2018. Phase 1 had reconstructed him as a 2012 Rush entrant; corrected. Recorded as transfer-in."
+  },
+  {
+   "name": "Krishna Joshi",
+   "first_ay": "2021-2022",
+   "first_pgy": 5,
+   "note": "absent from 2019-20 roster (would be PGY3); arrived 2020-21 or 2021-22; MBBS/MS/MCh (prior Indian neurosurgery training). Listed PGY-7 in both 2022-23 and 2023-24; alumni 2024. PubMed: Rush endovascular/neurosurgery research affiliation 2018-2020, so residency start 2020-21 is possible. Recorded as transfer-in, start 2021."
+  },
+  {
+   "name": "Vitor Salviato Nespoli",
+   "first_ay": "2024-2025",
+   "first_pgy": 2,
+   "note": "absent from 2023-24 roster; first in Sep 2024 capture at PGY-2 (not in Aug 2024 captures); fills the 2023 class alongside Cannon/Varela. Prior neurosurgery training at University of Sao Paulo (PubMed 2020-21). Recorded as transfer-in."
+  },
+  {
+   "name": "Daniel DiLorenzo",
+   "first_ay": "2013-2014 or 2014-2015",
+   "first_pgy": null,
+   "note": "alumni 2016 graduate, never on a roster. Chain: UTMB (109) chief/research resident 2011-12 -> Houston Methodist (26) photo Nov 2013 -> first Rush affiliation on a paper accepted Mar 2014 (JNS 2014 with Rush co-authors). PGY unknown. Recorded as transfer-in, start 2014 (approx.)."
+  },
+  {
+   "name": "Manish Kasliwal",
+   "first_ay": "2011-2012 (inferred)",
+   "first_pgy": null,
+   "note": "alumni 2016 graduate ('Manisha Kumar Kasliwal'); Rush spine FELLOW 2010-11 (AIIMS residency); Rush neurosurgery affiliation from 2011; 5 years to 2016 implies entry at about PGY2 in 2011-12. Recorded as transfer-in, start 2011 (inferred)."
+  }
+ ],
+ "residents_2011plus": 42,
+ "adjudication_summary": {
+  "COMPLETED": 31,
+  "IN TRAINING": 17,
+  "LEFT -> outcome unknown": 2,
+  "LEFT -> did not complete": 2,
+  "LEFT -> TRANSFERRED": 3,
+  "note": "Outcome-unknown pair = Ruban and Smith (2011 graduates, pre-window). Did not complete = Otun, Delgardo (outcome unknown). Transferred: Wallace -> UTHSA, Nunna -> Missouri (both correct), Morrison -> 'Buffalo' (WRONG: initial+surname match to John Morrison; his outcome is unknown). Kolcun completed 2026."
+ },
+ "problems": "2011-12..2017-18 remain reconstructed (content block never archived). 16_adjudicate_program misattributes Joseph Morrison to Buffalo via the John Morrison alumni row (initial+surname key); shared script not edited. Transfer-in rows store start_year = year joined, which the adjudicator reads as entry year (Adogwa shows entry 2015, Nespoli 2024). OpenAlex rate-limited (daily budget used up), not used. Kazuki Sakakura PGY-1 in both 2025-26 and 2026-27. Ryan Khanna graduated after PGY6 in the 7-year era.",
+ "terminal_pgy_by_entry_year": {
+  "2004": 6,
+  "2005": 6,
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "6-year curriculum for entrants through 2012 (2010-11 PGY1s graduated 2016, 2012 entrants 2018); 7-year from 2013 entrants (graduated 2020, no 2019 graduates). Exception: Ryan Khanna (entry 2016) graduated 2022 after PGY6.",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "all 2010-11 residents accounted for by the alumni list; 2011 class (Munich, Ahuja) at complement 2; Kasliwal's entry year inferred"
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "2012 class = Wewel + Wallace (Wallace from his UTHSA bio); at complement 2"
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "2013 class (Kerolus, Kochanski) at complement 2, both graduated 2020; DiLorenzo arrived 2013-14 or 2014-15"
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "2014 class of 3 all graduated 2021; Wallace's departure (after 2014-15) documented"
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Adogwa transfer-in documented (Duke roster + Rush alumni); 2015 class of 2 (Brahimaj, Nunna) fits the alternating 3/2 pattern, but a 2015-17 entrant with no publications who left before Aug 2019 would still be unseen"
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "2016 class of 3 all graduated; same residual risk as 2015-16 (no roster, PubMed mining only)"
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "2017 class of 2 (Fessler, Wong) fits the alternating pattern; nobody with a Rush neurosurgery affiliation 2016-2019 is unaccounted for"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "content-dated from the Aug 2019 capture (first capture of the page); matches bracketing years"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec 2019 capture"
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "every 2019-20 resident is on 2021-22 or graduated; the 2020 class of 3 fits the pattern; Joshi arrived 2020-21 or 2021-22 (research affiliation 2018-20); a 2020 intern who left within a year would be unseen"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Aug 2022 capture, content 2021-22"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "capture omits the PGY-1 class; the 2022 class (Otun, Richards, Olson) of 3 fits the pattern and all three are on 2023-24"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": ""
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": ""
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": ""
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page 2026-09-28, advanced; Sakakura PGY1 in two years (repeat or stale label)"
+  }
+ },
+ "completions_roster_only": [
+  {
+   "name": "John Paul Kolcun",
+   "year": 2026,
+   "note": "PGY7 through May 2026 capture, gone from live 2026-27 roster; Rush affiliation on 2026 papers; not yet on the alumni page. Inserted as completed (PGY-terminal roster)."
+  }
+ ],
+ "residents_2011plus_note": "37 seen on Rush rosters + 5 never on a Rush roster: Munich, Ahuja, Wewel (alumni list), Adogwa (alumni list; 2015 transfer-in from Duke) and Wallace (UTHSA bio). DiLorenzo and Kasliwal not counted (entry year not documented).",
+ "phase2": {
+  "date": "2026-09-28",
+  "searched": [
+   "gapaudit 2011-2019 over rushu content_block and RushUnivLevel4Page servlet prefixes, rush.edu/professionals/gme/, rushu GME (www and bare), www.rush.edu/professionals/, rush.edu/news, department paths",
+   "full Wayback CDX dump of 4,074 content_block captures 2011-2017 (cid list checked; target cid absent)",
+   "PubMed affiliation mining Rush + neurosurgery 2010-2019 (737 papers) and 2020-2026; per-author follow-up of ~35 unlisted names",
+   "cross-program rosters for every Rush name (found Adogwa at Duke, Wallace at UTHSA, Nunna at Missouri)",
+   "UTHSA archived bio page for Wallace; NPPES for Otun, Morrison, Delgardo, Kolcun; MCW anesthesiology people pages (Wayback + live) for Otun; Colorado (80) and MCW (43) rosters",
+   "Common Crawl: phase 1 scanned all crawls 2012-2022 with no failures; nothing to retry"
+  ],
+  "found": [
+   "David Wallace: Rush resident 2012-2015 (PGY1-3), transferred to UTHSA (108)",
+   "Owoicho Adogwa: Duke resident 2012-15, transferred in at PGY4 2015-16 (phase 1 reconstruction corrected)",
+   "Ravi Nunna: UIC research 2020-22, Missouri PGY5 2022-23 (transfer confirmed)",
+   "DiLorenzo arrival narrowed to 2013-14/2014-15; Kasliwal entry inferred 2011-12",
+   "Kolcun completion 2026 (terminal roster + 2026 Rush affiliation)"
+  ],
+  "remaining": [
+   "2011-12..2017-18 still have no roster: a resident who entered 2011-2017, never published with a Rush affiliation and left before Aug 2019 would be invisible (low: all classes now match the complement)",
+   "Otun, Morrison, Delgardo destinations unknown",
+   "Joshi start year (2020 or 2021); DiLorenzo and Kasliwal PGY at entry"
+  ]
+ }
+}

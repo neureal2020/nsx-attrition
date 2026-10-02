@@ -1,0 +1,61 @@
+
+Riverside University Health System Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2006   Vladimir Cortez          2012   2011-20  6   bio          COMPLETED
+2006   Brian Miller             2012   2011-20  6   bio          COMPLETED [ambiguous name]
+2006   Shahnawaz Qureshi        2012   2011-20  6   bio          COMPLETED [ambiguous name]
+2006   Yoav Ritter              2012   2011-20  6   bio          COMPLETED
+2008   Andrew Bieber            2014   2013-20  6   bio          COMPLETED
+2008   John Capua               2014   2013-20  6   bio          COMPLETED
+2008   Shokry Lawandy           2014   2013-20  6   bio          COMPLETED
+2008   Kamran Parsa             2014   2013-20  6   bio          COMPLETED
+2009   Katie Huynh              2015   2014-20  6   bio          COMPLETED
+2009   Quang Ma                 2015   2014-20  6   bio          COMPLETED
+2009   Vivek Ramakrishnan       2015   2014-20  6   bio          COMPLETED
+2009   Raed Sweiss              2015   2014-20  6   bio          COMPLETED
+2010   Deependra Mahato         2016   2015-20  6   bio          COMPLETED
+2010   Tanya Minasian           2016   2015-20  6   bio          COMPLETED
+2010   Jerry Noel               2016   2015-20  6   bio          COMPLETED
+2011   Marc Cabanne             2017   2016-20  6   bio          COMPLETED
+2011   Omid Hariri              2017   2016-20  6   bio          COMPLETED
+2011   Jamshid Mistry           2013   2012-20  2   bio          LEFT -> SWITCHED SPECIALTY
+2012   Tyler Carson             2018   2017-20  6   bio          COMPLETED
+2012   Robert Dahlin            2018   2017-20  6   bio          COMPLETED
+2012   Amber Oros               2017   2016-20  4   bio:none     LEFT -> outcome unknown
+2013   Marc Billings            2019   2018-20  6   bio          COMPLETED
+2013   Jason Duong              2019   2018-20  6   bio          COMPLETED [ambiguous name]
+2013   Christopher Elia         2019   2018-20  6   bio          COMPLETED
+2013   Justen Watkins           2017   2016-20  4   bio:none     LEFT -> outcome unknown [ambiguous name]
+2013   Bailey Zampella          2019   2018-20  6   bio          COMPLETED
+2014   Mark Krel                2021   2020-20  7   bio          COMPLETED
+2014   Gohar Majeed             2021   2020-20  7   bio          COMPLETED
+2014   John Ogunlade            2021   2020-20  7   bio          COMPLETED
+2014   Kevin Ray                2021   2020-20  7   bio          COMPLETED [ambiguous name]
+2015   Jacob Bernstein          2022   2021-20  7   bio          COMPLETED
+2015   James Berry              2022   2021-20  7   bio          COMPLETED [ambiguous name]
+2015   Hammad Ghanchi           2022   2021-20  7   bio          COMPLETED
+2015   Samir Kashyap            2022   2021-20  7   bio          COMPLETED
+2016   Ira Bowen                2023   2022-20  7   bio          COMPLETED
+2016   Saman Farr               2023   2022-20  7   bio          COMPLETED
+2016   Harjyot Toor             2023   2022-20  7   bio          COMPLETED
+2017   Stacey Podkovik          2024   2023-20  7   bio          COMPLETED
+2017   James Wiginton           2024   2023-20  7   bio          COMPLETED
+2018   James Brazdzionis        2025   2024-20  7   bio          COMPLETED
+2018   Tye Patchana             2025   2024-20  7   bio          COMPLETED
+2018   Ariel Takayanagi         2025   2024-20  7   bio          COMPLETED
+2019   Paras Savla              2026   2025-20  7   bio          COMPLETED
+2020   Maxwell Marino           -      2025-20  6   roster       IN TRAINING
+2021   Imran Siddiqi            -      2025-20  5   roster       IN TRAINING
+2022   Alice Wang               -      2025-20  4   roster       IN TRAINING [ambiguous name]
+2023   Raphia Rahman            2030   2024-20  2   bio          IN TRAINING
+
+summary:
+    40  COMPLETED
+     4  IN TRAINING
+     2  LEFT -> outcome unknown
+     1  LEFT -> SWITCHED SPECIALTY
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

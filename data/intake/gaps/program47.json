@@ -1,0 +1,314 @@
+{
+ "program_id": 47,
+ "name": "National Capital Consortium Program",
+ "program_length": 7,
+ "complement_per_year": null,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.wramc.amedd.army.mil/Patients/healthcare/surgery/neuro/Pages/ (WRAMC neurosurgery service: default, directory, residency.aspx; no roster)",
+   "from": "2009-01",
+   "to": "2009-01 (last capture; WRAMC closed 2011)"
+  },
+  {
+   "url": "http://www.bethesda.med.navy.mil/patient/health_care/neuro_musculoskeletal_services/neurosurgery/ (NNMC; no roster)",
+   "from": "2004-10",
+   "to": "2006-10"
+  },
+  {
+   "url": "http://www.usuhs.edu/surgery/ and usuhs.mil/surgery/ (USU Dept of Surgery old site; no neurosurgery residency roster)",
+   "from": "2005",
+   "to": "2015"
+  },
+  {
+   "url": "http://www.wrnmmc.capmed.mil/Health%20Services/Surgery/Surgery/Neurosurgery/SitePages/Home.aspx (department home; no residents)",
+   "from": "2012-06",
+   "to": "2019-08"
+  },
+  {
+   "url": "http://www.wrnmmc.capmed.mil/ResearchEducation/GME/SitePages/Neurological%20Surgery/Residency.aspx (GME program page; PD/APD/coordinator only)",
+   "from": "2015-03",
+   "to": "2019-03"
+  },
+  {
+   "url": "https://www.usuhs.edu/sur/neurosurgery (USU Surgery division page; service description only)",
+   "from": "2017-04",
+   "to": "2021-04"
+  },
+  {
+   "url": "https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/(Graduate-Medical-Education-Programs/)NCC-Neurosurgery-Residency-Program, .../Neurosurgery-Residency-Program, .../History-of-the-Neurosurgery-Training-Program (no roster)",
+   "from": "2021-01",
+   "to": "2023-12"
+  },
+  {
+   "url": "https://walterreed.tricare.mil/Academics/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Neurosurgery-Residency-Program (+ History...Program42; no roster)",
+   "from": "2024-01",
+   "to": "2024-06 (later 301); live 403"
+  },
+  {
+   "url": "https://walterreed.tricare.mil/Health-Services/Hospital-Care-Surgery/Neurosurgery (clinical page; staff surgeons only)",
+   "from": "2021-01",
+   "to": "2026-06; live 403"
+  },
+  {
+   "url": "wrnmmc.capitalregion.health.mil, walterreed.health.mil (named hosts: no Wayback captures, DNS does not resolve)",
+   "from": null,
+   "to": null
+  }
+ ],
+ "observed_years": [],
+ "reconstructed_years": [],
+ "missing_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "No program-side roster exists. WRNMMC SharePoint (www.wrnmmc.capmed.mil) had only a department home page (Health Services/Surgery/Surgery/Neurosurgery/SitePages/Home.aspx, 2012-2019, no names; 2012 version an empty IFRAME) and from 2015 a GME program page (ResearchEducation/GME/SitePages/Neurological Surgery/Residency.aspx) listing only PD/APD/coordinator. Neurosurgery SharePoint lists (Shared Documents, Announcements) empty. Old WRAMC/NNMC hosts have no neurosurgery pages after 2009/2006. Common Crawl 2012-2014 checked: only the department Home.aspx.",
+  "2012-2013": "No program-side roster exists. WRNMMC SharePoint (www.wrnmmc.capmed.mil) had only a department home page (Health Services/Surgery/Surgery/Neurosurgery/SitePages/Home.aspx, 2012-2019, no names; 2012 version an empty IFRAME) and from 2015 a GME program page (ResearchEducation/GME/SitePages/Neurological Surgery/Residency.aspx) listing only PD/APD/coordinator. Neurosurgery SharePoint lists (Shared Documents, Announcements) empty. Old WRAMC/NNMC hosts have no neurosurgery pages after 2009/2006. Common Crawl 2012-2014 checked: only the department Home.aspx.",
+  "2013-2014": "No program-side roster exists. WRNMMC SharePoint (www.wrnmmc.capmed.mil) had only a department home page (Health Services/Surgery/Surgery/Neurosurgery/SitePages/Home.aspx, 2012-2019, no names; 2012 version an empty IFRAME) and from 2015 a GME program page (ResearchEducation/GME/SitePages/Neurological Surgery/Residency.aspx) listing only PD/APD/coordinator. Neurosurgery SharePoint lists (Shared Documents, Announcements) empty. Old WRAMC/NNMC hosts have no neurosurgery pages after 2009/2006. Common Crawl 2012-2014 checked: only the department Home.aspx.",
+  "2014-2015": "No program-side roster exists. WRNMMC SharePoint (www.wrnmmc.capmed.mil) had only a department home page (Health Services/Surgery/Surgery/Neurosurgery/SitePages/Home.aspx, 2012-2019, no names; 2012 version an empty IFRAME) and from 2015 a GME program page (ResearchEducation/GME/SitePages/Neurological Surgery/Residency.aspx) listing only PD/APD/coordinator. Neurosurgery SharePoint lists (Shared Documents, Announcements) empty. Old WRAMC/NNMC hosts have no neurosurgery pages after 2009/2006. Common Crawl 2012-2014 checked: only the department Home.aspx.",
+  "2015-2016": "No roster: every Wayback version (collapse=digest) of GME SitePages/Neurological Surgery/Residency.aspx (2015-03..2019-03) and department Home.aspx (to 2019-08) checked by eye; only PD (Rosner, then Neal), APD (Neal, then Dirks) and coordinator named. usuhs.edu/sur/neurosurgery (2017-2021) is a clinical-service blurb, no residents. Common Crawl for these years not reached (run killed).",
+  "2016-2017": "No roster: every Wayback version (collapse=digest) of GME SitePages/Neurological Surgery/Residency.aspx (2015-03..2019-03) and department Home.aspx (to 2019-08) checked by eye; only PD (Rosner, then Neal), APD (Neal, then Dirks) and coordinator named. usuhs.edu/sur/neurosurgery (2017-2021) is a clinical-service blurb, no residents. Common Crawl for these years not reached (run killed).",
+  "2017-2018": "No roster: every Wayback version (collapse=digest) of GME SitePages/Neurological Surgery/Residency.aspx (2015-03..2019-03) and department Home.aspx (to 2019-08) checked by eye; only PD (Rosner, then Neal), APD (Neal, then Dirks) and coordinator named. usuhs.edu/sur/neurosurgery (2017-2021) is a clinical-service blurb, no residents. Common Crawl for these years not reached (run killed).",
+  "2018-2019": "No roster: every Wayback version (collapse=digest) of GME SitePages/Neurological Surgery/Residency.aspx (2015-03..2019-03) and department Home.aspx (to 2019-08) checked by eye; only PD (Rosner, then Neal), APD (Neal, then Dirks) and coordinator named. usuhs.edu/sur/neurosurgery (2017-2021) is a clinical-service blurb, no residents. Common Crawl for these years not reached (run killed).",
+  "2019-2020": "No roster: every Wayback version (collapse=digest) of GME SitePages/Neurological Surgery/Residency.aspx (2015-03..2019-03) and department Home.aspx (to 2019-08) checked by eye; only PD (Rosner, then Neal), APD (Neal, then Dirks) and coordinator named. usuhs.edu/sur/neurosurgery (2017-2021) is a clinical-service blurb, no residents. Common Crawl for these years not reached (run killed).",
+  "2020-2021": "No roster: walterreed.tricare.mil pages checked in every content version - About-Us/Graduate-Medical-Education/(Graduate-Medical-Education-Programs/)NCC-Neurosurgery-Residency-Program (2021-2023), .../Neurosurgery-Residency-Program (2021-2023), Overview (2023), History-of-the-Neurosurgery-Training-Program (2021-2024), Academics/Graduate-Medical-Education/.../NCC-Neurosurgery-Residency-Program (2024), Health-Services/Hospital-Care-Surgery/Neurosurgery (2021-2026, staff surgeons only), GME Welcome-Class (no names). None names residents. Common Crawl for these years not reached.",
+  "2021-2022": "No roster: walterreed.tricare.mil pages checked in every content version - About-Us/Graduate-Medical-Education/(Graduate-Medical-Education-Programs/)NCC-Neurosurgery-Residency-Program (2021-2023), .../Neurosurgery-Residency-Program (2021-2023), Overview (2023), History-of-the-Neurosurgery-Training-Program (2021-2024), Academics/Graduate-Medical-Education/.../NCC-Neurosurgery-Residency-Program (2024), Health-Services/Hospital-Care-Surgery/Neurosurgery (2021-2026, staff surgeons only), GME Welcome-Class (no names). None names residents. Common Crawl for these years not reached.",
+  "2022-2023": "No roster: walterreed.tricare.mil pages checked in every content version - About-Us/Graduate-Medical-Education/(Graduate-Medical-Education-Programs/)NCC-Neurosurgery-Residency-Program (2021-2023), .../Neurosurgery-Residency-Program (2021-2023), Overview (2023), History-of-the-Neurosurgery-Training-Program (2021-2024), Academics/Graduate-Medical-Education/.../NCC-Neurosurgery-Residency-Program (2024), Health-Services/Hospital-Care-Surgery/Neurosurgery (2021-2026, staff surgeons only), GME Welcome-Class (no names). None names residents. Common Crawl for these years not reached.",
+  "2023-2024": "No roster: walterreed.tricare.mil pages checked in every content version - About-Us/Graduate-Medical-Education/(Graduate-Medical-Education-Programs/)NCC-Neurosurgery-Residency-Program (2021-2023), .../Neurosurgery-Residency-Program (2021-2023), Overview (2023), History-of-the-Neurosurgery-Training-Program (2021-2024), Academics/Graduate-Medical-Education/.../NCC-Neurosurgery-Residency-Program (2024), Health-Services/Hospital-Care-Surgery/Neurosurgery (2021-2026, staff surgeons only), GME Welcome-Class (no names). None names residents. Common Crawl for these years not reached.",
+  "2024-2025": "No roster: walterreed.tricare.mil pages checked in every content version - About-Us/Graduate-Medical-Education/(Graduate-Medical-Education-Programs/)NCC-Neurosurgery-Residency-Program (2021-2023), .../Neurosurgery-Residency-Program (2021-2023), Overview (2023), History-of-the-Neurosurgery-Training-Program (2021-2024), Academics/Graduate-Medical-Education/.../NCC-Neurosurgery-Residency-Program (2024), Health-Services/Hospital-Care-Surgery/Neurosurgery (2021-2026, staff surgeons only), GME Welcome-Class (no names). None names residents. Common Crawl for these years not reached.",
+  "2025-2026": "No roster: walterreed.tricare.mil pages checked in every content version - About-Us/Graduate-Medical-Education/(Graduate-Medical-Education-Programs/)NCC-Neurosurgery-Residency-Program (2021-2023), .../Neurosurgery-Residency-Program (2021-2023), Overview (2023), History-of-the-Neurosurgery-Training-Program (2021-2024), Academics/Graduate-Medical-Education/.../NCC-Neurosurgery-Residency-Program (2024), Health-Services/Hospital-Care-Surgery/Neurosurgery (2021-2026, staff surgeons only), GME Welcome-Class (no names). None names residents. Common Crawl for these years not reached.",
+  "2026-2027": "Live walterreed.tricare.mil returns HTTP 403 to curl and WebFetch (not bypassed). The newest archived versions (Health-Services/Hospital-Care-Surgery/Neurosurgery 2026-06-16, staff pages 2026-04) list only 5 staff surgeons; no resident roster on any live-era page."
+ },
+ "alumni_page": null,
+ "departures": [],
+ "joiners": [],
+ "residents_2011plus": 2,
+ "adjudication_summary": {
+  "residents": 3,
+  "completed": [
+   "Corey Mossop (ORCID residency 2009-2016; training_history row)",
+   "Jason H. Boulter (adjudicator 'COMPLETED' comes only from an INFERRED PGY-7 in 2023-24; no source states his graduation)"
+  ],
+  "in_training": [
+   "Callum D. Dewar (PGY7 2026-27, inferred)"
+  ]
+ },
+ "problems": "The program has never published a resident roster or graduates list on any program-side host (WRAMC, NNMC, USU, WRNMMC SharePoint, walterreed.tricare.mil), so all 16 years are unobservable from program pages; every year is a significant gap. Complement per year not stated on any page (null). Live walterreed.tricare.mil returns 403 to scripted fetches (not bypassed). Common Crawl pass (prefixes mil,tricare,walterreed)/about-us/graduate-medical-education, .../academics/graduate-medical-education, .../health-services/hospital-care-surgery/neurosurg, mil,capmed,wrnmmc)/researcheducation/gme/sitepages/neurological, mil,capmed,wrnmmc)/health%20services/surgery/surgery/neurosurgery) completed only CC-MAIN-2012 through CC-MAIN-2014-49 (only department Home.aspx records, no roster); one lookup failed (CC-MAIN-2014-10 walterreed.tricare.mil neurosurg range error); the run was killed after ~20 min with CC-MAIN-2015-06 through CC-MAIN-2026 unfinished - phase 2 may retry, though Wayback shows the same pages carry no roster. Phase 2 must rely on non-program sources (e.g. USU/Navy/Army news releases, NPPES, PubMed affiliations, AANS/CNS, social media) to build this roster. PHASE 2: roster rebuilt only from non-program sources. Military authors in WR Dept of Neurosurgery papers include staff trained elsewhere (Mayo, UF, UTSA, Ohio State, Temple), USU medical students, and Georgetown residents on rotation, so an affiliation alone never confirms an NCC resident. Only ORCID/NPPES statements were accepted. OpenAlex returned HTTP 429 at times (retried). Domain-wide Wayback CDX for dvidshub.net/health.mil/navy.mil/army.mil timed out; narrower prefixes were used instead. Phase-2 Common Crawl retry (walterreed.tricare.mil about-us/academics GME + hospital-care-surgery/neurosurg, wrnmmc GME neurological prefixes): CC-MAIN-2015-06..CC-MAIN-2016-50 checked, 0 records (none of these prefixes were in those crawls); failed lookups CC-MAIN-2015-06 (walterreed about-us GME, wrnmmc GME), CC-MAIN-2015-40 (walterreed about-us GME), CC-MAIN-2016-30 (walterreed academics GME); run killed after ~35 min, CC-MAIN-2017-04..2026 not reached. Low yield: Wayback has every version of these pages and none carries a roster.",
+ "year_status": {
+  "2011-2012": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Corey Mossop (PGY3)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Corey Mossop (PGY3) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2012-2013": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Corey Mossop (PGY4)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Corey Mossop (PGY4) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2013-2014": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Corey Mossop (PGY5)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Corey Mossop (PGY5) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2014-2015": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Corey Mossop (PGY6)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Corey Mossop (PGY6) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2015-2016": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Corey Mossop (PGY7)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Corey Mossop (PGY7) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2016-2017": {
+   "status": "missing",
+   "partial_confirmed_residents": [],
+   "significance": "significant",
+   "reason": "No roster exists and no resident is confirmed in this year by any stated source"
+  },
+  "2017-2018": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Jason H. Boulter (PGY1)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Jason H. Boulter (PGY1) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2018-2019": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Jason H. Boulter (PGY2)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Jason H. Boulter (PGY2) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2019-2020": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Jason H. Boulter (PGY3)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Jason H. Boulter (PGY3) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2020-2021": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Jason H. Boulter (PGY4)",
+    "Callum D. Dewar (PGY1)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Jason H. Boulter (PGY4), Callum D. Dewar (PGY1) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2021-2022": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Jason H. Boulter (PGY5)",
+    "Callum D. Dewar (PGY2)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Jason H. Boulter (PGY5), Callum D. Dewar (PGY2) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2022-2023": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Jason H. Boulter (PGY6)",
+    "Callum D. Dewar (PGY3)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Jason H. Boulter (PGY6), Callum D. Dewar (PGY3) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2023-2024": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Jason H. Boulter (PGY7)",
+    "Callum D. Dewar (PGY4)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Jason H. Boulter (PGY7), Callum D. Dewar (PGY4) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2024-2025": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Callum D. Dewar (PGY5)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Callum D. Dewar (PGY5) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2025-2026": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Callum D. Dewar (PGY6)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Callum D. Dewar (PGY6) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  },
+  "2026-2027": {
+   "status": "missing",
+   "partial_confirmed_residents": [
+    "Callum D. Dewar (PGY7)"
+   ],
+   "significance": "significant",
+   "reason": "No roster exists; only Callum D. Dewar (PGY7) confirmed by ORCID/NPPES (partial list, class size unknown)"
+  }
+ },
+ "partial_other_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "residents_confirmed_any_year": 3,
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "phase2": {
+  "searched": [
+   "PubMed affiliation mining 2009-2026 (765 PMIDs)",
+   "OpenAlex raw-affiliation mining (764 works) + author affiliation histories",
+   "PMC full text of 1068 WR/USU/NNMC-neurosurgery articles (affiliations, footnotes)",
+   "Europe PMC full-text resident queries",
+   "ORCID: 873 records with Walter Reed/NCC/NNMC affiliations",
+   "NPPES: neurosurgery taxonomy in the DC area; 900 Bethesda Student-taxonomy NPIs crossed with authors; per-candidate lookups",
+   "DVIDS site search + WRNMMC 'The Journal' Jan 2017-Jul 2018 (61 issues)",
+   "news.usuhs.edu feed search",
+   "Wayback: walterreed.tricare.mil News-Gallery (NCC graduation stories 2023-2025) and 2026 staff bios; wrnmmc.capmed.mil News/About; health.mil/News; other MTF neurosurgery pages; med.navy.mil GMESB PDFs",
+   "Common Crawl 2015-2026 retry on walterreed.tricare.mil GME/neurosurg and wrnmmc GME prefixes"
+  ],
+  "found": [
+   "Corey Mossop: ORCID residency WRNMMC 2009-2016 -> rows 2011-12..2015-16, training_history completed 2016",
+   "Jason H. Boulter: ORCID resident 2017- -> rows 2017-18..2023-24 (PGY inferred)",
+   "Callum D. Dewar: ORCID resident 2020- + NPPES trainee -> rows 2020-21..2026-27 (PGY inferred)",
+   "Melissa R. Meister: NPPES trainee + neurosurgery taxonomy at WRNMMC (years not established, not loaded)",
+   "16 probable but unconfirmed residents listed in data/raw/extraction/p47/phase2/evidence.json"
+  ],
+  "remaining": [
+   "Every year 2011-12..2026-27 remains significant: no roster, no graduates list, class size unknown (NCC complement not published)",
+   "Probable residents (Cirivello, Stephens, Severson, Choi, Rymarczuk, Coughlin, Szuflita, Spinelli, Delaney, Curry, Sabersky, Woodle, Yokoi, J. V. Dang, Geist, Coburn) need a stating source (US News/Doximity/Google bios in phase 3)",
+   "Boulter end year and Dewar's progression are inferred, not stated",
+   "Live walterreed.tricare.mil 403 (not bypassed)",
+   "Common Crawl 2017-2026 not reached (slow; killed after ~35 min); failed 2015-06, 2015-40, 2016-30 lookups"
+  ]
+ }
+}

@@ -1,0 +1,1030 @@
+[
+ {
+  "key": "31:jor:loor",
+  "name": "Jorge Roa Loor",
+  "program_id": 31,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery Resident, Loma Linda CA, Universidad San Francisco de Quito 2017 (matches LLU roster MD school); LLU residents page lists PGY-4",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-4 on LLU neurosurgery residents page; Doximity 'Resident', Loma Linda. Pre-residency fellowships Mount Sinai 2020-22, Georgetown/MedStar 2022-23.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-4, Loma Linda",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jorge-roa-loor-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Loma Linda CA, Resident; Universidad San Francisco de Quito Class of 2017"
+   },
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "PGY-4: Jorge Roa Loor, MD"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "31:oth:alamer",
+  "name": "Othman Bin Alamer",
+  "program_id": 31,
+  "identity": "confirmed",
+  "identity_basis": "Utah neurosurgery resident page and search snippet list Loma Linda neurosurgery resident; name Bin-Alamer; not on current LLU roster",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2026
+   },
+   {
+    "institution": "University of Utah",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left LLU after PGY-2 (2025-26); now Neurosurgery Resident at University of Utah (medicine.utah.edu residents page). Search snippet also called him 'Neurosurgery Resident at Loma Linda University Health'.",
+  "year_left": 2026,
+  "destination_program": "University of Utah",
+  "destination_start_year": 2026,
+  "current": "neurosurgery resident, University of Utah",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.utah.edu/neurosurgery/residents/othman-bin-alamer",
+    "type": "program_page",
+    "evidence": "University of Utah Neurosurgery Department residents page: Othman Bin Alamer"
+   },
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Not on current LLU roster (2026-27)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "31:sye:uddin",
+  "name": "Syed Abdullah Uddin",
+  "program_id": 31,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery Resident Physician, Loma Linda; UC Riverside School of Medicine 2022 matches LLU roster",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-3 on LLU roster 2026-27; Doximity lists only med school (UCR 2022), no prior residency shown. Prior training not confirmed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, Loma Linda",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/syed-abdullah-uddin-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Loma Linda, Resident Physician; UC Riverside School of Medicine Class of 2022"
+   },
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "PGY-3: Syed Abdullah Uddin, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "31:mar:mizrachi",
+  "name": "Mark Mizrachi",
+  "program_id": 31,
+  "identity": "confirmed",
+  "identity_basis": "LLU roster PGY-2 Mark Mizrachi MD PhD, Zucker Hofstra/Northwell; search snippet: welcomed as incoming intern to Georgetown/WHC Neurosurgery; Doximity Hofstra Class of 2025",
+  "residency_stated": [
+   {
+    "institution": "Georgetown/WHC (MedStar) neurosurgery (per X snippet; DB says program 14)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2026
+   },
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Now PGY-2 at LLU 2026-27 after PGY-1 elsewhere (Georgetown/WHC snippet); consistent with transfer in.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Loma Linda",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mark-mizrachi-md",
+    "type": "doximity",
+    "evidence": "Zucker School of Medicine at Hofstra/Northwell, Class of 2025 (specialty 'Other MD/DO')"
+   },
+   {
+    "url": "https://x.com/mguhneurosurg?lang=en",
+    "type": "search_snippet",
+    "evidence": "Georgetown/WHC Neurosurgery welcomed Mark Mizrachi as incoming intern (search summary)"
+   },
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "PGY-2: Mark Mizrachi, MD, PhD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "31:nic:bui",
+  "name": "Nicholas Bui",
+  "program_id": 31,
+  "identity": "confirmed",
+  "identity_basis": "LLU neurosurgery residents page lists Nicholas Bui, MD, PGY-2, Loma Linda University School of Medicine",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-2 on LLU roster 2026-27; no personal Doximity profile found (namesake profiles only).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Loma Linda",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "PGY-2: Nicholas Bui, MD | Loma Linda University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "31:pet:zaki",
+  "name": "Peter Zaki",
+  "program_id": 31,
+  "identity": "confirmed",
+  "identity_basis": "LLU neurosurgery residents page lists Peter Zaki, MD, PGY-2, Drexel University College of Medicine",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-2 on LLU roster 2026-27; no personal Doximity profile found (namesake profiles only).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Loma Linda",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "PGY-2: Peter Zaki, MD | Drexel University College of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "31:bra:edelbach",
+  "name": "Brandon Edelbach",
+  "program_id": 31,
+  "identity": "confirmed",
+  "identity_basis": "LLU neurosurgery residents page lists Brandon Edelbach, MD, PGY-1, Loma Linda University School of Medicine",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-1 on LLU roster 2026-27; no matching Doximity profile in search.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Loma Linda",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "PGY-1: Brandon Edelbach, MD | Loma Linda University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "31:maa:khan",
+  "name": "Maaz Khan",
+  "program_id": 31,
+  "identity": "confirmed",
+  "identity_basis": "LLU neurosurgery residents page lists Maaz Khan, MD, PGY-1, University of Cambridge School of Clinical Medicine",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-1 on LLU roster 2026-27; no matching Doximity profile in search.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Loma Linda",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurosurgery-residency/residents",
+    "type": "program_page",
+    "evidence": "PGY-1: Maaz Khan, MD | University of Cambridge School of Clinical Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "32:chr:storey",
+  "name": "Christopher Storey",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: LSU Residency Neurological Surgery 2011-2018, LSU Shreveport MD 2011; ResearchGate LSUHSC Shreveport neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery 2011-2018; Jefferson cerebrovascular fellowship 2018-19; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (open and endovascular), Nashville Neurosurgery Associates, Hermitage TN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christopher-storey-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 (LSU); American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.nashvilleneurosurgery.com/our-team/christopher-storey-md-phd/",
+    "type": "search_snippet",
+    "evidence": "Nashville Neurosurgery Associates team page (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:ric:menger",
+  "name": "Richard Menger",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: LSU residency 2011-2018, Georgetown MD 2011; USA Health bio: residency at LSU Shreveport",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery 2011-2018; NYP spine fellowship 2018-19; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Chief of Complex Spine Surgery / Vice Chair, USA Health, Mobile AL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/richard-menger-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2018 (LSU); American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.usahealthsystem.com/providers/richard-menger-1",
+    "type": "bio",
+    "evidence": "During his neurosurgery residency at LSU in Shreveport ... enfolded fellowship in pediatric spinal deformity"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "32:jar:garrett",
+  "name": "Jared Garrett",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: LSU Neurological Surgery residency 2012-2013, UAMS MD 2012 (matches newsletter 'new resident from U Arkansas'); ABR certified",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2013
+   },
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "internal medicine (prelim)",
+    "start": 2013,
+    "end": 2014
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left neurosurgery after PGY-1 (2012-13); did LSU internal medicine year 2013-14, then diagnostic/interventional radiology; ABR certified in IR and DR.",
+  "year_left": 2013,
+  "destination_program": "Radiology (residency program not named on Doximity)",
+  "destination_start_year": 2014,
+  "current": "interventional radiologist, Salt Lake City UT (Doximity); Mercy, Rogers AR per other listings",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jared-garrett-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2013; Residency, Internal Medicine, 2013 - 2014; American Board of Radiology Interventional Radiology and Diagnostic Radiology"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/jared-garrett-28e9e82c-dec5-11e7-9f4c-005056a225bf-overview",
+    "type": "bio",
+    "evidence": "MD UAMS 2012; Diagnostic Radiology"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "32:rim:hanif",
+  "name": "Rimal Hanif",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and search listings: LSU Shreveport neurosurgery residency 2012-2019, Vanderbilt MD 2012; ResearchGate LSU Shreveport",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery 2012-2019; practising neurosurgeon Fort Myers FL; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Fort Myers FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rimal-hanif-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2012 - 2019 (LSU Shreveport); American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:eli:wild",
+  "name": "Elizabeth Wild",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: LSU neurosurgery residency 2013-2020, Loyola Stritch MD 2013; Lansing Neurosurgery bio",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery June 2020; joined Lansing Neurosurgery 2020; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Lansing Neurosurgery, East Lansing MI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/elizabeth-wild-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 (LSU); American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:fra:farokhi",
+  "name": "Frank Farokhi",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Pensacola profile: LSU residency 2013-2020, Rush MD 2013; co-authored LSU papers with Menger/Thakur",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery 2013-2020; spine fellowship UT Memphis; practising neurosurgeon in Pensacola FL.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Ascension Sacred Heart, Pensacola FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/frank-farokhi-md-4a2b1e40",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2020 (LSU); Rush Medical College Class of 2013"
+   },
+   {
+    "url": "https://healthcare.ascension.org/find-care/provider/1457795353/frank-farokhi",
+    "type": "search_snippet",
+    "evidence": "seven-year neurosurgery residency at LSU Health Sciences Center in Shreveport, then spine fellowship at UT Memphis (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:jai:thakur",
+  "name": "Jai Deep Thakur",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: LSU neurosurgery residency 2013-2019; Government Medical College Amritsar 2009; surgery prelim Westchester 2012-13",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery 2013-2019; Pacific Neuroscience Institute fellowship 2019-20; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Assistant Professor of Neurosurgery, University of South Alabama, Mobile",
+  "agrees_with_db": true,
+  "disagreement": "USA Health bio describes a research fellowship at LSU/UAMS but Doximity lists full LSU residency 2013-2019 (consistent with DB).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jai-thakur-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2013 - 2019 (LSU); American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:mat:hefner",
+  "name": "Matthew Hefner",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: LSU Shreveport MD 2010, ABNS; WK Precision Neurosurgery/Becker's: LSU neurosurgery residency, chief resident 2020-21",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery (chief resident 2020-21) with enfolded spine fellowship; joined Willis-Knighton 2021; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, WK Precision Neurosurgery, Bossier City LA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-hefner-md",
+    "type": "doximity",
+    "evidence": "LSU School of Medicine in Shreveport Class of 2010; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.beckersspine.com/spine/52590-dr-matthew-hefner-establishes-neurosurgery-spine-practice-in-louisiana.html",
+    "type": "search_snippet",
+    "evidence": "completed his residency in neurosurgery at LSU Health Sciences Center in Shreveport and served as chief resident from 2020-2021 (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:pat:paullus",
+  "name": "Patrick Paullus",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Healthgrades: UT Southwestern MD 2014, UAMS neurosurgery residency; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "University of Arkansas for Medical Sciences",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Doximity lists only UAMS neurosurgery residency 2014-2021 (LSU PGY1-2 not shown); practising neurosurgeon in Amarillo TX. Consistent with transfer LSU -> UAMS in 2016.",
+  "year_left": 2016,
+  "destination_program": "University of Arkansas for Medical Sciences",
+  "destination_start_year": 2016,
+  "current": "neurosurgeon, Amarillo TX (Southwest Neuroscience and Spine)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/paullus-patrick-md",
+    "type": "doximity",
+    "evidence": "UAMS College of Medicine Residency, Neurological Surgery, 2014 - 2021; UT Southwestern Class of 2014"
+   },
+   {
+    "url": "https://www.swneuro.com/post/paullus-family-legacy-continues",
+    "type": "search_snippet",
+    "evidence": "residency at University of Arkansas Medical Sciences (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:jam:barry",
+  "name": "James Barry",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/practice bio: James M. Barry MD, Baylor MD 2014, LSU neurosurgery residency 2014-2021; co-authored LSU papers with Menger and Hanif (Spine 2020, Interv Neuroradiol 2020)",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery (stated 2014-2021 vs DB 2015-2021); fellowships in open/endovascular skull base (Baptist Jacksonville) and adult spine; board certified per practice bio. DB 'ambiguous name' resolved.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Nashville Neurosurgery Associates, TN",
+  "agrees_with_db": true,
+  "disagreement": "Start year 2014 on Doximity vs 2015 first seen in DB (minor).",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/james-barry-md-2ae5c536",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2014 - 2021 (LSU); Baylor Class of 2014"
+   },
+   {
+    "url": "https://www.nashvilleneurosurgery.com/our-team/james-m-barry-md/",
+    "type": "search_snippet",
+    "evidence": "received his neurosurgery residency at Louisiana State University in Shreveport (search summary; page itself 403)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "32:dev:lefever",
+  "name": "Devon LeFever",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Search results/bios: Devon LeFever MD, Toledo MD 2016, LSU Shreveport neurosurgery residency, Virginia Mason complex spine fellowship; Doximity Toledo Class of 2016; co-author with LSU residents (Neurosurgery 2019 Louisiana panel paper)",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Trained at LSU Shreveport for residency, then Virginia Mason complex spine fellowship; now practising neurosurgery in VA (Chesapeake/Portsmouth). Doximity page lists only med school and specialty 'Other MD/DO'.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (complex spine), Chesapeake/Portsmouth VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/devon-lefever-md",
+    "type": "doximity",
+    "evidence": "Univ of Toledo College of Medicine Class of 2016; specialty Other MD/DO"
+   },
+   {
+    "url": "https://www.eventscribe.net/2023/SpineSummit/fsPopup.asp?Mode=presenterInfo&PresenterID=1486855",
+    "type": "search_snippet",
+    "evidence": "trained at Louisiana State University in Shreveport for residency and did a Complex Spine Fellowship at Virginia Mason in Seattle (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "32:jar:brougham",
+  "name": "Jared Brougham",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Asante bio: Oakland Univ Beaumont MD 2016 (matches 2016 LSU entry), LSU Shreveport neurosurgery residency, CU Anschutz neurosurgical oncology fellowship; co-authored LSU paper with LeFever",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery residency, then neurosurgical oncology fellowship at University of Colorado (2023-24); practising neurosurgeon Medford OR since 2024.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Southern Oregon Neurosurgery / Asante, Medford OR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jared-brougham-md-3baf2a39",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Medford OR; Oakland University William Beaumont Class of 2016; co-author 'The Medical Review Panel in Louisiana Neurosurgery' with LeFever"
+   },
+   {
+    "url": "https://www.asante.org/find-a-doctor/profile/jared-brougham/",
+    "type": "search_snippet",
+    "evidence": "completed his Neurosurgery residency at LSU Health Science Center in Shreveport ... Neurosurgical Oncology fellowship at University of Colorado (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:rac:peterson",
+  "name": "Racheal Peterson",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists 'Racheal (Wolfson) Peterson': LSU Shreveport residency 2016-2023, Miami MD 2016; matches DB note (listed as Wolfson 2016-19)",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery 2016-2023; USC Keck skull base fellowship 2023-24; now neurosurgery faculty in Ocala FL.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, AdventHealth Ocala, FL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/racheal-peterson-md",
+    "type": "doximity",
+    "evidence": "Louisiana State University (Shreveport) Residency, Neurological Surgery, 2016 - 2023; USC Skull Base Surgery 2023 - 2024"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:edw:burkhardt",
+  "name": "Edward Burkhardt",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: LSU Shreveport MD 2017 (matches 2017 entry); North Oaks bio: MD and residency at LSU Health Shreveport; LSU-coauthored papers",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery; joined North Oaks Neurosurgery Clinic (Hammond LA) August 2024. Doximity page is stale ('Resident Physician', no training shown).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, North Oaks Neurosurgery Clinic, Hammond LA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/edward-burkhardt-md",
+    "type": "doximity",
+    "evidence": "LSU School of Medicine in Shreveport Class of 2017; Hammond LA"
+   },
+   {
+    "url": "https://www.northoaks.org/blog/2024/july/livingston-parish-native-edward-ej-burkhardt-md-/",
+    "type": "news",
+    "evidence": "joins North Oaks Neurosurgery Clinic effective August 5 (2024); residency at LSU Health Shreveport (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "32:nim:adeeb",
+  "name": "Nimer Adeeb",
+  "program_id": 32,
+  "identity": "probable",
+  "identity_basis": "ResearchGate/LSU: Nimer Adeeb (Abushehab) neurosurgeon LSUHSC Shreveport; PGY-4 at LSU in a procedure report; name distinctive; coauthored 2024 LSU paper with Burkhardt/Terrell",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Confirmed as LSU neurosurgery resident; graduation/fellowship not found in sources reached. No Doximity profile found. DB last-seen PGY7 2023-24 suggests completion, unverified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown (LSU neurosurgery affiliation on ResearchGate)",
+  "agrees_with_db": null,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.researchgate.net/profile/Nimer-Adeeb",
+    "type": "search_snippet",
+    "evidence": "Neurosurgeon, Louisiana State University Health Sciences Center Shreveport, Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "32:ame:savardekar",
+  "name": "Amey Savardekar",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Amey Savardekar MD, Shreveport, ABNS; Ochsner LSU Health bio: neurosurgery residency at LSU Health Shreveport, endovascular fellowship; Seth GS Medical College",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery residency plus endovascular fellowship; now faculty at Ochsner LSU Health Shreveport; ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "assistant professor of neurosurgery (endovascular/cerebrovascular), Ochsner LSU Health Shreveport",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/amey-savardekar-md",
+    "type": "doximity",
+    "evidence": "American Board of Neurological Surgery; Seth G.S. Medical College Class of 2005; Shreveport LA"
+   },
+   {
+    "url": "https://www.ochsnerlsuhs.org/doctors/amey-rajan-savardekar",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency at LSU Health Shreveport ... endovascular fellowship under Dr. Hugo Cuellar"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "32:dan:terrell",
+  "name": "Danielle Terrell",
+  "program_id": 32,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola Stritch MD 2018 (matches 2018 entry), Shreveport neurosurgery; North Oaks bio: LSU neurosurgery residency, Moffitt neuro-oncology fellowship",
+  "residency_stated": [
+   {
+    "institution": "Louisiana State University (Shreveport)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed LSU neurosurgery (bio lists residency LSU Neurosurgery Shreveport, neurosurgical oncology fellowship at Moffitt); Doximity still shows Shreveport address and no training entries.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (neuro-oncology), North Oaks Health (per provider page) / Shreveport listing",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/danielle-terrell-md",
+    "type": "doximity",
+    "evidence": "Loyola University Chicago Stritch School of Medicine Class of 2018; Neurosurgery, Shreveport LA"
+   },
+   {
+    "url": "https://www.northoaks.org/find-a-provider/dani-terrell-md-mph/",
+    "type": "bio",
+    "evidence": "Residency: Louisiana State University / Neurosurgery, Shreveport; Fellowship Neurosurgical Oncology, H. Lee Moffitt Cancer Center"
+   }
+  ],
+  "searches_used": 1
+ }
+]

@@ -1,0 +1,265 @@
+{
+ "program_id": 27,
+ "name": "Icahn School of Medicine at Mount Sinai Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.mssm.edu/neurosurgery/residency/residents.shtml",
+   "from": "2008-03",
+   "to": "2008-11 (pre-window)"
+  },
+  {
+   "url": "http://www.mssm.edu/departments-and-institutes/neurosurgery/programs-and-services/neurosurgery-residency/residents",
+   "from": "2010-05",
+   "to": "2012-06 (301 to icahn.mssm.edu 2013)"
+  },
+  {
+   "url": "http://icahn.mssm.edu/departments-and-institutes/neurosurgery/programs-and-services/neurosurgery-residency/residents (+ /alumni)",
+   "from": "2013-05 (Common Crawl; Wayback from 2014-10)",
+   "to": "2016-02 (301 2016-03)"
+  },
+  {
+   "url": "https://icahn.mssm.edu/education/residencies-fellowships/list/msh-neurosurgery (roster embedded in program main page)",
+   "from": "2016-03",
+   "to": "2020-11 (roster removed by 2021-02)"
+  },
+  {
+   "url": "https://icahn.mssm.edu/about/departments/neurosurgery/alumni",
+   "from": "2016-08",
+   "to": "2020-02"
+  },
+  {
+   "url": "https://icahn.mssm.edu/education/residencies-fellowships/list/msh-neurosurgery/residents (+ /alumni)",
+   "from": "2021-10",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "www.mountsinai.org/patient-care/service-areas/neurosurgery (hospital site; no residency roster)",
+   "from": "2013",
+   "to": "2015"
+  }
+ ],
+ "observed_years": [
+  "2010-2011",
+  "2012-2013",
+  "2013-2014",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2014-2015"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2010-2011": "Pre-window context: Wayback 2011-12-19 page headed 'Residents 2010-2011'. De Los Reyes' 'PGY-4' label is stale (PGY-2 May 2008, PGY-4 May 2010 with Biro/George/Binello) -> corrected to PGY-5 in phase 2.",
+  "2011-2012": "UNOBSERVABLE: residents page kept the 2010-11 list in every capture Nov 2011-Jun 2012; nothing Jul 2012-May 2013. Phase 2: CC-MAIN-2012 retried and SUCCEEDED (13 URLs under edu,mssm)/departments-and-institutes/neurosurgery, Feb/May 2012; no residents page; the only news page is about June 2011 awards). Wayback gap audit Jun 2011-Dec 2012 over www.mssm.edu dept, /gme, mountsinai.org: no other roster. PubMed affiliation mining 2011-13: no unlisted resident. Reconstructed 14 bracketed residents. Jannapureddy is the only open question (exit Jul 2011-May 2013).",
+  "2012-2013": "Common Crawl CC-MAIN-2013-20, 2013-05-21, icahn.mssm.edu page headed 'Residents 2012-2013' (13 names, PGY1-7). No Wayback capture.",
+  "2013-2014": "Common Crawl CC-MAIN-2013-48, 2013-12-07, headed 'Residents 2013-2014'. Same list in CC 2014-03..2015-03 and Wayback 2014-10..2015-05.",
+  "2014-2015": "UNOBSERVABLE: the page kept the 2013-14 list through Aug 2015 (Wayback + Common Crawl); 2015-09 is 2015-16. Phase 2: every downloaded CC file (rotation schedule, alumni, FAQs, director) re-read, none name residents; Wayback audit Jun 2014-Aug 2015 over icahn dept/education and mountsinai.org found only generic news; PubMed 2014-16 mining found no unlisted resident. All 7 classes are complete at 2 on both sides.",
+  "2015-2016": "Wayback 2015-11-05 headed 'Residents 2015-2016'.",
+  "2016-2017..2020-2021": "Roster embedded in program main page; Wayback 2016-11-15, 2017-10-12, 2018-08-01, 2019-10-20, 2020-10-26. 'Chief Resident' = PGY-7 except Rothrock 2019-20 (PGY-6 by class).",
+  "2021-2022..2024-2025": "Meet the Residents subpage, Wayback 2021-10-26, 2022-10-22, 2023-10-28, 2025-01-14 (2023-24 list stayed up until Nov 2024).",
+  "2025-2026": "Wayback 2026-02-16 (only 2025-26 version; June 2026 identical).",
+  "2026-2027": "Live page via WebFetch 2026-09-27 (curl blocked by Akamai 403). Advanced vs 2025-26 (new chiefs, 3 PGY-1)."
+ },
+ "alumni_page": "https://icahn.mssm.edu/education/residencies-fellowships/list/msh-neurosurgery/alumni",
+ "departures": [
+  {
+   "name": "Madhu Jannapureddy",
+   "last_ay": "2010-2011",
+   "last_pgy": 3,
+   "note": "2008 entrant. Absent 2012-13 on, not an alumna; left Jul 2011-May 2013 (end_year 2012 estimated). No later trace in PubMed/OpenAlex; NPI last updated 2009. Outcome unknown."
+  },
+  {
+   "name": "Noah Nichols",
+   "last_ay": "2024-2025",
+   "last_pgy": 4,
+   "note": "Listed 14 Jan 2025, gone 12 Feb 2025. The NPPES 'switch' is not evidence (his NPI is the 2021 student record). Manuscripts submitted to Oct 2025 still give Mount Sinai Neurosurgery -> possible leave. Outcome unknown."
+  },
+  {
+   "name": "Chi Le",
+   "last_ay": "2024-2025",
+   "last_pgy": 3,
+   "note": "Listed 21 Feb 2025; absent Feb 2026, Jun 2026 and live. Manuscripts submitted Aug 2025 still give Mount Sinai Neurosurgery -> possible research leave. Outcome unknown."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Hekmat Zarzour",
+   "first_ay": "2013-2014",
+   "first_pgy": 4,
+   "note": "Transfer in from SLU (program 60): SLU housestaff Feb 2013, SLU chief 2011-12 (Jefferson bio). Joined at a PGY-4 label, PGY-7 in 2015-16, graduated 2016. The labels don't fit one entry year because his SLU training was credited."
+  },
+  {
+   "name": "Santiago Gomez Paz",
+   "first_ay": "2026-2027",
+   "first_pgy": 2,
+   "note": "Not a neurosurgery transfer: research fellow at Univ of Utah neurosurgery 2024-25 (PubMed), then probably a 2025-26 prelim PGY-1 at Mount Sinai (Feb 2026 paper affiliation). Joined at PGY-2."
+  }
+ ],
+ "residents_2011plus": 34,
+ "adjudication_summary": {
+  "COMPLETED": 32,
+  "IN_TRAINING": 14,
+  "LEFT_did_not_complete": 3,
+  "note": "The 3 LEFT are Jannapureddy, Nichols and Le (all outcome unknown). Haridas artefact cleared with a 2011 alumni row. No SWITCHED SPECIALTY: the Nichols NPI call was dropped."
+ },
+ "problems": "data.commoncrawl.org gave 403 at first in phase 2; the CC-MAIN-2012 retry succeeded 5 min later. CC-MAIN-2014-23 for the www.mssm.edu SURT was also retried: 0 records (the site had moved to icahn.mssm.edu). No failed crawls remain. The live site still blocks curl (Akamai), so WebFetch was used.",
+ "years": {
+  "2010-2011": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "pre-window context; stale label corrected"
+  },
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "all 14 residents bracketed by 2010-11/2012-13 + alumni years; only Jannapureddy's exit timing (Jul 2011-May 2013) is unknown, her departure itself is recorded"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "CC-MAIN-2013-20 page headed 'Residents 2012-2013', 13 names, all classes accounted for"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "CC-MAIN-2013-48, headed 'Residents 2013-2014'"
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "every class complete at 2 on 2013-14 and 2015-16; no one could have entered and left unseen except a 1-year stay"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "captures Jan and Feb 2025 bracket Nichols' mid-year exit"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "single Feb 2026 capture (no captures Mar 2025-Jan 2026), so Chi Le's exit falls Mar-Jun 2025 or early 2025-26"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page advanced (new chiefs, 3 PGY-1, Gomez Paz PGY-2)"
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2004": 6,
+  "2005": 6,
+  "2006": 6,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_overrides": {
+  "Emanuela Binello": 7,
+  "Yakov Gologorsky": 6,
+  "Hekmat Zarzour": "transfer in 2013, graduated 2016 at a PGY-7 label"
+ },
+ "terminal_pgy_note": "The program moved from 6 to 7 years in the 2006-07 entry classes: 2006 entrants Biro, George, De Los Reyes finished in 2012 at PGY-6, Binello (2006) took 7 years (2013). 2007 entrants: Gologorsky finished at PGY-6 (2013), Motivala and Panov at PGY-7 (2014). 2008 on: 7 years. The mismatches in phase 1 were a stale PGY label (De Los Reyes) plus these individual track differences.",
+ "phase2": {
+  "searched": [
+   "cc/ folder re-read (all residents, rotation-schedule, alumni, FAQ and director pages 2013-2015)",
+   "Wayback 2008-2012 residents captures (content-dated De Los Reyes, Jannapureddy)",
+   "CC-MAIN-2012 retry (edu,mssm)/departments-and-institutes/neurosurgery, edu,mssm)/neurosurgery): succeeded, 13 URLs, no roster",
+   "gapaudit Jun 2011-Dec 2012 and Jun 2014-Aug 2015 (www.mssm.edu dept, /gme, /education, icahn.mssm.edu dept + education, mountsinai.org neurosurgery)",
+   "PubMed affiliation mining 2011-2013 and 2014-2016 (Mount Sinai + neurosurg)",
+   "PubMed/Europe PMC/OpenAlex for Jannapureddy, De Los Reyes, Zarzour, Nichols, Chi Le, Gomez Paz",
+   "NPPES for Jannapureddy, Nichols, Le, Zarzour",
+   "Wayback residents page 2024-2026 (all 11 distinct versions)",
+   "live residents and alumni pages (WebFetch 2026-09-28)",
+   "SLU (program 60) roster Feb 2013 for Zarzour; crossmatch.json (no program 27 pairs)",
+   "CC-MAIN-2014-23 retry for edu,mssm)/departments-and-institutes/neurosurgery: 0 records"
+  ],
+  "found": [
+   "De Los Reyes' 2010-11 PGY-4 is a stale label (PGY-2 in 2007-08, PGY-4 in 2009-10) -> PGY-5/6, graduation 2012 consistent",
+   "Zarzour transfer in from SLU confirmed (SLU Feb 2013 housestaff list)",
+   "Alumni page now lists class of 2026 (Schupper, Bhimani) -> rows added",
+   "Nichols and Le keep Mount Sinai neurosurgery affiliations on papers submitted after they left the roster (possible leave)",
+   "Gomez Paz: Utah research fellow, likely a Mount Sinai prelim year, not a transfer"
+  ],
+  "remaining": [
+   "Jannapureddy exit date (Jul 2011-May 2013) and destination",
+   "Nichols and Le outcomes (left vs leave of absence)"
+  ]
+ }
+}

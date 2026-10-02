@@ -1,0 +1,220 @@
+{
+ "program_id": 38,
+ "name": "Mayo Clinic College of Medicine and Science (Jacksonville) Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2012,
+ "hosts": [
+  {
+   "url": "http://www.mayo.edu/msgme/residencies-fellowships/neurologic-surgery/neurologic-surgery-residency-florida (program page; no roster)",
+   "from": "2012-10",
+   "to": "2017-02 (301 to renamed path)"
+  },
+  {
+   "url": "http://www.mayo.edu/msgme/about/resident-profiles/neurologic-surgery ('Meet Our Trainees' - Jacksonville residents only; NOT Rochester)",
+   "from": "2016-09",
+   "to": "2017-01"
+  },
+  {
+   "url": "http://www.mayo.edu/mayo-clinic-school-of-graduate-medical-education/residencies-fellowships/neurologic-surgery/neurologic-surgery-residency-florida[/resident-profiles]",
+   "from": "2017-02",
+   "to": "2018-06 (301 Jul 2018)"
+  },
+  {
+   "url": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/ (resident-profiles/, graduate-outcomes/)",
+   "from": "2018-11 (CC; Wayback 2019-09)",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "http://www.mayo.edu/msgme/neurosurg-jax.html (2011; spine fellowship page, not the residency)",
+   "from": "2011-10",
+   "to": "2011-10"
+  }
+ ],
+ "observed_years": [
+  "2016-2017",
+  "2017-2018",
+  "2019-2020 (partial)",
+  "2021-2022 (effectively complete)",
+  "2022-2023",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2018-2019",
+  "2019-2020 (supplement)",
+  "2020-2021",
+  "2023-2024",
+  "2024-2025"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Before the program: residency started July 2012 (program page: 'started in 2012. One resident will begin this program annually'). Not a gap.",
+  "2012-2013..2015-2016": "No resident list existed on any host: the msgme program page (Wayback 2012-10..2016-12, 17 versions) and its admissions/curriculum/department-and-faculty/program-contacts subpages list no residents; the msgme 'Meet Our Trainees' index had no Neurologic Surgery entry until Sep 2016. Common Crawl 2012-2015 (msgme prefixes) found only the same subpages. Reconstructed Yoon (2012), Grewal (2013), Clifton (2014), Gassie (2015) from their PGY on the 2016-17 roster plus alumni-page graduation years. Anyone who entered 2012-2015 and left before Sep 2016 is invisible.",
+  "2018-2019": "mayo.edu/mayo-clinic-school-of-graduate-medical-education path 301'd in Jul 2018; college.mayo.edu resident-profiles/ first captured Oct 2019 (Wayback) and not in CC before CC-MAIN-2019-43. Reconstructed Grewal, Clifton, Gassie, Akinduro, Ebot (bracketed / alumni). PHASE 2: the 2018 class was empty (Stein entered 2019); see years.2018-2019.",
+  "2019-2020": "Only a testimonial page ('See what a few residents have to say'): Stein, Ebot, Gassie (Wayback 2019-10-21; identical in CC-MAIN-2020-24, 2020-06-05). Loaded as source_type other; Grewal, Clifton, Akinduro, Ravindran reconstructed. Stein's PGY (2) is inferred: 2018 is the only unfilled class slot and she described her 'fifth and sixth year' in the future tense. PHASE 2: Stein corrected to PGY-1 (2019 entrant).",
+  "2020-2021": "No resident-profiles capture Jun 2020 - Sep 2021 (Wayback or CC). Reconstructed Clifton, Gassie, Akinduro, Ravindran. James Lee (2020 entrant) not reconstructed (first seen 2021-22, nothing before). PHASE 2: Lee added as reconstructed PGY-1.",
+  "2021-2022": "Wayback/CC 2021-09-21 testimonial list only (Akinduro, Gassie, Goyal, Lee, Montaser, Ravindran; no PGYs); loaded as other with PGYs from other years. Ebot and Stein absent but the list is partial. Jul-2022 capture is the same list minus Gassie (not loaded; July, ambiguous year).",
+  "2022-2023": "Wayback 2023-06-26 full roster with PGY headings; content-dated 2022-23 (Akinduro PGY-7 graduated 2023; De Biase PGY-1). Only one capture between Jul 2022 and Nov 2025.",
+  "2023-2024,2024-2025": "No capture of resident-profiles/ between 2023-06-26 and 2025-11-16 in Wayback; Common Crawl 2023-2025 had only the main program page and graduate-outcomes (CC-MAIN-2023-23 index failed repeatedly). Reconstructed Ravindran, Lee, Montaser, De Biase (bracketed). Perez Vega (2023) and Bendfeldt (2024) first appear in 2025-26 at PGY-3/2 after the gap: not classed as joiners, not reconstructed. Goyal's exit (between 2022-23 and 2025-26) falls in this gap. PHASE 2: Goyal, Perez Vega (2023-24, 2024-25) and Bendfeldt (2024-25) added as reconstructed from publication affiliations and NPI enumeration.",
+  "2026-2027": "Live page 2026-09-27 updated (PGYs advanced; two PGY-1s Garner, Mohamed; Ravindran added to alumni as 2026 graduate). Loaded."
+ },
+ "alumni_page": "https://college.mayo.edu/academics/residencies-and-fellowships/neurologic-surgery-residency-florida/graduate-outcomes/",
+ "departures": [
+  {
+   "name": "James Ebot",
+   "last_ay": "2020-2021 (approx.)",
+   "last_pgy": 4,
+   "note": "Entered 2017. Last Mayo-Jax neurosurgery affiliation on papers published Sep-Nov 2020 (PMIDs 32897467, 32742839); absent from the Sep-2021 page (which lists every other expected resident), the 2022-23 roster and the alumni page. 2023 affiliation Johns Hopkins Bloomberg School of Public Health (PMID 38021971). No NPI. Destination unknown. training_history th_id 2511 (end_year 2021, departure_type unknown)."
+  },
+  {
+   "name": "Rachel Stein",
+   "last_ay": "2019-2020",
+   "last_pgy": 1,
+   "note": "Entered 2019 (NPI 2019-04; VCOM student affiliation to Aug 2018; Mayo-Jax affiliation from Jul 2019). TRANSFERRED to Tennessee/Semmes-Murphey (program 105) as PGY-2 for 2020-21 (Semmes bio 2020-09-29); left Tennessee by Apr 2021; UF-Jacksonville radiology affiliation 2021-26. training_history th_id 2510."
+  },
+  {
+   "name": "Ansh Goyal",
+   "last_ay": "2024-2025 (from publication affiliation)",
+   "last_pgy": 4,
+   "note": "Anshit Goyal, entered 2021. Mayo-Jax neurosurgery affiliation to Nov 2024; off the 2025-26 and 2026-27 rosters (classmate Montaser is PGY-6) and not on alumni page. Bio mentions an enfolded clinician-investigator program; a 2026 paper lists him under Anesthesiology and Perioperative Medicine (Mayo-Jax co-authors) but he is not on the Mayo Florida anesthesiology resident page; NPI (FL, neurosurgery) updated 2025-12. Research leave vs departure unresolved. training_history th_id 2512 (completed unknown)."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 17,
+ "adjudication_summary": {
+  "in_training": 8,
+  "completed": 6,
+  "transferred": 1,
+  "left_did_not_complete": 1,
+  "left_unknown": 1
+ },
+ "problems": "Only 5 roster-bearing captures in 2012-2026; 2012-16, 2018-21 and 2023-25 unobserved or partial (testimonial pages). DB programs.website is live and current. Alumni page lists Grewal as 2019 in Sep-2021 capture but 2020 from 2022 on (2020 used; fits PGY-4 in 2016-17). Yoon graduated 2018 after 6 years (program was advertised as six-year until 2015, seven-year from Nov 2015). Common Crawl index fetches that failed: CC-MAIN-2023-23 (college.mayo.edu prefix; retried, still failing - relevant to 2023-24 gap), CC-MAIN-2014-41 and CC-MAIN-2017-17 (msgme/about/resident-profiles prefix), CC-MAIN-2019-43 (mayo-clinic-school-of-graduate-medical-education prefix; path already 301). Complement is 1 but 2021 and 2026 each had 2 PGY-1s. | PHASE 2: Common Crawl data host returned 403 on 2026-09-28; CC-MAIN-2023-23 still unread (low value now that 2023-24 is covered by publication/NPI evidence).",
+ "terminal_pgy_by_entry_year": {
+  "2012": 6,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "years": {
+  "2011-2012": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program started July 2012."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No resident page existed. Complement 1; the single 2012 slot is held by Yoon, who finished on schedule. PubMed Mayo-Jax neurosurgery affiliations 2012-16 (129 papers) show no other resident."
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "As 2012-13: each class slot 2012-13 occupied by a resident who completed on schedule; no unknown resident in PubMed."
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "As above (Clifton 2014 slot, graduated 2021)."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "As above (Gassie 2015 slot, graduated 2022). An extra non-complement resident who left before Sep 2016 remains theoretically invisible."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Full roster with PGYs."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Full roster with PGYs."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Everyone bracketed. The 2018 class was EMPTY in every later source: Stein is a 2019 entrant (phase 2), the full 2022-23 roster has no PGY-5 and the effectively complete Sep-2021 list has no 2018 entrant. PubMed affiliation mining (1740 Mayo-Jax neurosurgery papers 2017-26) and a Florida NPPES screen (neurosurgery NPIs enumerated Feb-Jul 2018) found no unaccounted Mayo Jax PGY-1. A 2018 entrant who left within ~1 year cannot be fully excluded."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Testimonial page (3 names) + bracketed reconstruction. Stein now PGY-1 (2019 entrant), not PGY-2; Ravindran PGY-1. All 2019-20 residents accounted for."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture. Clifton, Gassie, Akinduro, Ravindran, Lee (2020 entrant, added) reconstructed. Ebot's exit falls here or at the end of this year (last Mayo affiliation on papers published Sep-Nov 2020; absent Sep 2021). Stein at Tennessee."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Sep-2021 page lists every expected resident (classes 2015-2021) except the departed Ebot; treated as effectively complete (still stored as 'other' since it is a testimonial-format page without PGYs)."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Full roster with PGY headings."
+  },
+  "2023-2024": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture. Ravindran, Lee, Montaser, De Biase bracketed; Goyal (PGY-3) from Mayo-Jax neurosurgery PubMed affiliations 2023; Perez Vega (PGY-1) from NPI 2023-03 + 2024 paper footnote 'Resident ... Mayo Clinic School of GME, Jacksonville'. Complement fully accounted."
+  },
+  "2024-2025": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture. Ravindran, Lee, Montaser, De Biase, Perez Vega bracketed; Bendfeldt (PGY-1) from NPI 2024-03 and PGY-2 in 2025-26; Goyal (PGY-4) from a paper received 2024-11 with Mayo-Jax neurosurgery affiliation. Goyal's exit from the clinical roster falls at the end of this year."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Full roster with PGYs."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2018-06..2025-12 over college.mayo.edu/.../neurologic-surgery-residency-florida, www.mayo.edu/mayo-clinic-school-of-graduate-medical-education/.../neurologic-surgery, college.mayo.edu/media/mccms/content-assets/academics/residencies-and-fellowships (headshot assets)",
+   "Wayback CDX for resident-profiles/ (all 7 captures already used), doximity pub pages (none), semmes-murphey.com/resident/ (Stein bio 2020-09-29)",
+   "PubMed affiliation mining Mayo+Jacksonville+neurosurgery 2012-2016 (129 PMIDs) and 2017-2026 (1740 PMIDs)",
+   "PubMed/OpenAlex/Europe PMC author searches: Ebot J, Stein R, Goyal A(nshit), Bendfeldt G, Perez-Vega C",
+   "NPPES: Stein, Ebot, Goyal, Lee, Perez Vega, Bendfeldt, Syed, Ravindran; screen of FL neurosurgery NPIs enumerated Feb-Jul 2017/2018/2019 against all rosters",
+   "Live Mayo Florida anesthesiology residency 'Meet our residents' page (Goyal check)",
+   "crossmatch.json (Stein 38->105 only)",
+   "Common Crawl cclocal 2018-2026 on college.mayo.edu prefix: data.commoncrawl.org returned 403 (shared-IP throttle); backed off, not retried"
+  ],
+  "found": [
+   "Stein is a 2019 entrant (PGY-1 in 2019-20), not 2018; transferred to Tennessee (105) as PGY-2 2020-21",
+   "The 2018 class slot was empty; 2019 had two PGY-1s (Ravindran, Stein)",
+   "Sep-2021 page is effectively a full roster (all expected residents except Ebot)",
+   "Ebot at Mayo Jax to at least mid/late 2020; JHU public health by 2023",
+   "Goyal at Mayo Jax neurosurgery to Nov 2024; off roster from 2025-26; 2026 anesthesiology affiliation",
+   "Lee (2020), Perez Vega (2023), Bendfeldt (2024), Syed (2025) entry years confirmed by spring-of-entry FL NPI enumeration; Perez Vega named 'Resident' in a 2024 paper footnote"
+  ],
+  "remaining": [
+   "Goyal: research leave vs departure/switch unresolved (significant for his outcome, not for roster coverage)",
+   "Ebot: exact exit year (2020 or 2021) and destination unknown",
+   "Common Crawl (incl. previously failed CC-MAIN-2023-23) not re-read: data.commoncrawl.org 403"
+  ]
+ }
+}

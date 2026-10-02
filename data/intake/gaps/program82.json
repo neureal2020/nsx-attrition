@@ -1,0 +1,282 @@
+{
+ "program_id": 82,
+ "name": "University of Florida Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.neurosurgery.ufl.edu/residency/current-residents.shtml (+ alumni.shtml, per-resident <slug>.shtml bios; static site, flat list without PGY)",
+   "from": "2009-06",
+   "to": "2012-09"
+  },
+  {
+   "url": "http://neurosurgery.ufl.edu/residency/current-residents/ (WordPress; + /residency/alumni/, per-resident bio subpages)",
+   "from": "2012-11",
+   "to": "2017-04 (301 to https)"
+  },
+  {
+   "url": "https://neurosurgery.ufl.edu/residency/current-residents/ (+ /residency/alumni/); no Wayback 200 capture 2017-01..2019-07, Common Crawl covers 2017-01..2019-04",
+   "from": "2017",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Wayback 2011-10-13 current-residents.shtml: flat list of 20 (no PGY labels). PGY assigned from resident bio pages (start/finish dates) and later labeled rosters. Complete for PGY1-7 (Lawson/Rahman PGY7). | PHASE 2: Flat list without PGY labels; PGY from each resident's bio start/finish dates, all consistent with the labelled 2014+ rosters and alumni years. Complete PGY1-7.",
+  "2012-2013": "Wayback 2013-01-13 WordPress page (same as 2012-11-08): flat list of 17, PGY from entry years. INCOMPLETE: Maryam Rahman (2005 entrant, 8-yr track with 2-yr lab fellowship, alumni 2013) not listed. | PHASE 2: Flat list; PGY from entry years. Only Rahman (PGY-8 extended lab track) unlisted; PubMed UF neurosurgery affiliation 2012-13 and UF alumni 2013 place her there. Bandela's absence is real: classmate Kimball is listed as PGY-7 this year.",
+  "2013-2014": "Wayback 2013-11-27: flat list, Fargen/Vasquez-Castellanos tagged Chief Resident (PGY6). INCOMPLETE: PGY7 class Bridger Cox and Justin Sporrer (alumni 2014) not listed. | PHASE 2: Phase 2: PGY-7 Cox and Sporrer found on the same capture's 'Our Faculty' menu (UF lists its PGY-7 chiefs there); added as observed PGY-7. Now complete.",
+  "2014-2015": "Wayback 2014-12-17, 'Program Year' headings. Kyle Fargen shown under Fellows (enfolded ESN fellowship) and added as PGY7. INCOMPLETE: Raul Vasquez-Castellanos (PGY7, alumni 2015) not listed. | PHASE 2: Phase 2: PGY-7 Vasquez-Castellanos found on the 'Our Faculty' menu; Fargen under Fellows (enfolded ESN). Complete.",
+  "2015-2016": "Wayback 2015-12-15, headings. Titsworth stale '(PGY5)' tag under Program Year 6 -> PGY6. INCOMPLETE: Kristopher Hooten (PGY7, alumni 2016) not listed. | PHASE 2: Phase 2: PGY-7 Hooten found on the 'Our Faculty' menu (and the residents sub-menu). Complete.",
+  "2016-2017": "Wayback 2016-12-26 (same as 2016-07-28..2016-11). INCOMPLETE: Kristin Weaver (PGY7, alumni 2017) not listed. | PHASE 2: Phase 2: PGY-7 Weaver found on the 'Our Faculty' menu; Oliveria listed as PGY-7. Complete.",
+  "2017-2018": "No Wayback 200 capture 2017-01..2019-07 (only 301s 2017-04-29). Common Crawl CC-MAIN-2017-34 2017-08-24 (same content through CC-MAIN-2018-26 2018-06-18). Program Year 1-6 listed; INCOMPLETE: PGY7 Hartman/Rokicki (alumni 2018) not listed. | PHASE 2: CC 2017-08-24. Phase 2: PGY-7 Hartman and Rokicki found on the 'Our Faculty' menu. Chakraborty (their classmate) is on neither list, so she left after PGY-6 rather than being an unlisted PGY-7. Complete.",
+  "2018-2019": "Common Crawl CC-MAIN-2018-43 2018-10-20 (same 2018-08-21..2019-03-27). INCOMPLETE: PGY7 Hilliard/Sindelar (alumni 2019) not listed. | PHASE 2: CC 2018-10-20. Phase 2: PGY-7 Hilliard and Sindelar found on the 'Our Faculty' menu. Complete.",
+  "2019-2020": "Wayback 2019-09-23; complete PGY1-7 (4 interns). | PHASE 2: Complete PGY1-7 (4 interns).",
+  "2020-2021": "Wayback 2020-11-29; complete. | PHASE 2: Complete.",
+  "2021-2022": "Wayback 2021-10-18; complete; Adamczak listed as Program Year 8. | PHASE 2: Complete; Adamczak listed as Program Year 8.",
+  "2022-2023": "Wayback 2022-09-26; complete. | PHASE 2: Complete.",
+  "2023-2024": "Wayback 2023-10-05; Dimitri Laurent (PGY7 in 2022-23, alumni 2024) not listed - probable extra year unlisted. | PHASE 2: Only Laurent (PGY-8 extra year) unlisted. PubMed shows UF neurosurgery affiliation 2023-24 and the UF alumni page lists him in 2024. PGY-7s Melnick and Porche are listed.",
+  "2024-2025": "Wayback 2024-10-13; complete (Zakare-Fagbamila and Miller dropped between 2024-06-16 and 2024-08-12). | PHASE 2: Complete.",
+  "2025-2026": "Wayback 2025-10-12; complete. Derrick Lewis (PGY3) present here, absent from 2026-02-15 capture. | PHASE 2: Complete. Phase 2: Derrick Lewis removed as a stale listing, because he transferred to UW as a PGY-3 on 2025-07-01.",
+  "2026-2027": "Live page 2026-09-27; advanced PGYs and 3 new interns (Robles, Marshall, Rafka), so valid 2026-27. | PHASE 2: Live page; advanced PGYs and 3 new interns."
+ },
+ "alumni_page": "https://neurosurgery.ufl.edu/residency/alumni/",
+ "departures": [
+  {
+   "name": "Muhammad Abd-El-Barr",
+   "last_ay": "2011-2012",
+   "last_pgy": 3,
+   "outcome": "transferred",
+   "destination": "Brigham and Women's/Boston Children's (program 37), PGY-4 2012-13, alumni 2016",
+   "note": "Confirmed on both programs' rosters."
+  },
+  {
+   "name": "Nathan Kohler",
+   "last_ay": "2011-2012",
+   "last_pgy": 3,
+   "outcome": "switched_specialty",
+   "destination": "Radiology (Florida Hospital Orlando 2016-17; interventional neuroradiology, Univ of Maryland, 2018)",
+   "note": "PubMed affiliations; identity matched by UF bio (UW materials-science PhD, Brown MD)."
+  },
+  {
+   "name": "John Bandela",
+   "last_ay": "2011-2012",
+   "last_pgy": 6,
+   "outcome": "unknown",
+   "note": "Not an unlisted PGY-7: classmate Kimball was listed as PGY-7 in 2012-13 and Bandela was not. Not on alumni list. No later evidence found."
+  },
+  {
+   "name": "Orrin Dayton",
+   "last_ay": "2015-2016",
+   "last_pgy": 4,
+   "outcome": "switched_specialty",
+   "destination": "Radiology, University of Florida (PubMed 2019-2023)",
+   "note": ""
+  },
+  {
+   "name": "Timothy O'Connor",
+   "last_ay": "2016-2017",
+   "last_pgy": 3,
+   "outcome": "transferred",
+   "destination": "University at Buffalo (program 69), PGY-4 2017-18, alumni 2021",
+   "note": "Confirmed on both programs' rosters."
+  },
+  {
+   "name": "Mishti Chakraborty",
+   "last_ay": "2016-2017",
+   "last_pgy": 6,
+   "outcome": "unknown",
+   "note": "Not an unlisted PGY-7: classmates Hartman and Rokicki appear on the 2017-08 'Our Faculty' menu as PGY-7 chiefs and she does not. Not on alumni list. No later evidence found."
+  },
+  {
+   "name": "Carl Brophy",
+   "last_ay": "2018-2019",
+   "last_pgy": 2,
+   "outcome": "unknown",
+   "note": "Absent from every roster from 2019-07 on. Not on alumni list with his classmates (2024). No later evidence found. NPI not used."
+  },
+  {
+   "name": "Rasheedat Zakare-Fagbamila",
+   "last_ay": "2023-2024",
+   "last_pgy": 5,
+   "outcome": "unknown",
+   "note": "Bio emptied 2024-07. Absent from the 2024-25, 2025-26 and 2026-27 rosters, so not a research year. No later affiliation found."
+  },
+  {
+   "name": "Patricia Miller",
+   "last_ay": "2023-2024",
+   "last_pgy": 3,
+   "outcome": "unknown",
+   "note": "Absent from the 2024-25..2026-27 rosters. Last affiliation UF (paper received 2024-05)."
+  },
+  {
+   "name": "Derrick Lewis",
+   "last_ay": "2024-2025",
+   "last_pgy": 2,
+   "outcome": "transferred",
+   "destination": "University of Washington (program 114), PGY-3 on 2025-07-01",
+   "note": "UF's 2025-26 listing was stale; row removed."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 49,
+ "adjudication_summary": {
+  "COMPLETED": 37,
+  "IN_TRAINING": 19,
+  "LEFT_did_not_complete": 5,
+  "LEFT_switched_specialty": 2,
+  "LEFT_transferred": 3,
+  "note": "The 2026 PGY-7s (Christie, Still, Yan) are marked COMPLETED from the roster; the alumni page does not list the 2026 class yet."
+ },
+ "problems": "PGY7 (and extended PGY8) residents routinely omitted from the roster 2012-13..2018-19 and 2023-24; covered by alumni graduation rows in training_history (34 inserted, 2012-2025). 2011-12..2013-14 pages carry no PGY labels (PGY from bios). Short/long courses: Reichwage (2006 entrant, alumni 2012), Karuppiah (entered 2008 at PGY2, alumni 2013), Titsworth & Wilson (2010 entrants, alumni 2016), Rahman/Adamczak/Laurent 8 years. 2017 class had 3 (Melnick=Barkley name change, Porche, Brophy). Common Crawl (36 crawls 2017-2019, run completed): cluster.idx range requests failed for CC-MAIN-2018-05, CC-MAIN-2019-22, CC-MAIN-2019-47 (not needed: 2017-18 and 2018-19 are covered by neighbouring crawls; 2019-20 by Wayback). | Phase 2: Wayback CDX was temporarily offline/504 during one late status check (not needed). No year remains significant.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Flat list without PGY labels; PGY from each resident's bio start/finish dates, all consistent with the labelled 2014+ rosters and alumni years. Complete PGY1-7."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Flat list; PGY from entry years. Only Rahman (PGY-8 extended lab track) unlisted; PubMed UF neurosurgery affiliation 2012-13 and UF alumni 2013 place her there. Bandela's absence is real: classmate Kimball is listed as PGY-7 this year."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Phase 2: PGY-7 Cox and Sporrer found on the same capture's 'Our Faculty' menu (UF lists its PGY-7 chiefs there); added as observed PGY-7. Now complete."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Phase 2: PGY-7 Vasquez-Castellanos found on the 'Our Faculty' menu; Fargen under Fellows (enfolded ESN). Complete."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Phase 2: PGY-7 Hooten found on the 'Our Faculty' menu (and the residents sub-menu). Complete."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Phase 2: PGY-7 Weaver found on the 'Our Faculty' menu; Oliveria listed as PGY-7. Complete."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "CC 2017-08-24. Phase 2: PGY-7 Hartman and Rokicki found on the 'Our Faculty' menu. Chakraborty (their classmate) is on neither list, so she left after PGY-6 rather than being an unlisted PGY-7. Complete."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "CC 2018-10-20. Phase 2: PGY-7 Hilliard and Sindelar found on the 'Our Faculty' menu. Complete."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY1-7 (4 interns)."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete; Adamczak listed as Program Year 8."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Only Laurent (PGY-8 extra year) unlisted. PubMed shows UF neurosurgery affiliation 2023-24 and the UF alumni page lists him in 2024. PGY-7s Melnick and Porche are listed."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete. Phase 2: Derrick Lewis removed as a stale listing, because he transferred to UW as a PGY-3 on 2025-07-01."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page; advanced PGYs and 3 new interns."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_exceptions": {
+  "Brett Reichwage (2006 entry)": "finished 2012 at PGY-6",
+  "Lee Titsworth, Kelvin Wilson (2010 entry)": "finished 2016 at PGY-6",
+  "Saravanan Karuppiah": "entered 2008 at PGY-2 after an outside internship; finished 2013 (PGY-7)",
+  "Maryam Rahman (2005), Stephanie Adamczak (2014), Dimitri Laurent (2016)": "8 years (PGY-8 extension)"
+ },
+ "phase2": {
+  "searched": [
+   "Re-read every capture of the incomplete years (2012-13..2018-19, 2023-24), including site menus",
+   "Wayback bios for every departed resident (.shtml 2009-11, WordPress 2013-24)",
+   "Common Crawl bio captures 2017-19 (phase-1 cc/ folder)",
+   "PubMed and OpenAlex author affiliations for all 10 departures and for Rahman and Laurent",
+   "crossmatch.json (Abd-El-Barr->37, O'Connor->69, Lewis->114; Rahman/UCLA and Miller/Tulane rejected as different people)",
+   "Live alumni page"
+  ],
+  "found": [
+   "The PGY-7 chief residents appear on the same captures' 'Our Faculty' menu in 2013-14..2018-19. 9 observed PGY-7 rows were added.",
+   "Chakraborty is missing from that menu, so she left after PGY-6.",
+   "Kohler and Dayton switched to radiology (PubMed).",
+   "3 transfers confirmed on both sides; Lewis's UF 2025-26 row was stale."
+  ],
+  "remaining": [
+   "Destination unknown for Bandela, Chakraborty, Brophy, Zakare-Fagbamila and P. Miller. Their departure years are certain."
+  ]
+ }
+}

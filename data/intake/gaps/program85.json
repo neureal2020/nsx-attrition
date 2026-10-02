@@ -1,0 +1,237 @@
+{
+ "program_id": 85,
+ "name": "University of Iowa Health Care Medical Center Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "www.uihealthcare.com/depts/med/neurosurgery/residents/current.html (old UIHC dept site; content frozen at Jan-2011 = 2010-11 roster; index redirects by Nov 2012)",
+   "from": "2006-05",
+   "to": "2012-08"
+  },
+  {
+   "url": "www.uihealthcare.org/neurosurgeryresidency/ -> www.uihealthcare.org/GME/ResProgInsidePages.aspx?id=236125&taxid=226497 (UIHC GME 'Current Residents')",
+   "from": "2012-11",
+   "to": "2016-07"
+  },
+  {
+   "url": "www.medicine.uiowa.edu/neurosurgery/residency/ and medicine.uiowa.edu/neurosurgery/education/residency-training (CCOM dept pages; link out to the GME rosters, no roster)",
+   "from": "2013-05",
+   "to": "2025-07"
+  },
+  {
+   "url": "gme.medicine.uiowa.edu/neurological-surgery-residency/our-people/current-residents (+ /our-people/alumni-residents from 2022); pre-2020 only in Common Crawl",
+   "from": "2016-09",
+   "to": "2025-04"
+  },
+  {
+   "url": "neurosurgery.medicine.uiowa.edu/education/neurological-surgery-residency/our-people-neurological-surgery-residency/our-neurological (2025) -> /our-people/residents and /our-people/alumni-residents (live; gme.medicine.uiowa.edu/neurological-surgery-residency and medicine.uiowa.edu/neurosurgery now 301 here)",
+   "from": "2025-08",
+   "to": "2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "RECONSTRUCTED, significance LOW. No 2011-12 roster exists in any archive: the old uihealthcare.com current.html stayed frozen at the Jan-2011 list (Wayback Jul 2011, CC-MAIN-2012 May 2012), and the UIHC GME neurosurgery pages (ids 236xxx) did not exist yet (GME page ids were ~228k in Jan 2012; first capture Nov 2012; CC-MAIN-2012 has no org,uihealthcare)/gme/ records). Reconstructed 10 bracketed residents (R2-R6). Why low: every 2010-11 R1-R5 reappears in 2012-13 at the expected PGY; the 2011 class (Abode-Iyamah, Smietana) fills the complement of 2 and both are seen in 2012-13; the 2011-12 R7 fellow associates (Dahdaleh, Vogel, Lindley) are 2011 alumni. Only an above-complement 2011 intern who left within a year could be hidden.",
+  "2013-2014": "OBSERVED in phase 2: Common Crawl CC-MAIN-2013-48 (2013-12-07) of www.uihealthcare.org/GME/InsidePages.aspx?id=236125&taxid=226497 (the InsidePages variant of the ResProgInsidePages URL that phase 1 searched); identical in CC-MAIN-2013-48 (12-13), 2014-10 (Mar 2014) and 2014-15 (Apr 2014). Complete, 14 residents, 2 per class; Smietana R3.",
+  "2014-2015": "OBSERVED in phase 2: Common Crawl CC-MAIN-2014-23..2015-18 (20+ records, 2014-07-25..2015-04-25) of the same InsidePages URL; loaded CC-MAIN-2014-52 (2014-12-18). Complete, 14 residents. Smietana absent from 2014-07-25 on. Liesl Close absent 2014-07-25..2014-11-01 and first listed under R1 on 2014-11-23: mid-year joiner.",
+  "2015-2016": "Wayback 20150924 of www.uihealthcare.org/GME/InsidePages.aspx?id=236125 (phase 2 swap; identical to the Mar/May/Jul 2016 captures used in phase 1). Complete.",
+  "2016-2017": "No Wayback capture of any Iowa roster page; Common Crawl CC-MAIN-2016-40 (2016-10-01) gme.medicine.uiowa.edu current-residents, confirmed by CC-MAIN-2017-09 and -2017-17. Complete, but Liesl Close is printed under 'Chief Residents' (inconsistent with R2 2015-16 / R4 2017-18) and stored without PGY.",
+  "2017-2018": "Only capture is Common Crawl CC-MAIN-2017-30 (2017-07-28), already advanced (new R1 Gold/Park). Complete.",
+  "2018-2019": "Common Crawl CC-MAIN-2018-39 (2018-09-21). Complete. (CC-MAIN-2018-06/-12 records of the same URL returned empty page bodies.)",
+  "2019-2020": "Common Crawl CC-MAIN-2020-05 (2020-01-27); no fall-2019 capture anywhere. Complete (14 + Close).",
+  "2020-2021": "Wayback 20201029. Complete.",
+  "2021-2022": "Wayback 20210923. Complete.",
+  "2022-2023": "Wayback 20221026. Complete.",
+  "2023-2024": "Wayback 20230928. Complete.",
+  "2024-2025": "Wayback 20241111. Complete.",
+  "2025-2026": "Wayback 20250916 (new neurosurgery.medicine.uiowa.edu host). Complete; PGY-3 has only Sandhu (Haselden gone).",
+  "2026-2027": "Live page 2026-09-27; advanced vs 2025-26. Complete; pre-clinical trainees (fellows) Dominari, Yakdan excluded."
+ },
+ "alumni_page": "https://neurosurgery.medicine.uiowa.edu/education/neurological-surgery-residency/our-people/alumni-residents",
+ "departures": [
+  {
+   "name": "Janel Smietana",
+   "last_ay": "2013-2014",
+   "last_pgy": 3,
+   "note": "2011 entrant; listed R3 through Apr 2014 (CC-MAIN-2014-15), absent from Jul 2014 (CC-MAIN-2014-23) on; not on the alumni page. Left at the end of 2013-14. Destination unknown (NPPES shows a NY psychiatry taxonomy, not used as evidence). training_history th_id 3100, departure_type unknown."
+  },
+  {
+   "name": "William Haselden",
+   "last_ay": "2024-2025",
+   "last_pgy": 2,
+   "note": "2023 entrant; absent Sep 2025 and live. 2026 papers (received Nov 2025) list him in the Department of Neurology, University of Iowa Health Care, but he is not on the Iowa neurology residency directory; role unknown. training_history th_id 3101, departure_type unknown."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Liesl Close",
+   "first_ay": "2014-2015",
+   "first_pgy": 1,
+   "note": "Added to the R1 list mid-year (between the 2014-11-01 and 2014-11-23 captures); 3rd member of the 2014 class. Then R2 2015-16, R4 2017-18, R5 2018-19, PGY-7 2019-20 (one year ahead), graduated 2020. Probably credited prior training: NPPES shows a 2012 NPI with an Arizona surgery resident license (NPPES only, not confirmed). training_history th_id 3102."
+  }
+ ],
+ "residents_2011plus": 34,
+ "adjudication_summary": {
+  "COMPLETED": 30,
+  "IN_TRAINING": 14,
+  "LEFT_outcome_unknown": 3,
+  "LEFT_did_not_complete": 2,
+  "note": "The 3 'outcome unknown' (Dahdaleh, Vogel, Lindley; 2005 entrants) are 2011 graduates on the alumni page (before the 2012 cut-off), not attrition. Real departures: Smietana (end of 2013-14, after PGY-3) and Haselden (summer 2025, after PGY-2). 2011+ entrants: 34."
+ },
+ "problems": "Common Crawl index range requests failed (cluster.idx) for CC-MAIN-2015-35 and CC-MAIN-2017-30 (uihealthcare.com prefix, irrelevant old host), CC-MAIN-2018-13 and CC-MAIN-2019-09 (gme.medicine.uiowa.edu/neurological-surgery-residency) and CC-MAIN-2020-24 (uihealthcare.org id=236125); only the 2018-13/2019-09 ones could matter and both fall inside the observed 2017-18/2018-19 years. Alumni-year conventions shift: through the 2012 entrants 'graduation' = end of chief R6 (R7 was a 'Fellow Associate' year), from the 2013 entrants it is end of PGY-7; no 2019 graduates exist because of that switch. Andrew Grossbach: live alumni page says 2017, the 2022 archived alumni page says 2016 (inserted 2017, both noted). Liesl Close (2014 entrant) was listed PGY-7 in 2019-20, one year ahead of her classmates, and graduated 2020 (accelerated, not a departure). PHASE 2: Phase-1 Common Crawl failures (2015-35, 2017-30 uihealthcare.com; 2018-13, 2019-09 gme; 2020-24 uihealthcare.org) were retried in phase 2 and all succeeded. They held no new roster (only a Mar-2018 gme current-residents record inside observed 2017-18). The phase-2 CC passes (2012, 2013-2016) had no failures.",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "unobservable, but all classes bracketed and at complement; see gap_details"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete Wayback roster"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete Common Crawl roster found in phase 2"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete Common Crawl roster found in phase 2; 13 captures across the year show both exits and the mid-year joiner"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete; Close printed under Chief Residents (page error), stored without PGY"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete live roster"
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 6,
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "Through the 2012 entrants, 'graduation' on the alumni page is the end of the chief year (R6); R7 was a post-graduation 'Fellow Associate' year. From the 2013 entrants graduation is the end of PGY-7. Hence no 2019 graduates.",
+ "phase2": {
+  "searched": [
+   "Parsed all phase-1 p85/cc files (2012 uihealthcare.com pages are stale Jan-2011 content)",
+   "gapaudit 2011-06..2016-09 over www.uihealthcare.org/GME, /neurosurgeryresidency, /neurosurgery, uploadedFiles/.../Education, www.medicine.uiowa.edu/neurosurgery, medicine.uiowa.edu/neurosurgery, www.medicine.uiowa.edu/gme, gme.medicine.uiowa.edu, www.uihealthcare.com/depts/med/neurosurgery (phase2/gapaudit_2011_2016.txt)",
+   "Wayback CDX prefix of GME/InsidePages.aspx and ResProgInsidePages.aspx 2013-2016; link audit of medicine.uiowa.edu/neurosurgery news/residency/education (2013-11) and uihealthcare.org/neurosurgeryresidency (2014-03)",
+   "Common Crawl all crawls 2013-2016 over org,uihealthcare)/gme/, org,uihealthcare)/neurosurg, edu,uiowa,medicine)/neurosurgery with a custom keep-filter for the ASPX roster ids (phase2/ccp2.py, cc_2013_2016/); CC-MAIN-2012 over org,uihealthcare)/gme/ (0 records)",
+   "PubMed affiliation mining 2011-2016 'neurosurgery AND University of Iowa' (phase2/pubmed_aff_2011_2016.txt): no unlisted residents",
+   "PubMed/OpenAlex/NPPES for Smietana, Haselden, Close; Iowa neurology residency directory (profiles.uiowa.edu API) and fellows page; Iowa psychiatry past-residents page",
+   "crossmatch.json: no entries for program 85"
+  ],
+  "found": [
+   "2013-14 full roster (CC-MAIN-2013-48)",
+   "2014-15 full roster (CC-MAIN-2014-23..2015-18)",
+   "Sep-2015 Wayback capture for 2015-16",
+   "Smietana departure dated to end of 2013-14 (PGY-3)",
+   "Liesl Close = mid-year 2014-15 joiner",
+   "Haselden: Iowa Dept of Neurology affiliation on 2026 papers (not a neurology resident)",
+   "Teferi and Woodiwiss graduation 2026 from PGY-terminal roster"
+  ],
+  "remaining": [
+   "2011-12 unobservable (low significance)",
+   "Smietana and Haselden destinations unknown",
+   "Close's prior training unconfirmed",
+   "Grossbach graduation year 2016 (archived 2022 alumni page) vs 2017 (live): with his classmate Abel at 2016 and both listed Fellow Associate (R7) in 2016-17, 2016 = end of chief year under the old convention and 2017 = end of R7; completion itself is not in doubt"
+  ]
+ }
+}

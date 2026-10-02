@@ -1,0 +1,108 @@
+[
+ {
+  "key": "123:ula:cikla",
+  "name": "Ulas Cikla",
+  "was_resident_at_program": false,
+  "role_at_program": "fellow",
+  "answer_outcome": "not_a_resident",
+  "evidence_level": "silver",
+  "evidence": "UF Health Jacksonville bio: 'Endovascular Neurosurgery Fellowship, Yale - New Haven Medical Center, 2020'; other training = fellowships (BIDMC 2022, UW 2024); MD Istanbul University 2003; no US residency listed",
+  "sources": [
+   "https://ufhealthjax.org/doctors/ulas-cikla/bio"
+  ],
+  "queries_tried": [
+   "Ulas Cikla neurosurgery UF Health Jacksonville residency fellowship Yale"
+  ],
+  "notes": "Foreign-trained neurosurgeon; Yale role was endovascular fellow, not categorical resident. Now UF assistant professor of neurosurgery."
+ },
+ {
+  "key": "116:gur:gandhoke",
+  "name": "Gurpreet S. Gandhoke",
+  "was_resident_at_program": true,
+  "role_at_program": "categorical resident",
+  "answer_outcome": "completed",
+  "evidence_level": "gold",
+  "evidence": "Pitt Neurosurgery 'Residency Program Graduates' page lists Gurpreet Gandhoke under 2018",
+  "sources": [
+   "https://www.neurosurgery.pitt.edu/training/residency-program/graduates"
+  ],
+  "queries_tried": [
+   "Gurpreet Gandhoke neurosurgeon residency training UPMC"
+  ],
+  "notes": "Doximity (lead) also lists neurological surgery residency UPMC. Program graduate list confirms categorical residency completion 2018; now neurosurgeon at Saint Luke's Kansas City."
+ },
+ {
+  "key": "31:pau:krafft",
+  "name": "Paul Krafft",
+  "was_resident_at_program": true,
+  "role_at_program": "categorical resident",
+  "answer_outcome": "transferred",
+  "evidence_level": "silver",
+  "evidence": "UF Health bio: 'Residency, Neurosurgery, Loma Linda University, 2016-2017'; 'Residency, Neurosurgery, University of South Florida, 2017-2019'",
+  "sources": [
+   "https://ufhealth.org/doctors/paul-krafft/bio"
+  ],
+  "queries_tried": [
+   "Paul Krafft neurosurgeon residency Loma Linda USF"
+  ],
+  "notes": "Earlier Loma Linda years were a postdoctoral neuroscience research fellowship; bio lists NS residency at Loma Linda 2016-17 then transferred to USF residency (completed 2019), USF spine fellowship 2019-22. Now UF Health at Halifax."
+ },
+ {
+  "key": "80:pal:randhawa",
+  "name": "Pal Randhawa",
+  "was_resident_at_program": true,
+  "role_at_program": "categorical resident",
+  "answer_outcome": "completed",
+  "evidence_level": "gold",
+  "evidence": "CU Anschutz Neurosurgery 'Our Alumni' (residency alumni, Dates at CU Neurosurgery): '2015 - 2019 Pal Randhawa, MD'",
+  "sources": [
+   "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/our-alumni",
+   "https://healthy.kaiserpermanente.org/oregon-washington/clinicians/pal-randhawa-9463266"
+  ],
+  "queries_tried": [
+   "Pal Randhawa neurosurgeon Kaiser residency Oklahoma Colorado",
+   "University of Colorado neurosurgery residency alumni graduates Randhawa"
+  ],
+  "notes": "Program residency alumni list counts him as CU graduate 2015-2019 (transfer-in from OU residency 2009-2014 per Doximity lead; Doximity also lists a CU spine fellowship 2017-18 within that span, i.e. enfolded). Kaiser bio names OU residency only. Board certified ABNS; now Kaiser Permanente NW. Completed at CU."
+ },
+ {
+  "key": "97:aks:bhamidipati",
+  "name": "Akshay Bhamidipati",
+  "was_resident_at_program": true,
+  "role_at_program": "categorical resident",
+  "answer_outcome": "transferred",
+  "evidence_level": "program_only",
+  "evidence": "UNM Neurosurgery resident profile page lists him as a neurosurgery resident ('Post Graduate Year (PGY) 2', page stale); Doximity: 'University of New Mexico School of Medicine Residency, Neurological Surgery, 2024 - 2025' then 'Vanderbilt ... Residency, Neurological Surgery, 2025 - 2031'",
+  "sources": [
+   "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency/resident_profiles/akshay.html",
+   "https://www.vumc.org/neurosurgerydept/person/current-residents",
+   "https://www.doximity.com/pub/akshay-bhamidipati-md",
+   "https://cdn.vanderbilt.edu/t2-main/medschool-prd/wp-content/uploads/sites/49/2024/03/VUSM_2024_Match-Results-Statistics_RELEASABLE.pdf"
+  ],
+  "queries_tried": [
+   "Akshay Bhamidipati neurosurgery Vanderbilt resident",
+   "\"Bhamidipati\" neurosurgery match 2024 University of New Mexico Vanderbilt"
+  ],
+  "notes": "CAVEAT: VUSM 2024 Match list shows 'Bhamidipati Akshay - Vanderbilt Univ Med Ctr-TN - General Surgery-Prelim', i.e. he did NOT match categorical NS in March 2024; he nevertheless appears as a UNM neurosurgery resident (profile + PGY1 on UNM roster 2024-25) and Vanderbilt's 6-year span 2025-2031 implies UNM year credited as NS PGY-1. UNM post likely an outside-Match/vacancy NS position; categorical vs preliminary status not explicitly stated by UNM. Now Vanderbilt NS PGY-3 (2024 med-school cohort). Treat as NS resident who transferred; moderate confidence."
+ },
+ {
+  "key": "110:ant:asemota",
+  "name": "Anthony Asemota",
+  "was_resident_at_program": false,
+  "role_at_program": "unknown",
+  "answer_outcome": "not_a_resident",
+  "evidence_level": "program_only",
+  "evidence": "UTSW 'Current Residents' Wayback capture 20250513 (2024-25 year) lists PGY-1 Hameed/Mozaffari/Russell and PGY-2 Adenwalla/Langston/Murcia/Shah - no Asemota; class-of-2030 news post (Adenwalla, Langston, Murcia) does not list him",
+  "sources": [
+   "https://web.archive.org/web/20250513162338/https://www.utsouthwestern.edu/departments/neurological-surgery/education-training/residency-program/residents/",
+   "https://www.utsouthwestern.edu/departments/neurological-surgery/education-training/residency-program/residents/",
+   "https://physicianresources.utswmed.org/news/neurological-surgery-residency-program-classes-of-2023-and-2030",
+   "https://www.doximity.com/pub/anthony-asemota-md"
+  ],
+  "queries_tried": [
+   "Anthony Asemota neurosurgery resident UT Southwestern",
+   "\"Anthony Asemota\" MD University of New Mexico"
+  ],
+  "notes": "Only one Wayback capture available (May 2025); 2023-24 program roster not separately verified. Doximity (lead): specialty 'Other MD/DO', University of Benin 2007, based at UNM Albuquerque, no residency listed. Publications are Johns Hopkins research (TBI/pituitary). Profile fits a research/non-categorical role; roster entry likely erroneous or non-resident. Recommend excluding from attrition denominator; true UTSW role unknown."
+ }
+]

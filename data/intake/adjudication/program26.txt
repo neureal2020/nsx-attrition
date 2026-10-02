@@ -1,0 +1,54 @@
+
+Houston Methodist Hospital (Medical Center) Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2006   Chandan Krishna          2013   2012-20  7   bio          COMPLETED
+2006   Leonardo Rangel-Castilla 2013   2012-20  7   bio          COMPLETED
+2007   Andrew Livingston        2014   2013-20  7   bio          COMPLETED [ambiguous name]
+2008   Taylor Gist              2015   2014-20  7   bio          COMPLETED
+2009   Blake Staub              2016   2015-20  7   bio          COMPLETED
+2010   Brandon Liebelt          2017   2016-20  7   bio          COMPLETED
+2011   Sean Barber              2018   2017-20  7   bio          COMPLETED
+2011   Robert Scranton          2018   2017-20  7   bio          COMPLETED
+2012   Virendra Desai           2020   2019-20  7   bio          COMPLETED [ambiguous name]
+2012   Meng Huang               2019   2018-20  7   bio          COMPLETED
+2013   Zain Boghani             2020   2019-20  7   bio          COMPLETED
+2013   William Steele           2020   2019-20  7   bio          COMPLETED [ambiguous name]
+2014   Ryan Jafrani             2017   2016-20  3   bio          LEFT -> TRANSFERRED (Penn State Milton S. Hershey Medic)
+2014   Chuan Liang              2015   2014-20  1   bio          LEFT -> did not complete
+2015   Amanda Jenson            2022   2021-20  7   bio          COMPLETED
+2015   Saeed Sadrameli          2022   2021-20  7   bio          COMPLETED
+2016   Ryan Austerman           2023   2022-20  7   bio          COMPLETED
+2016   Jonathan Lee             2023   2022-20  7   bio          COMPLETED [ambiguous name]
+2017   Samuel Asante            2024   2023-20  7   bio          COMPLETED
+2017   Bradley Daniels          2022   2021-20  5   bio          LEFT -> did not complete
+2018   Michael Ghali            2019   2018-20  1   bio          LEFT -> did not complete
+2018   Jaime Guerrero           2025   2024-20  7   bio          COMPLETED
+2018   Marcus Wong              2025   2024-20  7   bio          COMPLETED [ambiguous name]
+2019   Dorian Mambelli          2026   2025-20  7   bio          COMPLETED
+2019   Sibi Rajendran           2026   2025-20  6   bio          COMPLETED
+2019   Suraj Sulhan             2026   2025-20  7   bio          COMPLETED
+2020   John Patterson           -      2026-20  7   roster       IN TRAINING [ambiguous name]
+2020   Lindsey Schwartz         -      2026-20  7   roster       IN TRAINING [ambiguous name]
+2021   Audrey Demand            -      2026-20  6   roster       IN TRAINING
+2022   Ryan Farrell             -      2026-20  5   roster       IN TRAINING
+2022   Dominic Kizek            -      2026-20  5   roster       IN TRAINING
+2023   Lauren Culver            -      2026-20  4   roster       IN TRAINING
+2023   Ismail Mohiuddin         -      2026-20  4   roster       IN TRAINING
+2024   Matthew Goldman          -      2026-20  3   roster       IN TRAINING [ambiguous name]
+2025   Zerubabbel Asfaw         -      2026-20  2   roster       IN TRAINING
+2025   Grant Koskay             -      2026-20  2   roster       IN TRAINING
+2025   Shalin Shah              -      2026-20  2   roster       IN TRAINING [ambiguous name]
+2026   Dominic Chau             -      2026-20  1   roster       IN TRAINING
+2026   Miguel Jimenez           -      2026-20  1   roster       IN TRAINING [ambiguous name]
+2026   Nancy Mize-Gonzalez      -      2026-20  1   roster       IN TRAINING [ambiguous name]
+
+summary:
+    22  COMPLETED
+    14  IN TRAINING
+     3  LEFT -> did not complete
+     1  LEFT -> TRANSFERRED (Penn State Milton S. Hershey Medic)
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

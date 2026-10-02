@@ -1,0 +1,798 @@
+[
+ {
+  "key": "5:kat:wagner",
+  "name": "Kate Wagner",
+  "program_id": 5,
+  "program": "Baylor College of Medicine Program",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "last_seen": "2020-2021",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Baylor alumni lists Kate Wagner 2021 (Private Practice, OR); Southern Oregon Neurosurgical & Spine Associates bio: joined Aug 2021 after training at Baylor; Kathryn Wagner co-authored Baylor papers; Doximity/US News show OHSU MD 2006 only (no residency listed)",
+   "outcome": "completed",
+   "outcome_detail": "Completed Baylor 2021 per alumni page; practising neurosurgeon Medford OR",
+   "current": "neurosurgeon, Southern Oregon Neurosurgical and Spine Associates, Medford OR",
+   "residency_stated": [
+    {
+     "institution": "Baylor College of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2014,
+     "end": 2021
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+     "type": "program_page",
+     "evidence": "2021: Kate Wagner, M.D. - Private Practice, OR"
+    },
+    {
+     "url": "https://www.sonsa.org/providers/kathryn-wagner-m-d/",
+     "type": "search_snippet",
+     "evidence": "joined Southern Oregon Neurosurgical and Spine Associates in August 2021 after completing her training at Baylor College of Medicine"
+    },
+    {
+     "url": "https://www.doximity.com/pub/kathryn-wagner-md-433df2d3",
+     "type": "doximity",
+     "evidence": "OHSU School of Medicine Class of 2006; American Board of Neurological Surgery"
+    },
+    {
+     "url": "https://health.usnews.com/doctors/kathryn-wagner-1412417",
+     "type": "usnews",
+     "evidence": "OHSU School of Medicine medical school; neurosurgeon Portland OR"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "5:him:sharma",
+  "name": "Himanshu Sharma",
+  "program_id": 5,
+  "program": "Baylor College of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2020-2021",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity Houston profile at 1 Baylor Plz lists Baylor neurosurgery residency 2019-2026, Stony Brook MD 2019; other same-name profiles (Hartford CT) are namesakes and were excluded; not on current BCM residents page (fetched Sept 2026)",
+   "outcome": "completed",
+   "outcome_detail": "No departure evidence; residency end 2026, absent from current BCM resident roster (consistent with June 2026 graduation). Post-training position not found.",
+   "current": "unknown (recent graduate)",
+   "residency_stated": [
+    {
+     "institution": "Baylor College of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/himanshu-sharma-md-f798cd3a",
+     "type": "doximity",
+     "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2019 - 2026; Stony Brook Class of 2019"
+    },
+    {
+     "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+     "type": "program_page",
+     "evidence": "current resident list (Sept 2026) does not include Sharma, McGinnis or Snyder"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "5:hud:jackson",
+  "name": "Hudin Jackson",
+  "program_id": 5,
+  "program": "Baylor College of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2020-2021",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "WNEP/UPMC coverage describes Dr. Hudin Jackson as UPMC neurosurgeon in Williamsport; Baylor co-authored papers (with C. Hadley); ZoomInfo lists Baylor research physician; UConn MD",
+   "outcome": "completed",
+   "outcome_detail": "Now practising as a neurosurgeon (UPMC Williamsport) per WNEP snippet; residency dates not stated in a source I could open.",
+   "current": "neurosurgeon, UPMC Williamsport",
+   "residency_stated": [
+    {
+     "institution": "Baylor College of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.wnep.com/article/news/health/healthwatch-16/healthwatch-16-neurosurgery-upmc-medicine-williamsport-dr-hudin-jackson/523-160fc008-069f-49a1-b72d-279bb7ee94d7",
+     "type": "search_snippet",
+     "evidence": "Dr. Hudin Jackson is a neurosurgeon with UPMC, seeing patients in Williamsport"
+    },
+    {
+     "url": "https://digitalcommons.library.tmc.edu/uthshis_docs/454/",
+     "type": "search_snippet",
+     "evidence": "Racial and Socioeconomic Disparities in Patients With Meningioma: authors Hudin N Jackson, Caroline C Hadley et al."
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "5:ale:brenner",
+  "name": "Alex Brenner",
+  "program_id": 5,
+  "program": "Baylor College of Medicine Program",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2026-2027",
+  "last_pgy": 7,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Current BCM resident list (fetched Sept 2026) shows Alex Brenner PGY-7, Columbia P&S; BCM people page 'Alexander Wolff Brenner'; Doximity/WebMD Houston profiles",
+   "outcome": "in_training",
+   "outcome_detail": "Listed as PGY-7 on BCM residents page.",
+   "current": "PGY-7 neurosurgery resident, Baylor",
+   "residency_stated": [
+    {
+     "institution": "Baylor College of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2020,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+     "type": "program_page",
+     "evidence": "Alex Brenner, M.D. - PGY-7, Columbia University College of Physicians and Surgeons"
+    },
+    {
+     "url": "https://www.doximity.com/pub/alexander-brenner-md-b7fe869d",
+     "type": "doximity",
+     "evidence": "Alexander Brenner MD, Other MD/DO, Houston, 7200 Cambridge St (no training listed)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "5:kev:wu",
+  "name": "Kevin Wu",
+  "program_id": 5,
+  "program": "Baylor College of Medicine Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "BCM resident page lists Kevin Wu PGY-2 (Keck/USC); ResearchGate Kevin Wu, Keck SOM medical student, Dept of Neurological Surgery; a 2026 J Neuro-Oncology paper lists Kevin Wu with BCM residents Jonathan, Chen, Flores. Common name; no Doximity/US News profile matched",
+   "outcome": "in_training",
+   "outcome_detail": "Listed PGY-2 on BCM roster 2026-27",
+   "current": "neurosurgery resident PGY-2, Baylor College of Medicine",
+   "residency_stated": [
+    {
+     "institution": "Baylor College of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+     "type": "program_page",
+     "evidence": "BCM Neurological Surgery Residents page lists PGY-2 (Keck/USC) 2026-27"
+    },
+    {
+     "url": "https://www.researchgate.net/profile/Kevin-Wu-67",
+     "type": "search_snippet",
+     "evidence": "Kevin WU | Medical Student | Keck School of Medicine USC | Department of Neurological Surgery"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "5:mat:nguyen",
+  "name": "Matthew Nguyen",
+  "program_id": 5,
+  "program": "Baylor College of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "BCM resident page lists Matthew Nguyen PGY-1 (University of Virginia); BCM Match 2026 announcement names Matthew Nguyen; another snippet describes Matthew Nguyen as PGY-1 BCM Neurosurgery. UVA link not independently found; very common name, Doximity/US News Matthew Nguyens are other specialties",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 on BCM roster 2026-27",
+   "current": "neurosurgery resident PGY-1, Baylor College of Medicine",
+   "residency_stated": [
+    {
+     "institution": "Baylor College of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+     "type": "program_page",
+     "evidence": "BCM Neurological Surgery Residents page lists PGY-1 (University of Virginia) 2026-27"
+    },
+    {
+     "url": "https://www.newsbreak.com/houston-tx-daily-brief-375420257/4550638157445-bcm-neurosurgery-welcomes-new-residents",
+     "type": "news",
+     "evidence": "incoming residents are Sarah Hamimi, Matthew Nguyen, Gabriel Reyes, and Arya Shetty (search snippet summary)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "6:mia:birney",
+  "name": "Mia Birney",
+  "program_id": 6,
+  "program": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temp",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "BSW roster lists Mia Jalee Birney MD (Univ of Kansas) PGY-1; PubMed authorship 'Mia J. Birney' on neurosurgery papers with KU neurosurgery authors (search snippet). No Doximity profile at /pub/mia-birney-md",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY-1 at Temple",
+   "current": "neurosurgery resident PGY-1, BSW Temple",
+   "residency_stated": [
+    {
+     "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.bswhealth.com/medical-professionals/education/graduate-medical-education/temple/neurosurgery-residency/faculty-and-residents",
+     "type": "program_page",
+     "evidence": "PGY-1: Mia Jalee Birney, MD (University of Kansas School of Medicine)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "6:sai:khan",
+  "name": "Saif Khan",
+  "program_id": 6,
+  "program": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temp",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "BSW roster lists Saif Khan MD (Texas Tech HSC) PGY-1; common name so no independent profile matched; Doximity /pub/saif-khan-md not found",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY-1 at Temple per program roster",
+   "current": "neurosurgery resident PGY-1, BSW Temple",
+   "residency_stated": [
+    {
+     "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.bswhealth.com/medical-professionals/education/graduate-medical-education/temple/neurosurgery-residency/faculty-and-residents",
+     "type": "program_page",
+     "evidence": "PGY-1: Saif Khan, MD (Texas Tech University - Health Sciences Center School of Medicine)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "7:ale:enriquez-marulanda",
+  "name": "Alejandro Enriquez-Marulanda",
+  "program_id": 7,
+  "program": "Beth Israel Deaconess Medical Center Program \u00a9 2026 Accreditation Coun",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2026-2027",
+  "last_pgy": 7,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippets/ResearchGate: neurosurgery resident at BIDMC; many BIDMC co-authored papers. Doximity page lists no residency (education 'Other', 2015)",
+   "outcome": "in_training",
+   "outcome_detail": "Neurosurgery resident at BIDMC per ResearchGate/BIDMC research pages; PGY-7 2026-27",
+   "current": "neurosurgery resident, BIDMC",
+   "residency_stated": [
+    {
+     "institution": "Beth Israel Deaconess Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2020,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.researchgate.net/profile/Alejandro-Enriquez-Marulanda",
+     "type": "search_snippet",
+     "evidence": "Neurosurgery resident, Beth Israel Deaconess Medical Center, Boston"
+    },
+    {
+     "url": "https://www.doximity.com/pub/alejandro-enriquezmarulanda-md",
+     "type": "doximity",
+     "evidence": "Boston MA, Other MD/DO, Class of 2015; no residency listed"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "7:mic:avery",
+  "name": "Michael Avery",
+  "program_id": 7,
+  "program": "Beth Israel Deaconess Medical Center Program \u00a9 2026 Accreditation Coun",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2026-2027",
+  "last_pgy": 6,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippets (ZoomInfo/LinkedIn): Michael Avery neurosurgery resident at BIDMC, Case Western med school; co-author with BIDMC neurosurgery (Powers, Moses, Stippler) on lumbar decompression paper. Doximity /pub/michael-avery-md is a different person (DO general surgeon, VA) - namesake rejected",
+   "outcome": "in_training",
+   "outcome_detail": "Neurosurgery resident at BIDMC per snippets",
+   "current": "neurosurgery resident, BIDMC",
+   "residency_stated": [
+    {
+     "institution": "Beth Israel Deaconess Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2021,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.zoominfo.com/p/Michael-Avery/3979245239",
+     "type": "search_snippet",
+     "evidence": "Neurosurgery Resident at Beth Israel Deaconess Medical Center"
+    },
+    {
+     "url": "https://health.usnews.com/doctors/andrew-powers-1815982",
+     "type": "usnews",
+     "evidence": "Publication: Predicting rehabilitation discharge after lumbar decompression ... Michael Avery, ... Andrew Y Powers ... Ziev B Moses"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "7:jus:im",
+  "name": "Justin Im",
+  "program_id": 7,
+  "program": "Beth Israel Deaconess Medical Center Program \u00a9 2026 Accreditation Coun",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity Justin Im MD, Neurosurgery, 330 Brookline Ave Boston (BIDMC), Univ at Buffalo Class of 2025, MA license 2025; co-author on BIDMC paper",
+   "outcome": "in_training",
+   "outcome_detail": "Current PGY-2; no residency line on Doximity",
+   "current": "neurosurgery resident, BIDMC",
+   "residency_stated": [
+    {
+     "institution": "Beth Israel Deaconess Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/justin-im-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Boston MA, 330 Brookline Avenue; Jacobs School of Medicine Class of 2025"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "8:bre:klein",
+  "name": "Brendan Klein",
+  "program_id": 8,
+  "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+  "entry_year": 2016,
+  "first_seen": "2016-2017",
+  "last_seen": "2022-2023",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Carilion Clinic provider page/search snippets list Brendan J. Klein DO as pediatric neurosurgery provider at Carilion Clinic Neurosurgery Roanoke; Rocky Vista DO 2015; co-author of Carilion neurosurgery resident papers (with Busch, Benko, Cuoco, Guilliams). Doximity/US News list no residency line.",
+   "outcome": "completed",
+   "outcome_detail": "Now practising as pediatric neurosurgery provider at Carilion Clinic (search snippet); exact graduation year (2023 per DB inference) not stated by sources",
+   "current": "pediatric neurosurgeon, Carilion Clinic / Carilion Children's, Roanoke VA",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.carilionclinic.org/providers/brendan-j-klein-do",
+     "type": "program_page",
+     "evidence": "Search snippet: Brendan J. Klein, D.O. is a Pediatric Neurosurgery provider ... Carilion Clinic Neurosurgery - Roanoke; medical degree Rocky Vista University"
+    },
+    {
+     "url": "https://www.doximity.com/pub/brendan-klein-do-6c9dfe14",
+     "type": "doximity",
+     "evidence": "Rocky Vista University College of Osteopathic Medicine Class of 2015; specialty listed Other MD/DO; no residency line"
+    },
+    {
+     "url": "https://health.usnews.com/doctors/brendan-klein-3374987",
+     "type": "usnews",
+     "evidence": "Specialty Other or Unknown; affiliated Carilion Roanoke Memorial Hospital; Rocky Vista medical school; no residency line"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "8:evi:guilliams",
+  "name": "Evin Guilliams",
+  "program_id": 8,
+  "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "last_seen": "2023-2024",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search snippets: neurosurgeon Evin Guilliams DO, Edward Via COM 2017 (entry 2017), Roanoke VA then UK King's Daughters (Ashland KY); co-author of Carilion neurosurgery resident papers",
+   "outcome": "completed",
+   "outcome_detail": "Practising neurosurgeon (King's Daughters Brain & Spine, Ashland KY; earlier listing Wolfson Children's/Baptist Jacksonville); no profile states residency years",
+   "current": "neurosurgeon, UK King's Daughters, Ashland KY (per search snippets)",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.kingsdaughtershealth.com/providers/evin-guilliams-d-o-/",
+     "type": "search_snippet",
+     "evidence": "UK King's Daughters neurosurgeon Evin Guilliams, D.O., didn't take the traditional path to becoming a physician"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-evin-guilliams-xyn6qpy",
+     "type": "search_snippet",
+     "evidence": "Dr. Evin Guilliams, DO - Neurosurgeon ... graduated from the Edward Via Virginia College of Osteopathic Medicine in 2017"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "8:sri:adhikari",
+  "name": "Srijan Adhikari",
+  "program_id": 8,
+  "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2021-2022",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity/US News Quinnipiac Netter MD 2019 (matches DB entry), VA license 2019-2022, publications co-authored with Carilion neurosurgery faculty; NOT the Ypsilanti/Chicago neurocritical care physician (Nepal Medical College)",
+   "outcome": "completed",
+   "outcome_detail": "Absent from Carilion 2026-27 resident page after PGY7 in 2025-26 (graduated ~June 2026). Doximity and US News now list Resident Physician, Portland OR (3181 SW Sam Jackson Park Rd, OHSU address); OHSU neurosurgery resident page does not list him, so the Portland role (fellowship vs other residency) is unverified",
+   "current": "Resident Physician, Portland OR (OHSU address); specialty not stated",
+   "residency_stated": [
+    {
+     "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/srijan-adhikari-md-e522a16e",
+     "type": "doximity",
+     "evidence": "Resident Physician, Portland OR; Quinnipiac Class of 2019; VA State License 2019 - 2022; no residency line"
+    },
+    {
+     "url": "https://health.usnews.com/doctors/srijan-adhikari-3073787",
+     "type": "usnews",
+     "evidence": "Resident Physician, Portland, OR; Quinnipiac Netter MD; VA license active through 2022; no residency line"
+    },
+    {
+     "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+     "type": "program_page",
+     "evidence": "Current resident list has no Adhikari (PGY7 slot held by Hoggarth)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "8:ous:jallow",
+  "name": "Ousman Jallow",
+  "program_id": 8,
+  "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Carilion page lists Ousman Jallow MD PGY2; WebMD lists Ousman Jallow neurological surgery at Carilion Roanoke Memorial address; Doximity Roanoke (Carilion address) record is garbled",
+   "outcome": "in_training",
+   "outcome_detail": "PGY2 in 2026-27. CONFLICTS: Doximity shows Meharry class 2024 plus an orthopaedic residency UCSD 2020-2025 (impossible, likely merged record); WebMD shows Univ of Wisconsin school; an ASBN X snippet says he matched at OU Neurosurgery",
+   "current": "neurosurgery resident PGY2, Carilion, Roanoke VA",
+   "residency_stated": [
+    {
+     "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+     "type": "program_page",
+     "evidence": "Ousman Jallow, MD - PGY2 Resident"
+    },
+    {
+     "url": "https://doctor.webmd.com/doctor/ousman-jallow-1b229ddc-7223-4aca-9345-f52148166dd9-overview",
+     "type": "search_snippet",
+     "evidence": "Neurological Surgery, 1906 Belleview Ave SE, Roanoke (Carilion Roanoke Memorial)"
+    },
+    {
+     "url": "https://www.doximity.com/pub/ousman-jallow-md",
+     "type": "doximity",
+     "evidence": "Orthopaedic Surgery, Roanoke VA; Meharry Class of 2024; Residency Orthopaedic Surgery UCSD 2020-2025 (inconsistent)"
+    },
+    {
+     "url": "https://x.com/amsobns/status/1910815129576354041",
+     "type": "search_snippet",
+     "evidence": "Ousman Jallow matched at @OU_Neurosurgery (post could not be opened, HTTP 402)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "8:ann:haymov",
+  "name": "Anna Haymov",
+  "program_id": 8,
+  "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Carilion page lists Anna Haymov DO PGY1; search shows Anna Haymov as MS-4 at LECOM with neurosurgery case reports (2025-26), consistent with a 2026 entrant",
+   "outcome": "in_training",
+   "outcome_detail": "PGY1 2026-27 (intern year)",
+   "current": "neurosurgery resident PGY1, Carilion, Roanoke VA",
+   "residency_stated": [
+    {
+     "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+     "type": "program_page",
+     "evidence": "Anna Haymov, DO - PGY1 Resident"
+    },
+    {
+     "url": "https://surgicalneurologyint.com/surgicalint-articles/resolution-of-progressive-aphasia-following-resection-of-a-left-frontotemporal-glioblastoma-a-6-month-outcome-case-report/",
+     "type": "search_snippet",
+     "evidence": "Anna Haymov, Department of Neurosurgery, Lake Erie College of Osteopathic Medicine (MS-4)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "8:vin:mathew",
+  "name": "Vincy Mathew",
+  "program_id": 8,
+  "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Carilion page lists Vincy Mathew DO PGY1; NYITCOM DO student with neurosurgery research (St. Barnabas). Doximity hits are NP/pharmacist namesakes",
+   "outcome": "in_training",
+   "outcome_detail": "PGY1 2026-27 per Carilion page. UNRESOLVED CONFLICT: a search snippet says Vincy Mathew is training as a neurosurgery resident at OU Health OU Neurosurgery",
+   "current": "neurosurgery resident PGY1, Carilion, Roanoke VA (per program page)",
+   "residency_stated": [
+    {
+     "institution": "Carilion Clinic-Virginia Tech Carilion School of Medicine",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://gme.carilionclinic.org/neurosurgery-residency/residents",
+     "type": "program_page",
+     "evidence": "Vincy Mathew, DO - PGY1 Resident"
+    },
+    {
+     "url": "https://www.linkedin.com/in/vincy-mathew-55a204220/",
+     "type": "search_snippet",
+     "evidence": "training as a neurosurgery resident at OU Health OU Neurosurgery (LinkedIn page not openable, HTTP 999)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "9:eri:miller",
+  "name": "Erin Miller",
+  "program_id": 9,
+  "program": "Carolinas Medical Center Program",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2025-2026",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Atrium page lists Erin Miller MD PGY-3; 'L Erin Miller' (Lindsey Erin Miller, UTHSC MD 2023, Charlotte neurological surgery, 1000 Blythe Blvd) co-authors CMC faculty papers with Peters/Wait. Doximity 'Erin Miller' hit is a Raleigh PA (namesake)",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-3",
+   "current": "neurosurgery resident, Carolinas Medical Center, Charlotte NC",
+   "residency_stated": [
+    {
+     "institution": "Carolinas Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2023,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://atriumhealth.org/education/graduate-medical-education/physician-residencies/neurological-surgery/residents",
+     "type": "program_page",
+     "evidence": "PGY-3: Erin Miller, MD"
+    },
+    {
+     "url": "https://www.vitals.com/doctors/MedicalDoctors_Lindsey_Erin_Miller.html",
+     "type": "search_snippet",
+     "evidence": "Dr. Lindsey Erin Miller - Charlotte, NC - Neurological Surgery ... graduated medical school in 2023"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "9:aus:allen",
+  "name": "Austin Allen",
+  "program_id": 9,
+  "program": "Carolinas Medical Center Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2025-2026",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Atrium page lists Austin Allen MD PGY-2; Austin J. Allen, UNC MD 2024, began CMC neurosurgery residency 2024 (UNC news, WebMD Charlotte neurosurgery listing); Doximity/US News hits absent",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-2",
+   "current": "neurosurgery resident, Carolinas Medical Center, Charlotte NC",
+   "residency_stated": [
+    {
+     "institution": "Carolinas Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://atriumhealth.org/education/graduate-medical-education/physician-residencies/neurological-surgery/residents",
+     "type": "program_page",
+     "evidence": "PGY-2: Austin Allen, MD"
+    },
+    {
+     "url": "https://news.unchealthcare.org/2024/04/five-questions-with-austin-allen/",
+     "type": "search_snippet",
+     "evidence": "Five Questions with Austin Allen (UNC; matched at Carolinas Medical Center)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "9:pet:drossopoulos",
+  "name": "Peter Drossopoulos",
+  "program_id": 9,
+  "program": "Carolinas Medical Center Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Atrium Health Neurological Surgery residents page lists Peter Drossopoulos as PGY-1, UNC School of Medicine; no Doximity/US News profile found",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 in Carolinas Medical Center neurosurgery residency (2025-26); listed on the program residents page. (Web search snippets attributing Duke awards to a 'Peter Drossopoulos' were not used: likely a namesake/unreliable.)",
+   "current": "neurosurgery resident PGY-1, Atrium Health Carolinas Medical Center, Charlotte NC",
+   "residency_stated": [
+    {
+     "institution": "Atrium Health Carolinas Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://atriumhealth.org/education/graduate-medical-education/physician-residencies/neurological-surgery/residents",
+     "type": "program_page",
+     "evidence": "Peter Drossopoulos, PGY-1, UNC School of Medicine (WebFetch summary)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

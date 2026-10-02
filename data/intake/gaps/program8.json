@@ -1,0 +1,260 @@
+{
+ "program_id": 8,
+ "name": "Carilion Clinic-Virginia Tech Carilion School of Medicine Program (Roanoke, VA)",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "www.carilionclinic.org/Carilion/Neurosurgery+Residency, /Carilion/Neurosurgery_Residency (+ _Our_People subpage, never archived)",
+   "from": "2010-02",
+   "to": "2012-07"
+  },
+  {
+   "url": "www.carilionclinic.org/education/neurosurgery-residents (-people, -residency)",
+   "from": "2013-02",
+   "to": "2013-06"
+  },
+  {
+   "url": "www.carilionclinic.org/neurosurgery/residency/current-residents (Common Crawl only)",
+   "from": "2014-07",
+   "to": "2015-09"
+  },
+  {
+   "url": "www.carilionclinic.org/neurosurgery/residency (+ /residents link, never archived)",
+   "from": "2016-08",
+   "to": "2017-10 (301)"
+  },
+  {
+   "url": "www.carilionclinic.org/graduate-medical-education/resident-fellow-directory (all-program directory)",
+   "from": "2017-06",
+   "to": "2017-06"
+  },
+  {
+   "url": "www.carilionclinic.org/neurosurgery-residency (Drupal; roster JSON-embedded from 2022)",
+   "from": "2019-09",
+   "to": "2024-07 (301 to gme)"
+  },
+  {
+   "url": "gme.carilionclinic.org/neurosurgery-residency/residents, /graduates",
+   "from": "2024-07",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2016-2017",
+  "2017-2018 (partial, 2 names)",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024 (incomplete)",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2015-2016",
+  "2017-2018 (supplement)",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2024-2025"
+ ],
+ "missing_years": [
+  "2011-2012",
+  "2015-2016",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2024-2025"
+ ],
+ "gap_details": {
+  "2011-2012": "Carilion/Neurosurgery_Residency captures 2011-2012 hold only program text; roster subpage Neurosurgery_Residency_Our_People linked but never archived (CDX exact+prefix, all statuses). Common Crawl carilion/neurosurgery 2011-12: no hits. Reconstructed from 2012-13 + graduates list.",
+  "2015-2016": "No Wayback capture of any residents URL. Common Crawl current-residents copies Mar-Sep 2015 all carry the unchanged 2014-15 list (stale). /neurosurgery/residency/residents (2016) never archived; CC-MAIN-2016-36 retried: no roster URL. Reconstructed.",
+  "2017-2018": "Only a news feature naming 2 residents (Busch 4th yr, Rogers 5th yr). /neurosurgery/residency 301/302 from Nov 2016; resident-fellow-directory captured once (Jun 2017). CC 2017-2018 (incl. retried 2018-09): no roster URL.",
+  "2018-2019": "No capture of any roster; www.carilionclinic.org/neurosurgery-residency first captured 2019-09 and holds no residents. CC 2018-2019 (retried 2019-04): none.",
+  "2019-2020": "2019-09 and 2020-12 captures of /neurosurgery-residency carry faculty only (Angular/Drupal; resident list absent). carilion-api get-node-from-alias only captured 2022. CC: none.",
+  "2020-2021": "2021-08 and 2021-10 captures carry no resident list; first list appears May 2022. CC: none.",
+  "2021-2022": "Only roster capture is 2022-05-17 (late in year); used.",
+  "2023-2024": "Dec 2023/Mar 2024/Apr 2024 captures omit PGY 3 and PGY 5 groups; Adhikari (PGY 4 2022-23, PGY 7 2025-26) missing from page.",
+  "2024-2025": "/neurosurgery-residency 301 to gme.carilionclinic.org in Jul 2024; gme residents page first archived 2026-06; about-us captures (2024-07..2025-11) list no names. CC gme host 2024-2025: no roster hits. Reconstructed (bracketed only).",
+  "2026-2027": "Live page heading still reads 'Academic Year 2025-2026' but PGY levels are advanced vs the Jun-2026 capture and two new PGY1s added; treated as 2026-27."
+ },
+ "alumni_page": "https://gme.carilionclinic.org/neurosurgery-residency/graduates",
+ "departures": [
+  {
+   "name": "Stacy Hatcher",
+   "last_ay": "2021-2022",
+   "last_pgy": 1,
+   "note": "left after PGY1; outcome unknown. NPI (Stacy Ellen Hatcher DO) is student-only; the adjudicator's specialty switch is a namesake"
+  },
+  {
+   "name": "Brittany Stopa",
+   "last_ay": "2023-2024",
+   "last_pgy": 1,
+   "note": "left after PGY1 (2024); replaced at PGY2 by Courville; outcome unknown"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Thomas Frimpong",
+   "first_ay": "2013-2014",
+   "first_pgy": 4,
+   "note": "transfer in, origin unknown"
+  },
+  {
+   "name": "Blake Walker",
+   "first_ay": "2020-2021",
+   "first_pgy": 7,
+   "note": "transfer in from Wayne State/DMC (program 125, closed); graduated 2021"
+  },
+  {
+   "name": "Evan Courville",
+   "first_ay": "2024-2025",
+   "first_pgy": 2,
+   "note": "transfer in from UNM surgery/research; in training"
+  }
+ ],
+ "residents_2011plus": 19,
+ "adjudication_summary": {
+  "COMPLETED": 15,
+  "IN TRAINING": 8,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> outcome unknown": 1,
+  "note": "Walker not in roster tables (graduates-page training_history row only). 14 graduates inserted into training_history (Rogers, Busch, Walker end_year NULL)."
+ },
+ "problems": "Program began 2006 as AOA (osteopathic) residency; ACGME initial accreditation 2017. AOA-era OGME labels, completion after OGME-6 (McNeal, Marvin, Logan, Sawvel, Synkowski graduated at OGME/PGY6); 7 years for the 2015+ entrants (Benko, Klein PGY7). Rogers/Busch completion year (6 vs 7 years) unknown. Four consecutive unobserved years 2017-18..2020-21 (only 2-name partial in 2017-18) so the 2017-2020 entrant classes and Walker are unconfirmed for those years; 2024-25 unobserved. 2023-24 page incomplete. Graduates page has no years and is not updated past Cuoco (Guilliams, Adhikari missing). Busch NPI match earlier flagged 'switched specialty' is overridden by graduates list. Phase 2: the adjudicator still labels Hatcher 'switched specialty' from an NPI namesake; training_history row says departure_type unknown.",
+ "terminal_pgy_by_entry_year": {
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 6,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "All 6 bracketed by the complete Feb-2013 list and the graduates list; Carilion 2010 GME class article shows 1 neurosurgery intern in 2010; CC 2009-2013 has no Our_People roster"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete OGME-1..6 list"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "CC 2014-07"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "CC 2014-10"
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "CC 2015 copies stale; all 7 bracketed by 2014-15 and 2016-17 rosters or graduates list; only possible unseen event is a 2015 intern replaced before 2016-17 (Benko first seen PGY2)"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "GME directory Jun 2017"
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "article gives Busch/Rogers; others bracketed; Guilliams added from PubMed Carilion affiliation"
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Carilion pages were JS shells; seniors bracketed; Guilliams and Cuoco confirmed by PubMed Carilion affiliations"
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "as 2018-19; Adhikari (2019 entrant) not listed until 2021-22"
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Walker transfer-in PGY7 confirmed (WSU->Carilion via PubMed); Busch PGY7 probable; Adhikari/Hoggarth unlisted but seen at correct PGY in 2021-22"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "May 2022"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Oct 2022"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "PGY3/PGY5 groups omitted but Hoggarth/Adhikari bracketed"
+  },
+  "2024-2025": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "7 rows incl. Courville (PGY2 transfer-in, Carilion affiliation Feb 2025) and Bhutada; about-us says 7 residents (static text, weak)"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jun 2026"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Common Crawl rerun 2008-2014 (carilion, education prefixes) and 2015-2025 (neurosurgery, gme, graduate-medical-education, resident-fellow-directory) with fixed filter; 2015-25 run was still in progress at handback (pid 57952, restarted after first run died at 3 pairs, log data/raw/extraction/p8/phase2/cc_pairs_log.txt); CC returned 403 for a while",
+   "full-host Wayback URL audit from phase-1 CDX dumps",
+   "carilion-api node captures",
+   "gme about-us/testimonials/neurosurgery-research pages",
+   "PubMed affiliation mining 2011-2026",
+   "NPPES",
+   "program 125 roster (crossmatch)"
+  ],
+  "found": [
+   "Walker = WSU resident, transfer in 2020-21 PGY7",
+   "Courville transfer in 2024-25 PGY2",
+   "Guilliams completed 2024 (PGY7 roster + NPI neurosurgery)",
+   "Rogers graduated 2019 (MD Anderson 2019-20)",
+   "Busch probably 2021",
+   "Hatcher NPI switch was a namesake",
+   "2010 GME article: 1 neurosurgery intern in 2010"
+  ],
+  "remaining": [
+   "no actual roster for 2017-18..2020-21 or 2024-25",
+   "Hatcher and Stopa destinations unknown",
+   "Busch graduation year 2020 vs 2021",
+   "CC 2016-2025 rerun unfinished"
+  ]
+ }
+}

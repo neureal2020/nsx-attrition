@@ -1,0 +1,230 @@
+{
+ "program_id": 74,
+ "name": "University of California (Irvine) Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "neurosurgery.uci.edu/residency.shtml, /residrein.shtml (old static site; pre-window)",
+   "from": "2008-07",
+   "to": "2010-08"
+  },
+  {
+   "url": "neurosurgery.uci.edu/residency.asp (unlabelled resident list 2011-2013; PGY-labelled roster section 2019-12..2024-04)",
+   "from": "2011-01",
+   "to": "2024-04"
+  },
+  {
+   "url": "neurosurgery.uci.edu/resident-bios.asp ('Meet Our Residents', PGY-labelled, headed 'residents for YYYY-YYYY')",
+   "from": "2014-10",
+   "to": "2019-07"
+  },
+  {
+   "url": "neurosurgery.uci.edu/resident-alumni.asp (alumni list)",
+   "from": "2016-07",
+   "to": "2019-07"
+  },
+  {
+   "url": "neurosurgery.uci.edu/news_Residency_Program_Year4.asp (June-2011 '2010-2011 residents' photo caption)",
+   "from": "2012-01",
+   "to": "2020-07"
+  },
+  {
+   "url": "medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni (residents by 'Class of' + alumni; live; all neurosurgery.uci.edu URLs now 301 to medschool.uci.edu)",
+   "from": "2024-10",
+   "to": "2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Wayback 20120120 residency.asp: alphabetical list of 7 names with no PGY. PGYs inferred from the labelled 2013-14 roster (minus 2) and alumni class years; list matches the June-2011 '2010-2011 residents' photo caption plus new intern Kaloostian. Complete, but PGYs are inferred.",
+  "2012-2013": "SIGNIFICANT. No 2012-13 roster: Wayback 20121107 residency.asp and Common Crawl CC-MAIN-2013-20 (2013-05-19) show the unchanged 2011-12 list (no 2012 intern); gapaudit of neurosurgery.uci.edu 2012-06..2014-09 found no other roster/news/gallery page naming residents. Reconstructed 8: seven bracketed 2011-12/2013-14 plus Reeves (alumni 2013) and Paff (PGY-2 in 2013-14, alumni 2019) as PGY-1. A 2012-13 joiner/leaver not seen in 2013-14 would be invisible.",
+  "2013-2014": "Wayback resident-bios.asp 20141018 headed 'residents for 2013-2014' (page not updated until 2015); corroborated by Common Crawl CC-MAIN-2013-48 residency.asp 2013-12-10 (same 8 names, no PGY). Wayback residency.asp 20131014 still the stale 2011-12 list.",
+  "2014-2015": "Only 2014-15 versions are 2015-04-03 / 2015-08-04 (resident-bios, labelled 2014-15). Complete.",
+  "2015-2016": "resident-bios 2016-03-26 (2015-09 version identical minus the PGY-1). Two PGY-7s: Alexandru listed PGY-7 in both 2014-15 and 2015-16 (entry year 2008 vs 2009 inconsistent; alumni Class of 2016).",
+  "2019-2020": "residency.asp 2020-05-20 used (2019-12-01 version lacks Davies and lists Roufail as PGY-6).",
+  "2020-2021": "residency.asp 2021-05-09, heading still says 2019-2020 but content-dated 2020-21 (Tran/Oh PGY-7, Lopez PGY-1).",
+  "2021-2022": "residency.asp captured 2021-07-02 and 2022-07-02 (identical, explicit 2021-2022 heading); no capture in between.",
+  "2022-2023": "Captures 2023-01-31 and 2023-04-02 still showed the 2021-22 list; 2023-07-02 capture carries the 2022-23 roster (explicit heading, content-dated). Used 2023-07-02.",
+  "2023-2024": "Only capture 2024-04-22 (explicit 2023-2024 heading); old host last captured then.",
+  "2026-2027": "Live page fetched 2026-09-27; advanced vs 2025-26 (Campos/Zhang to alumni, Faraj/Lo new)."
+ },
+ "alumni_page": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+ "departures": [
+  {
+   "name": "Isidora Beach",
+   "last_ay": "2023-2024",
+   "last_pgy": 1,
+   "outcome": "left, destination unknown (th: completed=no, departure_type=unknown)",
+   "note": "PGY-1 2023-24 (Wayback 20240422); absent Oct 2024 onward and not on alumni list. Not on any other study program roster; NPPES only a 2023 VT student NPI; no PubMed after 2024 (a 2024 paper's Dell Med affiliation predates residency)."
+  },
+  {
+   "name": "Marlon Mathews",
+   "last_ay": "2014-2015",
+   "last_pgy": 7,
+   "outcome": "completion NOT confirmed (th: completed=unknown)",
+   "note": "PGY-7 2014-15, still listed on Aug-2015 page (heading 2014-2015), gone Sep 2015. Omitted from the 2016 alumni list, which lists Classes 2013, 2014 and 2016 but no 2015, and from the 2019 and live lists. Last UCI-affiliated paper 2016, no later neurosurgery publications. NPPES (enumerated 2008-07, CA) now Family Medicine/Sports Medicine, Palm Springs: suggestive only. Probable non-completion, unconfirmed."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "George Hanna",
+   "first_ay": "2017-2018",
+   "first_pgy": 5,
+   "origin": "Loma Linda (31), PGY-4 2016-17; 2017 Loma Linda exodus",
+   "grad": 2020
+  },
+  {
+   "name": "Nathan Oh",
+   "first_ay": "2017-2018",
+   "first_pgy": 4,
+   "origin": "Loma Linda (31), PGY-3 2016-17; 2017 Loma Linda exodus",
+   "grad": 2021
+  },
+  {
+   "name": "Jordan Davies",
+   "first_ay": "2019-2020",
+   "first_pgy": 2,
+   "origin": "University of New Mexico (97), PGY-1 2018-19 (UCI bio); UNM roster lacks him (2018-19 reconstructed there)",
+   "grad": 2025
+  }
+ ],
+ "residents_2011plus": 25,
+ "adjudication_summary": {
+  "COMPLETED": 18,
+  "IN TRAINING": 11,
+  "LEFT -> outcome unknown": 1,
+  "LEFT -> did not complete": 1,
+  "note": "Mathews = outcome unknown (PGY-7, no alumni listing); Beach = left after PGY-1. Transfer-in rows (start_year = year joined) for Hanna, Oh, Davies."
+ },
+ "problems": "Program began July 2008 (first residents 2008), so the 2011-12 window starts mid-stream; 2011-12 PGYs inferred (unlabelled list). 2012-13 reconstructed. Hanna and Oh both appear in 2017-18 without having been on the 2016-17 roster (Feb 2017 capture) -> transfers in. Davies added mid-2019-20 (between 2019-12 and 2020-05). Complement: 1/yr through the 2018 entry class (occasional 2 via transfers), 2/yr from 2019 except 2020 and 2022 (1). Common Crawl 2012-2013 done (CC-MAIN-2012, 2013-20, 2013-48), no failures. PHASE 2: no program-page roster for 2012-13 exists anywhere; Davies (UNM PGY-1 2018-19) is missing from program 97's reconstructed 2018-19 roster -- flag for the UNM file.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "complete unlabelled list (Jan 2012); PGYs inferred from 2013-14 labels and alumni classes, confirmed for Gill (news: PGY-2 in June 2011); one resident per class"
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "no roster exists (page stale to Oct 2013); every 2011-12 resident reappears in 2013-14 or graduated (Reeves 2013), so no known resident could leave unseen; only an extra 2012 entrant/transfer who left before Oct 2013 could be missed, and the complement was 1/yr (Paff = 2012 intern)"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "resident-bios headed 2013-2014 (Oct-2014 capture), corroborated by Common Crawl 2013-12-10 (same 8 names)"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster capture, content-dated"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster capture, content-dated"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster capture, content-dated"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster capture, content-dated"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster capture, content-dated"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "May-2020 version (Davies added mid-year, transfer from UNM)"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "May-2021 capture, content-dated (heading stale)"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster capture, content-dated"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster capture, content-dated"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster capture, content-dated"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster capture, content-dated"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "labelled roster capture, content-dated"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page, advanced vs 2025-26"
+  }
+ },
+ "notes_phase2": {
+  "Daniela Alexandru": "Listed PGY-6 2013-14, PGY-7 in both 2014-15 and 2015-16; entry 2008 (with Mathews), graduated 2016 (alumni) after 8 years: an extended/repeated final year, not an entry-year conflict. Completed.",
+  "Joseph Lockwood": "Tulane (66) resident, graduated 2023; at UCI only as a 2023-24 skull-base FELLOW (Meet Our Fellows page). Never on UCI resident rosters; not a UCI resident. Recorded under program 66 (th 2919).",
+  "terminal_pgy": "7 for all cohorts; no length change."
+ },
+ "phase2": {
+  "searched": [
+   "Wayback CDX all URLs on neurosurgery.uci.edu 2012-06..2014-09 (news.asp, gallery.asp, news_gill_sterling_staph_award.asp, index.asp, about.asp fetched): no 2012-13 roster or intern news",
+   "Common Crawl 2012-2013 (CC-MAIN-2012, 2013-20, 2013-48) from phase 1, no failures; both hits re-read (stale 2011-12 list / 8 names Dec 2013)",
+   "resident-bios.asp versions 2015-03..2016-07 and resident-alumni.asp 2016-07 (Mathews check)",
+   "PubMed affiliation mining UCI neurosurgery 2011-2015 (56 PMIDs): no unknown resident",
+   "PubMed author searches Mathews MS, Beach I, Davies J; NPPES Mathews, Beach",
+   "residency.asp 2020-05 and 2024-04 bios (Davies origin, Beach bio)",
+   "crossmatch.json and program 31/66/97 roster files"
+  ],
+  "found": [
+   "Davies transferred from UNM after PGY-1 (UCI bio)",
+   "Gill PGY-2 in June 2011 (news page) confirms inferred 2011-12 PGYs",
+   "Mathews on Aug-2015 page as PGY-7; 2016 alumni list omits a Class of 2015"
+  ],
+  "remaining": [
+   "2012-13 has no roster (low: only an unseen extra 2012 entrant who left within a year could be missed)",
+   "Mathews completion unconfirmed",
+   "Beach destination unknown"
+  ]
+ }
+}

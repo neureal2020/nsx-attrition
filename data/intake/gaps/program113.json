@@ -1,0 +1,236 @@
+{
+ "program_id": 113,
+ "name": "University of Virginia Medical Center Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.healthsystem.virginia.edu/internet/neurosurgery/ (old UVA Health System site; no resident roster found)",
+   "from": "2006",
+   "to": "2010"
+  },
+  {
+   "url": "http://www.medicine.virginia.edu/clinical/departments/neurosurgery/residenttraining (Plone; 'CURRENT RESIDENTS' alphabetical list, no PGYs, co-chiefs and NIH marked)",
+   "from": "2010-07",
+   "to": "2015-09"
+  },
+  {
+   "url": "http://www.medicine.virginia.edu/clinical/departments/neurosurgery/residenttraining/current-residents (+ current-resident-folder/<name> bios; PGY-1..7 groups)",
+   "from": "2015-02",
+   "to": "2015-09"
+  },
+  {
+   "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/ (WordPress; PGY groups; bios at current-residents/<name>-md/)",
+   "from": "2016-08",
+   "to": "live 2026-09-27 (no Wayback capture 2016-09..2019-07 or 2020-10..2023-01)"
+  },
+  {
+   "url": "https://med.virginia.edu/neurosurgery/resident-training/past-residents/ -> uva-former-neurosurgery-resident-current-positions/ (alumni, no years)",
+   "from": "2016-08",
+   "to": "live"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Old residenttraining page, Nov 2011 (Last Modified 10-27-2011). Alphabetical list with no PGYs. PGYs inferred from entry years: later PGY-labelled rosters, or co-chief = PGY-7 for the 2005-07 entrants. Same list Aug 2011 to Feb 2012. Veronesi is gone by May 2012.",
+  "2012-2013": "Apr 2013 capture (Last Modified 11-8-2012), no PGYs, inferred as above. The Sep 2012 capture (Last Modified 7-9-2012) was half-updated: graduates removed, no interns, and Koga still marked co-chief. The Nov 2013 capture is identical to Apr 2013, so it is stale.",
+  "2013-2014": "Feb 2014 capture (Last Modified 12-16-2013), no PGYs, inferred.",
+  "2014-2015": "current-residents page, Feb 2015, with PGY groups.",
+  "2015-2016": "current-residents page, Sep 2015, with PGY groups.",
+  "2016-2017": "INCOMPLETE. The only capture is Aug 2016 (first capture of the new WordPress site). PGY-2..7 are rolled over, but there is no PGY-1 group. Missing: the 2016 interns Capek and Kumar, plus any 2016 intern who left during PGY-1. Nothing else in Wayback 2016-09..2019-07. Common Crawl 2016 (9 crawls, run here) and 2017 H1 (run for program 14) had no capture.",
+  "2017-2018": "Common Crawl CC-MAIN-2017-39 (2017-09-20), UVA page with PGY groups. Same list in CC Nov 2017, Feb 2018 and May 2018.",
+  "2018-2019": "Common Crawl CC-MAIN-2018-43 (2018-10-16), with PGY groups. Same list in CC Aug 2018 and Dec 2018.",
+  "2019-2020": "Wayback Aug 2019. Same list Oct and Dec 2019.",
+  "2020-2021": "Wayback Sep 2020.",
+  "2021-2022": "No capture of the roster page between 2020-09 and 2023-02, in Wayback or in Common Crawl 2021-22 (15 crawls, only two bio pages). Used the 'Current Residents' submenu, one link per resident, on the program-director page (Wayback Dec 2021; Jan 2022 identical). It has no PGYs; they are inferred from the bracketing years. All expected residents are present and there are no extras.",
+  "2022-2023": "Wayback Feb 2023. May 2023 identical.",
+  "2023-2024": "The only capture of this list is May 2024, a spring capture content-dated to 2023-24. The Nov 2023 bio-page submenu has the same UVA residents.",
+  "2024-2025": "Wayback Oct 2024. In the Mar 2025 capture, Duy Phan is gone from PGY-2.",
+  "2025-2026": "Wayback Aug 2025. Same list Dec 2025, Mar 2026 and Jun 2026.",
+  "2026-2027": "Live page, fetched 2026-09-27. It has advanced from 2025-26 (new interns Dux, Rolfe, Sindewald)."
+ },
+ "alumni_page": "https://med.virginia.edu/neurosurgery/resident-training/uva-former-neurosurgery-resident-current-positions/",
+ "departures": [
+  {
+   "name": "Michael Veronesi",
+   "last_ay": "2011-2012",
+   "last_pgy": 2,
+   "outcome": "switched_specialty (radiology)",
+   "note": "2010 intern; gone by May 2012; not on alumni page. PubMed: Veronesi MC, UVA Neurosurgery (PMID 22189878, 2012) -> Indiana University Radiology & Imaging Sciences 2020-23 -> UW-Madison Radiology (neuroradiology) 2024-26. training_history row, end_year 2012."
+  },
+  {
+   "name": "Mohamad Khaled",
+   "last_ay": "2012-2013",
+   "last_pgy": 5,
+   "outcome": "transferred to Wayne State/DMC (program 125), graduated there 2015",
+   "note": "On UVA 'CURRENT RESIDENTS' list (not FELLOWS) Jul 2010 to Apr 2013, absent Feb 2014. Wayne State roster Jan 2015: Chief Resident (PGY-7) 2014-15; Wayne State alumni page: 2015 graduate. UVA PGYs inferred (entry 2008, continuous training): PGY-4 2011-12, PGY-5 2012-13. Rows written on both sides (113 transferred, end 2013; 125 start 2013, completed 2015)."
+  },
+  {
+   "name": "Duy Phan",
+   "last_ay": "2024-2025",
+   "last_pgy": 2,
+   "outcome": "unknown",
+   "note": "2023 intern (Yale MD 2023, PhD 2021). PGY-2 Oct 2024; gone from Mar 2025 roster; bio page last captured Oct 2024 and 404 live. No PubMed/Europe PMC record with a later affiliation; not on any other program's roster in this project; crossmatch has no match."
+  },
+  {
+   "name": "Vaibhav Vagal",
+   "last_ay": "2025-2026",
+   "last_pgy": 1,
+   "outcome": "unknown",
+   "note": "2025 intern (MD Stony Brook). Bio captured Sep 2025 to Apr 2026, 404 live; absent from live 2026-27 roster. PubMed 2025-26 affiliations are Stony Brook (one 2026 paper also lists WVU Neuroradiology, a research collaboration; he is not on the live WVU neurosurgery roster). No destination found; crossmatch has no match."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Chun-Po Yen",
+   "first_ay": "2012-2013",
+   "first_pgy": 4,
+   "outcome": "resident (not fellow); graduated 2016",
+   "note": "UVA 2015 resident bio: 'Residency: Co-Chief'; prior UVA Asst Prof of Research 2007-09, Clinical Fellow Radiosurgery 2009-10 and Neuro-oncology 2010-12, Clinical Instructor 2011-12; earlier neurosurgery residency/attending in Kaohsiung, Taiwan. Listed under FELLOWS 2010-May 2012, under CURRENT RESIDENTS from the Nov-2012 list, PGY-6 co-chief Feb 2015, on alumni page. Not a transfer from another US program. training_history start 2012, end 2016."
+  },
+  {
+   "name": "Satvir Saggi",
+   "first_ay": "2026-2027",
+   "first_pgy": 2,
+   "outcome": "transfer in from UNC (program 98), PGY-1 2025-26",
+   "note": "UVA bio: neurosurgery intern UNC 2025. training_history rows on both sides were already written by the program-98 phase-2 agent (th_id 3072, 3073); crossmatch.json score 1.7."
+  }
+ ],
+ "residents_2011plus": 43,
+ "adjudication_summary": {
+  "COMPLETED": 36,
+  "IN TRAINING": 19,
+  "LEFT -> outcome unknown": 2,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "total_non_NIH_residents_2011_on_roster": 59
+ },
+ "problems": "Before the 2014-15 roster and for 2021-22, UVA pages list names without PGY, so those PGYs are inferred (marked in context). 2016-17 is incomplete (no PGY-1 group). NIH-track residents (program 14; marked '(NIH)', though Ampie 2017 and Asuzu Aug 2018 were not) were excluded by name: Weintraub, Mehta, Ho, Ksendzovsky, Maggio, Mastorakos, Pomeraniec, Ampie, Asuzu, Diamond, Laws. Weintraub appears on UVA lists from Jul 2010 and is treated as NIH, as in program 14. Koga was still marked co-chief in Sep 2012 (a half-updated list); he is recorded as PGY-7 2011-12 and his graduation year (2012) is uncertain. Khaled's entry year is unknown; the adjudicator placed him as '2011 ?', and he is not counted in residents_2011plus. The alumni page gives no years, so the training_history grad years (36 rows) come from the PGY-7 roster year. Common Crawl: 2016 (9 crawls) and 2021-2022 (15 crawls) completed with no failures. Phase 2: Khaled is no longer 'class unknown'; his UVA PGYs are inferred from his Wayne State PGY-7 (2014-15), giving entry 2008. The destination row for Khaled at program 125 (start 2013) sets his entry year to 2013 in Wayne State's adjudication. 22_export_sources.py with no arguments crashes (program_id None); it was run with --program-id 113.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Names-only list; PGYs inferred from later PGY-labelled rosters (and co-chief = PGY-7). Membership is complete; only PGY labels are inferred. Khaled's PGY now inferred from his Wayne State PGY-7 (2014-15)."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Names-only list; PGYs inferred from later PGY-labelled rosters (and co-chief = PGY-7). Membership is complete; only PGY labels are inferred. Khaled's PGY now inferred from his Wayne State PGY-7 (2014-15)."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Names-only list; PGYs inferred from later PGY-labelled rosters (and co-chief = PGY-7). Membership is complete; only PGY labels are inferred. Khaled's PGY now inferred from his Wayne State PGY-7 (2014-15)."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-labelled roster; bracketing years agree"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-labelled roster; bracketing years agree"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Incomplete (Aug 2016 capture has no PGY-1 group). Phase 2 found no other 2016-17 source. The 2016 class at PGY-2 in 2017-18 (Capek, Kumar + NIH Pomeraniec = 3) matches the usual 3/yr of 2014 and 2017-2020, and PubMed 2016-18 shows no unlisted resident. An intern who left in 2016-17 cannot be fully excluded."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl CC-MAIN-2017-39 roster (PGY-labelled); CC Nov 2017 identical."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl CC-MAIN-2018-43 roster (PGY-labelled)."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-labelled roster; bracketing years agree"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-labelled roster; bracketing years agree"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Names-only 'Current Residents' submenu (Dec 2021); every expected resident present, no extras; PGYs follow from the labelled 2020-21 and 2022-23 rosters."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-labelled roster; bracketing years agree"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "May 2024 capture content-dated to 2023-24; Nov 2023 menu agrees."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-labelled roster; bracketing years agree"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-labelled roster; bracketing years agree"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PGY-labelled roster; bracketing years agree"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Raw p113 folder re-read (cc16, cc17, cc21, txt/): no unparsed gap-year roster; Aug-2016 capture really has no PGY-1 group",
+   "gapaudit 2016-06..2017-09: med.virginia.edu/neurosurgery, www.medicine.virginia.edu/clinical/departments/neurosurgery, uvahealth.com/services/neurosurgery, news.med.virginia.edu, med.virginia.edu/gme",
+   "Full Wayback CDX of med.virginia.edu/neurosurgery 2016-06..2019-07 (277 non-asset URLs): no roster, match or welcome page",
+   "Common Crawl 2016-07..2017-51 (21 crawls, all ok) over edu,virginia,med)/neurosurgery and edu,virginia,medicine)/clinical/departments/neurosurgery: first roster is CC-MAIN-2017-39",
+   "PubMed affiliation mining UVA Neurosurgery 2016-2018 (665 PMIDs)",
+   "Europe PMC / PubMed author affiliations: Veronesi, Khaled, Duy Phan, Vagal",
+   "Wayback bios: Yen (2015 resident bio, 2011 faculty page), Phan (Oct 2024), Vagal (Apr 2026); live bios for Phan and Vagal return 404",
+   "Wayne State (program 125) roster/alumni data and Wayback URL index for Khaled; WVU live neurosurgery roster for Vagal",
+   "All rosters_program*.json and crossmatch.json for the four departures"
+  ],
+  "found": [
+   "Khaled: transfer UVA -> Wayne State/DMC, left after 2012-13, graduated Wayne State 2015",
+   "Veronesi: switched to radiology (Indiana Univ radiology 2020-23, UW-Madison neuroradiology 2024-26)",
+   "Yen: a real resident who joined at PGY-4 in 2012-13 from UVA fellowship and instructor posts, not a transfer",
+   "Saggi: transfer from UNC confirmed (rows already present from program 98)",
+   "2016 entry class complete at 3 (Capek, Kumar + NIH Pomeraniec)"
+  ],
+  "remaining": [
+   "2016-17 PGY-1 group never captured (low significance)",
+   "Duy Phan (left 2024-25 PGY-2) and Vaibhav Vagal (left after 2025-26 PGY-1): destinations unknown",
+   "Khaled's UVA PGYs and his Wayne State start year (2013 vs 2014) are inferred"
+  ]
+ }
+}

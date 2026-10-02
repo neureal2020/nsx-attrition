@@ -1,0 +1,830 @@
+[
+ {
+  "key": "55:jam:berry",
+  "name": "James Berry",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Practice/directory profile (Rio Grande Valley Brain and Spine, Brownsville) states ACGME Neurological Surgery residency at Riverside University Health System, Nova Southeastern DO, then U Miami peripheral nerve fellowship; program roster (Arrowhead/ARMC Wayback 2015-2021) lists him PGY-1 2015; RUHS Cureus author James A. Berry. Practice bio page itself (riovalleybrainandspine.com) opened but body text not extractable; only title 'James Berry DO, Neurological Surgery' confirmed",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed RUHS neurosurgery residency 2022; fellowship U Miami; practising neurosurgeon Brownsville TX (AOBS BC / ABNS BE)",
+  "destination_program": null,
+  "current": "neurosurgeon, Rio Grande Valley Brain and Spine, Brownsville TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "manual phase-2 reconstruction (PubMed/OpenAlex RUHS-ARMC neurosurgery affiliation + NPPES); evidence in data/raw/extraction/p55/phase2/evidence.json (AY 2021-2022)",
+  "external_url": "https://care.healthline.com/find-care/provider/dr-james-berry-1245631100",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://care.healthline.com/find-care/provider/dr-james-berry-1245631100",
+    "type": "bio",
+    "evidence": "Residency: ACGME Neurological Surgery Residency: Riverside University Health System in Moreno Valley, California; Fellowship U Miami; Rio Grande Valley Brain And Spine-Brownsville"
+   },
+   {
+    "url": "https://riovalleybrainandspine.com/physicians/profile/Dr-James-Berry-DO",
+    "type": "bio",
+    "evidence": "James Berry DO, Neurological Surgery (practice page title)"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 3
+ },
+ {
+  "key": "55:ari:takayanagi",
+  "name": "Ariel Takayanagi",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "Search results: SCVMC provider directory lists Ariel Takayanagi affiliated with Riverside University Health System Dept of Neurological Surgery; ResearchGate Neurosurgery Resident RUHS; Healthgrades/Convene/MediFind neurosurgeon/neurosurgery fellow Stanford; Touro California DO 2018 (Doximity) matches input. Doximity lists Internal Medicine/ABIM: anomalous, disregarded",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "RUHS neurosurgery PGY-1 2018 to 2025; now neurosurgery (endovascular) fellow at Stanford per Healthgrades/Convene",
+  "destination_program": null,
+  "current": "neurosurgery fellow, Stanford, CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "manual phase-2 reconstruction (PubMed/OpenAlex RUHS-ARMC neurosurgery affiliation + NPPES); evidence in data/raw/extraction/p55/phase2/evidence.json (AY 2024-2025)",
+  "external_url": "https://scvmc.scvh.org/find-provider/Ariel-Takayanagi",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://scvmc.scvh.org/find-provider/Ariel-Takayanagi",
+    "type": "search_snippet",
+    "evidence": "affiliated with Riverside University Health System Department of Neurological Surgery (search summary)"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-ariel-takayanagi-xynv8l9",
+    "type": "search_snippet",
+    "evidence": "Neurosurgeon in Palo Alto, CA"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Ariel-Takayanagi",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident, Riverside University Health System, Moreno Valley"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 4
+ },
+ {
+  "key": "55:imr:siddiqi",
+  "name": "Imran Siddiqi",
+  "program_id": 55,
+  "identity": "confirmed",
+  "identity_basis": "RUHS-affiliated Healthgrades/ResearchGate/Cureus (DO, Neurological Surgery, RUHS Moreno Valley) plus RUHS program-affiliated Doximity address; Doximity family-medicine details are a merged namesake, disregarded. RUHS program page does not list current residents by name in results",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5 in 2025-26 at RUHS neurosurgery",
+  "destination_program": null,
+  "current": "neurosurgery resident, RUHS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "manual phase-2 reconstruction (PubMed/OpenAlex RUHS-ARMC neurosurgery affiliation + NPPES); evidence in data/raw/extraction/p55/phase2/evidence.json (AY 2025-2026)",
+  "external_url": "https://www.healthgrades.com/physician/dr-imran-siddiqi-od2rtgh128",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-imran-siddiqi-od2rtgh128",
+    "type": "search_snippet",
+    "evidence": "Dr. Imran Siddiqi, DO - Neurosurgeon in Moreno Valley, CA"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Imran-Siddiqi",
+    "type": "search_snippet",
+    "evidence": "Imran SIDDIQI, Doctor of Osteopathic Medicine, Riverside University Health System, Moreno Valley"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 3
+ },
+ {
+  "key": "55:ali:wang",
+  "name": "Alice Wang",
+  "program_id": 55,
+  "identity": "probable",
+  "identity_basis": "Vitals: Dr. Alice S. Wang, DO (URL DoctorsOfOsteopathy_Alice_ShihYu_Wang), Neurological Surgery, Moreno Valley CA (RUHS city) plus RUHS Cureus co-authors; no medical school/match list found; other Alice Wang profiles (Dayton general surgeon, radiology) are different people. Not upgraded to confirmed: only directory + publications, no resident-page or school match list",
+  "residency_stated": [
+   {
+    "institution": "Riverside University Health System",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Neurological surgery at RUHS PGY-4 2025-26",
+  "destination_program": null,
+  "current": "neurosurgery resident, RUHS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "manual phase-2 reconstruction (PubMed/OpenAlex RUHS-ARMC neurosurgery affiliation + NPPES); evidence in data/raw/extraction/p55/phase2/evidence.json (AY 2025-2026)",
+  "external_url": "https://www.vitals.com/doctors/DoctorsOfOsteopathy_Alice_ShihYu_Wang.html",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.vitals.com/doctors/DoctorsOfOsteopathy_Alice_ShihYu_Wang.html",
+    "type": "search_snippet",
+    "evidence": "Dr. Alice S. Wang | Moreno Valley, CA | Neurological Surgery"
+   }
+  ],
+  "searches_used": 6,
+  "ident_searches": 6,
+  "sources_count": 2
+ },
+ {
+  "key": "56:vit:nespoli",
+  "name": "Vitor Salviato Nespoli",
+  "program_id": 56,
+  "identity": "probable",
+  "identity_basis": "Rush live roster PGY-4 Vitor Salviato Nespoli (Federal Univ. Espirito Santo); only external items are Rush-affiliated publications (do not count); no Doximity/LinkedIn/match list found after 3 searches",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Rush neurosurgery resident",
+  "destination_program": null,
+  "current": "neurosurgery resident, Rush",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://www.rushu.rush.edu/education-training/graduate-medical-education/residency-programs/neurosurgery-residency/meet-our-residents",
+  "external_url": null,
+  "evidence_level": "program_only",
+  "sources": [],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 1
+ },
+ {
+  "key": "56:kat:riordan",
+  "name": "Katherine Riordan",
+  "program_id": 56,
+  "identity": "confirmed",
+  "identity_basis": "Rush roster PGY-2 Katherine Riordan MD, Univ of Arizona College of Medicine Tucson; ResearchGate profile Katherine Riordan, University of Arizona Tucson, with neurosurgery research; school matches",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Rush neurosurgery PGY-2 (2026-27)",
+  "destination_program": null,
+  "current": "neurosurgery resident, Rush",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://www.rushu.rush.edu/education-training/graduate-medical-education/residency-programs/neurosurgery-residency/meet-our-residents",
+  "external_url": "https://www.researchgate.net/profile/Katherine-Riordan-3",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.researchgate.net/profile/Katherine-Riordan-3",
+    "type": "search_snippet",
+    "evidence": "Katherine RIORDAN | University of Arizona, Tucson"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 2
+ },
+ {
+  "key": "56:cai:barrett",
+  "name": "Caitilyn Barrett",
+  "program_id": 56,
+  "identity": "probable",
+  "identity_basis": "Rush live roster PGY-1 only; 2 searches found no match-list or profile (Caitlin Barrett Drexel orthopaedic research student is not established as same person)",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Rush PGY-1 2026-27",
+  "destination_program": null,
+  "current": "neurosurgery resident, Rush",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://www.rushu.rush.edu/education-training/graduate-medical-education/residency-programs/neurosurgery-residency/meet-our-residents",
+  "external_url": null,
+  "evidence_level": "program_only",
+  "sources": [],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 1
+ },
+ {
+  "key": "56:jer:shepherd",
+  "name": "Jerry Shepherd",
+  "program_id": 56,
+  "identity": "probable",
+  "identity_basis": "Rush live roster PGY-1 only; 2 searches found no independent profile or match list",
+  "residency_stated": [
+   {
+    "institution": "Rush University Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Rush PGY-1 2026-27",
+  "destination_program": null,
+  "current": "neurosurgery resident, Rush",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://www.rushu.rush.edu/education-training/graduate-medical-education/residency-programs/neurosurgery-residency/meet-our-residents",
+  "external_url": null,
+  "evidence_level": "program_only",
+  "sources": [],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 1
+ },
+ {
+  "key": "57:mic:cohen",
+  "name": "Michael Cohen",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Rutgers NJMS roster PGY-3 in 2013-14 (entry 2011); Northern Light bio opened: neurosurgery residency at Rutgers, Drexel MD, Utah skull base fellowship, ABNS 2022; Doximity Drexel 2011 residency 2011-2018",
+  "residency_stated": [
+   {
+    "institution": "St Barnabas Medical Center (Rutgers/NJMS-affiliated per Northern Light bio: Rutgers)",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rutgers/NJMS neurosurgery residency (Doximity 2011-2018), fellowship Utah; ABNS certified 2022",
+  "destination_program": null,
+  "current": "neurosurgeon, Northern Light Eastern Maine Medical Center, Bangor ME",
+  "agrees_with_db": false,
+  "disagreement": "recorded outcome unknown; resolved to completed",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "program_site_url": "https://web.archive.org/web/20170325205459/http://njms.rutgers.edu:80/departments/neurosurgery/resident.cfm",
+  "external_url": "https://doctors.northernlighthealth.org/provider/michael-cohen/1902237",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://doctors.northernlighthealth.org/provider/michael-cohen/1902237",
+    "type": "bio",
+    "evidence": "Neurosurgery residency at Rutgers; fellowship skull base and cerebro vascular neurosurgery at the University of Utah; Neurological Surgery: American Board of Neurological Surgery, 2022"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 3
+ },
+ {
+  "key": "57:rob:hernandez",
+  "name": "Robert Hernandez",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Rutgers roster lists Robert Hernandez PGY-1 2013-14; Penn Medicine bio (opened) for R. Nick Hernandez MD (URL slug robert-hernandez): Neurosurgeon, Thomas Jefferson MD, Residency Rutgers NJMS, Fellowship Weill Cornell; Doximity residency 2013-2020",
+  "residency_stated": [
+   {
+    "institution": "Rutgers Health/New Jersey Medical School",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rutgers NJMS neurosurgery 2013-2020; fellowship NYP/Weill Cornell",
+  "destination_program": null,
+  "current": "neurosurgeon, Penn Medicine Lancaster General Health Neuroscience & Spine Associates",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "program_site_url": "https://web.archive.org/web/20191114034231/http://njms.rutgers.edu/departments/neurosurgery/resident.cfm",
+  "external_url": "https://www.pennmedicine.org/providers/robert-hernandez",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.pennmedicine.org/providers/robert-hernandez",
+    "type": "bio",
+    "evidence": "R. Nick Hernandez, MD; Neurosurgeon; Residency: Rutgers New Jersey Medical School; Thomas Jefferson University"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 3
+ },
+ {
+  "key": "57:gra:arzumanov",
+  "name": "Grant Arzumanov",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Rutgers roster PGY-5/6 2020-22; Hackensack Meridian bio (opened): LECOM medical education, Residency Rutgers NJMS neurosurgery completed 2023, AHN fellowship 2024; Doximity Lake Erie 2016",
+  "residency_stated": [
+   {
+    "institution": "Rutgers NJMS (via SBMC)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rutgers NJMS neurosurgery 2023; AHN fellowship 2024",
+  "destination_program": null,
+  "current": "co-director neurosurgery, Ocean University MC/Riverview MC, Hackensack Meridian",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20221127180755/https://sites.rutgers.edu/rbhs-neurological-surgery/type/residents/",
+  "external_url": "https://www.getcare.hackensackmeridianhealth.org/provider/grant-s-arzumanov/3015823",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.getcare.hackensackmeridianhealth.org/provider/grant-s-arzumanov/3015823",
+    "type": "bio",
+    "evidence": "Rutgers New Jersey Medical School - Neurosurgery, completed 2023; Allegheny Health Network fellowship 2024"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 3
+ },
+ {
+  "key": "57:pur:patel",
+  "name": "Purvee Patel",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Rutgers residents page (sites.rutgers.edu) lists Purvee Patel, MD (PGY 6); listed under a different surname at Hackensack Meridian bio (opened): RWJMS medical education, Residency Neurological Surgery 2025 at Rutgers NJMS; RWJMS 2018 matches",
+  "residency_stated": [
+   {
+    "institution": "Rutgers New Jersey Medical School",
+    "specialty": "neurological surgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rutgers NJMS neurosurgery 2025; practising",
+  "destination_program": null,
+  "current": "neurosurgeon, Advanced Neurosurgery Associates, Rutherford/Hackensack NJ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20250315174401/https://njms.rutgers.edu/departments/neurosurgery/resident.php",
+  "external_url": "https://www.getcare.hackensackmeridianhealth.org/provider/purvee-panchmatia/5846700",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.getcare.hackensackmeridianhealth.org/provider/purvee-panchmatia/5846700",
+    "type": "bio",
+    "evidence": "Residency, Neurological Surgery, 2025 at Rutgers New Jersey Medical School; Advanced Neurosurgery Associates"
+   }
+  ],
+  "searches_used": 4,
+  "ident_searches": 4,
+  "sources_count": 3
+ },
+ {
+  "key": "57:and:egladyous",
+  "name": "Andrew Egladyous",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Rutgers neurosurgery residents page lists Andrew Egladyous, MD; Doximity Resident Physician Newark NJ, RWJMS 2022; Vitals/WebMD Neurological Surgery Newark",
+  "residency_stated": [
+   {
+    "institution": "Rutgers Health/New Jersey Medical School",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Rutgers NJMS neurosurgery resident",
+  "destination_program": null,
+  "current": "neurosurgery resident, Rutgers NJMS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20260114172409/https://njms.rutgers.edu/departments/neurosurgery/resident.php",
+  "external_url": "https://www.doximity.com/pub/andrew-egladyous-md",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://sites.rutgers.edu/neurological-surgery/type/residents/page/2/",
+    "type": "program_page",
+    "evidence": "Andrew Egladyous, MD (PGY 2 in archived listing)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/andrew-egladyous-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Newark NJ; RWJMS 2022"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3
+ },
+ {
+  "key": "57:ash:raghu",
+  "name": "Ashley Raghu",
+  "program_id": 57,
+  "identity": "probable",
+  "identity_basis": "Wayback Rutgers roster 2025-26 lists Ashley Raghu; Doximity Newark NJ (NJ license 2024, Edinburgh); ResearchGate Rutgers NJMS; no explicit residency statement or match list",
+  "residency_stated": [
+   {
+    "institution": "Rutgers Health/New Jersey Medical School",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Rutgers NJMS neurosurgery PGY-2 2025-26",
+  "destination_program": null,
+  "current": "neurosurgery resident, Rutgers NJMS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20260114172409/https://njms.rutgers.edu/departments/neurosurgery/resident.php",
+  "external_url": "https://www.doximity.com/pub/ashley-raghu-md",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ashley-raghu-md",
+    "type": "doximity",
+    "evidence": "Ashley Laurence Bharat Raghu MD, Newark NJ, NJ license 2024-2029"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 2
+ },
+ {
+  "key": "57:dan:brenner",
+  "name": "Daniel Brenner",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Rutgers Wayback roster 2025-26; LinkedIn 'Neurosurgery Resident at NJMS'; WebMD Neurological Surgery Newark RWJMS 2024; Rutgers Rising Stars Daniel A. Brenner RWJMS neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "Rutgers Health/New Jersey Medical School",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Rutgers NJMS neurosurgery PGY-2 2025-26",
+  "destination_program": null,
+  "current": "neurosurgery resident, Rutgers NJMS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20260114172409/https://njms.rutgers.edu/departments/neurosurgery/resident.php",
+  "external_url": "https://www.linkedin.com/in/daniel-brenner-08a48040",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/daniel-brenner-08a48040",
+    "type": "search_snippet",
+    "evidence": "Daniel Brenner - Neurosurgery Resident at NJMS"
+   },
+   {
+    "url": "https://rutgershealth.org/news/2024-rutgers-rising-stars-announced",
+    "type": "news",
+    "evidence": "Daniel A. Brenner, Robert Wood Johnson Medical School, Neurosurgery (search summary)"
+   }
+  ],
+  "searches_used": 1,
+  "ident_searches": 1,
+  "sources_count": 3
+ },
+ {
+  "key": "57:meg:bhattacharyya",
+  "name": "Meghna Bhattacharyya",
+  "program_id": 57,
+  "identity": "confirmed",
+  "identity_basis": "Rutgers Wayback roster 2024-26; AANS 2025 bio: resident physician Rutgers NJMS Dept of Neurosurgery; Doximity Resident Physician Newark NJ; Doximity ABIM label is a data error",
+  "residency_stated": [
+   {
+    "institution": "Rutgers Health/New Jersey Medical School",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Rutgers NJMS neurosurgery PGY-2 2025-26",
+  "destination_program": null,
+  "current": "neurosurgery resident, Rutgers NJMS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20260114172409/https://njms.rutgers.edu/departments/neurosurgery/resident.php",
+  "external_url": "https://aans2025.eventscribe.net/ajaxcalls/presenterInfo.asp?PresenterId=2076120",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://aans2025.eventscribe.net/ajaxcalls/presenterInfo.asp?PresenterId=2076120",
+    "type": "bio",
+    "evidence": "resident physician at Rutgers New Jersey Medical School Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 1,
+  "ident_searches": 1,
+  "sources_count": 3
+ },
+ {
+  "key": "59:vic:watson",
+  "name": "Victoria Watson",
+  "program_id": 59,
+  "identity": "confirmed",
+  "identity_basis": "SIU resident page (search result): Victoria Watson Resident Physician in Neurosurgery, MD Marshall, WVU undergrad; Marshall news (opened): Watson from Pinch WV, Marshall MD, spent time in neurosurgery then internal medicine residency completing 2026",
+  "residency_stated": [
+   {
+    "institution": "Southern Illinois University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2021
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left SIU neurosurgery (after 2020-21); internal medicine at Marshall JCESOM completing 2026; plans neurocritical care fellowship. Exact IM start year not found",
+  "destination_program": "Marshall University Joan C. Edwards SOM internal medicine",
+  "current": "internal medicine resident (PGY-3+), Marshall University, completing 2026",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20210305163726/https://www.siumed.edu/resident-fellow?title=&field_resident_program_tid=481&field_resident_type_value=Resident",
+  "external_url": "https://jcesom.marshall.edu/news/musom-news/drs-alagha-watson-and-wright-named-april-residents-of-the-month/",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://jcesom.marshall.edu/news/musom-news/drs-alagha-watson-and-wright-named-april-residents-of-the-month/",
+    "type": "news",
+    "evidence": "After spending some time in neurosurgery, she moved into an internal medicine residency, which she will complete in 2026"
+   },
+   {
+    "url": "https://www.siumed.edu/resident-fellow/victoria-watson.html",
+    "type": "search_snippet",
+    "evidence": "Victoria Watson, Resident Physician in Neurosurgery; MD Marshall; WVU undergrad"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 3
+ },
+ {
+  "key": "59:mat:weber",
+  "name": "Matthew Weber",
+  "program_id": 59,
+  "identity": "confirmed",
+  "identity_basis": "SIU resident directory (search result): Matthew Weber Neurosurgery Resident, graduation year 2026; SIU MD 2019; WebMD/US News/Doximity list Matthew Weber neurosurgeon Springfield IL SIU 2019; Doximity ABIM entries a merged namesake. No post-residency bio; absent from 2026-27 roster",
+  "residency_stated": [
+   {
+    "institution": "Southern Illinois University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed SIU neurosurgery June 2026 (directory graduation year 2026)",
+  "destination_program": null,
+  "current": "neurosurgeon, Springfield IL (per directories)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://www.siumed.edu/surgery/neuro/neurosurgery-resident-research",
+  "external_url": "https://doctor.webmd.com/doctor/matthew-weber-13bfcd9b-0612-4730-93f4-5e76e00b0ead-overview",
+  "evidence_level": "silver",
+  "sources": [
+   {
+    "url": "https://www.siumed.edu/matthew-weber",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident Physician, resident graduation year 2026"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/matthew-weber-13bfcd9b-0612-4730-93f4-5e76e00b0ead-overview",
+    "type": "search_snippet",
+    "evidence": "Matthew Weber, Neurosurgeon, Springfield, IL"
+   }
+  ],
+  "searches_used": 3,
+  "ident_searches": 3,
+  "sources_count": 3
+ },
+ {
+  "key": "60:dou:snyder",
+  "name": "Douglas Snyder",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "SLU roster 2016-18 (Common Crawl); SSM bio (opened): Northeastern Ohio Univ COM 2016, ophthalmology residency SLU 2017-2022, WashU neuro-ophthalmology fellowship 2023; Doximity neuro-ophthalmology; SLU ophthalmology alumni class 2022",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2018
+   },
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "ophthalmology",
+    "start": 2019,
+    "end": 2022
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left SLU neurosurgery ~2018; ophthalmology residency SLU (2019 internship; class 2022); neuro-ophth fellowship WashU 2023",
+  "destination_program": "SLU ophthalmology",
+  "current": "assistant professor of ophthalmology (neuro-ophthalmology), SLU/SLUCare",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "http://neurosurgery.slu.edu/index.php?page=residents (Common Crawl CC-MAIN-2017-39, 2017-09-21)",
+  "external_url": "https://www.getcare.ssmhealth.com/find-a-doctor/doctor-details/douglas-w-snyder-md",
+  "evidence_level": "gold",
+  "sources": [
+   {
+    "url": "https://www.getcare.ssmhealth.com/find-a-doctor/doctor-details/douglas-w-snyder-md",
+    "type": "bio",
+    "evidence": "Completed ophthalmology residency at Saint Louis University School of Medicine (2017-2022); neuro-ophthalmology fellowship WashU 2023"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 3
+ },
+ {
+  "key": "60:may:patel",
+  "name": "Mayur Patel",
+  "program_id": 60,
+  "identity": "confirmed",
+  "identity_basis": "SLU residents page (opened): Mayur Patel, M.D., PGY-3, SLU SOM; Doximity/search: Mayur Patel neurosurgery St. Louis with SLU co-authors; LinkedIn Greater St. Louis (not opened)",
+  "residency_stated": [
+   {
+    "institution": "SSM Health/Saint Louis University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 at SLU neurosurgery 2026-27",
+  "destination_program": null,
+  "current": "neurosurgery resident PGY-3, SLU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_checked_directly",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+  "external_url": "https://www.doximity.com/pub/mayur-patel-md-2dde029b",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+    "type": "program_page",
+    "evidence": "Mayur Patel, M.D. PGY-3, Saint Louis University School of Medicine"
+   }
+  ],
+  "searches_used": 2,
+  "ident_searches": 2,
+  "sources_count": 2
+ }
+]

@@ -1,0 +1,311 @@
+{
+ "program_id": 111,
+ "name": "University of Utah Health Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://medicine.utah.edu/neurosurgery/academic/residency/current.htm (+ academic/alumni.htm); old static site, inline Name / PGY-n",
+   "from": "2008",
+   "to": "2012-06 (last capture; still linked 2013-09, never re-captured)"
+  },
+  {
+   "url": "http://uuhsc.utah.edu/neurosurgery/ (301 only: academic/residentprogram.cfm 2010, TrainingProgram.htm 2013)",
+   "from": "2010-06",
+   "to": "2013-04"
+  },
+  {
+   "url": "http://medicine.utah.edu/neurosurgery/current-residents/index.php (+ /<name>.php profiles, alumni.php); PHP site, PGY tabs",
+   "from": "2014-07 (site launch; roster first captured 2015-02)",
+   "to": "2016-06"
+  },
+  {
+   "url": "http://medicine.utah.edu/neurosurgery/residency/current-residents.php (PGY headings; 301 in all captures 2018-05..2019-09); residency/alumni.php 2021",
+   "from": "2016-07",
+   "to": "2021-04 (301 by 2022-05 to neurosurgery.utahhealth.acsitefactory.com)"
+  },
+  {
+   "url": "https://medicine.utah.edu/neurosurgery/residency/current-residents (flat list) + /current-residents/pgy1..pgy7 (one page per PGY) + /residents/<slug> profiles + /residency/alumni (grad-year table)",
+   "from": "2022-11",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "healthcare.utah.edu/neurosurgery, neurosurgery.utah.edu (checked: no captures 2010-2026)",
+   "from": null,
+   "to": null
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2019-2020",
+  "2020-2021",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2018-2019",
+  "2021-2022"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Wayback 2011-10-28 current.htm (same as 2011-09-01): 13 residents, 1 PGY7, 1 PGY6. Paul Park (PGY-4, MD PhD Nevada) is on the Sep/Oct 2011 captures but gone from 2011-11-27; he is not on the 2009-10 roster (2010-06 capture, PGY-2s Garber/Krisht), so he arrived above PGY-1 in 2010-11 or 2011-12 (2010-11 unobserved) -- possibly a visitor.",
+  "2012-2013": "RECONSTRUCTED (significant, narrowed). No roster capture. Phase 2: Wayback host audit 2012-06..2014-09 over medicine.utah.edu/neurosurgery, uuhsc.utah.edu/neurosurgery, healthcare.utah.edu/neurosurgery, neurosurgery.utah.edu, medicine.utah.edu/gme, uuhsc.utah.edu/gme, medicine.utah.edu/surgery; followed residency/index, newsletters, teachingrounds (2012, 2013), events and alumni captures inside the gap; Common Crawl 2012..2014-52 (11 crawls, whole /neurosurgery prefix, fixed filter): no roster. Teaching rounds lists Ramin Eskandari as Chief Resident (2013-06-12). Jamil's profile places his internship at Harlem Hospital before Utah, so he is not in 2012-13.",
+  "2013-2014": "RECONSTRUCTED (low). Same searches as 2012-13 plus the 2014-07 PHP launch (current-residents first archived 2015-02). Osama Jamil added as PGY-2 from his Utah profile.",
+  "2014-2015": "Wayback 2015-02-20 current-residents/index.php (only capture of the year). 14 names after removing Chih-Ta Lin: the UVM roster (program 112) lists him 'PGY5: Utah Resident' 2014-15 and as a UVM PGY6 in 2015-16, so he was a UVM visiting PGY-5.",
+  "2015-2016": "Wayback 2015-10-18 (= 2015-09-12, 2015-11-13). Katrina Ducis PGY5 excluded (profile: visiting resident from UVM).",
+  "2016-2017": "Wayback 2016-11-03 (= 2016-07-30, 2016-08-31). Erinc Akture PGY5 excluded (visiting housestaff from UVM).",
+  "2017-2018": "Wayback 2017-11-15 (same list 2017-07-13..2018-03-28).",
+  "2018-2019": "RECONSTRUCTED (low). current-residents.php 301 in every capture 2018-05..2019-09. Phase 2: Wayback host audit 2018-03..2019-11 (neurosurgery incl. res-profiles/res-images/news, gme, surgery); Common Crawl 2018-2019 all 24 crawls (whole /neurosurgery prefix) -> only residency index/alumni pages and the 2019-10/12 roster. Added PGY-1s Baker, Gamboa, Sherrod (alumni 2025; Gamboa and Sherrod on a Utah Neurosurgery paper received 2019-03). Agnoletto was at Baptist/Lyerly Jacksonville (PubMed) until joining as PGY-3 2019-20. Shah (Utah Neurosurgery affiliation on papers received 2018-09 and 2019-05) and Colwell remain unplaced.",
+  "2019-2020": "Wayback 2019-10-14 (= 2019-12-14). Natalie Limoges (visiting UVM) and Randy L. Jensen (faculty contact block) excluded.",
+  "2020-2021": "Wayback 2020-09-28 (= 2020-11-12, 2021-04-21). John Muse (visiting UVM PGY-5) and Jensen excluded.",
+  "2021-2022": "RECONSTRUCTED (low). Phase 2: Wayback host audit 2021-03..2023-03 (news incl. Match Day 2022, which names only the 2022 interns); Common Crawl 2021-2022 all 15 crawls incl. 2021-49 (whole /neurosurgery prefix): no roster. Sarah Nguyen added as PGY-1 (Utah Neurosurgery affiliation, paper received 2021-07). Leo Kim (Case Western MSTP to 2021-22, Utah from 2023) not placed.",
+  "2022-2023": "Wayback per-PGY pages, 2023-02-04 (PGY3 from 2023-06-02 because the Feb PGY3 page omitted Bounajem). 17 names.",
+  "2023-2024": "Wayback per-PGY pages 2023-11-28..2023-12-11, PGY1 2024-02-25. 17 names after removing Dylan Adams, a University of Vermont resident (UVM roster PGY1 2020-21..PGY7 2026-27, incl. PGY4 2023-24) spending the year at Utah.",
+  "2024-2025": "Wayback per-PGY pages 2024-10-15..2025-01-22. 18 names. Adams gone.",
+  "2025-2026": "Wayback per-PGY pages 2025-11-16..2026-02-11. 17 names. Tatman gone.",
+  "2026-2027": "Live per-PGY pages fetched 2026-09-27/28; advanced from 2025-26. 18 names. Maren Loe gone; Skandalakis (PGY2) and Bin-Alamer (PGY3) new."
+ },
+ "alumni_page": "https://medicine.utah.edu/neurosurgery/residency/alumni",
+ "departures": [
+  {
+   "name": "Paul Park",
+   "last_ay": "2011-2012",
+   "last_pgy": 4,
+   "note": "Left Oct-Nov 2011; pre-2011 entrant (entry ~2008); destination unknown."
+  },
+  {
+   "name": "Osama Jamil",
+   "last_ay": "2014-2015",
+   "last_pgy": 3,
+   "note": "Switched to neurology: 2016 first-author paper affiliated to the Utah Department of Neurology (PMID 27113401)."
+  },
+  {
+   "name": "Farah Laiwalla",
+   "last_ay": "2014-2015",
+   "last_pgy": 1,
+   "note": "Left medicine (judgement): later papers only from Brown University School of Engineering, 2019-2024."
+  },
+  {
+   "name": "Aatman Shah",
+   "last_ay": "2017-2018",
+   "last_pgy": 2,
+   "note": "Switched to dermatology (Utah Dermatology 2019, then Stanford, Mount Sinai and Cincinnati Dermatology). May have stayed through 2018-19 (Utah Neurosurgery affiliation on papers received 2018-09 and 2019-05); end_year recorded as 2019."
+  },
+  {
+   "name": "Nicole Colwell",
+   "last_ay": "2017-2018",
+   "last_pgy": 1,
+   "note": "Outcome unknown; later research affiliations at Rutgers NJMS Neurosurgery and NYU Ophthalmology, but she is not on the Rutgers roster. end_year recorded as 2019."
+  },
+  {
+   "name": "Philip Tatman",
+   "last_ay": "2024-2025",
+   "last_pgy": 1,
+   "note": "Outcome unknown."
+  },
+  {
+   "name": "Maren Loe",
+   "last_ay": "2025-2026",
+   "last_pgy": 1,
+   "note": "Transferred mid-year to Brigham and Women's (program 37); listed as a BWH PGY-1 in the MGB brochure dated 2026-01-05."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Osama Jamil",
+   "first_ay": "2013-2014",
+   "first_pgy": 2,
+   "origin": "general-surgery internship at Harlem Hospital (Utah profile); not a neurosurgery transfer"
+  },
+  {
+   "name": "Nam Keun Yoon",
+   "first_ay": "2015-2016",
+   "first_pgy": 4,
+   "origin": "Loma Linda (program 31), PGY-3 there in 2014-15"
+  },
+  {
+   "name": "Guilherme Agnoletto",
+   "first_ay": "2019-2020",
+   "first_pgy": 3,
+   "origin": "neurosurgery residency at INC Curitiba, Brazil, then a cerebrovascular fellowship at Baptist/Lyerly Jacksonville (profile + PubMed)"
+  },
+  {
+   "name": "Othman Bin-Alamer",
+   "first_ay": "2026-2027",
+   "first_pgy": 3,
+   "origin": "Loma Linda (program 31), PGY-2 there in 2025-26"
+  },
+  {
+   "name": "Georgios Skandalakis",
+   "first_ay": "2026-2027",
+   "first_pgy": 2,
+   "origin": "PGY-1 not at any study program (probably a preliminary year; location unconfirmed); earlier a research fellow at Dartmouth-Hitchcock and UNM"
+  }
+ ],
+ "residents_2011plus": 43,
+ "adjudication_summary": {
+  "COMPLETED": 29,
+  "IN TRAINING": 18,
+  "LEFT -> did not complete": 3,
+  "LEFT -> SWITCHED SPECIALTY": 2,
+  "LEFT -> LEFT MEDICINE/OTHER": 1,
+  "LEFT -> TRANSFERRED": 1
+ },
+ "problems": "2012-13 remains significant: no roster exists anywhere. The adjudicator uses start_year from the transfer-in rows as the entry year, so Jamil shows as 2013, Yoon as 2015, Agnoletto as 2019 and Bin-Alamer/Skandalakis as 2026. The roster's PGY arithmetic gives 2012, 2012, 2017, 2024 and 2025. For consolidation: add BWH (program 37) transfer-in for Maren Loe (PGY-1, mid 2025-26), and UVM (program 112) should note Dylan Adams' 2023-24 Utah year. Alumni page: no 2014 column; Mumert/Sayama (2007 class) finished after PGY-6 (terminal_pgy_by_entry_year).",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 6,
+  "2008": 7,
+  "default": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster (Oct 2011); Paul Park's mid-year departure is seen"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster (Feb 2015); Chih-Ta Lin removed as a UVM visiting PGY-5"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full per-PGY pages; Dylan Adams removed as a UVM resident (visitor)"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full per-PGY pages (Dec 2025); Maren Loe left mid-year for BWH (program 37)"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "every 2011-12 resident is accounted for (graduates or seen 2014-15; Eskandari confirmed chief resident June 2013), but Jamil entered the 2012 class at PGY-2 in 2013-14 after an outside internship, so an unseen 2012 Utah intern who left after one year (the vacancy he may have filled) cannot be excluded"
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "all 2012-13 residents bracketed; 2013 class of 2 (Brock, Karsy) fills the complement of 2 of that era; Jamil's arrival (PGY-2) is placed from his profile; only an intern who came and left inside the year could be missed"
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "all 2017-18 residents are bracketed except Shah and Colwell, whose departures are known (only the exit year 2018 vs 2019 is uncertain); 2018 interns Baker/Gamboa/Sherrod placed (alumni 2025 + March-2019 Utah paper); Agnoletto shown to be in Jacksonville"
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "every 2020-21 non-graduate is on the 2022-23 roster; 2021 class Kim + Nguyen (Nguyen on a July-2021 Utah paper) fits the alternating 2/3 class pattern 2019-2023; only an intern who came and left inside the year could be missed"
+  }
+ },
+ "visitors_excluded": [
+  "Chih-Ta Lin (UVM, 2014-15)",
+  "Katrina Ducis (UVM, 2015-16)",
+  "Erinc Akture (UVM, 2016-17)",
+  "Natalie Limoges (UVM, 2019-20)",
+  "John Muse (UVM, 2020-21)",
+  "Dylan Adams (UVM, 2023-24)"
+ ],
+ "class_sizes_by_entry_year": {
+  "2011": 2,
+  "2012": 3,
+  "2013": 2,
+  "2014": 2,
+  "2015": 3,
+  "2016": 3,
+  "2017": 3,
+  "2018": 3,
+  "2019": 2,
+  "2020": 3,
+  "2021": 2,
+  "2022": 3,
+  "2023": 2,
+  "2024": 4,
+  "2025": 4,
+  "2026": 2
+ },
+ "phase2": {
+  "searched": [
+   "raw p111 folder re-read (cc, cc_b, cc_c captures, profiles)",
+   "gapaudit 2012-06..2014-09, 2018-03..2019-11, 2021-03..2023-03 over medicine.utah.edu/neurosurgery, uuhsc.utah.edu/neurosurgery, healthcare.utah.edu/neurosurgery, neurosurgery.utah.edu, neurosurgery.utahhealth.acsitefactory.com, medicine.utah.edu/gme, healthcare.utah.edu/gme, uuhsc.utah.edu/gme, medicine.utah.edu/surgery",
+   "prefix CDX of neurosurgery news/about/residency/residents 2012-2023, academic, newsletters, current-residents 2011-2016, residency/res-profiles 2016-2022",
+   "link audit of residency index, newsletters, teachingrounds, events and alumni captures inside the gaps",
+   "Common Crawl whole /neurosurgery prefix, all crawls 2012-2014 (11), 2018-2019 (24), 2021-2022 (15), none failed",
+   "PubMed affiliation mining 2012-14, 2018-19, 2021-22, plus per-person affiliation histories of all departers and joiners",
+   "cross-program rosters (31, 37, 57, 112, 18) and crossmatch.json",
+   "NPPES (supporting only)"
+  ],
+  "found": [
+   "Eskandari chief resident June 2013 (teaching rounds)",
+   "Jamil: internship at Harlem, joined Utah PGY-2 2013-14; switched to neurology (PubMed)",
+   "Baker, Gamboa and Sherrod: PGY-1 2018-19",
+   "Sarah Nguyen: PGY-1 2021-22",
+   "Agnoletto's origin (Brazil + Jacksonville fellowship; not at Utah 2018-19)",
+   "Lin and Adams are UVM residents (visitors)",
+   "Aatman Shah switched to dermatology",
+   "Laiwalla: engineering research at Brown",
+   "Loe transferred to BWH mid 2025-26",
+   "Skandalakis's background"
+  ],
+  "remaining": [
+   "2012-13: an unseen 2012 intern who left after one year (the vacancy Jamil may have filled) cannot be excluded",
+   "Shah's and Colwell's exact exit year (2018 or 2019)",
+   "Leo Kim's PGY-1 location in 2021-22",
+   "Destinations for Park, Colwell and Tatman",
+   "Skandalakis's PGY-1 program"
+  ]
+ }
+}

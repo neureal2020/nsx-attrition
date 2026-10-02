@@ -1,0 +1,756 @@
+[
+ {
+  "source_url": "https://web.archive.org/web/20120613221624/http://directory.hsc.wvu.edu:80/DepartmentDetails/1803",
+  "source_type": "other",
+  "captured_at": "2012-06-13",
+  "academic_year": "2011-2012",
+  "note": "WVU HSC Directory, Neurosurgery (SOM) department people list (DepartmentDetails/1803), captured 2012-06-13 (end of AY 2011-12). Six people titled 'Resident', no PGYs listed (pgy inferred: Yung/Jackson/Josiah/Hwang from 2014-15 PGYs minus 3; Manon/Sedney from the 1-a-year Former Residents order); 1/year complement x 6-year program = 6, so complete. Mills (2010 list) already gone; Singh (2012 intern) not yet.",
+  "rows": [
+   {
+    "name": "Jacinto Manon",
+    "pgy": 6,
+    "context": "[pgy inferred] Manon, Jacinto / Resident (directory 2012-06); 'Jacinto Mañon, MD' on 2016 Former Residents page; absent from Sept 2013 residents photo -> graduated 2012 (inferred)"
+   },
+   {
+    "name": "Cara Sedney",
+    "pgy": 5,
+    "context": "[pgy inferred] Sedney, Cara / Resident (directory 2012-06); 'Cara Sedney, MD' on 2016 Former Residents page; later WVU faculty/program director"
+   },
+   {
+    "name": "Brian Yung",
+    "pgy": 4,
+    "context": "[pgy inferred] Yung, Brian / Resident (directory 2012-06)"
+   },
+   {
+    "name": "Garrett Jackson",
+    "pgy": 3,
+    "context": "[pgy inferred] Jackson, Garrett / Resident (directory 2012-06)"
+   },
+   {
+    "name": "Darnell Josiah",
+    "pgy": 2,
+    "context": "[pgy inferred] Josiah, Darnell / Resident (directory 2012-06)"
+   },
+   {
+    "name": "Roy Hwang",
+    "pgy": 1,
+    "context": "[pgy inferred] Hwang, Roy S / Resident (directory 2012-06); 2011 intern (PGY-4 2014-15)"
+   }
+  ]
+ },
+ {
+  "source_url": "manual reconstruction (no roster capture for this year)",
+  "source_type": "manual",
+  "captured_at": "2012-10-01",
+  "academic_year": "2012-2013",
+  "note": "No roster or directory capture in AY 2012-13 (Wayback CDX and Common Crawl 2012-2013 for medicine.hsc.wvu.edu/neurosurgery, hsc.wvu.edu/som, GME and directory.hsc.wvu.edu/Department* checked). Bracketed by the 2012-06 directory list and the 2013-09 photo caption / 2014-15 roster; complement 1/year.",
+  "rows": [
+   {
+    "name": "Cara Sedney",
+    "pgy": 6,
+    "context": "directory 2012-06 (Resident); Former Residents page; absent from Sept 2013 photo -> 2013 graduate (inferred)",
+    "reconstructed": true
+   },
+   {
+    "name": "Brian Yung",
+    "pgy": 5,
+    "context": "directory 2012-06; photo caption 2013-09; PGY-7 2014-15",
+    "reconstructed": true
+   },
+   {
+    "name": "Garrett Jackson",
+    "pgy": 4,
+    "context": "directory 2012-06; photo 2013-09; PGY-6 2014-15",
+    "reconstructed": true
+   },
+   {
+    "name": "Darnell Josiah",
+    "pgy": 3,
+    "context": "directory 2012-06; photo 2013-09; PGY-5 2014-15",
+    "reconstructed": true
+   },
+   {
+    "name": "Roy Hwang",
+    "pgy": 2,
+    "context": "directory 2012-06; photo 2013-09; PGY-4 2014-15",
+    "reconstructed": true
+   },
+   {
+    "name": "Rahul Singh",
+    "pgy": 1,
+    "context": "2012 intern: photo 2013-09, PGY-3 2014-15; alumni page 2019 graduate",
+    "reconstructed": true
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20131020074839/http://medicine.hsc.wvu.edu:80/Neurosurgery/Residency",
+  "source_type": "other",
+  "captured_at": "2013-10-20",
+  "academic_year": "2013-2014",
+  "note": "PARTIAL: residency page photo caption only (5 residents, no PGY); no roster page existed before Aug 2014",
+  "rows": [
+   {
+    "name": "Darnell Josiah",
+    "pgy": null,
+    "context": "photo caption 'Visiting Professor - Sept. 11, 2013 (L to R: Darnell Josiah, ...)'"
+   },
+   {
+    "name": "Roy Hwang",
+    "pgy": null,
+    "context": "photo caption Sept 11 2013"
+   },
+   {
+    "name": "Brian Yung",
+    "pgy": null,
+    "context": "photo caption Sept 11 2013"
+   },
+   {
+    "name": "Rahul Singh",
+    "pgy": null,
+    "context": "photo caption Sept 11 2013"
+   },
+   {
+    "name": "Garrett Jackson",
+    "pgy": null,
+    "context": "photo caption Sept 11 2013"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20140810071738/http://medicine.hsc.wvu.edu:80/Neurosurgery/Residency/Current-Residents",
+  "source_type": "wayback",
+  "captured_at": "2014-08-10",
+  "academic_year": "2014-2015",
+  "note": "Smith gone by 2015-01-07 capture; Yung gone by 2015-04-03 capture",
+  "rows": [
+   {
+    "name": "Brian Yung",
+    "pgy": 7,
+    "context": "Brian Yung, MD / PGY-7"
+   },
+   {
+    "name": "Garrett Jackson",
+    "pgy": 6,
+    "context": "Garrett Jackson, MD / PGY-6, Chief"
+   },
+   {
+    "name": "Darnell Josiah",
+    "pgy": 5,
+    "context": "Darnell Josiah, MD / PGY-5"
+   },
+   {
+    "name": "Roy Hwang",
+    "pgy": 4,
+    "context": "Roy Hwang, MD / PGY-4"
+   },
+   {
+    "name": "Rahul Singh",
+    "pgy": 3,
+    "context": "Rahul Singh, MD / PGY-3"
+   },
+   {
+    "name": "James Smith",
+    "pgy": 2,
+    "context": "James Smith, MD / PGY-2"
+   },
+   {
+    "name": "Gene Katsevman",
+    "pgy": 1,
+    "context": "Gene Katsevman, MD / PGY-1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20150914091814/http://medicine.hsc.wvu.edu:80/neurosurgery/residency/current-residents/?",
+  "source_type": "wayback",
+  "captured_at": "2015-09-14",
+  "academic_year": "2015-2016",
+  "note": "page headed 2015-2016; GME 2015-2016 resident list (medicine.hsc.wvu.edu/gme/people/resident-physicians/) agrees; Radwan added between 2015-08-12 and 2015-09-14",
+  "rows": [
+   {
+    "name": "Darnell Josiah",
+    "pgy": 6,
+    "context": "Chief Resident, PGY-6"
+   },
+   {
+    "name": "Roy Hwang",
+    "pgy": 5,
+    "context": "Roy S Hwang / Resident, PGY-5"
+   },
+   {
+    "name": "Rahul Singh",
+    "pgy": 4,
+    "context": "Resident PGY-4"
+   },
+   {
+    "name": "Walid Radwan",
+    "pgy": 3,
+    "context": "PGY-3"
+   },
+   {
+    "name": "Gene Katsevman",
+    "pgy": 2,
+    "context": "Resident PGY-2"
+   },
+   {
+    "name": "Cletus Cheyuo",
+    "pgy": 2,
+    "context": "Resident PGY-2"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 1,
+    "context": "Ryan Coddington Turner / Resident PGY-1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20160908122009/http://medicine.hsc.wvu.edu:80/neurosurgery/residency/current-residents/?",
+  "source_type": "wayback",
+  "captured_at": "2016-09-08",
+  "academic_year": "2016-2017",
+  "note": "page still headed 2015-2016 but PGYs advanced and new intern (Rehman); identical content 2016-11-11",
+  "rows": [
+   {
+    "name": "Roy Hwang",
+    "pgy": 6,
+    "context": "Roy S Hwang / Chief Resident, PGY-6"
+   },
+   {
+    "name": "Rahul Singh",
+    "pgy": 5,
+    "context": "Resident, PGY-5"
+   },
+   {
+    "name": "Walid Radwan",
+    "pgy": 4,
+    "context": "Resident, PGY-4"
+   },
+   {
+    "name": "Gene Katsevman",
+    "pgy": 3,
+    "context": "Resident, PGY-3"
+   },
+   {
+    "name": "Cletus Cheyuo",
+    "pgy": 3,
+    "context": "Resident, PGY-3"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 2,
+    "context": "Ryan Coddington Turner / Resident, PGY-2"
+   },
+   {
+    "name": "Azeem Rehman",
+    "pgy": 1,
+    "context": "Resident, PGY-1"
+   }
+  ]
+ },
+ {
+  "source_url": "http://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/ (Common Crawl CC-MAIN-2018-05, 2018-01-22)",
+  "source_type": "other",
+  "captured_at": "2018-01-22",
+  "academic_year": "2017-2018",
+  "note": "Complete roster headed '2017 - 2018', seniority order, PGY stated only for the intern; same content in CC-MAIN-2018-17 (2018-04-24). Roy Hwang (PGY-6 2016-17, alumni graduation 2018) NOT listed.",
+  "rows": [
+   {
+    "name": "Rahul Singh",
+    "pgy": null,
+    "context": "Rahul Singh, MD / Resident, Neurosurgery (listed 1st)"
+   },
+   {
+    "name": "Walid Radwan",
+    "pgy": null,
+    "context": "Resident, Neurosurgery (listed 2nd)"
+   },
+   {
+    "name": "Gene Katsevman",
+    "pgy": null,
+    "context": "Resident, Neurosurgery (3rd)"
+   },
+   {
+    "name": "Cletus Cheyuo",
+    "pgy": null,
+    "context": "MBChB, PhD / Resident, Neurosurgery (4th)"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": null,
+    "context": "Ryan Coddington Turner, MD/PhD / Resident, Neurosurgery (5th)"
+   },
+   {
+    "name": "Azeem Rehman",
+    "pgy": null,
+    "context": "Resident, Neurosurgery (6th)"
+   },
+   {
+    "name": "Jesse Lawrence",
+    "pgy": 1,
+    "context": "Jesse D Lawrence / Resident, PGY-1, Neurosurgery"
+   }
+  ]
+ },
+ {
+  "source_url": "https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/ (Common Crawl CC-MAIN-2018-43, 2018-10-22)",
+  "source_type": "other",
+  "captured_at": "2018-10-22",
+  "academic_year": "2018-2019",
+  "note": "headings precede names (checked by eye); CC-MAIN-2018-30 (2018-07-18) shows the same 2018-19 roster",
+  "rows": [
+   {
+    "name": "Rahul Singh",
+    "pgy": 7,
+    "context": "heading 'Chief Resident' (alumni graduation 2019)"
+   },
+   {
+    "name": "Walid Radwan",
+    "pgy": 6,
+    "context": "heading 'Resident, PYG-6' [sic]"
+   },
+   {
+    "name": "Gene Katsevman",
+    "pgy": 5,
+    "context": "Resident, PGY-5"
+   },
+   {
+    "name": "Cletus Cheyuo",
+    "pgy": 4,
+    "context": "Resident, PGY-4"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 4,
+    "context": "Ryan Coddington Turner / Resident, PGY-4"
+   },
+   {
+    "name": "Azeem Rehman",
+    "pgy": 3,
+    "context": "Resident, PGY-3"
+   },
+   {
+    "name": "Jesse Lawrence",
+    "pgy": 2,
+    "context": "Jesse D Lawrence / Resident, PGY-2"
+   },
+   {
+    "name": "David Arsanious",
+    "pgy": 1,
+    "context": "Resident, PGY-1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20190819015900/https://directory.hsc.wvu.edu/Department/1803 (also Common Crawl CC-MAIN-2019-35)",
+  "source_type": "other",
+  "captured_at": "2019-08-19",
+  "academic_year": "2019-2020",
+  "note": "Radwan only: directory 2019-08-19 still lists him (title changed from 'Resident, PGY-6' to 'Chief Resident' between 2019-03-22 and 2019-06-24); removed between 2019-08-19 and 2019-10-19, in the same clean-up that removed 2019 graduate Rahul Singh. Not on 2019-20 GME Chief Residents Council.",
+  "rows": [
+   {
+    "name": "Walid Radwan",
+    "pgy": 7,
+    "context": "Walid Radwan / Chief Resident (PGY-7 by sequence: PGY-6 2018-19)"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20191019050900/https://directory.hsc.wvu.edu/Department/1803 (also Common Crawl CC-MAIN-2019-43)",
+  "source_type": "other",
+  "captured_at": "2019-10-19",
+  "academic_year": "2019-2020",
+  "note": "WVU HSC Directory, Neurosurgery department list (Department/1803). Same resident set in captures 2019-10-19, 2019-12-07, 2020-01-19, 2020-03-28. Titles updated for 2019-20 except Rehman (still 'PGY-3'). Radwan listed 2019-06-24 and 2019-08-19 as 'Chief Resident', gone from 2019-10-19 on (separate entry). GME Chief Residents Council 2019-2020 (2019-09-20, 2019-11-19) lists Katsevman 'Chief Resident, PGY-6'.",
+  "rows": [
+   {
+    "name": "Gene Katsevman",
+    "pgy": 6,
+    "context": "Gene Katsevman / Chief Resident, PGY-6 (directory and GME chief council)"
+   },
+   {
+    "name": "Cletus Cheyuo",
+    "pgy": 6,
+    "context": "Cletus Cheyuo / Resident, PGY-6"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 5,
+    "context": "Ryan Coddington Turner / Resident, PGY-5"
+   },
+   {
+    "name": "Azeem Rehman",
+    "pgy": 4,
+    "context": "Azeem A Rehman / Resident, PGY-3 (title not updated; PGY-3 2018-19, PGY-5 2020-21)"
+   },
+   {
+    "name": "Jesse Lawrence",
+    "pgy": 3,
+    "context": "Jesse D Lawrence / Resident, PGY-3"
+   },
+   {
+    "name": "David Arsanious",
+    "pgy": 2,
+    "context": "David Arsanious / Resident, PGY-2"
+   },
+   {
+    "name": "Louisa Onyewadume",
+    "pgy": 1,
+    "context": "Louisa Onyewadume / Resident, PGY-1 (first listed 2019-08-19)"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20200803205427/https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2020-08-03",
+  "academic_year": "2020-2021",
+  "note": "headings precede names (checked by eye)",
+  "rows": [
+   {
+    "name": "Cletus Cheyuo",
+    "pgy": null,
+    "context": "heading 'Chief Resident' (no PGY; alumni graduation 2021)"
+   },
+   {
+    "name": "Gene Katsevman",
+    "pgy": 7,
+    "context": "Resident, PGY-7"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 6,
+    "context": "Ryan Coddington Turner / Resident, PGY-6"
+   },
+   {
+    "name": "Azeem Rehman",
+    "pgy": 5,
+    "context": "Azeem A Rehman / Resident, PGY-5"
+   },
+   {
+    "name": "Jesse Lawrence",
+    "pgy": 4,
+    "context": "Jesse D Lawrence / Resident, PGY-4"
+   },
+   {
+    "name": "David Arsanious",
+    "pgy": 3,
+    "context": "Resident, PGY-3"
+   },
+   {
+    "name": "Louisa Onyewadume",
+    "pgy": 2,
+    "context": "Resident, PGY-2"
+   },
+   {
+    "name": "Johnie Hodge",
+    "pgy": 1,
+    "context": "Resident, PGY-1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20210926001120/https://directory.hsc.wvu.edu/Department/1803 (also Common Crawl CC-MAIN-2021-39)",
+  "source_type": "other",
+  "captured_at": "2021-09-26",
+  "academic_year": "2021-2022",
+  "note": "WVU HSC Directory, Neurosurgery department list. PGY titles NOT updated for 2021-22 (Hodge still 'PGY-1', Lawrence 'PGY-4', Rehman 'PGY-5', Turner 'PGY-6'): pgy here = listed-last-year + 1. New: Arteaga Icaza (PGY-1), M. Babar Khan (PGY-2). Vishal Thakur listed as 'Stereotactic and Functional Fellow' (not a resident; PGY-1 2022-23). Katsevman, Cheyuo (2021 graduates) and Arsanious removed by 2021-06-16. Onyewadume still listed; gone by 2022-07-01, as is Turner.",
+  "rows": [
+   {
+    "name": "Ryan Turner",
+    "pgy": 7,
+    "context": "Ryan Coddington Turner / Resident, PGY-6 (stale title)"
+   },
+   {
+    "name": "Azeem Rehman",
+    "pgy": 6,
+    "context": "Azeem A Rehman / Resident, PGY-5 (stale title)"
+   },
+   {
+    "name": "Jesse Lawrence",
+    "pgy": 5,
+    "context": "Jesse D Lawrence / Resident, PGY-4 (stale title)"
+   },
+   {
+    "name": "Louisa Onyewadume",
+    "pgy": 3,
+    "context": "Louisa Onyewadume / Resident, PGY-2 (stale title; may be a stale listing: MGH/Harvard research affiliations from 2022)"
+   },
+   {
+    "name": "Johnie Hodge",
+    "pgy": 2,
+    "context": "Johnie Hodge / Resident, PGY-1 (stale title)"
+   },
+   {
+    "name": "M. Babar Khan",
+    "pgy": 2,
+    "context": "M. Babar Khan / Resident, PGY-2 (first listing; absent 2021-06-16)"
+   },
+   {
+    "name": "Denisse Arteaga Icaza",
+    "pgy": 1,
+    "context": "Denisse Arteaga Icaza / Resident, PGY-1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20221123033529/https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2022-11-23",
+  "academic_year": "2022-2023",
+  "note": "no PGY-4 or PGY-5 listed",
+  "rows": [
+   {
+    "name": "Azeem Rehman",
+    "pgy": 7,
+    "context": "Azeem A Rehman / Resident, PGY-7"
+   },
+   {
+    "name": "Jesse Lawrence",
+    "pgy": 6,
+    "context": "Jesse D Lawrence / Chief Resident, PGY-6"
+   },
+   {
+    "name": "Johnie Hodge",
+    "pgy": 3,
+    "context": "Resident, PGY-3"
+   },
+   {
+    "name": "M. Babar Khan",
+    "pgy": 3,
+    "context": "Resident, PGY-3"
+   },
+   {
+    "name": "Denisse Arteaga Icaza",
+    "pgy": 2,
+    "context": "Resident, PGY-2"
+   },
+   {
+    "name": "Genevieve Korst",
+    "pgy": 1,
+    "context": "Resident, PGY-1"
+   },
+   {
+    "name": "Vishal Thakur",
+    "pgy": 1,
+    "context": "Vishal Thakur, MCh / Resident, PGY-1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20240224055832/https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2024-02-24",
+  "academic_year": "2023-2024",
+  "note": "only capture in AY (Feb 2024); no PGY-5/PGY-6 listed",
+  "rows": [
+   {
+    "name": "Jesse Lawrence",
+    "pgy": 7,
+    "context": "Jesse D Lawrence / Chief Resident, PGY - 7"
+   },
+   {
+    "name": "Johnie Hodge",
+    "pgy": 4,
+    "context": "Resident, PGY-4"
+   },
+   {
+    "name": "M. Babar Khan",
+    "pgy": 4,
+    "context": "Resident, PGY-4"
+   },
+   {
+    "name": "Denisse Arteaga Icaza",
+    "pgy": 3,
+    "context": "Resident, PGY-3"
+   },
+   {
+    "name": "Genevieve Korst",
+    "pgy": 2,
+    "context": "Resident, PGY-2"
+   },
+   {
+    "name": "Vishal Thakur",
+    "pgy": 2,
+    "context": "Resident, PGY-2"
+   },
+   {
+    "name": "Erica Webster",
+    "pgy": 1,
+    "context": "listed as 'Erica Johnson' / Resident, PGY-1 (same directory ID 84972 as Erica Webster 2026)"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20241008054921/https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2024-10-08",
+  "academic_year": "2024-2025",
+  "note": null,
+  "rows": [
+   {
+    "name": "Johnie Hodge",
+    "pgy": 5,
+    "context": "Resident, PGY-5"
+   },
+   {
+    "name": "M. Babar Khan",
+    "pgy": 5,
+    "context": "Resident, PGY-5"
+   },
+   {
+    "name": "Denisse Arteaga Icaza",
+    "pgy": 4,
+    "context": "Resident, PGY-4"
+   },
+   {
+    "name": "Vishal Thakur",
+    "pgy": 4,
+    "context": "Resident, PGY-4 (PGY-2 in 2023-24: advanced two levels)"
+   },
+   {
+    "name": "Genevieve Korst",
+    "pgy": 3,
+    "context": "Resident, PGY-3"
+   },
+   {
+    "name": "Erica Webster",
+    "pgy": 2,
+    "context": "listed as 'Erica Johnson' / Resident, PGY-2"
+   },
+   {
+    "name": "Jesse McClure",
+    "pgy": 1,
+    "context": "Resident, PGY-1"
+   },
+   {
+    "name": "Eduardo Medina",
+    "pgy": 1,
+    "context": "Resident, PGY-1"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20251208005747/https://directory.hsc.wvu.edu/Department/1803",
+  "source_type": "other",
+  "captured_at": "2025-12-08",
+  "academic_year": "2025-2026",
+  "note": "WVU HSC Directory, Neurosurgery department list; titles just 'Resident', pgy inferred from 2024-25 (+1). Same 8 residents in captures 2025-08-15 and 2026-03-14. Kedra, Funari and Nidamanuri NOT listed in any 2025-26 capture (all three listed live 2026-09). Also: GME Chief Residents Council 2025-09-18 (Hodge, Khan) and 2025-26 Resident Forum 2025-09-16 (Korst).",
+  "rows": [
+   {
+    "name": "Johnie Hodge",
+    "pgy": 6,
+    "context": "Johnie Hodge / Resident; GME chief council 2025-26"
+   },
+   {
+    "name": "M. Babar Khan",
+    "pgy": 6,
+    "context": "M. Babar Khan / Resident; GME chief council 2025-26"
+   },
+   {
+    "name": "Denisse Arteaga Icaza",
+    "pgy": 5,
+    "context": "Denisse Arteaga Icaza / Resident"
+   },
+   {
+    "name": "Vishal Thakur",
+    "pgy": 5,
+    "context": "Vishal Thakur / Resident"
+   },
+   {
+    "name": "Genevieve Korst",
+    "pgy": 4,
+    "context": "Genevieve Korst / Resident; GME Resident Forum 2025-26 representative"
+   },
+   {
+    "name": "Erica Webster",
+    "pgy": 3,
+    "context": "listed as 'Erica Johnson' / Resident (directory ID 84972 = Erica Webster)"
+   },
+   {
+    "name": "Jesse McClure",
+    "pgy": 2,
+    "context": "Jesse McClure / Resident"
+   },
+   {
+    "name": "Eduardo Medina",
+    "pgy": 2,
+    "context": "Eduardo Medina / Resident"
+   }
+  ]
+ },
+ {
+  "source_url": "https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+  "source_type": "live",
+  "captured_at": "2026-09-27",
+  "academic_year": "2026-2027",
+  "note": "live page (identical to Wayback 2026-09-24); advanced vs 2024-25, new interns",
+  "rows": [
+   {
+    "name": "Johnie Hodge",
+    "pgy": 7,
+    "context": "Resident, PGY-7 (Johnie Hodge, MD/PhD)"
+   },
+   {
+    "name": "M. Babar Khan",
+    "pgy": 7,
+    "context": "Resident, PGY-7"
+   },
+   {
+    "name": "Denisse Arteaga Icaza",
+    "pgy": 6,
+    "context": "Resident, PGY-6 (Chiefs)"
+   },
+   {
+    "name": "Vishal Thakur",
+    "pgy": 6,
+    "context": "Resident, PGY-6 (Chiefs); MCh"
+   },
+   {
+    "name": "Joseph Kedra",
+    "pgy": 5,
+    "context": "Resident, PGY-5"
+   },
+   {
+    "name": "Genevieve Korst",
+    "pgy": 5,
+    "context": "Resident, PGY-5"
+   },
+   {
+    "name": "Abigail Funari",
+    "pgy": 4,
+    "context": "Resident, PGY-4"
+   },
+   {
+    "name": "Erica Webster",
+    "pgy": 4,
+    "context": "Resident, PGY-4"
+   },
+   {
+    "name": "Jesse McClure",
+    "pgy": 3,
+    "context": "Resident, PGY-3"
+   },
+   {
+    "name": "Eduardo Medina",
+    "pgy": 3,
+    "context": "Resident, PGY-3"
+   },
+   {
+    "name": "Sreecharita Nidamanuri",
+    "pgy": 2,
+    "context": "Resident, PGY-2"
+   },
+   {
+    "name": "Janki Naidugari",
+    "pgy": 1,
+    "context": "Resident, PGY-1"
+   },
+   {
+    "name": "Soumya Pahari",
+    "pgy": 1,
+    "context": "Resident, PGY-1; MBBS"
+   }
+  ]
+ }
+]

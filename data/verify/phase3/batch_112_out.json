@@ -1,0 +1,1040 @@
+[
+ {
+  "key": "87:dou:zoerner",
+  "name": "Douglas Zoerner",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UK College of Medicine MD 2019 and residency Neurological Surgery 2019-2026; matches program and entry year",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UK neurosurgery residency 2026; now practising neurosurgery in Lone Tree, CO (Front Range Spine & Neurosurgery); Doximity lists CO license 2026-27",
+  "current": "neurosurgeon, Front Range Spine & Neurosurgery, Lone Tree, CO",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/douglas-zoerner-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2019 - 2026 (University of Kentucky College of Medicine); Neurosurgery, Lone Tree, CO"
+   },
+   {
+    "url": "https://www.frontrangeneurosurgery.com/meet-the-providers/",
+    "type": "search_snippet",
+    "evidence": "Search result page lists Front Range Spine & Neurosurgery providers; snippet: graduated from University of Kentucky College of Medicine in 2019"
+   }
+  ]
+ },
+ {
+  "key": "87:tra:dinsmore",
+  "name": "Travis Dinsmore",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "probable",
+  "identity_basis": "Doximity Travis Dinsmore MD, Marshall MD 2019, neurosurgery Huntington WV, KY medical license 2020-2026 (consistent with UK residency 2019-2026); UK College of Medicine directory page thdi222 exists; WebMD lists neurological surgery Huntington WV. Residency program itself not stated on the pages I could read (UK page 403)",
+  "residency_stated": [],
+  "outcome": "completed",
+  "outcome_detail": "Listed as practising neurosurgeon in Huntington WV (Doximity/WebMD); KY license 2020-2026 fits UK residency; UK roster PGY-7 in 2025-26. Residency program/years not explicitly stated by source",
+  "current": "neurosurgeon, Huntington, WV",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/travis-dinsmore-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Huntington, WV; Marshall University Joan C. Edwards School of Medicine Class of 2019; KY State Medical License 2020 - 2026"
+   },
+   {
+    "url": "https://medicine.uky.edu/users/thdi222",
+    "type": "search_snippet",
+    "evidence": "Travis Dinsmore, MD | University of Kentucky College of Medicine"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/travis-dinsmore-d1f516de-a865-4cbc-8604-99ea8d2c3c9d-overview",
+    "type": "search_snippet",
+    "evidence": "Dr. Travis Dinsmore, Neurological Surgery | HUNTINGTON, WV"
+   }
+  ]
+ },
+ {
+  "key": "87:chr:michas",
+  "name": "Christopher Michas",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UK current trainees page lists PGY-7, Medical College of Georgia; Doximity lists UK neurosurgery residency 2020-2027 and MCG class of 2020",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 at UK in 2026-27; expected completion 2027",
+  "current": "PGY-7 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christopher-michas-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027; Medical College of Georgia Class of 2020"
+   },
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-7: Christopher Michas, MD - Medical College of Georgia"
+   }
+  ]
+ },
+ {
+  "key": "87:mat:wood",
+  "name": "Matthew Wood",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Matthew Christopher Wood: UK neurosurgery residency 2020-2027, Ross University MD 2018; UK trainees page PGY-7 Ross University. Namesake concern resolved by Ross/UK match",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 at UK in 2026-27; expected completion 2027",
+  "current": "PGY-7 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-wood-md-a57579a7",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027, University of Kentucky; Ross University School of Medicine Class of 2018"
+   },
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-7: Matthew Wood, MD - Ross University School of Medicine"
+   }
+  ]
+ },
+ {
+  "key": "87:ale:skidmore",
+  "name": "Alexander Skidmore",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UK neurosurgery residency 2021-2028, WashU MD 2021; UK trainees page PGY-6 Washington University",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 in 2026-27; 7-year program ending 2028",
+  "current": "PGY-6 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alexander-skidmore-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2021 - 2028; WashU Medicine Class of 2021"
+   },
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-6: Alexander Skidmore, MD - Washington University School of Medicine"
+   }
+  ]
+ },
+ {
+  "key": "87:han:choi",
+  "name": "Hannah Choi",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "probable",
+  "identity_basis": "UK trainees page lists PGY-6 Hannah Choi, Loma Linda MD; Doximity Hannah Choi (Lexington KY, Resident Physician, Loma Linda class of 2021); UK page in neurosurgery department users. Doximity does not state specialty",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 neurosurgery resident at UK in 2026-27 per UK trainees page",
+  "current": "PGY-6 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-6: Hannah Choi, MD - Loma Linda University School of Medicine - CA"
+   },
+   {
+    "url": "https://www.doximity.com/pub/hannah-choi-md-d8bf8b42",
+    "type": "doximity",
+    "evidence": "Resident Physician, Lexington KY; Loma Linda University School of Medicine Class of 2021; KY license 2022-2027"
+   }
+  ]
+ },
+ {
+  "key": "87:kee:boulnemour",
+  "name": "Keenan Boulnemour",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UK trainees page PGY-5 Keenan Boulnemour, Western Michigan Homer Stryker MD; UK faculty page and LinkedIn as neurosurgery resident at UK",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-5 at UK 2026-27 (start year 2022 inferred from roster); no Doximity profile found",
+  "current": "PGY-5 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-5: Keenan Boulnemour, MD - Western Michigan University Homer Stryker M.D. School of Medicine"
+   },
+   {
+    "url": "https://www.linkedin.com/in/keenan-boulnemour/",
+    "type": "search_snippet",
+    "evidence": "Keenan Boulnemour, M.D. - NEXUS Education Committee Volunteer - Congress of Neurological Surgeons; Resident Neurosurgeon at the University of Kentucky"
+   }
+  ]
+ },
+ {
+  "key": "87:cat:caldwell",
+  "name": "Catherine Caldwell",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UK trainees page PGY-4 Catherine Caldwell, Penn State; UK profile says seven-year neurosurgery residency at UK, Penn State College of Medicine 2023",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-4 at UK 2026-27; no Doximity profile found",
+  "current": "PGY-4 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-4: Catherine Caldwell, MD - Penn State College of Medicine, Hershey, PA"
+   },
+   {
+    "url": "https://medicine.uky.edu/users/cca360",
+    "type": "search_snippet",
+    "evidence": "completing a seven-year residency at the University of Kentucky in Neurosurgery"
+   }
+  ]
+ },
+ {
+  "key": "87:zah:al-sharshahi",
+  "name": "Zahraa Al-Sharshahi",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UK trainees page PGY-4 Zahraa Al-Sharshahi, RCSI Dublin; Doximity RCSI class of 2019, KY license 2024-2027, neurosurgery; Healthgrades Lexington KY; LinkedIn neurosurgery resident UK",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-4 at UK 2026-27. Doximity address is a stale New York apartment; KY license 2024-2027 and UK page confirm current UK training",
+  "current": "PGY-4 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-4: Zahraa Al-Sharshahi, MD - Royal College of Surgeons in Ireland"
+   },
+   {
+    "url": "https://www.doximity.com/pub/zahraa-al-sharshahi-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, New York NY; Royal College of Surgeons Ireland Class of 2019; KY State Medical License 2024 - 2027"
+   }
+  ]
+ },
+ {
+  "key": "87:hen:garcia",
+  "name": "Henry Ruiz Garcia",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UK trainees page PGY-3 Henry Ruiz Garcia; UK faculty directory GME Resident Neurosurgery; LinkedIn 'Neurosurgery Resident at The University of Kentucky', Mayo Clinic College of Medicine",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 at UK 2026-27. A Google snippet said 'alumnus of University of Iowa' (uiowa.edu email) but he is not in Iowa's neurosurgery alumni resident list; no evidence of prior neurosurgery residency (likely research fellow). No Doximity profile found",
+  "current": "PGY-3 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-3: Henry Ruiz Garcia, MD"
+   },
+   {
+    "url": "https://medicine.uky.edu/users/hjru228",
+    "type": "program_page",
+    "evidence": "GME Resident in Neurosurgery, PGY-3"
+   },
+   {
+    "url": "https://neurosurgery.medicine.uiowa.edu/education/neurological-surgery-residency/our-people/alumni-residents",
+    "type": "program_page",
+    "evidence": "No entry for Henry Ruiz Garcia in Iowa alumni residents list"
+   }
+  ]
+ },
+ {
+  "key": "87:mar:rommelman",
+  "name": "Marcus Rommelman",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UK MD (class of 2022 on Doximity); UK neurosurgery/surgery directory profile; UK trainees page PGY-3; St. Luke's radiology residency X post identifies same person (UK MD, Paducah KY)",
+  "residency_stated": [
+   {
+    "institution": "St. Luke's University Health Network (Easton PA) Radiology, IR integrated",
+    "specialty": "radiology (IR integrated)",
+    "start": 2024,
+    "end": 2025
+   },
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Entered UK neurosurgery at PGY-2 in July 2025 after a preceding year in St. Luke's (Easton PA) integrated IR/radiology; PA license 2024-2025, KY 2025-27; PGY-3 in 2026-27. Inbound switch from radiology, in training at UK",
+  "current": "PGY-3 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/marcus-rommelman-md",
+    "type": "doximity",
+    "evidence": "UK College of Medicine Class of 2022; KY State Medical License 2025 - 2027; PA State Medical License 2024 - 2025"
+   },
+   {
+    "url": "https://x.com/stlukes_rad_res/status/1823060223524806671",
+    "type": "search_snippet",
+    "evidence": "Introducing our IR Integrated R1, Marcus Rommelman! Undergrad: University of Louisville Medical School: University of Kentucky College of Medicine"
+   },
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-3: Marcus A Rommelman - University of Kentucky College of Medicine"
+   }
+  ]
+ },
+ {
+  "key": "87:nac:deshpande",
+  "name": "Nachiket Deshpande",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UK trainees page PGY-3 Nachiket Deshpande; UK profile nmde238; Michigan State College of Human Medicine background per LinkedIn/ResearchGate showing University of Kentucky",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 at UK 2026-27; no Doximity profile found",
+  "current": "PGY-3 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-3: Nachiket Deshpande, MD"
+   },
+   {
+    "url": "https://www.linkedin.com/in/nachiket-deshpande-m-d-a16005125/",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery Resident, Detroit Metropolitan Area, Michigan State University College of Human Medicine"
+   }
+  ]
+ },
+ {
+  "key": "87:hun:hazelwood",
+  "name": "Hunter Hazelwood",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UK trainees page PGY-2; UK MD student; tweet by UK neurosurgery chair announcing match of Hunter Hazelwood from UKYMedicine",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 at UK 2026-27; matched UK neurosurgery 2025. No Doximity profile found",
+  "current": "PGY-2 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-2: Hunter Hazelwood, MD"
+   },
+   {
+    "url": "https://x.com/DornbosIII_MD/status/1903123042420625805",
+    "type": "search_snippet",
+    "evidence": "Great news out of @uk_neurosurgery! Fantastic match with our own Hunter Hazelwood from @UKYMedicine & Max Wagner from @LSU"
+   }
+  ]
+ },
+ {
+  "key": "87:max:wagner",
+  "name": "Maxwell Wagner",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UK trainees page PGY-2 Maxwell Wagner; UK profile mwa412; match announcement tweet (Max Wagner from LSU). Doximity Maxwell Wagner neurosurgery Shreveport LA is likely the same person's LSU-Shreveport affiliation (not used)",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 at UK 2026-27; matched 2025 from LSU. Other Doximity Maxwell Wagners (plastic surgery ODU) are namesakes",
+  "current": "PGY-2 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-2: Maxwell Wagner, MD"
+   },
+   {
+    "url": "https://x.com/DornbosIII_MD/status/1903123042420625805",
+    "type": "search_snippet",
+    "evidence": "Fantastic match with our own Hunter Hazelwood from @UKYMedicine & Max Wagner from @LSU"
+   }
+  ]
+ },
+ {
+  "key": "87:lou:rodgers",
+  "name": "Louis Rodgers",
+  "program_id": 87,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UK trainees page PGY-1 Louis Rodgers, B.S. Centre College, PhD UKY; UK MD/PhD profile ltro223; LinkedIn MD/PhD candidate UK",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 at UK 2026-27 (MD/PhD graduate); no Doximity profile found",
+  "current": "PGY-1 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-1: Louis Rodgers, MD - B.S. Chemistry - Centre College; PhD Pharmaceutical Sciences - UKY"
+   }
+  ]
+ },
+ {
+  "key": "87:sar:johnson",
+  "name": "Sarah Johnson",
+  "program_id": 87,
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 2,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "probable",
+  "identity_basis": "UK trainees page lists PGY-1 Sarah Johnson, MBBS (only name match; no independent bio found; common name, no Doximity match confirmed)",
+  "residency_stated": [
+   {
+    "institution": "University of Kentucky College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": 2033
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-1 at UK neurosurgery in 2026-27; no personal profile found",
+  "current": "PGY-1 neurosurgery resident, UK",
+  "sources": [
+   {
+    "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+    "type": "program_page",
+    "evidence": "PGY-1: Sarah Johnson, MBBS"
+   }
+  ]
+ },
+ {
+  "key": "88:rob:hruska",
+  "name": "Rob Hruska",
+  "program_id": 88,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "Texas Health bio: residency University of Louisville, chief resident; Doximity UTMB MD 2011, ABNS certified, KY license 2017-2019; co-author with Louisville residents",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2017
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Louisville neurosurgery residency (chief resident); later Louisville faculty; now Texas Health neurosurgery Bedford TX",
+  "current": "neurosurgeon, Texas Health Neurosurgery and Spine Specialists, Bedford TX",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rob-hruska-md-293c4ef4",
+    "type": "doximity",
+    "evidence": "American Board of Neurological Surgery; UTMB Class of 2011; KY license 2017-2019"
+   },
+   {
+    "url": "https://www.care.texashealth.org/Providers/THPG/Texas-Health-Neurosurgery-and-Spine-Specialists/Neurosurgery/rob-thomas-hruska-md",
+    "type": "search_snippet",
+    "evidence": "completed his neurosurgery residency training at the University of Louisville in Kentucky, where he served as chief resident"
+   }
+  ]
+ },
+ {
+  "key": "88:zai:aljuboori",
+  "name": "Zaid Aljuboori",
+  "program_id": 88,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "Geisinger/UW bios: Al-Mustansiriya MD, Harvard research fellowship, neurosurgery residency at University of Louisville; Doximity ABNS certified; co-author with Louisville residents 2017",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Louisville neurosurgery residency (~2020), then neuroendovascular fellowship at Univ of Washington and cerebrovascular fellowship; now Geisinger neurosurgeon Wilkes-Barre PA",
+  "current": "neurosurgeon, Geisinger, Wilkes-Barre PA",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/zaid-aljuboori-md",
+    "type": "doximity",
+    "evidence": "American Board of Neurological Surgery, Neurological Surgery; Neurosurgery, Wilkes-Barre, PA"
+   },
+   {
+    "url": "https://providers.geisinger.org/provider/zaid-aljuboori/2416615",
+    "type": "search_snippet",
+    "evidence": "neurosurgery residency at the University of Louisville"
+   }
+  ]
+ },
+ {
+  "key": "88:muh:kandel",
+  "name": "Muhammad Kandel",
+  "program_id": 88,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 3,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": 2020,
+  "destination_program": "Saint Louis University neurosurgery",
+  "destination_start_year": 2020,
+  "identity": "probable",
+  "identity_basis": "Doximity/Google: Muhammad Kandel MD, Ain Shams class of 2003, neurosurgery Hot Springs AR, KY license 2020-2027 and MO license 2022-2027; ResearchGate/SLU list 'Neurosurgery Chief Resident, Saint Louis University' PGY-6; NPI/vitadox lists earlier Louisville KY practice address. Matches Ain Shams MD 2002 and Louisville entry in input notes",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2020
+   },
+   {
+    "institution": "Saint Louis University",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2022
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Louisville PGY-3/4 2016-2020, then Saint Louis University neurosurgery (chief resident, PGY-6); MO license 2022, now neurosurgeon in Hot Springs AR. SLU start year not stated by sources read; SLU roster page could not be fetched",
+  "current": "neurosurgeon, Mercy Hot Springs AR",
+  "sources": [
+   {
+    "url": "https://www.researchgate.net/profile/Muhammad-Kandel",
+    "type": "search_snippet",
+    "evidence": "Muhammad KANDEL | Neurosurgery Chief Resident | MD, PhD | Saint Louis University, St. Louis | SLU | Department of Neurosurgery"
+   },
+   {
+    "url": "https://www.doximity.com/pub/muhammad-kandel-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Hot Springs, AR; Ain Shams University Faculty of Medicine Class of 2003; MO State Medical License 2022 - 2027; KY 2020 - 2027"
+   }
+  ]
+ },
+ {
+  "key": "88:tyl:ball",
+  "name": "Tyler Ball",
+  "program_id": 88,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "searches_used": 2,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News snippet: LSU MD 2014, residency Univ of Louisville, ABNS certified, KY license 2015-2021; Vanderbilt bio",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Finished Louisville neurosurgery residency 2021, enfolded stereotactic/functional fellowship with Joseph Neimat at Louisville; now Vanderbilt neurosurgery Nashville",
+  "current": "neurosurgeon, Vanderbilt University Medical Center, Nashville TN",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/tyler-ball-md",
+    "type": "doximity",
+    "evidence": "American Board of Neurological Surgery; LSU New Orleans Class of 2014; KY license 2015 - 2021"
+   },
+   {
+    "url": "https://www.vumc.org/neurosurgerydept/person/tyler-ball-md",
+    "type": "search_snippet",
+    "evidence": "Vanderbilt Department of Neurological Surgery: Tyler Ball, MD"
+   }
+  ]
+ },
+ {
+  "key": "88:mee:vessell",
+  "name": "Meena Vessell",
+  "program_id": 88,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "UNMC/Texas Children's bios: neurosurgery residency University of Louisville; Doximity NEOMED 2015, KY license 2016-2021; Louisville profile page",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Louisville neurosurgery residency; epilepsy fellowship Louisville and pediatric neurosurgery fellowship Emory; now pediatric neurosurgeon Omaha NE (UNMC/Children's Nebraska)",
+  "current": "pediatric neurosurgeon, Children's Nebraska / UNMC, Omaha",
+  "sources": [
+   {
+    "url": "https://www.unmc.edu/neurosurgery/faculty/vessell.html",
+    "type": "search_snippet",
+    "evidence": "completed her neurosurgery residency training at University of Louisville"
+   },
+   {
+    "url": "https://www.doximity.com/pub/meena-vessell-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Omaha NE; Northeast Ohio Medical University Class of 2015"
+   }
+  ]
+ },
+ {
+  "key": "88:sha:adams",
+  "name": "Shawn Adams",
+  "program_id": 88,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity summary and US News/Norton bio: FSU College of Medicine 2015, residency neurological surgery University of Louisville 2015-2022, chief resident; Louisville faculty page. Namesake concern resolved",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Louisville neurosurgery 2022 (chief resident), spine fellowships (incl. Duke); Norton Leatherman Spine neurosurgeon Louisville",
+  "current": "spine neurosurgeon, Norton Leatherman Spine, Louisville KY",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shawn-adams-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, University of Louisville School of Medicine, 2015 - 2022"
+   }
+  ]
+ },
+ {
+  "key": "88:aur:cruz",
+  "name": "Aurora Cruz",
+  "program_id": 88,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UC Irvine MD 2016, Louisville neurological surgery residency 2016-2023, Geisinger fellowship; Baptist Health bio",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Louisville residency 2023 (chief resident), Geisinger cerebrovascular/endovascular fellowship 2023-24; now Baptist Health Louisville",
+  "current": "cerebrovascular neurosurgeon, Baptist Health Louisville",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/aurora-cruz-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, University of Louisville School of Medicine, 2016 - 2023"
+   }
+  ]
+ },
+ {
+  "key": "88:nic:khattar",
+  "name": "Nicolas Khattar",
+  "program_id": 88,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: AUB MD 2013, Louisville neurological surgery residency 2016-2023, Semmes-Murphey fellowship; St. Bernards bio",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Louisville residency 2023, cerebrovascular fellowship Semmes-Murphey 2023-25; now St. Bernards neurosurgeon Jonesboro AR",
+  "current": "neurosurgeon, St. Bernards Healthcare, Jonesboro AR",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/nicolas-khattar-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, University of Louisville School of Medicine, 2016 - 2023"
+   }
+  ]
+ },
+ {
+  "key": "88:abi:mccallum",
+  "name": "Abigail McCallum",
+  "program_id": 88,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "searches_used": 1,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Google: Univ of Arizona MD 2017, KY license 2018-2024, Louisville faculty page 'Abigail P. McCallum, M.D.', Kootenai Health bio; Louisville co-authors",
+  "residency_stated": [
+   {
+    "institution": "University of Louisville School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Louisville neurosurgery residency (2017-2024 per roster; KY license 2018-2024 fits); now neurosurgeon at Kootenai Health, Coeur d'Alene ID",
+  "current": "neurosurgeon, Kootenai Health, Coeur d'Alene ID",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/abigail-mccallum-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Coeur d'Alene, ID; University of Arizona Class of 2017; KY State Medical License 2018 - 2024"
+   },
+   {
+    "url": "https://louisville.edu/medicine/departments/neurosurgery/abigail-p-mccallum",
+    "type": "search_snippet",
+    "evidence": "Abigail P. McCallum, M.D. - School of Medicine University of Louisville, neurosurgery"
+   }
+  ]
+ }
+]

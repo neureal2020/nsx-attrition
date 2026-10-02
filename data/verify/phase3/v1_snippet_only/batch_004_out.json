@@ -1,0 +1,782 @@
+[
+ {
+  "key": "2:cod:woodhouse",
+  "name": "Cody Woodhouse",
+  "program_id": 2,
+  "identity": "confirmed",
+  "identity_basis": "Snippet: neurosurgery resident AGH, Univ of Cincinnati MD 2020, residency 2020-2027",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2020-2027 (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Allegheny General Hospital, Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/cody-woodhouse-md",
+    "type": "search_snippet",
+    "evidence": "in a neurosurgery residency at the Allegheny Health Network Medical Education Consortium (AGH) running from 2020-2027"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "2:dal:kramer",
+  "name": "Dallas Kramer",
+  "program_id": 2,
+  "identity": "confirmed",
+  "identity_basis": "Snippet: 5th-year neurosurgery resident at Allegheny General; AHN resident awards",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2021-None (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Allegheny General Hospital, Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.researchgate.net/profile/Dallas-Kramer",
+    "type": "search_snippet",
+    "evidence": "5th-year neurosurgery resident ... Allegheny General Hospital"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "2:ste:jaffee",
+  "name": "Stephen Jaffee",
+  "program_id": 2,
+  "identity": "confirmed",
+  "identity_basis": "Snippet: neurosurgery resident AGH 2021-2028, Drexel MD 2021",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2021-2028 (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Allegheny General Hospital, Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/stephen-jaffee-md",
+    "type": "search_snippet",
+    "evidence": "neurosurgery resident at Allegheny Health Network Medical Education Consortium (AGH), 2021 to 2028; Drexel 2021"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "2:cob:cunningham",
+  "name": "Coby Cunningham",
+  "program_id": 2,
+  "identity": "probable",
+  "identity_basis": "Snippet: neurosurgery resident at Allegheny General Hospital, co-authored AGH papers; no years stated",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2022-None (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Allegheny General Hospital, Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.ahn.org/health-care-professionals/education/graduate-medical-education/residencies/neurosurgery/residents",
+    "type": "search_snippet",
+    "evidence": "Coby Cunningham is a neurosurgery resident at Allegheny General Hospital (search summary; no years shown)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "2:eth:fitzgerald",
+  "name": "Ethan Fitzgerald",
+  "program_id": 2,
+  "identity": "confirmed",
+  "identity_basis": "Snippet: AHN neurosurgery resident 2022-2029, Drexel MD 2022",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2022-2029 (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Allegheny General Hospital, Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ethan-fitzgerald-md",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery from 2022-2029 at the Allegheny Health Network Medical Education Consortium; Drexel 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "2:bha:gupta",
+  "name": "Bhavika Gupta",
+  "program_id": 2,
+  "identity": "probable",
+  "identity_basis": "Doximity lists Bhavika Gupta MD neurosurgery Pittsburgh (phone 412-359, AGH exchange), PA license 2023-2026; research from AGH/Cleveland Clinic Florida. Residency years not shown on public page; search summary described her as 'attending', likely Doximity labelling of a resident.",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2023-None (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (probable), AGH Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "Could not independently confirm late-join/transfer-in at PGY2 in 2024 or prior training; not contradicted.",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/bhavika-gupta-md",
+    "type": "doximity",
+    "evidence": "Neurosurgeon in Pittsburgh, PA; PA license 2023-2026; residency years not in public view"
+   },
+   {
+    "url": "https://www.ahn.org/health-care-professionals/education/graduate-medical-education/residencies/neurosurgery/residents",
+    "type": "search_snippet",
+    "evidence": "AHN neurosurgery residents page returned for query (content not seen)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "2:mok:porwal",
+  "name": "Mokshal Porwal",
+  "program_id": 2,
+  "identity": "confirmed",
+  "identity_basis": "Snippet: Neurosurgery Resident at AHN; AGH neurosurgery research profile",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2023-None (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Allegheny General Hospital, Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.researchgate.net/profile/Mokshal-Porwal",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident ... Allegheny General Hospital, Pittsburgh | AGH | Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "2:mat:perry",
+  "name": "Matthew Perry",
+  "program_id": 2,
+  "identity": "probable",
+  "identity_basis": "Doximity: Matthew Perry MD neurosurgery, IU School of Medicine 2024, 320 E North Ave Pittsburgh (AGH address); residency years not public",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2024-None (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Allegheny General Hospital, Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-perry-md-687775f9",
+    "type": "doximity",
+    "evidence": "Indiana University School of Medicine, Class of 2024; 320 E North Ave, Pittsburgh, PA 15212"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "2:mic:meyer",
+  "name": "Michael Meyer",
+  "program_id": 2,
+  "identity": "probable",
+  "identity_basis": "Snippet: AHN neurosurgery resident 2024-2031, Univ at Buffalo MD 2024; namesake risk (common name) but program/years match",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2024-2031 (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Allegheny General Hospital, Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-meyer-md-73c6902c",
+    "type": "search_snippet",
+    "evidence": "neurosurgery resident at Allegheny Health Network Medical Education Consortium (AGH), 2024 to 2031; Buffalo 2024"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "2:bar:obeng-gyasi",
+  "name": "Barnabas Obeng-Gyasi",
+  "program_id": 2,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn/ResearchGate: neurosurgery resident AGH; IU School of Medicine",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2025-None (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Allegheny General Hospital, Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/barnabas-obeng-gyasi-8baba3191/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at Allegheny Health Network, Pittsburgh; Indiana University School of Medicine"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "2:rid:mitha",
+  "name": "Rida Mitha",
+  "program_id": 2,
+  "identity": "confirmed",
+  "identity_basis": "Her own X post: matched neurosurgery at AHN Match 2025; LinkedIn resident physician; Aga Khan MBBS 2019",
+  "residency_stated": [
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2025-None (search snippet); still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Allegheny General Hospital, Pittsburgh",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://x.com/RidaMitha/status/1903144301980164294",
+    "type": "search_snippet",
+    "evidence": "honored ... to have matched Neurosurgery at Allegheny Health Network! #Match2025"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "3:ant:dragun",
+  "name": "Anthony Dragun",
+  "program_id": 3,
+  "identity": "confirmed",
+  "identity_basis": "Goodman Campbell page: inaugural 2025 class, UTSW MD",
+  "residency_stated": [
+   {
+    "institution": "Ascension St. Vincent Hospital (Indianapolis; Goodman Campbell)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Started 2025 in Ascension St. Vincent (Indianapolis) neurosurgery residency; still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Ascension St. Vincent / Goodman Campbell, Indianapolis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.goodmancampbell.com/2025/04/welcome-to-the-2025-ascension-st-vincent-neurological-surgery-residents/",
+    "type": "search_snippet",
+    "evidence": "inaugural neurosurgery residency class at Ascension St. Vincent Hospital ... UT Southwestern"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "3:geo:malley",
+  "name": "Geoffrey O'Malley",
+  "program_id": 3,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn/Goodman Campbell: inaugural 2025 class",
+  "residency_stated": [
+   {
+    "institution": "Ascension St. Vincent Hospital (Indianapolis; Goodman Campbell)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Started 2025 in Ascension St. Vincent (Indianapolis) neurosurgery residency; still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Ascension St. Vincent / Goodman Campbell, Indianapolis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/geoffrey-r-o%E2%80%99malley-jr-1932a6161/",
+    "type": "search_snippet",
+    "evidence": "PGY-1 Neurosurgery Resident at Goodman Campbell; 2025 Hackensack-Meridian alumnus"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "3:pra:makineni",
+  "name": "Pratheek Makineni",
+  "program_id": 3,
+  "identity": "confirmed",
+  "identity_basis": "Goodman Campbell July 2026 welcome post; CWRU med student",
+  "residency_stated": [
+   {
+    "institution": "Ascension St. Vincent Hospital (Indianapolis; Goodman Campbell)",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Started 2026 in Ascension St. Vincent (Indianapolis) neurosurgery residency; still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Ascension St. Vincent / Goodman Campbell, Indianapolis",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "http://www.goodmancampbell.com/2026/07/welcome-to-indiana-meet-our-newest-neurosurgery-resident/",
+    "type": "search_snippet",
+    "evidence": "joined the Ascension St. Vincent Indianapolis Neurological Surgery Residency Program; Case Western medical student"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:tim:robinson",
+  "name": "Timothy Robinson",
+  "program_id": 6,
+  "identity": "probable",
+  "identity_basis": "Doximity/US News snippet: BSW Temple neurosurgery residency 2015-2021, UNM MD, Asst Prof UNM; two Timothy Robinson MD neurosurgeon profiles exist (Houston, Albuquerque), Albuquerque one matches",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency listed 2015-2021. Completed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Asst Professor, Univ of New Mexico (Albuquerque)",
+  "agrees_with_db": true,
+  "disagreement": "Doximity start 2015 vs DB entry 2014 (roster first seen 2014-15); completion 2021 agrees.",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/timothy-robinson-md-bdabb18a",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery at Baylor Scott & White (Temple) from 2015 to 2021 ... University of New Mexico"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:sam:dayawansa",
+  "name": "Samantha Dayawansa",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News: BSW Temple neurosurgery 2015-2022",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency listed 2015-2022. Completed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Nacogdoches Medical Center, TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/samantha-dayawansa-md",
+    "type": "search_snippet",
+    "evidence": "Neurological Surgery residency at Baylor Scott & White Medical Center (Temple) from 2015 to 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:buq:liang",
+  "name": "Buqing Liang",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News/Loma Linda bio: BSW Temple neurosurgery 2017-2023, Fudan MD, UC Davis fellowship",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency listed 2017-2023. Completed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Loma Linda University Health, CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://lluh.org/provider/liang-buqing",
+    "type": "search_snippet",
+    "evidence": "graduated from the neurosurgery residency program at Baylor Scott and White Health in Temple, TX"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:kri:lyon",
+  "name": "Kristopher Lyon",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/BSW bio: UTSW MD 2016, BSW Temple neurosurgery 2016-2023 + complex spine fellowship",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency listed 2016-2023. Completed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Baylor Scott & White Clinic, Temple TX (Doximity also lists Abilene, Hendrick Health)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.hendrickhealth.org/provider-directory/providers/kristopher-lyon-md/",
+    "type": "search_snippet",
+    "evidence": "completed his residency in neurosurgery and a fellowship in complex spine surgery at Baylor Scott and White Medical Center in Temple"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:jos:soto",
+  "name": "Jose Soto",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/BSW bio: USF MD, Geisinger TY 2016-17, BSW Temple neurosurgery 2017-2024",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency listed 2017-2024. Completed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Baylor Scott & White, Temple/Waco TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://salud.bswhealth.com/medical-professionals/education/graduate-medical-education/temple/neurosurgery-residency/physician/jose-soto",
+    "type": "search_snippet",
+    "evidence": "Residency in Neurological Surgery at Baylor Scott & White (Temple) from 2017 to 2024; transitional year Geisinger 2016-2017"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:lau:reed",
+  "name": "Laura Reed",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/WebMD: VCU MD 2018, BSW Temple neurosurgery 2018-2025 (Laura Reed-Laughbaum)",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency listed 2018-2025. Completed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Baylor Scott & White, Temple TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/laura-reed-md-088b7aee",
+    "type": "search_snippet",
+    "evidence": "completed her neurosurgical residency at ... Scott and White Medical Center from 2018 - 2025"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:kri:keith",
+  "name": "Kristin Keith",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Campbell Univ osteopathic MD 2019, BSW Temple neurosurgery 2019-2026",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency listed 2019-2026. Completed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Baylor Scott & White, Temple/Waco TX (per DB NPPES note)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kristin-keith-do",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery at Baylor Scott & White (Temple) from 2019 to 2026; Campbell 2019"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:ant:nguyen",
+  "name": "Anthony Nguyen",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: UTMB MD 2020, BSW Temple neurosurgery 2020-2027; ResearchGate resident BSW neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2020-2027. Still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Baylor Scott & White, Temple TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anthony-nguyen-md-eb90d7bb",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery ... (Temple) from 2020 - 2027, UTMB 2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:sam:daly",
+  "name": "Samuel Daly",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Univ Minnesota MD 2020, BSW Temple neurosurgery 2021-2028",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2021-2028. Still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Baylor Scott & White, Temple TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/samuel-daly-md",
+    "type": "search_snippet",
+    "evidence": "residency in Neurological Surgery ... (Temple) from 2021 - 2028; Minnesota 2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:sam:gearhart",
+  "name": "Sam Gearhart",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Samuel Gearhart): Ole Miss MD 2022, BSW Temple neurosurgery 2022-2029; co-author of BSW call-workload paper",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2022-2029. Still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Baylor Scott & White, Temple TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/samuel-gearhart-md",
+    "type": "search_snippet",
+    "evidence": "residency spanning from 2022 to 2029; Univ of Mississippi 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:sar:gonzalez",
+  "name": "Sarah-Marie Gonzalez",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Cureus: Loyola Stritch MD 2023, BSW Temple neurosurgery 2023-2030",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency listed 2023-2030. Still in training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Baylor Scott & White, Temple TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sarah-marie-gonzalez-md",
+    "type": "search_snippet",
+    "evidence": "residency ... (Temple) 2023 to 2030; Loyola Stritch 2023"
+   }
+  ],
+  "searches_used": 1
+ }
+]

@@ -1,0 +1,251 @@
+{
+ "program_id": 43,
+ "name": "Medical College of Wisconsin Affiliated Hospitals Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "complement_note": "Program pages: 'We accept one or two new residents each year' (Residency1.htm, 2012-13). Observed intern classes 1-3 (3 in 2023 and 2026).",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.mcw.edu/neurosurgery/education/residentroster.htm (old MCW static site; roster with 'Residency Completion' year)",
+   "from": "2010-01",
+   "to": "2014-10 (content frozen at 2011-12 list from ~Jun 2011; 'Page Updated 06/05/2013' but unchanged)"
+  },
+  {
+   "url": "http://neurosurgery.mcw.edu/extranet/ (dept research-update blog; 'Fellows/Residents' monthly posts mention a few residents)",
+   "from": "2013-10",
+   "to": "2014-10"
+  },
+  {
+   "url": "http://neurosurgery.mcw.edu/education/residency-program/residents/ (WordPress; also /faculty/residents/ 2017-04 and /team/residents/ 2017-06..2019-02)",
+   "from": "2015-02",
+   "to": "2019-02"
+  },
+  {
+   "url": "https://www.mcw.edu/departments/neurosurgery/people/residents (Sitecore; PGY headings + 'Class of'); neurosurgery.mcw.edu/* now 301s here",
+   "from": "2019-10",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2013-2014"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "residentroster.htm Dec 2011 (9 names). PGY derived from listed completion year (7-yr program). Hoyt (2012) absent from Sep-Nov 2011 captures, present Jun-Aug 2011 and Dec 2011 on.",
+  "2012-2013": "LOW (was significant). See year_status. Phase-2 CC-MAIN-2012 retry succeeded: residentroster.htm 2012-05-24 is the same frozen 2011-12 list ('Page Updated 11/29/2011'). Extranet 'Fellows/Residents' Jan 2014 post's related-posts list quotes Dec 2012-Jun 2013 posts naming Cochran, Eckardt, Sharma (stored as source 'other'). Arocho-Quinones added as PGY-1 (bio).",
+  "2013-2014": "LOW (was significant). Arocho-Quinones (PGY2) and Gelsomino (PGY1) added as reconstructed from bios/completion years.",
+  "2014-2015": "New WordPress residents page Feb 2015 (9 names, completion years). Old page's Oct 2014 capture has no names. Common Crawl 2014-09-21 copy of residentroster.htm already shows the same 2014-15 list.",
+  "2015-2016": "LOW. Janich and Montoure reconstructed as PGY-1 (bios: MD 2015; class of 2022).",
+  "2017-2018": "residents page Aug 2017 still stale (Oni-Orisan 2017, no class of 2024); /team/residents/ Jan 2018 used.",
+  "2021-2022": "Oct 2021 capture lacked the PGY-1 (Morris) and Sanchez Jimenez; May 2022 capture (still lists class of 2022) used.",
+  "2022-2023": "LOW. MacKinnon and Palmer reconstructed as PGY-1 (live bios: MD 2022; class of 2029).",
+  "2026-2027": "Live page 2026-09-27 advanced vs 2025-26 (Hussain graduated; Busch, Laurin, Nanziri interns). Loaded."
+ },
+ "alumni_page": null,
+ "alumni_note": "No alumni/graduates page on any program host (checked old mcw.edu/neurosurgery, neurosurgery.mcw.edu incl. historical-perspectives, and live mcw.edu/departments/neurosurgery). No training_history rows inserted. Rosters give each resident's completion year, which anchors expected graduation.",
+ "departures": [
+  {
+   "name": "Amos Ladouceur",
+   "last_ay": "2011-2012",
+   "last_pgy": 5,
+   "outcome": "unknown",
+   "note": "Class of 2014 (entered 2007, before the 2011+ cohort). Never observable after 2011-12 because the roster froze; absence from the 2014-15 roster is equally consistent with graduating in June 2014. No PubMed/OpenAlex record after 2006. NPI Family Medicine (CA) is not evidence. No training_history row."
+  },
+  {
+   "name": "Amber Retzlaff",
+   "last_ay": "2017-2018",
+   "last_pgy": 2,
+   "outcome": "switched_specialty",
+   "note": "Radiation Oncology: PubMed affiliations MCW Radiation Oncology 2020 (PMID 31525486, 32599030), Abbott Northwestern 2025. Recorded."
+  },
+  {
+   "name": "Fatu Conteh",
+   "last_ay": "2019-2020",
+   "last_pgy": 2,
+   "outcome": "transferred",
+   "note": "To Loma Linda (program 31): LL roster 'Fatu Conteh, MD' PGY3 2024-25 -> PGY5 2026-27, same Rutgers RWJ MD / Princeton BA as MCW bio; PubMed 37059361 LLU Neurosurgery 2023. Recorded (transfer-in row at program 31 left to that program's agent)."
+  },
+  {
+   "name": "Jose Sanchez Jimenez",
+   "last_ay": "2022-2023",
+   "last_pgy": 4,
+   "outcome": "unknown",
+   "note": "Joined from UPR (closure) at PGY3 2021-22; listed to Jun 2023, gone Dec 2023; MCW bio URL returns 410 (Jun 2024). No later PubMed/OpenAlex affiliation, on no other roster in the DB, NPI unchanged since 2021. Destination not found. Recorded as left, departure_type unknown."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Daniel Aaronson",
+   "first_ay": "2018-2019",
+   "first_pgy": 2,
+   "note": "MD Sackler 2016; prior program unknown (on no roster in the DB; no PubMed before 2020). Completed 2024. Recorded."
+  },
+  {
+   "name": "Jose Sanchez Jimenez",
+   "first_ay": "2021-2022",
+   "first_pgy": 3,
+   "note": "From University of Puerto Rico (program 101, closure dispersal). Recorded."
+  }
+ ],
+ "pre_window_note": "Feb/May 2011 captures show a 2009-10 list incl. Elangovan (class of 2013) and Brasseur (class of 2015), both gone by Jun 2011 (before the study window).",
+ "residents_2011plus": 31,
+ "adjudication_summary": {
+  "COMPLETED": 19,
+  "IN TRAINING": 15,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> did not complete (destination unknown)": 1,
+  "LEFT -> outcome unknown (Ladouceur, pre-cohort)": 1
+ },
+ "problems": "Phase 2: all four failed CC lookups retried and succeeded (CC-MAIN-2012 edu,mcw)/neurosurgery 57 records incl. residentroster.htm 2012-05-24 = frozen list; CC-MAIN-2014-23 / 2015-22 / 2016-40 neurosurgery.mcw.edu only spinecare/robots pages; CC-MAIN-2016-40 edu,mcw)/neurosurgery 0 records). Wayback briefly returned 'Temporarily Offline' during the audit (deptfacts.htm versions not re-read). Sanchez Jimenez destination not found.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec 2011 residentroster.htm, 9 names with completion years."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Old page frozen (CC May 2012 copy identical). Cochran/Eckardt/Sharma seen in dept extranet research posts Dec 2012-Jun 2013; Lozen, Oni-Orisan, Nguyen, Doan bracketed; 2012 intern Arocho-Quinones confirmed by bio ('MD 2012, then began her residency at MCW'). Only Ladouceur (entered 2007, outside cohort) unresolved; a second 2012 intern who left before Feb 2015 cannot be excluded but 'one or two per year' and no PubMed MCW-neurosurgery affiliate 2011-16 is unaccounted for."
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Same frozen page. Extranet posts Nov 2013/Jan 2014 (Cochran, Lozen, Eckardt, Sharma); Oni-Orisan, Nguyen, Doan, Arocho-Quinones bracketed; 2013 intern Gelsomino (MD 2013, completion 2020). PubMed affiliation mining 2011-16 surfaced no unlisted resident (Vedantam = research fellow, then Baylor; Mohit Patel = MCW student, later Case)."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Feb 2015 WordPress roster; CC Sep 2014 copy same list."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Jun 2016 roster lacked the PGY-1 class; Janich and Montoure (MD 2015, class of 2022, PGY-2 Sep 2016) reconstructed as PGY-1 from bios. An intern who left within 2015-16 would be invisible, but the class of 2022 already has the usual two."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster with class years."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster with class years."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster with class years."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster with class years."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster with class years."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster with class years."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster with class years."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster with class years."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster with class years."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster with class years."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "'PGY-1 Class of 2029' heading empty in all captures; MacKinnon and Palmer (MD 2022, class of 2029 per live bios, PGY-2 Dec 2023) reconstructed as PGY-1. PubMed MCW-neurosurgery affiliation mining 2022-24 found no unlisted resident."
+  }
+ },
+ "training_history_rows": "22 inserted 2026-09-28: 18 PGY-terminal graduations (Hoyt 2012 ... Hussain 2026), Aaronson (transfer in PGY2, completed 2024), Sanchez Jimenez (transfer in PGY3 2021, left 2023, unknown), Retzlaff (switched_specialty 2018), Conteh (transferred 2020 -> Loma Linda).",
+ "phase2": {
+  "searched": [
+   "Parsed phase-1 CC files (Residency1.htm, Publications, residentroster 2013-14): no new names",
+   "CC retry: CC-MAIN-2012, 2014-23, 2015-22, 2016-40 (all ok)",
+   "CC 2022-2023 all crawls edu,mcw)/departments/neurosurgery/people + /education (same captures as Wayback)",
+   "gapaudit 2012-2016: www.mcw.edu/neurosurgery, neurosurgery.mcw.edu, mcw.edu/neurosurgery, www.mcw.edu/gme, www.mcw.edu/surgery; 2022-2023: www.mcw.edu/departments/neurosurgery, www.mcw.edu/education/residency-fellowship",
+   "Extranet blog: all posts 2013-2014 incl. department news Q4 2013, newsletter archive, fellows/residents Nov 2013 + Jan 2014",
+   "Per-resident bios (Wayback 2017-2018: Aaronson, Conteh, Arocho-Quinones, Gelsomino, Janich, Montoure; live: MacKinnon, Palmer; Sanchez Jimenez page 410)",
+   "PubMed affiliation mining MCW neurosurgery 2011-2016 and 2022-2024; PubMed/OpenAlex/Europe PMC author searches for Ladouceur, Retzlaff, Conteh, Sanchez Jimenez, Aaronson",
+   "Cross-program: all rosters_program*.json for departed names (Conteh on Loma Linda roster); crossmatch.json (Sanchez Jimenez UPR->MCW)"
+  ],
+  "found": [
+   "Conteh -> Loma Linda (transfer)",
+   "Retzlaff -> Radiation Oncology (switch)",
+   "Cochran/Eckardt/Sharma observed in 2012-13 extranet posts",
+   "Arocho-Quinones began residency 2012 (bio); Gelsomino MD 2013",
+   "2015-16 PGY-1 Janich, Montoure (MD 2015)",
+   "2022-23 PGY-1 MacKinnon, Palmer (MD 2022)"
+  ],
+  "remaining": [
+   "Sanchez Jimenez destination after 2023 (unknown)",
+   "Ladouceur outcome (graduated 2014 vs left 2012-14); pre-cohort entrant",
+   "2012-13/2013-14 still reconstructed (no roster exists in either archive); low significance"
+  ]
+ }
+}

@@ -1,0 +1,77 @@
+
+Duke University Hospital Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2005   Chuck Kanaly             2011   2010-20  6   bio          COMPLETED
+2005   Steve Parker             2011   2010-20  6   bio          COMPLETED [ambiguous name]
+2006   Shahid Nimjee            2012   2011-20  6   bio          COMPLETED
+2006   Renee Reynolds           2012   2011-20  6   bio          COMPLETED [ambiguous name]
+2007   Betsy Grunch             2013   2012-20  6   bio          COMPLETED
+2007   Isaac Karikari           2013   2012-20  6   bio          COMPLETED
+2007   Ankit Mehta              2013   2012-20  6   bio          COMPLETED [ambiguous name]
+2008   Jonathan Choi            2014   2013-20  6   bio          COMPLETED [ambiguous name]
+2008   Amitoz Manhas            2014   2013-20  6   bio          COMPLETED
+2009   Matthew Hazzard          2015   2014-20  6   bio          COMPLETED
+2009   Tiffany Hodges           2015   2014-20  6   bio          COMPLETED [ambiguous name]
+2009   Ryan Owens               2015   2014-20  6   bio          COMPLETED
+2010   Vijay Agarwal            2016   2015-20  6   bio          COMPLETED
+2010   Kyle Halvorson           2016   2015-20  6   bio          COMPLETED
+2010   Andrew Marky             2016   2015-20  6   bio          COMPLETED
+2011   Adam Back                2017   2016-20  6   bio          COMPLETED
+2011   Mary Huang Cobb          2018   2017-20  6   bio          COMPLETED
+2011   Steven Cook              2017   2016-20  6   bio          COMPLETED [ambiguous name]
+2012   Owoicho Adogwa           2015   2014-20  3   bio          LEFT -> TRANSFERRED (Rush University Medical Center)
+2012   John Berry-Candelario    2018   2017-20  6   bio          COMPLETED [ambiguous name]
+2012   Kimberly Hoang           2018   2017-20  6   bio          COMPLETED
+2012   Timothy Miller           2018   2017-20  6   bio          COMPLETED [ambiguous name]
+2013   Jordan Komisarow         2020   2019-20  7   bio          COMPLETED
+2013   Max Krucoff              2020   2019-20  7   bio          COMPLETED
+2013   Vadim Tsvankin           2020   2019-20  7   bio          COMPLETED
+2014   Ranjith Babu             2021   2020-20  7   bio          COMPLETED
+2014   Shervin Rahimpour        2021   2020-20  7   bio          COMPLETED
+2014   Theresa Williamson       2021   2020-20  7   bio          COMPLETED
+2015   Alexa Bramall            2022   2021-20  7   bio          COMPLETED
+2015   Jacquelyn Corley         2022   2021-20  7   bio          COMPLETED
+2015   Andrew Cutler            2022   2021-20  7   bio          COMPLETED [ambiguous name]
+2016   Stephen Harward          2023   2022-20  7   bio          COMPLETED
+2016   Vikram Mehta             2023   2022-20  7   bio          COMPLETED
+2016   Eric Sankey              2023   2022-20  7   bio          COMPLETED
+2017   David Huie               2024   2023-20  7   bio          COMPLETED
+2017   Kelly Ryan Murphy        2024   2023-20  7   bio          COMPLETED [ambiguous name]
+2017   Timothy Wang             2024   2023-20  7   bio          COMPLETED [ambiguous name]
+2018   Jihad Abdelgadir         2025   2024-20  7   bio          COMPLETED
+2018   Daniel Sexton            2025   2024-20  7   bio          COMPLETED
+2018   Alexander Suarez         2025   2024-20  7   bio          COMPLETED [ambiguous name]
+2019   Prince Antwi             2026   2025-20  7   bio          COMPLETED
+2019   Stephen Bergin           2026   2025-20  7   bio          COMPLETED
+2019   Joshua Jackson           2026   2025-20  7   bio          COMPLETED [ambiguous name]
+2020   Andrew Hardigan          -      2026-20  7   roster       IN TRAINING
+2020   Eli Johnson              -      2026-20  7   roster       IN TRAINING [ambiguous name]
+2020   Alankrita Raghavan       -      2026-20  7   roster       IN TRAINING
+2021   Syed Adil                -      2026-20  6   roster       IN TRAINING
+2021   Kennedy Carpenter        -      2026-20  6   roster       IN TRAINING [ambiguous name]
+2021   Mounica Paturu           -      2026-20  6   roster       IN TRAINING
+2022   Pakawat Chongsathidkiet  -      2026-20  5   roster       IN TRAINING
+2022   Tara Dalton              -      2026-20  5   roster       IN TRAINING
+2022   Samantha Spellicy        -      2026-20  5   roster       IN TRAINING
+2023   Caroline Folz            -      2026-20  4   roster       IN TRAINING
+2023   Jordan Hatfield          -      2026-20  4   roster       IN TRAINING
+2023   Benjamin Wissel          -      2026-20  4   roster       IN TRAINING
+2024   Tyrone DeSpenza          -      2026-20  3   roster       IN TRAINING
+2024   Julia Duvall             -      2026-20  3   roster       IN TRAINING
+2024   Benjamin Succop          -      2026-20  3   roster       IN TRAINING
+2025   Brittany Futch           -      2026-20  2   roster       IN TRAINING
+2025   Aden Haskell-Mendoza     -      2026-20  2   roster       IN TRAINING
+2025   Molly Monsour            -      2026-20  2   roster       IN TRAINING
+2026   Alyssa Bartlett          -      2026-20  1   roster       IN TRAINING
+2026   Alex Devarajan           -      2026-20  1   roster       IN TRAINING
+2026   Barbara Hanna            -      2026-20  1   roster       IN TRAINING [ambiguous name]
+
+summary:
+    42  COMPLETED
+    21  IN TRAINING
+     1  LEFT -> TRANSFERRED (Rush University Medical Center)
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

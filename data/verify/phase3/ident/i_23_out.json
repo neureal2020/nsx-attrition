@@ -1,0 +1,164 @@
+[
+ {
+  "key": "125:eri:gorbea",
+  "name": "Erick Garcia Gorbea",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "WSU archived resident pages list 'Erick Garcia Gorbea, MD' Resident Year 3 (Nov 2015) and Year 4 (Oct 2016); his archived WSU profile (profile.php?id=136829) states 'Residency 2015-Present Neurosurgery Wayne State University ... 2014-2015 Neurosurgery University of Texas Medical Branch ... 2009-2013 MD Ponce School of Medicine'. External: Vitals/WebMD/Healthgrades and NPI 1376986703 (Erick Guillermo Garcia, Neurological Surgery, Ponce 2013, 7703 Floyd Curl Dr MC7843 San Antonio = UT Health SA Neurosurgery). Name + Ponce 2013 + neurosurgery agree. Doximity erick-garcia-md-e0089de1 has no public profile.",
+  "residency_stated": [
+   {
+    "institution": "University of Texas Medical Branch",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2015
+   },
+   {
+    "institution": "Wayne State University / Detroit Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2017
+   },
+   {
+    "institution": "UT Health San Antonio (role unverified; physician-in-training permit)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Left WSU after 2016-17 (PGY-4). Went to UT Health San Antonio neurosurgery in 2017 (bare department page with his name; NPI address = UTHSCSA neurosurgery MC7843, NPI last updated Nov 2017; Texas license BP10047060 is a physician-in-training permit, now inactive). BUT he is NOT on UTHSCSA's archived neurosurgery resident roster (Aug/Oct 2019, 2021), NOT on the current residents page, and NOT on the UTHSCSA neurosurgery alumni list (1985-2026). No faculty/practice bio, no ABNS/Doximity evidence of practising neurosurgery anywhere. Completion of neurosurgery training is therefore unproven; the recorded 'transferred' may in fact be attrition (left WSU, brief/unknown role at UTHSCSA, no graduation found). Healthgrades lists a Jamaica Hospital (Queens NY) affiliation, unverified.",
+  "year_left": 2017,
+  "destination_program": "UT Health San Antonio neurosurgery (unverified role; not on 2019 resident roster or alumni list)",
+  "destination_start_year": 2017,
+  "current": "unknown; directory listings (WebMD/Vitals/Healthgrades) still say neurosurgery San Antonio but are stale (NPI unchanged since 2017, Texas training permit inactive)",
+  "agrees_with_db": false,
+  "disagreement": "DB says LEFT -> TRANSFERRED; destination confirmed only as a 2017 trainee at UTHSCSA, with no evidence he completed neurosurgery there or anywhere (absent from UTHSCSA alumni list). Should be treated as unresolved / possible attrition.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20161028105712/http://neurosurgery.med.wayne.edu:80/residents.php",
+  "external_url": "https://www.vitals.com/doctors/Erick_Guillermo_GarciaGorbea.html",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20151127091826/http://neurosurgery.med.wayne.edu:80/residents.php",
+    "type": "program_page",
+    "evidence": "Erick Garcia Gorbea ... Resident, Year 3"
+   },
+   {
+    "url": "https://web.archive.org/web/20161028105712/http://neurosurgery.med.wayne.edu:80/residents.php",
+    "type": "program_page",
+    "evidence": "NS Year 4: Erick Garcia Gorbea, MD ... Resident, Year 4"
+   },
+   {
+    "url": "https://web.archive.org/web/20160617221728/http://neurosurgery.med.wayne.edu:80/profile.php?id=136829",
+    "type": "program_page",
+    "evidence": "Residency 2015-Present Neurosurgery Wayne State ... 2014-2015 Neurosurgery University of Texas Medical Branch ... 2009-2013 MD Ponce School of Medicine"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/Erick_Guillermo_GarciaGorbea.html",
+    "type": "search_snippet",
+    "evidence": "neurosurgeon practicing in San Antonio, TX ... graduated from Ponce School of Medicine in 2013"
+   },
+   {
+    "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1376986703",
+    "type": "search_snippet",
+    "evidence": "Erick Guillermo Garcia, M.D.; Neurological Surgery; TX BP10047060; 7703 Floyd Curl Dr # MC7843 San Antonio; last updated 2017-11-02"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/erick-garcia-gorbea/",
+    "type": "program_page",
+    "evidence": "UT Health SA Neurosurgery page titled 'Erick Garcia Gorbea' with no role or bio text"
+   },
+   {
+    "url": "https://web.archive.org/web/20191015071806/https://lsom.uthscsa.edu/neurosurgery/team-members/residents/",
+    "type": "program_page",
+    "evidence": "2019 UTHSCSA resident roster (Wallace, Samples, Thoms, Sy, Peitz, Tavakoli, Chance, Ghamasaee, Fischer, Fisher, Mahadev, Johnson, Patterson) - Garcia Gorbea absent"
+   },
+   {
+    "url": "https://lsom.uthscsa.edu/neurosurgery/alumni/",
+    "type": "program_page",
+    "evidence": "Alumni list 1985-2026 does not include Erick Garcia Gorbea"
+   }
+  ],
+  "searches_used": 8,
+  "ident_searches": 8,
+  "sources_count": 4
+ },
+ {
+  "key": "125:amb:gaulden",
+  "name": "Amber Gaulden",
+  "program_id": 125,
+  "identity": "confirmed",
+  "identity_basis": "WSU 2019-20 PGY-1 roster (manual source on file). External: UC Neurosurgery news article (2020, Wayback) states 'Dr. Amber Gaulden will be joining UC in March 2020 ... began her residency at Wayne State University, but sought out a transfer ... when she learned of Wayne State losing its accreditation'. NPI 1922662428 (Amber Lynn Gaulden, enumerated 2019-04-30, trainee taxonomy) lists 4160 John R St Ste 930 Detroit = WSU Neurosurgery department address. Vitals/WebMD: USC School of Medicine Greenville 2019, neurosurgery Cincinnati. Name + program + years agree.",
+  "residency_stated": [
+   {
+    "institution": "Wayne State University / Detroit Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2020
+   },
+   {
+    "institution": "University of Cincinnati",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2026
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred from WSU (PGY-1, 2019-20) to University of Cincinnati neurosurgery in March 2020 because WSU was losing accreditation. Listed PGY-7 on UC current-residents page in June 2026 capture; absent from the live 2026-27 UC roster while her classmates advanced (PGY-6 Garner/Kaye now PGY-7), i.e. finished residency June 2026. No post-residency faculty/practice bio or fellowship listing found yet (graduated ~3 months ago).",
+  "year_left": 2020,
+  "destination_program": "University of Cincinnati neurosurgery",
+  "destination_start_year": 2020,
+  "current": "completed UC neurosurgery residency June 2026 (inferred from roster); current position not yet found",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "program_site_url": "https://web.archive.org/web/20260607080429/https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+  "external_url": "https://web.archive.org/web/2021/https://med.uc.edu/depart/neurosurgery/happenings/neurosurgery-happenings/2020/06/10/uc-neurosurgery-residency-program-to-expand",
+  "evidence_level": "program_only",
+  "sources": [
+   {
+    "url": "manual",
+    "type": "program_page",
+    "evidence": "WSU roster 2019-20 PGY-1 (program_sources.json, manual capture 2020-06-30)"
+   },
+   {
+    "url": "https://web.archive.org/web/2021/https://med.uc.edu/depart/neurosurgery/happenings/neurosurgery-happenings/2020/06/10/uc-neurosurgery-residency-program-to-expand",
+    "type": "news",
+    "evidence": "Dr. Gaulden began her residency at Wayne State University, but sought out a transfer to the University of Cincinnati"
+   },
+   {
+    "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&first_name=Amber&last_name=Gaulden",
+    "type": "search_snippet",
+    "evidence": "AMBER LYNN GAULDEN, NPI 1922662428, enumerated 2019-04-30; address 4160 JOHN R ST STE 930 DETROIT MI"
+   },
+   {
+    "url": "https://web.archive.org/web/20260607080429/https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "PGY-7 ... Amber Gaulden, MD ... Mark Johnson, MD"
+   },
+   {
+    "url": "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+    "type": "program_page",
+    "evidence": "2026-27 roster PGY-7: Rebecca Garner, Joel Kaye - Gaulden no longer listed"
+   },
+   {
+    "url": "https://www.vitals.com/doctors/MedicalDoctors_Amber_Lynn_Gaulden.html",
+    "type": "search_snippet",
+    "evidence": "graduated from the University of South Carolina School of Medicine Greenville in 2019 ... Cincinnati, OH ... Neurological Surgery"
+   }
+  ],
+  "searches_used": 6,
+  "ident_searches": 6,
+  "sources_count": 4
+ }
+]

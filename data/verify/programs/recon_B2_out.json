@@ -1,0 +1,360 @@
+[
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 112,
+  "program": "University of Vermont Medical Center Program",
+  "name": "Adam Olszewski",
+  "finding": "Not a transfer: a UVM NS entrant (2015/16 class, graduated 2022 per the UVM recent-graduates page; Doximity lead gives UVM 2016-2022). The late first_seen is a roster gap, so no origin departure is missing.",
+  "people": [
+   {
+    "name": "Adam Olszewski",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "University of Vermont Medical Center Program (completed 2022)",
+    "sources": [
+     "local:data/verify/programs/red_2_out.json",
+     "local:data/verify/phase3/gold/g_101_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 112,
+  "program": "University of Vermont Medical Center Program",
+  "name": "Natalie Limoges",
+  "finding": "Not a transfer: a UVM NS entrant (2015/16 class, graduated 2022 per the UVM recent-graduates page; her UH bio says she completed NS residency at UVM). PGY-5 in 2019-20 fits a 2015 entry, so the late first_seen is a roster gap.",
+  "people": [
+   {
+    "name": "Natalie Limoges",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "University of Vermont Medical Center Program (completed 2022)",
+    "sources": [
+     "local:data/verify/programs/red_2_out.json",
+     "local:data/verify/phase3/gold/g_042_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 114,
+  "program": "University of Washington Program",
+  "name": "Sananthan Sivakanthan",
+  "finding": "MISSING DEPARTURE: he trained at University of New Mexico NS from Jul 2017 to May 2019, then moved to UW from May 2019 to Jun 2024. UNM (program 97) has no record for him in our data. His 2017 UNM entry left as a PGY-2 in 2018-19 by transfer. The reason for leaving is not stated.",
+  "people": [
+   {
+    "name": "Sananthan Sivakanthan",
+    "origin_program": "University of New Mexico School of Medicine Program (program_id 97)",
+    "origin_is_us_acgme_ns": true,
+    "left_origin_ay": "2018-2019",
+    "pgy_when_left": 2,
+    "outcome": "transferred",
+    "destination": "University of Washington Program (PGY-3 2019-20, completed Jun 2024)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_043_out.json",
+     "https://www.drsivaspine.com/sananthan-sivakanthan-md-neurosurgeon-phoenix-az/"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 25,
+  "program": "Henry Ford Providence Hospital Program",
+  "name": "Michael Lawless",
+  "finding": "Not a transfer: the Doximity lead (local gold, silver) lists one NS residency, Henry Ford Providence 2016-2023. That fits our entry_year of 2016, so first appearing as PGY-3 in 2018-19 is a roster gap. No other residency is listed.",
+  "people": [
+   {
+    "name": "Michael Lawless",
+    "origin_program": null,
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Henry Ford Providence Hospital Program (completed 2023)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_007_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 39,
+  "program": "Mayo Clinic College of Medicine and Science (Phoenix) Program",
+  "name": "Devi Patra",
+  "finding": "Not a US NS departure. His prior NS training was in India; he did a Mayo AZ fellowship 2018-2020, then started residency in 2020 with advanced credit (PGY-4 in 2021-22) and finished in 2024/25. His 2020 match slot is already counted under his key.",
+  "people": [
+   {
+    "name": "Devi Prasad Patra",
+    "origin_program": "neurosurgery training in India (foreign) + Mayo Clinic Arizona fellowship 2018-2020",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Mayo Clinic Phoenix NS residency (completed)",
+    "sources": [
+     "local:data/verify/programs/holes_1_out.json",
+     "local:data/verify/phase3/gold/g_078_out.json",
+     "https://medicine.iu.edu/blogs/neuroscience/fellowship-trained-neurosurgeon-brings-unique-set-of-skills"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 77,
+  "program": "University of California Davis Health Program",
+  "name": "Harjot Thind",
+  "finding": "Origin was SUNY Buffalo NS, a US ACGME program. That departure is already in our data as 69:jot:thind (transferred; last seen PGY-3 in 2016-17), so nothing is missing.",
+  "people": [
+   {
+    "name": "Harjot (Joti) Thind-Deol",
+    "origin_program": "University at Buffalo Program (program_id 69)",
+    "origin_is_us_acgme_ns": true,
+    "left_origin_ay": "2016-2017",
+    "pgy_when_left": 3,
+    "outcome": "in_our_data",
+    "destination": "UC Davis NS (PGY-4 2017-18, completed 2021)",
+    "sources": [
+     "local:data/verify/phase3/merged_final.json",
+     "local:data/verify/phase3/gold/g_088_out.json",
+     "https://www.legacyhealth.org/providers/harjot-thind"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 77,
+  "program": "University of California Davis Health Program",
+  "name": "Freddie Rodriguez Beato",
+  "finding": "Origin was University of Puerto Rico NS (2019 matchee, PGY-1 and PGY-2 2019-21). He moved to UC Davis as PGY-3 in 2021-22 after UPR lost accreditation. This is already in our data as 101:fre:beato (transferred, closure-driven).",
+  "people": [
+   {
+    "name": "Freddie Rodriguez Beato",
+    "origin_program": "University of Puerto Rico School of Medicine Program (program_id 101)",
+    "origin_is_us_acgme_ns": true,
+    "left_origin_ay": "2020-2021",
+    "pgy_when_left": 2,
+    "outcome": "in_our_data",
+    "destination": "UC Davis NS (PGY-3 2021-22; in training)",
+    "sources": [
+     "local:data/verify/programs/holes_2_out.json",
+     "local:data/verify/phase3/merged_final.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 44,
+  "program": "Medical University of South Carolina Program",
+  "name": "Mithun Sattur",
+  "finding": "Not a US NS departure. His UNMC bio says his first NS residency was at NIMHANS (India) and MUSC was his second NS residency.",
+  "people": [
+   {
+    "name": "Mithun Sattur",
+    "origin_program": "NIMHANS, Bangalore, India (foreign neurosurgery residency)",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "MUSC NS (completed 2023)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_080_out.json",
+     "https://www.unmc.edu/neurosurgery/faculty/sattur.html"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 125,
+  "program": "Wayne State University / Detroit Medical Center Program",
+  "name": "Erick Garcia Gorbea",
+  "finding": "Origin was UTMB Galveston NS (2013 entrant, left after PGY-2 in 2014-15), already in our data as 109:eri:garcia (transferred to Wayne State). Wayne State rosters show him PGY-3 2015-16 and PGY-4 2016-17. A CV then places him at UTHSCSA as PGY-5 2015-2017 (dates conflict); he is also 108:eri:garcia. Nothing new is missing for UTMB.",
+  "people": [
+   {
+    "name": "Erick Guillermo Garcia Gorbea",
+    "origin_program": "University of Texas Medical Branch Hospitals Program (program_id 109)",
+    "origin_is_us_acgme_ns": true,
+    "left_origin_ay": "2014-2015",
+    "pgy_when_left": 2,
+    "outcome": "in_our_data",
+    "destination": "Wayne State/DMC NS PGY-3 2015-16, then UTHSCSA NS (108:eri:garcia, completion not established)",
+    "sources": [
+     "local:data/verify/phase3/ident/i_20_out.json",
+     "local:data/verify/phase3/ident/i_23_out.json",
+     "local:data/verify/phase3/merged_final.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 111,
+  "program": "University of Utah Health Program",
+  "name": "Guilherme Agnoletto",
+  "finding": "Not a US NS departure. His AdventHealth bio says his first NS residency was at Instituto de Neurologia de Curitiba (Brazil) and his second at the University of Utah, where he was chief resident.",
+  "people": [
+   {
+    "name": "Guilherme Agnoletto",
+    "origin_program": "Instituto de Neurologia de Curitiba, Brazil (foreign neurosurgery residency)",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "University of Utah NS (completed 2024)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_101_out.json",
+     "https://www.adventhealth.com/doctors/guilherme-agnoletto-md-1902374630"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 69,
+  "program": "University at Buffalo Program",
+  "name": "Ashish Sonig",
+  "finding": "Not a US NS departure. His prior NS training was at NIMHANS Bangalore (India; MD from Seth GS Mumbai, plus MS and MCh), then an LSU Shreveport skull-base fellowship and a Buffalo endovascular fellowship before the UB NS residency.",
+  "people": [
+   {
+    "name": "Ashish Sonig",
+    "origin_program": "NIMHANS, Bangalore, India (foreign neurosurgery training)",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "University at Buffalo NS (completed ~2020)",
+    "sources": [
+     "https://www.uhnj.org/services/neurosurgery/our-physicians/",
+     "local:data/verify/phase3/gold/g_023_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 119,
+  "program": "Wake Forest University Baptist Medical Center Program",
+  "name": "Hector Soriano-Baron",
+  "finding": "Not a US NS departure. His first NS residency was at the National Institute of Neurology and Neurosurgery in Mexico City, followed by two Barrow research fellowships. Wake Forest was his second NS residency.",
+  "people": [
+   {
+    "name": "Hector Enrique Soriano-Baron",
+    "origin_program": "Instituto Nacional de Neurologia y Neurocirugia, Mexico City (foreign) + Barrow research fellowships",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "Wake Forest NS (completed 2020)",
+    "sources": [
+     "https://news.uams.edu/2023/10/24/neurosurgeon-hector-enrique-soriano-baron-m-d-joins-uams-as-co-director-of-spine-services/",
+     "local:data/verify/phase3/gold/g_045_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 2,
+  "program": "Allegheny Health Network Medical Education Consortium (AGH) Program",
+  "name": "Rocco Dabecco",
+  "finding": "His origin was the Saint Barnabas Medical Center (NYCOMEC) neurosurgery residency in Livingston NJ. That was an osteopathic (AOA) program, not one of the ACGME NS programs in our universe. He is a DO (VCOM 2015). He likely left about 2017-18 for AGH as PGY-3 in 2018-19, but no page gives the years. This is not an ACGME NS departure.",
+  "people": [
+   {
+    "name": "Rocco M. Dabecco",
+    "origin_program": "Saint Barnabas Medical Center / NYCOMEC neurosurgery (osteopathic/AOA), Livingston NJ",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": "2017-2018",
+    "pgy_when_left": 2,
+    "outcome": "transferred",
+    "destination": "AGH NS (PGY-3 2018-19, completed 2022)",
+    "sources": [
+     "https://findcare.ahn.org/Rocco-M-Dabecco",
+     "https://doctor.webmd.com/doctor/rocco-dabecco-6245179a-9db4-48d9-b20b-1529d5658bee-overview",
+     "local:data/verify/phase3/gold/g_065_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 125,
+  "program": "Wayne State University / Detroit Medical Center Program",
+  "name": "Marc Moisi",
+  "finding": "His origin was Houston Methodist NS, a US ACGME program. His Hurley bio lists residency at Houston Methodist and DMC-Wayne State. The Doximity lead gives Methodist 2006-2012, then a Swedish spine fellowship 2013-2016, before he finished at Wayne State as PGY-6 in 2016-17. So the Methodist departure was about 2011-12, near the end of residency. It falls outside our Methodist cohorts (entry 2011+) and outside the 2017-19 and 2023-24 gap years. The reason for leaving is not stated, and the years come only from the Doximity lead.",
+  "people": [
+   {
+    "name": "Marc D. Moisi",
+    "origin_program": "Houston Methodist Hospital (Medical Center) Program (program_id 26)",
+    "origin_is_us_acgme_ns": true,
+    "left_origin_ay": "2011-2012",
+    "pgy_when_left": 6,
+    "outcome": "transferred",
+    "destination": "Swedish Neuroscience Institute spine fellowship 2013-2016, then Wayne State/DMC NS PGY-6 2016-17 (completed; ABNS)",
+    "sources": [
+     "https://www.hurleymc.com/doctors/marc-d-moisi/",
+     "https://www.doximity.com/pub/marc-moisi-md (lead)",
+     "local:data/verify/phase3/gold/g_047_out.json"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 92,
+  "program": "University of Minnesota Program",
+  "name": "Jack Leschke",
+  "finding": "Not a NS departure. His prior residency was in neurology at the Medical College of Wisconsin (practice bio says 'Residency: Medical College of WI'; search snippets say neurology residency at MCW, then NS at UMN). He finished UMN NS as chief on 25 Jun 2021, which fits the 2014 entry.",
+  "people": [
+   {
+    "name": "John (Jack) Leschke",
+    "origin_program": "Medical College of Wisconsin neurology residency (different US specialty)",
+    "origin_is_us_acgme_ns": false,
+    "left_origin_ay": null,
+    "pgy_when_left": null,
+    "outcome": "in_our_data",
+    "destination": "University of Minnesota NS (completed Jun 2021)",
+    "sources": [
+     "local:data/verify/phase3/gold/g_034_out.json",
+     "https://ipn-wi.com/index.php/en/leschke-md-john-m",
+     "https://med.umn.edu/neurosurgery/news/our-graduates-feel-well-prepared-take-their-next-steps"
+    ]
+   }
+  ]
+ },
+ {
+  "kind": "transfer_in_unknown_origin",
+  "program_id": 88,
+  "program": "University of Louisville School of Medicine Program",
+  "name": "Jeffrey Rice",
+  "finding": "Probable origin is University of Arizona Tucson NS, a US ACGME program. Two Doximity profiles (leads) list 'Residency, Neurological Surgery, 2010-2013' there; he is a Louisville MD 2010. He left Arizona about 2012-13 after PGY-3, and Louisville's 2017-18 roster shows him as PGY-4. That predates our Arizona cohorts (entry 2011+), so it is missing from our data but outside the 2017-19 and 2023-24 gap years. He later left Louisville NS too (already recorded as switched_specialty). The reason he left Arizona is not found, and no program page confirms the Arizona years.",
+  "people": [
+   {
+    "name": "Jeffrey M. Rice",
+    "origin_program": "University of Arizona College of Medicine - Tucson Program (program_id 72)",
+    "origin_is_us_acgme_ns": true,
+    "left_origin_ay": "2012-2013",
+    "pgy_when_left": 3,
+    "outcome": "transferred",
+    "destination": "University of Louisville NS (PGY-4 2017-18; later left NS for Navy preventive/aerospace medicine)",
+    "sources": [
+     "https://www.doximity.com/pub/jeffrey-rice-md-752ff7dd (lead)",
+     "local:data/verify/phase3/gold/g_094_out.json",
+     "local:data/verify/phase3/ident/i_16_out.json"
+    ]
+   }
+  ]
+ }
+]

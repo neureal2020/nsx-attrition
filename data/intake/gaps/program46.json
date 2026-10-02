@@ -1,0 +1,299 @@
+{
+ "program_id": 46,
+ "name": "Montefiore Medical Center/Albert Einstein College of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "montefiore.org/prof/departments/neurosurgery/ (residency/, bios/)",
+   "from": "2007-02",
+   "to": "2012-05",
+   "note": "old Montefiore dept site; no current-resident roster (bios/ Dec 2011 shows a pre-2010 resident list); 301 from May 2012"
+  },
+  {
+   "url": "einstein.yu.edu/departments/neurological-surgery/current-residents/",
+   "from": "2013-05 (CC) / 2013-08 (Wayback)",
+   "to": "2018-10",
+   "note": "carried the 2011-12 list until Sep 2014, then the 2014-15 list frozen to 2018"
+  },
+  {
+   "url": "einstein.yu.edu/departments/neurological-surgery/alumni/",
+   "from": "2012-09",
+   "to": "2018-10",
+   "note": "graduates 2007-2014; not updated after 2014"
+  },
+  {
+   "url": "montefiore.org/neurosurgery-professional-training-programs-residency-residents",
+   "from": "2014-11",
+   "to": "2019-01",
+   "note": "2014-15 list frozen through Aug 2018; rebuilt Dec 2018 with 2018-19 list (Common Crawl only; Wayback has 302s)"
+  },
+  {
+   "url": "montefiore.org/neurological-surgery-residency-residents (body: responsive-body_min.cfm?id=6571)",
+   "from": "2018-12 (CC)",
+   "to": "2024-05",
+   "note": "2018-19 list Feb-May 2019, 2019-20 list Feb-Jun 2020 (CC); from Aug 2020 frozen on 2020-21 headings with 2019-20 inline labels"
+  },
+  {
+   "url": "virtualtour.montefiore.org/neurological-surgery-residency",
+   "from": "2021-01",
+   "to": "2025-04",
+   "note": "main roster 2020-21 on; 301 to montefioreeinstein host from Aug 2025"
+  },
+  {
+   "url": "virtualtour.montefioreeinstein.org/neurological-surgery-residency",
+   "from": "2025-08",
+   "to": "live 2026-09-27",
+   "note": "2025-26 list, unchanged in live page"
+  },
+  {
+   "url": "montefiore.org/neurological-surgery-residency, -education, -team",
+   "from": "2019-08",
+   "to": "2024-05",
+   "note": "no roster"
+  },
+  {
+   "url": "montefioreeinstein.org/patient-care/services/neurosurgery/education, /team",
+   "from": "2024-09",
+   "to": "live",
+   "note": "no roster (live education page = website of record, redirects here)"
+  },
+  {
+   "url": "einsteinmed.org / einsteinmed.edu /departments/neurological-surgery/",
+   "from": "2020-05",
+   "to": "2025",
+   "note": "no roster; live einsteinmed.edu returns Access Denied (Akamai)"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2014-2015",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2023-2024",
+  "2025-2026"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2022-2023",
+  "2024-2025"
+ ],
+ "missing_years": [
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "Observed but CONTENT-DATED: the einstein.yu.edu list first captured 2013-05 (CC)/2013-08 (Wayback) and unchanged to Sep 2014 shows 2011-12 levels (Nakhla PGY-1 here, PGY-4 in Nov 2014; Daniels/Altschul/Kinon graduate 2012/13/14 per alumni page). No earlier capture exists; old montefiore.org/prof pages have no roster.",
+  "2012-2013": "No capture with 2012-13 content (einstein page stale, montefiore residents page not yet created). Reconstructed 9 bracketed/alumni-confirmed residents. 2012 entrants Haranhalli and Kobets (PGY-3 in 2014-15) not reconstructed; any 2012/2013 entrant who left before Nov 2014 would be invisible. PHASE 2: added Haranhalli/Kobets PGY-1 (faculty bios: internship and residency at Montefiore).",
+  "2013-2014": "Same as 2012-13. Reconstructed 8. Gelfand (2013 entrant) not reconstructed. PHASE 2: added Haranhalli/Kobets PGY-2, Gelfand PGY-1.",
+  "2015-2016": "montefiore.org and einstein.yu.edu residents pages both frozen on the 2014-15 list (Wayback digests checked 2015-2018; Common Crawl einstein copies every crawl 2015-2018 identical). Reconstructed only 5 bracketed by 2014-15 and 2018-19 (Haranhalli, Kobets, Gelfand, Echt, Cezayirli [PGY unknown]). Biswas, Sandler, Jada, Nasser, Nakhla (would graduate 2016/2017/2018) and the 2015-2017 entrants (Ammar, Scoco, De La Garza Ramos, Hamad, Holland) are unobserved in these years. PHASE 2: einstein current-residents copies in Wayback (Sep/Oct 2015 aspx?id=33796) and every Common Crawl copy 2013-2016 re-checked: frozen 2014-15 list. Added finishers (Biswas 2016; Jada, Nasser 2017; Nakhla 2018) and 2015-17 entrants (Ammar, Scoco, De La Garza Ramos, Hamad, Holland) from PubMed affiliations and bios.",
+  "2016-2017": "As 2015-16. PHASE 2: einstein current-residents copies in Wayback (Sep/Oct 2015 aspx?id=33796) and every Common Crawl copy 2013-2016 re-checked: frozen 2014-15 list. Added finishers (Biswas 2016; Jada, Nasser 2017; Nakhla 2018) and 2015-17 entrants (Ammar, Scoco, De La Garza Ramos, Hamad, Holland) from PubMed affiliations and bios.",
+  "2017-2018": "As 2015-16. PHASE 2: einstein current-residents copies in Wayback (Sep/Oct 2015 aspx?id=33796) and every Common Crawl copy 2013-2016 re-checked: frozen 2014-15 list. Added finishers (Biswas 2016; Jada, Nasser 2017; Nakhla 2018) and 2015-17 entrants (Ammar, Scoco, De La Garza Ramos, Hamad, Holland) from PubMed affiliations and bios.",
+  "2018-2019": "Observed via Common Crawl only (CC-MAIN-2018-51, 2018-12-16) - loaded as source_type other.",
+  "2019-2020": "Observed via Common Crawl only (CC-MAIN-2020-10, 2020-02-27; no Aug-Jan capture) - source_type other. Complete 11-name list.",
+  "2021-2022": "Observed (virtual tour Sep 2021) but INCOMPLETE: no PGY-1 shown; 2021 entrants Benton and Kirnaz (PGY-3 in 2023-24) missing. PHASE 2: separate manual entry adds Benton and Kirnaz as PGY-1 (virtual-tour bios).",
+  "2022-2023": "Virtual tour showed the 2021-22 list in every capture Jan 2022-Mar 2023; montefiore.org residents page frozen on 2020-21. Common Crawl 2022-2023 has only the same captures. Reconstructed 6 bracketed. De La Garza Ramos and Scoco (PGY-7, presumed 2023 grads) not reconstructed; Benton/Kirnaz (PGY-2) and Nia/Javed (PGY-1) not reconstructed. PHASE 2: montefiore.org residents page CC copies 2021-05..2023-12 all frozen on 2020-21 list. Added DLGR/Scoco PGY-7 (2023 grads by employer bios), Benton/Kirnaz PGY-2, Nia/Javed PGY-1.",
+  "2024-2025": "Virtual tour carried the 2023-24 list through Apr 2025 (captures May, Sep, Dec 2024, Apr 2025); next version first captured Aug 2025 = 2025-26. Reconstructed 8 bracketed. Inocencio (PGY-7, presumed 2025 grad), Javed (would be PGY-3) and 2024 interns Kang/Mitrasinovic not reconstructed. PHASE 2: page-data.json captures Feb/Dec 2024 also carry the 2023-24 list. Added Inocencio PGY-7, Kang and Mitrasinovic PGY-1 (PubMed Montefiore affiliations 2024).",
+  "2026-2027": "Live virtual tour (2026-09-27) identical to the Nov 2025 / Jan 2026 / Jul 2026 captures (Stock/Fortunel still PGY-7, no new interns) - not loaded. montefioreeinstein.org education/team pages carry no roster; einsteinmed.edu blocked (Access Denied). PHASE 2: live page-data.json re-fetched 2026-09-28: unchanged."
+ },
+ "alumni_page": "https://web.archive.org/web/20181023052228/http://www.einstein.yu.edu:80/departments/neurological-surgery/alumni/",
+ "departures": [
+  {
+   "name": "Kainaat Javed",
+   "last_ay": "2023-2024",
+   "last_pgy": 2,
+   "note": "LEFT, probable specialty switch: Montefiore neurosurgery affiliation to a manuscript received 2025-01; Jun 2026 paper lists Department of Medicine, New York University (PMID 42316552). Left Jul 2024-Jul 2025. training_history: completed=no, switched_specialty, end_year 2025."
+  },
+  {
+   "name": "Adam Sandler",
+   "last_ay": "2014-2015",
+   "last_pgy": 6,
+   "note": "UNRESOLVED: expected grad 2016; last Montefiore neurosurgery affiliation on manuscript received 2016-11; no later neurosurgery output. NPPES (not evidence): primary Preventive/Occupational Medicine, secondary Neurological Surgery (PA license). training_history: completed=unknown."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 25,
+ "adjudication_summary": {
+  "COMPLETED": 20,
+  "IN TRAINING": 12,
+  "LEFT -> outcome unknown": 1,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "distinct_residents": 34
+ },
+ "problems": "Common Crawl failures (retry in phase 2): CC-MAIN-2012 org,montefiore)/neurosurgery-professional-training-programs-residency (size failed); CC-MAIN-2014-23 and CC-MAIN-2015-11 org,montefiore)/neurological-surgery-residency (range failed); CC-MAIN-2017-09 edu,yu,einstein)/departments/neurological-surgery/current-residents (range failed); CC-MAIN-2018-09 org,montefiore)/neurosurgery-professional-training-programs-residency (range failed); CC-MAIN-2024-51 org,montefiore,virtualtour)/page-data/neurological-surgery-residency; CC-MAIN-2025-51 org,montefioreeinstein,virtualtour)/neurological-surgery-residency. Other issues: Michael Weicker listed PGY-4 in 2011-12 alongside Baxi (2008 class) but alumni page says class of 2014 (reconstructed with pgy null). Phillip Cezayirli lost a year between 2014-15 (PGY-1) and 2018-19 (PGY-4) and finished PGY-7 in 2021-22 (entry-year inconsistency 2014/2015 is real, not a parse error). Single-entrant classes 2011, 2013, 2015, 2018, 2020; with the program admitting 1-2 per year, a second entrant who left inside the 2012-14, 2015-18, 2022-23 or 2024-25 gaps would be invisible. The 2021-22 roster omits interns. Several residents are now Montefiore faculty (Baxi, Haranhalli, Gelfand, De La Garza Ramos), which a phase-2 bio check can use to close the gap-artefact departures. || PHASE 2: Phase 2 Common Crawl reruns (new filter) were killed after ~45 min in retry backoff. Unfinished: ccB (2012-18 montefiore residency / einstein dept prefixes) crawls CC-MAIN-2016-36 (montefiore neurological-surgery-residency part) through CC-MAIN-2018-51, which phase 1 had already covered for the einstein current-residents URL (identical frozen copies); ccA (virtual-tour hosts + montefiore residency 2021-26) crawls CC-MAIN-2025-51 (montefioreeinstein part) through CC-MAIN-2026-39. Range failures: CC-MAIN-2021-21 virtualtour prefix; CC-MAIN-2023-06, 2024-22, 2024-46 montefiore neurological-surgery-residency; CC-MAIN-2015-14 montefiore professional-training prefix. Also: WMC (wmchealth.org) and doctors.stonybrookmedicine.edu return 403 live (Stony Brook read via Wayback); einsteinmed.edu live Access Denied (not bypassed).",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "content-dated einstein list (captured 2013); consistent with alumni grads 2012-14 and 2014-15 roster"
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "11 rows: all 2011-12 continuers bracketed by 2014-15/alumni + 2012 entrants Haranhalli/Kobets (bios: internship+residency Montefiore); 2012 class full at 2; only risk a 2nd 2013 entrant leaving before Nov 2014 (program alternated 2/1 per year, complement ~11)"
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "as 2012-13; Gelfand (2013 entrant, bio) added; 11 rows = complement"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "montefiore.org Nov 2014 list"
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "10 rows; Sandler (PGY-7 expected) unresolved: no graduation evidence, NPPES hints later occupational medicine. All other 2014-15 residents shown to finish (PubMed/bios)"
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "11 rows = complement; Jada/Nasser grad 2017 and Nakhla 2018 shown by PubMed affiliation moves to fellowships; 2016 entrants Scoco/DLGR dated by bios; no unlisted resident in 1957 Montefiore-neurosurgery PubMed records 2010-26"
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "11 rows = complement; 2017 entrants Hamad/Holland (Rutgers NJMS 2017) added; Cezayirli's extra year falls somewhere in 2015-18"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl copy, 11 names"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl copy, 11 names"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "virtual tour Jan 2021"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "virtual tour omitted interns; Benton (MD 2021) and Kirnaz (Montefiore internship) added as reconstructed PGY-1 from bios"
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "12 rows; DLGR and Scoco 2023 graduation confirmed by employer bios; 2022 entrants Nia/Javed seen 2023-24"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "virtual tour Dec 2023"
+  },
+  "2024-2025": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "11 rows; Inocencio 2025 grad (City of Hope 2026), Kang/Mitrasinovic PGY-1 (Montefiore affiliations 2024); only Javed's exit timing (after PGY-2 or during PGY-3) unknown"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "virtual tour Nov 2025"
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "live virtual tour (re-fetched 2026-09-28) still shows 2025-26 list; 2026 interns and June-2026 graduations (Stock, Fortunel) unobservable"
+  }
+ },
+ "resolved_departures": [
+  {
+   "name": "Arundhati Biswas",
+   "grad": 2016,
+   "evidence": "PubMed: Montefiore to 2016-18, Utah 2019, attending Carle 2020-22, Westchester 2022-"
+  },
+  {
+   "name": "Ajit Jada",
+   "grad": 2017,
+   "evidence": "PubMed: Montefiore to 2017, Weill Cornell spine 2017-18; NPPES neurosurgery"
+  },
+  {
+   "name": "Rani Nasser",
+   "grad": 2017,
+   "evidence": "PubMed: Montefiore to 2017-08, Cincinnati neurosurgery 2018-"
+  },
+  {
+   "name": "Jonathan Nakhla",
+   "grad": 2018,
+   "evidence": "PubMed: Montefiore to 2018-03, Brown 2018-19, Mobile AL"
+  },
+  {
+   "name": "Rafael De La Garza Ramos",
+   "grad": 2023,
+   "evidence": "Montefiore Einstein provider bio: residency 2023; Brown spine fellowship"
+  },
+  {
+   "name": "Aleka Scoco",
+   "grad": 2023,
+   "evidence": "Stony Brook provider profile: residency Montefiore 2023"
+  },
+  {
+   "name": "Julio Inocencio",
+   "grad": 2025,
+   "evidence": "PubMed: Montefiore to 2025-05, City of Hope 2026; NPPES Duarte CA"
+  }
+ ],
+ "notes_phase2": "Kirnaz's bio lists a general surgery internship at Montefiore before neurosurgery; treated as the 2021 PGY-1 (he is PGY-3 in 2023-24 with Benton). Adesh Tandon (Montefiore neurosurgery affiliation 2013; NPI 2010; UVA 2014; NYMC 2015-17) surfaced in PubMed but is on no roster and not on Westchester/UVA rosters either; treated as research fellow, not added. Mitrasinovic (UK MRCS; Columbia neurosurgery research 2022) entered as 2024 PGY-1.",
+ "phase2": {
+  "searched": [
+   "PubMed affiliation mining (Montefiore/Einstein neurosurgery, 2010-2026, 1957 PMIDs) + per-person author histories",
+   "Wayback CDX full prefix of virtualtour.montefiore.org / virtualtour.montefioreeinstein.org incl. page-data.json (2024-02, 2024-12, 2025-08, 2026-01)",
+   "einstein.yu.edu/departments/neurological-surgery prefix (aspx?id= pages 2013-2018)",
+   "doctors.montefioreeinstein.org provider bios (Haranhalli, DLGR, Baxi, Gelfand, Kobets, Ammar)",
+   "Stony Brook faculty/provider pages (Scoco); WMC (403); NYU medicine pages (no roster)",
+   "montefiore.org residency/education/team/highlights pages 2019-2024 (no alumni list)",
+   "Einstein match-results pages (no names)",
+   "Common Crawl 2012-2018 (montefiore residency, einstein dept) and 2021-2026 (virtual tour hosts, montefiore residency) with new filter",
+   "NPPES (supporting only)",
+   "live page-data.json 2026-09-28"
+  ],
+  "found": [
+   "graduation evidence for 7 of 8 phase-1 gap-artefact departures",
+   "Javed: 2026 NYU Department of Medicine affiliation",
+   "bios dating 2012-2017 and 2021 entrants",
+   "2024-25 interns confirmed by PubMed",
+   "no unlisted residents in PubMed"
+  ],
+  "remaining": [
+   "Sandler outcome (2015-16)",
+   "Javed exit timing (2024 vs 2025)",
+   "2026-27 roster not published"
+  ]
+ }
+}

@@ -1,0 +1,194 @@
+[
+ {
+  "key": "2:kev:sexton",
+  "name": "Kevin Sexton",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Only leads: WebMD (stale, Critical Care/IM/NSGY at AGH) and a Kevin W. Sexton general surgeon in Nashville (different person, Doximity cv kwsexton). No dated current source.",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "4:mic:chua",
+  "name": "Michelle Chua",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Directory pages (WebMD/Healthgrades/MediFind) list Michelle Chua neurosurgery Phoenix, HMS 2017; stale, not proof. No program page found (Barrow neuro/rad onc).",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "5:mil:douglas",
+  "name": "Miller Douglas",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No results for the name; only unrelated Douglas Millers.",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "8:sta:hatcher",
+  "name": "Stacy Hatcher",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "ResearchGate PGY-2 Surgery Doctors Hospital Augusta and LinkedIn 'Surgical Resident' remain unlinked to Carilion; ResearchGate 403 to fetch; LinkedIn not opened. Unverified. Search snippets also mention a Stacy Hatcher DO at MSU/Edinburg (possibly same, unverified).",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "12:cha:nelson",
+  "name": "Charlie Nelson",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Doximity/US News still 'Resident Physician, Cleveland', NEOMED MD; no dated program source. Possibly PGY-5/6 research year not shown but no 2026 source names him.",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "12:col:lamb",
+  "name": "Colin Lamb",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Only unrelated Colin Lambs (Maine psychiatrist). Doximity 'Other MD/DO' NYC stale.",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "15:mic:bamimore",
+  "name": "Michael Bamimore",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Cooper individual bio page (cooperhealth.edu/bamimore-michael-do) still lists him as neurosurgery trainee 'Class of 2026' but undated and he is absent from the trainees page; not sufficient for research-year claim.",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "18:ste:ihezie",
+  "name": "Stephanie Ihezie",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Latest sources are 2024 (WCAX, NH Mag) and 2025 NH200 list naming her a DHMC resident; not on current Dartmouth page (fetched). No destination.",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "22:kri:terrani",
+  "name": "Kristina Terrani",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Not on GW page (fetched). Directories show Kristina Terrani general surgeon Phoenix (stale hint); a snippet calls her Neurosurgery Resident at Univ Arizona-Tucson but that program's current page (fetched) does not list her. Unconfirmed.",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "25:gre:koller",
+  "name": "Gretchen Koller",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Only social-media/ZoomInfo snippets ('PGY-1 at MSU Neurosurgery'); no destination.",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "26:mic:ghali",
+  "name": "Michael Ghali",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Doximity 'Other MD/DO' Philadelphia / Hershey listings only; no dated source.",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ },
+ {
+  "key": "27:noa:nichols",
+  "name": "Noah Nichols",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Directory/ResearchGate/lab page still show Mount Sinai resident (stale); not on current Sinai page. Not in UCSF 2026 grads. No destination.",
+  "sources": [],
+  "queries_tried": [
+   "name + MD",
+   "name + resident",
+   "name + specialty/program variants",
+   "match list queries",
+   "program current-page fetches"
+  ]
+ }
+]

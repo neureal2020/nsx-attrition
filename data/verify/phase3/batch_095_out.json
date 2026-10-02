@@ -1,0 +1,1095 @@
+[
+ {
+  "key": "73:ala:body",
+  "name": "Alaina Body",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "UAMS current residents page lists Alaina Body PGY-6, University of Cincinnati College of Medicine; ResearchGate shows Cincinnati med school affiliation",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 on UAMS roster 2026-27; expected graduation 2027.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-6, UAMS",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "Alaina Body, M.D. PGY-6 University of Cincinnati College of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:kev:thomas",
+  "name": "Kevin Thomas",
+  "program_id": 73,
+  "identity": "ambiguous",
+  "identity_basis": "UAMS Rodriguez-lab page lists a Kevin Thomas as medical student researcher (summer 2018, glioblastoma project); a search snippet lists a Kevin Thomas as UAMS neurosurgery resident from Princeton IN / WashU. No source found linking him to UNC allergy/immunology.",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Not on the 2026-27 UAMS roster (PGY-1..7 all others listed, no Thomas), consistent with having left, but destination unverified. The DB note (UNC Peds Allergy/Immunology) could not be corroborated: Doximity/UNC searches only found unrelated Kevin Thomases (cardiology, neurology).",
+  "year_left": 2022,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": null,
+  "disagreement": "Cannot confirm the recorded 'switched specialty' call; destination unverified (namesake risk).",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/research/rodriguez-lab/the-team/",
+    "type": "program_page",
+    "evidence": "Kevin Thomas listed among medical student researchers, Nanoparticle Enhanced Laser Thermal Ablation for Glioblastoma"
+   },
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "current roster (PGY-1 to PGY-7) does not include Kevin Thomas"
+   }
+  ],
+  "searches_used": 6
+ },
+ {
+  "key": "73:kar:aljiboori",
+  "name": "Karrar Aljiboori",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "UAMS neurosurgery current-residents page lists Karrar Aljiboori as PGY-5 (Michigan State University College of Human Medicine)",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UAMS neurosurgery current residents page as PGY-5; still in training 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAMS, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "Karrar Aljiboori ... PGY-5 ... Michigan State University College of Human Medicine"
+   },
+   {
+    "url": "https://humanmedicine.msu.edu/news/archives/2022/2022-grad-karrar-aljiboori.html",
+    "type": "news",
+    "evidence": "began neurosurgery residency at UAMS in June 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:st:accilien",
+  "name": "Sténia Accilien",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "UAMS neurosurgery current-residents page lists Sténia Accilien as PGY-5 (Florida State University College of Medicine)",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UAMS neurosurgery current residents page as PGY-5; still in training 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAMS, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "Sténia Accilien ... PGY-5 ... Florida State University College of Medicine"
+   },
+   {
+    "url": "https://med.fsu.edu/spotlight/home/match-day-2022-marked-cheers-and-tears/fri-03182022-1845",
+    "type": "news",
+    "evidence": "matched with the University of Arkansas College of Medicine in Little Rock (neurosurgery)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:art:rezayev",
+  "name": "Arthur Rezayev",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "UAMS neurosurgery current-residents page lists Arthur Rezayev as PGY-4 (Louisiana State University Shreveport)",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UAMS neurosurgery current residents page as PGY-4; still in training 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAMS, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "Arthur Rezayev ... PGY-4 ... Louisiana State University Shreveport"
+   },
+   {
+    "url": "https://www.doximity.com/pub/arthur-rezayev-md",
+    "type": "doximity",
+    "evidence": "Arthur Rezayev MD, Other MD/DO, Little Rock AR; LSU Shreveport 2023 per search; public page shows only publications (UAMS Neurosurgery affiliation)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:men:bu",
+  "name": "Mengqian Bu",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "UAMS neurosurgery current-residents page lists Mengqian Bu as PGY-4 (University of Texas Medical Branch)",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UAMS neurosurgery current residents page as PGY-4; still in training 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAMS, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "Mengqian Bu ... PGY-4 ... University of Texas Medical Branch"
+   },
+   {
+    "url": "https://www.doximity.com/pub/mengqian-bu-md",
+    "type": "doximity",
+    "evidence": "UAMS College of Medicine Residency, Neurological Surgery, 2023 - 2030; UTMB Class of 2023"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:kie:shelvin",
+  "name": "Kierany Shelvin",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "UAMS neurosurgery current-residents page lists Kierany Shelvin as PGY-3 (LSU New Orleans)",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 on UAMS roster 2026-27. DB records first_seen 2025-26 at PGY-2 (entry 2024): roster PGY-3 in 2026-27 is consistent with 2024 entry; likely first listed a year late.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAMS, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "Kierany Shelvin ... PGY-3 ... LSU New Orleans"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kierany-shelvin-md",
+    "type": "doximity",
+    "evidence": "LSU School of Medicine in New Orleans Class of 2024 (public page lists Houston address; residency not shown)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:jor:mullins",
+  "name": "Jordyn Mullins",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "UAMS neurosurgery current-residents page lists Jordyn Mullins as PGY-2 (Burrell College of Osteopathic Medicine)",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UAMS neurosurgery current residents page as PGY-2; still in training 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAMS, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "Jordyn Mullins ... PGY-2 ... Burrell College of Osteopathic Medicine"
+   },
+   {
+    "url": "https://x.com/UAMSneurosurg/status/1903153918798073875",
+    "type": "search_snippet",
+    "evidence": "Congratulations and Happy Match Day to our two newest residents, Said Maldonado (Texas Tech) and Jordyn Mullins (Burrell/NM State)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jordyn-mullins-do",
+    "type": "doximity",
+    "evidence": "Jordyn Mullins DO, Little Rock AR, Burrell College Class of 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:sai:maldonado",
+  "name": "Said Maldonado",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "UAMS neurosurgery current-residents page lists Said Maldonado as PGY-2 (Tilman J. Fertitta Family College of Medicine, University of Houston)",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UAMS neurosurgery current residents page as PGY-2; still in training 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAMS, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "Said Maldonado ... PGY-2 ... Tilman J. Fertitta Family College of Medicine, University of Houston"
+   },
+   {
+    "url": "https://www.doximity.com/pub/said-maldonado-md",
+    "type": "doximity",
+    "evidence": "UAMS College of Medicine Residency, Neurological Surgery, 2025 - 2032"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:and:mathews",
+  "name": "Andrew Mathews",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "UAMS neurosurgery current-residents page lists Andrew Mathews as PGY-1 (UAMS College of Medicine)",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UAMS neurosurgery current residents page as PGY-1; still in training 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAMS, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "Andrew Mathews ... PGY-1 ... UAMS College of Medicine"
+   },
+   {
+    "url": "https://medicine.uams.edu/blog/accolades-april-24-2024/",
+    "type": "news",
+    "evidence": "Andrew Mathews second-year UAMS College of Medicine student, NREF summer fellowship (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "73:sam:bauserman",
+  "name": "Samuel Bauserman",
+  "program_id": 73,
+  "identity": "confirmed",
+  "identity_basis": "UAMS neurosurgery current-residents page lists Samuel Bauserman as PGY-1 (USF Health Morsani College of Medicine)",
+  "residency_stated": [
+   {
+    "institution": "UAMS",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on UAMS neurosurgery current residents page as PGY-1; still in training 2026-27.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UAMS, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "Samuel Bauserman ... PGY-1 ... USF Health Morsani College of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:sea:kaloostian",
+  "name": "Sean Kaloostian",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Sean Kaloostian in Class of 2018; Doximity UCI residency 2011-2018, UCLA MD 2010",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as UCI neurosurgery alumnus, Class of 2018.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Kaiser Permanente / Riverside Community Hospital, Anaheim CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Sean Kaloostian, MD ... Class of 2018"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sean-kaloostian-md",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:mic:paff",
+  "name": "Michelle Paff",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Michelle Paff in Class of 2019; Doximity UCI 2012-2019, Drexel MD 2012",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as UCI neurosurgery alumnus, Class of 2019.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "functional neurosurgeon, UCI Health, Orange CA (Chief of Neurosurgery, Long Beach VA)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Michelle Paff, MD ... Class of 2019"
+   },
+   {
+    "url": "https://www.doximity.com/pub/michelle-paff-md",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2012 - 2019; University of Toronto Fellowship 2019-2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.ucihealth.org/clinicians/michelle-paff-1124443544",
+    "type": "bio",
+    "evidence": "completed her neurosurgery residency and epilepsy surgery fellowship at UCI Medical Center"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:geo:hanna",
+  "name": "George Hanna",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists George Hanna in Class of 2020; Doximity UCI residency 2017-2020 and Cedars-Sinai fellowship; Saint Louis University MD per Healthgrades snippet",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2017
+   },
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed neurosurgery at UCI (class of 2020) but Doximity shows he started at Loma Linda 2013-2017 and joined UCI in 2017 (part of the 2017 Loma Linda exodus). Outcome at UCI = completed via transfer-in at PGY-5.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon / assistant professor, Cedars-Sinai, West Hollywood CA",
+  "agrees_with_db": true,
+  "disagreement": "Outcome (completed) agrees, but DB entry_year 2013 at UCI appears wrong: he transferred in 2017 from Loma Linda (Doximity); UCI stint is 2017-2020.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "George Hanna, MD ... Class of 2020"
+   },
+   {
+    "url": "https://www.doximity.com/pub/george-hanna-md-9033377b",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2017 - 2020; Loma Linda University Health Education Consortium Residency, Neurological Surgery, 2013 - 2017; Cedars-Sinai spine fellowship; ABNS"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:joh:roufail",
+  "name": "John Roufail",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists John Roufail in Class of 2020; Doximity UCI residency 2013-2020",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as UCI neurosurgery alumnus, Class of 2020.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Denison TX (Texoma)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "John Roufail, MD ... Class of 2020"
+   },
+   {
+    "url": "https://www.doximity.com/pub/john-roufail-md",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://blog.ccmhhealth.com/memorial-medical-group-welcomes-john-roufail-md/",
+    "type": "bio",
+    "evidence": "Memorial Medical Group welcomes John Roufail, MD (neurosurgeon)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:die:tran",
+  "name": "Diem Kieu Tran",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Diem Kieu Tran in Class of 2021; Doximity UCI 2014-2021, Univ. of Utah MD 2014; distinctive full name",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as UCI neurosurgery alumnus, Class of 2021.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Kansas City MO (previously Loma Linda University)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Diem Kieu Tran, MD ... Class of 2021"
+   },
+   {
+    "url": "https://www.doximity.com/pub/diem-kieu-tran-md",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2014 - 2021; Pediatric Neurosurgery fellowship UW/Seattle Children's 2021-2022; ABNS and ABPNS"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Diem-Kieu-Tran-2",
+    "type": "search_snippet",
+    "evidence": "Diem Kieu TRAN, University of California, Irvine, Department of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:nat:oh",
+  "name": "Nathan Oh",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Nathan Oh in Class of 2021; Doximity UCI 2017-2021 and Loma Linda 2014-2017, ATSU-SOMA DO 2014; matches phase2 note",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2017
+   },
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed at UCI (chief 2020-21) after transferring in 2017 from Loma Linda (2014-2017).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Ventura County Medical Center / Anacapa Surgical Associates, Ventura CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Nathan Oh, MD ... Class of 2021"
+   },
+   {
+    "url": "https://www.doximity.com/pub/nathan-oh-do",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2017 - 2021; Loma Linda University Health Education Consortium Residency, Neurological Surgery, 2014 - 2017"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:ben:ball",
+  "name": "Benjamin Ball",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Benjamin Ball in Class of 2022; INI bio names UCI residency, UVA MD 2015",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as UCI neurosurgery alumnus, Class of 2022.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Inland Neurosurgery Institute, Pomona CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Benjamin Ball, MD ... Class of 2022"
+   },
+   {
+    "url": "https://www.inisurgeons.com/blog/ini-welcomes-dr-benjamin-ball",
+    "type": "bio",
+    "evidence": "completed his neurosurgical residency at the University of California, Irvine ... enfolded skull-base surgery fellowship"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:jos:falcone",
+  "name": "Joseph Falcone",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Joseph Falcone in Class of 2023; CHKD bio names UCI 7-year residency, graduated 6/30/2023",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as UCI neurosurgery alumnus, Class of 2023.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, CHKD, Norfolk VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Joseph Falcone, MD ... Class of 2023"
+   },
+   {
+    "url": "https://www.chkd.org/find-a-provider/joseph-falcone-md/",
+    "type": "bio",
+    "evidence": "seven-year residency training program in neurological surgery at University of California, Irvine ... UCSF fellowship pediatric neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:jor:xu",
+  "name": "Jordan Xu",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Jordan Xu in Class of 2024; Doximity UCI 2017-2024; endovascular fellowships Baylor 2024-25, Boston Children's 2025-26",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as UCI neurosurgery alumnus, Class of 2024.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgery fellow, Children's Hospital Los Angeles (2026-27)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Jordan Xu, MD ... Class of 2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jordan-xu-md",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2017 - 2024; Case Western MD 2017; CHLA pediatric neurosurgery 2026-2027"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:alv:chan",
+  "name": "Alvin Chan",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Alvin Chan in Class of 2025; Doximity UCI 2018-2025, MCW MD 2018",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as UCI neurosurgery alumnus, Class of 2025.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Orthopaedic Specialty Institute / Providence, Orange County CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Alvin Chan, MD ... Class of 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alvin-chan-md-1090f831",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2018 - 2025; Medical College of Wisconsin Class of 2018"
+   },
+   {
+    "url": "https://www.providence.org/doctors/neurosurgery/ca/orange/alvin-chan-1356833271",
+    "type": "bio",
+    "evidence": "neurosurgical residency at UC Irvine ... chief resident ... fellowship skull base & cerebrovascular"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:jor:davies",
+  "name": "Jordan Davies",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Jordan Davies in Class of 2025; Doximity UCI residency, USF MD 2018",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2019
+   },
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed at UCI (class 2025). Search-snippet evidence of prior first year at University of New Mexico (2018-19), consistent with phase2 transfer note; Doximity shows UCI 2018-2025 only.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Travis AFB CA (David Grant USAF Medical Center per Doximity address)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Jordan Davies, MD ... Class of 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jordan-davies-md",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2018 - 2025; USF Class of 2018; NM State Medical License 2018-2020"
+   },
+   {
+    "url": "https://medschool.uci.edu/about/staff/jordan-davies",
+    "type": "bio",
+    "evidence": "UCI staff profile (search result); search snippet: completed residencies at UCI and University of New Mexico"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:ang:zhang",
+  "name": "Angie Zhang",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Angie Zhang in Class of 2026; Doximity UCI 2019-2026, USF MD 2019; UCI fellowship page snippet: 2026-2027 Skull Base fellow",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as UCI neurosurgery alumnus, Class of 2026.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "skull base neurosurgery fellow, UCI (2026-27)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Angie Zhang, MD ... Class of 2026"
+   },
+   {
+    "url": "https://www.doximity.com/pub/angie-zhang-md",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2019 - 2026; University of South Florida Class of 2019"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:jes:campos",
+  "name": "Jessica Campos",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Jessica Campos in Class of 2026; Doximity UCI 2019-2026, Loyola MD 2017; distinctive full name Jessica Kristie Campos",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Listed as UCI neurosurgery alumnus, Class of 2026.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "endovascular neurosurgery fellow, USC (2026-27 per LinkedIn/search snippet)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Jessica Campos, MD ... Class of 2026"
+   },
+   {
+    "url": "https://www.doximity.com/cv/drjessicacampos",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2019 - 2026; Loyola Stritch Class of 2017"
+   },
+   {
+    "url": "https://medschool.uci.edu/news/uci-school-medicine-recognizes-womens-history-month-jessica-campos-md",
+    "type": "news",
+    "evidence": "UCI chief neurosurgery resident (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "74:ale:lopez",
+  "name": "Alexander Lopez",
+  "program_id": 74,
+  "identity": "confirmed",
+  "identity_basis": "UCI residents/alumni page lists Alexander Lopez in Class of 2027; Doximity UCI 2020-2027, Meharry MD 2020",
+  "residency_stated": [
+   {
+    "institution": "UC Irvine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current PGY-7 at UCI, expected class of 2027. (UCI page lists PGY labels reversed but class years match entry 2020.)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, UCI (graduating 2027)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medschool.uci.edu/research/clinical-departments/neurological-surgery/education-training/residency-program/residents-alumni",
+    "type": "program_page",
+    "evidence": "Alexander Lopez, MD ... Class of 2027"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alexander-lopez-md-96685c61",
+    "type": "doximity",
+    "evidence": "University of California (Irvine) Residency, Neurological Surgery, 2020 - 2027; Meharry Medical College Class of 2020"
+   }
+  ],
+  "searches_used": 2
+ }
+]

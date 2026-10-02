@@ -1,0 +1,143 @@
+{
+ "program_id": 68,
+ "name": "UMass Chan Medical School Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2019,
+ "hosts": [
+  {
+   "url": "www.umassmed.edu/Surgery/Neurosurgery_*.aspx (division of Dept of Surgery; faculty/contact pages only, no residency)",
+   "from": "2010-05",
+   "to": "2010-11"
+  },
+  {
+   "url": "www.umassmed.edu/surgery/divisions-and-programs/neurosurgery_aboutus/ (division pages; 301 by 2015-09)",
+   "from": "~2014",
+   "to": "2015-09"
+  },
+  {
+   "url": "www.umassmed.edu/neurosurgery/ (department site; department status conferred 2012)",
+   "from": "2015-10",
+   "to": "live (Cloudflare 403 on 2026-09-27)"
+  },
+  {
+   "url": "www.umassmed.edu/neurosurgery/residency (residency page; residents listed/announced 2019-10 to 2021-10; 301 by 2024-07)",
+   "from": "2019-01",
+   "to": "2021-10"
+  },
+  {
+   "url": "www.umassmed.edu/neurosurgery/neurosurgery-residency/who-we-are/our-residents/",
+   "from": "2024-04",
+   "to": "2025-02 (last capture)"
+  },
+  {
+   "url": "www.umassmed.edu/neurosurgery/neurosurgery-residency/who-we-are/aans-student-chapter/ (lists all residents as advisors)",
+   "from": "2022-12",
+   "to": "2025-06"
+  },
+  {
+   "url": "www.umassmed.edu/neurosurgery/neurosurgery-residency/who-we-are/about-the-residency/ (no names)",
+   "from": "2021-11",
+   "to": "2026-01"
+  }
+ ],
+ "observed_years": [
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025"
+ ],
+ "reconstructed_years": [
+  "2025-2026"
+ ],
+ "missing_years": [
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012..2018-2019": "Not applicable: program's first resident (Rrita Daci) started July 2019 ('Welcomes First Resident', residency page Oct 2019); Jan-Jul 2019 captures show the residency page with no residents. Neurosurgery was a division of Surgery until 2012.",
+  "2019-2020": "Wayback 2019-10-16 residency page; only resident Daci (PGY-1). Complete.",
+  "2020-2021": "WEAK: no Wayback capture of any roster page between 2019-12 and 2021-10 (exact + prefix audit of umassmed.edu/neurosurgery/ 2020-2026). Used Common Crawl CC-MAIN-2020-29 (2020-07-12) residency page: Daci (first resident, no PGY) + announcement that Brittany Owusu-Adjei 'will join us in July 2020'. PGYs inferred; consistent with Oct 2021 (PGY-3/PGY-2). Complete for 2 classes.",
+  "2021-2022": "Wayback 2021-10-18 residency page 'Our Residents': Daci PGY-3, Owusu-Adjei PGY-2, Mietus PGY-1. Complete.",
+  "2022-2023": "No roster page capture (residency moved to /neurosurgery-residency/ subsite 2021-11; our-residents first captured 2024-04). Used AANS student chapter page Wayback 2022-12-21, which lists all four residents with PGYs (Daci 4, Owusu-Adjei 3, Mietus 2, Lambert 1). Complete.",
+  "2023-2024": "Only captures Apr 2024 (our-residents 2024-04-17, AANS page 2024-04-13); both show 5 residents incl. PGY-1 Qureshi. No Aug-Jan capture, but content consistent. Complete.",
+  "2024-2025": "Wayback 2024-10-14 our-residents; same content Sep 2024-Feb 2025 and AANS page Jan/Jun 2025. Complete (6).",
+  "2025-2026": "PARTIAL + RECONSTRUCTED. Dept 'Recent Publications' news page (Wayback 2025-09-10, same text 2025-12-10 and 2026-03-09) prints 'Rrita Daci, MD, PGY-7, and Brittany Owusu-Adjei, MD, PGY-6' (loaded as source_type other). Mietus (PGY-5), Lambert (PGY-4), Qureshi (PGY-3) reconstructed from UMass neurosurgery-affiliated PubMed papers entered Oct 2025-Sep 2026 (PMIDs 41082793, 41569775, 41698198, 42427671; 41632729; 42372311, 42704915). Chelsea Jeewoo Lim (PGY-2 expected): last UMass paper June 2025 (PMID 40487584), NPPES 1801646757 unchanged since 2024 (Worcester, student taxonomy) - not confirmed, not reconstructed. 2025 intern: not identified. Tried: Wayback/CC for our-residents and AANS pages (none after Jun 2025), UMass match-day 2025 article (no names by program), PubMed affiliation mining 2024-2026 (new UMass-neurosurgery authors Paul, Hou, Berry, Marasco, Van Renterghem, Karandikar etc. are students/lab staff: no NPI or NPI elsewhere), NPPES Worcester student-taxonomy list (1480 NPIs) cross-matched against all UMass-neurosurgery PubMed authors 2019-2026: no new resident found.",
+  "2026-2027": "SIGNIFICANT. No roster capture; live site Cloudflare 403 (not bypassed). Match Day 2026 article has no program-level names. Indirect: Daci graduated June 2026 (NPPES 2026-06-05 now at 300 Longwood Ave, Boston Children's - fellowship); Qureshi still UMass-affiliated Sep 2026 (PMID 42704915); Mietus Jul 2026 (PMID 42427671). Owusu-Adjei, Lambert, Lim, the 2025 and 2026 interns unobserved."
+ },
+ "alumni_page": null,
+ "departures": [],
+ "joiners": [],
+ "residents_2011plus": 6,
+ "adjudication_summary": {
+  "in_training": 6,
+  "completed": 0,
+  "left": 0,
+  "note": "Daci: training_history row completed=yes end_year 2026 (PGY-7 in 2025-26 + NPPES move to Boston Children's June 2026). Adjudicator labels Chelsea Jeewoo Lim 'LEFT -> SWITCHED SPECIALTY' from an NPI name match - this is WRONG (NPPES 'Chelsea Lim' hits are an OT in TX and a peer specialist in OK; her own NPI 1801646757 is Worcester student taxonomy). Treat Lim as in training / unobserved after 2024-25."
+ },
+ "problems": "Live site Cloudflare 403 (not bypassed). Adjudicator's NPI 'switched specialty' call for Chelsea Jeewoo Lim is a false name match. Live site behind Cloudflare challenge (403) - 2026-27 roster unobtainable without a browser; 2025-26 and 2026-27 unobserved. 2020-21 from a July 2020 Common Crawl announcement page (PGYs inferred). Name variant: 'Brittany Owusu-Adjei Thomson' (Apr 2020) canonicalised to Brittany Owusu-Adjei; 'Jeewoo \"Chelsea\" Lim' / 'Chelsea Lim' -> Chelsea Jeewoo Lim. Common Crawl: all 72 crawls 2019-2026 completed without failure.",
+ "year_status": {
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "only resident listed"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "July 2020 CC page lists Daci and announces incoming Owusu-Adjei; both seen 2021"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "AANS page lists all 4 with PGYs"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Apr 2024 roster, consistent both sides"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster (6)"
+  },
+  "2025-2026": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "PGY-4..7 confirmed (page + papers), but Lim (PGY-2) unconfirmed and 2025 intern unknown"
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "no roster; live page behind Cloudflare; 2025/2026 interns and Lim unknown"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Wayback prefix www.umassmed.edu/neurosurgery/ 2025-2026 (gapaudit) incl. news/recent-publications, newsletter, dept home",
+   "Wayback umassmed.edu/news/ 2025-2026 (news-archives, articles) incl. Match Day 2025 and 2026, commencement",
+   "Common Crawl 72 crawls through CC-MAIN-2026-39 (phase 1; no newer crawls)",
+   "PubMed affiliation mining 2019-2026 + per-resident PubMed 2025-2026",
+   "NPPES per-name lookups; NPPES Worcester-area student-taxonomy list (1480) x PubMed author cross-match"
+  ],
+  "found": [
+   "Recent Publications page (Sep 2025-Mar 2026): Daci PGY-7, Owusu-Adjei PGY-6",
+   "Dept home (Apr 2025-Feb 2026): 'Rrita Daci, MD (PGY6)' caption (stale, 2024-25)",
+   "PubMed: Mietus, Lambert, Qureshi, Owusu-Adjei UMass-affiliated through 2026",
+   "NPPES: Daci at Boston Children's from 2026-06-05 (graduated)"
+  ],
+  "remaining": [
+   "2025 intern (PGY-1 2025-26) unidentified",
+   "2026 intern unidentified",
+   "Lim 2025-26 onward unconfirmed",
+   "2026-27 roster: needs manual browser check of umassmed.edu/neurosurgery/neurosurgery-residency/who-we-are/our-residents/"
+  ]
+ }
+}

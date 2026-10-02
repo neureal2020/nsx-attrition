@@ -1,0 +1,773 @@
+[
+ {
+  "program_id": 24,
+  "program": "Henry Ford Health/Henry Ford Hospital",
+  "red_years": [
+   {
+    "year": "2011-2012",
+    "gap_len": 6,
+    "nrmp_matched": 2,
+    "entrants_held": 2,
+    "reason": "missing; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2012-2013",
+    "gap_len": 6,
+    "nrmp_matched": 2,
+    "entrants_held": 2,
+    "reason": "missing; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2013-2014",
+    "gap_len": 6,
+    "nrmp_matched": 2,
+    "entrants_held": 2,
+    "reason": "missing; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2014-2015",
+    "gap_len": 6,
+    "nrmp_matched": 2,
+    "entrants_held": 2,
+    "reason": "missing; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2015-2016",
+    "gap_len": 6,
+    "nrmp_matched": 2,
+    "entrants_held": 2,
+    "reason": "missing; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2016-2017",
+    "gap_len": 6,
+    "nrmp_matched": 2,
+    "entrants_held": 2,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "24:hes:zakaria",
+    "name": "Hesham Zakaria",
+    "entry_year": 2013,
+    "first_seen": "2016-2017",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "24:jes:john",
+    "name": "Jessin John",
+    "entry_year": 2014,
+    "first_seen": "2017-2018",
+    "last_seen": "2018-2019",
+    "outcome": "switched_specialty"
+   },
+   {
+    "key": "24:kar:asmaro",
+    "name": "Karam Asmaro",
+    "entry_year": 2014,
+    "first_seen": "2016-2017",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "24:lar:massie",
+    "name": "Lara Massie",
+    "entry_year": 2011,
+    "first_seen": "2016-2017",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "24:lyn:mubita",
+    "name": "Lynn Mubita",
+    "entry_year": 2011,
+    "first_seen": "2016-2017",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "24:moh:macki",
+    "name": "Mohamed Macki",
+    "entry_year": 2015,
+    "first_seen": "2016-2017",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "24:ric:rammo",
+    "name": "Richard Rammo",
+    "entry_year": 2012,
+    "first_seen": "2016-2017",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "24:riz:tahir",
+    "name": "Rizwan Tahir",
+    "entry_year": 2013,
+    "first_seen": "2016-2017",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "24:sam:haider",
+    "name": "Sameah Haider",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "outcome": "completed"
+   },
+   {
+    "key": "24:seo:lim",
+    "name": "Seokchun Lim",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "outcome": "completed"
+   },
+   {
+    "key": "24:tho:noh",
+    "name": "Thomas Noh",
+    "entry_year": 2012,
+    "first_seen": "2016-2017",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "24:tho:zervos",
+    "name": "Thomas Zervos",
+    "entry_year": 2015,
+    "first_seen": "2016-2017",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "http://www.henryford.com/body_program.cfm?id=52196 (program page; alias /neurosurgeryresidency); residents page body_program.cfm?id=52416 never archived",
+    "from": "2010-12",
+    "to": "2015-12 (last capture)"
+   },
+   {
+    "url": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery (/residents, /past-residents, /resident-testimonials)",
+    "from": "2017-02 (Common Crawl; residents page first crawled 2017-07; Wayback from 2019-07)",
+    "to": "live 2026-09-27"
+   }
+  ],
+  "alumni_page": "https://www.henryford.com/hcp/med-ed/residencies-fellowships/hfh/neuro-surgery/past-residents",
+  "prior_search_notes": "{'2011-2012': \"MISSING. The old ColdFusion residents page body_program.cfm?id=52416 was never captured (Wayback, any variant; Common Crawl only 301s from 2017-07). Phase 2: all 9 archived versions of the program page id=52196 (2010-12..2015-12) re-read and every linked subpage checked in CDX: Curriculum 52195, Typical Day 52193, Academic Schedule 52194, Neurosurgery Research 59431, Synapse Past Editions 60776, Contact 52188 have NO captures; Information for Applicants 37252 and the fellowship pages carry no resident names. gapaudit 2011-2016 over henryford.com/body_program.cfm, /neurosurgery*, /hfh/neuro, /documents (incl. HFH GME PDFs) and henryfordhospital.com: no roster, handbook or newsletter with resident names. Evidence instead: complement 2/yr ('program trains two residents/year', 2013-15 captures); every entry class 2011-2016 has 2 residents on the 2017-18 roster; PubMed + OpenAlex HFH-neurosurgery author mining 2010-2017 found one unrostered probable resident, Melvin Omodon (HFH neurosurgery affiliation 2012-2014, NPI 2011-06 with Neurological Surgery taxonomy, radiology from 2016) = probable 2011 entrant who left, so the classes were NOT closed and at least one departure happened unseen. Other HFH-neurosurgery authors of this era with NPIs from 2007-2008 (Bhangoo, Phillips, Mazaris, Alsaidi, Reinard) are probable pre-2011 entrants who graduated 2012-2015 (not on the alumni page, which starts at 2016); they do not affect 2011+ entrant counts.\", '2012-2013': \"MISSING."
+ },
+ {
+  "program_id": 15,
+  "program": "Cooper Medical School of Rowan University/Cooper University ",
+  "red_years": [
+   {
+    "year": "2011-2012",
+    "gap_len": 3,
+    "nrmp_matched": null,
+    "entrants_held": null,
+    "reason": "missing; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2012-2013",
+    "gap_len": 3,
+    "nrmp_matched": null,
+    "entrants_held": null,
+    "reason": "missing; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2013-2014",
+    "gap_len": 3,
+    "nrmp_matched": null,
+    "entrants_held": null,
+    "reason": "missing; gap judged significant (a continuing resident could have left unseen)"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "15:hir:patel",
+    "name": "Hiren Patel",
+    "entry_year": 2011,
+    "first_seen": "2014-2015",
+    "last_seen": "2014-2015",
+    "outcome": "completed"
+   },
+   {
+    "key": "15:jil:ploof",
+    "name": "Jillian Ploof",
+    "entry_year": 2013,
+    "first_seen": "2014-2015",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "15:mar:ishak",
+    "name": "Mark Ishak",
+    "entry_year": 2013,
+    "first_seen": "2014-2015",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "15:rob:lynagh",
+    "name": "Robert Lynagh",
+    "entry_year": 2012,
+    "first_seen": "2014-2015",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "15:sea:xin",
+    "name": "Sean Xin",
+    "entry_year": 2011,
+    "first_seen": "2014-2015",
+    "last_seen": "2014-2015",
+    "outcome": "completed"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "http://www.pcom.edu/Graduate_Medical_Education/Residency_Programs/Res-Neurosurgery/res-neurosurgery.html",
+    "from": "2015-02",
+    "to": "2015-08",
+    "note": "PCOM program page, no roster"
+   },
+   {
+    "url": "http://www.pcom.edu/Graduate_Medical_Education/Residency_Programs/neuro/ (WordPress subsite; current-residents/)",
+    "from": "2015-04",
+    "to": "2015-08",
+    "note": "only roster capture 2015-04-17; alumni PDF (wp-content/uploads/2014/12/Alumni_Data.pdf) never archived, 404 live"
+   },
+   {
+    "url": "https://www.pcom.edu/academics/graduate-medical-education/residency-and-fellowship-programs/neurosurgery.html",
+    "from": "2016-02",
+    "to": "2022-05",
+    "note": "program page, no roster"
+   },
+   {
+    "url": "https://www.pcom.edu/academics/graduate-medical-education/residency-and-fellowship-programs/neurosurgery-residents.html",
+    "from": "2019-08",
+    "to": "2022-05",
+    "note": "roster; now 404"
+   },
+   {
+    "url": "https://www.cooperhealth.edu/residencies/neuro-surgery/residents (also www2./bare host)",
+    "from": "2022-08",
+    "to": "2025-10",
+    "note": "roster with graduation year; stale after Oct 2024"
+   },
+   {
+    "url": "https://www.cooperhealth.edu/residencies/neuro-surgery/alumni",
+    "from": "2022-12",
+    "to": "2025-11"
+   },
+   {
+    "url": "https://www.cooperhealth.edu/graduate-medical-education/residencies/neurosurgery/trainees",
+    "from": "2026-02",
+    "to": "live",
+    "note": "new GME site, PGY headings"
+   }
+  ],
+  "alumni_page": "https://www.cooperhealth.edu/residencies/neuro-surgery/alumni (archived; new-site /graduate-medical-education/residencies/neurosurgery/alumni is empty/JS)",
+  "prior_search_notes": "{'2011-2012': \"No PCOM neurosurgery roster in Wayback or Common Crawl (old site had only a program page, first captured 2015; link audit of GME index pages 2010-2019 found no roster). PubMed affiliation mining found PCOM neurosurgery residents not on any roster: Leslie Lyness ('Neurosurgical Residency Program, PCOM', 2011, PMID 21707239), Douglas Stofko (PCOM Dept of Neurosurgery 2013, PMID 24231690; Capital Health Aug 2013), Mark Rivkin (PCOM/Cooper neurosurgery 2013-14; named program alumnus in PCOM news Jan 2017). PCOM news Jan 2017 also names alumnus Bryan Bolinger DO '07. All are pre-2011 entrants who finished by 2014; their exact years are unknown, so they are not added to the roster.\", '2012-2013': 'Same as 2011-12. Only one 2012 entrant (Lynagh) is known.', '2013-2014': \"Same as 2011-12. Rivkin's last PCOM/Cooper affiliations are 2013-14 (probable June 2014 graduate).\", '2014-2015': 'Observed but INCOMPLETE: PCOM WordPress current-residents page (2015-04-17, spring, only capture) lists PGY2-PGY6 only; interns (PGY1, e.g. the 2014 entrants Georges/Brooking/Kakareka) not listed.', '2015-2016': 'No roster capture in Wayback or Common Crawl (WordPress subsite captured only 2015-04/08; CC has only the roster-less Res-Neurosurgery page). Reconstructed: Ploof, Ishak, Lynagh (bracketed 2014-15/2017-18) + alumni-confirmed 2014/2015 entrants. Xin, Patel (PGY-4 in 2014-15) and Svokos, Okun (PGY-5) not seen again - probably finished at AOA PGY-6 in 2016/2017, unverified.', '2016-"
+ },
+ {
+  "program_id": 112,
+  "program": "University of Vermont Medical Center",
+  "red_years": [
+   {
+    "year": "2016-2017",
+    "gap_len": 4,
+    "nrmp_matched": 1,
+    "entrants_held": 1,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2017-2018",
+    "gap_len": 4,
+    "nrmp_matched": 1,
+    "entrants_held": 1,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2018-2019",
+    "gap_len": 4,
+    "nrmp_matched": 1,
+    "entrants_held": 1,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "112:ada:olszewski",
+    "name": "Adam Olszewski",
+    "entry_year": 2015,
+    "first_seen": "2018-2019",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "112:ada:strand",
+    "name": "Adam Strand",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2016-2017",
+    "outcome": "switched_specialty"
+   },
+   {
+    "key": "112:eri:akture",
+    "name": "Erinc Akture",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "112:jam:weinberg",
+    "name": "James Weinberg",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2015-2016",
+    "outcome": "switched_specialty"
+   },
+   {
+    "key": "112:joh:muse",
+    "name": "John Muse",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "outcome": "completed"
+   },
+   {
+    "key": "112:kat:ducis",
+    "name": "Katrina Ducis",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "112:luk:silveira",
+    "name": "Luke Silveira",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "outcome": "completed"
+   },
+   {
+    "key": "112:nat:limoges",
+    "name": "Natalie Limoges",
+    "entry_year": 2015,
+    "first_seen": "2019-2020",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "112:raj:thakrar",
+    "name": "Raj Thakrar",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "outcome": "completed"
+   },
+   {
+    "key": "112:xun:li",
+    "name": "Xun Li",
+    "entry_year": 2013,
+    "first_seen": "2014-2015",
+    "last_seen": "2015-2016",
+    "outcome": "transferred"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "http://www.fletcherallen.org/GME/Surgery/Neurosurgery/index.html (old Fletcher Allen GME site)",
+    "from": "2004-11",
+    "to": "2009-03 (pre-window)"
+   },
+   {
+    "url": "http://gme.fletcherallen.org/programs/neurological_surgery_residency/programs_offered/neurological_surgery_residency/residents/",
+    "from": "2012-02",
+    "to": "2015-05 (301 to gme.uvmhealth.org from 2015-07)"
+   },
+   {
+    "url": "http://gme.uvmhealth.org/programs/neurological_surgery_residency/programs_offered/neurological_surgery_residency/residents/",
+    "from": "2015-12",
+    "to": "2016-03 (301 to uvmhealth.org/gme/Pages/Residencies/neurosurgery.aspx from 2016-04)"
+   },
+   {
+    "url": "https://www.uvmhealth.org/gme/Pages/Residencies/neurosurgery.aspx (+ /neurosurgery/neurosurgery-residents.aspx)",
+    "from": "2016-04",
+    "to": "2020-08 (residents subpage first captured 2020-08-14; Wayback and Common Crawl have only the landing page 2016-2019)"
+   },
+   {
+    "url": "https://www.uvmhealth.org/gme/residencies/neurosurgery/neurosurgery-residents",
+    "from": "2020-09",
+    "to": "2026-04"
+   },
+   {
+    "url": "https://www.uvmhealth.org/gme-uvm-medical-center/residencies/neurosurgery/our-residents (+ /recent-graduates)",
+    "from": "live",
+    "to": "2026-09-27"
+   },
+   {
+    "url": "UVM College of Medicine division pages (uvm.edu/medicine/surgery/?Page=neurosurgery.html 2013-2015; med.uvm.edu/surgery/neurosurgery 2016-2017; uvm.edu/larnermed/surgery/division-neurosurgery live): faculty only, no roster; uvm.edu/medicine/surgery/documents/NeurosurgeryGraduates2.pdf (2015 alumni PDF)",
+    "from": "2013-06",
+    "to": "live"
+   }
+  ],
+  "alumni_page": "https://www.uvmhealth.org/gme-uvm-medical-center/residencies/neurosurgery/recent-graduates",
+  "prior_search_notes": "{'2011-2012': 'Observed: only capture of the gme.fletcherallen.org residents page in the year is Feb 2012 (Ducis = PGY1 2011 entrant, so content-current). 7 residents, one per PGY.', '2012-2013': 'No capture of the residents page between 2012-03 and 2014-10 (Wayback exact + prefix on gme.fletcherallen.org; program landing page captures 2012-08..2013-06 carry no names; fletcherallen.org neurological_care residency page and UVM surgery division page carry no residents; UVM Surgery Annual Report 2012 PDF lists the 2011-12 residents only; Common Crawl 2012-2015-14 has only the landing page, CC-MAIN-2012 not queryable). Reconstructed 7: Gibbons 7, Murray 6, Stockwell 5, Tsen 4, Lin 3, Ducis 2, Akture 1 (Akture alumni-confirmed 2019). Complete for a 1/yr program unless an unseen person left. PHASE 2: CC-MAIN-2012 (old index format) still not queryable with cclocal.', '2013-2014': 'Same as 2012-13 (no capture). Reconstructed 6: Murray 7, Stockwell 6, Tsen 5, Lin 4, Ducis 3, Akture 2. PGY-1 slot is almost certainly Xun Li (PGY2 in 2014-15) but he is not bracketed nor an alumnus, so not reconstructed.', '2014-2015': 'Observed Oct 2014 (unchanged to May 2015). 7.', '2015-2016': 'Observed Dec 2015 on gme.uvmhealth.org (same to Mar 2016). 7, new intern James Weinberg.', '2016-2017': \"SIGNIFICANT. From 2016-04 the program moved to uvmhealth.org/gme/Pages/Residencies/neurosurgery.aspx; its 'Our Residents' subpage (neurosurgery-residents.aspx) has no Wayback capture before 2020-08-14 and no"
+ },
+ {
+  "program_id": 50,
+  "program": "NYU Grossman School of Medicine",
+  "red_years": [
+   {
+    "year": "2012-2013",
+    "gap_len": 2,
+    "nrmp_matched": 2,
+    "entrants_held": 1,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "50:and:brunswick",
+    "name": "Andrew Brunswick",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "50:car:benjamin",
+    "name": "Carolina Benjamin",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "50:nik:sahasrabudhe",
+    "name": "Nikhil Sahasrabudhe",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "http://www.med.nyu.edu/neurosurgery/education/current_residents.html (+ /education/trainees/list.html)",
+    "from": "2007",
+    "to": "2012-05",
+    "note": "old static site; resident list frozen at a ~2007-09 list (Anderer..Pacione), stale throughout; trainees/list.html is an academic-alumni list"
+   },
+   {
+    "url": "http://neurosurgery.med.nyu.edu/education-training/meet-our-residents",
+    "from": "2012-12 (site launch; page first archived 2014-01)",
+    "to": "2015-02",
+    "note": "Drupal subdomain; flat name list"
+   },
+   {
+    "url": "http(s)://www.med.nyu.edu/neurosurgery/education-training/meet-our-residents",
+    "from": "2015-03",
+    "to": "2020-10",
+    "note": "same page moved under med.nyu.edu/neurosurgery; https + no-www from 2017 (Wayback gap 2017-01..2019-07, filled by Common Crawl); not updated after 2018-19 until 2020"
+   },
+   {
+    "url": "https://med.nyu.edu/neurosurgery/research/residents-research",
+    "from": "2014-07",
+    "to": "2019-12",
+    "note": "'Residents in Research' list, mirrors meet-our-residents"
+   },
+   {
+    "url": "https://med.nyu.edu/departments-institutes/neurosurgery/education/residency/current-residents-alumni",
+    "from": "2021-09",
+    "to": "2024-10",
+    "note": "new CMS, residents + notable alumni; no PGY labels"
+   },
+   {
+    "url": "https://med.nyu.edu/departments-institutes/neurosurgery/education/residency/neurosurgery-residents-alumni",
+    "from": "2025-01",
+    "to": "live 2026-09-27",
+    "note": "PGY-labelled; alumni by graduation year"
+   }
+  ],
+  "alumni_page": "https://med.nyu.edu/departments-institutes/neurosurgery/education/residency/neurosurgery-residents-alumni",
+  "prior_search_notes": "{'2011-2012': \"No roster anywhere. Old-site current_residents.html (Wayback 2011-07, CC 2012-05) is a stale ~2007-09 list; Drupal subdomain neurosurgery.med.nyu.edu launched 2012-12 but meet-our-residents first archived 2014-01-18; July-2012 resident handbook PDF not archived; CC-MAIN-2012/2013 checked. Reconstructed 14 alumni-confirmed people only (Kalhorn PGY7; Bassani, Pacione PGY6; the 11 2013-14 residents entering 2007-2011). Incomplete: alumni list covers only academically employed graduates, so non-academic 2012/2013 grads and any leavers are invisible. PHASE 2: re-audited all hosts 2011-06..2013-09 (gapaudit: old www.med.nyu.edu/neurosurgery, neurosurgery.med.nyu.edu, GME, education, surgery), followed every link on the old residency/education pages (only the stale current_residents.html) and on the Drupal education-training page (2012-12/2013-02 captures link meet-our-residents, never archived before 2014-01-18). Found the Aug-2013 Drupal resident-alumni page: academic alumni only, latest entries '10, so no help. PubMed affiliation mining 2010-2014 (NYU neurosurgery): no unidentified resident except Matthew M. Kang (NYU/Bellevue neurosurgery affiliation 2007-2012, Regions Hospital St Paul from 2013; probably a 2011 or 2012 non-academic graduate; not placed because his year is unknown).\", '2012-2013': \"Same as 2011-12: no roster capture (Wayback, CC-MAIN-2012, 2013-20, 2013-48). Reconstructed 14 (Bassani, Pacione PGY7 via alumni 2013; 12 people later seen in 2013-14 i"
+ },
+ {
+  "program_id": 42,
+  "program": "Medical College of Georgia",
+  "red_years": [
+   {
+    "year": "2011-2012",
+    "gap_len": 1,
+    "nrmp_matched": 1,
+    "entrants_held": 0,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen); entering class 0 vs 1 matched (NRMP): 1 entrant(s) unaccounted for"
+   }
+  ],
+  "our_residents_nearby": [],
+  "known_hosts": [
+   {
+    "url": "www.mcg.edu/som/neurosurgery/residents/index.htm (MCG; alumni under History/alumniNN-NN.htm)",
+    "from": "2010-05",
+    "to": "2011-01"
+   },
+   {
+    "url": "www.georgiahealth.edu/medicine/neurosurgery/residents/index.htm (GHSU; stale 2010-11 content)",
+    "from": "2011-09",
+    "to": "2011-09"
+   },
+   {
+    "url": "www.georgiahealth.edu/medicine/neurosurgery/residents/ (and index.html; GHSU/GRU footer)",
+    "from": "2012-12",
+    "to": "2013-09"
+   },
+   {
+    "url": "www.gru.edu/mcg/neurosurgery/residents/ (Georgia Regents University)",
+    "from": "2015-01",
+    "to": "2016-01"
+   },
+   {
+    "url": "www.augusta.edu/mcg/neurosurgery/residents/ (live; colleges/medicine/neurosurgery/* 301s here)",
+    "from": "2016-03",
+    "to": "2026-09-27"
+   },
+   {
+    "url": "www.augusta.edu/mcg/neurosurgery/residents/alumni.php (live alumni list, grads 1959-2026); older history/alumni00-09.php etc.",
+    "from": "2022",
+    "to": "2026-09-27"
+   }
+  ],
+  "alumni_page": "https://www.augusta.edu/mcg/neurosurgery/residents/alumni.php",
+  "prior_search_notes": "{'2011-2012': 'SIGNIFICANT. The only capture in the AY (georgiahealth.edu residents/index.htm, 2011-09-16) is the stale 2010-11 page (revised 2010-08-06; Ahmed Shakir, grad 2011, still chief). No other capture Jan 2011-Dec 2012 on mcg.edu/georgiahealth.edu (prefix CDX, any status). Common Crawl CC-MAIN-2012: 2 records on the georgiahealth prefix, none roster. PubMed affiliation scan 2011-15 found no unknown resident. Reconstructed 7 bracketed/alumni-confirmed people (Youssef 6, Hughes PGY ambiguous 5/6, Wang 5, B. Shakir 4, N. Woodall 3, Viers 2, Yowtak 2). The PGY-1 (2011 entrant) is unknown: the 2012-13 roster lists no PGY-2, so a 2011 intern could have entered and left unseen (or the program took no 2011 resident). PHASE 2: gapaudit of mcg.edu/georgiahealth.edu neurosurgery, surgery, GME and news hosts (2011-05..2012-12) and the whole www.georgiahealth.edu host (2011-07..2012-12): no roster in the AY. The 2011 GME programs booklet says neurosurgery accepts 1/year (7 years), but the 2010 class had two (Viers, Yowtak), so a 2011 slot may have been skipped. GHSU IRIS match table: 2 MCG graduates matched neurosurgery in 2011 (destinations not given). PubMed 2011-14 MCG/GHSU/GRU neurosurgery affiliation scan: the unknown names are students (Hester, Smitherman = Oklahoma 2013 entrant, Whitaker-Lea = VCU), plus the Cormican lead (see year_status). Still significant.', '2012-2013': 'Captures Dec 2012-Jun 2013 all identical (revised 8/9/12). No PGY-2 on page.', '2014-2015': 'No cap"
+ },
+ {
+  "program_id": 43,
+  "program": "Medical College of Wisconsin Affiliated Hospitals",
+  "red_years": [
+   {
+    "year": "2013-2014",
+    "gap_len": 2,
+    "nrmp_matched": 2,
+    "entrants_held": 1,
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class 1 vs 2 matched (NRMP): 1 entrant(s) unaccounted for"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "43:amo:ladouceur",
+    "name": "Amos Ladouceur",
+    "entry_year": 2007,
+    "first_seen": "2011-2012",
+    "last_seen": "2011-2012",
+    "outcome": "switched_specialty"
+   },
+   {
+    "key": "43:els:ones",
+    "name": "Elsa Arocho-Qui\u00f1ones",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "43:ha:nguyen",
+    "name": "Ha Son Nguyen",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "43:mic:gelsomino",
+    "name": "Michael Gelsomino",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "43:nin:doan",
+    "name": "Ninh Doan",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "http://www.mcw.edu/neurosurgery/education/residentroster.htm (old MCW static site; roster with 'Residency Completion' year)",
+    "from": "2010-01",
+    "to": "2014-10 (content frozen at 2011-12 list from ~Jun 2011; 'Page Updated 06/05/2013' but unchanged)"
+   },
+   {
+    "url": "http://neurosurgery.mcw.edu/extranet/ (dept research-update blog; 'Fellows/Residents' monthly posts mention a few residents)",
+    "from": "2013-10",
+    "to": "2014-10"
+   },
+   {
+    "url": "http://neurosurgery.mcw.edu/education/residency-program/residents/ (WordPress; also /faculty/residents/ 2017-04 and /team/residents/ 2017-06..2019-02)",
+    "from": "2015-02",
+    "to": "2019-02"
+   },
+   {
+    "url": "https://www.mcw.edu/departments/neurosurgery/people/residents (Sitecore; PGY headings + 'Class of'); neurosurgery.mcw.edu/* now 301s here",
+    "from": "2019-10",
+    "to": "live 2026-09-27"
+   }
+  ],
+  "alumni_page": null,
+  "prior_search_notes": "{'2011-2012': 'residentroster.htm Dec 2011 (9 names). PGY derived from listed completion year (7-yr program). Hoyt (2012) absent from Sep-Nov 2011 captures, present Jun-Aug 2011 and Dec 2011 on.', '2012-2013': \"LOW (was significant). See year_status. Phase-2 CC-MAIN-2012 retry succeeded: residentroster.htm 2012-05-24 is the same frozen 2011-12 list ('Page Updated 11/29/2011'). Extranet 'Fellows/Residents' Jan 2014 post's related-posts list quotes Dec 2012-Jun 2013 posts naming Cochran, Eckardt, Sharma (stored as source 'other'). Arocho-Quinones added as PGY-1 (bio).\", '2013-2014': 'LOW (was significant). Arocho-Quinones (PGY2) and Gelsomino (PGY1) added as reconstructed from bios/completion years.', '2014-2015': \"New WordPress residents page Feb 2015 (9 names, completion years). Old page's Oct 2014 capture has no names. Common Crawl 2014-09-21 copy of residentroster.htm already shows the same 2014-15 list.\", '2015-2016': 'LOW. Janich and Montoure reconstructed as PGY-1 (bios: MD 2015; class of 2022).', '2017-2018': 'residents page Aug 2017 still stale (Oni-Orisan 2017, no class of 2024); /team/residents/ Jan 2018 used.', '2021-2022': 'Oct 2021 capture lacked the PGY-1 (Morris) and Sanchez Jimenez; May 2022 capture (still lists class of 2022) used.', '2022-2023': 'LOW. MacKinnon and Palmer reconstructed as PGY-1 (live bios: MD 2022; class of 2029).', '2026-2027': 'Live page 2026-09-27 advanced vs 2025-26 (Hussain graduated; Busch, Laurin, Nanziri interns). Loaded.'}"
+ },
+ {
+  "program_id": 46,
+  "program": "Montefiore Medical Center/Albert Einstein College of Medicin",
+  "red_years": [
+   {
+    "year": "2015-2016",
+    "gap_len": 3,
+    "nrmp_matched": 1,
+    "entrants_held": 1,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "46:ada:ammar",
+    "name": "Adam Ammar",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "46:ada:sandler",
+    "name": "Adam Sandler",
+    "entry_year": 2009,
+    "first_seen": "2011-2012",
+    "last_seen": "2014-2015",
+    "outcome": "switched_specialty"
+   },
+   {
+    "key": "46:and:kobets",
+    "name": "Andrew Kobets",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "46:jon:nakhla",
+    "name": "Jonathan Nakhla",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "46:mur:echt",
+    "name": "Murray Echt",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "46:nei:haranhalli",
+    "name": "Neil Haranhalli",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "46:phi:cezayirli",
+    "name": "Phillip Cezayirli",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "46:yar:gelfand",
+    "name": "Yaroslav Gelfand",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "montefiore.org/prof/departments/neurosurgery/ (residency/, bios/)",
+    "from": "2007-02",
+    "to": "2012-05",
+    "note": "old Montefiore dept site; no current-resident roster (bios/ Dec 2011 shows a pre-2010 resident list); 301 from May 2012"
+   },
+   {
+    "url": "einstein.yu.edu/departments/neurological-surgery/current-residents/",
+    "from": "2013-05 (CC) / 2013-08 (Wayback)",
+    "to": "2018-10",
+    "note": "carried the 2011-12 list until Sep 2014, then the 2014-15 list frozen to 2018"
+   },
+   {
+    "url": "einstein.yu.edu/departments/neurological-surgery/alumni/",
+    "from": "2012-09",
+    "to": "2018-10",
+    "note": "graduates 2007-2014; not updated after 2014"
+   },
+   {
+    "url": "montefiore.org/neurosurgery-professional-training-programs-residency-residents",
+    "from": "2014-11",
+    "to": "2019-01",
+    "note": "2014-15 list frozen through Aug 2018; rebuilt Dec 2018 with 2018-19 list (Common Crawl only; Wayback has 302s)"
+   },
+   {
+    "url": "montefiore.org/neurological-surgery-residency-residents (body: responsive-body_min.cfm?id=6571)",
+    "from": "2018-12 (CC)",
+    "to": "2024-05",
+    "note": "2018-19 list Feb-May 2019, 2019-20 list Feb-Jun 2020 (CC); from Aug 2020 frozen on 2020-21 headings with 2019-20 inline labels"
+   },
+   {
+    "url": "virtualtour.montefiore.org/neurological-surgery-residency",
+    "from": "2021-01",
+    "to": "2025-04",
+    "note": "main roster 2020-21 on; 301 to montefioreeinstein host from Aug 2025"
+   },
+   {
+    "url": "virtualtour.montefioreeinstein.org/neurological-surgery-residency",
+    "from": "2025-08",
+    "to": "live 2026-09-27",
+    "note": "2025-26 list, unchanged in live page"
+   },
+   {
+    "url": "montefiore.org/neurological-surgery-residency, -education, -team",
+    "from": "2019-08",
+    "to": "2024-05",
+    "note": "no roster"
+   },
+   {
+    "url": "montefioreeinstein.org/patient-care/services/neurosurgery/education, /team",
+    "from": "2024-09",
+    "to": "live",
+    "note": "no roster (live education page = website of record, redirects here)"
+   },
+   {
+    "url": "einsteinmed.org / einsteinmed.edu /departments/neurological-surgery/",
+    "from": "2020-05",
+    "to": "2025",
+    "note": "no roster; live einsteinmed.edu returns Access Denied (Akamai)"
+   }
+  ],
+  "alumni_page": "https://web.archive.org/web/20181023052228/http://www.einstein.yu.edu:80/departments/neurological-surgery/alumni/",
+  "prior_search_notes": "{'2011-2012': 'Observed but CONTENT-DATED: the einstein.yu.edu list first captured 2013-05 (CC)/2013-08 (Wayback) and unchanged to Sep 2014 shows 2011-12 levels (Nakhla PGY-1 here, PGY-4 in Nov 2014; Daniels/Altschul/Kinon graduate 2012/13/14 per alumni page). No earlier capture exists; old montefiore.org/prof pages have no roster.', '2012-2013': 'No capture with 2012-13 content (einstein page stale, montefiore residents page not yet created). Reconstructed 9 bracketed/alumni-confirmed residents. 2012 entrants Haranhalli and Kobets (PGY-3 in 2014-15) not reconstructed; any 2012/2013 entrant who left before Nov 2014 would be invisible. PHASE 2: added Haranhalli/Kobets PGY-1 (faculty bios: internship and residency at Montefiore).', '2013-2014': 'Same as 2012-13. Reconstructed 8. Gelfand (2013 entrant) not reconstructed. PHASE 2: added Haranhalli/Kobets PGY-2, Gelfand PGY-1.', '2015-2016': 'montefiore.org and einstein.yu.edu residents pages both frozen on the 2014-15 list (Wayback digests checked 2015-2018; Common Crawl einstein copies every crawl 2015-2018 identical). Reconstructed only 5 bracketed by 2014-15 and 2018-19 (Haranhalli, Kobets, Gelfand, Echt, Cezayirli [PGY unknown]). Biswas, Sandler, Jada, Nasser, Nakhla (would graduate 2016/2017/2018) and the 2015-2017 entrants (Ammar, Scoco, De La Garza Ramos, Hamad, Holland) are unobserved in these years. PHASE 2: einstein current-residents copies in Wayback (Sep/Oct 2015 aspx?id=33796) and every Common Crawl copy 2013-2016 re"
+ }
+]

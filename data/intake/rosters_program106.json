@@ -1,0 +1,125 @@
+[
+ {
+  "source_url": "reconstructed:2022-2023",
+  "source_type": "manual",
+  "captured_at": "2023-06-30",
+  "academic_year": "2022-2023",
+  "note": "RECONSTRUCTED (phase 2): resident-listing page not archived before 2024-09. PGY = year - entry year + 1, entry years fixed by 2024-25 roster (Kohli PGY-3, Castano PGY-2) and program start June 2022, complement 1. Evidence in data/raw/extraction/p106/phase2/ (NPPES JSON, PubMed). Dell Med match-day news 2022/2023 name no neurosurgery matches.",
+  "rows": [
+   {
+    "name": "Vik Kohli",
+    "pgy": 1,
+    "reconstructed": true,
+    "context": "PHASE2: NPPES 1104556745 (Vikraant Kohli, Neurological Surgery, 1601 Trinity St Austin = Dell Med, enumerated & last updated 2022-06-15); Dell Med MD (PubMed 35855087, 2021, Dell Neurosurgery affiliation as student); Director's Welcome: first resident started June 2022; PGY-3 on 2024-25 roster"
+   }
+  ]
+ },
+ {
+  "source_url": "reconstructed:2023-2024",
+  "source_type": "manual",
+  "captured_at": "2024-06-30",
+  "academic_year": "2023-2024",
+  "note": "RECONSTRUCTED (phase 2): resident-listing page not archived before 2024-09. PGY = year - entry year + 1, entry years fixed by 2024-25 roster (Kohli PGY-3, Castano PGY-2) and program start June 2022, complement 1. Evidence in data/raw/extraction/p106/phase2/ (NPPES JSON, PubMed). Dell Med match-day news 2022/2023 name no neurosurgery matches.",
+  "rows": [
+   {
+    "name": "Vik Kohli",
+    "pgy": 2,
+    "reconstructed": true,
+    "context": "PHASE2: NPPES 1104556745 (Vikraant Kohli, Neurological Surgery, 1601 Trinity St Austin = Dell Med, enumerated & last updated 2022-06-15); Dell Med MD (PubMed 35855087, 2021, Dell Neurosurgery affiliation as student); Director's Welcome: first resident started June 2022; PGY-3 on 2024-25 roster"
+   },
+   {
+    "name": "Victor Castaño",
+    "pgy": 1,
+    "reconstructed": true,
+    "context": "PHASE2: NPPES 1215623541 (Victor Gustavo Castano Iraheta MD MS, Neurological Surgery, 1501 Red River St Austin = Dell Seton, enumerated & last updated 2023-04-11); Columbia VP&S student affiliations 2021-2022 (PubMed 34077733, 35276502, 36106377); PGY-2 on 2024-25 roster; complement 1/yr"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20240919100725/https://dellmed.utexas.edu/education/academics/graduate-medical-education/neurosurgery-residency/resident-listing",
+  "source_type": "wayback",
+  "captured_at": "2024-09-19",
+  "academic_year": "2024-2025",
+  "note": "Earliest capture of resident-listing; 3 residents (program started 2022, 1/yr). Same list through 2025-06-15.",
+  "rows": [
+   {
+    "name": "Liam Goldman",
+    "pgy": 1,
+    "context": "PGY-1 Liam Goldman, Medical College of Georgia"
+   },
+   {
+    "name": "Victor Castaño",
+    "pgy": 2,
+    "context": "PGY-2 Victor Castaño, Columbia VP&S"
+   },
+   {
+    "name": "Vik Kohli",
+    "pgy": 3,
+    "context": "PGY-3 Vik Kohli, Dell Medical School"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20251005151557/https://dellmed.utexas.edu/education/academics/graduate-medical-education/neurosurgery-residency/resident-listing",
+  "source_type": "wayback",
+  "captured_at": "2025-10-05",
+  "academic_year": "2025-2026",
+  "note": "Same list through 2026-06-11.",
+  "rows": [
+   {
+    "name": "Vincent Provasek",
+    "pgy": 1,
+    "context": "PGY-1 Vincent Provasek, Texas A&M (M.D., Ph.D.)"
+   },
+   {
+    "name": "Liam Goldman",
+    "pgy": 2,
+    "context": "PGY-2 Liam Goldman"
+   },
+   {
+    "name": "Victor Castaño",
+    "pgy": 3,
+    "context": "PGY-3 Victor Castaño"
+   },
+   {
+    "name": "Vik Kohli",
+    "pgy": 4,
+    "context": "PGY-4 Vik Kohli"
+   }
+  ]
+ },
+ {
+  "source_url": "https://dellmed.utexas.edu/education/academics/graduate-medical-education/neurosurgery-residency/resident-listing",
+  "source_type": "live",
+  "captured_at": "2026-09-27",
+  "academic_year": "2026-2027",
+  "note": "Live page; PGYs advanced and new PGY-1 vs 2025-26.",
+  "rows": [
+   {
+    "name": "Rylie Wackerly",
+    "pgy": 1,
+    "context": "PGY-1 Rylie Wackerly, Sam Houston State COM (D.O.)"
+   },
+   {
+    "name": "Vincent Provasek",
+    "pgy": 2,
+    "context": "PGY-2 Vincent Provasek"
+   },
+   {
+    "name": "Liam Goldman",
+    "pgy": 3,
+    "context": "PGY-3 Liam Goldman"
+   },
+   {
+    "name": "Victor Castaño",
+    "pgy": 4,
+    "context": "PGY-4 Victor Castaño"
+   },
+   {
+    "name": "Vik Kohli",
+    "pgy": 5,
+    "context": "PGY-5 Vik Kohli"
+   }
+  ]
+ }
+]

@@ -1,0 +1,810 @@
+[
+ {
+  "key": "90:vig:kumar",
+  "name": "Vignessh Kumar",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity lists Albany Medical College class 2019 but no residency; UCSF neurosurgery fellows page lists Vignessh Kumar as Spine fellow; search bio: AOA Albany graduate, appeared on Miami neurosurgery resident roster; name is distinctive",
+   "outcome": "completed",
+   "outcome_detail": "Inferred completion: entered Miami 2019, 7 years to 2025-26, now listed as spine fellow in UCSF Department of Neurological Surgery (requires neurosurgery residency). Doximity lists no Miami residency and specialty 'Other MD/DO' with CA licence 2026-28. Not a confirmed statement of Miami graduation",
+   "current": "spine fellow, UCSF Department of Neurological Surgery (San Francisco)",
+   "residency_stated": [
+    {
+     "institution": "UCSF Neurological Surgery (spine fellowship, listed)",
+     "specialty": "neurosurgery fellowship",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/vignessh-kumar-md",
+     "type": "doximity",
+     "evidence": "Class of 2019 Albany Medical College; San Francisco, CA 400 Parnassus Ave; specialty Other MD/DO; no residency listed"
+    },
+    {
+     "url": "https://neurosurgery.ucsf.edu/fellows",
+     "type": "program_page",
+     "evidence": "Vignessh Kumar, MD - Spine fellow (WebFetch of UCSF fellows page)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "90:jay:chandar",
+  "name": "Jay Chandar",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Listed on Univ of Miami/Jackson neurosurgery Current Residents page (started 07/2025) with med school; name/program/med-school match on external profiles; Doximity record inconsistent (ortho, UF 2017-2022), see notes",
+   "outcome": "in_training",
+   "outcome_detail": "Still listed as current resident (PGY-2 in 2026-27, 'Started in 07/2025') on program page",
+   "current": "neurosurgery resident, Univ of Miami/Jackson",
+   "residency_stated": [
+    {
+     "institution": "University of Miami/Jackson Health System",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://med.miami.edu/en/departments/neurosurgery/education/residency-program/current-residents",
+     "type": "program_page",
+     "evidence": "Jay Chandar (Started 07/2025)"
+    },
+    {
+     "url": "https://www.doximity.com/pub/jay-chandar-md-70fc22db",
+     "type": "doximity",
+     "evidence": "Profile 'Jay Sai Chandar' Orthopaedic Surgery, Miami address 1611 NW 12th Ave; lists Univ of Florida Ortho residency 2017-2022; publications are Miami neurosurgery-team papers. Inconsistent with PGY-2 neurosurgery: unresolved whether same person or mismatched Doximity record"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "90:mic:tawil",
+  "name": "Michael Tawil",
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Listed on Miami program page (started 07/2026, UCSF); UCSF medical student neurosurgery researcher Michael E. Tawil per ResearchGate/UCSF results; Doximity records conflict",
+   "outcome": "in_training",
+   "outcome_detail": "Still listed as current resident (PGY-1 in 2026-27, 'Started in 07/2026') on program page. Doximity: Doximity 'Michael Tawil' pages found (NYC and Ladera Ranch CA, Anesthesiology, Mount Sinai residency 2024-2028; one lists UCSF 2026 and UCSF neurosurgery publications) conflict with the Miami program page; identity of those records unresolved, not used",
+   "current": "neurosurgery resident, Univ of Miami/Jackson",
+   "residency_stated": [
+    {
+     "institution": "University of Miami/Jackson Health System",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://med.miami.edu/en/departments/neurosurgery/education/residency-program/current-residents",
+     "type": "program_page",
+     "evidence": "Michael Tawil (Started 07/2026)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "91:kat:holste",
+  "name": "Katherine Holste",
+  "program_id": 91,
+  "program": "University of Michigan Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: OHSU MD 2018, no residency line listed, now Pittsburgh pediatric neurosurgery (MI license 2024-27); search snippets: UM neurosurgical resident from Portland OR, OHSU 2018",
+   "outcome": "completed",
+   "outcome_detail": "No explicit end date found. Doximity lists pediatric neurosurgery practice in Pittsburgh (likely fellowship/junior faculty) and UM neurosurgery pubs; UM page (access denied to me) showed resident; last_seen 2024-25 PGY7. Treated as completed.",
+   "current": "Pediatric neurosurgery, Pittsburgh PA (Doximity)",
+   "residency_stated": [
+    {
+     "institution": "University of Michigan",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/katherine-holste-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Pittsburgh PA, Pediatric Neurosurgery; OHSU Class of 2018; no residency listed"
+    },
+    {
+     "url": "https://medresearch.umich.edu/profile/katherine-holste-md",
+     "type": "program_page",
+     "evidence": "search snippet: neurosurgical resident currently training at the University of Michigan; OHSU 2018"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "91:sar:saleh",
+  "name": "Sara Saleh",
+  "program_id": 91,
+  "program": "University of Michigan Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2024-2025",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UM profile snippet: PGY-7 UM neurosurgery resident, UW MD; Doximity (Lapeer MI) UW Class of 2018 lists UM Neurological Surgery residency (also lists a Trinity Health Muskegon Family Medicine residency, odd, possibly merged profile)",
+   "outcome": "completed",
+   "outcome_detail": "PGY-7 resident with planned skull-base fellowship at Medical College of Wisconsin; US News snippet lists neurosurgeon, Milwaukee. Doximity also lists a Family Medicine residency at Trinity Health Muskegon, unresolved anomaly",
+   "current": "Neurosurgeon, Milwaukee WI (skull base fellowship MCW per snippets)",
+   "residency_stated": [
+    {
+     "institution": "University of Michigan",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/sara-saleh-md",
+     "type": "doximity",
+     "evidence": "Residency, Neurological Surgery, University of Michigan (no dates); also Residency, Family Medicine, Trinity Health Muskegon; UW Class of 2018; no ABNS"
+    },
+    {
+     "url": "https://medresearch.umich.edu/profile/sara-saleh-md",
+     "type": "program_page",
+     "evidence": "search snippet: PGY-7 Neurosurgery Resident at UM; medical school UW; skull-base fellowship at Medical College of Wisconsin after residency"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "92:ala:dixson",
+  "name": "Alana Dixson",
+  "program_id": 92,
+  "program": "University of Minnesota Program",
+  "entry_year": 2014,
+  "first_seen": "2015-2016",
+  "last_seen": "2015-2016",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Search results: Alana Dixson MD PhD listed as Neurosurgery Resident at University of Minnesota Medical Center (SignalHire) and later resident in Rutgers Robert Wood Johnson Anesthesiology; DB note: prior general surgery PGY1 at BIDMC",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Left UMN neurosurgery after 2015-16; later listed as anesthesiology resident (Rutgers) and physician-entrepreneur (MDCrashPad, Viral Science). Anesthesiology start year not found.",
+   "current": "physician-entrepreneur; anesthesiology trained/resident (Rutgers)",
+   "residency_stated": [
+    {
+     "institution": "University of Minnesota",
+     "specialty": "neurosurgery",
+     "start": 2014,
+     "end": 2016
+    },
+    {
+     "institution": "Rutgers Robert Wood Johnson (per bios)",
+     "specialty": "anesthesiology",
+     "start": null,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/alana-dixson-md-phd-b8a02a350/",
+     "type": "search_snippet",
+     "evidence": "Alana Dixson, MD, PhD - Owner, Founder - Viral Science"
+    },
+    {
+     "url": "https://www.signalhire.com/companies/university-of-minnesota-medical-center/alana-dixson's-email",
+     "type": "search_snippet",
+     "evidence": "Neurosurgery Resident at University of Minnesota Medical Center"
+    },
+    {
+     "url": "https://mdcrashpad.com/our-team/alana-dixson-md-phd",
+     "type": "search_snippet",
+     "evidence": "She is a resident at Rutgers University's Department of Anesthesiology"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "92:yag:yolcu",
+  "name": "Yagiz Yolcu",
+  "program_id": 92,
+  "program": "University of Minnesota Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2026-2027",
+  "last_pgy": 3,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UMN current-residents page and Match Day 2023 result; Doximity Yolcu (Rochester MN/Mayo address, MN license 2025) with UMN co-author Anant Naik on a 2026 paper; Doximity shows no residency entry so link is indirect",
+   "outcome": "in_training",
+   "outcome_detail": "Listed on UMN current-residents page (class of 2031); no evidence of leaving",
+   "current": "UMN neurosurgery resident (class of 2031)",
+   "residency_stated": [
+    {
+     "institution": "University of Minnesota",
+     "specialty": "neurosurgery",
+     "start": 2024,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://med.umn.edu/neurosurgery/education-training/residency/current-residents",
+     "type": "program_page",
+     "evidence": "Yagiz Yolcu, MD listed, Class of 2031"
+    },
+    {
+     "url": "https://www.doximity.com/pub/yagiz-yolcu-md-a64d87a9",
+     "type": "doximity",
+     "evidence": "Neurosurgery, Rochester MN (Mayo address); MN license 2025-2027; no residency listed"
+    },
+    {
+     "url": "https://med.umn.edu/surgery/news/2023-match-day-results",
+     "type": "search_snippet",
+     "evidence": "2023 Match Day Results (UMN Surgery) surfaced for Yolcu search"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "92:mol:butler",
+  "name": "Molly Butler",
+  "program_id": 92,
+  "program": "University of Minnesota Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UMN current-residents page and UMN Facebook Match Day post welcoming Molly Butler; other Doximity Molly Butlers are different specialties; Medical College of Georgia 2025 per snippet. DB 'ambiguous name' remains partly unresolved",
+   "outcome": "in_training",
+   "outcome_detail": "Listed on UMN current-residents page (class of 2032); no evidence of leaving",
+   "current": "UMN neurosurgery resident (class of 2032)",
+   "residency_stated": [
+    {
+     "institution": "University of Minnesota",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://med.umn.edu/neurosurgery/education-training/residency/current-residents",
+     "type": "program_page",
+     "evidence": "Molly Butler, MD listed, Class of 2032"
+    },
+    {
+     "url": "https://www.facebook.com/UMNNeurosurgery/posts/happy-match-day-please-join-us-in-welcoming-molly-butler-brandon-hoglund-and-kar/1186577480138689/",
+     "type": "search_snippet",
+     "evidence": "Happy Match Day! Please join us in welcoming Molly Butler, Brandon Hoglund and Kar[...]"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "92:kam:willis",
+  "name": "Kameron Willis",
+  "program_id": 92,
+  "program": "University of Minnesota Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UMN current-residents page lists Kameron Willis, MD Class of 2033; X/LinkedIn snippets: aspiring neurosurgeon with Mayo research year (no explicit UMN confirmation)",
+   "outcome": "in_training",
+   "outcome_detail": "Listed on UMN current-residents page (class of 2033); no evidence of leaving",
+   "current": "UMN neurosurgery PGY-1 (class of 2033)",
+   "residency_stated": [
+    {
+     "institution": "University of Minnesota",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://med.umn.edu/neurosurgery/education-training/residency/current-residents",
+     "type": "program_page",
+     "evidence": "Kameron Willis, MD listed, Class of 2033"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "93:ale:clark",
+  "name": "Alec C. Clark",
+  "program_id": 93,
+  "program": "University of Mississippi Medical Center Program \u00a9 2026 Accreditation ",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2024-2025",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: Alec Clark MD, UCF College of Medicine 2023, MS license 2023-2026, PubMed neurotrauma paper with UMMC-linked authors; UMMC neurosurgery resident page for Clark exists in search results",
+   "outcome": "switched_specialty",
+   "outcome_detail": "Doximity now lists him as 'Resident Physician' in Dade City, FL (Pasco County), not neurosurgery; specialty/program not stated. Absent from UMMC current neurosurgery residents page.",
+   "current": "resident physician (non-neurosurgery), Dade City FL area",
+   "residency_stated": [
+    {
+     "institution": "University of Mississippi Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2023,
+     "end": 2025
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/alec-clark-md",
+     "type": "doximity",
+     "evidence": "Resident Physician, Dade City FL; University of Central Florida College of Medicine Class of 2023; MS license 2023-2026"
+    },
+    {
+     "url": "https://umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Neurosurgery/Educational%20Programs/Residency-Program/Current-Neurosurgery-Residents.html",
+     "type": "program_page",
+     "evidence": "current UMMC neurosurgery residents list does not include Clark"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "93:chr:seward",
+  "name": "Christopher J. Seward",
+  "program_id": 93,
+  "program": "University of Mississippi Medical Center Program \u00a9 2026 Accreditation ",
+  "entry_year": 2013,
+  "first_seen": "2013-2014",
+  "last_seen": "2019-2020",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity (St. George's MD 2012, neurosurgery, Seattle) and search snippets state UMMC neurological surgery residency 2013-2020; Doximity education section itself lacks residency line; ResearchGate lists UMMC Dept of Neurosurgery",
+   "outcome": "completed",
+   "outcome_detail": "Practising neurosurgeon per multiple directories; UMMC residency 2013-2020 per search-snippet directories (Vitals/US News aggregation)",
+   "current": "Neurosurgeon (Doximity Seattle WA; Vitals/WebMD Las Vegas NV, Centennial Hills Hospital)",
+   "residency_stated": [
+    {
+     "institution": "University of Mississippi Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2013,
+     "end": 2020
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/christopher-seward-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery specialty; St. George's University Class of 2012; residency line absent on public page"
+    },
+    {
+     "url": "https://health.usnews.com/doctors/christopher-seward-1081783",
+     "type": "search_snippet",
+     "evidence": "search result: Dr. Christopher Seward, MD | Seattle, WA | Neurosurgeon (US News page not opened, paused)"
+    },
+    {
+     "url": "https://www.researchgate.net/profile/Christopher-Seward-2",
+     "type": "search_snippet",
+     "evidence": "Christopher SEWARD | University of Mississippi Medical Center, Jackson | UMMC | Department of Neurosurgery"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "93:mic:ziemke",
+  "name": "Michael K. Ziemke",
+  "program_id": 93,
+  "program": "University of Mississippi Medical Center Program \u00a9 2026 Accreditation ",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "last_seen": "2023-2024",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Neurosurgeon in Albuquerque (Presbyterian) with UMMC affiliation on directories; co-author on UMMC neurosurgery papers 2022-2024 (Winter, Derrico, Giles); Doximity profile lists only CU MD 2017",
+   "outcome": "completed",
+   "outcome_detail": "Practises as neurosurgeon in Albuquerque NM; affiliated with UMMC on directories. No source gave explicit residency years.",
+   "current": "Neurosurgeon, Presbyterian, Albuquerque NM",
+   "residency_stated": [
+    {
+     "institution": "University of Mississippi Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2017,
+     "end": 2024
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.medifind.com/doctors/michael-k-ziemke/7858365",
+     "type": "search_snippet",
+     "evidence": "Michael Ziemke... Neurosurgeon in Albuquerque, NM... affiliated with University Of Mississippi Medical Center, Presbyterian Hospital"
+    },
+    {
+     "url": "https://www.doximity.com/pub/michael-ziemke-md-7de97775",
+     "type": "doximity",
+     "evidence": "Education: Univ of Colorado School of Medicine Class of 2017; NM license 2024-2029 (no residency listed)"
+    },
+    {
+     "url": "https://www.doximity.com/pub/tyler-giles-md",
+     "type": "doximity",
+     "evidence": "Giles co-authored 2024 JNS Case Lessons with Michael Ziemke (UMMC)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "94:may:jayarao",
+  "name": "Mayur Jayarao",
+  "program_id": 94,
+  "program": "University of Missouri-Columbia Program",
+  "entry_year": 2011,
+  "first_seen": "2013-2014",
+  "last_seen": "2014-2015",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> TRANSFERRED (Geisinger Health System)",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Springfield Neurological bio: neurosurgical residency at Univ of Missouri and Geisinger; name matches distinctive; both programs in DB record",
+   "outcome": "transferred",
+   "outcome_detail": "Transferred from Missouri (PGY-4 in 2014-15) to Geisinger, finished there; then fellowships (Brown neuro-oncology 2017, Shriners complex spine 2018, BU). Bio confirms two residency programs; exact years not given.",
+   "current": "Neurosurgeon, Springfield Neurological & Spine Institute / CoxHealth, Springfield MO; board certified ABNS",
+   "residency_stated": [
+    {
+     "institution": "University of Missouri-Columbia",
+     "specialty": "neurosurgery",
+     "start": 2011,
+     "end": 2015
+    },
+    {
+     "institution": "Geisinger Health System",
+     "specialty": "neurosurgery",
+     "start": 2015,
+     "end": 2017
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://springfieldneurological.com/team/mayur-jayarao-m-d/",
+     "type": "bio",
+     "evidence": "completed his neurosurgical residency at University of Missouri, MO, and Geisinger Health System, PA; Board certified: American Board of Neurological Surgeons"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "94:mic:torres",
+  "name": "Michael Ortiz Torres",
+  "program_id": 94,
+  "program": "University of Missouri-Columbia Program",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "last_seen": "2023-2024",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: MD Univ Puerto Rico 2017, MO license 2017-2024, NM 2025; Missouri publications; Healthgrades neurosurgery Albuquerque (Presbyterian). Doximity lists no residency line",
+   "outcome": "completed",
+   "outcome_detail": "Practising as neurosurgeon in Albuquerque NM (Healthgrades specialty Neurosurgery; Presbyterian Hospital); MO license ended 2024, matches finishing 2024",
+   "current": "neurosurgeon, Presbyterian, Albuquerque NM",
+   "residency_stated": [
+    {
+     "institution": "University of Missouri-Columbia",
+     "specialty": "neurosurgery",
+     "start": 2017,
+     "end": 2024
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.healthgrades.com/physician/dr-michael-ortiz-torres-xymvvbh",
+     "type": "search_snippet",
+     "evidence": "Neurosurgery, Albuquerque NM, affiliated Presbyterian Hospital; WebMD lists Columbia MO Neurological Surgery, University of Puerto Rico 2017"
+    },
+    {
+     "url": "https://www.doximity.com/pub/michael-ortiz-torres-md",
+     "type": "doximity",
+     "evidence": "University of Puerto Rico School of Medicine Class of 2017; MO State Medical License 2017 - 2024"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "94:far:tariq",
+  "name": "Farzana Tariq",
+  "program_id": 94,
+  "program": "University of Missouri-Columbia Program",
+  "entry_year": 2019,
+  "first_seen": "2023-2024",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: Wayne State neurosurgery residency 2013-2020, Fatima Jinnah 2007; MO license 2023-2027; co-authored 2024 Missouri Medicine papers with Missouri residents (Nunna, Khan, Jumah)",
+   "outcome": "completed",
+   "outcome_detail": "Doximity lists Wayne State residency 2013-2020 (not 2014-18); Missouri not listed as residency but Missouri authorship 2024 and MO license 2023-27; now Excela Health neurosurgery, Latrobe PA, consistent with finishing Missouri 2026. Missouri completion not directly stated",
+   "current": "neurosurgeon, Excela Health, Latrobe PA",
+   "residency_stated": [
+    {
+     "institution": "Detroit Medical Center/Wayne State University",
+     "specialty": "neurosurgery",
+     "start": 2013,
+     "end": 2020
+    },
+    {
+     "institution": "University of Missouri-Columbia",
+     "specialty": "neurosurgery",
+     "start": 2023,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/farzana-tariq-md",
+     "type": "doximity",
+     "evidence": "Detroit Medical Center/Wayne State University Residency, Neurological Surgery, 2013 - 2020; MO State Medical License 2023 - 2027; Neurosurgery Latrobe PA"
+    },
+    {
+     "url": "https://www.linkedin.com/in/farzana-tariq-34185913b/",
+     "type": "search_snippet",
+     "evidence": "Farzana Tariq - Neurosurgery Resident - Wayne State University | LinkedIn"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "94:has:ahmad",
+  "name": "Haseeb Ahmad",
+  "program_id": 94,
+  "program": "University of Missouri-Columbia Program",
+  "entry_year": 2026,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 1,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Missouri residents page PGY-1 Haseeb Ahmad, Univ of Kentucky College of Medicine; LinkedIn 'Neurosurgery Resident Physician'; ResearchGate Univ of Kentucky medical student",
+   "outcome": "in_training",
+   "outcome_detail": "PGY-1 at Missouri 2026-27",
+   "current": "resident, University of Missouri neurosurgery",
+   "residency_stated": [
+    {
+     "institution": "University of Missouri-Columbia",
+     "specialty": "neurosurgery",
+     "start": 2026,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents",
+     "type": "program_page",
+     "evidence": "PGY-1 Haseeb Ahmad, MD, University of Kentucky College of Medicine"
+    },
+    {
+     "url": "https://www.linkedin.com/in/haseebahmad1/",
+     "type": "search_snippet",
+     "evidence": "Haseeb Ahmad - Neurosurgery Resident Physician"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "95:luk:pearson",
+  "name": "Luke Pearson",
+  "program_id": 95,
+  "program": "University of Missouri-Kansas City School of Medicine Program",
+  "entry_year": 2023,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 4,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Louisville dept page: Luke Pearson MD (UCF College of Medicine 2018) joined Louisville neurosurgery residency 2018, matching phase2 record; no source found naming UMKC/Saint Luke's",
+   "outcome": "in_training",
+   "outcome_detail": "Louisville residency from 2018 per department page; arrival at UMKC/Saint Luke's PGY-4 in 2026-27 not verified by any external source found (program roster only per DB)",
+   "current": "resident (per DB), UMKC/Saint Luke's neurosurgery",
+   "residency_stated": [
+    {
+     "institution": "University of Louisville",
+     "specialty": "neurosurgery",
+     "start": 2018,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://louisville.edu/medicine/departments/neurosurgery/luke-pearson",
+     "type": "search_snippet",
+     "evidence": "Luke Pearson, M.D. - Neurosurgery Resident; joined the neurosurgery residency at the University of Louisville in 2018 (search snippet)"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "95:gus:cortez",
+  "name": "Gustavo M. Cortez",
+  "program_id": 95,
+  "program": "University of Missouri-Kansas City School of Medicine Program",
+  "entry_year": 2025,
+  "first_seen": "2026-2027",
+  "last_seen": "2026-2027",
+  "last_pgy": 2,
+  "recorded_outcome": "IN TRAINING",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity: Neurosurgery Kansas City MO 4401 Wornall Rd; publications and press mention from University at Buffalo neurosurgery; matches DB (Buffalo internship)",
+   "outcome": "in_training",
+   "outcome_detail": "Listed neurosurgery Kansas City at Saint Luke's address; prior Buffalo (University at Buffalo) work per publications",
+   "current": "resident, UMKC/Saint Luke's neurosurgery",
+   "residency_stated": [
+    {
+     "institution": "University of Missouri-Kansas City",
+     "specialty": "neurosurgery",
+     "start": 2025,
+     "end": null
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/gustavo-cortez-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery Kansas City MO 4401 Wornall Rd; University of Western Sao Paulo Class of 2018; Press: University at Buffalo Neurosurgery"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "96:ang:walstrom",
+  "name": "Angelique Walstrom",
+  "program_id": 96,
+  "program": "University of Nebraska Medical Center College of Medicine Program",
+  "entry_year": 2011,
+  "first_seen": "2012-2013",
+  "last_seen": "2016-2017",
+  "last_pgy": 6,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UNMC alumni page 2017 Graduate 'Angelique M. Walstrom, MD'; neurosurgeon 'Angelique M. Ruff' (listed under a different surname at some directories) with MD Univ of Nebraska 2011 and UNMC neurosurgery residency",
+   "outcome": "completed",
+   "outcome_detail": "UNMC alumni: 2017 graduate; practising neurosurgeon Saint Paul MN",
+   "current": "neurosurgeon, HealthPartners/Regions Hospital, Saint Paul MN",
+   "residency_stated": [
+    {
+     "institution": "University of Nebraska Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2011,
+     "end": 2017
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.unmc.edu/neurosurgery/education/residency/alumni.html",
+     "type": "program_page",
+     "evidence": "Angelique M. Walstrom, MD - 2017 Graduate"
+    },
+    {
+     "url": "https://www.healthgrades.com/physician/dr-angelique-ruff-3rcjy",
+     "type": "search_snippet",
+     "evidence": "graduated with honors from University Of Nebraska College Of Medicine in 2011; completed a residency in Neurosurgery at the University of Nebraska Medical Center"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ },
+ {
+  "key": "96:car:farrell",
+  "name": "Caroline Farrell",
+  "program_id": 96,
+  "program": "University of Nebraska Medical Center College of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UNMC alumni page lists 'Caroline L. Farrell, MD 2026 Graduate'; listed under a different surname on rosters; no independent profile found",
+   "outcome": "completed",
+   "outcome_detail": "UNMC alumni page lists her as 2026 graduate; no other profile located",
+   "current": "unknown",
+   "residency_stated": [
+    {
+     "institution": "University of Nebraska Medical Center",
+     "specialty": "neurosurgery",
+     "start": 2019,
+     "end": 2026
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.unmc.edu/neurosurgery/education/residency/alumni.html",
+     "type": "program_page",
+     "evidence": "Caroline L. Farrell, MD - 2026 Graduate"
+    }
+   ]
+  },
+  "task": "CONFIRM IDENTITY"
+ }
+]

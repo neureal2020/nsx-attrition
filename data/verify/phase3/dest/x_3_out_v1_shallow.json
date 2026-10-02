@@ -1,0 +1,189 @@
+[
+ {
+  "key": "51:can:carpenter",
+  "name": "Candice Carpenter",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Not on OSU current roster or 2025/2026 alumni list (alumni 2026 incl. Eaton, Wang; 2025 Akhter). Current bio (BCPH Co-CEO, Chief of Strategy; teaches at business schools) has no neurosurgery completion or fellowship info. Directory listings (Doximity Cincinnati, WebMD Columbus) stale. Likely left clinical training for public health/entrepreneurship but no dated source states it.",
+  "sources": [
+   "https://bcph.org/bcph-co-ceo-dr-candice-d-carpenter/",
+   "https://medicine.osu.edu/departments/neurosurgery/education/residency/residents"
+  ],
+  "queries_tried": [
+   "\"Candice Carpenter\" MD neurosurgery"
+  ]
+ },
+ {
+  "key": "51:ahm:jorge",
+  "name": "Ahmed Jorge",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Matched OSU 2021 (X post). Not on current roster (PGY6 Damante, Weinberg) nor alumni list. No other program found; only stale Healthgrades/WebMD Columbus.",
+  "sources": [
+   "https://x.com/NeurosurgeryOSU/status/1372971646819004420",
+   "https://medicine.osu.edu/departments/neurosurgery/education/residency/residents"
+  ],
+  "queries_tried": [
+   "\"Ahmed Jorge\" MD neurosurgery resident",
+   "\"Ahmed Jorge\" Pittsburgh MD 2021 match neurosurgery Ohio State"
+  ]
+ },
+ {
+  "key": "51:chr:swann",
+  "name": "Christen O'Neal Swann",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Not on OSU current roster (PGY4/5 lists) or alumni; only stale LinkedIn/Doximity/ResearchGate showing OSU. No destination found.",
+  "sources": [
+   "https://medicine.osu.edu/departments/neurosurgery/education/residency/residents"
+  ],
+  "queries_tried": [
+   "\"Christen Swann\" MD neurosurgery",
+   "\"Swann\" OR \"O'Neal\" Christen neurosurgery Ohio State 2026"
+  ]
+ },
+ {
+  "key": "52:bri:stedelin",
+  "name": "Brittany Stedelin",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "OHSU current page (PGY1-7 plus PGY5 research year) lacks her; entry 2023 would be PGY3 (Charron, Godil, Tora listed). Only stale LinkedIn/2023-24 roster/Oregon license verification. No destination.",
+  "sources": [
+   "https://www.ohsu.edu/school-of-medicine/neurosurgery/current-residents",
+   "https://www.ohsu.edu/sites/default/files/2023-08/resident%20roster%202023-24%20color.pdf"
+  ],
+  "queries_tried": [
+   "\"Brittany Stedelin\" MD",
+   "Stedelin OHSU neurosurgery resident 2026"
+  ]
+ },
+ {
+  "key": "53:sam:alsalek",
+  "name": "Samir Alsalek",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "PSU College of Medicine directory lists him as PGY-1 Neurosurgery Resident (undated). PSU current-residents page page 1 shows no Alsalek but page 2 not viewable; page 1 lists 2 PGY1s (Basem, Halloran), so 2025 entry possibly still on page 2 or left. Unconfirmed either way; no other destination found.",
+  "sources": [
+   "https://med.psu.edu/departments-faculty/directory/samir-alsalek",
+   "https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents"
+  ],
+  "queries_tried": [
+   "\"Samir Alsalek\" MD resident",
+   "Alsalek Penn State Hershey neurosurgery intern 2025"
+  ]
+ },
+ {
+  "key": "56:jos:morrison",
+  "name": "Joseph Morrison",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Not on Rush current page or alumni list. Doximity 'Resident Physician, Aurora CO' (1665 Aurora Ct = CU Anschutz campus; neurointerventional publications) is a stale directory lead only; no Colorado fellowship page found naming him.",
+  "sources": [
+   "https://www.doximity.com/pub/joe-morrison-md",
+   "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/fellowship-programs/endo-vascular-neurosurgery-fellowship"
+  ],
+  "queries_tried": [
+   "\"Joseph Morrison\" MD neurosurgery Rush UIC",
+   "\"Joseph Morrison\" neuroendovascular fellow University of Colorado"
+  ]
+ },
+ {
+  "key": "65:oma:sorour",
+  "name": "Omar Sorour",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Tufts current page shows only one PGY3 (Luna), no Sorour, no research list. Search snippet of LinkedIn says he began dedicated research year with T32 (undated/non-program source; page not fetchable, HTTP 999). Likely research year but not qualifying under brief rule (needs dated 2026 program source).",
+  "sources": [
+   "https://www.linkedin.com/in/omar-sorour-md-66b01783/",
+   "https://www.tuftsmedicine.org/medical-professionals-trainees/training-education/training-programs/neurosurgery-residency-program-new/neurosurgery-residency-program-our-people/neurosurgery-residency-program-current-residents"
+  ],
+  "queries_tried": [
+   "\"Omar Sorour\" MD neurosurgery Tufts",
+   "Tufts neurosurgery resident Sorour T32 research year 2026"
+  ]
+ },
+ {
+  "key": "67:yag:muftuoglu",
+  "name": "Yagmur Muftuoglu",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Not on UCLA current page (NS1-NS7). Only stale LinkedIn/WebMD/old UCLA profile. No destination found.",
+  "sources": [
+   "https://www.uclahealth.org/neurosurgery/yagmur-muftuoglu"
+  ],
+  "queries_tried": [
+   "\"Yagmur Muftuoglu\" MD",
+   "Muftuoglu UCLA neurosurgery 2026 resident glioma"
+  ]
+ },
+ {
+  "key": "73:olu:afuwape",
+  "name": "Olusoji Afuwape",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "No source places him in another residency; Doximity 'Other MD/DO' Fort Worth only.",
+  "sources": [
+   "https://www.doximity.com/pub/olusoji-afuwape-md"
+  ],
+  "queries_tried": [
+   "\"Olusoji Afuwape\" MD",
+   "\"Olusoji Afuwape\" PhD Fort Worth OR Texas OR resident OR fellow"
+  ]
+ },
+ {
+  "key": "73:aus:robbins",
+  "name": "Austin Robbins",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Doximity 'Other MD/DO' at 1802 6th Ave S, Birmingham AL (UAB campus address; stale directory lead, no UAB roster/program page confirms). UAB current-residents page 404.",
+  "sources": [
+   "https://www.doximity.com/pub/austin-robbins-md"
+  ],
+  "queries_tried": [
+   "\"Austin Robbins\" MD resident University of Mississippi 2024",
+   "\"Austin Robbins\" UAB neurosurgery resident"
+  ]
+ },
+ {
+  "key": "74:isi:beach",
+  "name": "Isidora Beach",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "UCI Neurosurgery Instagram (2023) announced her as incoming neurosurgery intern, confirming entry; absent from current UCI page and alumni. LinkedIn 'Stanton, California' stale. No new destination found.",
+  "sources": [
+   "https://www.instagram.com/p/CvANrxvrE3r/"
+  ],
+  "queries_tried": [
+   "\"Isidora Beach\" MD",
+   "\"Isidora Beach\" resident orthopaedic OR PM&R OR neurology OR anesthesiology OR general surgery"
+  ]
+ },
+ {
+  "key": "81:eri:shen",
+  "name": "Erica Shen",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Not on UConn current page; latest info (May 2024) shows UConn PGY-3. No transfer/destination found; possible name variant 'Nofziger' (NPI) yielded nothing.",
+  "sources": [
+   "https://npiprofile.com/npi/1063041507",
+   "https://x.com/shennsgy"
+  ],
+  "queries_tried": [
+   "\"Erica Shen\" MD neurosurgery resident",
+   "\"Erica Shen\" MD PhD MBA neurosurgery 2025 OR 2026",
+   "\"Erica Shen\" UConn neurosurgery resident research year"
+  ]
+ }
+]

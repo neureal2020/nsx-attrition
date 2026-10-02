@@ -1,0 +1,215 @@
+#!/usr/bin/env python3
+"""Final outcome table for one program, using an EVIDENCE HIERARCHY.
+
+    python3 scripts/16_adjudicate_program.py --program-id 60
+
+Evidence ranking for "did this person complete the program?":
+  1. training_history  -- an employer bio or program page STATING the years and
+                          institution. Authoritative.
+  2. roster at terminal PGY -- strong, but a missed final capture can hide it.
+  3. NPPES taxonomy    -- NOT evidence of completion. Only that the person is
+                          associated with the specialty.
+
+Rank 3 was previously treated as completion and that was wrong, in both
+directions:
+  * Hekmat Zarzour carries neurosurgery taxonomy but LEFT SLU mid-training and
+    finished at Mount Sinai -- a transfer scored as a completion.
+  * Georgios Alexopoulos carries it and did not complete at all.
+So "left the roster + still has the taxonomy" now resolves to LEFT - UNKNOWN,
+not to completion. Only ranks 1 and 2 can close a case.
+
+    python3 scripts/16_adjudicate_program.py --program-id 60
+
+The roster can only say "listed, then not listed". Resolving that into an
+OUTCOME needs an external source, so every person who leaves the roster is
+carried through to NPPES rather than dropped:
+
+    left roster + neurosurgery taxonomy  -> completed a neurosurgery residency
+                                            (here OR elsewhere -- the roster
+                                             cannot distinguish transfer)
+    left roster + another specialty      -> SWITCHED SPECIALTY (true attrition)
+    left roster + trainee-only / absent  -> UNRESOLVED (never call this
+                                            attrition; see Douglas Snyder)
+
+The Snyder case is why "unresolved" must stay its own category. He spent
+2016-17 in an SLU residency, left, and re-entered ophthalmology elsewhere. His
+roster year sits in an unarchived gap and his NPI shows only his current
+specialty, so neither the roster nor NPPES could see the switch -- only the
+employer bio recorded it. Absence of evidence here is not evidence of
+completion.
+"""
+import argparse, sqlite3, sys
+from collections import defaultdict, Counter
+sys.path.insert(0,"scripts")
+from entity_resolution import split_name, canon_first, jaro_winkler, first_compatible
+from nppes_lookup import lookup, classify, _con as nppes_con
+
+ap=argparse.ArgumentParser()
+ap.add_argument("--program-id",type=int,required=True)
+ap.add_argument("--terminal-pgy",type=int,default=7)
+a=ap.parse_args()
+
+con=sqlite3.connect("db/neurosurgery_attrition.db"); con.execute("PRAGMA busy_timeout=60000")
+rows=con.execute("""SELECT o.academic_year,o.name_as_listed,o.pgy_numeric
+                    FROM roster_observations o WHERE o.program_id=?
+                    ORDER BY o.academic_year""",(a.program_id,)).fetchall()
+prog=con.execute("SELECT name FROM programs WHERE program_id=?",(a.program_id,)).fetchone()[0]
+people=defaultdict(lambda:{"names":set(),"years":set(),"pgy":{}})
+
+def _merge_key(f,l,existing):
+    """Fuzzy-merge spelling variants within one program.
+
+    Exact keys split people the sources spell differently:
+      'Jonathon Lebovitz' vs 'Jonathan Lebovitz'  (vowel variant)
+      'El Tecle'          vs 'Najib El Tecle'     (roster printed surname only)
+    Within a single program the candidate pool is tiny, so fuzzy matching here
+    is safe -- and a false SPLIT is the costly error, since it turns one person
+    into a phantom departure plus a phantom arrival.
+    """
+    for (ef,el) in existing:
+        if jaro_winkler(l,el)>=0.93 and first_compatible(f,ef)>=0.85: return (ef,el)
+        # one source gives only the surname: 'El Tecle' vs first='najib' last='el tecle'
+        if l and el and (l.endswith(el) or el.endswith(l)) and abs(len(l)-len(el))<=8:
+            if f==el.split()[0] or ef==l.split()[0] or first_compatible(f,ef)>=0.85:
+                return (ef,el)
+    return None
+
+for ay,name,pgy in rows:
+    f,m,l=split_name(name)
+    k=_merge_key(f,l,people.keys()) or (canon_first(f),l)
+    people[k]["names"].add(name); people[k]["years"].add(ay)
+    if pgy: people[k]["pgy"][ay]=pgy
+# "Current" = the latest year with a FULL roster capture. A match/intern post
+# (e.g. Instagram, source_type 'instagram') names only the new interns; letting
+# it set the current year would turn everyone else into a phantom departure.
+# New interns seen only there count as in training until something says
+# otherwise (a news item or bio confirming they left).
+full=[r[0] for r in con.execute("""SELECT DISTINCT academic_year FROM roster_snapshots
+        WHERE program_id=? AND source_type NOT IN ('instagram','other')""",(a.program_id,))]
+years=sorted({r[0] for r in rows})
+last_obs=max(full) if full else (years[-1] if years else None)
+
+# bio-derived training history, keyed loosely on surname+first initial
+def _bio_key(n):
+    f,mm,l=split_name(n); return (f[:1],l)
+def _full_key(n):
+    f,mm,l=split_name(n); return (f,l)
+# initial+surname is loose enough to merge 'Dan'/'Daniel', but collides for
+# distinct people ('Rishi Lall' / 'Rohan Lall', Northwestern): prefer an exact
+# first-name key, and never fall back to the initial key when it is shared.
+_init_owners={}
+for (nm,) in con.execute("SELECT DISTINCT name_as_listed FROM roster_observations WHERE program_id=?",(a.program_id,)):
+    _init_owners.setdefault(_bio_key(nm),set()).add(_full_key(nm))
+def _lookup(d_full,d_init,name):
+    fk=_full_key(name)
+    if fk in d_full: return d_full[fk]
+    ik=_bio_key(name)
+    if len(_init_owners.get(ik,()))>1: return None
+    return d_init.get(ik)
+bio={}; bio_elsewhere={}; bio_start={}; bio_end={}
+bioF={}; bio_elsewhereF={}; bio_startF={}; bio_endF={}
+for r in con.execute("""SELECT resident_name,institution,end_year,completed,program_id,start_year,
+                               departure_type, notes FROM training_history"""):
+    for k,B,E,S_,O in ((_bio_key(r[0]),bio,bio_end,bio_start,bio_elsewhere),(_full_key(r[0]),bioF,bio_endF,bio_startF,bio_elsewhereF)):
+        if r[4]==a.program_id or (r[1] and "Saint Louis" in r[1] and a.program_id==60):
+            B[k]={"completed":r[3],"end":r[2],"dep":(r[6] if len(r)>6 else None),
+                  "died":bool(r[7] and "died during training" in r[7].lower())}
+            if r[2]: E[k]=r[2]
+            if r[5]: S_[k]=r[5]        # a stated start year beats any inference
+        elif r[3]=="yes" and r[1]:
+            O[k]=r[1][:34]
+
+nc=nppes_con()
+print(f"\n{prog}")
+print(f"{'entry':6s} {'name':24s} {'grad':6s} {'last':8s} {'PGY':3s} {'evidence':12s} OUTCOME")
+print("-"*114)
+def _entry(v):
+    """Entry year, preferring ANY PGY-labelled observation over first-seen.
+
+    Keying on the FIRST year is wrong when a person first appears on an
+    unlabelled roster: Paul Birinyi first shows up on the 2012 roster (no PGY)
+    but is PGY-7 in 2016-17, so he entered 2010, not 2012. Use the earliest
+    PGY-labelled observation; fall back to first-seen only when no observation
+    anywhere carries a PGY.
+    """
+    if v["pgy"]:
+        ay=min(v["pgy"])
+        return (int(ay[:4])-(v["pgy"][ay]-1), 0)
+    return (int(sorted(v["years"])[0][:4]), 1)
+
+out=[]
+def _sort_entry(kv):
+    nm=max(kv[1]["names"],key=len)
+    bs=_lookup(bio_startF,bio_start,nm)
+    return ((bs,0) if bs else _entry(kv[1]), kv[0][1])
+
+for k,v in sorted(people.items(), key=_sort_entry):
+    name=max(v["names"],key=len)
+    seen=sorted(v["years"]); first,last=seen[0],seen[-1]
+    lp=v["pgy"].get(last)
+    entry,uncertain=_entry(v)
+    bs=_lookup(bio_startF,bio_start,name)
+    if bs: entry,uncertain=bs,0      # bio-stated start year is rank-1 evidence
+    if last>=last_obs: rv="in_training"
+    elif lp and lp>=a.terminal_pgy: rv="completed"
+    else: rv="left_roster"
+    f2,m2,l2=split_name(name)
+    k2=classify(lookup(f2,l2,con=nc))
+    sig=k2["signal"]
+    # an ambiguous name means NPPES may be a different person (e.g. "Michael
+    # Jin", WashU: a New York radiologist) -- never let it decide an outcome
+    if k2.get("ambiguous") and sig=="other_specialty": sig="ambiguous"
+    th=_lookup(bioF,bio,name)
+    be=_lookup(bio_endF,bio_end,name)
+    if rv=="in_training" and th and th.get("completed")=="yes" and be and int(be)<=2026:
+        # final roster year is the program's latest, but a source records graduation
+        # (e.g. June-2026 grads when no 2026-27 roster exists) -- phase 2, 2026-09-28
+        outcome,ev="COMPLETED","bio"
+    elif rv=="in_training":
+        outcome,ev="IN TRAINING","roster"
+    elif be and int(be)>=int(last_obs[:4])+1 and not (th and th["completed"]):
+        # external source (US News/Doximity) states a residency end after the current year:
+        # off this year's page (away/enfolded rotation) but still in training -- Cohen Cohen, Mayo
+        outcome,ev="IN TRAINING","bio"
+    elif th and th["completed"]=="yes":
+        outcome,ev="COMPLETED","bio"
+    elif th and th["completed"]=="unknown":
+        outcome,ev="LEFT -> outcome unknown","bio:none"
+    elif th and th["completed"]=="no":
+        dep=th.get("dep")
+        if th.get("died"):
+            outcome,ev="DIED DURING TRAINING","bio"
+            print(f"{entry:<5d}  {name[:24]:24s} {str(be or '-'):6s} {last[:7]:8s} {str(lp or '-'):3s} {ev:12s} {outcome}")
+            out.append(outcome); continue
+        # cross-program match: FULL first name + surname only. The initial key
+        # collided across programs (Joseph vs John Morrison, Pons Torres vs Jose
+        # Torres, Rodriguez) and produced false 'TRANSFERRED' labels, phase 2 2026-09-28.
+        elsewhere=bio_elsewhereF.get(_full_key(name))
+        if dep=="transferred":
+            outcome,ev=(f"LEFT -> TRANSFERRED"+(f" ({elsewhere})" if elsewhere else ""),"bio")
+        elif dep=="switched_specialty":
+            outcome,ev="LEFT -> SWITCHED SPECIALTY","bio"
+        elif dep=="left_medicine":
+            outcome,ev="LEFT -> LEFT MEDICINE/OTHER","bio"
+        elif elsewhere: outcome,ev=f"LEFT -> TRANSFERRED ({elsewhere})","bio"
+        else: outcome,ev="LEFT -> did not complete","bio"
+    elif rv=="completed":
+        outcome,ev="COMPLETED","roster PGY-{}".format(a.terminal_pgy)
+    elif sig=="other_specialty":
+        # NPPES name match alone is NOT evidence (phase 2 found >8 namesake errors:
+        # Lim, Leavitt, Shen, Shank, Hatcher, Chen, Reddy, McClure...). Flag it, don't count it.
+        outcome,ev="LEFT -> outcome unknown (NPI hint: other specialty)","npi?"
+    else:
+        # taxonomy alone cannot close this: see Zarzour / Alexopoulos
+        outcome,ev="LEFT -> outcome unknown","--"
+    amb=" [ambiguous name]" if k2.get("ambiguous") else ""
+    mark="?" if uncertain else " "
+    print(f"{entry:<5d}{mark} {name[:24]:24s} {str(be or '-'):6s} {last[:7]:8s} {str(lp or '-'):3s} {ev:12s} {outcome}{amb}")
+    out.append(outcome)
+nc.close()
+print("\nsummary:")
+for o,n in Counter(out).most_common(): print(f"   {n:3d}  {o}")
+print("\nNote: 'completed neurosurgery (here or elsewhere)' cannot distinguish a")
+print("graduate from a transfer-out. Separating those needs a graduates list,")
+print("which this program does not publish.")
+con.close()

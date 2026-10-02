@@ -1,0 +1,930 @@
+[
+ {
+  "source_url": "https://web.archive.org/web/20120221044016/http://neurosurgery.uams.edu:80/sitemap/?sid=29",
+  "source_type": "other",
+  "captured_at": "2012-02-21",
+  "academic_year": "2011-2012",
+  "note": "PARTIAL: old ASP CMS sitemap lists 7 resident profile sub-pages under Residents (?id=8043, never archived). Names only, no PGY; clearly incomplete (Whit Morris, 2011 intern, absent). Phase 2: Elswick and Raber PGYs inferred from their later programs; Tabbosha was an assistant professor by Aug 2012 (news.uams.edu 2012-08-11).",
+  "rows": [
+   {
+    "name": "Clay M. Elswick",
+    "pgy": 1,
+    "context": "sitemap link: Clay M. Elswick, MD | PGY inferred: Wayne State (p125) roster lists him Year 6 in 2016-17 -> entry 2011"
+   },
+   {
+    "name": "Monir Tabbosha",
+    "pgy": null,
+    "context": "sitemap link: Monir Tabbosha, MD"
+   },
+   {
+    "name": "Gautam Kanu Gandhi",
+    "pgy": null,
+    "context": "sitemap link: Gautam Kanu Gandhi, MD, PhD"
+   },
+   {
+    "name": "Blake Phillips",
+    "pgy": null,
+    "context": "sitemap link: Blake Phillips, MD"
+   },
+   {
+    "name": "Justin Dowdy",
+    "pgy": null,
+    "context": "sitemap link: Justin Dowdy, MD"
+   },
+   {
+    "name": "Ram Vasudevan",
+    "pgy": null,
+    "context": "sitemap link: Ram Vasudevan, MD"
+   },
+   {
+    "name": "Michael Raber",
+    "pgy": 3,
+    "context": "sitemap link: Michael Raber, MD | PGY inferred: Brigham (p37) roster lists him PGY-4 (research) 2012-13 -> transferred out after 2011-12"
+   }
+  ]
+ },
+ {
+  "source_url": "manual reconstruction (no 2012-2013 roster captured)",
+  "source_type": "manual",
+  "captured_at": "2012-12-01",
+  "academic_year": "2012-2013",
+  "note": "RECONSTRUCTED (phase 2): no 2012-2013 roster exists (ASP CMS residents page ?id=8043 never archived; CC 0 records). Only people listed on BOTH the Feb-2012 sitemap and the 2014-15 homepage residents menu. Partial: Bradley, Morris, Burton, Pinckard-Dover, Walters are not added (not listed before 2014-15).",
+  "rows": [
+   {
+    "name": "Clay M. Elswick",
+    "pgy": 2,
+    "reconstructed": true,
+    "context": "on 2012-02 sitemap and 2014-11 residents menu; entry 2011 (Wayne State Year 6 2016-17)"
+   },
+   {
+    "name": "Gautam Kanu Gandhi",
+    "pgy": null,
+    "reconstructed": true,
+    "context": "on 2012-02 sitemap and 2014-11 residents menu (no PGY anywhere)"
+   },
+   {
+    "name": "Blake Phillips",
+    "pgy": null,
+    "reconstructed": true,
+    "context": "on 2012-02 sitemap and 2014-11 residents menu (no PGY anywhere)"
+   },
+   {
+    "name": "Justin Dowdy",
+    "pgy": null,
+    "reconstructed": true,
+    "context": "on 2012-02 sitemap and 2014-11 residents menu (no PGY anywhere)"
+   }
+  ]
+ },
+ {
+  "source_url": "manual reconstruction (no 2013-2014 roster captured)",
+  "source_type": "manual",
+  "captured_at": "2013-12-01",
+  "academic_year": "2013-2014",
+  "note": "RECONSTRUCTED (phase 2): no 2013-2014 roster exists (ASP CMS residents page ?id=8043 never archived; CC 0 records). Only people listed on BOTH the Feb-2012 sitemap and the 2014-15 homepage residents menu. Partial: Bradley, Morris, Burton, Pinckard-Dover, Walters are not added (not listed before 2014-15).",
+  "rows": [
+   {
+    "name": "Clay M. Elswick",
+    "pgy": 3,
+    "reconstructed": true,
+    "context": "on 2012-02 sitemap and 2014-11 residents menu; entry 2011 (Wayne State Year 6 2016-17)"
+   },
+   {
+    "name": "Gautam Kanu Gandhi",
+    "pgy": null,
+    "reconstructed": true,
+    "context": "on 2012-02 sitemap and 2014-11 residents menu (no PGY anywhere)"
+   },
+   {
+    "name": "Blake Phillips",
+    "pgy": null,
+    "reconstructed": true,
+    "context": "on 2012-02 sitemap and 2014-11 residents menu (no PGY anywhere)"
+   },
+   {
+    "name": "Justin Dowdy",
+    "pgy": null,
+    "reconstructed": true,
+    "context": "on 2012-02 sitemap and 2014-11 residents menu (no PGY anywhere)"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20141121120957/http://neurosurgery.uams.edu/",
+  "source_type": "other",
+  "captured_at": "2014-11-21",
+  "academic_year": "2014-2015",
+  "note": "PARTIAL: homepage Residents nav menu (profile links), names only, no PGY. Includes 2014 intern Wilcox (=Angela Palmer) but lacks David Paulson (PGY-7 in 2016-17) and Patrick Paullus; menu unchanged through 2016-03 (stale). Phase 2: PGYs filled in only where a later roster (here or at the program they moved to) fixes the entry year; Bahgat, Dowdy, Gandhi, Phillips stay null (pre-2011 entrants).",
+  "rows": [
+   {
+    "name": "Diaa Bahgat",
+    "pgy": null,
+    "context": "nav link: Diaa Bahgat, MD"
+   },
+   {
+    "name": "Lucas Bradley",
+    "pgy": 5,
+    "context": "nav link: Lucas Bradley, MD | PGY inferred (phase 2): PGY-7 on 2016-17 roster"
+   },
+   {
+    "name": "Matthew Burton",
+    "pgy": 3,
+    "context": "nav link: Matthew Burton, MD | PGY inferred (phase 2): Missouri (p94) PGY-4 2015-16; Missouri Dec-2014 roster lacks him; PubMed 2015 UAMS neurosurgery affiliation (PMID 26318129)"
+   },
+   {
+    "name": "Justin Dowdy",
+    "pgy": null,
+    "context": "nav link: Justin Dowdy, MD"
+   },
+   {
+    "name": "Clay M. Elswick",
+    "pgy": 4,
+    "context": "nav link: Clay M. Elswick, MD | PGY inferred (phase 2): Wayne State (p125) Year 6 2016-17; WSU Nov-2015 roster lacks him"
+   },
+   {
+    "name": "Gautam Kanu Gandhi",
+    "pgy": null,
+    "context": "nav link: Gautam Kanu Gandhi, MD, PhD"
+   },
+   {
+    "name": "Whit Morris",
+    "pgy": 4,
+    "context": "nav link: Whit Morris, M.D. | PGY inferred (phase 2): PGY-6 on 2016-17 roster"
+   },
+   {
+    "name": "Heather Pinckard-Dover",
+    "pgy": 2,
+    "context": "nav link: Heather Pinckard, MD | PGY inferred (phase 2): PGY-4 on 2016-17 roster"
+   },
+   {
+    "name": "Blake Phillips",
+    "pgy": null,
+    "context": "nav link: Blake Phillips, MD"
+   },
+   {
+    "name": "Jerry Walters",
+    "pgy": 2,
+    "context": "nav link: Jerry Walters, MD | PGY inferred (phase 2): PGY-4 on 2016-17 roster"
+   },
+   {
+    "name": "Angela Palmer",
+    "pgy": 1,
+    "context": "nav link: Martha Angela Wilcox, MD | PGY inferred (phase 2): PGY-3 on 2016-17 roster"
+   }
+  ]
+ },
+ {
+  "source_url": "manual reconstruction (no 2015-16 roster captured)",
+  "source_type": "manual",
+  "captured_at": "2016-01-01",
+  "academic_year": "2015-2016",
+  "note": "RECONSTRUCTED: no roster capture for 2015-16 (homepage nav stale = 2014 list). Only residents listed in 2014-15 nav AND 2016-17 profiles; PGY = 2016-17 PGY minus 1. Phase 2: added Elswick (bracketed by UAMS 2014-15 and the Wayne State rosters of Nov 2015 [absent] and 2016-17 [Year 6]).",
+  "rows": [
+   {
+    "name": "Lucas Bradley",
+    "pgy": 6,
+    "reconstructed": true,
+    "context": "in 2014-11 nav list and 2016-17 roster at PGY-7"
+   },
+   {
+    "name": "Whit Morris",
+    "pgy": 5,
+    "reconstructed": true,
+    "context": "in 2014-11 nav list and 2016-17 roster at PGY-6"
+   },
+   {
+    "name": "Heather Pinckard-Dover",
+    "pgy": 3,
+    "reconstructed": true,
+    "context": "in 2014-11 nav list and 2016-17 roster at PGY-4"
+   },
+   {
+    "name": "Jerry Walters",
+    "pgy": 3,
+    "reconstructed": true,
+    "context": "in 2014-11 nav list and 2016-17 roster at PGY-4"
+   },
+   {
+    "name": "Angela Palmer",
+    "pgy": 2,
+    "reconstructed": true,
+    "context": "in 2014-11 nav list and 2016-17 roster at PGY-3"
+   },
+   {
+    "name": "Clay M. Elswick",
+    "pgy": 5,
+    "reconstructed": true,
+    "context": "on UAMS 2014-15 list (PGY-4 inferred); absent from Wayne State Nov-2015 roster; Wayne State Year 6 2016-17 -> still at UAMS 2015-16 (phase 2)"
+   }
+  ]
+ },
+ {
+  "source_url": "http://neurosurgery.uams.edu/residents/ + 10 linked profile pages /residents/<slug>/ (Common Crawl CC-MAIN-2017-13, 2017-03-28)",
+  "source_type": "other",
+  "captured_at": "2017-03-28",
+  "academic_year": "2016-2017",
+  "note": "Residency Program nav lists 10 residents; PGY from each profile page (same list in CC-MAIN-2017-17 Apr and Wayback homepage 2017-06-07).",
+  "rows": [
+   {
+    "name": "Lucas Bradley",
+    "pgy": 7,
+    "context": "Lucas Bradley, MD | PGY- 7 Co-Chief Resident (profile residents_bradley_)"
+   },
+   {
+    "name": "Paul Lee",
+    "pgy": 1,
+    "context": "Paul Lee, M.D. | PGY-1 (profile residents_paul_lee_m_d_)"
+   },
+   {
+    "name": "Angela Palmer",
+    "pgy": 3,
+    "context": "Angela Palmer, MD | PGY-3 (profile residents_wilcox_)"
+   },
+   {
+    "name": "Marcus Stephens",
+    "pgy": 2,
+    "context": "Marcus Stephens, M.D. | PGY-2 (profile residents_marcus_stephens_m_d_)"
+   },
+   {
+    "name": "Heather Pinckard-Dover",
+    "pgy": 4,
+    "context": "Heather Pinckard, MD | PGY -4 (profile residents_heather_pinckard_md_)"
+   },
+   {
+    "name": "David Paulson",
+    "pgy": 7,
+    "context": "David Paulson, M.D. | PGY -7 Co-Chief Resident (profile residents_david_paulson_m_d_)"
+   },
+   {
+    "name": "Jerry Walters",
+    "pgy": 4,
+    "context": "Jerry Walters, MD | PGY -4 (profile residents_walters_)"
+   },
+   {
+    "name": "Patrick Paullus",
+    "pgy": 3,
+    "context": "Patrick Paullus, M.D. | PGY-3 (profile residents_patrick_paullus_m_d_)"
+   },
+   {
+    "name": "Whit Morris",
+    "pgy": 6,
+    "context": "Whit Morris, M.D. | PGY-6 (profile residents_morris_)"
+   },
+   {
+    "name": "Kelsey Hundley",
+    "pgy": 1,
+    "context": "Kelsey Hundley, M.D | PGY 1 (profile residents_kelsey_hundley_m_d_)"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20171025222134/http://neurosurgery.uams.edu:80/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2017-10-25",
+  "academic_year": "2017-2018",
+  "note": "",
+  "rows": [
+   {
+    "name": "Matthew Helton",
+    "pgy": 1,
+    "context": "Matthew Helton, M.D. | PGY-1"
+   },
+   {
+    "name": "Elena Rose Milosavljevic",
+    "pgy": 1,
+    "context": "Elena Rose Milosavljevic, M.D. | PGY-1"
+   },
+   {
+    "name": "Kelsey Hundley",
+    "pgy": 2,
+    "context": "Kelsey Hundley, M.D. | PGY-2"
+   },
+   {
+    "name": "Paul Lee",
+    "pgy": 2,
+    "context": "Paul Lee, M.D. | PGY-2"
+   },
+   {
+    "name": "Marcus Stephens",
+    "pgy": 3,
+    "context": "Marcus Stephens, M.D. | PGY-3"
+   },
+   {
+    "name": "Angela Palmer",
+    "pgy": 4,
+    "context": "Angela Palmer, M.D. | PGY-4"
+   },
+   {
+    "name": "Patrick Paullus",
+    "pgy": 4,
+    "context": "Patrick Paullus, M.D. | PGY-4"
+   },
+   {
+    "name": "Taylor Wilson",
+    "pgy": 4,
+    "context": "Taylor Wilson, M.D. | PGY-4"
+   },
+   {
+    "name": "Heather Pinckard-Dover",
+    "pgy": 5,
+    "context": "Heather Pinckard, M.D. | PGY-5"
+   },
+   {
+    "name": "Jerry Walters",
+    "pgy": 5,
+    "context": "Jerry Walters, M.D. | PGY-5"
+   },
+   {
+    "name": "Whit Morris",
+    "pgy": 7,
+    "context": "Whit Morris, M.D. | PGY-7"
+   }
+  ]
+ },
+ {
+  "source_url": "https://neurosurgery.uams.edu/residents/current-residents/ (Common Crawl CC-MAIN-2018-39, 2018-09-23)",
+  "source_type": "other",
+  "captured_at": "2018-09-23",
+  "academic_year": "2018-2019",
+  "note": "No Wayback capture Feb 2018-Oct 2019. CC-MAIN-2018-47 (2018-11-14) and 2019-04/13/22 show the same list minus Taylor Wilson.",
+  "rows": [
+   {
+    "name": "Natalie Guley",
+    "pgy": 1,
+    "context": "Natalie Guley, M.D. | PGY-1"
+   },
+   {
+    "name": "Matthew Helton",
+    "pgy": 2,
+    "context": "Matthew Helton, M.D. | PGY-2"
+   },
+   {
+    "name": "Kelsey Hundley",
+    "pgy": 3,
+    "context": "Kelsey Hundley, M.D. | PGY-3"
+   },
+   {
+    "name": "Paul Lee",
+    "pgy": 3,
+    "context": "Paul Lee, M.D. | PGY-3"
+   },
+   {
+    "name": "Marcus Stephens",
+    "pgy": 4,
+    "context": "Marcus Stephens, M.D. | PGY-4"
+   },
+   {
+    "name": "Angela Palmer",
+    "pgy": 5,
+    "context": "Angela Palmer, M.D. | PGY-5"
+   },
+   {
+    "name": "Patrick Paullus",
+    "pgy": 5,
+    "context": "Patrick Paullus, M.D. | PGY-5"
+   },
+   {
+    "name": "Taylor Wilson",
+    "pgy": 5,
+    "context": "Taylor Wilson, M.D. | PGY-5"
+   },
+   {
+    "name": "Heather Pinckard-Dover",
+    "pgy": 6,
+    "context": "Heather Pinckard-Dover, M.D. | PGY-6 Co-Chief"
+   },
+   {
+    "name": "Jerry Walters",
+    "pgy": 6,
+    "context": "Jerry Walters, M.D. | PGY-6 Co-Chief"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20191015161951/https://neurosurgery.uams.edu/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2019-10-15",
+  "academic_year": "2019-2020",
+  "note": "",
+  "rows": [
+   {
+    "name": "Olusoji Afuwape",
+    "pgy": 1,
+    "context": "Olusoji Afuwape, M.D., Ph.D. | PGY-1"
+   },
+   {
+    "name": "Brooke M. Elberson",
+    "pgy": 1,
+    "context": "Benjamin Elberson, M.D., Ph.D. | PGY-1"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 1,
+    "context": "Ryan Turner, M.D. | PGY-1"
+   },
+   {
+    "name": "Natalie Guley",
+    "pgy": 2,
+    "context": "Natalie Guley, M.D. | PGY-2"
+   },
+   {
+    "name": "Matthew Helton",
+    "pgy": 3,
+    "context": "Matthew Helton, M.D. | PGY-3"
+   },
+   {
+    "name": "Kelsey Hundley",
+    "pgy": 4,
+    "context": "Kelsey Hundley, M.D. | PGY-4"
+   },
+   {
+    "name": "Marcus Stephens",
+    "pgy": 5,
+    "context": "Marcus Stephens, M.D. | PGY-5"
+   },
+   {
+    "name": "Angela Palmer",
+    "pgy": 6,
+    "context": "Angela Palmer, M.D. | PGY-6"
+   },
+   {
+    "name": "Patrick Paullus",
+    "pgy": 6,
+    "context": "Patrick Paullus, M.D. | PGY-6"
+   },
+   {
+    "name": "Heather Pinckard-Dover",
+    "pgy": 7,
+    "context": "Heather Pinckard-Dover, M.D. | PGY-7"
+   },
+   {
+    "name": "Jerry Walters",
+    "pgy": 7,
+    "context": "Jerry Walters, M.D. | PGY-7"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20201021071731/https://neurosurgery.uams.edu/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2020-10-21",
+  "academic_year": "2020-2021",
+  "note": "",
+  "rows": [
+   {
+    "name": "William Coggins",
+    "pgy": 1,
+    "context": "William Coggins, M.D. | PGY-1"
+   },
+   {
+    "name": "Zach Porter",
+    "pgy": 1,
+    "context": "Zach Porter, M.D. | PGY-1"
+   },
+   {
+    "name": "Olusoji Afuwape",
+    "pgy": 2,
+    "context": "Olusoji Afuwape, M.D., Ph.D. | PGY-2"
+   },
+   {
+    "name": "Brooke M. Elberson",
+    "pgy": 2,
+    "context": "Benjamin Elberson, M.D., Ph.D. | PGY-2"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 2,
+    "context": "Ryan Turner, M.D. | PGY-2"
+   },
+   {
+    "name": "Natalie Guley",
+    "pgy": 3,
+    "context": "Natalie Guley, M.D., Ph.D. | PGY-3"
+   },
+   {
+    "name": "Matthew Helton",
+    "pgy": 4,
+    "context": "Matthew Helton, M.D. | PGY-4"
+   },
+   {
+    "name": "Kelsey Hundley",
+    "pgy": 5,
+    "context": "Kelsey Hundley, M.D. | PGY-5"
+   },
+   {
+    "name": "Marcus Stephens",
+    "pgy": 6,
+    "context": "Marcus Stephens, M.D. | PGY-6"
+   },
+   {
+    "name": "Angela Palmer",
+    "pgy": 7,
+    "context": "Angela Palmer, M.D. | PGY-7"
+   },
+   {
+    "name": "Patrick Paullus",
+    "pgy": 7,
+    "context": "Patrick Paullus, M.D. | PGY-7"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20211207024455/https://neurosurgery.uams.edu/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2021-12-07",
+  "academic_year": "2021-2022",
+  "note": "Oct 2021 capture lists 'Benjamin Elberson'; Dec 2021 'Brooke M. Elberson' (same person).",
+  "rows": [
+   {
+    "name": "Alaina Body",
+    "pgy": 1,
+    "context": "Alaina Body, M.D. | PGY-1"
+   },
+   {
+    "name": "Kevin Thomas",
+    "pgy": 1,
+    "context": "Kevin Thomas, M.D., MPH | PGY-1"
+   },
+   {
+    "name": "William Coggins",
+    "pgy": 2,
+    "context": "William Coggins, M.D. | PGY-2"
+   },
+   {
+    "name": "Zach Porter",
+    "pgy": 2,
+    "context": "Zach Porter, M.D. | PGY-2"
+   },
+   {
+    "name": "Olusoji Afuwape",
+    "pgy": 3,
+    "context": "Olusoji Afuwape, M.D., Ph.D. | PGY-3"
+   },
+   {
+    "name": "Brooke M. Elberson",
+    "pgy": 3,
+    "context": "Brooke M. Elberson, M.D., Ph.D. | PGY-3"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 3,
+    "context": "Ryan Turner, M.D. | PGY-3"
+   },
+   {
+    "name": "Natalie Guley",
+    "pgy": 4,
+    "context": "Natalie Guley, M.D., Ph.D. | PGY-4"
+   },
+   {
+    "name": "Matthew Helton",
+    "pgy": 5,
+    "context": "Matthew Helton, M.D. | PGY-5"
+   },
+   {
+    "name": "Kelsey Hundley",
+    "pgy": 6,
+    "context": "Kelsey Hundley, M.D. | PGY-6"
+   },
+   {
+    "name": "Marcus Stephens",
+    "pgy": 7,
+    "context": "Marcus Stephens, M.D. | PGY-7"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20220810010546/https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2022-08-10",
+  "academic_year": "2022-2023",
+  "note": "Aug 2022 (already advanced, new interns). Dec 2022 capture no longer lists Kevin Thomas (PGY-2).",
+  "rows": [
+   {
+    "name": "Sténia Accilien",
+    "pgy": 1,
+    "context": "Sténia Accilien, M.D. | PGY-1"
+   },
+   {
+    "name": "Karrar Aljiboori",
+    "pgy": 1,
+    "context": "Karrar Aljiboori, M.D. | PGY-1"
+   },
+   {
+    "name": "Alaina Body",
+    "pgy": 2,
+    "context": "Alaina Body, M.D. | PGY-2"
+   },
+   {
+    "name": "Kevin Thomas",
+    "pgy": 2,
+    "context": "Kevin Thomas, M.D., MPH | PGY-2"
+   },
+   {
+    "name": "William Coggins",
+    "pgy": 3,
+    "context": "William Coggins, M.D. | PGY-3"
+   },
+   {
+    "name": "Zach Porter",
+    "pgy": 3,
+    "context": "Zach Porter, M.D. | PGY-3"
+   },
+   {
+    "name": "Brooke M. Elberson",
+    "pgy": 4,
+    "context": "Brooke M. Elberson, M.D., Ph.D. | PGY-4"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 4,
+    "context": "Ryan Turner, M.D. | PGY-4"
+   },
+   {
+    "name": "Natalie Guley",
+    "pgy": 5,
+    "context": "Natalie Guley, M.D., Ph.D. | PGY-5"
+   },
+   {
+    "name": "Matthew Helton",
+    "pgy": 6,
+    "context": "Matthew Helton, M.D. | PGY-6"
+   },
+   {
+    "name": "Kelsey Hundley",
+    "pgy": 7,
+    "context": "Kelsey Hundley, M.D. | PGY-7"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20231204094613/https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2023-12-04",
+  "academic_year": "2023-2024",
+  "note": "",
+  "rows": [
+   {
+    "name": "Mengqian Bu",
+    "pgy": 1,
+    "context": "Mengqian Bu, M.D., M.Ed. | PGY-1"
+   },
+   {
+    "name": "Arthur Rezayev",
+    "pgy": 1,
+    "context": "Arthur Rezayev, M.D. | PGY-1"
+   },
+   {
+    "name": "Sténia Accilien",
+    "pgy": 2,
+    "context": "Sténia Accilien, M.D. | PGY-2"
+   },
+   {
+    "name": "Karrar Aljiboori",
+    "pgy": 2,
+    "context": "Karrar Aljiboori, M.D. | PGY-2"
+   },
+   {
+    "name": "Alaina Body",
+    "pgy": 3,
+    "context": "Alaina Body, M.D. | PGY-3"
+   },
+   {
+    "name": "William Coggins",
+    "pgy": 4,
+    "context": "William Coggins, M.D. | PGY-4"
+   },
+   {
+    "name": "Zach Porter",
+    "pgy": 4,
+    "context": "Zach Porter, M.D. | PGY-4"
+   },
+   {
+    "name": "Brooke M. Elberson",
+    "pgy": 5,
+    "context": "Brooke M. Elberson, M.D., Ph.D. | PGY-5"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 5,
+    "context": "Ryan Turner, M.D. | PGY-5"
+   },
+   {
+    "name": "Natalie Guley",
+    "pgy": 6,
+    "context": "Natalie Guley, M.D., Ph.D. | PGY-6"
+   },
+   {
+    "name": "Matthew Helton",
+    "pgy": 7,
+    "context": "Matthew Helton, M.D. | PGY-7"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20241106164816/https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2024-11-06",
+  "academic_year": "2024-2025",
+  "note": "Mar 2025 capture no longer lists Austin Robbins (PGY-1).",
+  "rows": [
+   {
+    "name": "Alex Gilman",
+    "pgy": 1,
+    "context": "Alex Gilman, M.D. | PGY-1"
+   },
+   {
+    "name": "Austin Robbins",
+    "pgy": 1,
+    "context": "Austin Robbins, M.D. | PGY-1"
+   },
+   {
+    "name": "Mengqian Bu",
+    "pgy": 2,
+    "context": "Mengqian Bu, M.D., M.Ed. | PGY-2"
+   },
+   {
+    "name": "Arthur Rezayev",
+    "pgy": 2,
+    "context": "Arthur Rezayev, M.D. | PGY-2"
+   },
+   {
+    "name": "Sténia Accilien",
+    "pgy": 3,
+    "context": "Sténia Accilien, M.D. | PGY-3"
+   },
+   {
+    "name": "Karrar Aljiboori",
+    "pgy": 3,
+    "context": "Karrar Aljiboori, M.D. | PGY-3"
+   },
+   {
+    "name": "Alaina Body",
+    "pgy": 4,
+    "context": "Alaina Body, M.D. | PGY-4"
+   },
+   {
+    "name": "William Coggins",
+    "pgy": 5,
+    "context": "William Coggins, M.D. | PGY-5"
+   },
+   {
+    "name": "Zach Porter",
+    "pgy": 5,
+    "context": "Zach Porter, M.D. | PGY-5"
+   },
+   {
+    "name": "Brooke M. Elberson",
+    "pgy": 6,
+    "context": "Brooke M. Elberson, M.D., Ph.D. | PGY-6"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 6,
+    "context": "Ryan Turner, M.D. | PGY-6"
+   },
+   {
+    "name": "Natalie Guley",
+    "pgy": 7,
+    "context": "Natalie Guley, M.D., Ph.D. | PGY-7"
+   }
+  ]
+ },
+ {
+  "source_url": "https://web.archive.org/web/20251212175849/https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+  "source_type": "wayback",
+  "captured_at": "2025-12-12",
+  "academic_year": "2025-2026",
+  "note": "",
+  "rows": [
+   {
+    "name": "Said Maldonado",
+    "pgy": 1,
+    "context": "Said Maldonado, M.D. | PGY-1"
+   },
+   {
+    "name": "Jordyn Mullins",
+    "pgy": 1,
+    "context": "Jordyn Mullins, M.D. | PGY-1"
+   },
+   {
+    "name": "Kierany Shelvin",
+    "pgy": 2,
+    "context": "Kierany Shelvin, M.D. | PGY-2"
+   },
+   {
+    "name": "Mengqian Bu",
+    "pgy": 3,
+    "context": "Mengqian Bu, M.D., M.Ed. | PGY-3"
+   },
+   {
+    "name": "Arthur Rezayev",
+    "pgy": 3,
+    "context": "Arthur Rezayev, M.D. | PGY-3"
+   },
+   {
+    "name": "Sténia Accilien",
+    "pgy": 4,
+    "context": "Sténia Accilien, M.D. | PGY-4"
+   },
+   {
+    "name": "Karrar Aljiboori",
+    "pgy": 4,
+    "context": "Karrar Aljiboori, M.D. | PGY-4"
+   },
+   {
+    "name": "Alaina Body",
+    "pgy": 5,
+    "context": "Alaina Body, M.D. | PGY-5"
+   },
+   {
+    "name": "William Coggins",
+    "pgy": 6,
+    "context": "William Coggins, M.D. | PGY-6"
+   },
+   {
+    "name": "Zach Porter",
+    "pgy": 6,
+    "context": "Zach Porter, M.D. | PGY-6"
+   },
+   {
+    "name": "Brooke M. Elberson",
+    "pgy": 7,
+    "context": "Brooke M. Elberson, M.D., Ph.D. | PGY-7"
+   },
+   {
+    "name": "Ryan Turner",
+    "pgy": 7,
+    "context": "Ryan Turner, M.D. | PGY-7"
+   }
+  ]
+ },
+ {
+  "source_url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+  "source_type": "live",
+  "captured_at": "2026-09-27",
+  "academic_year": "2026-2027",
+  "note": "live page, advanced vs 2025-26",
+  "rows": [
+   {
+    "name": "Andrew Mathews",
+    "pgy": 1,
+    "context": "Andrew Mathews, M.D. | PGY-1"
+   },
+   {
+    "name": "Samuel Bauserman",
+    "pgy": 1,
+    "context": "Samuel Bauserman, M.D. | PGY-1"
+   },
+   {
+    "name": "Said Maldonado",
+    "pgy": 2,
+    "context": "Said Maldonado, M.D. | PGY-2"
+   },
+   {
+    "name": "Jordyn Mullins",
+    "pgy": 2,
+    "context": "Jordyn Mullins, M.D. | PGY-2"
+   },
+   {
+    "name": "Kierany Shelvin",
+    "pgy": 3,
+    "context": "Kierany Shelvin, M.D. | PGY-3"
+   },
+   {
+    "name": "Mengqian Bu",
+    "pgy": 4,
+    "context": "Mengqian Bu, M.D., M.Ed. | PGY-4"
+   },
+   {
+    "name": "Arthur Rezayev",
+    "pgy": 4,
+    "context": "Arthur Rezayev, M.D. | PGY-4"
+   },
+   {
+    "name": "Sténia Accilien",
+    "pgy": 5,
+    "context": "Sténia Accilien, M.D. | PGY-5"
+   },
+   {
+    "name": "Karrar Aljiboori",
+    "pgy": 5,
+    "context": "Karrar Aljiboori, M.D. | PGY-5"
+   },
+   {
+    "name": "Alaina Body",
+    "pgy": 6,
+    "context": "Alaina Body, M.D. | PGY-6"
+   },
+   {
+    "name": "William Coggins",
+    "pgy": 7,
+    "context": "William Coggins, M.D. | PGY-7"
+   },
+   {
+    "name": "Zach Porter",
+    "pgy": 7,
+    "context": "Zach Porter, M.D. | PGY-7"
+   }
+  ]
+ }
+]

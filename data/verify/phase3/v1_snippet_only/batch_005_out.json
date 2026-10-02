@@ -1,0 +1,468 @@
+[
+ {
+  "key": "6:bro:ciavarra",
+  "name": "Bronson Ciavarra",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/search snippet: Neurosurgery residency at BSW-Baylor (Temple) 2024-2031; MD McGovern Medical School (UTHealth Houston) 2024",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 in 2025-26; program length 2024-2031 per snippet",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, Baylor Scott & White, Temple TX",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/bronson-ciavarra-md",
+    "type": "search_snippet",
+    "evidence": "in a Neurosurgery Residency program at Baylor Scott & White Medical Center - Baylor College of Medicine (Temple) from 2024 to 2031"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:shr:bindal",
+  "name": "Shray Bindal",
+  "program_id": 6,
+  "identity": "confirmed",
+  "identity_basis": "Doximity snippet: residency neurological surgery BSW-Baylor Temple 2024-2031; MD Univ of Pittsburgh 2024",
+  "residency_stated": [
+   {
+    "institution": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple)",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 in 2025-26",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, Baylor Scott & White, Temple TX",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shray-bindal-md",
+    "type": "search_snippet",
+    "evidence": "enrolled in a residency program in Neurological Surgery from 2024 to 2031"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "6:mia:birney",
+  "name": "Mia Birney",
+  "program_id": 6,
+  "identity": "not_found",
+  "identity_basis": "3 searches (name+program, name+match) found no profile",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "No public profile found; cannot confirm",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [],
+  "searches_used": 2
+ },
+ {
+  "key": "6:sai:khan",
+  "name": "Saif Khan",
+  "program_id": 6,
+  "identity": "not_found",
+  "identity_basis": "Common name; searches found no matching neurosurgery resident profile (only unrelated Asif/Safi Khan BSW physicians)",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "No confirmation",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [],
+  "searches_used": 2
+ },
+ {
+  "key": "7:ari:filippidis",
+  "name": "Aristotelis Filippidis",
+  "program_id": 7,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/search snippet: neurosurgery residency at BIDMC 2016-2022, chief 2022-2023; BIDMC research profile",
+  "residency_stated": [
+   {
+    "institution": "Beth Israel Deaconess Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2016-2023 (chief year 2022-23); fellowship-trained in neurosurgical oncology and functional",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Ascension, Phoenix AZ",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/aristotelis-filippidis-md",
+    "type": "search_snippet",
+    "evidence": "completed a residency in Neurological Surgery from 2016-2022 and served as Chief Residency ... 2022-2023 at Beth Israel Deaconess"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/aristotelis-filippidis-840530",
+    "type": "usnews",
+    "evidence": "listed Phoenix AZ neurosurgeon"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "7:dom:harris",
+  "name": "Dominic Harris",
+  "program_id": 7,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/US News snippets: UNM neurosurgery residency 2015-2019 then BIDMC 2019-2023; MD Pritzker",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2019
+   },
+   {
+    "institution": "Beth Israel Deaconess Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transferred in from UNM; finished BIDMC 2023, spine fellowship BIDMC 2023-24. Source dates BIDMC start as 2019 (DB: PGY5 July 2020) - minor date discrepancy only",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Powers Health, Munster IN (search snippet; another snippet mentions UNM affiliation)",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/dominic-harris-md",
+    "type": "search_snippet",
+    "evidence": "residency in neurological surgery at University of New Mexico 2015-2019 ... Beth Israel Deaconess 2019-2023"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "7:ani:penumaka",
+  "name": "Anirudh Penumaka",
+  "program_id": 7,
+  "identity": "confirmed",
+  "identity_basis": "Snippets: MD Duke, BIDMC/BMC combined neurosurgery residency (4th-yr resident in 2024 AANS bio)",
+  "residency_stated": [
+   {
+    "institution": "BIDMC/BMC",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed BIDMC/BMC residency; now neurosurgeon",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgeon, Providence RI (Rhode Island Hospital) / Mount Sinai Medical Center Miami Beach",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.msmc.com/doctor/anirudh-penumaka/",
+    "type": "search_snippet",
+    "evidence": "completed the Harvard Medical School combined neurosurgery residency at Beth Israel Deaconess Medical Center and Boston Medical Center"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "7:cha:mackel",
+  "name": "Charles Mackel",
+  "program_id": 7,
+  "identity": "confirmed",
+  "identity_basis": "Doximity snippet: residency BIDMC 2018-2025; MD Tufts",
+  "residency_stated": [
+   {
+    "institution": "Beth Israel Deaconess Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2025; skull base fellowship Piedmont Atlanta",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Skull base fellow, Piedmont Atlanta GA",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/charles-mackel-md",
+    "type": "search_snippet",
+    "evidence": "completed his residency in Neurological Surgery at Beth Israel Deaconess Medical Center from 2018-2025"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "7:and:powers",
+  "name": "Andrew Powers",
+  "program_id": 7,
+  "identity": "confirmed",
+  "identity_basis": "Doximity snippet: BIDMC neurosurgery 2019-2026, Brown MD; matches BIDMC roster",
+  "residency_stated": [
+   {
+    "institution": "Beth Israel Deaconess Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency 2019-2026; heading to New England Baptist spine fellowship",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Spine fellow, New England Baptist Hospital (planned)",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/andrew-powers-md-7345c6d0",
+    "type": "search_snippet",
+    "evidence": "residency at Beth Israel Deaconess Medical Center spans from 2019 to 2026 ... Spine Fellowship at New England Baptist"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "7:ale:enriquez-marulanda",
+  "name": "Alejandro Enriquez-Marulanda",
+  "program_id": 7,
+  "identity": "confirmed",
+  "identity_basis": "ResearchGate/LinkedIn: neurosurgery resident BIDMC",
+  "residency_stated": [
+   {
+    "institution": "Beth Israel Deaconess Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Neurosurgery resident BIDMC; end date not stated",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, BIDMC",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.researchgate.net/profile/Alejandro-Enriquez-Marulanda",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery resident | Beth Israel Deaconess Medical Center, Boston"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "7:mic:avery",
+  "name": "Michael Avery",
+  "program_id": 7,
+  "identity": "probable",
+  "identity_basis": "LinkedIn snippet: Neurosurgery Resident at BIDMC, MD Case Western; start year not stated",
+  "residency_stated": [
+   {
+    "institution": "Beth Israel Deaconess Medical Center",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Neurosurgery resident at BIDMC per ZoomInfo/LinkedIn snippets; years not stated",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, BIDMC",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.zoominfo.com/p/Michael-Avery/3979245239",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at Beth Israel Deaconess Medical Center"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "7:eva:mcneil",
+  "name": "Evan McNeil",
+  "program_id": 7,
+  "identity": "probable",
+  "identity_basis": "ResearchGate/BIDMC listing: Evan McNeil, BIDMC neurosurgery affiliation; one snippet lists him as neurovascular fellow (possibly a different/ambiguous role)",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Snippet places him in BIDMC neurosurgery training; role (resident vs fellow) unclear",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "BIDMC neurosurgery (role unclear)",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://bidmc.org/education-training/graduate/fellowships/neurovascular-surgery",
+    "type": "search_snippet",
+    "evidence": "Evan McNeil, MD listed on neurovascular fellowship page"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "7:col:riordan",
+  "name": "Coleman Riordan",
+  "program_id": 7,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn/Doximity: neurosurgery resident BIDMC/BMC, PGY-1 (UMass Chan MD 2023)",
+  "residency_stated": [
+   {
+    "institution": "Beth Israel Deaconess Medical Center / Boston Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 2023 per LinkedIn snippet; consistent with DB",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, BIDMC/BMC",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/coleman-riordan-754b249b/",
+    "type": "search_snippet",
+    "evidence": "PGY-1 in Neurosurgery at Beth Israel Deaconess Medical Center and Boston Medical Center ... UMass Chan '23"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "7:vis:venkatraman",
+  "name": "Vishal Venkatraman",
+  "program_id": 7,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn snippet: neurosurgery resident BIDMC/HMS, MD Duke",
+  "residency_stated": [
+   {
+    "institution": "Beth Israel Deaconess Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current BIDMC neurosurgery resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "Neurosurgery resident, BIDMC",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/vishal-venkatraman-775711b5/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at Beth Israel Deaconess Medical Center/Harvard Medical School"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "7:jus:im",
+  "name": "Justin Im",
+  "program_id": 7,
+  "identity": "not_found",
+  "identity_basis": "No profile found in searches",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Not found",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [],
+  "searches_used": 2
+ },
+ {
+  "key": "7:anj:jha",
+  "name": "Anjali Jha",
+  "program_id": 7,
+  "identity": "not_found",
+  "identity_basis": "No profile found in searches (new 2026 intern)",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Not found",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [],
+  "searches_used": 1
+ },
+ {
+  "key": "7:pau:serrato",
+  "name": "Paul Serrato",
+  "program_id": 7,
+  "identity": "not_found",
+  "identity_basis": "No profile found in searches (new 2026 intern)",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Not found",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "sources": [],
+  "searches_used": 1
+ }
+]

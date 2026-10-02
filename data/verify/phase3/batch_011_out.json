@@ -1,0 +1,1119 @@
+[
+ {
+  "key": "5:nis:gadgil",
+  "name": "Nisha Gadgil",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2014-2021, Baylor MD 2013; Texas Children's bio says she completed neurosurgery residency at Baylor and is associate program director of the Baylor residency",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   },
+   {
+    "institution": "Emory University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2014
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Baylor residency 2021, then pediatric neurosurgery fellowship at Texas Children's. Doximity/US News also list Emory neurological surgery 2013-2014 (likely a first year before Baylor, so Baylor entry may have been PGY-2).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Texas Children's Hospital / Baylor, Houston",
+  "agrees_with_db": true,
+  "disagreement": "Minor: Emory 'Neurological Surgery 2013-2014' precedes Baylor 2014 start (input first_pgy=1)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/nisha-gadgil-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2014 - 2021; Emory Residency, Neurological Surgery, 2013 - 2014; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/nisha-gadgil-1218856",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2014-2021 (Baylor); Emory 2013-2014"
+   },
+   {
+    "url": "https://www.texaschildrens.org/find-a-provider/nisha-gadgil-md",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency at Baylor College of Medicine and fellowship training in pediatric neurosurgery at Texas Children's (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "5:pat:karas",
+  "name": "Patrick Karas",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2014-2021 and Columbia MD 2014; UTMB bio states neurosurgery residency at Baylor",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Baylor residency 2014-2021, epilepsy fellowship at Cleveland Clinic, now UTMB faculty neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, UTMB Galveston",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/patrick-karas-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/patrick-karas-1112315",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2014-2021"
+   },
+   {
+    "url": "https://www.utmb.edu/neurosurgery/faculty-and-staff/patrick-j-karas-md",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at Baylor College of Medicine (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:mel:lopresti",
+  "name": "Melissa LoPresti",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2015-2022 and NYU MD 2015; URMC bio",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Baylor 2015-2022 (MPH 2018-2020 during residency), pediatric neurosurgery fellowship Lurie Children's 2022-2023.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric/epilepsy neurosurgeon, University of Rochester",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/melissa-lopresti-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2015 - 2022"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/melissa-lopresti-1363701",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2015-2022"
+   },
+   {
+    "url": "https://www.urmc.rochester.edu/people/112363886-melissa-lopresti",
+    "type": "bio",
+    "evidence": "completed her Neurological Surgery Residency at Baylor College of Medicine (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "5:sun:lee",
+  "name": "Sungho Lee",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2015-2022 and Case Western MD 2015; Doximity publication list co-authors with Baylor residents",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Ambiguous-name flag resolved: Baylor 2015-2022, now neurosurgical oncologist at LSU Health Shreveport.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (neuro-oncology), LSU Health/Ochsner LSU Shreveport",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sungho-lee-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2015 - 2022; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/sungho-lee-1384580",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2015-2022"
+   },
+   {
+    "url": "https://www.ochsnerlsuhs.org/doctors/sungho-lee",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at Baylor College of Medicine (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:ter:verla",
+  "name": "Terence Verla",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2015-2022 and Duke MD 2015; Orlando Health bio",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Baylor 2015-2022 with enfolded spine fellowship; Orlando Health neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Orlando Health",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/terence-verla-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2015 - 2022; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/terence-verla-1076975",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2015-2022"
+   },
+   {
+    "url": "https://www.orlandohealth.com/physician-finder/terence-verla-md-mph",
+    "type": "bio",
+    "evidence": "completed his residency in neurological surgery at Baylor College of Medicine in 2022 (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "5:car:hadley",
+  "name": "Caroline Hadley",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2016-2023, Baylor MD 2016, UW fellowship 2023-2024; UNM directory",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Baylor 2016-2023, cerebrovascular/skull base fellowship at University of Washington 2023-2024.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, University of New Mexico (Albuquerque)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/caroline-hadley-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2016 - 2023; University of Washington Fellowship 2023 - 2024"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/caroline-hadley-1065244",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2016-2023"
+   },
+   {
+    "url": "https://hsc.unm.edu/directory/hadley-caroline.html",
+    "type": "bio",
+    "evidence": "UNM faculty directory listing (search result)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "5:jam:bayley",
+  "name": "James Bayley",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2016-2023, Cincinnati MD 2016; Pitt bio states Baylor residency completed 2023",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Baylor 2016-2023; joined Pitt neurosurgery 2023 as assistant professor (spine oncology, peripheral nerve).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, University of Pittsburgh/UPMC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/james-bayley-md-2addb31e",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/james-bayley-3834613",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2016-2023"
+   },
+   {
+    "url": "https://www.neurosurgery.pitt.edu/people/james-cushing-bayley",
+    "type": "bio",
+    "evidence": "completed his residency in neurological surgery at Baylor College of Medicine in 2023 (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "5:jef:treiber",
+  "name": "Jeffrey Treiber",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2017-2024, UCSD MD 2017; UTHealth bio",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Baylor 2017-2024, pediatric neurosurgery fellowship at UTHealth Houston.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, UTHealth Houston/McGovern",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jeffrey-treiber-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/jeffrey-treiber-1191392",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2017-2024"
+   },
+   {
+    "url": "https://med.uth.edu/neurosurgery/2025/09/30/jeffrey-treiber-md/",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at Baylor College of Medicine (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:mar:prablek",
+  "name": "Marc Prablek",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2017-2024, Vanderbilt MD 2017; UTMB/UCSF profiles",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Baylor 2017-2024, spine fellowship at UCSF; UTMB faculty page also exists.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, UCSF (San Francisco)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/marc-prablek-md-612deda8",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/marc-prablek-3249682",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2017-2024"
+   },
+   {
+    "url": "https://www.utmb.edu/neurosurgery/faculty-and-staff/marc-prablek--md",
+    "type": "bio",
+    "evidence": "completed his Neurosurgery residency at Baylor College of Medicine (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "5:pat:cotton",
+  "name": "Patrick Cotton",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery 2017-2024, UTHealth McGovern MD 2016, Baylor surgery internship 2016-17, Nebraska neurosurgery residency 2017-2019; Nexus Neurosurgery bio",
+  "residency_stated": [
+   {
+    "institution": "University of Nebraska Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2019
+   },
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Started neurosurgery at UNMC (2017-2019) and joined Baylor as PGY-2 in 2019 (consistent with input notes); Baylor residency completed 2024 plus endovascular fellowship 2023-2024. Doximity/US News list Baylor as 2017-2024 (internship year 2016-17).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (cerebrovascular/endovascular), Nexus Neurosurgery, El Paso",
+  "agrees_with_db": true,
+  "disagreement": "Baylor entry is 2019 (transfer in from UNMC neurosurgery); sources list 2017 start; input already flags joiner at PGY-2",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/patrick-cotton-md",
+    "type": "doximity",
+    "evidence": "University of Nebraska Medical Center College of Medicine Residency, Neurological Surgery, 2017 - 2019; Baylor Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/patrick-cotton-1062067",
+    "type": "usnews",
+    "evidence": "Residency, Neurological Surgery, 2017-2019 (UNMC); Baylor Residency, Neurological Surgery, 2017-2024; CAST fellowship 2023-2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:tyl:lazaro",
+  "name": "Tyler Lazaro",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2017-2024, BU MD 2017; WashU faculty announcement",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Baylor 2017-2024, cerebrovascular/endovascular fellowships at University of Washington, now WashU faculty.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "vascular neurosurgeon, WashU Medicine (St. Louis)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/tyler-lazaro-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/tyler-lazaro-1196421",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2017-2024"
+   },
+   {
+    "url": "https://neurosurgery.wustl.edu/washu-neurosurgery-welcomes-dr-tyler-lazaro-to-faculty/",
+    "type": "bio",
+    "evidence": "accepted a full-time faculty position at the Taylor Family Department of Neurosurgery at WashU Medicine (search snippet)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "5:abd:khan",
+  "name": "Abdul Khan",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Listed as A. Basit Khan: BCM clinician page, Doximity Baylor MD 2018 + Baylor neurosurgery residency, chief resident 2024 (BCM Facebook), Mercy/OU neurosurgery in Oklahoma City",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Graduated Baylor neurosurgery June 2025 (search snippet/BCM alumni celebration); now practising neurosurgery in Oklahoma City (Mercy / OU).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Mercy Clinic / University of Oklahoma, Oklahoma City",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/abdul-khan-md-db7ba633",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2018; Class of 2018, MD"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/abdul-khan-1416989",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery; MD Baylor; Neurosurgery, Oklahoma City"
+   },
+   {
+    "url": "https://www.mercy.net/doctor/abdul-basit-khan-md/",
+    "type": "bio",
+    "evidence": "Abdul Basit Khan, MD | Neurosurgery | Oklahoma City, OK | Mercy (search result title)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:mic:larkin",
+  "name": "Michael Larkin",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and US News list Baylor neurosurgery residency 2018-2025, USUHS MD 2017, Madigan TY 2017-18; BCM people page; ABNS certified",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Baylor 2018-2025; now staff neurosurgeon at Brooke Army Medical Center. Ambiguous-name flag resolved (Michael Benjamin Larkin).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Brooke Army Medical Center, Fort Sam Houston",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-larkin-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2018 - 2025; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/michael-larkin-1187241",
+    "type": "usnews",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2018-2025; Brooke Army Medical Center"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:nis:giridharan",
+  "name": "Nisha Giridharan",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Nebraska Medicine profile: neurological surgery residency Baylor 2025, Cincinnati MD 2018; BCM people page; Healthgrades",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Baylor residency 2025; stereotactic/functional fellowship at Baylor 2026; Nebraska Medicine listing.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "functional neurosurgery fellow (Baylor) / incoming faculty Nebraska Medicine",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.nebraskamed.com/doctors/nisha-giridharan",
+    "type": "bio",
+    "evidence": "Neurological Surgery, Baylor College of Medicine, 2025; Fellowship Stereotactic & Functional Neurosurgery, Baylor 2026"
+   },
+   {
+    "url": "https://www.bcm.edu/people-search/nisha-giridharan-44666",
+    "type": "program_page",
+    "evidence": "BCM people-search entry (search result)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:him:sharma",
+  "name": "Himanshu Sharma",
+  "program_id": 5,
+  "identity": "probable",
+  "identity_basis": "Doximity Houston profile at 1 Baylor Plz lists Baylor neurosurgery residency 2019-2026, Stony Brook MD 2019; other same-name profiles (Hartford CT) are namesakes and were excluded; not on current BCM residents page (fetched Sept 2026)",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "No departure evidence; residency end 2026, absent from current BCM resident roster (consistent with June 2026 graduation). Post-training position not found.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown (recent graduate)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/himanshu-sharma-md-f798cd3a",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2019 - 2026; Stony Brook Class of 2019"
+   },
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "current resident list (Sept 2026) does not include Sharma, McGinnis or Snyder"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:hud:jackson",
+  "name": "Hudin Jackson",
+  "program_id": 5,
+  "identity": "probable",
+  "identity_basis": "WNEP/UPMC coverage describes Dr. Hudin Jackson as UPMC neurosurgeon in Williamsport; Baylor co-authored papers (with C. Hadley); ZoomInfo lists Baylor research physician; UConn MD",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Now practising as a neurosurgeon (UPMC Williamsport) per WNEP snippet; residency dates not stated in a source I could open.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, UPMC Williamsport",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.wnep.com/article/news/health/healthwatch-16/healthwatch-16-neurosurgery-upmc-medicine-williamsport-dr-hudin-jackson/523-160fc008-069f-49a1-b72d-279bb7ee94d7",
+    "type": "search_snippet",
+    "evidence": "Dr. Hudin Jackson is a neurosurgeon with UPMC, seeing patients in Williamsport"
+   },
+   {
+    "url": "https://digitalcommons.library.tmc.edu/uthshis_docs/454/",
+    "type": "search_snippet",
+    "evidence": "Racial and Socioeconomic Disparities in Patients With Meningioma: authors Hudin N Jackson, Caroline C Hadley et al."
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:joh:mcginnis",
+  "name": "John McGinnis",
+  "program_id": 5,
+  "identity": "probable",
+  "identity_basis": "BCM people page 'JP McGinnis' neurosurgery resident, KU MD 2019 (matches Doximity/US News KU 2019 at 1 Baylor Plz); joined June 2019",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity/US News profiles list only KU MD 2019 (no residency, no specialty). Not on current BCM resident roster (Sept 2026), consistent with June 2026 graduation, but no source states completion.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/john-mcginnis-1",
+    "type": "doximity",
+    "evidence": "John McGinnis MD, Other MD/DO, Houston, 1 Baylor Plz; University of Kansas School of Medicine Class of 2019"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/john-mcginnis-1070621",
+    "type": "usnews",
+    "evidence": "Other or Unknown Specialty; University of Kansas School of Medicine"
+   },
+   {
+    "url": "https://www.bcm.edu/people-search/jp-mcginnis-26499",
+    "type": "search_snippet",
+    "evidence": "JP McGinnis, Neurosurgery Resident, Baylor; MD University of Kansas 2019, residency began June 2019 (search summary)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:rit:snyder",
+  "name": "Rita Snyder",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Tacoma WA, Madigan address): chief neurosurgery resident at Baylor, Georgetown MD 2018, West Point BS; BCM people page",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Chief resident at Baylor; Doximity summary says she will be stationed at Madigan Army Medical Center as staff neurosurgeon; Doximity now lists Tacoma WA (Madigan) address and WA license 2026.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "staff neurosurgeon (Army), Madigan Army Medical Center, Tacoma",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rita-snyder-md-0f9237ac",
+    "type": "doximity",
+    "evidence": "chief neurosurgery resident at Baylor College of Medicine... Following graduation she will be stationed at Madigan Army Medical Center as a staff neurosurgeon"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:ale:brenner",
+  "name": "Alex Brenner",
+  "program_id": 5,
+  "identity": "probable",
+  "identity_basis": "Current BCM resident list (fetched Sept 2026) shows Alex Brenner PGY-7, Columbia P&S; BCM people page 'Alexander Wolff Brenner'; Doximity/WebMD Houston profiles",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-7 on BCM residents page.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-7 neurosurgery resident, Baylor",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Alex Brenner, M.D. - PGY-7, Columbia University College of Physicians and Surgeons"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alexander-brenner-md-b7fe869d",
+    "type": "doximity",
+    "evidence": "Alexander Brenner MD, Other MD/DO, Houston, 7200 Cambridge St (no training listed)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:ale:flores",
+  "name": "Alex Flores",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "BCM resident list: Alex Flores PGY-7, UNC School of Medicine; Doximity UNC Class of 2020 with Baylor co-authored papers; LinkedIn/ResearchGate Baylor neurosurgery resident",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 on BCM residents page.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-7 neurosurgery resident, Baylor",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Alex Flores, M.D. - PGY-7, University of North Carolina School of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/alex-flores-md",
+    "type": "doximity",
+    "evidence": "UNC Chapel Hill School of Medicine Class of 2020 (no residency listed)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:eri:goethe",
+  "name": "Eric Goethe",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "BCM resident list: Eric Goethe PGY-7, Baylor MD; Doximity neurosurgery Houston 7200 Cambridge, Baylor Class of 2019",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-7 on BCM residents page.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-7 neurosurgery resident, Baylor",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Eric Goethe, M.D. - PGY-7, Baylor College of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/eric-goethe-md",
+    "type": "doximity",
+    "evidence": "Eric Goethe MD Neurosurgery Houston; Baylor College of Medicine Class of 2019"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:vig:katlowitz",
+  "name": "Vigi Katlowitz",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Kalman Avigal Katlowitz) Baylor neurosurgery residency 2020-2027, NYU MD/PhD 2020; BCM resident list Vigi Katlowitz PGY-7 NYU; Provenza lab page",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Residency through 2027; named Baylor functional neurosurgery fellow 2025-26.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-7 neurosurgery resident / functional fellow, Baylor",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kalman-katlowitz-md",
+    "type": "doximity",
+    "evidence": "Baylor College of Medicine Residency, Neurological Surgery, 2020 - 2027; NYU Class of 2020, MD PhD"
+   },
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Vigi Katlowitz, M.D., Ph.D. - PGY-7, NYU"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "5:dia:le",
+  "name": "Diana Le",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "BCM resident list: Diana Le PGY-6, University of Cincinnati College of Medicine (matches BCM people-search/WebMD Cincinnati 2021 grad)",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 on BCM residents page. Doximity Houston 'Diana Le' profiles are anesthesiology/other-school namesakes and were not used.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-6 neurosurgery resident, Baylor",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Diana Le, M.D. - PGY-6, University of Cincinnati College of Medicine"
+   },
+   {
+    "url": "https://www.bcm.edu/people-search/diana-le-82786",
+    "type": "search_snippet",
+    "evidence": "Diana Thuy Mi Le, Medical Resident PGY1 in Neurosurgery at Baylor"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:raj:patel",
+  "name": "Rajan Patel",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "BCM resident list: Rajan Patel PGY-6, Baylor MD; WebMD neurosurgeon Rajan Patel Houston, Baylor 2021. Neuroradiologist Rajan P. Patel (Texas Children's) is a different person.",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 on BCM residents page.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-6 neurosurgery resident, Baylor",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Rajan Patel, M.D. - PGY-6, Baylor College of Medicine"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/rajan-patel-380931e6-c607-4266-919c-e094a7ca8c2d-overview",
+    "type": "search_snippet",
+    "evidence": "Rajan Patel, Neurosurgeon, Houston; graduated Baylor College of Medicine 2021"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "5:sri:gopakumar",
+  "name": "Sricharan Gopakumar",
+  "program_id": 5,
+  "identity": "confirmed",
+  "identity_basis": "BCM resident list: Sricharan Gopakumar PGY-6, Baylor MD; BCM people page; LinkedIn/ResearchGate",
+  "residency_stated": [
+   {
+    "institution": "Baylor College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-6 on BCM residents page.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "PGY-6 neurosurgery resident, Baylor",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "not_found"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+    "type": "program_page",
+    "evidence": "Sricharan Gopakumar, M.D. - PGY-6, Baylor College of Medicine"
+   },
+   {
+    "url": "https://www.bcm.edu/people-search/sricharan-gopakumar-m-d-44801",
+    "type": "search_snippet",
+    "evidence": "Sricharan (Sri) Gopakumar, M.D. | BCM"
+   }
+  ],
+  "searches_used": 3
+ }
+]

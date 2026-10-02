@@ -1,0 +1,20 @@
+{
+ "name": "Michael Jin",
+ "program_id": 120,
+ "verdict": "not_searched",
+ "neurosurgery_residency": {
+  "institution": "Washington University in St. Louis",
+  "start": 2024,
+  "end": null
+ },
+ "other_training": [],
+ "current_position": "Unknown",
+ "sources": [
+  "https://www.doximity.com/pub/michael-jin-md-6c2743c0",
+  "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+  "https://med.stanford.edu/neurosurgery/residency/residents.html"
+ ],
+ "evidence": "Not re-searched in this pass (WebSearch session budget exhausted at 200/200). Prior-check evidence carried over: Stanford MD 2024; matched WashU neurosurgery 2024 (Doximity still lists WashU 2024-2031). He is absent from the current WashU residents page and his WashU bio page now returns 404; not on Stanford's 2025-26 roster either.",
+ "confidence": "low",
+ "notes": "not_searched: WebSearch refused further queries (session limit). The only new data point is the 2026-27 WashU roster, fetched this pass for row 2: he is absent from every PGY level (PGY1-PGY7), https://neurosurgery.wustl.edu/education/residency/current-residents/. Prior notes: Departure consistent with current_outcome (LEFT, unknown). No destination found. Doximity self-reported listing (2024-2031) may be stale. Name is common (another Michael Jin MD is a radiologist in NY - different person)."
+}

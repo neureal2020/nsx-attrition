@@ -1,0 +1,250 @@
+{
+ "program_id": 87,
+ "name": "University of Kentucky College of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "complement_note": "Two interns every year 2011-2026 (three in the 2024 class once Rommelman joined at PGY-2). 2012 curriculum page already describes a sixth and seventh year.",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://kyneurosurgery.com/html/Education/ResidencyInformation/houseStaffRoster.html (old department site, www. and bare host)",
+   "from": "2012-05 (host); roster first captured 2013-03",
+   "to": "2017-06 (last roster update Aug 2016; frozen copy served through 2017; host later a stale shell 2020-21)"
+  },
+  {
+   "url": "https://neurosurgery.med.uky.edu/neurosurgery-current-trainees (+ /neurosurgery-residency-program, /house-staff)",
+   "from": "2017-04 (host); roster first seen Common Crawl 2017-09",
+   "to": "2021-07 (last roster capture); host captured to 2022-05"
+  },
+  {
+   "url": "https://medicine.uky.edu/departments/neurosurgery/current-trainees",
+   "from": "2023-03 (host); roster first captured 2023-05",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "ukhealthcare.uky.edu/KNI, /neurosurgery/, /kni/neurosurgery/, /kentucky-neuroscience-institute/neurosurgery (UK HealthCare clinical pages)",
+   "from": "2008",
+   "to": "2019+ (no resident rosters; kni/academics linked to kyneurosurgery.com)"
+  },
+  {
+   "url": "med.uky.edu/affiliations/neurosurgery (College of Medicine stub, 301/links to kyneurosurgery.com)",
+   "from": "2013-11",
+   "to": "2013-11"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [
+  "2011-2012"
+ ],
+ "gap_details": {
+  "2011-2012": "SIGNIFICANT. No roster capture. kyneurosurgery.com first captured 2012-05-30 (home); houseStaffRoster.html first captured 2013-03-03. Other 2012 captures (residencyInformation.html 2012-06-01, clinicalFaculty, medicalStudents) carry no names. ukhealthcare.uky.edu 2011-12 KNI pages have no resident list. Common Crawl CC-MAIN-2012 (only crawl in 2011-12 window): 0 records for kyneurosurgery.com, 4 non-roster records for ukhealthcare.uky.edu/kni. Not reconstructed: no 2010-11 roster to bracket against. The 2011 interns (Smith, Timoney) and all 2012-13 residents were present, but anyone who left during 2011-12 is invisible. PHASE 2: gapaudit 2011-15 over kyneurosurgery.com, www.mc.uky.edu/gme, med.uky.edu/house-staff, med.uky.edu/affiliations, ukhealthcare.uky.edu/kni found no roster; PubMed affiliation mining 2010-16 found no unlisted resident. Significance LOW: 2011 class = 2 = complement, both present in 2012-13.",
+  "2012-2013": "SIGNIFICANT (incomplete). Mar 2013 capture only (spring). Page headings run PGY-1..PGY-6 only although the program was 7 years (curriculum lists sixth and seventh year); the 2006 entrant PGY-7 class, if any, is not listed. Asfahani listed PGY-6 here and again in 2013-14.",
+  "2013-2014": "SIGNIFICANT (incomplete). Sep 2013 capture. PGY-7 not displayed (headings PGY-1..6): Hughes and Davis (PGY-6 in 2012-13) would be PGY-7 and are absent. Asfahani listed PGY-6 again (either a repeated year or a 2008 entrant mislabelled in 2012-13; NPI enumerated Nov 2008).",
+  "2014-2015": "SIGNIFICANT (incomplete). Oct 2014 capture (Feb 2015 identical names). Still no PGY-7 heading: Brown and Asfahani (PGY-6 in 2013-14) absent. Marasa (PGY-2 2013-14) and Stafford (PGY-4 2013-14) absent: departures. PHASE 2: CC-MAIN-2014-23 capture 2014-07-25 (already listing 2014 interns Hall/Snyder and omitting Marasa) still showed Stafford as PGY-5; he is gone from 2014-08-22 onward.",
+  "2015-2016": "Aug 2015; first version with a PGY-7 heading (Mannas, Grupke).",
+  "2016-2017": "Aug 2016 capture (unchanged through Jun 2017 per Common Crawl). Mannas and Grupke still printed under PGY-7 alongside Khoury (chief): they were PGY-7 in 2015-16 and entered 2009, so this is carry-over (or a post-residency fellowship year; Grupke later UK faculty). Excluded from 2016-17 rows.",
+  "2017-2018": "No Wayback capture of any roster page (neurosurgery.med.uky.edu roster pages first archived Jul 2019; kyneurosurgery.com roster frozen at the 2016-17 list). Recovered from Common Crawl CC-MAIN-2017-39 (2017-09-24, neurosurgery.med.uky.edu/neurosurgery-current-trainees); identical in CC-MAIN-2017-47 and 2018-09. Complete 13-name list.",
+  "2018-2019": "Only capture is 2019-07-03 (July), content-dated 2018-19 (Mirza PGY-7; 2018 interns Adkins/Parisi PGY-1). Complete list.",
+  "2019-2020": "Only capture is 2020-07-05 (July), content-dated 2019-20 (Lamm/Dillen PGY-7; 2019 interns PGY-1). Complete list.",
+  "2021-2022": "2021-07-28 capture, content-dated 2021-22 (2021 interns Choi/Skidmore PGY-1). Last archived roster on neurosurgery.med.uky.edu; the 2022 intern class is not seen until the May 2023 medicine.uky.edu capture.",
+  "2022-2023": "Only capture is 2023-05-23 (spring; first capture of medicine.uky.edu roster). Complete 14-name list consistent with neighbours.",
+  "2026-2027": "Live page 2026-09-27; advanced vs 2025-26 (new interns Sarah Johnson MBBS, Louis Rodgers). Rodgers' card lists program 'MD/PhD Program' but he sits under PGY-1 of the neurosurgery trainee page; kept."
+ },
+ "alumni_page": null,
+ "alumni_note": "No alumni/graduates page. Phase 2 inserted 5 training_history rows: Marasa and Stafford (switched_specialty, PubMed affiliation evidence), Asfahani and Davis (probable completion, hidden PGY-7), Rommelman (joined at PGY-2 2025).",
+ "departures": [
+  {
+   "name": "Lauren Marasa",
+   "last_ay": "2013-2014",
+   "last_pgy": 2,
+   "note": "2012 intern; gone by the 2014-07-25 roster. SWITCHED to psychiatry: PubMed 2017 (PMID 28792293) Dept of Psychiatry, UK College of Medicine (2014 paper still Dept of Neurosurgery UK). training_history row added."
+  },
+  {
+   "name": "William Stafford",
+   "last_ay": "2013-2014",
+   "last_pgy": 4,
+   "note": "2010 entrant (William Lane Stafford); listed PGY-5 on the 2014-07-25 roster, gone by 2014-08-22. SWITCHED to radiology: PubMed 2016 (PMID 26867921, 'William Lane Stafford') and 2017 (PMID 28429604) Dept of Radiology, UK. training_history row added."
+  },
+  {
+   "name": "Sarah Thomas",
+   "last_ay": "2023-2024",
+   "last_pgy": 2,
+   "note": "2022 intern (UK COM grad); last on roster 2024-06-18 as PGY-2; absent from 2024-07-16 onward and from the 2025-26/2026-27 rosters. Not on any live UK department trainee page (surgery, neurology, radiology, psychiatry, PM&R, EM, IM, anesthesia, ENT, ortho, urology, peds, OB, path, eye, family med, rad onc). A paper submitted Sep 2024 (PMID 40294520) still lists her at UK Neurosurgery, probably work done in residency. Outcome unknown."
+  },
+  {
+   "name": "Lindsey Hughes",
+   "last_ay": "2012-2013",
+   "last_pgy": 6,
+   "note": "2007 entrant; PGY-7 year (2013-14) hidden by the site. No publication or program evidence found; probable completion 2014, unconfirmed (possible married name: NPI 'Lindsey H. Tyler', Neurological Surgery, Wilson NC, is only a name hint)."
+  },
+  {
+   "name": "Justin Davis",
+   "last_ay": "2012-2013",
+   "last_pgy": 6,
+   "note": "2007 entrant; PGY-7 year (2013-14) hidden. Probable completion 2014: NPI Justin Todd Davis, Neurological Surgery, Kansas City KS, matching his KU background (KU-affiliated DBS papers 2006-07). training_history completed=yes (probable)."
+  },
+  {
+   "name": "Barrett Brown",
+   "last_ay": "2013-2014",
+   "last_pgy": 6,
+   "note": "2008 entrant (UK MD); PGY-7 year (2014-15) hidden. No evidence found; probable completion 2015, unconfirmed."
+  },
+  {
+   "name": "Wissam Asfahani",
+   "last_ay": "2013-2014",
+   "last_pgy": 6,
+   "note": "PGY-7 year (2014-15) hidden. Probable completion 2015: co-author with UK DBS team, J Neurosurg 2015 (PMID 25748305); distinctive name, NPI Neurological Surgery (Littleton CO). training_history completed=yes (probable)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Marcus Rommelman",
+   "first_ay": "2025-2026",
+   "first_pgy": 2,
+   "note": "First listed Apr 2025 as incoming PGY-2; absent Sep 2024-Mar 2025. UK COM MD; 2023 PubMed affiliation Radiology, Lehigh Valley Hospital, Allentown PA (PGY-1 elsewhere). training_history start_year=2025, joined at PGY-2."
+  }
+ ],
+ "residents_2011plus": 33,
+ "adjudication_summary": {
+  "COMPLETED": 22,
+  "IN TRAINING": 14,
+  "LEFT -> outcome unknown": 3,
+  "LEFT -> SWITCHED SPECIALTY": 2,
+  "note": "Outcome unknown: Hughes, Brown (pre-2011 entrants, final year hidden; probable completions) and Sarah Thomas (2022 intern, left after PGY-2). Switched: Marasa (psychiatry), Stafford (radiology)."
+ },
+ "problems": "2011-12 unobservable. Final (PGY-7) year of the 2006-2008 entrants never displayed 2012-15. Sarah Thomas outcome unknown. CC-MAIN-2017-17 and 2018-13 kyneurosurgery.com were not retried (roster frozen at 2016-17, 2017-18 covered by CC-MAIN-2017-39).",
+ "year_status": {
+  "2011-2012": {
+   "status": "missing",
+   "significance": "low",
+   "reason": "No roster anywhere (Wayback, CC-MAIN-2012, GME/med hosts). Only 2011+ entrants in the year were the 2011 interns; program 'accepts two residents per year' (applicationProcess 2013) and both (Smith, Timoney) are on the 2012-13 roster, so no 2011+ entrant could leave unseen. Only pre-2011 departures during 2011-12 would be invisible."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "PGY-7 (2006 entrants) never displayed on any page (roster, group-photo caption, faculty page). All 2011+ entrants fully visible; CC 2013-05 identical."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "PGY-7 (Hughes, Davis) hidden. All 2011+ classes complete; CC 2013-12 and 2014-03/04 identical."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "PGY-7 (Brown, Asfahani) hidden; all 2011+ classes complete. CC 2014-07-25 shows transitional update (Stafford PGY-5), CC 2014-08..2015-08 identical to Oct 2014 list."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list (2016-17: Mannas/Grupke carry-over excluded)"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY-1..7 list"
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2007": 6,
+  "2008": 6
+ },
+ "terminal_pgy_note": "Program was 7 years throughout (applicationProcess 2013: 'seven-years of clinical training and accepts two residents per year'). The 2012-15 site simply never displayed the PGY-7 year, so for the 2007 and 2008 entrants (Hughes, Davis, Asfahani, Brown) PGY-6 is the last OBSERVABLE year; do not count them as departures.",
+ "crossmatch_note": "crossmatch.json pairs 'Adrian Smith' (UT Health, program 107, last 2011-12 PGY5) with James H. Smith Jr. here: false. Smith is a 2011 UK intern (ECU MD 2011) first observed at PGY-2 only because 2011-12 is unobserved.",
+ "phase2": {
+  "searched": [
+   "raw re-read of all 2012-15 roster captures (text, group-photo captions)",
+   "kyneurosurgery.com clinicalFaculty/personnel/awards/curriculum/caseCounts/didactics/residencyInformation/applicationProcess 2012-2016 (no PGY-7s as instructors or faculty)",
+   "gapaudit 2011-2015: kyneurosurgery.com, www.mc.uky.edu/gme, med.uky.edu/house-staff, med.uky.edu/affiliations, ukhealthcare.uky.edu/kni",
+   "Common Crawl 2013-2016, all 29 crawls, kyneurosurgery.com + ukhealthcare kni + med.uky.edu affiliations (32 roster captures parsed)",
+   "medicine.uky.edu roster captures Mar 2024-Jul 2025 (Thomas exit, Rommelman entry)",
+   "live medicine.uky.edu trainee pages of 19 other UK departments (Thomas, Rommelman, Marasa, Stafford)",
+   "PubMed author and affiliation mining 2010-2016 and per-person (Marasa, Stafford, Asfahani, Hughes, Davis, Brown, Thomas, Rommelman)",
+   "Europe PMC affiliations (Asfahani)",
+   "NPPES (context only)",
+   "crossmatch.json"
+  ],
+  "found": [
+   "Marasa: Dept of Psychiatry UK 2017 (switch)",
+   "Stafford: Dept of Radiology UK 2016-17 (switch); still PGY-5 on 2014-07-25 roster",
+   "Asfahani: UK DBS paper 2015 plus neurosurgery NPI (probable completion)",
+   "Davis: neurosurgery NPI matching KU background (probable completion)",
+   "Program statement: 7 years, two residents per year (2013)",
+   "Rommelman: first listed Apr 2025 as PGY-2; prior Lehigh Valley affiliation",
+   "Sarah Thomas: last listed 2024-06-18"
+  ],
+  "remaining": [
+   "2011-12 roster unobservable (low significance for 2011+ entrants)",
+   "Hughes and Brown completion unconfirmed (pre-2011 entrants)",
+   "Sarah Thomas outcome unknown",
+   "Common Crawl CC-MAIN-2017-17/2018-13 kyneurosurgery.com not retried (roster frozen at 2016-17; irrelevant)"
+  ]
+ }
+}

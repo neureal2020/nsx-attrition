@@ -1,0 +1,67 @@
+
+Rutgers Health/New Jersey Medical School Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2007   James Barrese            2014   2013-20  7   bio          COMPLETED
+2007   Pinakin Jethwa           2014   2013-20  7   bio          COMPLETED
+2008   Rachid Assina            2015   2013-20  6   bio          COMPLETED
+2009   John Quinn               2016   2013-20  5   bio          COMPLETED [ambiguous name]
+2009   George Sinclair          -      2013-20  5   npi?         LEFT -> outcome unknown (NPI hint: other specialty)
+2010   Brian Fernholz           2017   2016-20  7   bio          COMPLETED
+2010   Patrick Reid             2013   2012-20  3   bio          LEFT -> TRANSFERRED (USC / LAC+USC Medical Center (Keck) [ambiguous name]
+2011   Michael Cohen            -      2016-20  6   --           LEFT -> outcome unknown [ambiguous name]
+2011   Celina Crisman           2018   2016-20  6   bio          COMPLETED
+2012   Ahmed Meleis             2019   2016-20  5   bio          COMPLETED
+2012   Irene Say                2019   2016-20  5   bio          COMPLETED
+2012   David Slottje            -      2016-20  5   --           LEFT -> outcome unknown
+2013   Arthur Carminucci        2020   2019-20  7   bio          COMPLETED
+2013   Robert Hernandez         2020   2019-20  7   bio          COMPLETED [ambiguous name]
+2013   Yehuda Herschman         2020   2019-20  7   bio          COMPLETED
+2014   Omar Iqbal               2021   2020-20  7   bio          COMPLETED
+2014   Nitesh Patel             2021   2020-20  7   bio          COMPLETED [ambiguous name]
+2014   Asif Shafiq              2021   2020-20  7   bio          COMPLETED
+2015   Matthew Cummock          2022   2021-20  7   bio          COMPLETED
+2015   Neil Majmundar           2022   2021-20  7   bio          COMPLETED
+2016   Grant Arzumanov          2023   2022-20  7   bio          COMPLETED
+2016   Amanda Carpenter         2023   2022-20  7   bio          COMPLETED [ambiguous name]
+2016   Manan Shah               2023   2022-20  7   bio          COMPLETED [ambiguous name]
+2016   Blake Taylor             2023   2022-20  7   bio          COMPLETED [ambiguous name]
+2016   Kevin Zhao               2023   2022-20  7   bio          COMPLETED
+2017   Elena Solli              2020   2019-20  3   bio          LEFT -> SWITCHED SPECIALTY
+2017   Christopher Talbot       2024   2023-20  7   bio          COMPLETED
+2018   Raja Jani                2023   2022-20  5   bio          LEFT -> TRANSFERRED (University of Louisville)
+2018   Purvee Patel             2025   2024-20  7   bio          COMPLETED [ambiguous name]
+2018   Timothy Wong             2025   2024-20  7   bio          COMPLETED [ambiguous name]
+2019   Ali Tayebi Meybodi       2026   2025-20  7   bio          COMPLETED
+2019   Sean Munier              2026   2025-20  7   bio          COMPLETED
+2020   Evgenii Belykh           -      2025-20  6   roster       IN TRAINING
+2020   Elizabeth Ginalis        -      2025-20  6   roster       IN TRAINING
+2020   Travis Quinoa            -      2025-20  6   roster       IN TRAINING
+2021   Nemanja Novakovic        -      2025-20  5   roster       IN TRAINING
+2021   Ryan Radwanski           2023   2021-20  1   bio          LEFT -> did not complete
+2022   Nikolas Echeverry        -      2025-20  4   roster       IN TRAINING
+2022   Andrew Egladyous         -      2025-20  4   roster       IN TRAINING
+2022   Steve Gad                -      2025-20  4   roster       IN TRAINING
+2023   Oluwatoyin Akinnusotu    -      2025-20  3   roster       IN TRAINING
+2023   Trong Huynh              -      2025-20  3   roster       IN TRAINING
+2023   Alejandro Pando          -      2025-20  3   roster       IN TRAINING
+2023   Uchenna Peter-Okaka      -      2025-20  3   roster       IN TRAINING
+2024   Meghna Bhattacharyya     -      2025-20  2   roster       IN TRAINING
+2024   Daniel Brenner           -      2025-20  2   roster       IN TRAINING [ambiguous name]
+2024   Ashley Raghu             -      2025-20  2   roster       IN TRAINING
+2025   Arevik Abramyan          -      2025-20  1   roster       IN TRAINING
+2025   Nolan Stubbs             -      2025-20  1   roster       IN TRAINING
+
+summary:
+    26  COMPLETED
+    16  IN TRAINING
+     2  LEFT -> outcome unknown
+     1  LEFT -> outcome unknown (NPI hint: other specialty)
+     1  LEFT -> TRANSFERRED (USC / LAC+USC Medical Center (Keck)
+     1  LEFT -> SWITCHED SPECIALTY
+     1  LEFT -> TRANSFERRED (University of Louisville)
+     1  LEFT -> did not complete
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

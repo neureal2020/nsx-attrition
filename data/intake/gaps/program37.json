@@ -1,0 +1,284 @@
+{
+ "program_id": 37,
+ "name": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital Program (BWH/Boston Children's/Harvard neurosurgery residency; ACGME 1602421036)",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "www.brighamandwomens.org/neurosurgery/residencyprogram/NSUCurrentResidents.aspx (old path; last capture 2010-10-27 = 2010-11 roster)",
+   "from": "2007-10",
+   "to": "2010-10"
+  },
+  {
+   "url": "www.brighamandwomens.org/Departments_and_Services/neurosurgery/residencyprogram/NSUCurrentResidents.aspx (+NSUAlumni.aspx); 302 from 2018-02",
+   "from": "2010-11",
+   "to": "2018-01"
+  },
+  {
+   "url": "www.brighamandwomens.org/neurosurgery/residency/current-residents (+/residency/alumni); also ?TRILIBIS_EMULATOR_UA= variants",
+   "from": "2018-11",
+   "to": "2026-05"
+  },
+  {
+   "url": "research.massgeneralbrigham.org/en/education-and-training/graduate-medical-education/neurosurgery/mgb-neurosurgery-residency-program (live; programs.website now 301s here; BWH /residency/* pages now redirect to massgeneralbrigham.org clinical pages)",
+   "from": "2026",
+   "to": "2026-09-27"
+  },
+  {
+   "url": "MGB Neurosurgery Residency Program brochure PDF (adobeaemcloud delivery URL, ModDate 2026-01-05) listing MGH and BWH residents PGY1-7 for 2025-26 + both alumni lists",
+   "from": "2026-01",
+   "to": "2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2013-2014"
+ ],
+ "missing_years": [
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "RECONSTRUCTED, significance LOW. Still no roster capture (Wayback none 2010-10-27..2012-12-03; CC-MAIN-2012 rescanned on the whole departments_and_services/neurosurgery prefix: no roster). Phase 2 settled the class-of-2016 swap with other programs' rosters: Aronson is PGY3 on the MGH Jan-2012 roster (left BWH at end of 2010-11); Raber (UAMS, Feb-2012) and Abd-El-Barr (UF, Oct-2011) were still at their home programs in 2011-12 and joined BWH at PGY4 in 2012-13. The only open point is whether Kellogg (switched to neurology) left in 2011 or 2012; every other class is bracketed and the complement (2/yr) matches.",
+  "2012-2013": "Dec-2012 capture ('last modified 8/14/2012'), 16 residents.",
+  "2013-2014": "RECONSTRUCTED, significance NONE. Every class is bracketed by the 2012-13 and 2014-15 rosters and the alumni list, and no class changes size across the gap. Phase 2: Common Crawl 2013-2014 rescanned on the whole departments_and_services/neurosurgery and /neurosurgery prefixes (only ResidentHome/alumni/fellowship pages); PubMed BWH-neurosurgery affiliation mining for 2013-14 found no unlisted resident.",
+  "2014-2015": "Aug-2014 and Jan-2015 captures identical; Jan-2015 used.",
+  "2015-2016": "Content unchanged 2015-07..2016-06; Jan-2016 used. Only two interns (Lai, Wu); Jeelani later joined this class at PGY3.",
+  "2016-2017": "Only capture 2017-03-23 (none 2016-06-14..2017-03-23); content-dated 2016-17 (PGY7 Bi/Vestal = alumni 2016-17).",
+  "2017-2018": "Oct-2017 capture = 2017-18 with Kushkuley PGY2; Nov/Dec-2017 capture drops Kushkuley and adds Jeelani PGY3. Dec used + Oct 'other' entry for Kushkuley.",
+  "2018-2019": "Old aspx page 302 from 2018-02; new /neurosurgery/residency/current-residents first captured 2019-03-04 (spring, used; content-dated 2018-19). Kappel (alumni 2024-25, same class as Johnston/Villa) NOT on the 2018-19 or 2019-20 roster.",
+  "2019-2020": "Nov-2019 used (2019-07-21 already updated).",
+  "2022-2023": "Plain URL only captured 2022-07-05 (stale 2021-22 content) then 2024-04; a 2022-12-03 capture of the ?TRILIBIS_EMULATOR_UA= variant gives 2022-23 (used).",
+  "2023-2024": "Only 2024-04-20 capture (spring), content-dated 2023-24.",
+  "2024-2025": "Only spring 2025 captures (2025-04-04/04-26); 04-26 used.",
+  "2025-2026": "Dec-2025 capture (20 residents, PGY1 Patel/Savchuk) + MGB brochure Jan 2026 adding Maren Loe PGY1 ('other' entry).",
+  "2026-2027": "MISSING, significance SIGNIFICANT (not closable). No 2026-27 roster exists online. Live MGB page research.massgeneralbrigham.org/.../mgb-neurosurgery-residency-program has no roster. Its brochure PDF is byte-identical to the Jan-2026 copy (ModDate 2026-01-05, 2025-26 content). The research-site sitemap (674 URLs) has no residents page. Wayback has no current-residents capture after 2026-04-14. Common Crawl CC-MAIN-2026-30 has a 2026-07-12 capture of brighamandwomens.org/neurosurgery/residency/current-residents; it is still the unchanged 2025-26 list (same 20 names and PGYs), so it was not loaded. The page now redirects to massgeneralbrigham.org. The integrated MGB program's first interns (matched Mar 2026) belong to the new program, not to 37. Legacy BWH residents expected in 2026-27 are the 18 residents who were PGY1-6 in 2025-26 (now PGY2-7). Publications from Jun-Sep 2026 give a Mass General Brigham or BWH neurosurgery affiliation for J. Chalif, Glaser, Luiselli, Nwagwu, Maury and R. Patel, but no PGY. The other 12 have no 2026 evidence either way. The three 2025-26 PGY7s (Bernstock, Chua, Gupta) were recorded as graduating in 2026 from the PGY-terminal roster; Gupta has a Stanford neurosurgery affiliation from Jul 2026."
+ },
+ "alumni_page": "https://www.brighamandwomens.org/neurosurgery/residency/alumni (archived 2019-10..2026-05; old NSUAlumni.aspx 2011-2018; also brochure 'Brigham and Women's Alumni' 2015-2025)",
+ "departures": [
+  {
+   "name": "Jacob Kushkuley",
+   "last_ay": "2017-2018",
+   "last_pgy": 2,
+   "note": "Left Oct/Nov 2017 during PGY2; not on alumni list and not on another program's roster; the only later affiliation is MGH Institute of Health Professions PA Studies (2019). Outcome unknown. training_history row added (end 2017, unknown)."
+  },
+  {
+   "name": "Joshua Aronson",
+   "last_ay": "2010-2011",
+   "last_pgy": 2,
+   "note": "TRANSFER to MGH (36): PGY3 on the MGH Jan-2012 roster, MGH alumni 2016. training_history row added (end 2011, transferred)."
+  },
+  {
+   "name": "Marissa Kellogg",
+   "last_ay": "2010-2011",
+   "last_pgy": 2,
+   "note": "SWITCHED to neurology (OHSU Dept of Neurology affiliations from 2016, epilepsy). Exit 2011 or 2012. training_history row added (end 2011, switched_specialty)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Muhammad Abd-El-Barr",
+   "first_ay": "2012-2013",
+   "first_pgy": 4,
+   "note": "TRANSFER from U Florida (82), UF PGY3 2011-12; graduated 2016"
+  },
+  {
+   "name": "Michael Raber",
+   "first_ay": "2012-2013",
+   "first_pgy": 4,
+   "note": "TRANSFER from UAMS (73), UAMS PGY3 2011-12; graduated 2016"
+  },
+  {
+   "name": "Yasser Jeelani",
+   "first_ay": "2017-2018",
+   "first_pgy": 3,
+   "note": "TRANSFER from Loma Linda (31), part of the 2017 LL exodus; graduated 2022"
+  },
+  {
+   "name": "Ari Kappel",
+   "first_ay": "2020-2021",
+   "first_pgy": 3,
+   "note": "TRANSFER from Wayne State/DMC (125), closed about 2020; graduated 2025"
+  },
+  {
+   "name": "Neil Klinger",
+   "first_ay": "2020-2021",
+   "first_pgy": 4,
+   "note": "TRANSFER from Wayne State/DMC (125), closed about 2020; graduated 2024"
+  },
+  {
+   "name": "Walid Ibn Essayed",
+   "first_ay": "2017-2018",
+   "first_pgy": 1,
+   "note": "not a transfer: internal advance PGY2 (2018-19) -> PGY4 (2019-20), finished 2023 in 6 years, taking Kushkuley's slot"
+  }
+ ],
+ "residents_2011plus": 45,
+ "adjudication_summary": {
+  "COMPLETED": 36,
+  "IN TRAINING": 21,
+  "LEFT -> did not complete": 1,
+  "alumni_rows_inserted_training_history": 36,
+  "phase2_rows_inserted_training_history": 11
+ },
+ "problems": "2026-27 cannot be observed: BWH pages redirect after the merger, the MGB site publishes only the Jan-2026 brochure, and the last archived BWH roster (CC 2026-07-12) is stale. Recheck the MGB brochure and site when the 2026-27 brochure appears. In the adjudicator output, Bernstock, Chua and Gupta still show IN TRAINING even though PGY-terminal graduation rows (2026) were added. All Common Crawl crawls answered.",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "only Kellogg exit year (2011 vs 2012) unresolved; swap partners placed on other programs rosters"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "none",
+   "reason": "fully bracketed, no class-size change, PubMed mining found no extra resident"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "spring capture, content-dated 2018-19; Kappel absence consistent with WSU roster"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "spring capture only; classes consistent with neighbouring years and alumni list"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "spring capture only; classes consistent with neighbouring years and alumni list"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec-2025 roster + Jan-2026 brochure (adds Loe)"
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "merger: no roster published; 2025-26 -> 2026-27 exits of 18 legacy residents unobservable"
+  }
+ },
+ "bwh_legacy_2026_27": {
+  "expected": [
+   "Marcelle Altshuler",
+   "Joshua Chalif",
+   "Jason Chen",
+   "Casey Jarvis",
+   "Sean Lyne",
+   "James Tanner McMahon",
+   "Adam Glaser",
+   "David Liu",
+   "Gabrielle Luiselli",
+   "Eric Chalif",
+   "Ron Gadot",
+   "Chibueze Nwagwu",
+   "Sarah Blitz",
+   "Alexander Yearley",
+   "Eduardo Maury",
+   "Ruchit Patel",
+   "Solomiia Savchuk",
+   "Maren Loe"
+  ],
+  "mgb_affiliation_jun_sep_2026": {
+   "Joshua Chalif": "PMID 42686280 (2026-09)",
+   "Adam Glaser": "PMID 42781804 (2026-09)",
+   "Gabrielle Luiselli": "PMID 42679390 (2026-09)",
+   "Chibueze Nwagwu": "PMID 42437767 (2026-07)",
+   "Eduardo Maury": "PMID 42679390 (2026-09)",
+   "Ruchit Patel": "PMID 42679390 (2026-09)"
+  },
+  "loaded_as_roster": false,
+  "note": "No roster rows loaded for 2026-27: no source states their 2026-27 PGY, and none of them is seen after 2026-27, so the reconstruction rule does not apply."
+ },
+ "training_history_added_phase2": {
+  "transfer_out": 2,
+  "switched_specialty": 1,
+  "left_unknown": 1,
+  "transfer_in": 5,
+  "pgy_terminal_graduation_2026": 3
+ },
+ "phase2": {
+  "searched": [
+   "live research.massgeneralbrigham.org MGB residency page + brochure PDF (re-downloaded, identical to the Jan-2026 copy) + /en/sitemap.xml (674 URLs) + neurosurgery-department and CNRG pages",
+   "Wayback CDX 2025-2026: research.massgeneralbrigham.org (whole host), brighamandwomens.org/neurosurgery (prefix), massgeneral.org/neurosurgery/education|residency, massgeneralbrigham.org clinical neurosurgery",
+   "Common Crawl CC-MAIN-2026-04..2026-39: brighamandwomens.org/neurosurgery/residency, research.massgeneralbrigham.org GME neurosurgery, massgeneral.org/neurosurgery/education",
+   "Common Crawl CC-MAIN-2012..2014-52 on the whole brighamandwomens.org departments_and_services/neurosurgery and /neurosurgery prefixes",
+   "PubMed per-resident affiliations Jun-Dec 2026 for all 21 residents on the 2025-26 roster",
+   "PubMed BWH-neurosurgery affiliation mining 2011-2012 and 2013-2014",
+   "PubMed Kellogg, Kushkuley, Aronson",
+   "Other programs' rosters: 36 (Aronson), 73 (Raber), 82 (Abd-El-Barr), 31 (Jeelani), 125 (Klinger, Kappel); crossmatch.json"
+  ],
+  "found": [
+   "CC 2026-07-12 capture of BWH current-residents: unchanged 2025-26 content (not loaded)",
+   "Aronson on MGH roster PGY3 Jan 2012 -> BWH exit end of 2010-11",
+   "Raber at UAMS Feb 2012, Abd-El-Barr at UF Oct 2011 -> both joined BWH 2012-13",
+   "Kellogg -> neurology (OHSU)",
+   "Gupta -> Stanford neurosurgery Jul 2026; 6 legacy residents with MGB affiliations Jun-Sep 2026"
+  ],
+  "remaining": [
+   "2026-27 (merger; no roster published anywhere)",
+   "Kellogg exit year 2011 vs 2012 (low)"
+  ]
+ }
+}

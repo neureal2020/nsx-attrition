@@ -1,0 +1,1394 @@
+{
+ "pgy_table": {
+  "1": {
+   "transferred": 10,
+   "left": 51
+  },
+  "2": {
+   "transferred": 19,
+   "left": 51
+  },
+  "3": {
+   "transferred": 23,
+   "left": 32
+  },
+  "4": {
+   "transferred": 10,
+   "left": 23
+  },
+  "5": {
+   "transferred": 9,
+   "left": 13
+  },
+  "6": {
+   "transferred": 8,
+   "left": 8
+  },
+  "7": {
+   "transferred": 1,
+   "left": 1
+  },
+  "null": {
+   "transferred": 0,
+   "left": 1
+  }
+ },
+ "window": "2014-2015 to 2023-2024",
+ "resident_years": 14897,
+ "departures": 262,
+ "left_ns": 180,
+ "transferred_ns": 80,
+ "died": 2,
+ "annual_left_rate": 1.2082969725448078,
+ "annual_departure_rate": 1.7587433711485534,
+ "by_year": [
+  {
+   "year": "2014-2015",
+   "on_duty": 1350,
+   "left": 26,
+   "transferred": 12
+  },
+  {
+   "year": "2015-2016",
+   "on_duty": 1374,
+   "left": 16,
+   "transferred": 8
+  },
+  {
+   "year": "2016-2017",
+   "on_duty": 1421,
+   "left": 21,
+   "transferred": 17
+  },
+  {
+   "year": "2017-2018",
+   "on_duty": 1445,
+   "left": 17,
+   "transferred": 4
+  },
+  {
+   "year": "2018-2019",
+   "on_duty": 1472,
+   "left": 18,
+   "transferred": 8
+  },
+  {
+   "year": "2019-2020",
+   "on_duty": 1527,
+   "left": 12,
+   "transferred": 4
+  },
+  {
+   "year": "2020-2021",
+   "on_duty": 1552,
+   "left": 17,
+   "transferred": 9
+  },
+  {
+   "year": "2021-2022",
+   "on_duty": 1576,
+   "left": 16,
+   "transferred": 5
+  },
+  {
+   "year": "2022-2023",
+   "on_duty": 1575,
+   "left": 14,
+   "transferred": 8
+  },
+  {
+   "year": "2023-2024",
+   "on_duty": 1605,
+   "left": 23,
+   "transferred": 5
+  }
+ ],
+ "stage_counts": {
+  "Junior (PGY-1\u20132)": 102,
+  "Middle (PGY-3\u20134)": 55,
+  "Unknown": 1,
+  "Senior (PGY-5\u20137)": 22
+ },
+ "stage_dest": {
+  "Junior (PGY-1\u20132)": {
+   "Radiology (diagnostic/interventional)": 20,
+   "Destination not found": 12,
+   "Anesthesiology / pain": 12,
+   "Neurology": 11,
+   "Other specialty": 10,
+   "Left clinical medicine": 9,
+   "Emergency medicine": 6,
+   "Radiation oncology": 6,
+   "General / other surgery": 5,
+   "Family / primary care": 5,
+   "Internal medicine": 3,
+   "Psychiatry": 3
+  },
+  "Middle (PGY-3\u20134)": {
+   "Destination not found": 10,
+   "Radiology (diagnostic/interventional)": 9,
+   "Anesthesiology / pain": 7,
+   "Neurology": 5,
+   "Left clinical medicine": 4,
+   "Radiation oncology": 4,
+   "Family / primary care": 4,
+   "Other specialty": 3,
+   "Emergency medicine": 3,
+   "Psychiatry": 2,
+   "General / other surgery": 2,
+   "Internal medicine": 1,
+   "Orthopaedics": 1
+  },
+  "Unknown": {
+   "Neurology": 1
+  },
+  "Senior (PGY-5\u20137)": {
+   "Destination not found": 5,
+   "Anesthesiology / pain": 4,
+   "Left clinical medicine": 3,
+   "Radiology (diagnostic/interventional)": 2,
+   "Other (PA, non-physician role)": 2,
+   "General / other surgery": 1,
+   "Other specialty": 1,
+   "Radiation oncology": 1,
+   "Internal medicine": 1,
+   "Neurology": 1,
+   "Family / primary care": 1
+  }
+ },
+ "transfers_by_stage": {
+  "Junior (PGY-1\u20132)": 29,
+  "Senior (PGY-5\u20137)": 18,
+  "Middle (PGY-3\u20134)": 33
+ },
+ "programs": 118,
+ "programs_zero": 32,
+ "median_rate": 1.0890188947742905,
+ "iqr": [
+  0.0,
+  1.9536800227337312
+ ],
+ "max_rate": 10.0,
+ "above_2x": 21,
+ "fdr_sig": [],
+ "p05": [
+  [
+   "Inova Fairfax Hospital Campus Program",
+   2,
+   24,
+   0.0347
+  ],
+  [
+   "University of Vermont Medical Center Program",
+   3,
+   63,
+   0.042
+  ],
+  [
+   "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+   4,
+   105,
+   0.04
+  ],
+  [
+   "University of Utah Health Program",
+   5,
+   154,
+   0.041
+  ],
+  [
+   "University of Texas Health Science Center San Antonio Joe and Teresa L",
+   5,
+   162,
+   0.0489
+  ]
+ ],
+ "evidence": {
+  "program_only": 52,
+  "silver": 37,
+  "gold": 86,
+  "none": 5
+ },
+ "program_rows": [
+  {
+   "pid": 62,
+   "program": "Stony Brook Medicine Program",
+   "resident_years": 10,
+   "left": 1,
+   "annual_rate": 10.0,
+   "expected": 0.12082969725448077,
+   "p": 0.11381513354162043,
+   "q": 0.8874553666878998
+  },
+  {
+   "pid": 29,
+   "program": "Inova Fairfax Hospital Campus Program",
+   "resident_years": 24,
+   "left": 2,
+   "annual_rate": 8.333333333333334,
+   "expected": 0.28999127341075387,
+   "p": 0.03473810420512735,
+   "q": 0.8452273690778855
+  },
+  {
+   "pid": 112,
+   "program": "University of Vermont Medical Center Program",
+   "resident_years": 63,
+   "left": 3,
+   "annual_rate": 4.761904761904762,
+   "expected": 0.7612270927032289,
+   "p": 0.04201092388970118,
+   "q": 0.8452273690778855
+  },
+  {
+   "pid": 64,
+   "program": "Temple University Hospital Program",
+   "resident_years": 70,
+   "left": 3,
+   "annual_rate": 4.285714285714286,
+   "expected": 0.8458078807813654,
+   "p": 0.05423329059922932,
+   "q": 0.8452273690778855
+  },
+  {
+   "pid": 94,
+   "program": "University of Missouri-Columbia Program",
+   "resident_years": 72,
+   "left": 3,
+   "annual_rate": 4.166666666666667,
+   "expected": 0.8699738202322616,
+   "p": 0.058004238304586675,
+   "q": 0.8452273690778855
+  },
+  {
+   "pid": 121,
+   "program": "West Virginia University Program",
+   "resident_years": 73,
+   "left": 3,
+   "annual_rate": 4.109589041095891,
+   "expected": 0.8820567899577096,
+   "p": 0.05993494334496263,
+   "q": 0.8452273690778855
+  },
+  {
+   "pid": 73,
+   "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+   "resident_years": 105,
+   "left": 4,
+   "annual_rate": 3.8095238095238093,
+   "expected": 1.268711821172048,
+   "p": 0.040037041255199135,
+   "q": 0.8452273690778855
+  },
+  {
+   "pid": 38,
+   "program": "Mayo Clinic College of Medicine and Science (Jacksonville) Program",
+   "resident_years": 53,
+   "left": 2,
+   "annual_rate": 3.7735849056603774,
+   "expected": 0.6403973954487481,
+   "p": 0.13537454746086608,
+   "q": 0.8874553666878998
+  },
+  {
+   "pid": 22,
+   "program": "George Washington University Program",
+   "resident_years": 88,
+   "left": 3,
+   "annual_rate": 3.409090909090909,
+   "expected": 1.0633013358394308,
+   "p": 0.09230566419893371,
+   "q": 0.8753344851624307
+  },
+  {
+   "pid": 111,
+   "program": "University of Utah Health Program",
+   "resident_years": 154,
+   "left": 5,
+   "annual_rate": 3.2467532467532467,
+   "expected": 1.860777337719004,
+   "p": 0.04096482678446012,
+   "q": 0.8452273690778855
+  },
+  {
+   "pid": 78,
+   "program": "University of Chicago Program",
+   "resident_years": 93,
+   "left": 3,
+   "annual_rate": 3.225806451612903,
+   "expected": 1.1237161844666712,
+   "p": 0.10440574673786596,
+   "q": 0.8799912939334417
+  },
+  {
+   "pid": 2,
+   "program": "Allegheny Health Network Medical Education Consortium (AGH) Program",
+   "resident_years": 128,
+   "left": 4,
+   "annual_rate": 3.125,
+   "expected": 1.546620124857354,
+   "p": 0.07162943805744793,
+   "q": 0.8452273690778855
+  },
+  {
+   "pid": 8,
+   "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+   "resident_years": 64,
+   "left": 2,
+   "annual_rate": 3.125,
+   "expected": 0.773310062428677,
+   "p": 0.1816475527122272,
+   "q": 1.0
+  },
+  {
+   "pid": 108,
+   "program": "University of Texas Health Science Center San Antonio Joe and Teresa L",
+   "resident_years": 162,
+   "left": 5,
+   "annual_rate": 3.0864197530864197,
+   "expected": 1.9574410955225885,
+   "p": 0.04889489984235962,
+   "q": 0.8452273690778855
+  },
+  {
+   "pid": 48,
+   "program": "New York Presbyterian Hospital (Columbia Campus) Program",
+   "resident_years": 139,
+   "left": 4,
+   "annual_rate": 2.8776978417266186,
+   "expected": 1.6795327918372827,
+   "p": 0.09015185378204194,
+   "q": 0.8753344851624307
+  },
+  {
+   "pid": 17,
+   "program": "Corewell Health/William Beaumont University (Dearborn/Royal Oak) Progr",
+   "resident_years": 35,
+   "left": 1,
+   "annual_rate": 2.857142857142857,
+   "expected": 0.4229039403906827,
+   "p": 0.344858437268176,
+   "q": 1.0
+  },
+  {
+   "pid": 107,
+   "program": "University of Texas Health Science Center at Houston Program",
+   "resident_years": 177,
+   "left": 5,
+   "annual_rate": 2.824858757062147,
+   "expected": 2.13868564140431,
+   "p": 0.06603202064469182,
+   "q": 0.8452273690778855
+  },
+  {
+   "pid": 88,
+   "program": "University of Louisville School of Medicine Program",
+   "resident_years": 112,
+   "left": 3,
+   "annual_rate": 2.6785714285714284,
+   "expected": 1.3532926092501847,
+   "p": 0.15533113723673908,
+   "q": 0.9646881154702743
+  },
+  {
+   "pid": 10,
+   "program": "Case Western Reserve University/University Hospitals Cleveland Medical",
+   "resident_years": 155,
+   "left": 4,
+   "annual_rate": 2.5806451612903225,
+   "expected": 1.872860307444452,
+   "p": 0.12069412855920136,
+   "q": 0.8874553666878998
+  },
+  {
+   "pid": 51,
+   "program": "Ohio State University Hospital Program",
+   "resident_years": 159,
+   "left": 4,
+   "annual_rate": 2.5157232704402515,
+   "expected": 1.9211921863462442,
+   "p": 0.12894335962896064,
+   "q": 0.8874553666878998
+  },
+  {
+   "pid": 82,
+   "program": "University of Florida Program",
+   "resident_years": 199,
+   "left": 5,
+   "annual_rate": 2.512562814070352,
+   "expected": 2.4045109753641674,
+   "p": 0.09643515514501355,
+   "q": 0.8753344851624307
+  },
+  {
+   "pid": 26,
+   "program": "Houston Methodist Hospital (Medical Center) Program",
+   "resident_years": 126,
+   "left": 3,
+   "annual_rate": 2.380952380952381,
+   "expected": 1.5224541854064577,
+   "p": 0.19681037747233732,
+   "q": 1.0
+  },
+  {
+   "pid": 44,
+   "program": "Medical University of South Carolina Program",
+   "resident_years": 126,
+   "left": 3,
+   "annual_rate": 2.380952380952381,
+   "expected": 1.5224541854064577,
+   "p": 0.19681037747233732,
+   "q": 1.0
+  },
+  {
+   "pid": 102,
+   "program": "University of Rochester Medicine Program",
+   "resident_years": 130,
+   "left": 3,
+   "annual_rate": 2.3076923076923075,
+   "expected": 1.57078606430825,
+   "p": 0.20912016907035957,
+   "q": 1.0
+  },
+  {
+   "pid": 119,
+   "program": "Wake Forest University Baptist Medical Center Program",
+   "resident_years": 130,
+   "left": 3,
+   "annual_rate": 2.3076923076923075,
+   "expected": 1.57078606430825,
+   "p": 0.20912016907035957,
+   "q": 1.0
+  },
+  {
+   "pid": 31,
+   "program": "Loma Linda University Health Education Consortium Program",
+   "resident_years": 46,
+   "left": 1,
+   "annual_rate": 2.1739130434782608,
+   "expected": 0.5558166073706116,
+   "p": 0.4263963390860579,
+   "q": 1.0
+  },
+  {
+   "pid": 74,
+   "program": "University of California (Irvine) Program",
+   "resident_years": 93,
+   "left": 2,
+   "annual_rate": 2.150537634408602,
+   "expected": 1.1237161844666712,
+   "p": 0.30964458040525844,
+   "q": 1.0
+  },
+  {
+   "pid": 80,
+   "program": "University of Colorado Program",
+   "resident_years": 140,
+   "left": 3,
+   "annual_rate": 2.142857142857143,
+   "expected": 1.6916157615627307,
+   "p": 0.2405651953815281,
+   "q": 1.0
+  },
+  {
+   "pid": 59,
+   "program": "Southern Illinois University School of Medicine Program",
+   "resident_years": 47,
+   "left": 1,
+   "annual_rate": 2.127659574468085,
+   "expected": 0.5678995770960596,
+   "p": 0.43328547035649756,
+   "q": 1.0
+  },
+  {
+   "pid": 77,
+   "program": "University of California Davis Health Program",
+   "resident_years": 102,
+   "left": 2,
+   "annual_rate": 1.9607843137254901,
+   "expected": 1.2324629119957038,
+   "p": 0.3490728131157228,
+   "q": 1.0
+  },
+  {
+   "pid": 12,
+   "program": "Cleveland Clinic Foundation Program",
+   "resident_years": 207,
+   "left": 4,
+   "annual_rate": 1.932367149758454,
+   "expected": 2.501174733167752,
+   "p": 0.2426750108471789,
+   "q": 1.0
+  },
+  {
+   "pid": 83,
+   "program": "University of Illinois College of Medicine at Chicago Program",
+   "resident_years": 107,
+   "left": 2,
+   "annual_rate": 1.8691588785046729,
+   "expected": 1.2928777606229442,
+   "p": 0.37065146621137424,
+   "q": 1.0
+  },
+  {
+   "pid": 43,
+   "program": "Medical College of Wisconsin Affiliated Hospitals Program",
+   "resident_years": 110,
+   "left": 2,
+   "annual_rate": 1.8181818181818181,
+   "expected": 1.3291266697992885,
+   "p": 0.38346074985457956,
+   "q": 1.0
+  },
+  {
+   "pid": 5,
+   "program": "Baylor College of Medicine Program",
+   "resident_years": 224,
+   "left": 4,
+   "annual_rate": 1.7857142857142858,
+   "expected": 2.7065852185003694,
+   "p": 0.28736017921774604,
+   "q": 1.0
+  },
+  {
+   "pid": 46,
+   "program": "Montefiore Medical Center/Albert Einstein College of Medicine Program",
+   "resident_years": 112,
+   "left": 2,
+   "annual_rate": 1.7857142857142858,
+   "expected": 1.3532926092501847,
+   "p": 0.3919372234333989,
+   "q": 1.0
+  },
+  {
+   "pid": 110,
+   "program": "University of Texas Southwestern Medical Center Program",
+   "resident_years": 175,
+   "left": 3,
+   "annual_rate": 1.7142857142857142,
+   "expected": 2.1145197019534137,
+   "p": 0.3542877888421434,
+   "q": 1.0
+  },
+  {
+   "pid": 57,
+   "program": "Rutgers Health/New Jersey Medical School Program",
+   "resident_years": 129,
+   "left": 2,
+   "annual_rate": 1.550387596899225,
+   "expected": 1.558703094582802,
+   "p": 0.46162641728596765,
+   "q": 1.0
+  },
+  {
+   "pid": 41,
+   "program": "McGaw Medical Center of Northwestern University Program",
+   "resident_years": 194,
+   "left": 3,
+   "annual_rate": 1.5463917525773196,
+   "expected": 2.344096126736927,
+   "p": 0.4156198121936263,
+   "q": 1.0
+  },
+  {
+   "pid": 21,
+   "program": "Geisinger Health System Program",
+   "resident_years": 65,
+   "left": 1,
+   "annual_rate": 1.5384615384615385,
+   "expected": 0.785393032154125,
+   "p": 0.5440595326985275,
+   "q": 1.0
+  },
+  {
+   "pid": 109,
+   "program": "University of Texas Medical Branch Hospitals Program",
+   "resident_years": 66,
+   "left": 1,
+   "annual_rate": 1.5151515151515151,
+   "expected": 0.7974760018795731,
+   "p": 0.5495354979769579,
+   "q": 1.0
+  },
+  {
+   "pid": 118,
+   "program": "Virginia Commonwealth University Health System Program",
+   "resident_years": 132,
+   "left": 2,
+   "annual_rate": 1.5151515151515151,
+   "expected": 1.5949520037591463,
+   "p": 0.47343683493650435,
+   "q": 1.0
+  },
+  {
+   "pid": 32,
+   "program": "Louisiana State University (Shreveport) Program",
+   "resident_years": 134,
+   "left": 2,
+   "annual_rate": 1.492537313432836,
+   "expected": 1.6191179432100424,
+   "p": 0.48122257689502,
+   "q": 1.0
+  },
+  {
+   "pid": 53,
+   "program": "Penn State Milton S Hershey Medical Center Program",
+   "resident_years": 136,
+   "left": 2,
+   "annual_rate": 1.4705882352941178,
+   "expected": 1.6432838826609386,
+   "p": 0.48893671117023996,
+   "q": 1.0
+  },
+  {
+   "pid": 61,
+   "program": "Stanford Health Care-Sponsored Stanford University Program",
+   "resident_years": 205,
+   "left": 3,
+   "annual_rate": 1.4634146341463414,
+   "expected": 2.477008793716856,
+   "p": 0.45027586806305453,
+   "q": 1.0
+  },
+  {
+   "pid": 60,
+   "program": "SSM Health/Saint Louis University School of Medicine Program",
+   "resident_years": 69,
+   "left": 1,
+   "annual_rate": 1.4492753623188406,
+   "expected": 0.8337249110559173,
+   "p": 0.5655719371548484,
+   "q": 1.0
+  },
+  {
+   "pid": 67,
+   "program": "UCLA David Geffen School of Medicine/UCLA Medical Center Program",
+   "resident_years": 207,
+   "left": 3,
+   "annual_rate": 1.4492753623188406,
+   "expected": 2.501174733167752,
+   "p": 0.4564881861058512,
+   "q": 1.0
+  },
+  {
+   "pid": 92,
+   "program": "University of Minnesota Program",
+   "resident_years": 139,
+   "left": 2,
+   "annual_rate": 1.4388489208633093,
+   "expected": 1.6795327918372827,
+   "p": 0.5003714436392819,
+   "q": 1.0
+  },
+  {
+   "pid": 18,
+   "program": "Dartmouth- Hitchcock/Mary Hitchcock Memorial Hospital Program",
+   "resident_years": 70,
+   "left": 1,
+   "annual_rate": 1.4285714285714286,
+   "expected": 0.8458078807813654,
+   "p": 0.5707895327813032,
+   "q": 1.0
+  },
+  {
+   "pid": 42,
+   "program": "Medical College of Georgia Program",
+   "resident_years": 70,
+   "left": 1,
+   "annual_rate": 1.4285714285714286,
+   "expected": 0.8458078807813654,
+   "p": 0.5707895327813032,
+   "q": 1.0
+  },
+  {
+   "pid": 72,
+   "program": "University of Arizona College of Medicine- Tucson Program",
+   "resident_years": 71,
+   "left": 1,
+   "annual_rate": 1.408450704225352,
+   "expected": 0.8578908505068135,
+   "p": 0.5759444637080082,
+   "q": 1.0
+  },
+  {
+   "pid": 115,
+   "program": "University of Wisconsin Hospitals and Clinics Program",
+   "resident_years": 142,
+   "left": 2,
+   "annual_rate": 1.408450704225352,
+   "expected": 1.715781701013627,
+   "p": 0.5116397214125312,
+   "q": 1.0
+  },
+  {
+   "pid": 105,
+   "program": "University of Tennessee College of Medicine Program",
+   "resident_years": 143,
+   "left": 2,
+   "annual_rate": 1.3986013986013985,
+   "expected": 1.727864670739075,
+   "p": 0.515358355994367,
+   "q": 1.0
+  },
+  {
+   "pid": 56,
+   "program": "Rush University Medical Center Program",
+   "resident_years": 146,
+   "left": 2,
+   "annual_rate": 1.36986301369863,
+   "expected": 1.7641135799154193,
+   "p": 0.5264006568131918,
+   "q": 1.0
+  },
+  {
+   "pid": 65,
+   "program": "Tufts Medical Center Program",
+   "resident_years": 74,
+   "left": 1,
+   "annual_rate": 1.3513513513513513,
+   "expected": 0.8941397596831577,
+   "p": 0.5910407493981209,
+   "q": 1.0
+  },
+  {
+   "pid": 125,
+   "program": "Wayne State University / Detroit Medical Center Program (CLOSED, not o",
+   "resident_years": 75,
+   "left": 1,
+   "annual_rate": 1.3333333333333333,
+   "expected": 0.9062227294086058,
+   "p": 0.5959524578714734,
+   "q": 1.0
+  },
+  {
+   "pid": 30,
+   "program": "Johns Hopkins University Program",
+   "resident_years": 247,
+   "left": 3,
+   "annual_rate": 1.214574898785425,
+   "expected": 2.984493522185675,
+   "p": 0.5733268566958419,
+   "q": 1.0
+  },
+  {
+   "pid": 69,
+   "program": "University at Buffalo Program",
+   "resident_years": 167,
+   "left": 2,
+   "annual_rate": 1.1976047904191616,
+   "expected": 2.017855944149829,
+   "p": 0.5988056545822452,
+   "q": 1.0
+  },
+  {
+   "pid": 55,
+   "program": "Riverside University Health System Program",
+   "resident_years": 174,
+   "left": 2,
+   "annual_rate": 1.1494252873563218,
+   "expected": 2.1024367322279653,
+   "p": 0.6210112989406471,
+   "q": 1.0
+  },
+  {
+   "pid": 99,
+   "program": "University of Oklahoma Health Sciences Center Program",
+   "resident_years": 91,
+   "left": 1,
+   "annual_rate": 1.098901098901099,
+   "expected": 1.099550245015775,
+   "p": 0.6669791722013694,
+   "q": 1.0
+  },
+  {
+   "pid": 116,
+   "program": "UPMC Medical Education Program",
+   "resident_years": 278,
+   "left": 3,
+   "annual_rate": 1.079136690647482,
+   "expected": 3.3590655836745653,
+   "p": 0.6522974322995284,
+   "q": 1.0
+  },
+  {
+   "pid": 33,
+   "program": "Louisiana State University School of Medicine Program",
+   "resident_years": 93,
+   "left": 1,
+   "annual_rate": 1.075268817204301,
+   "expected": 1.1237161844666712,
+   "p": 0.6749304711033643,
+   "q": 1.0
+  },
+  {
+   "pid": 76,
+   "program": "University of California (San Francisco) Program",
+   "resident_years": 194,
+   "left": 2,
+   "annual_rate": 1.0309278350515463,
+   "expected": 2.344096126736927,
+   "p": 0.6791879001274455,
+   "q": 1.0
+  },
+  {
+   "pid": 54,
+   "program": "Rhode Island Hospital/Brown University Health Program",
+   "resident_years": 98,
+   "left": 1,
+   "annual_rate": 1.0204081632653061,
+   "expected": 1.1841310330939117,
+   "p": 0.6939880217211944,
+   "q": 1.0
+  },
+  {
+   "pid": 104,
+   "program": "University of Southern California/Los Angeles General Medical Center (",
+   "resident_years": 196,
+   "left": 2,
+   "annual_rate": 1.0204081632653061,
+   "expected": 2.3682620661878233,
+   "p": 0.6845847209461051,
+   "q": 1.0
+  },
+  {
+   "pid": 84,
+   "program": "University of Illinois College of Medicine at Peoria Program",
+   "resident_years": 100,
+   "left": 1,
+   "annual_rate": 1.0,
+   "expected": 1.2082969725448078,
+   "p": 0.7012944497394351,
+   "q": 1.0
+  },
+  {
+   "pid": 120,
+   "program": "Washington University/B-JH/SLCH Consortium Program",
+   "resident_years": 210,
+   "left": 2,
+   "annual_rate": 0.9523809523809523,
+   "expected": 2.537423642344096,
+   "p": 0.7202964438818207,
+   "q": 1.0
+  },
+  {
+   "pid": 63,
+   "program": "SUNY Upstate Medical University Program",
+   "resident_years": 109,
+   "left": 1,
+   "annual_rate": 0.9174311926605505,
+   "expected": 1.3170437000738404,
+   "p": 0.7320737974670493,
+   "q": 1.0
+  },
+  {
+   "pid": 24,
+   "program": "Henry Ford Health/Henry Ford Hospital Program",
+   "resident_years": 113,
+   "left": 1,
+   "annual_rate": 0.8849557522123894,
+   "expected": 1.3653755789756328,
+   "p": 0.7447152216149173,
+   "q": 1.0
+  },
+  {
+   "pid": 86,
+   "program": "University of Kansas School of Medicine Program",
+   "resident_years": 123,
+   "left": 1,
+   "annual_rate": 0.8130081300813008,
+   "expected": 1.4862052762301134,
+   "p": 0.7737704927579584,
+   "q": 1.0
+  },
+  {
+   "pid": 96,
+   "program": "University of Nebraska Medical Center College of Medicine Program",
+   "resident_years": 123,
+   "left": 1,
+   "annual_rate": 0.8130081300813008,
+   "expected": 1.4862052762301134,
+   "p": 0.7737704927579584,
+   "q": 1.0
+  },
+  {
+   "pid": 45,
+   "program": "MedStar Health Georgetown University Program",
+   "resident_years": 126,
+   "left": 1,
+   "annual_rate": 0.7936507936507936,
+   "expected": 1.5224541854064577,
+   "p": 0.7818242144537594,
+   "q": 1.0
+  },
+  {
+   "pid": 25,
+   "program": "Henry Ford Providence Hospital Program",
+   "resident_years": 127,
+   "left": 1,
+   "annual_rate": 0.7874015748031497,
+   "expected": 1.5345371551319058,
+   "p": 0.7844445631876996,
+   "q": 1.0
+  },
+  {
+   "pid": 87,
+   "program": "University of Kentucky College of Medicine Program",
+   "resident_years": 130,
+   "left": 1,
+   "annual_rate": 0.7692307692307693,
+   "expected": 1.57078606430825,
+   "p": 0.7921182902769148,
+   "q": 1.0
+  },
+  {
+   "pid": 123,
+   "program": "Yale-New Haven Medical Center Program",
+   "resident_years": 135,
+   "left": 1,
+   "annual_rate": 0.7407407407407407,
+   "expected": 1.6312009129354905,
+   "p": 0.8043055790056242,
+   "q": 1.0
+  },
+  {
+   "pid": 49,
+   "program": "New York Presbyterian Hospital (Cornell Campus) Program",
+   "resident_years": 145,
+   "left": 1,
+   "annual_rate": 0.6896551724137931,
+   "expected": 1.7520306101899712,
+   "p": 0.8265785656644491,
+   "q": 1.0
+  },
+  {
+   "pid": 75,
+   "program": "University of California (San Diego) Medical Center Program",
+   "resident_years": 145,
+   "left": 1,
+   "annual_rate": 0.6896551724137931,
+   "expected": 1.7520306101899712,
+   "p": 0.8265785656644491,
+   "q": 1.0
+  },
+  {
+   "pid": 28,
+   "program": "Indiana University School of Medicine Program",
+   "resident_years": 166,
+   "left": 1,
+   "annual_rate": 0.6024096385542169,
+   "expected": 2.0057729744243806,
+   "p": 0.8654437530503559,
+   "q": 1.0
+  },
+  {
+   "pid": 50,
+   "program": "NYU Grossman School of Medicine Program",
+   "resident_years": 172,
+   "left": 1,
+   "annual_rate": 0.5813953488372093,
+   "expected": 2.078270792777069,
+   "p": 0.8748535706879013,
+   "q": 1.0
+  },
+  {
+   "pid": 91,
+   "program": "University of Michigan Program",
+   "resident_years": 179,
+   "left": 1,
+   "annual_rate": 0.5586592178770949,
+   "expected": 2.162851580855206,
+   "p": 0.8850032694307012,
+   "q": 1.0
+  },
+  {
+   "pid": 52,
+   "program": "Oregon Health & Science University (OHSU Health) Program",
+   "resident_years": 186,
+   "left": 1,
+   "annual_rate": 0.5376344086021505,
+   "expected": 2.2474323689333424,
+   "p": 0.8943298013829193,
+   "q": 1.0
+  },
+  {
+   "pid": 37,
+   "program": "Mass General Brigham/Brigham and Women's Hospital/Children's Hospital ",
+   "resident_years": 194,
+   "left": 1,
+   "annual_rate": 0.5154639175257731,
+   "expected": 2.344096126736927,
+   "p": 0.904066124981403,
+   "q": 1.0
+  },
+  {
+   "pid": 117,
+   "program": "Vanderbilt University Medical Center Program",
+   "resident_years": 197,
+   "left": 1,
+   "annual_rate": 0.5076142131979695,
+   "expected": 2.380345035913271,
+   "p": 0.9074813502542622,
+   "q": 1.0
+  },
+  {
+   "pid": 114,
+   "program": "University of Washington Program",
+   "resident_years": 207,
+   "left": 1,
+   "annual_rate": 0.4830917874396135,
+   "expected": 2.501174733167752,
+   "p": 0.9180113727301639,
+   "q": 1.0
+  },
+  {
+   "pid": 36,
+   "program": "Mass General Brigham",
+   "resident_years": 210,
+   "left": 1,
+   "annual_rate": 0.47619047619047616,
+   "expected": 2.537423642344096,
+   "p": 0.9209301501889573,
+   "q": 1.0
+  },
+  {
+   "pid": 58,
+   "program": "Sidney Kimmel Medical College at Thomas Jefferson University/TJUH Prog",
+   "resident_years": 213,
+   "left": 1,
+   "annual_rate": 0.4694835680751174,
+   "expected": 2.5736725515204406,
+   "p": 0.9237450197993375,
+   "q": 1.0
+  },
+  {
+   "pid": 4,
+   "program": "Barrow Neurological Institute at St Joseph's Hospital and Medical Cent",
+   "resident_years": 278,
+   "left": 1,
+   "annual_rate": 0.3597122302158273,
+   "expected": 3.3590655836745653,
+   "p": 0.9652322686932454,
+   "q": 1.0
+  },
+  {
+   "pid": 1,
+   "program": "Albany Med Health System Program",
+   "resident_years": 122,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.4741223065046654,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 6,
+   "program": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temp",
+   "resident_years": 55,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.6645633348996443,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 7,
+   "program": "Beth Israel Deaconess Medical Center Program",
+   "resident_years": 38,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.45915284956702695,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 9,
+   "program": "Carolinas Medical Center Program",
+   "resident_years": 49,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.5920655165469558,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 11,
+   "program": "Cedars-Sinai Medical Center Program",
+   "resident_years": 96,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.1599650936430155,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 14,
+   "program": "Clinical Center at the National Institutes of Health Program",
+   "resident_years": 62,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.7491441229777808,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 15,
+   "program": "Cooper Medical School of Rowan University/Cooper University Hospital P",
+   "resident_years": 100,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.2082969725448078,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 16,
+   "program": "Corewell Health \u2013 Grand Rapids/Michigan State University Program",
+   "resident_years": 21,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.2537423642344096,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 19,
+   "program": "Duke University Hospital Program",
+   "resident_years": 196,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 2.3682620661878233,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 20,
+   "program": "Emory University School of Medicine Program",
+   "resident_years": 213,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 2.5736725515204406,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 27,
+   "program": "Icahn School of Medicine at Mount Sinai Program",
+   "resident_years": 141,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.7036987312881788,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 34,
+   "program": "Loyola University Medical Center Program",
+   "resident_years": 109,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.3170437000738404,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 39,
+   "program": "Mayo Clinic College of Medicine and Science (Phoenix) Program",
+   "resident_years": 13,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.157078606430825,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 40,
+   "program": "Mayo Clinic College of Medicine and Science (Rochester) Program",
+   "resident_years": 228,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 2.7549170974021617,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 66,
+   "program": "Tulane University/Ochsner Clinic Foundation Program",
+   "resident_years": 96,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.1599650936430155,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 68,
+   "program": "UMass Chan Medical School Program",
+   "resident_years": 15,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.18124454588172115,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 70,
+   "program": "University of Alabama Hospital (Birmingham) Program",
+   "resident_years": 208,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 2.5132577028932,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 79,
+   "program": "University of Cincinnati Medical Center/College of Medicine Program",
+   "resident_years": 132,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.5949520037591463,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 81,
+   "program": "University of Connecticut School of Medicine Program",
+   "resident_years": 10,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.12082969725448077,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 85,
+   "program": "University of Iowa Health Care Medical Center Program",
+   "resident_years": 142,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.715781701013627,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 89,
+   "program": "University of Maryland Program",
+   "resident_years": 136,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.6432838826609386,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 90,
+   "program": "University of Miami/Jackson Health System Program",
+   "resident_years": 206,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 2.4890917634423038,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 93,
+   "program": "University of Mississippi Medical Center Program",
+   "resident_years": 99,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.1962140028193597,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 97,
+   "program": "University of New Mexico School of Medicine Program",
+   "resident_years": 59,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.7128952138014366,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 98,
+   "program": "University of North Carolina Hospitals Program",
+   "resident_years": 128,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.546620124857354,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 100,
+   "program": "University of Pennsylvania Health System Program",
+   "resident_years": 210,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 2.537423642344096,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 101,
+   "program": "University of Puerto Rico School of Medicine Program",
+   "resident_years": 67,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.8095589716050212,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 103,
+   "program": "University of South Florida Morsani Program",
+   "resident_years": 149,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.8003624890917636,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 106,
+   "program": "University of Texas at Austin Dell Medical School Program",
+   "resident_years": 3,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.036248909176344234,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 113,
+   "program": "University of Virginia Medical Center Program",
+   "resident_years": 169,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 2.042021883600725,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 122,
+   "program": "Westchester Medical Center Program",
+   "resident_years": 82,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 0.9908035174867423,
+   "p": 1.0,
+   "q": 1.0
+  },
+  {
+   "pid": 124,
+   "program": "Zucker School of Medicine at Hofstra/Northwell Program 124 programs fo",
+   "resident_years": 140,
+   "left": 0,
+   "annual_rate": 0.0,
+   "expected": 1.6916157615627307,
+   "p": 1.0,
+   "q": 1.0
+  }
+ ]
+}

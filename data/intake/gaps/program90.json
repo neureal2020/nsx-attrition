@@ -1,0 +1,252 @@
+{
+ "program_id": 90,
+ "name": "University of Miami/Jackson Health System Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "complement_note": "3 per year for every observed class 2008-2024; 4 per year from the 2025 and 2026 classes.",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.jhsmiami.org/body.cfm?id=8942 (Jackson Health System 'Resident and Fellows Bios'; UM dept page linked here)",
+   "from": "2009-07",
+   "to": "2010-12 (last capture)"
+  },
+  {
+   "url": "http://neurosurgery.med.miami.edu/about/residents-fellows (link-out page only, no names)",
+   "from": "2010-11",
+   "to": "2020-02"
+  },
+  {
+   "url": "http://neurosurgery.med.miami.edu/documents/UM_Neurosurgery_Training_Programs.pdf, -UM_Neurosurgery_Training_Programs_2014.pdf, w_Training_Programs_2015.pdf (brochures with resident pages: 2010-11, 2014-15, 2015-16)",
+   "from": "2015-06",
+   "to": "2017-08 (capture dates)"
+  },
+  {
+   "url": "http://neurosurgery.med.miami.edu/education/current-residents(/) (+ /Current-residents1 intro subpage)",
+   "from": "2015-11",
+   "to": "2020-07 (Aug 2020+: 'Site Error' stub; host retired)"
+  },
+  {
+   "url": "http://neurosurgery.med.miami.edu/alumni/resident-alumni (+ /University-of-Miami-Neurosurgery-Resident-Alumni)",
+   "from": "2016-11",
+   "to": "2020-02"
+  },
+  {
+   "url": "http://www.jacksonhealth.org/residency-neurologicalsurgery.asp -> /graduate/neurosurgery.asp -> /graduate/neurosurgery/ (program info only, no roster)",
+   "from": "2013-05",
+   "to": "2019-10"
+  },
+  {
+   "url": "https://med.miami.edu/en/departments/neurosurgery/education/residency-program/current-residents",
+   "from": "2023-01",
+   "to": "2023-01 (single capture)"
+  },
+  {
+   "url": "https://med.miami.edu/departments/neurosurgery/education/residency-program/current-residents",
+   "from": "2024-08",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://med.miami.edu/departments/neurosurgery/education/alumni/meet-our-alumni",
+   "from": "2022-10",
+   "to": "live (resident alumni through 2023)"
+  }
+ ],
+ "observed_years": [
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2022-2023",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2021-2022",
+  "2023-2024"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2010-2011": "Pre-window anchor loaded: Jackson bios page (jhsmiami.org/body.cfm?id=8942), 2010-12-30 capture, 18 residents by PGY heading.",
+  "2011-2012": "No roster capture. The UM page about/residents-fellows only linked to jhsmiami.org/body.cfm?id=8942, whose last Wayback capture is 2010-12 (checked body.cfm and blank.cfm print variants, jhsmiami.org prefix 2011-2014). jacksonhealth.org residency pages (2013-2019) and the 2014 Jackson PDFs (brochure, manual) carry no names. UM education/residency-program page (2012) has no roster. Common Crawl 2011-2014 on jhsmiami id=8942 and neurosurgery.med.miami.edu/about|education: nothing. Reconstructed 18 (bracketed 2010-11/2014-15 or alumni-confirmed). Unseen short-stay residents possible.",
+  "2012-2013": "Same searches as 2011-12; reconstructed 19. Jeremiah Johnson and Faiz Ahmad carried with PGY unknown (Johnson took an extra year: expected grad 2013, graduated 2014; Ahmad was PGY-2 in 2010-11 and chief in 2013-14).",
+  "2013-2014": "Same searches as 2011-12; reconstructed 20 (2014 brochure names Johnson, Ahmad, Ashour 'Chief Resident Class of 2014').",
+  "2014-2015": "Observed from the department brochure PDF 'UM_Neurosurgery_Training_Programs_2014.pdf' (captured 2015-06-16), resident page 'PGY NS-n' (NS-1 = July 2014 entrants). 20 residents, complete (3/class, 2 in the 2009 class after Ahmad's early finish).",
+  "2020-2021": "Only a 2020-07-04 capture (July), but content-dated 2020-21: new interns Brusko/Lu/S. Shah listed and all PGYs advanced. Host returned 'Site Error' from 2020-08.",
+  "2021-2022": "No capture: old host retired Aug 2020; med.miami.edu (/en/)departments/neurosurgery roster page first captured 2023-01-31 (CDX exact+prefix, gapaudit 2020-2024 on both paths and old host). Common Crawl 2020-2024 (3 SURT prefixes): no roster pages. Reconstructed 18 bracketed/alumni-confirmed; 2021 interns (Elarjani, Khalafallah, Vyas) not reconstructed as PGY-1. PHASE 2: 2021 interns Elarjani, Khalafallah, Vyas added as reconstructed PGY-1 ('Started in 07/2021' on the 2023-01 page; NPPES FL trainee NPIs April 2021).",
+  "2022-2023": "Observed (2023-01-31, /en/ path). PGY-7 Daniel Eichberg omitted by the page; PHASE 2 added him in a separate manual capture (bracketed by PGY-5 2020-21 and alumni grad 2023). news.med.miami.edu 'Neurosurgeons Showcase at Spine Summit 2023' (April 18, 2023): 'many of our 21 residents' = 20 listed + Eichberg, so the year is complete.",
+  "2023-2024": "Still no roster capture (Wayback exact+prefix on med.miami.edu/(en/)departments/neurosurgery 2023-02..2024-07; graduate.jacksonhealth.org has no roster; news.med.miami.edu 2023-24 articles give no resident list; Common Crawl 2023-2024 incl. retried CC-MAIN-2024-26: nothing). PHASE 2 reconstruction adds: PGY-7 Joshua Burks, Aria Jamshidi, Christian Theodotou (page 'Graduate in 06/2024'; Jamshidi is a UW Neurological Surgery fellow 2024-25; Theodotou NPPES neurosurgery practice in Orlando certified 2024-07-01; Burks UM affiliations to 2025 + NPPES FL/CA neurosurgery licences) and PGY-1 Govindarajan, Tigchelaar ('Started in 07/2023'; FL trainee NPIs 2023-03-30 / 2023-04-03). Katherine Berry (PGY-6) not added (never seen later) but UM Neurological Surgery affiliations on papers through 2024-04 indicate she was still present in 2023-24. 2023 class: O'Hehir 'Started in 07/2024' as PGY-2, graduates 2030 with the 2023 class; her FL trainee NPI was issued 2023-04-05, the same week as the two 2023 interns, so she was probably in a Florida PGY-1 in 2023-24 earmarked for this class. A third original 2023 intern leaving cannot be excluded without the roster (lead: Andres M. Corona, UM student with neurosurgery papers 2021-23, FL trainee NPI 2023-03-20, UM Dept of Surgery affiliations 2025-26 -- no evidence he was ever a neurosurgery resident).",
+  "2024-2025": "Two captures (2024-08-24, 2024-12-27) identical; Katherine Berry (2018 class) absent, classmates Boddu/Kader PGY-7.",
+  "2026-2027": "Live page fetched 2026-09-27; PGYs advanced, 4 new PGY-1s; loaded."
+ },
+ "alumni_page": "https://med.miami.edu/departments/neurosurgery/education/alumni/meet-our-alumni",
+ "departures": [
+  {
+   "name": "Katherine Berry",
+   "last_ay": "2023-2024 (publications; last roster 2022-2023)",
+   "last_pgy": 6,
+   "note": "2018 entrant (earlier IU PGY-1 2017-18). Last roster PGY-5 2022-23; UM affiliations on papers through 2024-04; absent 2024-25 (classmates Boddu/Kader PGY-7) and later; not on alumni list. Left before PGY-7 ~mid-2024, outcome unknown (NPPES name match: Neurological Surgery, Pittsburgh PA, updated 2024-06-13; not on UPMC/AHN resident or fellow pages). training_history: completed=no, departure_type=unknown, end_year 2024."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Mary Margaret O'Hehir",
+   "first_ay": "2024-2025",
+   "first_pgy": 2,
+   "note": "Page: 'Started in 07/2024', graduates 06/2030 with the 2023 class. UB MD; FL trainee NPI 2023-04-05 (same week as Miami's 2023 interns) -> PGY-1 2023-24 probably in Florida (prelim or equivalent), not on the Buffalo NS roster. Recorded in training_history as joined at PGY-2 in 2024."
+  }
+ ],
+ "other_notes": [
+  "Faiz Ahmad: PGY-2 in 2010-11 (2009 class) but Chief Resident Class of 2014; alumni page lists him under both 2014 and 2016. Accelerated completion, not a departure.",
+  "Jeremiah Johnson: PGY-5 2010-11 expected grad 2013, graduated 2014 (extra year).",
+  "Daniel Eichberg: missing from the 2022-23 page's chief list, but alumni page grad 2023 -> completed.",
+  "Lead check: Javier Figueroa never appears on any Miami resident roster (2010-11 Jackson page, 2014-15/2015-16 brochures, 2015-2020 current-residents captures, 2023-2026 pages). He is listed on neurosurgery.med.miami.edu/education/current-fellows as a Trauma fellow (Jackson South): 'Started 07/2017, Graduate 06/2018' (2017-09 to 2018-05 captures), 'Started 07/2018, Graduate 06/2019' (2018-08, 2019-01), 'Trauma Fellow, Started 07/2019, Graduates 06/2020' (2019-09, 2020-02). So his 2017-2020 Miami/Jackson time was a neurotrauma fellowship, not a neurosurgery residency; his absence from the resident alumni list is expected."
+ ],
+ "residents_2011plus": 50,
+ "adjudication_summary": {
+  "COMPLETED": 44,
+  "IN TRAINING": 23,
+  "LEFT -> did not complete": 1,
+  "left_names": [
+   "Katherine Berry"
+  ],
+  "note": "after phase 2 (includes pre-2011 entrants on the 2010-11 anchor roster)"
+ },
+ "problems": "Phase-1 failed Common Crawl crawls all retried successfully (no roster content). news.med.miami.edu live search is behind a Cloudflare challenge (used Wayback instead). OpenAlex returned 429; not retried (PubMed/Europe PMC used).",
+ "year_status": {
+  "2010-2011": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "pre-window anchor (Jackson bios page 2010-12)"
+  },
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "no roster exists; every 2008-2013 class is 3/3 (complement) on both sides and NPI enumeration years of the 2011-13 entrants match their entry years (not later replacements); PubMed 2011-14 mining found no unlisted resident"
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "same as 2011-12"
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "same as 2011-12; 2014 brochure names the three chiefs of the Class of 2014"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "department brochure PDF, complete"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "current-residents page"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "current-residents page"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "current-residents page"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "current-residents page"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "current-residents page"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "July 2020 capture already content-dated 2020-21"
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "no capture; every class seen in 2020-21 is complete in 2022-23 or on the 2022 alumni list, and the 2021 interns carry 'Started in 07/2021' (added as PGY-1); only a 4th short-stay 2021 intern could be missed (complement 3)"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2023-01 capture omits PGY-7 Eichberg (added as reconstructed); April 2023 department news cites '21 residents' = 20 listed + Eichberg"
+  },
+  "2023-2024": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "no capture; all classes accounted for: 2017 PGY-7s graduated 2024 (UW fellowship / NPPES practice), 2023 interns from page start dates, Berry's departure dated ~mid-2024 by publications; residual doubt only whether a 3rd 2023 intern left and O'Hehir (joined PGY-2 07/2024, FL trainee NPI 2023-04-05) filled the slot"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "two identical captures"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2026-03 capture"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page, advanced"
+  }
+ },
+ "completions_resolved_phase2": [
+  {
+   "name": "Aria Jamshidi",
+   "end_year": 2024,
+   "evidence": "UW Neurological Surgery current fellows (Acting Instructor) 2024-09, 2025-03"
+  },
+  {
+   "name": "Christian Theodotou",
+   "end_year": 2024,
+   "evidence": "page 'Graduate in 06/2024'; NPPES neurosurgery practice Orlando certified 2024-07-01"
+  },
+  {
+   "name": "Joshua Burks",
+   "end_year": 2024,
+   "evidence": "page 'Graduate in 06/2024'; off 2024-25 roster; NPPES neurosurgery FL+CA licences, Lake Worth FL 2025"
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "gapaudit 2011-2014: jhsmiami.org, jacksonhealth.org, neurosurgery.med.miami.edu (+www)",
+   "gapaudit 2021-07..2024-08: med.miami.edu/(en/)departments/neurosurgery, jacksonhealth.org/graduate, graduate.jacksonhealth.org, med.miami.edu GME paths",
+   "CDX digest histories of residency-program, current-residents, current-fellows, meet-our-alumni and dept home 2021-2025; dept home captures 2023-03..2024-07 link audit",
+   "news.med.miami.edu CDX prefix 2021-2025 (60,611 URLs) filtered to neurosurgery/resident/match/graduation; 12 articles fetched",
+   "Common Crawl retries: CC-MAIN-2014-15, 2020-05, 2021-17, 2022-49, 2024-26 (both SURT prefixes) all OK, no roster; plus org,jhsmiami)/ and org,jacksonhealth)/ 2012-2014 (CC-MAIN-2014-42 retried OK)",
+   "jhsmiami 'Graduating Classes.xls' (2013; internal medicine only)",
+   "PubMed affiliation mining 2011-2014 and 2023-2026; per-person PubMed/Europe PMC for Burks, Jamshidi, Theodotou, Berry, O'Hehir, Eichberg, Corona",
+   "NPPES API + local nppes.db: enumeration state/date cohort check for 2011-2024 entrants; UPMC/AHN/Buffalo/UW rosters and fellow pages",
+   "live med.miami.edu fellows/faculty/alumni pages; graduate.jacksonhealth.org program page (no roster); news.med.miami.edu search blocked by Cloudflare (not bypassed); OpenAlex 429 (skipped)"
+  ],
+  "found": [
+   "Eichberg completes 2022-23 (21 residents per April 2023 news)",
+   "Jamshidi UW fellow 2024-25 -> 2024 graduate; Theodotou and Burks 2024 completion inferred (page projection + NPPES practice/licences)",
+   "Berry present at Miami through ~2023-24 (publications); left before PGY-7",
+   "O'Hehir FL trainee NPI 2023-04-05 alongside 2023 interns",
+   "2021 and 2023 interns placed as PGY-1 via page start dates"
+  ],
+  "remaining": [
+   "No literal roster for 2011-12..2013-14, 2021-22, 2023-24 (all low significance)",
+   "Whether a third original 2023 intern left during 2023-24 (O'Hehir slot); lead Andres M. Corona unconfirmed",
+   "Katherine Berry outcome after leaving (~2024) unknown"
+  ]
+ }
+}

@@ -1,0 +1,348 @@
+{
+ "program_id": 6,
+ "name": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple) Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "complement_note": "1/yr 2014-2023 ('We accept one resident per year', bswhealth.med 2019-2024); 2/yr from 2024 entry (Bindal+Ciavarra, Birney+Khan)",
+ "first_class_year": 2014,
+ "hosts": [
+  {
+   "url": "http://healthcare-professionals.sw.org/graduate-medical-education/residencies/neurosurgery/ (neurosurgery = overview, residents = roster)",
+   "from": "2015-09",
+   "to": "2018-03 (301 -> bswhealth.med)"
+  },
+  {
+   "url": "https://www.bswhealth.med/education/Pages/gme/temple/neurosurgery-residency.aspx",
+   "from": "2018-03 (first capture 2019-07)",
+   "to": "2025-04 (301 -> bswhealth.com); roster JS-loaded from phyndapi.bswapi.com/v2/Gme/GetGmePhysicians, never archived for this program"
+  },
+  {
+   "url": "https://www.bswhealth.com/medical-professionals/education/graduate-medical-education/temple/neurosurgery-residency/faculty-and-residents",
+   "from": "2025-04",
+   "to": "live 2026-09-27 (roster + Alumni section, server-rendered)"
+  }
+ ],
+ "observed_years": [
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2023-2024 (group photo, source_type other)",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "reconstructed_years": [
+  "2014-2015",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023"
+ ],
+ "missing_years": [
+  "2026-2027"
+ ],
+ "not_applicable_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014"
+ ],
+ "gap_details": {
+  "2011-2012..2013-2014": "Program not yet running: neurosurgery absent from S&W GME residency-programs index (captures 2012-04, 2013-11, 2014-09); first class = Robinson (UNM 2014, NPI 2014-04, PGY3 in 2016-17, 2021 graduate). No www.sw.org/web gme_Neurosurgery page ever existed.",
+  "2014-2015": "No program page captured before 2015-09 (overview only); residents page first captured 2016-06. Reconstructed: Robinson PGY1 (alumni 2021 graduate).",
+  "2015-2016": "Only capture 2016-06-25 (content = 2015-16: Robinson+Dayawansa, no Lyon). Both listed under one 'PGY1' heading; Robinson's PGY left null.",
+  "2018-2019": "sw.org residents page 301 to bswhealth.med from 2018-03; bswhealth.med page not archived until 2019-07. Reconstructed alumni-confirmed residents only.",
+  "2019-2020..2023-2024": "bswhealth.med page captured 19 content versions (2019-07..2024-12) but the resident list was rendered client-side from phyndapi.bswapi.com/v2/Gme/GetGmePhysicians?programName=Neurosurgery Residency-Temple, Texas; no API capture exists in Wayback for this program (36 GetGme captures, all other programs); no V1/Photo captures coincide with page captures; departments/neuroscience/neurosurgery.aspx (16 versions) has no resident names; scholarly-work-2022-2023.pdf covers pathology only. Common Crawl (75 crawls 2018-2025; SURTs med,bswhealth)/education/pages/gme/temple/neurosurgery and com,bswapi,phyndapi)/v2/gme/getgmephysicians?programname=neurosurgery): 29 captures of the bswhealth.med page (2018-03..2025) all JS shells without names (2018 version loaded roster from providerapi.bswapi.com/v1/Gme/GetGmePhysicians, 0 Wayback captures); 0 GetGme API records; 6 crawl/prefix lookups failed on index range errors (2018-26, 2019-30, 2020-50, 2022-33, 2024-26, 2025-43). Reconstructed only alumni-confirmed (Robinson, Dayawansa, Lyon, Liang, Soto, Reed). Keith (2019), Nguyen (2020), Daly (2021), Gearhart (2022), Gonzalez (2023) entrants are first SEEN in 2024-25 at PGY6/5/4/3/2 and NOT reconstructed (not bracketed, not yet graduated). Any resident who entered and left between 2018 and 2024 would be invisible.",
+  "2024-2025": "Only capture 2025-04-16 (spring); consistent with alumni (Reed PGY7 = 2025 graduate).",
+  "2026-2027": "MISSING: live page (2026-09-27) is byte-for-byte the 2025-26 roster (Keith PGY-7, Birney/Khan PGY-1; phyndapi programYear fields identical; alumni list stops at 2025 graduate Reed). Live page therefore not loaded as 2026-27; captures 2026-05/07/08 identical too. No 2026 intern class visible. Phase 2: re-fetched 2026-09-28, still stale (Keith listed although NPPES shows her practising in Waco since 2026-08). Asad Danka (NPI 2026-03 Temple trainee, BCM-Temple neurosurgery paper 2026) is a possible 2026 intern but unconfirmed.",
+  "2018-2019..2023-2024 (phase 2)": "Wayback CDX over providerapi.bswapi.com (23 URLs: typeahead/auth only, no /v1/Gme) and phyndapi.bswapi.com (1281 URLs: 31 v2/Gme/GetGmePhysicians, all other programs; 5 GetGmePrograms; no Neurosurgery-Temple record); bswhealth.med/ProviderPhotos (13 photo files, numeric ids, no names). gapaudit over www.bswhealth.med/education/, healthcare-professionals.sw.org/graduate-medical-education, www.bswhealth.com/medical-professionals/education 2018-2024: no roster, handbook, news or match page naming neurosurgery residents; found PublishingImages/temple/neurosurgery-residency/group.jpg (2024-03-30) = 2023-24 group photo with name-embroidered coats, loaded as 2023-24. PubMed affiliation mining (neurosurgery + Scott & White + Temple, 2014-2026, 329 PMIDs) shows each 2019-2023 entrant at Temple from his/her entry year: Keith 2019, Nguyen 2020, Daly 2021, Gearhart 2023, Gonzalez 2023; NPPES enumeration dates match (Keith 2019-03, Nguyen 2020-03, Gearhart 2022-04, Gonzalez 2023-04; Daly student NPI 2019-07 Minneapolis). No other resident surfaced: other Temple-neurosurgery-affiliated authors 2018-2024 are faculty/research staff (Vance, Qaiser, Nizamutdinov, Harris, Feng, Wu, Murillo = neurology DO) or medical students (Sulhan = TAMU student then Houston Methodist resident 2020+; Ajala, Bhenderu = TAMU students, NPI 2024 elsewhere; Hernandez, Danka = BCM-Temple students). Every entry class 2014-2023 has exactly one resident (complement 1/yr), each class continuous from entry to 2024-25 or graduation, so an unseen entrant who left would have had to be an above-complement extra or be replaced mid-stream; no evidence of either. The five 2019-2023 entrants were therefore reconstructed into 2019-20..2022-23."
+ },
+ "alumni_page": "https://www.bswhealth.com/medical-professionals/education/graduate-medical-education/temple/neurosurgery-residency/faculty-and-residents#Alumni",
+ "alumni": {
+  "2021": [
+   "Timothy Robinson"
+  ],
+  "2022": [
+   "Samantha Dayawansa"
+  ],
+  "2023": [
+   "Buqing Liang",
+   "Kristopher Lyon"
+  ],
+  "2024": [
+   "Jose Soto"
+  ],
+  "2025": [
+   "Laura Reed"
+  ]
+ },
+ "departures": [],
+ "joiners": [
+  {
+   "name": "Buqing Liang",
+   "first_ay": "2017-2018",
+   "first_pgy": 2,
+   "note": "not on 2016-17 roster; Fudan 2014 MD, NPI 2014-06; completed 2023 (alumni). Entered at PGY2 = transfer-in or credited prior PGY1 elsewhere; makes the 2016 entry cohort 2 (Lyon+Liang). Phase 2: PubMed 2016 Harlem Hospital/Columbia general surgery and 2017 Weill Cornell neurosurgery affiliation; not on Cornell (49) resident rosters -> credited outside PGY1, not a neurosurgery-program transfer. training_history row added (start 2017)."
+  }
+ ],
+ "entry_classes": {
+  "2014": [
+   "Timothy Robinson"
+  ],
+  "2015": [
+   "Samantha Dayawansa"
+  ],
+  "2016": [
+   "Kristopher Lyon"
+  ],
+  "2017": [
+   "Jose Soto",
+   "Buqing Liang (joined at PGY2 2017-18; PGY1 done elsewhere)"
+  ],
+  "2018": [
+   "Laura Reed"
+  ],
+  "2019": [
+   "Kristin Keith"
+  ],
+  "2020": [
+   "Anthony Nguyen"
+  ],
+  "2021": [
+   "Samuel Daly"
+  ],
+  "2022": [
+   "Sam Gearhart"
+  ],
+  "2023": [
+   "Sarah-Marie Gonzalez"
+  ],
+  "2024": [
+   "Shray Bindal",
+   "Bronson Ciavarra"
+  ],
+  "2025": [
+   "Mia Birney",
+   "Saif Khan"
+  ]
+ },
+ "residents_2011plus": 15,
+ "adjudication_summary": {
+  "COMPLETED": 6,
+  "IN TRAINING": 9,
+  "departures_detected": 0
+ },
+ "problems": "Only 2026-27 remains significant (stale live page). 2018-19..2022-23 have no roster anywhere (JS-loaded from an API never archived), but each class is accounted for by alumni graduation or by NPI/PubMed continuity plus the 2023-24 group photo. Common Crawl: data.commoncrawl.org returned 403 to this IP during phase 2 (shared with other agents); see cc_status. Unfinished CC pairs: 73 (providerapi v1/gme for 2018-13..2019 crawls; phyndapi v1/gme for 2019-2024 crawls), listed in cc_status.unfinished. These are low-yield: Wayback shows no /Gme URLs on either host.",
+ "year_status": {
+  "2011-2012": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "program not yet running (first class 2014)"
+  },
+  "2012-2013": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "program not yet running"
+  },
+  "2013-2014": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "program not yet running"
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "first year, sole resident Robinson (2021 grad); 2015-16 page shows only Robinson+Dayawansa, so no other 2014 entrant existed long enough to be listed"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "June 2016 roster; Robinson PGY null on page"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Sep 2016 roster"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Aug 2017 roster, unchanged in Jan 2018 capture"
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "all 6 residents are alumni-confirmed on-time graduates; the 2018 entry slot (complement 1) is filled by Reed (PubMed Temple 2019+); an extra unseen resident would exceed the 1/yr complement"
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "alumni-confirmed + Keith (NPI 2019-03, PubMed Temple 2019); every class at complement 1"
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "alumni-confirmed + Keith, Nguyen (NPI 2020-03 at neurosurgery mail stop, PubMed Temple 2020)"
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "alumni-confirmed + Keith, Nguyen, Daly (PubMed Temple from 2021 as PGY1)"
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "alumni-confirmed + Keith, Nguyen, Daly, Gearhart (NPI 2022-04 Temple); bracketed by the 2023-24 group photo"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "2024-03 group photo of exactly 7 residents with embroidered names (4 legible, 2 partial, Soto unlabeled) = full expected roster; no PGY labels"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Apr 2025 roster"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Oct 2025 roster"
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "live page (re-fetched 2026-09-28) still the 2025-26 roster; 2026 intern class unknown and departures after 2025-26 cannot be excluded. Partial evidence: Keith graduated (NPPES Waco neurosurgery, 2026-08); Nguyen, Gearhart, Gonzalez on Temple papers indexed Jul-Sep 2026"
+  }
+ },
+ "crossmatch_checked": [
+  {
+   "pair": "Huy Tram Nguyen (UChicago 78, last 2020-21) -> Anthony Nguyen (6)",
+   "verdict": "REJECTED: different first name; Anthony Nguyen has NPI 2020-03 at BSW Temple neurosurgery and Temple papers from 2020, i.e. a Temple PGY1 in 2020-21"
+  }
+ ],
+ "terminal_pgy_by_entry_year": {
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7
+ },
+ "alumni_extra": {
+  "2026": [
+   "Kristin Keith (PGY-7 2025-26; NPPES Waco neurosurgery 2026-08; alumni list not yet updated)"
+  ]
+ },
+ "phase2": {
+  "searched": [
+   "Wayback CDX providerapi.bswapi.com, phyndapi.bswapi.com (all paths), bswapi.com",
+   "Wayback CDX bswhealth.med ProviderPhotos, PublishingImages, Documents/temple",
+   "gapaudit 2018-2024 on bswhealth.med/education, healthcare-professionals.sw.org/graduate-medical-education, bswhealth.com/medical-professionals/education",
+   "Common Crawl retries of the 6 failed phase-1 crawl/prefix pairs, plus providerapi v1/Gme (2018-19 crawls) and phyndapi v1/Gme (2019-24 crawls): see CC status below",
+   "PubMed affiliation mining 2014-2026 (329 PMIDs) + per-author affiliation detail",
+   "NPPES for all 2019-2023 entrants and all non-faculty Temple-neurosurgery authors",
+   "live page re-fetch 2026-09-28",
+   "crossmatch.json pair (Nguyen)"
+  ],
+  "found": [
+   "2023-24 group photo (7 residents, names on coats) -> 2023-24 observed",
+   "NPI + PubMed continuity for Keith, Nguyen, Daly, Gearhart, Gonzalez from entry year -> reconstructed into 2019-20..2022-23",
+   "Keith graduated 2026 (NPPES Waco) -> training_history",
+   "Liang's PGY1 was general surgery at Harlem Hospital (not a transfer)",
+   "crossmatch Huy Tram Nguyen -> Anthony Nguyen rejected"
+  ],
+  "remaining": [
+   "2026-27 missing: live page stale; 2026 interns and any 2025-26 -> 2026-27 departures unobservable (significant)",
+   "2018-19..2022-23 still reconstructed (no roster exists); significance low because every 1-slot class is accounted for"
+  ]
+ },
+ "cc_status": {
+  "done": [
+   "all 6 phase-1 failed pairs retried OK: 2018-26, 2019-30, 2022-33, 2024-26, 2025-43 phyndapi v2 GetGmePhysicians Neurosurgery = 0 records; 2020-50 bswhealth.med neurosurgery page = 1 capture (2020-11-28), JS shell with no names",
+   "providerapi v1/gme: CC-MAIN-2018-05, 2018-09 = 0 records",
+   "phase-1 page captures (29 plus 2020-11) already cover the neurosurgery page URL under both filters"
+  ],
+  "unfinished": [
+   "CC-MAIN-2018-13 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2018-17 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2018-22 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2018-26 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2018-30 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2018-34 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2018-39 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2018-43 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2018-47 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2018-51 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-04 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-09 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-13 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-18 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-22 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-26 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-30 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-35 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-39 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-43 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-47 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-51 com,bswapi,providerapi)/v1/gme",
+   "CC-MAIN-2019-04 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-09 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-13 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-18 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-22 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-26 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-30 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-35 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-39 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-43 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-47 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2019-51 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2020-05 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2020-10 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2020-16 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2020-24 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2020-29 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2020-34 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2020-40 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2020-45 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2020-50 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2021-04 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2021-10 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2021-17 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2021-21 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2021-25 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2021-31 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2021-39 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2021-43 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2021-49 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2022-05 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2022-21 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2022-27 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2022-33 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2022-40 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2022-49 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2023-06 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2023-14 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2023-23 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2023-40 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2023-50 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2024-10 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2024-18 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2024-22 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2024-26 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2024-30 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2024-33 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2024-38 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2024-42 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2024-46 com,bswapi,phyndapi)/v1/gme",
+   "CC-MAIN-2024-51 com,bswapi,phyndapi)/v1/gme"
+  ],
+  "reason": "data.commoncrawl.org returned intermittent 403s to the shared IP; the scan (pid 59883) was killed after about 20 minutes, per the coordinator's instruction"
+ }
+}

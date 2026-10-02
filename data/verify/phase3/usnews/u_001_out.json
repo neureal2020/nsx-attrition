@@ -1,0 +1,464 @@
+[
+ {
+  "key": "28:jas:hill",
+  "name": "Jason Hill",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "Jason Hills on US News are neurologist/internist/EM/OB/radiologist; none plausible"
+ },
+ {
+  "key": "28:bla:priddy",
+  "name": "Blake Priddy",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/blake-priddy-1474291",
+  "education": [],
+  "specialty": "Other or Unknown Specialty (Miramar FL, wound physicians practice)",
+  "evidence": "MD Ohio State University College of Medicine; no residency listed; publications are skull base neurosurgery",
+  "notes": "Profile lists no residency dates; practices at Vohra Wound Physicians. Consistent with switched_specialty"
+ },
+ {
+  "key": "30:dav:mcmullen",
+  "name": "David McMullen",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch found no matching US News profile"
+ },
+ {
+  "key": "31:meg:mcclure",
+  "name": "Meghan McClure",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/meghan-mcclure-894016",
+  "education": [
+   "Residency, Neurological Surgery, 2012-2018 at Loma Linda University Health Education Consortium",
+   "Medical School: UC Davis School of Medicine"
+  ],
+  "specialty": "Radiology (Children's Minnesota)",
+  "evidence": "Loma Linda University Health Education Consortium / Residency, Neurological Surgery, 2012-2018",
+  "notes": "Now listed as radiologist, Minneapolis"
+ },
+ {
+  "key": "32:cor:markham",
+  "name": "Cory Markham",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/cory-markham-1068007",
+  "education": [
+   "Residency, Emergency Medicine, 2016-2019 at Louisiana State University School of Medicine",
+   "Medical School: LSU School of Medicine in Shreveport"
+  ],
+  "specialty": "Neurosurgery (Willis-Knighton, Shreveport) per header",
+  "evidence": "Residency, Emergency Medicine, 2016-2019; award Donald R. Smith MD Award for Excellence in Neurosurgery, 2015",
+  "notes": "Header says Neurosurgery but residency listed is Emergency Medicine 2016-2019; consistent with switched_specialty"
+ },
+ {
+  "key": "32:sia:lee",
+  "name": "Siang Liao Lee",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/siang-liao-lee-1010159",
+  "education": [
+   "Residency, Family Medicine, 2020-2023 at University of Illinois College of Medicine at Chicago",
+   "Internship, Preliminary Year, 2014-2015 at McGaw Medical Center of Northwestern University"
+  ],
+  "specialty": "Other or Unknown Specialty (Chicago IL)",
+  "evidence": "Residency, Family Medicine, 2020-2023 / Internship, Preliminary Year, 2014-2015 at McGaw Northwestern",
+  "notes": "Switched to family medicine; neurosurgery not listed as completed. Contradicts finding_outcome=unknown only in that it is a switch"
+ },
+ {
+  "key": "34:dav:liniewski",
+  "name": "David Liniewski",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/dawid-liniewski-43281",
+  "education": [
+   "Residency, Neurological Surgery, 2009-2015 at Loyola University Medical Center",
+   "Internship, Transitional Year, 2008-2009 at Loyola Medicine MacNeal Hospital",
+   "Medical School: American University of Integrative Sciences, Sint Maarten"
+  ],
+  "specialty": "Neurosurgery (Maywood IL)",
+  "evidence": "Loyola University Medical Center / Residency, Neurological Surgery, 2009-2015",
+  "notes": "Listed as Dawid Liniewski"
+ },
+ {
+  "key": "36:rob:gramer",
+  "name": "Robert Gramer",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/robert-gramer-1425573",
+  "education": [
+   "Medical School: Duke University School of Medicine",
+   "Masters of Health Science, Neuroscience, 2014-2020 at Duke University School of Medicine"
+  ],
+  "specialty": "Resident Physician (Boston MA)",
+  "evidence": "Duke MD; listed 'Resident Physician', no residency line",
+  "notes": "No residency program/dates listed; Boston address consistent with MGB residency"
+ },
+ {
+  "key": "37:jac:kushkuley",
+  "name": "Jacob Kushkuley",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/jacob-kushkuley-1076611",
+  "education": [
+   "Medical School: UMass Chan Medical School"
+  ],
+  "specialty": "Other or Unknown Specialty (Ashland MA)",
+  "evidence": "UMass Chan Medical School / Medical School; no residency listed",
+  "notes": "No residency listed; MA license active through 2018 only"
+ },
+ {
+  "key": "38:jam:ebot",
+  "name": "James Ebot",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "Search found james-ebot-1198523 (Dallas TX neurosurgeon, DO) but page returns 410 Page Not Found now"
+ },
+ {
+  "key": "38:ans:goyal",
+  "name": "Ansh Goyal",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "Only Anshit Goyal (anshit-goyal-2934585, Mayo Post Doctoral Fellowship Neurological Surgery 2017-2020 Rochester, AIIMS MD) found; not confidently same person; no residency dates for 2021 entry"
+ },
+ {
+  "key": "40:han:gilder",
+  "name": "Hannah Gilder",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No profile for Hannah Gilder"
+ },
+ {
+  "key": "40:arc:bhandarkar",
+  "name": "Archis Bhandarkar",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch found no matching US News profile"
+ },
+ {
+  "key": "41:ben:yang",
+  "name": "Benson Yang",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/benson-yang-607217",
+  "education": [
+   "Internship, Transitional Year, 2001-2002 at McGaw Medical Center of Northwestern University",
+   "Residency, Neurological Surgery, 2002-2007 at McGaw Medical Center of Northwestern University",
+   "Medical School: Yale School of Medicine"
+  ],
+  "specialty": "Neurosurgery (Chicago IL)",
+  "evidence": "McGaw Medical Center of Northwestern University / Residency, Neurological Surgery, 2002-2007",
+  "notes": "Listed as Benson P. Yang"
+ },
+ {
+  "key": "41:pat:hsieh",
+  "name": "Patrick Hsieh",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/patrick-hsieh-636207",
+  "education": [
+   "Residency, Neurological Surgery, 2001-2007 at McGaw Medical Center of Northwestern University",
+   "Fellowship, Neurosurgical Spine Surgery, 2005-2006 at McGaw Medical Center of Northwestern University",
+   "Fellowship, Neurosurgical Spine Surgery, 2007-2008 at Johns Hopkins University",
+   "Medical School: USC School of Medicine"
+  ],
+  "specialty": "Neurosurgery (Los Angeles CA, Keck USC)",
+  "evidence": "McGaw Medical Center of Northwestern University / Residency, Neurological Surgery, 2001-2007",
+  "notes": "Residency start listed 2001 vs entry_year 2002 in input"
+ },
+ {
+  "key": "41:rob:thiele",
+  "name": "Robert Thiele",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "Only Robert H. Thiele, anesthesiologist Charlottesville (Vanderbilt MD) found; not verified as same person, not opened"
+ },
+ {
+  "key": "42:sar:kavianpour",
+  "name": "Sarah Kavianpour",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/sarah-kavianpour-1415314",
+  "education": [
+   "Residency, Neurological Surgery at Medical College of Georgia (no dates)",
+   "MD: Chicago Medical School/Rosalind Franklin University",
+   "ScM Biochemistry and Molecular Biology, 2010-2012 Johns Hopkins Bloomberg SPH",
+   "MBA Health Care Management, Johns Hopkins Carey"
+  ],
+  "specialty": "Neurosurgery (Augusta GA)",
+  "evidence": "Medical College of Georgia / Residency, Neurological Surgery",
+  "notes": "No residency dates listed"
+ },
+ {
+  "key": "43:amo:ladouceur",
+  "name": "Amos Ladouceur",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/amos-ladouceur-741738",
+  "education": [
+   "Residency, Neurological Surgery, 2010-2014 at Medical College of Wisconsin Affiliated Hospitals",
+   "Residency, Surgery, 2006-2007 at Cedars-Sinai Medical Center",
+   "Medical School: Columbia Vagelos College of Physicians and Surgeons"
+  ],
+  "specialty": "General Surgery (Los Angeles CA)",
+  "evidence": "Medical College of Wisconsin Affiliated Hospitals / Residency, Neurological Surgery, 2010-2014",
+  "notes": "Listed neurosurgery residency 2010-2014 (input entry_year 2007; input outcome switched_specialty); current specialty General Surgery"
+ },
+ {
+  "key": "43:jos:jimenez",
+  "name": "Jose Sanchez Jimenez",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/jose-sanchez-jimenez-3210153",
+  "education": [
+   "Medical School: University of Puerto Rico School of Medicine"
+  ],
+  "specialty": "Neurosurgery (Mayaguez PR)",
+  "evidence": "University of Puerto Rico School of Medicine / Medical School; no residency listed",
+  "notes": "Header lists Neurosurgery, Mayaguez PR; WI license active through 2023; no residency dates; input says in_training"
+ },
+ {
+  "key": "44:lui:liogier-weyback",
+  "name": "Luis Liogier-Weyback",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch found no matching US News profile"
+ },
+ {
+  "key": "44:dav:brogan",
+  "name": "David Brogan",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "Only orthopedist David M. Brogan (St. Louis) and radiologist found; not verified/not opened"
+ },
+ {
+  "key": "45:rae:moustafa",
+  "name": "Raed Moustafa",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No profile"
+ },
+ {
+  "key": "46:ada:sandler",
+  "name": "Adam Sandler",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/adam-sandler-3395720",
+  "education": [
+   "Internship, Transitional Year, 2009-2010 at Temple University Hospital",
+   "Residency, Neurological Surgery, 2010-2016 at Montefiore Medical Center/Albert Einstein College of Medicine",
+   "Residency, Preventive Medicine, 2020-2022 at Icahn School of Medicine at Mount Sinai",
+   "Medical School: Icahn School of Medicine at Mount Sinai"
+  ],
+  "specialty": "Occupational Medicine (New Rochelle NY)",
+  "evidence": "Montefiore/Einstein / Residency, Neurological Surgery, 2010-2016; Mount Sinai / Residency, Preventive Medicine, 2020-2022",
+  "notes": "Consistent with switched_specialty"
+ },
+ {
+  "key": "48:gau:gupta",
+  "name": "Gaurav Gupta",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "Only US News Gaurav Gupta neurosurgeons found (gaurav-gupta-724821, Rutgers RWJ; Columbia internship 2001-2002 only, residency at Rutgers/NJMS 2004-2010) are a different person (JSS Mysore MD); not a match for Columbia 2011 entry"
+ },
+ {
+  "key": "48:pau:mccormick",
+  "name": "Paul McCormick",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "Only US News Paul McCormick profiles are an emergency-medicine DO (Maplewood MN) and possibly the senior Columbia neurosurgeon; no plausible match"
+ },
+ {
+  "key": "49:ste:addo-yobo",
+  "name": "Steven Addo-Yobo",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/steven-addo-yobo-1110052",
+  "education": [
+   "Internship, Neurological Surgery, 2011-2018 at New York Presbyterian Hospital (Cornell Campus)",
+   "Medical School, 2007-2011: University of Pittsburgh School of Medicine"
+  ],
+  "specialty": "Neurosurgery (New York NY)",
+  "evidence": "New York Presbyterian Hospital (Cornell Campus) / Internship, Neurological Surgery, 2011-2018",
+  "notes": "Dates span 2011-2018 labelled as internship"
+ },
+ {
+  "key": "49:lee:wheeler",
+  "name": "Lee Adam Wheeler",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch found no matching US News profile"
+ },
+ {
+  "key": "51:can:carpenter",
+  "name": "Candice Carpenter",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "Search found candice-carpenter-1071210 (Columbus OH neurosurgeon, OSU) but page returns 410 Page Not Found"
+ },
+ {
+  "key": "51:ore:zaninovich",
+  "name": "Orel Zaninovich",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/orel-zaninovich-1196086",
+  "education": [
+   "Medical School: University of Arizona College of Medicine-Tucson"
+  ],
+  "specialty": "Anesthesiology (Oro Valley AZ)",
+  "evidence": "Header specialty Anesthesiology; no residency lines listed",
+  "notes": "Consistent with switched_specialty; no residency dates listed"
+ },
+ {
+  "key": "51:ahm:jorge",
+  "name": "Ahmed Jorge",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch found no matching US News profile"
+ },
+ {
+  "key": "51:chr:swann",
+  "name": "Christen O'Neal Swann",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch found no matching US News profile"
+ },
+ {
+  "key": "52:pau:mcmahon",
+  "name": "Paul McMahon",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/paul-mcmahon-2328643",
+  "education": [
+   "Residency, Neurological Surgery, 2014-2017 at OHSU",
+   "Residency, Psychiatry, 2017-2020 at OHSU",
+   "Residency, Neurological Surgery, 2014-2021 at OHSU (second entry)",
+   "Doris Duke and NIMH Clinical Research Fellowship, Traumatic Brain Injury, 2012-2013 at University of Pittsburgh",
+   "Medical School: University of Miami Miller School of Medicine"
+  ],
+  "specialty": "Psychiatry (OHSU, Portland OR)",
+  "evidence": "Residency, Neurological Surgery, 2014-2017 / Residency, Psychiatry, 2017-2020",
+  "notes": "Consistent with switched_specialty; neurosurgery 2014-2017 then psychiatry 2017-2020"
+ },
+ {
+  "key": "52:yim:lin",
+  "name": "Yimo Lin",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch found no matching US News profile"
+ },
+ {
+  "key": "52:bri:stedelin",
+  "name": "Brittany Stedelin",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch found no matching US News profile"
+ },
+ {
+  "key": "53:dav:mcdermott",
+  "name": "David McDermott",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/david-mcdermott-1176290",
+  "education": [
+   "Residency, Neurological Surgery, 2014-2016 at Penn State Milton S Hershey Medical Center",
+   "Medical School: Commonwealth Medical College"
+  ],
+  "specialty": "Neurosurgery (Salisbury MD) per header",
+  "evidence": "Penn State Milton S Hershey Medical Center / Residency, Neurological Surgery, 2014-2016",
+  "notes": "Neurosurgery residency 2014-2016 only; publications (radiosurgery/systemic therapy) suggest possible move to another field; input outcome switched_specialty"
+ },
+ {
+  "key": "53:den:madden",
+  "name": "Dennis Madden",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch found no matching US News profile"
+ },
+ {
+  "key": "53:sam:alsalek",
+  "name": "Samir Alsalek",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "WebSearch found no matching US News profile"
+ },
+ {
+  "key": "55:amb:oros",
+  "name": "Amber Oros",
+  "usnews": "not_found",
+  "url": null,
+  "education": [],
+  "specialty": "",
+  "evidence": "",
+  "notes": "No profile"
+ },
+ {
+  "key": "55:jus:watkins",
+  "name": "Justen Watkins",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/justen-watkins-934916",
+  "education": [
+   "Residency, Neurological Surgery, 2013-2019 at OPTI-West/Riverside University Health System MC",
+   "Medical School: Arizona College of Osteopathic Medicine of Midwestern University"
+  ],
+  "specialty": "Family Medicine (Logan UT)",
+  "evidence": "OPTI-West/Riverside University Health System MC / Residency, Neurological Surgery, 2013-2019",
+  "notes": "Now listed as Family Medicine DO at Intermountain Logan; neurosurgery residency listed 2013-2019"
+ },
+ {
+  "key": "56:jos:morrison",
+  "name": "Joseph Morrison",
+  "usnews": "found",
+  "url": "https://health.usnews.com/doctors/joe-morrison-3023813",
+  "education": [
+   "Medical School: University of Illinois College of Medicine at Chicago"
+  ],
+  "specialty": "Resident Physician (Aurora CO)",
+  "evidence": "UIC College of Medicine; listed Resident Physician; no residency dates",
+  "notes": "Requested URL joseph-morrison-1187106 (Chicago neurosurgeon, Rush) redirected to joe-morrison-3023813 (Aurora CO). Aurora CO suggests possible neuroendovascular fellowship; identity mostly plausible, not certain"
+ }
+]

@@ -1,0 +1,223 @@
+{
+ "program_id": 98,
+ "name": "University of North Carolina Hospitals Program",
+ "program_length": 7,
+ "program_length_note": "Terminal PGY by entry cohort: entrants 2005-2008 did 7 years (Perry, Steenland, Orning; Geryk would have), entrants 2009-2012 did 6 years (RRC restructure of Jan 2010 shortened 7->6), entrants 2013+ do 7 years. No graduates in 2019 because of the 6->7 transition.",
+ "complement_per_year": 2,
+ "complement_note": "1 per year for entrants 2004-2009 (Maryanov, Perry, Steenland, Orning, Geryk, Kominek); 2 per year from 2010 (RRC approval Jan 2010, program news).",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.med.unc.edu/neurosurgery/education/composite11 (Plone 'Current Residents' page)",
+   "from": "2011",
+   "to": "2013-05 (Common Crawl CC-MAIN-2012 2012-05-26 and CC-MAIN-2013-20 2013-05-23; Wayback only a 2013 301)"
+  },
+  {
+   "url": "http://www.med.unc.edu/neurosurgery/education/current-residents (Plone) + /education/prior-graduates2",
+   "from": "2013-07",
+   "to": "2018-01"
+  },
+  {
+   "url": "https://www.med.unc.edu/neurosurgery/education/residency/2872-2/ (WordPress 'Current Neurosurgery Residents') + /education/residency/prior-graduates2/",
+   "from": "2018 (first capture CC 2019-06)",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://www.med.unc.edu/neurosurgery/news/... (match announcements 2012, 2016, 2018, 2019, 2024)",
+   "from": "2012",
+   "to": "2024"
+  },
+  {
+   "url": "http://www.med.unc.edu/surgery/education/files/ (UNC Dept of Surgery housestaff PDFs listing Neurosurgery residents by year: PGY20102011.pdf, 20112012SurgeryHousestaff.pdf)",
+   "from": "2010-11",
+   "to": "2011-12"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "OBSERVED (phase 2). composite11 roster in Common Crawl CC-MAIN-2012 (2012-05-26), content = 2011-12 (interns Aucoin/Olasunkanmi). 9 residents incl. Bruce Geryk (PGY4), missed in phase 1. Corroborated by Dept of Surgery 2011-12 housestaff PDF (09/22/11) and 2010-11 PDF (05/18/11).",
+  "2012-2013": "OBSERVED (phase 2). composite11 'Current Residents 2012-2013' in CC-MAIN-2013-20 (2013-05-23): 10 residents, Geryk PGY5, interns Omofoye/Yap.",
+  "2013-2014": "Sep 2013 capture. Orning 'Chief' = PGY7 (2007 entrant); corrected from phase-1 PGY6.",
+  "2016-2017": "No Aug 2016-Jan 2017 capture; Feb 2017 capture used.",
+  "2017-2018": "Oct 2017 capture; second PGY-1 name blank in text, image alt = Nathan Quig.",
+  "2018-2019": "No Wayback capture of any roster page Jan 2018-Aug 2019 (Plone->WordPress migration). Common Crawl CC-MAIN-2019-26 capture of 2872-2/ on 2019-06-24 is the complete 2018-19 roster (2018 interns PGY-1, 2019 interns not yet added) and is used. 'Chief Residents' there = PGY6.",
+  "2019-2020": "Oct 2019 capture. 'Chief Residents' = PGY7 from here on.",
+  "2023-2024": "Quig's text name blank; image alt 'Dr. Nathan Quig'.",
+  "2026-2027": "Live page advanced vs 2025-26 (Silva/Andrews chiefs, interns Karuparti/Price); loaded."
+ },
+ "alumni_page": "https://www.med.unc.edu/neurosurgery/education/residency/prior-graduates2/",
+ "departures": [
+  {
+   "name": "Bruce Geryk",
+   "last_ay": "2012-2013",
+   "last_pgy": 5,
+   "note": "2008 entrant (7-yr cohort), new in phase 2. PGY3 2010-11 (surgery PDF), PGY4 2011-12, PGY5 2012-13 (roster + 2012-07-19 news). Absent 2013-14, not on alumni list. Outcome unknown (training_history departure_type unknown)."
+  },
+  {
+   "name": "Oluwaseun Omofoye",
+   "last_ay": "2016-2017",
+   "last_pgy": 5,
+   "note": "Transferred. 2017-18 affiliation Dept of Neurosurgery, Boston Medical Center (PMID 29294115; program not in DB); UC Davis (77) PGY6 2018-19, graduated 2020."
+  },
+  {
+   "name": "Sam (Satvir) Saggi",
+   "last_ay": "2025-2026",
+   "last_pgy": 1,
+   "note": "Transferred to UVA (113) PGY2 2026-27; UVA bio: 'Neurosurgery Resident Intern, UNC Medical Center - 2025'."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Momodou Gobi Bah",
+   "first_ay": "2026-2027",
+   "first_pgy": 2,
+   "note": "Prelim general surgery year at Penn State Health, then PGY2 at UNC 2026-27 (fills Saggi's slot). Not a neurosurgery transfer."
+  }
+ ],
+ "residents_2011plus": 33,
+ "adjudication_summary": {
+  "COMPLETED": 23,
+  "IN TRAINING": 14,
+  "LEFT -> did not complete": 1,
+  "LEFT -> TRANSFERRED": 2,
+  "note": "40 persons (Geryk added). Geryk = unknown outcome; Omofoye -> UC Davis; Saggi -> UVA."
+ },
+ "problems": "SurgRes.xls (2011) is password-protected; not opened. CC-MAIN-2018-22 failed in phase 1 (AY 2017-18 already observed). No other problems.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "program roster (CC 2012-05) + surgery housestaff PDFs for 2010-11 and 2011-12 agree name-for-name"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "program roster (CC 2013-05) lists everyone from 2011-12 except graduate Perry, plus 2012 matches"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Feb 2017 capture only; any Jul 2016-Feb 2017 leaver would be missing, but 2015-16 and 2016-17 match exactly apart from graduates/new interns"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Common Crawl 2019-06 capture of full roster (2018 interns PGY1)"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture; chained with neighbouring years"
+  }
+ },
+ "training_history_added_phase2": 6,
+ "phase2": {
+  "searched": [
+   "Wayback gapaudit 2010-2013 over med.unc.edu/neurosurgery, /surgery/neurosurgery, /gme, /surgery/education",
+   "Common Crawl CC-MAIN-2009-2010, 2012, 2013-20, 2013-48 listing ALL URLs under neurosurgery and surgery/education (no roster filter)",
+   "UNC Dept of Surgery housestaff PDFs/XLS 2010-12",
+   "program news 2010-2013 (match, good-news, Geryk elective)",
+   "PubMed UNC neurosurgery affiliation 2008-2014; PubMed Omofoye, Geryk",
+   "crossmatch.json (Omofoye->77, Saggi->113)",
+   "UVA Saggi bio, UC Davis rosters 2017-19"
+  ],
+  "found": [
+   "composite11 roster 2011-12 (CC-MAIN-2012) and 2012-13 (CC-MAIN-2013-20)",
+   "Surgery housestaff PDFs 2010-11 and 2011-12 listing neurosurgery residents by year",
+   "Bruce Geryk, 2008 entrant, left after 2012-13 PGY5",
+   "7-year length for entrants through 2008 (Orning 2013-14 = PGY7)",
+   "Omofoye 2017-18 at Boston Medical Center Dept of Neurosurgery (PMID 29294115)",
+   "Saggi transfer confirmed by UVA bio"
+  ],
+  "remaining": [
+   "Geryk's destination unknown",
+   "Omofoye's 2017-18 role at Boston Medical Center not stated"
+  ]
+ },
+ "residents_2011plus_note": "entered 2011 or later (incl. Bah); 40 persons in total seen 2011-12..2026-27, including 7 pre-2011 entrants (Perry, Steenland, Orning, Geryk, Kominek, Blatt, Quinsey)"
+}

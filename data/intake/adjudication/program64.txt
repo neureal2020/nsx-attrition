@@ -1,0 +1,39 @@
+
+Temple University Hospital Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2006   Pulak Ray                2013   2012-20  7   bio          COMPLETED
+2007   Richard Kim              2014   2013-20  7   bio          COMPLETED [ambiguous name]
+2008   Vishad Sukul             2015   2014-20  7   bio          COMPLETED
+2010   Siraj Gibani             2016   2015-20  6   bio          COMPLETED
+2010 ? Markus Bookland          -      2010-20  -   bio          COMPLETED
+2010 ? Zakaria Hakma            -      2010-20  -   --           LEFT -> outcome unknown
+2010 ? Benjamin Leichty         -      2010-20  -   --           LEFT -> outcome unknown
+2011   Leopold Arko             2018   2017-20  7   bio          COMPLETED
+2011   Tamara Fierst            -      2016-20  6   --           LEFT -> outcome unknown
+2012   Shahin Manoochehri       2019   2018-20  7   bio          COMPLETED
+2013   Joel Passer              2020   2019-20  7   bio          COMPLETED
+2014   Nicholas Ahye            2021   2020-20  7   bio          COMPLETED
+2015   Eric Quach               2022   2021-20  7   bio          COMPLETED
+2016   Anand Kaul               2023   2022-20  7   bio          COMPLETED
+2017   Erin Graves              2024   2023-20  7   bio          COMPLETED [ambiguous name]
+2018   Robert Ziechmann         2025   2024-20  7   bio          COMPLETED
+2019   Andrew Danziger          -      2019-20  1   npi?         LEFT -> outcome unknown (NPI hint: other specialty)
+2019   Rohan Gupta              -      2025-20  7   roster PGY-7 COMPLETED
+2020   Prasad Kanuparthi        -      2025-20  6   roster       IN TRAINING
+2021   Jonathan Welch           -      2022-20  2   --           LEFT -> outcome unknown [ambiguous name]
+2021   Hosniya Zarabi           -      2025-20  5   roster       IN TRAINING
+2022   Theodore Hannah          -      2025-20  4   roster       IN TRAINING
+2023   Neal Patel               -      2025-20  3   roster       IN TRAINING [ambiguous name]
+2024   Sami Pathak              -      2025-20  2   roster       IN TRAINING
+2025   Alan Balu                -      2025-20  1   roster       IN TRAINING
+
+summary:
+    14  COMPLETED
+     6  IN TRAINING
+     4  LEFT -> outcome unknown
+     1  LEFT -> outcome unknown (NPI hint: other specialty)
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

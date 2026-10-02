@@ -1,0 +1,258 @@
+{
+ "program_id": 92,
+ "name": "University of Minnesota Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.neurosurgery.umn.edu/training/residency/current/home.html (also /neurosurgery/training/...; www.med.umn.edu/neurosurgery/training/residency/...)",
+   "from": "2007",
+   "to": "2013-01",
+   "note": "old AHC static site; roster captured only 2010-07-01 (2009-10 content); residency home captured 2011-11, 2012-05 (CC), 2013-01 but the current/ page never recaptured"
+  },
+  {
+   "url": "http://www.med.umn.edu/neurosurgery/faculty-and-staff/current-residents/index.htm (link also as /resident-program/current-residents/index.htm, never captured)",
+   "from": "2013",
+   "to": "2014-01",
+   "note": "single capture 2014-01-10"
+  },
+  {
+   "url": "http://www.neurosurgery.umn.edu/faculty-residents-and-staff/current-residents",
+   "from": "2015-09",
+   "to": "2017-09",
+   "note": "Drupal; bios under /bio/neurosurgery-current-residents/<slug>; former residents at /resident-program/program-overview/former-residents"
+  },
+  {
+   "url": "https://med.umn.edu/neurosurgery/education-training/residency/current-residents",
+   "from": "2019-03",
+   "to": "live"
+  },
+  {
+   "url": "https://med.umn.edu/neurosurgery/education-training/residency/alumni",
+   "from": "2019-03",
+   "to": "live",
+   "note": "alumni list with training years, 1949-2026"
+  }
+ ],
+ "observed_years": [
+  "2013-2014",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2014-2015"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No roster capture. Wayback: current/home.html captured only 2010-07-01; residency home 2011-11-08 links ../current/home.html but it was never captured (exact+prefix CDX on www.neurosurgery.umn.edu, www.med.umn.edu/neurosurgery, /neurosurgery/training/... variants). Common Crawl CC-MAIN-2012: only residency home/corner pages. Reconstructed 13 alumni-confirmed residents (grad 2012-2018 by alumni page). NOT reconstructable: Koijan Kainth (PGY-3 on 2009-10 page with Siddiq; not UMN alumnus; Penn State PGY6 2012-13, graduated Penn State 2013) -- probably UMN PGY5 in 2011-12, so the grad-2014 class likely had 2 not 1.  PHASE 2: PGYs corrected from the 2009-10 page: Souslian/Colpan PGY6 (terminal), Park/Qaiser/Siddiq PGY5 (Park/Qaiser/Siddiq/Koijan Kainth were all PGY-3 in 2009-10, i.e. the 2007 class had 4, not 'Siddiq alone'). Koijan Kainth probably UMN PGY5 in 2011-12, but not reconstructed (neither bracketed nor an alumnus). Wayback gap audit 2010-07..2013-08 (all hosts incl. gme.umn.edu), link audit of the 2011-11 and 2013-01 residency/home pages, CC-MAIN-2012 full URL listing: no roster. CC Feb 2012 conference schedule names only D. Kainth and Vasquez.",
+  "2012-2013": "No roster capture. PHASE 2 found the April 2013 UMMC call schedule PDF (created 2013-03-27, archived 2015-09-13 at /sites/neurosurgery.umn.edu/files/neurosurgery-resident-call-schedule.pdf): Park and Siddiq on chief call, Das, Vasquez, Gupte, Goyal, Lim on resident call. Loaded as a partial 'other' capture; the 7 others (Qaiser, K. Jones, D. Kainth, Terzic, Zhang, Miller, Hubbard) stay reconstructed (alumni). Park/Qaiser corrected to PGY6 (terminal).",
+  "2014-2015": "No roster capture (old page 2014-01 only; Drupal site first 2015-03 home / 2015-09 roster; CC 2014-10..2015-35 only parent pages, CC-MAIN-2015-27 retried OK). PHASE 2: department news item (Wayback 2015-12-04) links the Star Tribune 2014-10-05 feature (Wayback 2014-10-06): Terzic 'seventh and final year', Vasquez 'sixth year', Quinn and Darrow 'second-year residents'; 'accepts just two new interns a year'. Loaded as partial 'other' capture. Dixson still not reconstructed: UMN bio lists only a BIDMC general-surgery PGY1 2013-14 (bios do not list the UMN intern year, cf. Khan), so she was either UMN PGY1 in 2014-15 (with Khan) or joined at PGY2 in 2015.",
+  "2018-2019": "Only capture in AY is 2019-03-31 (spring); content-dated 2018-19 (Jones/Tran PGY1, Hubbard/Lim chiefs). Used.",
+  "2019-2020": "Used 2019-09-30. NB the 2020-05-27 capture adds Shiwei Huang as PGY2 (absent 2019-11-21), so Huang arrived mid-year 2019-20.",
+  "2023-2024": "13 listed (Hamade gone; Truong Do sole PGY7). Consistent across 2023-09-30 and 2023-12-08.",
+  "2025-2026": "Used 2026-01-22 (Sep-2025 capture mislabels Dhawan PGY4). 15 = 3 chiefs (S. Jones off-cycle).",
+  "2026-2027": "Live page uses 'Class of' labels; advanced vs 2025-26 with new interns Mokua, Willis -> loaded."
+ },
+ "alumni_page": "https://med.umn.edu/neurosurgery/education-training/residency/alumni",
+ "departures": [
+  {
+   "name": "Koijan Kainth",
+   "last_ay": "2009-2010",
+   "last_pgy": 3,
+   "note": "last UMN roster seen = 2010-07 capture (2009-10). Not on UMN alumni list. Penn State (program 53) PGY6 2012-13, Penn State alumni 2013 -> TRANSFERRED to Penn State, probably after 2011-12 (unobserved). Replaced by Kristen Jones (from Pitt) at PGY6 2012-13. training_history th 3029 (transferred, end 2012; exit year unobserved, 2010-12)."
+  },
+  {
+   "name": "Alana Dixson",
+   "last_ay": "2015-2016",
+   "last_pgy": 2,
+   "note": "Left after 2015-16 (PGY2); not on 2016-17 roster or alumni list; slot filled by Leschke at PGY3. Destination unknown: only later trace is a 2018 paper with a UC Davis Medical Center affiliation (PMID 29565953, role unknown). The NPI 'switch' is unsupported (NPI = surgery at BIDMC, 2013). Recorded departure_type 'unknown' (th 3035)."
+  },
+  {
+   "name": "Maxwell Tran",
+   "last_ay": "2019-2020",
+   "last_pgy": 2,
+   "note": "SWITCHED SPECIALTY: MUSC Radiation Oncology resident 2020-2024 (entered PGY2 2020-21); MUSC current-residents page (Wayback 2021-01-19) lists 'Neurological Surgery Residency, University of Minnesota, 2018-2020' with the same Baylor MD/Michigan BS as the UMN bio. PubMed: MUSC Dept of Radiation Oncology 2023-2025. training_history th 3033."
+  },
+  {
+   "name": "Youssef Hamade",
+   "last_ay": "2022-2023",
+   "last_pgy": 6,
+   "note": "TRANSFERRED: last UMN 2022-23 PGY6 (present 2023-06-26, gone 2023-09-30), Loma Linda (31) PGY6 2025-26, PGY7 2026-27. 2023-25: St. Elizabeth's Medical Center / Boston University neurosurgery affiliation on 2025 papers (role unconfirmed). th 3034 (UMN out), th 2722 (LL in)."
+  },
+  {
+   "name": "Christopher Janson",
+   "last_ay": "2009-2010",
+   "last_pgy": 5,
+   "note": "pre-window: PGY-5 on 2010-07 page with Roark (grad 2011); not UMN alumnus; would have finished by 2011, so outside 2011-12+ window. Not loaded."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Kristen Jones",
+   "first_ay": "2012-2013",
+   "first_pgy": 6,
+   "note": "first observed 2013-14 PGY7 (after gap); alumni 2012-2014; transfer from Pitt 2007-2012 (training_history th_id 177). Alumni spells 'Kristin'. training_history th 3030."
+  },
+  {
+   "name": "Jack Leschke",
+   "first_ay": "2016-2017",
+   "first_pgy": 3,
+   "note": "absent 2015-16 roster; bio: completed neurology residency at Medical College of Wisconsin; graduated UMN 2021 (alumni lists 2014-2021). PubMed: MCW Dept of Neurology affiliation 2013-2017. training_history th 3031."
+  },
+  {
+   "name": "Shiwei Huang",
+   "first_ay": "2019-2020",
+   "first_pgy": 2,
+   "note": "absent 2019-09-30 and 2019-11-21, present 2020-05-27 as PGY2; first loaded roster 2020-21 PGY3; graduated 2025. Replaced Maxwell Tran. Wayne State PGY1 2018-19 (program 125). 2020-05-27 capture now loaded for 2019-20. training_history th 3032."
+  },
+  {
+   "name": "Alana Dixson",
+   "first_ay": "2015-2016",
+   "first_pgy": 2,
+   "note": "first seen after the 2014-15 gap, so joiner status unproven; bio shows PGY1 general surgery at BIDMC 2013-14 -> likely entered UMN at PGY2 (2014 or 2015)."
+  }
+ ],
+ "other_notes": "Samuel Jones listed PGY2 in both 2019-20 and 2020-21 and 'PGY6.5' in 2024-25 (off-cycle extra year), graduated 2026 (alumni 2018-2026); entry year 2018. Efkan Colpan (grad 2012) entered advanced before the window (alumni 2009/2010-2012).",
+ "residents_2011plus": 34,
+ "adjudication_summary": {
+  "COMPLETED": 29,
+  "IN TRAINING": 14,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> did not complete": 1,
+  "note": "Hamade = transferred (Loma Linda); Tran = switched to radiation oncology (MUSC); Dixson = left, destination unknown. Koijan Kainth is not in UMN observations (never observed 2011+); his transfer is in training_history."
+ },
+ "problems": "none outstanding: CC-MAIN-2015-27 (failed in phase 1) retried OK; all Wayback/CC queries completed.",
+ "partially_observed_years": {
+  "2012-2013": "April 2013 call schedule PDF: 7 of 14 residents (Park, Siddiq chief call; Das, Vasquez, Gupte, Goyal, Lim)",
+  "2014-2015": "Star Tribune 2014-10-05 feature (linked from the department news page): Terzic PGY7, Vasquez PGY6, Quinn and Darrow PGY2"
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 6,
+  "2006": 6,
+  "2007": 6,
+  "2008": 7
+ },
+ "terminal_pgy_note": "From the 2009-10 roster (PGY-1..6 only) and the alumni list: 2005-2007 entrants finished after PGY-6 (Sherr/Uittenbogaard 2010, Souslian/Colpan 2012, Park/Qaiser 2013; Koijan Kainth PGY-6 finisher at Penn State 2013). Exception: Farhan Siddiq (2007 entrant) was PGY-7 in 2013-14 and graduated 2014. 7 years from the 2008 entrants on (D. Kainth/Terzic PGY-7 2014-15).",
+ "years": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "All 2006-2011 entry cohorts bracketed by the 2009-10 page and 2013-14 roster plus alumni list at complement; only unseen event is Koijan Kainth's exit (transfer to Penn State, recorded, exit 2010-12). A 2010/2011 entrant who left before Sep 2013 would be unseen, but both cohorts show exactly 2 alumni with continuous ranges."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Partial observation (April 2013 call schedule, 7 residents, no unknown names); all cohorts bracketed at complement; Kristen Jones's arrival from Pitt is recorded."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete Jan 2014 roster"
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Oct 2014 Star Tribune names 4 residents at the expected PGYs; 2008-2013 cohorts bracketed at complement. Residual: 2014 intern class shows Khan + Dixson (both PGY2 in 2015-16); if Dixson joined in 2015 rather than 2014, a second 2014 intern could have left unseen."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete Sep 2015 roster"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "spring (2019-03) capture, content-dated 2018-19; bracketed"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Sep 2019 + May 2020 captures (Huang mid-year arrival captured)"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete (Jan 2026 capture)"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "live page, advanced"
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit.py 2010-07..2013-08 and 2014-01..2015-10 over www./neurosurgery.umn.edu, www./med.umn.edu/neurosurgery, www.med.umn.edu/gme, gme.umn.edu",
+   "linkaudit.py seeds residency/home, department home 2010-11..2013-08 and 2014-02..2015-08",
+   "Common Crawl full URL listing (not only roster-filtered) CC-MAIN-2012..CC-MAIN-2015-35 for neurosurgery.umn.edu, med.umn.edu/neurosurgery, med.umn.edu/gme; CC-MAIN-2015-27 retried",
+   "phase-1 cc/ files re-read (Feb 2012 conference schedule)",
+   "archived per-resident bios (2015-09 Drupal bios; 2019-20 Tran/Hamade bios)",
+   "department news (2015 home page, 'ups and downs' news item -> Star Tribune 2014-10-05)",
+   "archived resident PDFs (call schedule, rotation) 2015-09",
+   "PubMed affiliation mining 2010-2016 (neurosurgery + Minnesota) and per-person PubMed/Europe PMC/OpenAlex for Koijan Kainth, Dixson, Tran, Hamade, Leschke, Huang",
+   "other programs: Penn State (53), Pitt (116), Wayne State (125), Loma Linda (31) roster files; MUSC radiation oncology residents page (Wayback); UC Davis PM&R/neurosurgery pages"
+  ],
+  "found": [
+   "April 2013 call schedule PDF: 7 residents observed in 2012-13",
+   "Star Tribune Oct 2014: 4 residents observed in 2014-15 at expected PGYs",
+   "2009-10 page PGYs show 2005-2007 entrants finished at PGY-6; 2011-12/2012-13 PGYs of Souslian, Colpan, Park, Qaiser corrected (entry years now consistent)",
+   "Maxwell Tran -> MUSC radiation oncology 2020-2024 (switched specialty)",
+   "Hamade 2023-25 affiliation BU/St. Elizabeth's neurosurgery before Loma Linda",
+   "May 2020 capture loaded for 2019-20 (Huang PGY2)"
+  ],
+  "remaining": [
+   "Koijan Kainth's exact exit year (2010-11 vs 2011-12) unobservable at UMN and Penn State",
+   "Dixson: whether she was the second 2014 intern or joined in 2015 at PGY2; her destination after 2016",
+   "No full roster for 2011-12, 2012-13, 2014-15 exists in Wayback or Common Crawl"
+  ]
+ }
+}

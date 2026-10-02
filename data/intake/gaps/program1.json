@@ -1,0 +1,269 @@
+{
+ "program_id": 1,
+ "name": "Albany Med Health System Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.amc.edu/Academic/GME/programs/Neurosurgery/residents_fellows.html (+ alumni.html)",
+   "from": "2008-09",
+   "to": "2012-02"
+  },
+  {
+   "url": "http://www.amc.edu/Academic/GME/programs/Neurosurgery/residents_fellows.cfm (+ alumni.cfm, index.cfm)",
+   "from": "2012-07",
+   "to": "2016-05 (last capture of roster; index.cfm to 2022-06)"
+  },
+  {
+   "url": "https://www.amc.edu/academic/gme/programs/Neurosurgery/meet_us.cfm (linked from index.cfm 2022; never archived, 301 in 2026)",
+   "from": "c.2021",
+   "to": "2023"
+  },
+  {
+   "url": "https://www.amc.edu/academic/GMENew/Neurosurgery/index.cfm (301 only)",
+   "from": "2021-08",
+   "to": "2024 (404)"
+  },
+  {
+   "url": "https://www.amc.edu/Departments/neurosurgery/index.cfm (department page, no roster)",
+   "from": "2014-07",
+   "to": "2022-01"
+  },
+  {
+   "url": "http://albanymed.org/Academic/GME/programs/Neurosurgery/index.cfm (2016 mirror, no roster)",
+   "from": "2016-04",
+   "to": "2016-04"
+  },
+  {
+   "url": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/ (WordPress; residents + alumni, 'Class of' labels)",
+   "from": "2023-12",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Wayback 2012-01-03 residents_fellows.html (same as 2011-11-04). Labels PGY1-6; no PGY4 (Constantine Plakas, PGY2 in 2009-10, off roster this year, back as PGY5 in 2012-13) and no PGY7 (program then graduated after PGY6). Incomplete for Plakas.",
+  "2012-2013": "No Wayback capture of the roster (index.cfm/contact only). Common Crawl CC-MAIN-2013-20 residents_fellows.cfm 2013-05-25 used (content-dated: PGY1 Riccio). Complete PGY1-6.",
+  "2013-2014": "Wayback 2014-07-06 capture is still the 2013-14 list (PGY1 Adepoju/Amarante); identical to Common Crawl 2013-12-09 and 2014-03. No PGY7 listed.",
+  "2014-2015": "Wayback 2014-12-08 (same 2014-10 to 2015-04). No PGY7 listed (Plakas, PGY6 in 2013-14, not shown; graduation not on alumni page).",
+  "2015-2016": "Wayback 2015-11-05 (same 2015-08 to 2016-05-20, the last archived roster). No PGY7 listed though Calayag and Jeyamohan graduated 2016 per alumni page -> incomplete (not reconstructed because a capture exists).",
+  "2016-2017..2022-2023": "UNOBSERVABLE. residents_fellows.cfm and alumni.cfm have no Wayback capture after 2016-05-20 (CDX, all statuses); index.cfm captured 2017-07, 2017-11, 2021-08, 2021-11, 2022-03, 2022-06 but the roster page it links (residents_fellows.cfm, later meet_us.cfm) was never archived. gapaudit on amc.edu gme/Departments/education paths and a domain-wide CDX filter on amc.edu and albanymed.org (neuro|resident) found no other roster. Common Crawl 2012-2023 (cclocal, prefix edu,amc)/academic/gme/programs/neurosurgery; 3 failed crawls retried OK) has no records after CC-MAIN-2016-22; CC-MAIN-2022-40 holds only amc.edu robots.txt (site blocks CCBot). Reconstructed only alumni-confirmed graduates (classes of 2017-2026) with PGY counted back from graduation year; entrants of 2020, 2021, 2022 (classes of 2027-2029) cannot be reconstructed for 2020-23, and any 2016-2022 entrant who left before 2023 is invisible. PHASE2 (2026-09-28): no roster found. Wayback: full CDX prefix audit of amc.edu/academic, /education, /news, /PR, /about, /departments, GMENew and albanymed.org (2016-2023) - the roster pages (residents_fellows.cfm, meet_us.cfm) were never archived after 2016-05; only 2021-11 testimonial images (Harland, Spurgas, Sweeney, Adamo) under Neurosurgery/images. Archived index.cfm 2017-07/2017-11/2021-08/2022-06 read in full (complement '2-2-2-2-2-2', resident testimonials only). GME 'Meet our residents' page 2017-06: one neurosurgery alumnus (Kenning), no roster. Match-day news 2017/2022/2023 and the 2021 new-residents news name no neurosurgery residents. Field's 2023 hire news: 'seven years training' at Albany (residency + CAST fellowship) -> entry 2016 confirmed. Common Crawl rerun with the fixed filter: see phase2.searched. PubMed affiliation mining 2015-2024 + NPPES: no unlisted resident; all non-roster authors are students, research fellows, faculty or residents of other programs (Haider -> Henry Ford, Syed -> Brown, Graffeo -> Mayo, Heller -> USF, Staudt = functional fellow). Amr Albakry (NPI 2016-08, Neurological Surgery, Albany dept address, Zagazig-trained) is most likely a research/functional fellow (enumerated mid-August, no Albany residency papers) - not added. Cross-program: only Yim (-> USC 2016) left Albany for another program in any roster file.",
+  "2023-2024": "Wayback 2023-12-02 WordPress Meet Us page; Class of 2024-2030, 14 residents (PGY = 7 - (class - 2024)).",
+  "2024-2025": "Wayback 2024-12-07; Class of 2025-2031, 14 residents (Aug 2024 capture lacked the new interns).",
+  "2025-2026": "Wayback 2025-08-06 (same 2026-05-14): Class of 2027-2032 only, 12 names; Class of 2026 (Tessa Harland, Aubrey Rogers, PGY7) omitted though both graduated 2026 per alumni list -> incomplete, not reconstructed.",
+  "2026-2027": "Live page via WebFetch 2026-09-27 (curl blocked by Cloudflare WAF): Class of 2027-2033, 14 residents."
+ },
+ "alumni_page": "https://www.amc.edu/education/residencies-fellowships/neurosurgery-residency/neurosurgery-residency-meet-us/ (Alumni section, classes 2016-2026); older: https://web.archive.org/web/20160520224052/http://www.amc.edu:80/academic/gme/programs/Neurosurgery/alumni.cfm (classes 2005-2012 named)",
+ "departures": [
+  {
+   "name": "Benjamin Yim",
+   "last_ay": "2015-2016",
+   "last_pgy": 2,
+   "note": "TRANSFERRED to USC (program 104): Albany PGY2 2015-16 (last capture 2016-05-20) -> USC PGY3 2016-17 (roster PDF, Wayback 2016-11-28). Left Albany June 2016. PubMed 2019 lists both affiliations. Recorded in training_history (completed=no, departure_type=transferred, end_year 2016)."
+  },
+  {
+   "name": "Constantine Plakas",
+   "last_ay": "2013-2014",
+   "last_pgy": 6,
+   "note": "Entry 2008 (pre-2011). Off the 2011-12 list (PGY4 year) then back as PGY5 2012-13 -> lost/research year. Not shown as PGY7 in 2014-15; likely graduated 2014 (alumni page does not list 2013-2015 graduates)."
+  },
+  {
+   "name": "Farhad Bahrassa",
+   "last_ay": "2012-2013",
+   "last_pgy": 6,
+   "note": "Entry 2007; final year under the then 6-level labels; in 'Class of 2013' graduation-dinner photo. Probably graduated 2013, not named as a graduate. PHASE2: recorded as completed 2013 (PGY-terminal roster) in training_history."
+  },
+  {
+   "name": "Walter Jacobsen",
+   "last_ay": "2012-2013",
+   "last_pgy": 6,
+   "note": "As Bahrassa; probably graduated 2013. PHASE2: recorded as completed 2013 (PGY-terminal roster) in training_history."
+  },
+  {
+   "name": "Mohammad Shaikh",
+   "last_ay": "2009-2010",
+   "last_pgy": 3,
+   "note": "Pre-window (May 2010 roster, PGY3); gone by 2011-12, when Walter Jacobsen appears at his PGY level. Not in the loaded roster (before 2011-12)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Walter Jacobsen",
+   "first_ay": "2011-2012",
+   "first_pgy": 5,
+   "note": "Transfer in from SUNY Upstate (program 63): Upstate PGY4 2010-11; confirmed against both rosters."
+  },
+  {
+   "name": "Maria Peris-Celda",
+   "first_ay": "2014-2015",
+   "first_pgy": 4,
+   "note": "PhD/Valencia MD; joined at PGY4, graduated 2018."
+  }
+ ],
+ "residents_2011plus": 31,
+ "adjudication_summary": {
+  "COMPLETED": 22,
+  "IN_TRAINING": 14,
+  "LEFT_outcome_unknown": 1,
+  "LEFT_TRANSFERRED": 1,
+  "left_names": [
+   "Constantine Plakas (entry 2008, probably graduated 2014/15)",
+   "Benjamin Yim (transferred to USC 2016)"
+  ]
+ },
+ "problems": "PHASE2: Common Crawl rerun (fixed filter, 6 prefixes) killed after ~50 min; unfinished crawls: CC-MAIN-2017-47 CC-MAIN-2017-51 CC-MAIN-2018-05 CC-MAIN-2018-09 CC-MAIN-2018-13 CC-MAIN-2018-17 CC-MAIN-2018-22 CC-MAIN-2018-26 CC-MAIN-2018-30 CC-MAIN-2018-34 CC-MAIN-2018-39 CC-MAIN-2018-43 CC-MAIN-2018-47 CC-MAIN-2018-51 CC-MAIN-2019-04 CC-MAIN-2019-09 CC-MAIN-2019-13 CC-MAIN-2019-18 CC-MAIN-2019-22 CC-MAIN-2019-26 CC-MAIN-2019-30 CC-MAIN-2019-35 CC-MAIN-2019-39 CC-MAIN-2019-43 CC-MAIN-2019-47 CC-MAIN-2019-51 CC-MAIN-2020-05 CC-MAIN-2020-10 CC-MAIN-2020-16 CC-MAIN-2020-24 CC-MAIN-2020-29 CC-MAIN-2020-34 CC-MAIN-2020-40 CC-MAIN-2020-45 CC-MAIN-2020-50 CC-MAIN-2021-04 CC-MAIN-2021-10 CC-MAIN-2021-17 CC-MAIN-2021-21 CC-MAIN-2021-25 CC-MAIN-2021-31 CC-MAIN-2021-39 CC-MAIN-2021-43 CC-MAIN-2021-49 CC-MAIN-2022-05 CC-MAIN-2022-21 CC-MAIN-2022-27 CC-MAIN-2022-33 CC-MAIN-2022-40 CC-MAIN-2022-49 CC-MAIN-2023-06 CC-MAIN-2023-14 CC-MAIN-2023-23 CC-MAIN-2023-40 CC-MAIN-2023-50. Failed inside finished crawls: CC-MAIN-2016-44 org,albanymed)/academic/gme/programs/neurosurgery; CC-MAIN-2017-22 edu,amc)/academic/gme/meet; CC-MAIN-2017-34 edu,amc)/education/residencies-fellowships/neurosurgery. Note: phase 1 already read the index of every 2012-2023 crawl for edu,amc)/academic/gme/programs/neurosurgery and found 0 records after CC-MAIN-2016-22 (index-level, filter-independent), and amc.edu blocked CCBot by 2022, so the unfinished crawls are unlikely to hold the roster. Transfer-in row for Yim at USC (program 104) NOT inserted (outside this agent's write scope); program 104 agent should add start_year 2016, PGY3, from Albany. Remaining significant: 2016 class has one known entrant (Field) vs complement 2. Phase-1 notes kept: 7-year gap (2016-17..2022-23) with no roster anywhere (Wayback never archived the roster page, Common Crawl blocked). Reconstructed years hold only alumni-confirmed people; 2020-2022 entrants are missing from those years and any departure in 2016-2023 is unseen (class of 2023 has one graduate: Nicholas Field, entry 2016, so a second 2016 entrant may have left unseen; Custozzo/Sweeney/Prabhala/Rosoklija/Barr/Ogagan first seen at PGY4/4/3/3/2/2 in 2023-24). PGY labelling: through 2012-13 the site used PGY1-6 and graduated after PGY6; from 2013-14 to 2015-16 PGY7s were omitted. Amilyn Taplin (PGY1 2011-12) graduated 2017 after 6 levels; Alexandra Paul (same class) graduated 2019 (extended; reconstructed PGY7 twice, 2017-18 and 2018-19). 2025-26 capture omits the class of 2026. Complement: 2017 text says complement recently increased to 2/yr; 2012 had one entrant (Riccio). Name variants: 'Reid Gooch'/'Michael Reid Gooch', 'Ami-Lyn'/'Amilyn Taplin', 'Alexander R. Riccio', 'Charles Ogagan Jr.'.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 6,
+  "2006": 6,
+  "2007": 6,
+  "2008": "6 or 7 (Plakas; graduation year unconfirmed)",
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "Through 2012-13 the site used PGY1-6 and graduated residents after PGY6 (Gandhi 2012; Bahrassa, Jacobsen 2013). Entrants 2009+ train 7 years (Calayag/Jeyamohan class of 2016). Taplin (entry 2011) graduated 2017 after 6 listed levels; Paul (entry 2011) 2019.",
+ "years": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Plakas (omitted from page) added as reconstructed PGY4: bracketed PGY2 May-2010 and PGY5 2012-13. No PGY7 existed (program graduated after PGY6)."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY1-6 list (Common Crawl 2013-05-25)."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "No PGY7 expected: class of 2013 (Bahrassa, Jacobsen) graduated after PGY6; Plakas listed PGY6."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Only possible omission is Plakas (entry 2008) as a PGY7 if he trained a 7th year; pre-2011 entrant, graduation year (2014 or 2015) unconfirmed."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Page omitted PGY7 level; Calayag and Jeyamohan added as reconstructed PGY7 (PGY6 2014-15, alumni class of 2016). All other classes listed."
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No roster anywhere. Classes 2010-2015 and 2017-2019 fully accounted for (alumni list + 2023-24 roster, 2 per class; Yim's transfer confirmed). Residual risk: the 2016 class has one known member (Field); a second 2016 entrant who left before 2023 would be invisible."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No roster anywhere. Classes 2010-2015 and 2017-2019 fully accounted for (alumni list + 2023-24 roster, 2 per class; Yim's transfer confirmed). Residual risk: the 2016 class has one known member (Field); a second 2016 entrant who left before 2023 would be invisible."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No roster anywhere. Classes 2010-2015 and 2017-2019 fully accounted for (alumni list + 2023-24 roster, 2 per class; Yim's transfer confirmed). Residual risk: the 2016 class has one known member (Field); a second 2016 entrant who left before 2023 would be invisible."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster; every class accounted for by alumni list / 2023-24 roster; residual risk only the unseen second 2016 slot (Field's class) and a departure-with-lateral-replacement, which would leave no trace."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster. 2020-22 entrants now added (Class of 2027-2029 labels on 2023-24 page, NPPES residency NPIs at the Albany Dept of Neurosurgery; Sweeney, Harland and Spurgas quoted as residents on the Aug-2021 program page). Every class has 2 members except 2016 (Field). Residual risk: unseen second 2016 entrant; departure-with-replacement."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster. 2020-22 entrants now added (Class of 2027-2029 labels on 2023-24 page, NPPES residency NPIs at the Albany Dept of Neurosurgery; Sweeney, Harland and Spurgas quoted as residents on the Aug-2021 program page). Every class has 2 members except 2016 (Field). Residual risk: unseen second 2016 entrant; departure-with-replacement."
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster. 2020-22 entrants now added (Class of 2027-2029 labels on 2023-24 page, NPPES residency NPIs at the Albany Dept of Neurosurgery; Sweeney, Harland and Spurgas quoted as residents on the Aug-2021 program page). Every class has 2 members except 2016 (Field). Residual risk: unseen second 2016 entrant; departure-with-replacement."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete, 14 residents."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete, 14 residents."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Page omitted Class of 2026; Harland and Rogers added as reconstructed PGY7 (PGY6 2024-25, alumni class of 2026)."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live page, 14 residents."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2016-2023 over amc.edu/academic, www.amc.edu/academic, amc.edu/news, amc.edu/Academic/GMENew, amc.edu/education, albanymed.org, amc.edu/departments, amc.edu/Departments/Surgery, amc.edu/pr, amc.edu/newsroom, amc.edu/magazine, amc.edu/about (data/raw/extraction/p1/phase2/gapaudit_ph2.txt)",
+   "CDX prefix listing of amc.edu/academic/gme/programs/neurosurgery/ and /academic/gmenew/neurosurgery/ 2016+ (all files incl. images)",
+   "archived index.cfm 2017-07, 2017-11, 2021-08, 2022-06 and GME meet_residents_fellows_alumni.cfm 2017-06 read in full, links followed",
+   "news: amc.edu/news, amc.edu/PR, albanymed.org/news 2015-2023 (match day 2017/2022/2023, new-residents 2021, Field hire 2023)",
+   "Common Crawl rerun with fixed filter (cclocal.py) 2016-2023 on edu,amc)/academic/gme/programs/neurosurgery, /academic/gmenew/neurosurgery, /academic/gme/meet, /departments/neurosurgery, /education/residencies-fellowships/neurosurgery, org,albanymed)/academic/gme/programs/neurosurgery -> finished CC-MAIN-2016-07..CC-MAIN-2017-43 (19 crawls): hits only in 2016-07/-18/-22 (pre-gap 2015-16 roster/alumni pages, GME meet page), nothing in 2016-17..; killed after ~50 min.",
+   "PubMed affiliation mining 2015-2024 ('Albany Medical' AND neurosurg) with per-author affiliation check",
+   "NPPES: Albany NY Neurological Surgery taxonomy list; all 'Student' taxonomy NPIs in ZIP 12208 filtered for the neurosurgery department address/phone; enumeration dates for every 2016-2022 entrant",
+   "cross-program: all rosters_program*.json matched against Albany PubMed authors; crossmatch.json (Jacobsen 63->1); program 104 roster (Yim)",
+   "social: no archived program Facebook/Instagram/X captures"
+  ],
+  "found": [
+   "Yim transfer to USC confirmed (2016, PGY3)",
+   "Jacobsen transfer in from Upstate confirmed (2011, PGY5)",
+   "Field entry 2016 confirmed by 2023 hire news (7 years at Albany) and NPI 2016-03",
+   "2020-22 entrants placed in 2020-23 (NPPES + 2023-24 class labels + 2021 page quotes)",
+   "complement 2/yr stated on 2021-22 program page ('2-2-2-2-2-2')",
+   "incomplete observed years filled with bracketed/alumni-confirmed rows (2011-12 Plakas, 2015-16 Calayag/Jeyamohan, 2025-26 Harland/Rogers)"
+  ],
+  "remaining": [
+   "2016 class: one known entrant (Field) against a complement of 2; if a second 2016 intern existed and left before 2023 no source shows it (significant for 2016-17..2018-19, low after)",
+   "A departure replaced by a lateral joiner in 2016-2022 would leave no trace (low)",
+   "Plakas (entry 2008) graduation year 2014 vs 2015 unconfirmed (pre-2011 entrant, low)"
+  ]
+ }
+}

@@ -1,0 +1,992 @@
+[
+ {
+  "key": "101:chr:rios-vicil",
+  "identity": "probable",
+  "identity_basis": "Distinctive name; UPR MD class 2014 (Doximity); search results describe him as Assistant Professor at UPR School of Medicine, neurosurgeon at Lehigh Valley (matches recorded LVHN note)",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico (Puerto Rico Medical Center)",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practises as neurosurgeon (Doximity specialty Neurosurgery, Allentown PA / LVHN; UPR Assistant Professor per search results). Residency years not stated on Doximity/search; DB note cites LVHN 'Residency 2021 Neurosurgery, Puerto Rico Medical Center'.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Lehigh Valley Health Network, Allentown PA; Assistant Professor UPR School of Medicine",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/christian-rios-vicil-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Allentown PA; University of Puerto Rico School of Medicine Class of 2014; no ABNS listed"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/christian-rios-vicil-1407972",
+    "type": "search_snippet",
+    "evidence": "Search result title: Dr. Christian I. Rios-Vicil, MD | Allentown, PA | Neurosurgeon"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Christian I. Rios-Vicil",
+  "program_id": 101
+ },
+ {
+  "key": "101:mig:valle",
+  "identity": "confirmed",
+  "identity_basis": "Distinctive name; UPR Assistant Professor of Neurosurgery; Emory fellowship directory; Doximity ABNS certified",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Neurosurgeon, ABNS certified, Assistant Professor of Neurosurgery at UPR after Emory fellowship; residency years not explicitly stated by sources (inferred 2014-2021).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgical oncologist, Assistant Professor UPR Medical Sciences Campus / UPR Comprehensive Cancer Center, San Juan",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/miguel-mayol-del-valle-md",
+    "type": "doximity",
+    "evidence": "American Board of Neurological Surgery, Neurological Surgery; Universidad Central del Caribe Class of 2014"
+   },
+   {
+    "url": "https://www.abta.org/mindmatters/news/mm-neurosurgeon-brings-new-technology-to-puerto-rico/",
+    "type": "search_snippet",
+    "evidence": "currently an Assistant Professor of Neurosurgery at the University of Puerto Rico Medical Sciences Campus; fellowship at Emory"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Miguel A. Mayol Del Valle",
+  "program_id": 101
+ },
+ {
+  "key": "101:and:marrero",
+  "identity": "confirmed",
+  "identity_basis": "UPR MD 2016 (Doximity) and Arizona neurosurgery profile for Andres Monserrate Marrero; matches UPR affiliation",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2021
+   },
+   {
+    "institution": "University of Arizona College of Medicine-Tucson",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2024
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Doximity: Residency Neurological Surgery University of Arizona 2021-2024 (search summary of Arizona profile: residency 2021 to 2024); UPR MD 2016, so UPR entry 2016. Doximity specialty listed General Surgery. Arizona 2021-2024 consistent with joining at PGY-5.",
+  "year_left": 2021,
+  "destination_program": "University of Arizona College of Medicine-Tucson (neurosurgery)",
+  "destination_start_year": 2021,
+  "current": "Neurosurgery (Doximity lists General Surgery, Pittsburgh PA address; Arizona profile Tucson)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/andres-monserrate-md",
+    "type": "doximity",
+    "evidence": "University of Arizona College of Medicine-Tucson Residency, Neurological Surgery, 2021 - 2024; University of Puerto Rico School of Medicine Class of 2016"
+   },
+   {
+    "url": "https://neurosurgery.arizona.edu/profile/andres-monserrate-marrero-md",
+    "type": "search_snippet",
+    "evidence": "Andres Monserrate Marrero, MD | Neurosurgery Department"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Andres E. Monserrate Marrero",
+  "program_id": 101
+ },
+ {
+  "key": "101:ric:thomas",
+  "identity": "confirmed",
+  "identity_basis": "Doximity lists UPR neurosurgery 2017-2021 and UPMC 2021-2025; UPR MD 2017",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2021
+   },
+   {
+    "institution": "UPMC Medical Education (Pittsburgh)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2025
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred to UPMC neurological surgery in 2021 (PGY-4), finished 2025; now neurosurgeon in Caguas PR.",
+  "year_left": 2021,
+  "destination_program": "UPMC Medical Education (University of Pittsburgh)",
+  "destination_start_year": 2021,
+  "current": "neurosurgeon (spine), Hospital Menonita Caguas, PR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ricardo-fernandez-de-thomas-md",
+    "type": "doximity",
+    "evidence": "UPMC Medical Education Residency, Neurological Surgery, 2021 - 2025; University of Puerto Rico Residency, Neurological Surgery, 2017 - 2021"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Ricardo J. Fernandez-de Thomas",
+  "program_id": 101
+ },
+ {
+  "key": "101:jos:consuegra",
+  "identity": "confirmed",
+  "identity_basis": "AHN profile lists residency at AGH and University of Puerto Rico; Doximity (San Juan Bautista MD 2018, AGH 2021-2025)",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2021
+   },
+   {
+    "institution": "Allegheny Health Network Medical Education Consortium (AGH)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2025
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Transferred from UPR to Allegheny General in 2021; AGH residency 2021-2025 (Doximity). UPR start year 2018 inferred from DB.",
+  "year_left": 2021,
+  "destination_program": "Allegheny Health Network Medical Education Consortium (AGH)",
+  "destination_start_year": 2021,
+  "current": "neurosurgeon, Allegheny Health Network (AHN find care); Doximity: Manati PR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://findcare.ahn.org/Jose-I-Sandoval-Consuegra",
+    "type": "bio",
+    "evidence": "Residency: Allegheny General Hospital; University of Puerto Rico School of Medicine; medical school San Juan Bautista"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jose-sandoval-md-ab21f869",
+    "type": "doximity",
+    "evidence": "Allegheny Health Network Medical Education Consortium (AGH) Residency, Neurological Surgery, 2021 - 2025; San Juan Bautista Class of 2018"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Jose I. Sandoval Consuegra",
+  "program_id": 101
+ },
+ {
+  "key": "101:adr:vazquez-medina",
+  "identity": "probable",
+  "identity_basis": "UPR RCM press (X post) says Adriana Vazquez Medina graduated UPR School of Medicine and was selected for new UPR neurosurgery residency (2025)",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Selected for UPR's new neurosurgery residency (May 2025 announcement); no evidence of departure.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UPR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/rcmupr/status/1921197839218069992",
+    "type": "search_snippet",
+    "evidence": "le presentamos al Pa\u00eds a la joven Adriana V\u00e1zquez Medina, quien se gradua este a\u00f1o ... y fue seleccionada para el nuevo Programa de Residencia en Neurocirug\u00eda"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Adriana S. Vazquez-Medina",
+  "program_id": 101
+ },
+ {
+  "key": "101:est:rivera",
+  "identity": "probable",
+  "identity_basis": "Search summary: Esteban Rivera Rivera, UPR School of Medicine student, began residency July 1 in UPR neurosurgery program (El Nuevo Dia 'Second UPR Neurosurgery resident selected'); ResearchGate lists UPR Section of Neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "University of Puerto Rico",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Second resident selected for new UPR neurosurgery program; AANS 2025 abstract presenter.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, UPR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.elnuevodia.com/english/news/story/second-upr-neurosurgery-resident-selected-this-was-the-path-i-had-to-follow/",
+    "type": "news",
+    "evidence": "Second UPR Neurosurgery resident selected: 'This was the path I had to follow'"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Esteban R. Rivera Rivera",
+  "program_id": 101
+ },
+ {
+  "key": "102:mic:moravan",
+  "identity": "probable",
+  "identity_basis": "Michael Moravan MD PhD, University of Rochester MD 2011; Rochester radiation oncology residency; DB notes URMC RadOnc class of 2016 page",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2012
+   },
+   {
+    "institution": "University of Rochester",
+    "specialty": "radiation oncology",
+    "start": 2012,
+    "end": 2016
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Now radiation oncologist (Siteman Cancer Center at Northwest HealthCare / WashU); search snippet lists radiation oncology residency at Rochester (dates in snippet 2017-2018 look inconsistent with DB's class of 2016).",
+  "year_left": 2012,
+  "destination_program": "University of Rochester radiation oncology",
+  "destination_start_year": null,
+  "current": "radiation oncologist, Siteman Cancer Center, St. Louis MO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.healthgrades.com/physician/dr-michael-moravan-ggnsw",
+    "type": "search_snippet",
+    "evidence": "graduated from the University of Rochester School of Medicine & Dentistry in 2011 ... Radiation Oncology"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/michael-moravan-1040657",
+    "type": "search_snippet",
+    "evidence": "Radiation Oncologist, Town and Country MO"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Michael Moravan",
+  "program_id": 102
+ },
+ {
+  "key": "102:sim:montoya",
+  "identity": "confirmed",
+  "identity_basis": "Univ. Miami MD 2011, Rochester radiology residency; co-author with Rochester neurosurgery residents (Sandwell, Towner) on 2018 paper",
+  "residency_stated": [
+   {
+    "institution": "University of Washington (internship)",
+    "specialty": "preliminary",
+    "start": null,
+    "end": null
+   },
+   {
+    "institution": "University of Rochester",
+    "specialty": "diagnostic radiology",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Diagnostic radiology residency at URMC then neuroradiology fellowship at MGH (completed 2021); now neuroradiologist at Vanderbilt. Neurosurgery years not stated in sources; DB has URMC neurosurgery 2013-2015.",
+  "year_left": 2015,
+  "destination_program": "University of Rochester diagnostic radiology",
+  "destination_start_year": 2016,
+  "current": "neuroradiologist, Vanderbilt University Medical Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.vumc.org/radiology/person/simone-montoya-md",
+    "type": "bio",
+    "evidence": "MD University of Miami 2011; Diagnostic Radiology residency at University of Rochester Medical Center; neuroradiology fellowship MGH 2021"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Simone Montoya",
+  "program_id": 102
+ },
+ {
+  "key": "102:ste:sandwell",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rochester neurosurgery 2011-2018, Louisville MD 2011; ABNS",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2018; practising neurosurgeon Huntsville Hospital, ABNS certified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Huntsville Hospital, AL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/stephen-sandwell-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Stephen Sandwell",
+  "program_id": 102
+ },
+ {
+  "key": "102:kat:czerniecka-foxx",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rochester neurosurgery residency 2012-2019; Jagiellonian MD 2010",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2019; ABNS certified neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Mercy Hospital Fort Smith AR / United Health Services Johnson City NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kate-czerniecka-foxx-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Katarzyna Czerniecka-Foxx",
+  "program_id": 102
+ },
+ {
+  "key": "102:ken:foxx",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rochester neurosurgery 2012-2019, NYU MD 2012; UHS bio",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester neurosurgery residency 2012-2019; practising neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, United Health Services, Johnson City NY (also Mercy Fort Smith AR)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kenneth-foxx-md-a1e6d1a0",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Kenneth Foxx",
+  "program_id": 102
+ },
+ {
+  "key": "102:tyl:schmidt",
+  "identity": "confirmed",
+  "identity_basis": "Tyler M. Schmidt DO, Rochester faculty; Doximity residency URMC 2013-2020, LECOM-Seton Hill 2013 (resolves 'ambiguous name')",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester neurosurgery residency 2013-2020; practising neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, faculty, University of Rochester Neurosurgery; in-folded neuro-oncology fellowship Geisinger",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/tyler-schmidt-do",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Tyler Schmidt",
+  "program_id": 102
+ },
+ {
+  "key": "102:van:milano",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rochester neurosurgery 2013-2020, UT Health San Antonio MD 2013; HMH news release",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester residency 2013-2020, then Toronto functional fellowship; practising neurosurgeon (board-eligible per HMH).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "functional neurosurgeon, Hackensack Meridian JFK, Edison NJ (Toronto stereotactic/functional fellowship 2020-2022)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/vanessa-milano-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2013 - 2020"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Vanessa Milano",
+  "program_id": 102
+ },
+ {
+  "key": "102:jam:towner",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rochester neurosurgery 2014-2021, USA MD 2014; co-authored Rochester papers",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester neurosurgery residency 2014-2021; practising neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Cook County Stroger Hospital / Rush, Chicago IL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/james-towner-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2,
+  "name": "James Towner",
+  "program_id": 102
+ },
+ {
+  "key": "102:aud:grenga",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Rochester neurosurgery 2015-2022, South Alabama MD 2015; Kettering Health bio",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2022; practising neurosurgeon (board-eligible per Kettering bio).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Kettering Health, Dayton OH (USAF staff neurosurgeon; enfolded endovascular fellowship at Rochester)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/audrey-grenga-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2015 - 2022"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Audrey Grenga",
+  "program_id": 102
+ },
+ {
+  "key": "102:tho:pieters",
+  "identity": "confirmed",
+  "identity_basis": "Search results (UMass Memorial/Doximity summary): Rochester neurological surgery residency 2015-2022, UTHealth MD 2015; Doximity page co-authors are Rochester residents (Santangelo, Rahmani, Silberstein)",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed 2022, practising neurosurgeon at UMass Memorial after Northwell fellowship.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), UMass Memorial, Worcester MA; Northwell spine fellowship",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/thomas-pieters-md",
+    "type": "doximity",
+    "evidence": "Doximity lists McGovern/UTHealth Class of 2015 (specialty label 'Other MD/DO'); residency 2015-2022 at URMC per search-result summary of UMass/Doximity profile"
+   },
+   {
+    "url": "https://physicians.umassmemorial.org/details/5501",
+    "type": "search_snippet",
+    "evidence": "completed his residency in Neurological Surgery from 2015 to 2022 at University of Rochester Medical Center (search result summary)"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Thomas Pieters",
+  "program_id": 102
+ },
+ {
+  "key": "102:dav:paul",
+  "identity": "confirmed",
+  "identity_basis": "Doximity David Alan Paul: URMC residency 2016-2023, Rochester MD 2016; URMC faculty bio (resolves 'ambiguous name')",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester neurosurgery residency 2016-2023; practising neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Assistant Professor, University of Rochester (UPMC deformity fellowship 2023-24)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-paul-md-fef82d32",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2016 - 2023; UPMC Fellowship 2023 - 2024"
+   }
+  ],
+  "searches_used": 2,
+  "name": "David Paul",
+  "program_id": 102
+ },
+ {
+  "key": "102:red:rahmani",
+  "identity": "confirmed",
+  "identity_basis": "Doximity Lancaster PA profile: URMC residency 2016-2023, Dartmouth MD 2016; UofL bio",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester residency 2016-2023; now cerebrovascular neurosurgeon at University of Louisville (Doximity page for the Lancaster PA listing shows fellow status).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "cerebrovascular neurosurgeon, Assistant Professor, University of Louisville / UofL Health (after Penn endovascular and Barrow fellowships)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/redi-rahmani-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2016 - 2023"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Redi Rahmani",
+  "program_id": 102
+ },
+ {
+  "key": "102:cat:wassef",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: URMC neurosurgery 2017-2024, Temple MD 2016; Nemours bio",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester neurosurgery residency 2017-2024; practising neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Nemours Children's Hospital Delaware (Colorado peds fellowship 2024-25)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/catherine-wassef-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2017 - 2024"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Catherine Wassef",
+  "program_id": 102
+ },
+ {
+  "key": "102:rah:ismail",
+  "identity": "probable",
+  "identity_basis": "Rahim Ismail MD, UCF MD 2017 (search summary); Doximity Radiology, Rochester NY 601 Elmwood Ave (URMC); LinkedIn 'Resident Physician - URMC'; NPI trainee in Rochester",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "diagnostic radiology",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Now a radiologist (Doximity specialty Radiology; URMC Imaging Sciences / UT Southwestern appointments; neuroradiology publications). Training years not stated on Doximity page.",
+  "year_left": 2021,
+  "destination_program": "University of Rochester Medical Center diagnostic radiology",
+  "destination_start_year": 2021,
+  "current": "radiologist (neuroradiology), University of Rochester Imaging Sciences",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rahim-ismail-md",
+    "type": "doximity",
+    "evidence": "Radiology, Rochester NY, 601 Elmwood Ave; publications in Interventional Neuroradiology"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/rahim-ismail-2a597a1a-dec5-11e7-9f4c-005056a225bf-overview",
+    "type": "search_snippet",
+    "evidence": "Diagnostic Radiologist practicing in Rochester, NY ... STRONG URMC"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Rahim Ismail",
+  "program_id": 102
+ },
+ {
+  "key": "102:gab:santangelo",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: URMC neurosurgery 2018-2025, Rochester MD 2018",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester neurosurgery residency 2018-2025; practising neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Assistant Professor, Vanderbilt University Medical Center",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/gabrielle-santangelo-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2018 - 2025"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Gabrielle Santangelo",
+  "program_id": 102
+ },
+ {
+  "key": "102:nat:ellens",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: URMC neurosurgery 2018-2025, Michigan State MD 2018",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester neurosurgery residency 2025; neurovascular fellowship in neurosurgery.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurovascular/endovascular neurosurgery fellow (Jefferson 2025-26; Knoxville TN)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/nathaniel-ellens-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2018 - 2025; Thomas Jefferson University fellowship 2025 - 2026"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Nathaniel Ellens",
+  "program_id": 102
+ },
+ {
+  "key": "102:cli:houk",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: URMC neurosurgery 2019-2026, Virginia Tech Carilion MD 2019; co-author with Rochester residents",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester neurosurgery residency 2019-2026; practising neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery (MUSC, Charleston SC)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/clifton-houk-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2019 - 2026"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Clifton Houk",
+  "program_id": 102
+ },
+ {
+  "key": "102:gur:kohli",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: URMC neurosurgery 2019-2026, Rutgers NJMS MD 2019",
+  "residency_stated": [
+   {
+    "institution": "University of Rochester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Rochester neurosurgery residency 2019-2026; practising neurosurgeon.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery (cerebrovascular), Seattle WA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/gurkirat-kohli-md",
+    "type": "doximity",
+    "evidence": "University of Rochester Medical Center Residency, Neurological Surgery, 2019 - 2026"
+   }
+  ],
+  "searches_used": 2,
+  "name": "Gurkirat Kohli",
+  "program_id": 102
+ }
+]

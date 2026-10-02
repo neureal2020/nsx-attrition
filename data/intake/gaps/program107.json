@@ -1,0 +1,317 @@
+{
+ "program_id": 107,
+ "name": "University of Texas Health Science Center at Houston (McGovern) Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.uth.tmc.edu/schools/med/neurosurg/residency/current-residents.html",
+   "from": "2009",
+   "to": "2011-05 (captured 2011-05-22, '2010-2011' list, pre-window)"
+  },
+  {
+   "url": "http://www.uth.tmc.edu/schools/med/neurosurg/residency-fellowship/residency/current-residents.html",
+   "from": "2011-08",
+   "to": "2012-01"
+  },
+  {
+   "url": "http://www.uth.tmc.edu/schools/med/neurosurg/education/residency/current-residents.html",
+   "from": "2013-05",
+   "to": "2014-04 (Wayback 2013-06 only; Common Crawl 2013-05..2014-04)"
+  },
+  {
+   "url": "https://med.uth.edu/neurosurgery/files/2014/03|2014/11|2015/09 residency brochure PDFs (residents pages for 2013-14, 2014-15, 2015-16)",
+   "from": "2014-03",
+   "to": "2015-09 (archived 2017-08)"
+  },
+  {
+   "url": "https://med.uth.edu/neurosurgery/education/residency/current-residents/ (2016 nav: /neurosurgery/residency/current-residents/, never archived)",
+   "from": "2014-11",
+   "to": "live 2026-09-27 (Wayback only from 2021-11; Common Crawl 2018-02..2018-09)"
+  },
+  {
+   "url": "https://med.uth.edu/neurosurgery/education/residency/former-residents/ (alumni, classes 2015+)",
+   "from": "2018-02",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "utphysicians.com (checked: clinic/specialty pages only, no roster)",
+   "from": "2010",
+   "to": "2026"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2017-2018",
+  "2018-2019",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2016-2017",
+  "2019-2020",
+  "2020-2021"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "Wayback 2012-01-19 old UTHSC-H page (no Sep-Dec capture). 9 residents, no PGY6/PGY7 in program. Complete.",
+  "2012-2013": "Only capture 2013-06-24 (June), page titled 'Current Residents, 2012-2013' so content-dated correctly. 10 residents, no PGY6/7. Complete.",
+  "2013-2014": "No Wayback capture in AY; Common Crawl CC-MAIN-2013-48 (2013-12-07) page titled 'Current Residents, 2013-2014'. Identical to the 2013-2014 brochure PDF residents page. Complete (13).",
+  "2014-2015": "Old host dropped (last CC 2014-04); new WordPress roster page never archived in AY. Used residency brochure PDF (files/2014/11, Wayback 2017-08-30) '2014 - 2015 Residents' page. Complete (15).",
+  "2015-2016": "Brochure PDF files/2015/09 (Wayback 2017-08-30) '2015-2016 Residents' page. Complete (15).",
+  "2016-2017": "SIGNIFICANT. No Wayback capture of any roster/brochure between 2014-12 and 2021-10 (gapaudit + digest CDX of med.uth.edu/neurosurgery; /neurosurgery/residency/current-residents/ linked in 2016 never archived; no post-2015 brochure archived). Common Crawl med.uth.edu/neurosurgery prefix: 0 records in all 2014-2017 crawls. Reconstructed 16 (bracketed 2015-16 brochure / 2017-18 CC, or alumni). Villarreal and Turkmani PGY unknown (PGY6 2015-16, PGY7 2017-18, grad 2018: one extra year). Entry-2016 interns (Budde, Choi, Monterey) reconstructed from alumni 2023 + PGY2 2017-18. | PHASE2: full CC rescan 2016-2021 with fixed cclocal: med.uth.edu had 0 index records in every crawl 2016-30..2018-05 (the host is simply absent from those crawls, confirmed at cluster.idx level). Wayback digest audit of home/education/residency pages 2016-17: no resident names. Villarreal/Turkmani PGY stays null.",
+  "2017-2018": "Common Crawl CC-MAIN-2018-09 (2018-02-24) of current-residents; June 2018 CC capture identical. Complete (18) incl. Quoc-Bao Nguyen PGY1 (gone by Sep 2018). | PHASE2: CC-MAIN-2017-34 old-host retry ok (1 record, not roster); CC-MAIN-2018-30 med.uth.edu retry ok (3 records, no roster).",
+  "2018-2019": "Common Crawl CC-MAIN-2018-39 (2018-09-20). Complete (17) incl. Kadipasaoglu PGY1 and Mullarkey first seen PGY2.",
+  "2019-2020": "SIGNIFICANT. No Wayback roster capture; Common Crawl 2019-2021 crawls captured only /education/residency/ (no roster; CC-MAIN-2019-22 and 2020-34 old-host prefix failed). Reconstructed 16. Not reconstructed: Divito (PGY5 2018-19, never seen again, not an alumnus) and Kadipasaoglu (PGY1 2018-19, never seen again); Lekka (joined 2019-2021 at PGY2-4) not reconstructed. | PHASE2: Lekka added PGY2 (NPI 1306303615 enumerated 2019-02-22, Neurological Surgery). Divito -> Johns Hopkins anesthesiology (PubMed 2021-23), Kadipasaoglu -> Houston Methodist neurology PGY-1 2021-22 (program roster); both left between Jul-2019 and Jun-2021, 2019 assumed. CC retry CC-MAIN-2019-22 (old host) ok: 4 records, none roster.",
+  "2020-2021": "SIGNIFICANT. As 2019-20 (first Wayback roster capture is 2021-11-29). Reconstructed 14. Entry-2020 PGY1s (Chandra, O'Connor, Sheinberg) not reconstructed: first seen PGY2 2021-22, not alumni. Divito's/Kadipasaoglu's departures and Lekka's arrival cannot be dated within 2019-2021. | PHASE2: added Chandra, O'Connor, Sheinberg PGY1 (NPIs enumerated Apr-2020 in Houston; PGY2 Nov-2021) and Lekka PGY3. CC retry CC-MAIN-2020-34 (old host) ok: 0 records.",
+  "2021-2022": "Wayback 2021-11-29. Complete (20).",
+  "2022-2023": "Wayback 2022-12-09. 20 listed; Elvira Lekka (PGY4 2021-22) absent, reappears PGY5 2023-24 (one year off roster; graduated 2026 with the entry-2019 class).",
+  "2023-2024": "Only capture with 2023-24 content is 2024-04-24 (spring); the 2023-09-27 capture still showed the 2022-23 list unchanged (stale, not used). Complete (20).",
+  "2024-2025": "Wayback 2024-11-06. Complete (20).",
+  "2025-2026": "Wayback 2025-09-10. Complete (21).",
+  "2026-2027": "SIGNIFICANT (incomplete). Live page 2026-09-27 advanced from 2025-26 (loaded) but lists no PGY-1 (2026 interns not posted); Yujia Shentu (PGY3 2025-26) absent."
+ },
+ "alumni_page": "https://med.uth.edu/neurosurgery/education/residency/former-residents/",
+ "departures": [
+  {
+   "name": "Adrian Smith",
+   "last_ay": "2011-2012",
+   "last_pgy": 5,
+   "note": "Entry 2007 (pre-window). PGY4 2010-11, PGY5 2011-12, absent 2012-13 (June 2013). Alumni list starts 2015 so graduation unverifiable; no PGY6/7 in 2012-13 roster.",
+   "outcome": "TRANSFERRED to UTMB (109) mid-2011-12; UTMB graduate 2013"
+  },
+  {
+   "name": "Leon Chen",
+   "last_ay": "2014-2015",
+   "last_pgy": 1,
+   "note": "PGY1 in 2014-15 brochure; absent 2015-16 brochure; not on alumni list.",
+   "outcome": "SWITCHED to dermatology (UT McGovern/MD Anderson dermatology 2017-19 on PubMed)"
+  },
+  {
+   "name": "Anthony Divito",
+   "last_ay": "2018-2019",
+   "last_pgy": 5,
+   "note": "Joined PGY2 2015-16; PGY4 2017-18, PGY5 2018-19; absent 2021-22 and not in alumni class of 2021. Left 2019-2021 (years unobserved). Adjudicator NPI evidence suggests switched specialty.",
+   "outcome": "SWITCHED to anesthesiology (Johns Hopkins ACCM 2021-23, Cleveland Clinic 2024-26); exit 2019 or 2020"
+  },
+  {
+   "name": "Quoc-Bao Nguyen",
+   "last_ay": "2017-2018",
+   "last_pgy": 1,
+   "note": "PGY1 Feb and Jun 2018 (CC); absent Sep 2018; Mullarkey joined the class at PGY2 in 2018-19.",
+   "outcome": "SWITCHED to dermatology (UTHealth McGovern/MD Anderson dermatology 2022-23)"
+  },
+  {
+   "name": "Mehmet Cihan Kadipasaoglu",
+   "last_ay": "2018-2019",
+   "last_pgy": 1,
+   "note": "PGY1 Sep 2018 (CC); absent 2021-22 (class = Lekka, McCormack, Withrow); not alumni. Left 2019-2021.",
+   "outcome": "SWITCHED to neurology (Houston Methodist neurology PGY-1 2021-22 .. PGY-4 2024-25); exit 2019-2021"
+  },
+  {
+   "name": "Kyle O'Connor",
+   "last_ay": "2022-2023",
+   "last_pgy": 3,
+   "note": "PGY2 2021-22, PGY3 2022-23; absent Apr 2024 (2023-24) and later.",
+   "outcome": "SWITCHED to orthopaedic surgery (Medical City Denton UNT/TCU ortho residency 2024)"
+  },
+  {
+   "name": "Yujia Shentu",
+   "last_ay": "2025-2026",
+   "last_pgy": 3,
+   "note": "Listed as 'Yujia (Yoga) Shentu' PGY1-3 2023-26; absent from live 2026-27 roster.",
+   "outcome": "unknown (UTHealth neurosurgery affiliation still on a paper accepted Sep-2025)"
+  },
+  {
+   "name": "Bart MacDonald",
+   "last_ay": "2010-2011",
+   "last_pgy": 7,
+   "note": "Pre-window. UTHealth PGY7 2010-11 (joined ~2009 from Children's Boston/BWH); UTMB chief year 2011-12, UTMB graduate 2012.",
+   "outcome": "TRANSFERRED to UTMB (109)"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Edward Hsu",
+   "first_ay": "2011-2012",
+   "first_pgy": 2,
+   "note": "Absent from 2010-11 list (May 2011); alumni 2017."
+  },
+  {
+   "name": "Ali Turkmani",
+   "first_ay": "2013-2014",
+   "first_pgy": 3,
+   "note": "Prior neurosurgery residency at American University of Beirut; 2012-13 roster lacks him; PGY3 2013-14 -> PGY5 2014-15; alumni 2018."
+  },
+  {
+   "name": "Anthony Divito",
+   "first_ay": "2015-2016",
+   "first_pgy": 2,
+   "note": "2014-15 brochure lacks him."
+  },
+  {
+   "name": "Matthew Mullarkey",
+   "first_ay": "2018-2019",
+   "first_pgy": 2,
+   "note": "2017-18 PGY1 class = Nguyen, Parker, Zeineddine; Mullarkey (Temple/St Luke's internship) PGY2 Sep 2018, replacing Nguyen; alumni 2024."
+  },
+  {
+   "name": "Elvira Lekka",
+   "first_ay": "2019-2020",
+   "first_pgy": 2,
+   "note": "Not in 2018-19 intern class (Kadipasaoglu, McCormack, Withrow); first seen PGY4 2021-22 after the 2019-21 gap, so exact join year (2019-20 to 2021-22) unobserved; UK surgical internship. Off roster 2022-23, graduated 2026. PHASE2: NPI enumerated 2019-02-22 (Neurological Surgery) -> joined July 2019 at PGY2 (inferred), in Kadipasaoglu's class slot."
+  }
+ ],
+ "residents_2011plus": 44,
+ "adjudication_summary": {
+  "COMPLETED": 28,
+  "IN TRAINING": 16,
+  "LEFT -> SWITCHED SPECIALTY": 5,
+  "LEFT -> TRANSFERRED": 1,
+  "LEFT -> outcome unknown": 1,
+  "total_people": 51
+ },
+ "problems": "All five Common Crawl retries now succeed (CC-MAIN-2015-40, 2017-34, 2019-22, 2020-34 old host; 2018-30 med.uth.edu): none holds a roster. med.uth.edu is absent from every crawl 2016-30..2018-05. Wayback CDX for tandonlab.org staff pages ran >60 min and was killed (low value). Hopkins anesthesiology resident rosters 2019-22 are not archived, so Divito's exit year stays 2019-or-2020. Brochure years use PDF upload month as captured_at.",
+ "terminal_pgy_by_entry_year": {
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7
+ },
+ "years": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Wayback roster (Jan 2012); A. Smith left mid-year to UTMB, recorded."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete roster titled 2012-2013."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete CC roster = brochure."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete brochure roster."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete brochure roster."
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "All 16 bracketed by 2015-16 brochure and Feb-2018 roster (no one lost between them except the 2016 graduates); only Villarreal/Turkmani PGY label (6 or 7) and a hypothetical intern who both joined and left in 2016-17 are unobservable."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete CC roster (Feb 2018)."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete CC roster (Sep 2018)."
+  },
+  "2019-2020": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Every member placed from bracketing rosters, alumni years and NPI enumeration dates; the two exits (Divito, Kadipasaoglu) now have known destinations and only their exit year (2019 vs 2020/21) is unobserved."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Entry-2020 interns added (NPIs Apr-2020 + PGY2 Nov-2021) and Lekka PGY3; residual uncertainty is only whether Divito/Kadipasaoglu were still present."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete Wayback roster."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete; Lekka off roster one year (returned 2023-24)."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete (Apr 2024)."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Live page lacks the 2026 PGY-1s (not yet posted); interns only affect entry-2026 cohort, outside the attrition window of every earlier cohort. Shentu absent (outcome unknown)."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "Existing p107/ and p107/cc files re-read (no unparsed gap-year roster)",
+   "Common Crawl full rescan 2016-2021 of edu,uth,med)/neurosurgery with fixed cclocal (urls.tsv, scan_med.log)",
+   "CC retries CC-MAIN-2015-40, 2017-34, 2019-22, 2020-34 (edu,tmc,uth)/schools/med/neurosurg) and 2018-30 (med.uth.edu)",
+   "CC home/tandon-lab pages 2019-2020 (no resident list)",
+   "Wayback full URL list of med.uth.edu/neurosurgery (1668 urlkeys: no news/match posts, no resident profile pages before 2022)",
+   "Wayback digest captures of home, /education/, /education/residency/, /residency/ 2016-2021 (no resident names)",
+   "PubMed affiliation mining 2016-2021 (UTHealth/McGovern neurosurgery; 791 PMIDs) and per-person author searches",
+   "NPPES enumeration dates for the 2016-2020 intern classes and every departure",
+   "Houston Methodist neurology residency roster (Wayback 2019-2025)",
+   "Johns Hopkins anesthesiology site (Wayback): no 2019-22 resident roster archived",
+   "tandonlab.org (killed after 60 min)"
+  ],
+  "found": [
+   "Kadipasaoglu = Houston Methodist neurology PGY-1 2021-22 (program roster) -> switched specialty",
+   "Divito = Johns Hopkins anesthesiology & CCM (PubMed 2021-23) -> switched specialty",
+   "Leon Chen and Quoc-Bao Nguyen = dermatology at UT McGovern (PubMed) -> switched specialty",
+   "Kyle O'Connor = Medical City Denton orthopaedic surgery residency (PubMed 2024) -> switched specialty",
+   "Lekka NPI enumerated Feb-2019 -> joined 2019-20 at PGY2",
+   "Chandra, O'Connor, Sheinberg NPIs enumerated Apr-2020 -> PGY1 2020-21 (added as reconstructed)",
+   "Education page Apr-2016 says 2 PGY-1/yr, Apr-2021 says 3/yr (complement change from entry 2016)"
+  ],
+  "remaining": [
+   "No roster exists for 2016-17, 2019-20, 2020-21 (reconstructed; significance low)",
+   "Exit year of Divito (2019 or 2020) and Kadipasaoglu (2019-2021) unobserved",
+   "Villarreal/Turkmani PGY in 2016-17 unknown",
+   "Shentu outcome unknown; 2026-27 interns not yet posted"
+  ]
+ }
+}

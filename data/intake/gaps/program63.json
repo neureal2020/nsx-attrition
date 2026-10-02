@@ -1,0 +1,229 @@
+{
+ "program_id": 63,
+ "name": "SUNY Upstate Medical University Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "complement_note": "Program page: 7-year program, total complement 14, admits 2 per year. Several classes observed with 1 (2012 after Simpson left, 2014, 2017, 2019).",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.upstate.edu/practice/neurosurgery/education/residency/residents.php",
+   "from": "2009-05",
+   "to": "2013-07 (content frozen: 'Last Modified Dec 01, 2010' = 2010-11 roster); /practice/neurosurgery/ 301 -> cnyneurosurgery.org from 2013-10"
+  },
+  {
+   "url": "http://cnyneurosurgery.org/education/current-neurosurgery-resident-team (+ /neurosurgery-residency-program/current-neurosurgery-resident-team, /education/residency-program-graduates)",
+   "from": "2013-08",
+   "to": "2016-06 (301 from 2016-07)"
+  },
+  {
+   "url": "http://upstatebrainandspine.org/current-neurosurgery-resident-team/ (+ /graduates-of-upstate-neurosurgery-residency-program/)",
+   "from": "2016-07",
+   "to": "2018-11"
+  },
+  {
+   "url": "https://www.upstate.edu/neurosurgery/education/residents-fellows.php (+ graduates.php)",
+   "from": "2018-11",
+   "to": "live; last Wayback capture 2025-06-19; live site behind Cloudflare challenge (403) on 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2013-2014",
+  "2014-2015",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2015-2016"
+ ],
+ "missing_years": [
+  "2025-2026",
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "No roster. upstate.edu practice residents.php served the Dec-2010 (2010-11) list unchanged in every capture to 2013-07 and in Common Crawl CC-MAIN-2012 (2012-02) and 2013-20. cnyneurosurgery.org: no captures before 2013-08, CC 2012/2013-20 0 records. Reconstructed 9 (bracketed by 2010-11 and 2013-14, or graduates page). Not reconstructed: Walter Jacobsen (PGY4 2010-11, never seen again, not on graduates list), David Ferrone and Gentian Toshkezi (first seen 2013-14; entry year ambiguous). PHASE 2: Upstate GME 'Resident Report' Fall 2011 newsletter (https://web.archive.org/web/20121126195919/http://www.upstate.edu/gme/pdf/resident_report_fall2011.pdf) 'Welcome New Residents - Neurosurgery: Alexa Bodman, David Ferrone' = the full 2011 intake; Ferrone added (PGY2, matching PGY4 in 2013-14). Fall 2010 issue lists only Michael Galgano (2010 class of 1 confirmed). Jacobsen on Albany roster PGY5 Jan-2012 -> transferred out 2011.",
+  "2012-2013": "No roster (same evidence as 2011-12). Reconstructed 7. The 2012 intern class is unobservable: Venita Simpson (PGY2 2013-14) and possibly Toshkezi entered then; neither reconstructed. PHASE 2: Toshkezi reconstructed at PGY1 (PGY2 July 2013; Upstate neurosurgery affiliation on paper received 2012-06, PMID 23202580; earlier BU research affiliation, so not a residency transfer; grad 2018). Ferrone PGY3 added. Simpson (Georgetown MD) was the other 2012 entrant but is not reconstructed (not bracketed / not an Upstate graduate). GME Fall 2012 and Fall 2013 newsletters have no welcome list.",
+  "2013-2014": "cnyneurosurgery.org Oct-2013 capture, 'as of July 2013'.",
+  "2014-2015": "No Aug-Jan capture with new content (Oct/Dec-2014 and Feb-2015 still showed the July-2013 list). March-2015 capture used; content-dated 2014-15 (Riordan PGY7, Zyck PGY1).",
+  "2015-2016": "cnyneurosurgery.org kept the 2014-15 list (relabelled 'as of March 2015') in every capture to 2016-06-29; upstatebrainandspine.org first archived 2016-07 already with the 2016-17 list; CC 2015-2016 found nothing new. Reconstructed 11 incl. Rai/Goulart PGY1 (graduates page 2022). Ferrone PGY left null (PGY5 2014-15 and PGY6 2016-17). Simpson not reconstructed. PHASE 2: CC 2015-2016 re-run with current filter (cnyneurosurgery.org, upstatebrainandspine.org, upstate.edu/neurosurgery): only the stale 'as of March 2015' list. GME Resident Reports Fall 2014/Fall 2015/Spring 2016 OCR'd: award news only (Toshkezi NREF grant, Choi), no roster. Simpson departure 2015 or 2016 remains open.",
+  "2016-2017": "upstatebrainandspine.org Oct-2016; header wrongly says 'as of March 2015', content-dated 2016-17.",
+  "2025-2026": "No capture of residents-fellows.php after 2025-06-19 (Wayback, all statuses) and none in Common Crawl 2025-2026 (21 crawls, only the Feb/Jun-2025 pages). Unobservable. PHASE 2: gapaudit 2025-06..2026-09 on upstate.edu/neurosurgery, /gme, /news, /newsletters: the only 2026 neurosurgery captures are education/index.php and faculty/provider bios (2026-05-10); residents-fellows.php last captured 2025-06-19. CC 2025-2026 re-run (21 crawls incl. CC-MAIN-2026-39 after one retry; 0 new roster records). PubMed 2024-2026 Upstate neurosurgery affiliations show only known residents plus students; no 2025 intern identifiable.",
+  "2026-2027": "Live page returns a Cloudflare 'Just a moment' challenge (403) to curl and WebFetch; not bypassed. Wayback has only a 2026-05 education index capture (no roster). Unobservable. Lead: Joe Garcia (Pitt PGY4 2025-26) reportedly transferred to Upstate ~2026; could not be confirmed from program pages. PHASE 2: still blocked (whole upstate.edu domain returns 403 Cloudflare). PubMed: Joseph H Garcia still Pitt-affiliated on papers received 2025-07/2025-08; no Upstate affiliation yet. Existing training_history rows 183/184/685 (from an earlier Google-based verification: Upstate resident team lists Joseph Garcia MD, UCSF MD) record the transfer; not independently confirmable here."
+ },
+ "alumni_page": "https://www.upstate.edu/neurosurgery/education/graduates.php",
+ "departures": [
+  {
+   "name": "Walter Jacobsen",
+   "last_ay": "2010-2011",
+   "last_pgy": 4,
+   "note": "CONFIRMED transfer to Albany Med (program 1): Albany PGY5 Jan-2012, Albany Class of 2013. training_history row inserted (transferred, end 2011)."
+  },
+  {
+   "name": "Venita Simpson",
+   "last_ay": "2014-2015",
+   "last_pgy": 3,
+   "note": "CONFIRMED transfer to Baylor (program 5): Baylor-affiliated paper received 2017-11, Baylor PGY7 2018-19, Baylor graduate 2019. Left Upstate 2015 or 2016 (2015-16 unobserved). Rows inserted at Upstate (transferred, end 2015) and Baylor (transfer in, start ~2015)."
+  },
+  {
+   "name": "Rui Song",
+   "last_ay": "2021-2022",
+   "last_pgy": 2,
+   "note": "CONFIRMED specialty switch to Radiation Oncology at Upstate: radonc current-residents page lists Rui 'Tony' Song MD at PGY-2 Oct-2022, PGY-3/4 2023-24; Rad Onc affiliation PMID 42605455. Row inserted (switched_specialty, end 2022)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Muhammad Jalal",
+   "first_ay": "2022-2023",
+   "first_pgy": 2,
+   "note": "Filled Song's vacated PGY2 slot (2021-22 roster lacks him). Origin not found."
+  }
+ ],
+ "possible_joiners_hidden_by_gap": [],
+ "unconfirmed_leads": [
+  {
+   "name": "Joe Garcia",
+   "note": "Pitt PGY4 2025-26, absent from Pitt 2026-27; reportedly Upstate (PGY5 joiner 2026-27) per earlier Google-based verification (training_history 183/184/685). Allowed sources (Wayback, CC, PubMed) cannot confirm; live Upstate page blocked. Add him to a 2026-27 roster once the page is readable (MANUAL-CHECK list)."
+  }
+ ],
+ "residents_2011plus": 25,
+ "adjudication_summary": {
+  "COMPLETED": 20,
+  "IN TRAINING": 12,
+  "LEFT -> TRANSFERRED (Albany Medical Center)": 1,
+  "LEFT -> TRANSFERRED (Baylor College of Medicine)": 1,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "note": "35 people incl. 2004-2010 entrants. Koutsouras and Oh (PGY7 2024-25) have completed='yes' 2025 rows, but the adjudicator keeps them IN TRAINING because 2024-25 is the last observed roster. Ferrone shown as 2010 entry (PGY arithmetic); Upstate start 2011."
+ },
+ "problems": "Live upstate.edu entirely behind Cloudflare (403), not bypassed; on the MANUAL-CHECK list. All Common Crawl crawls completed (2015-48 and 2026-39 after one retry). 2011-12, 2012-13 and 2015-16 remain reconstructed (low significance). 2025-26/2026-27 missing (significant).",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Complete 2011 intake known (GME Resident Report Fall 2011: Bodman, Ferrone); Jacobsen confirmed at Albany by Jan 2012; every other 2010-11 resident bracketed or on the graduates list."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "2012 intake = Simpson + Toshkezi (both PGY2 in July 2013; 2/yr complement filled); only a 2012 intern who left within the year, or a same-year in/out transfer, could be missed."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "cnyneurosurgery.org 'as of July 2013'."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "March-2015 capture, content-dated 2014-15."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "All cohorts bracketed by 2014-15 and 2016-17 plus graduates page; only open point is whether Simpson (-> Baylor) left in summer 2015 or 2016."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Content-dated 2016-17 (header mislabelled)."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "'as of November 2017'."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "'as of July 2018'."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Nov-2019 capture."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "'7/2020' header."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jan-2022 capture."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Jan-2023 capture."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec-2023 capture."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Feb-2025 capture."
+  },
+  "2025-2026": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "No roster anywhere after 2025-06 (Wayback, Common Crawl 2025-2026, newsletters); the 2025 intern class and any 2025-26 departure are unobservable."
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "Live page behind Cloudflare challenge (not bypassed); Joe Garcia (Pitt PGY4 2025-26) transfer-in lead rests on an earlier Google-sourced verification row, not on an allowed source."
+  }
+ },
+ "resolved_hidden_gap_questions": [
+  {
+   "name": "David Ferrone",
+   "note": "Not a hidden transfer: listed as a new Upstate neurosurgery resident in July 2011 (GME Fall 2011 welcome list). Rosters place him one PGY above the 2011 class (PGY4 2013-14, PGY5 2014-15) with a non-advancing year before PGY6 2016-17; graduated 2018 after 7 years at Upstate. The adjudicator dates his entry to 2010 by PGY arithmetic; actual Upstate start was 2011."
+  },
+  {
+   "name": "Gentian Toshkezi",
+   "note": "2012 entrant (PGY2 July 2013), graduated 2018 (accelerated one level between 2013-14 and 2014-15). Pre-residency research at Boston University then Upstate (PubMed), not a residency transfer."
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "gapaudit 2011-06..2013-12 on upstate.edu/practice/neurosurgery, /neurosurgery, /gme, /surgery, cnyneurosurgery.org, upstatebrainandspine.org",
+   "gapaudit 2015-06..2016-07 on cnyneurosurgery.org, upstatebrainandspine.org, upstate.edu/neurosurgery",
+   "gapaudit 2025-06..2026-09 on upstate.edu/neurosurgery, /gme, /news, /newsletters, /com, upstatebrainandspine.org",
+   "Upstate GME 'Resident Report' newsletters (archived_pdfs, Fall 2010 - Spring 2017; image-only issues OCR'd)",
+   "cnyneurosurgery.org news, research-projects and print-view pages 2015-16",
+   "Common Crawl re-run with current filter: 2011-2013 (3 crawls), 2015-2016, 2025-2026 (21 crawls; CC-MAIN-2026-39 and CC-MAIN-2015-48 failed once, retried OK with 0 records)",
+   "PubMed affiliation mining (Upstate + neurosurgery) 2010-2014, 2014-2017, 2024-2026; author searches for Simpson, Toshkezi, Ferrone, Rui Song, Joseph H Garcia",
+   "Upstate Radiation Oncology current-residents page (Wayback 2018-2024)",
+   "crossmatch.json (Jacobsen->Albany, Simpson->Baylor) against programs 1 and 5 rosters in the DB",
+   "live upstate.edu (403 Cloudflare on every path; not bypassed)",
+   "Upstate Online / Crier / Dean's Bulletin / Faculty Spotlight newsletters 2025-06..2026-05 (38 Wayback pages, phase2/nl.txt): no neurosurgery resident names (only faculty Chin, Hoffman)"
+  ],
+  "found": [
+   "2011 intake list (Bodman, Ferrone) and 2010 intake (Galgano) from GME newsletters",
+   "Ferrone added to 2011-12 (PGY2) and 2012-13 (PGY3); Toshkezi added to 2012-13 (PGY1)",
+   "Jacobsen transfer to Albany confirmed (Albany roster Jan-2012)",
+   "Simpson transfer to Baylor confirmed (Baylor-affiliated paper 2017, Baylor PGY7 2018-19, alumni 2019)",
+   "Rui Song switched to Upstate Radiation Oncology (program page + PubMed)",
+   "Koutsouras and Oh PGY-terminal 2024-25 -> completion rows"
+  ],
+  "remaining": [
+   "2025-26 and 2026-27 rosters (no capture; live site Cloudflare-blocked) - significant",
+   "Joe Garcia (Pitt -> Upstate 2026) not confirmable from allowed sources",
+   "Simpson's exact departure year (2015 vs 2016)",
+   "Venita Simpson not reconstructed in 2012-13 per the bracketing rule, though she was the second 2012 entrant"
+  ]
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "program_id": 58,
+ "name": "Sidney Kimmel Medical College at Thomas Jefferson University/TJUH Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.jefferson.edu/neurosurgery/staff/index.cfm (old ColdFusion dept site, 'Residents/Fellows'; also /neurosurgery/residency/documents/Blockrotationschedule2011.12.doc)",
+   "from": "2008-07",
+   "to": "2012-05 (Wayback roster captures only 2010-05/06; 2012 via Common Crawl)"
+  },
+  {
+   "url": "http://www.jefferson.edu/jmc/departments/neurosurgery/Education/staff.html",
+   "from": "2013-02",
+   "to": "2014-03 (Wayback has only the dept home + faculty pages; roster via Common Crawl 2013-20, 2013-48, 2014-10); 301/302 to /university/jmc/... by 2014-08"
+  },
+  {
+   "url": "http://www.jefferson.edu/university/jmc/departments/neurosurgery/education/staff.html ('Current Residents & Fellows'; alumni at education/fellow-alumni.html)",
+   "from": "2014-10",
+   "to": "2021-01"
+  },
+  {
+   "url": "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/neurosurgery/education/residency/residents.html (+ residency/alumni.html)",
+   "from": "2021-01",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "jeffersonhospital.org/neurosurgery, hospitals.jefferson.edu, jeffersonhealth.org (clinical sites; no resident roster found)",
+   "from": "2008",
+   "to": "2026"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [
+  "2026-2027"
+ ],
+ "gap_details": {
+  "2011-2012": "Common Crawl CC-MAIN-2012 capture (2012-02-09) of jefferson.edu/neurosurgery/staff/index.cfm; full PGY I-VII list, 18 residents. Wayback has no roster capture 2010-07..2014-09. Cross-checked against the 2011-12 Block Rotation Schedule .doc (same crawl): identical names.",
+  "2012-2013": "Common Crawl CC-MAIN-2013-20 (2013-05-18) of jefferson.edu/jmc/departments/neurosurgery/Education/staff.html. Page heads the Atsina/Pendleton/Stricsek group 'PGY II' twice; stored as PGY 1 (they are PGY II in 2013-14). First CC attempt failed (cluster.idx size), succeeded on retry.",
+  "2013-2014": "Common Crawl CC-MAIN-2013-48 (2013-12-18); same content in CC-MAIN-2014-10 (2014-03-12).",
+  "2014-2015": "Wayback 2014-10-09. INCOMPLETE: PGY VII lists only Krieger, Williams, Salas; Sonia Teufack (Geschwindt) and Chengyuan Wu (PGY VI in 2013-14, alumni-page graduates 2015) are not listed. Not reconstructed (brief allows manual rows only for years with no capture); their 2015 completion is in training_history. PHASE 2: resolved. Archived fellow-alumni.html (Wayback 2017-09-01) lists Geschwindt (Skull Base) and Wu (Functional) as 2015 Jefferson FELLOW alumni as well as 2015 residency graduates: their PGY7 was an enfolded fellowship year, so they sat on the fellow list, not the resident list. Only two staff.html captures exist in 2014-15 (2014-10-09, 2015-10-18 stale). Added as reconstructed PGY7 rows.",
+  "2015-2016": "Page not updated until early 2016 (2015-10 capture still showed the 2014-15 roster). Used 2016-05-18, content-dated 2015-16 (PGY-1 = Al-Saiegh/Sabourin/Stefanelli).",
+  "2018-2019": "Page carried the 2017-18 roster through 2019-01; used 2019-02-01, the first 2018-19 content (PGY-1 = Philipp/Mahtabfar/Atallah).",
+  "2022-2023": "Sep-Oct 2022 captures had no PGY-1 section; used 2022-11-03.",
+  "2024-2025": "Aug 2024 captures still showed 2023-24; the only 2024-25 content is 2025-05-04 (PGY-1 = Kumar/Sathe/Tucci).",
+  "2025-2026": "Only capture with 2025-26 content is Wayback 2026-09-24, which is identical to the live page fetched 2026-09-27 (PGY-1 = Filo class, PGY-7 = Andrews class, who were PGY-1 in 2019-20). Loaded as 2025-26.",
+  "2026-2027": "Live page (2026-09-27) not advanced: same as the 2025-26 roster, no 2026 interns, 2026 graduates still listed as PGY-7, and the alumni page has no 2026 class. Not loaded. No other source tried beyond the program site, Wayback and Common Crawl. PHASE 2: live residents.html and residency.html re-fetched 2026-09-28: unchanged, no 2026 match/intern names."
+ },
+ "alumni_page": "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/neurosurgery/education/residency/alumni.html",
+ "departures": [
+  {
+   "name": "Kofi-Buaku Atsina",
+   "last_ay": "2014-2015",
+   "last_pgy": 3,
+   "note": "Entered 2012. Absent from the 2015-16 roster (PGY-4 group lists only Pendleton and Stricsek) and from the alumni page. Adjudication (NPI): switched specialty. PHASE 2: confirmed switch to RADIOLOGY by publication affiliation (Dept of Radiology TJU 2017-2020, PMIDs 27657929, 31093804; neuroradiology/NIR at Penn 2020-22, PMIDs 32529967, 34424100). Not Yale's Komli-Kofi Atsina."
+  },
+  {
+   "name": "Erika Dillard",
+   "last_ay": "2017-2018",
+   "last_pgy": 4,
+   "note": "Entered 2014. Absent from the 2018-19 roster (PGY-5 group lists only Theofanis and Ye) and from the alumni page. Adjudication (NPI): switched specialty. PHASE 2: destination unknown (no publications after leaving; NPPES name match not evidence). training_history departure_type='unknown'."
+  },
+  {
+   "name": "Edward M. Marchan",
+   "last_ay": "2009-2010",
+   "last_pgy": 4,
+   "note": "Before the study window: PGY IV on the 2010-06 Wayback roster; absent from the 2011-12 roster (Amenta alone at PGY VI) and from the alumni page. Left between 2010-06 and 2011-07. Not loaded (no 2011+ observation)."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 49,
+ "adjudication_summary": {
+  "COMPLETED": 37,
+  "IN TRAINING": 25,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> did not complete": 1,
+  "total_people": 64,
+  "note": "Phase 2: Madineni completion confirmed (archived alumni page 2017-2021, later dropped); Philipp completion from PGY-terminal roster (+NPPES neurosurgery practice in MO); Dillard's NPI 'switch' replaced by unknown."
+ },
+ "problems": "(1) 2026-27 not observable (live page stale 2026-09-28). (2) Dillard's destination unknown. (3) Salas repeated PGY VI (2012-13 and 2013-14), so she spent 8 years (entry 2007, grad 2015); not a departure. (4) Live alumni page silently omits Madineni (2017) and Philipp (2025); older archived versions listed Madineni. (5) Name changes: Hann->Clark, Teufack->Geschwindt.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster from Common Crawl (source_type other); cross-checked with neighbouring years"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster from Common Crawl (source_type other); cross-checked with neighbouring years"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster from Common Crawl (source_type other); cross-checked with neighbouring years"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Teufack and Wu absent from resident roster because their PGY7 was an enfolded Jefferson fellowship (archived alumni page lists both as 2015 residency grads AND 2015 fellows); added as reconstructed PGY7 rows"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster; page updated late; 2016-05 capture used"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster; page updated late; 2019-02 capture used"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster; 2022-11 capture used (earlier lacked PGY1)"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster; only 2025-05 capture has 2024-25 content"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2026-2027": {
+   "status": "missing",
+   "significance": "low",
+   "reason": "current year; live page re-fetched 2026-09-28 still shows 2025-26 and no newer Wayback capture. Only transitions 2025-26 -> 2026-27 (Andrews-class graduation, any 2026 departures) are unseen; 2025-26 roster exists"
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7
+ },
+ "phase2": {
+  "searched": [
+   "Wayback CDX staff.html 2014-2015 (2 captures only)",
+   "Wayback fellow-alumni.html 2015-2021 and SKMC alumni.html 2021-2026",
+   "live residents.html / residency.html re-fetch 2026-09-28",
+   "PubMed author affiliation: Madineni, Philipp, Atsina, Dillard",
+   "OpenAlex / Europe PMC: Dillard",
+   "NPPES (supporting only): Philipp, Madineni, Dillard"
+  ],
+  "found": [
+   "Teufack/Geschwindt and Wu: 2015 residency grads whose PGY7 was an enfolded Jefferson fellowship (fellow alumni list) -> reconstructed PGY7 2014-15",
+   "Madineni: 2017 residency graduate on archived alumni page (Clinical Instructor, TJU)",
+   "Philipp: PGY-terminal roster 2024-25, absent 2025-26; NPPES neurosurgery in Independence MO",
+   "Atsina: switched to radiology (TJU radiology 2017-20, Penn neuroradiology 2020-22)"
+  ],
+  "remaining": [
+   "2026-27 roster (stale live page; low significance)",
+   "Dillard destination unknown"
+  ]
+ },
+ "phase2_training_history_added": [
+  "Madineni completed 2017",
+  "Philipp completed 2025",
+  "Atsina no/switched_specialty 2015",
+  "Dillard no/unknown 2018"
+ ]
+}

@@ -1,0 +1,1041 @@
+[
+ {
+  "key": "12:ada:khalil",
+  "name": "Adam Khalil",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Univ of Colorado 2014; residency neurological surgery Cleveland Clinic; publication with Cleveland Clinic/UT Health San Antonio IR affiliation; same name as input",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "switched_specialty",
+  "outcome_detail": "Doximity summary text says residency in neurological surgery at Cleveland Clinic 2014-2016, then switched to interventional radiology (fellowship Brigham and Women's); Education field lists 2014-2021 (template default). Now board-certified (ABR) diagnostic+interventional radiology.",
+  "year_left": 2016,
+  "destination_program": "Interventional/diagnostic radiology (fellowship Brigham and Women's)",
+  "destination_start_year": null,
+  "current": "interventional radiologist, Grass Valley CA (Doximity)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "blocked"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/adam-khalil-md",
+    "type": "doximity",
+    "evidence": "followed by a residency in neurological surgery at the Cleveland Clinic Foundation from 2014 to 2016. He then switched fields to interventional radiology"
+   },
+   {
+    "url": "https://www.doximity.com/pub/adam-khalil-md",
+    "type": "doximity",
+    "evidence": "American Board of Radiology - Interventional Radiology and Diagnostic Radiology"
+   },
+   {
+    "url": "https://health.usnews.com/doctors/adam-khalil-1375615",
+    "type": "usnews",
+    "evidence": "blocked (automated-behavior page)"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "12:bal:otvos",
+  "name": "Balint Otvos",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Case Western 2014, residency neurological surgery Cleveland Clinic 2014-2021; MU faculty bio",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity Education lists Cleveland Clinic neurological surgery residency 2014-2021; practising neurosurgeon and residency program director at Univ of Missouri.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Univ of Missouri Health Care, Columbia MO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "blocked"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/balint-otvos-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2014 - 2021"
+   },
+   {
+    "url": "https://www.muhealth.org/doctors/balint-otvos-md",
+    "type": "bio",
+    "evidence": "search snippet: Neurosurgery Residency Program Director, Associate Professor of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:mat:grabowski",
+  "name": "Matthew Grabowski",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Cleveland, neurosurgery): Cleveland Clinic Lerner College of Medicine 2014, residency Cleveland Clinic 2014-2021, ABNS; Cleveland Clinic provider page",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency neurological surgery Cleveland Clinic 2014-2021; ABNS certified; staff neurosurgeon (neuro-oncology) at Cleveland Clinic.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (brain tumor), Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-grabowski-md-9e2849cc",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://providers.clevelandclinic.org/provider/matthew-grabowski/4270467",
+    "type": "bio",
+    "evidence": "search result: Brain Tumor Neurosurgery, Cleveland Clinic"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:vik:chakravarthy",
+  "name": "Vikram Chakravarthy",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD UMKC 2014; residency Loma Linda 2014-2017 then Cleveland Clinic 2017-2021; ABNS",
+  "residency_stated": [
+   {
+    "institution": "Loma Linda University Health Education Consortium",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2017
+   },
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transferred IN from Loma Linda (2014-2017) to Cleveland Clinic PGY-4 in 2017; completed 2021; fellowships CC spine 2020-21, MSK neurosurgical oncology 2021-22. Completed at Cleveland Clinic (entry_year 2014 in DB reflects class year).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Garden Grove CA (Doximity); previously Ohio State asst professor per search",
+  "agrees_with_db": true,
+  "disagreement": "DB entry year 2014 is class year; actual start at CC 2017 (already noted in phase2)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/vikram-chakravarthy-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency 2017 - 2021; Loma Linda ... 2014 - 2017; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:wil:kemp",
+  "name": "William Kemp",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity William J Kemp III: Indiana Univ SOM 2014, Cleveland Clinic residency 2014-2021, ABNS; bio: internship general surgery William Beaumont, matches DB note",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency Cleveland Clinic 2014-2021 with ABNS certification; neurosurgeon (spine), Neurosurgical Associates, Reston VA, after spine fellowship at Univ of Wisconsin.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Neurosurgical Associates of Virginia, Reston VA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/william-kemp-md-6eb58065",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Residency, 2014 - 2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.neurosurgicalva.com/william-kemp-md/",
+    "type": "bio",
+    "evidence": "search summary: neurological surgery residency at Cleveland Clinic Foundation, internship general surgery William Beaumont Hospital, MD Indiana University"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:amr:morsi",
+  "name": "Amr Morsi",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Amr Morsi (Weston FL neurosurgery): residency Cleveland Clinic 2015-2022; Cleveland Clinic provider page; co-author with CC residents Kondylis, Sharma",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity: residency neurological surgery Cleveland Clinic 2015-2022; epilepsy/functional fellowship Mount Sinai (search snippet); staff neurosurgeon at Cleveland Clinic Florida (Weston) / Rutgers RWJ.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "functional/epilepsy neurosurgeon, Cleveland Clinic Florida (Weston) / RWJBarnabas-Rutgers",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/amr-morsi-md-96f529d3",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2015 - 2022"
+   },
+   {
+    "url": "https://providers.clevelandclinic.org/provider/amr-morsi/5833751",
+    "type": "bio",
+    "evidence": "search result: Dr. Amr Morsi, MD - Weston, FL - Functional Neurosurgery, Epilepsy Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:eri:schmidt",
+  "name": "Eric Schmidt",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Eric Scott Schmidt: MD Univ of Kentucky 2015, residency Cleveland Clinic 2015-2022, ABNS; co-author with CC residents (Soni, Davison, Sundar, Kondylis)",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency neurological surgery Cleveland Clinic 2015-2022, fellowships spine 2019-20 and epilepsy 2020-21 within residency; board-certified neurosurgeon (Lexington KY, now Englewood CO).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Englewood CO (previously Lexington KY)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/eric-schmidt-md-392ce543",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2015 - 2022; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:pra:soni",
+  "name": "Pranay Soni",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Cleveland Clinic provider page/LinkedIn: skull base neurosurgeon at Cleveland Clinic; MD Jefferson 2015; co-author with CC residents",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising skull base neurosurgeon at Cleveland Clinic (staff); implies completion of neurosurgery residency there (2015 entry). Exact end year not seen in a source.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "skull base neurosurgeon, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://providers.clevelandclinic.org/provider/pranay-soni/4270468",
+    "type": "bio",
+    "evidence": "search result: Dr. Pranay Soni, MD - Cleveland, OH - Skull Base Surgery"
+   },
+   {
+    "url": "https://www.linkedin.com/in/pranay-soni-4436321b6/",
+    "type": "search_snippet",
+    "evidence": "Pranay Soni - Skull Base Neurosurgeon at Cleveland Clinic"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:jas:hsieh",
+  "name": "Jason Hsieh",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Jason Kenneth Hsieh (Case Western MD 2016; residency Cleveland Clinic 2016-2023); Northwestern faculty bio",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency neurological surgery Cleveland Clinic 2016-2023; now assistant professor of neurological surgery (epilepsy/functional), Northwestern Feinberg.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "functional/epilepsy neurosurgeon, Northwestern Medicine, Chicago IL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jason-hsieh-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://www.nm.org/doctors/1861856445/jason-kenneth-hsieh-md",
+    "type": "bio",
+    "evidence": "search result: Jason K. Hsieh, MD | Northwestern Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:neh:sarmey",
+  "name": "Nehaw Sarmey",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Nehaw Sarmey: Cleveland Clinic Lerner College of Medicine 2016, residency Cleveland Clinic 2016-2023; Univ of Arizona faculty page",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency neurological surgery Cleveland Clinic 2016-2023 (profile header still says resident; stale); faculty neurosurgeon (epilepsy) Univ of Arizona / Banner Tucson; AZ license 2024.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "epilepsy/functional neurosurgeon, Univ of Arizona College of Medicine-Tucson / Banner",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/nehaw-sarmey-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://medicine.arizona.edu/person/nehaw-sarmey-md",
+    "type": "bio",
+    "evidence": "search result: Nehaw Sarmey, MD | College of Medicine - Tucson; teaching faculty in the Neurological Surgery Residency Program"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:swe:sundar",
+  "name": "Swetha Sundar",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Swetha Jaya Sundar: CWRU MD 2016, residency Cleveland Clinic 2016-2023; Corewell provider bio",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency Cleveland Clinic 2016-2023 then pediatric neurosurgery fellowship Univ of Colorado 2023-24; pediatric neurosurgeon (board-eligible per bio).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Corewell/Helen DeVos Children's, Grand Rapids/Kalamazoo MI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/swetha-sundar-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2016 - 2023; University of Colorado Fellowship, Pediatric Neurosurgery, 2023 - 2024"
+   },
+   {
+    "url": "https://providers.corewellhealth.org/provider/swetha-j-sundar/3095044",
+    "type": "bio",
+    "evidence": "search result: Dr. Swetha J Sundar, MD - Grand Rapids, MI - Pediatric Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:ben:whiting",
+  "name": "Benjamin Whiting",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Benjamin Bernard Whiting: Temple MD 2017, residency Cleveland Clinic 2017-2024; AHN bio",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency Cleveland Clinic 2017-2024 plus spine fellowship 2022-23; practising spine neurosurgeon (AHN).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, AHN Neuroscience Institute, Pittsburgh PA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/benjamin-whiting-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://findcare.ahn.org/Benjamin-B-Whiting",
+    "type": "bio",
+    "evidence": "search result: neurosurgeon with the AHN Neuroscience Institute specializing in complex spine surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:efs:kondylis",
+  "name": "Efstathios Kondylis",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Efstathios Demetre Kondylis: Pitt MD 2016, residency Cleveland Clinic 2017-2023; Henry Ford bio",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency Cleveland Clinic 2017-2023; epilepsy fellowship (LinkedIn); now functional neurosurgeon at Henry Ford.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "functional/epilepsy neurosurgeon, Henry Ford Health, Detroit MI",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/efstathios-kondylis-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2017 - 2023"
+   },
+   {
+    "url": "https://www.henryford.com/physician-directory/k/kondylis-efstathios",
+    "type": "bio",
+    "evidence": "search result: Efstathios Kondylis, MD | Henry Ford Health - Detroit, MI"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:rog:murayi",
+  "name": "Roger Murayi",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Roger Bwimana Murayi: Penn MD 2016, residency Cleveland Clinic 2017-2024; LVHN bio",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency Cleveland Clinic 2017-2024; practising neurosurgeon (skull base) at Lehigh Valley.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Lehigh Valley Health Network, Allentown PA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/roger-murayi-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://www.lvhn.org/doctors/roger-murayi",
+    "type": "bio",
+    "evidence": "search result: Roger B. Murayi, MD | Lehigh Valley Health Network"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:aks:sharma",
+  "name": "Akshay Sharma",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Akshay Mohan Sharma: CWRU MD 2018, residency Cleveland Clinic 2018-2025 (chief resident per Cleveland Clinic/AANS bios); co-author with CC epilepsy team (Morsi, Sarmey)",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency Cleveland Clinic 2018-2025; now pediatric/epilepsy neurosurgery (Houston TX license 2026; profile lists Houston, likely fellowship/faculty). Completion inferred from end year 2025 and neurosurgery specialty listing.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (epilepsy/pediatric), Houston TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/akshay-sharma-md-57c81a85",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2018 - 2025"
+   },
+   {
+    "url": "https://x.com/CleClinicNS/status/1793057632279724053",
+    "type": "search_snippet",
+    "evidence": "Cleveland Clinic Neurosurgery post about Akshay Sharma (search result)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:aus:barnett",
+  "name": "Austin Barnett",
+  "program_id": 12,
+  "identity": "probable",
+  "identity_basis": "Doximity Austin Andrew Barnett: CWRU MD Class of 2017, Cleveland Clinic address (9500 Euclid), Cleveland OH; matches entry 2018 after MD 2017",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Doximity lists him only as 'Resident Physician', Cleveland; Education shows CWRU MD 2017 and NO residency entry and no neurosurgery specialty. Publications are stroke/neurogenesis basic science. No source found naming his destination specialty/program. Not confirmed as neurosurgery completer; consistent with DB leaving neurosurgery but destination unverified.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "resident physician (specialty not stated), Cleveland Clinic address per Doximity",
+  "agrees_with_db": null,
+  "disagreement": "DB says switched specialty; sources only show non-neurosurgery 'Resident Physician' - destination unverified",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/austin-barnett-md",
+    "type": "doximity",
+    "evidence": "Resident Physician - Cleveland, OH; Case Western Reserve University School of Medicine Class of 2017 (no residency listed)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/austin-barnett-70326a105/",
+    "type": "search_snippet",
+    "evidence": "Austin Barnett - MD graduate seeking to improve ..."
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "12:reb:achey",
+  "name": "Rebecca Achey",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Rebecca Leigh Achey: CWRU MD 2018, residency Cleveland Clinic 2018-2025; co-author with CC residents (Kashkoush, Davison, Lilly, Winkelman)",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency neurological surgery Cleveland Clinic 2018-2025; profile now Madison WI (Univ of Wisconsin) neurosurgery, WI license 2026.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (Madison WI, Univ of Wisconsin address)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rebecca-achey-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2018 - 2025"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:ahm:kashkoush",
+  "name": "Ahmed Kashkoush",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Ahmed Kashkoush: Pitt MD 2019, residency Cleveland Clinic 2019-2026; co-author with CC residents",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency neurological surgery Cleveland Clinic 2019-2026 (completed 2026 per end year); search snippet: endovascular neuroradiology fellowship class of 2027 (neurosurgery-track cerebrovascular fellowship, not a specialty switch).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, endovascular neuroradiology fellow (2026-27), Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ahmed-kashkoush-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2019 - 2026"
+   },
+   {
+    "url": "https://www.linkedin.com/in/ahmed-kashkoush-00a3043b/",
+    "type": "search_snippet",
+    "evidence": "Ahmed Kashkoush - Neurosurgery Resident, Cleveland ..."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:arp:patel",
+  "name": "Arpan Patel",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Arpan Ajit Patel (Cleveland, neurosurgery): U Arizona-Phoenix MD 2019, residency Cleveland Clinic 2019-2026; Cleveland Clinic staff page; distinct from Kansas City neurologist Arpan Patel",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency neurological surgery Cleveland Clinic 2019-2026; Cleveland Clinic provider page lists Neurosurgery, Spine Surgery. 'American Board of Surgery' cert on Doximity profile appears to be a merged record of a different Arpan Patel (JAMA IM author 'Arpan Arun Patel'); not treated as evidence.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/arpan-patel-md-7eafe145",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2019 - 2026"
+   },
+   {
+    "url": "https://providers.clevelandclinic.org/provider/arpan-patel/7186015",
+    "type": "bio",
+    "evidence": "search result: Dr. Arpan Patel, MD - Cleveland, OH - Neurosurgery, Spine Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:jos:volovetz",
+  "name": "Josephine Volovetz",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Josie Volovetz: CCLCM MD 2019, residency Cleveland Clinic 2019-2026; Cleveland Clinic PhD program bios",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency neurological surgery Cleveland Clinic 2019-2026 (PRISM PhD during residency); profile now Houston TX (MD Anderson address, TX license 2026).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Houston TX (MD Anderson address per Doximity)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/josie-volovetz-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2019 - 2026"
+   },
+   {
+    "url": "https://www.linkedin.com/in/josephine-volovetz-73b37163/",
+    "type": "search_snippet",
+    "evidence": "Josephine Volovetz - Neurosurgery Resident - Cleveland Clinic"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:mar:davison",
+  "name": "Mark Davison",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Mark Davison: Rush MD 2019, residency Cleveland Clinic 2019-2026; Cleveland Clinic co-authors",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity residency neurological surgery Cleveland Clinic 2019-2026; now Neuroendovascular & Cerebrovascular Fellow at Emory, Atlanta (neurosurgery-track fellowship).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neuroendovascular/cerebrovascular fellow, Emory, Atlanta GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mark-davison-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2019 - 2026; Neuroendovascular & Cerebrovascular Fellow"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:dan:lilly",
+  "name": "Daniel Lilly",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Daniel Lilly: Rush MD 2020, residency Cleveland Clinic 2020-2027 (resident physician, Cleveland Clinic main campus); LinkedIn/AANS bios",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current neurosurgery resident at Cleveland Clinic (Doximity: 'Resident Physician - Neurological Surgery', 2020-2027).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (PGY-5/6), Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/daniel-lilly-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2020 - 2027"
+   },
+   {
+    "url": "https://www.linkedin.com/in/dan-lilly-aa4a53b3/",
+    "type": "search_snippet",
+    "evidence": "Dan Lilly - Resident physician, neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:rob:winkelman",
+  "name": "Robert Winkelman",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Robert Winkelman (Cleveland neurosurgery): CWRU MD Class of 2020; search snippets (Cleveland Clinic magazine, Doximity/WebMD) state residency Cleveland Clinic 2020-2027; Cleveland Clinic Catalyst grant article",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Neurosurgery resident at Cleveland Clinic per Cleveland Clinic magazine and directory snippets (residency 2020-2027). Fetched Doximity page lists only CWRU MD 2020 (no residency entry) but specialty Neurosurgery, Cleveland; co-authors are CC residents.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/robert-winkelman-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery - Cleveland, OH; Case Western Reserve University School of Medicine Class of 2020"
+   },
+   {
+    "url": "https://magazine.clevelandclinic.org/2025-summer-catalyst-grants",
+    "type": "news",
+    "evidence": "search result: Training in 3D (Winkelman 3D-printed spine/cranial simulators, Cleveland Clinic Catalyst Grant)"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/robert-winkelman-8bf9ac09-96cf-40ea-8daf-ee77bb9d10a9-overview",
+    "type": "search_snippet",
+    "evidence": "search summary: residency in Neurological Surgery at Cleveland Clinic Foundation from 2020-2027"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:she:sheikh",
+  "name": "Shehryar Sheikh",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Shehryar Sheikh: CWRU MD 2020, residency Cleveland Clinic 2020-2027; AANS 2024 bio 'PGY-4 neurosurgical resident at Cleveland Clinic ... PhD at Lerner Research Institute'",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current neurosurgery resident at Cleveland Clinic (2020-2027), in dedicated PhD research years.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic (PhD, Lerner Research Institute/CWRU)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shehryar-sheikh-md",
+    "type": "doximity",
+    "evidence": "Cleveland Clinic Foundation Residency, Neurological Surgery, 2020 - 2027"
+   },
+   {
+    "url": "https://aans2024.eventscribe.net/ajaxcalls/presenterInfo.asp?PresenterId=1785288",
+    "type": "bio",
+    "evidence": "search snippet: PGY-4 neurosurgical resident at Cleveland Clinic ... completing a PhD at the Cleveland Clinic Lerner Research Institute"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "12:gre:glauser",
+  "name": "Gregory Glauser",
+  "program_id": 12,
+  "identity": "confirmed",
+  "identity_basis": "Cleveland Clinic residency directory/Healthgrades: Temple MD 2021, neurosurgery resident at Cleveland Clinic; X post from Cleveland Clinic Neurosurgery naming PGY-3 Greg Glauser; co-author with CC residents",
+  "residency_stated": [
+   {
+    "institution": "Cleveland Clinic Foundation",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Cleveland Clinic neurosurgery resident (PGY-3 in Sept 2023 per Cleveland Clinic Neurosurgery X post; consistent with 2021 entry). No Doximity profile found.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Cleveland Clinic",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://x.com/CleClinicNS/status/1705647070009241723",
+    "type": "search_snippet",
+    "evidence": "Our talented #residents PGY-3 Greg Glauser and PGY-5 Josie Volovetz ... showcased their recent #research projects at the Ohio State Neurosurgical Society"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-gregory-glauser-xsnlkp2295",
+    "type": "search_snippet",
+    "evidence": "Dr. Gregory Glauser, MD - Neurosurgeon in Cleveland, OH; Temple 2021"
+   }
+  ],
+  "searches_used": 2
+ }
+]

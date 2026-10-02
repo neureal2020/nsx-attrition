@@ -1,0 +1,11 @@
+25 URLs to archive (min_names=5)
+auth: IA S3 key xKp5************
+  5/25  ok=4
+  10/25  ok=7
+  15/25  ok=11
+  20/25  ok=15
+  25/25  ok=19
+
+results:
+    19  ok 200
+     6  http_error 429

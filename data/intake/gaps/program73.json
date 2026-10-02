@@ -1,0 +1,301 @@
+{
+ "program_id": 73,
+ "name": "University of Arkansas for Medical Sciences (UAMS) College of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "complement_note": "Not stated on pages seen. Observed intern classes: 2 in most years; 3 in 2019; 1 in 2015 and 2018 (Stephens, Guley); none seen for 2012 entry (no PGY-5 on the 2016-17 roster).",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.uams.edu/neurosurgery/ (old static ASP site; education/, faculty/)",
+   "from": "2005",
+   "to": "2010-06 (pre-window; no resident list)"
+  },
+  {
+   "url": "http://neurosurgery.uams.edu/?id=NNNN&sid=29 (UAMS ASP CMS; Residents = ?id=8043, profiles ?id=8044-8050; sitemap/?sid=29)",
+   "from": "2012-01",
+   "to": "2014-05 (residents page never archived; only sitemap 2012-02 lists names)"
+  },
+  {
+   "url": "http://neurosurgery.uams.edu/ WordPress v1 (homepage Residents nav menu, /residents/<slug>/ profile pages, /residents/ index)",
+   "from": "2014-11",
+   "to": "2017-09"
+  },
+  {
+   "url": "http(s)://neurosurgery.uams.edu/residents/current-residents/ (WordPress v2)",
+   "from": "2017-10",
+   "to": "2022-01"
+  },
+  {
+   "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/ (neurosurgery.uams.edu 301s here; /people/ profiles)",
+   "from": "2022-08",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2015-2016"
+ ],
+ "missing_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015"
+ ],
+ "gap_details": {
+  "2011-2012": "SIGNIFICANT. ASP CMS Residents page (?id=8043) and profile pages (?id=8044-8050) have no Wayback captures (CDX prefix, any status, on neurosurgery.uams.edu/?id=8043, www.uams.edu/?id=8043 etc.). Only the 2012-02-21 sitemap/?sid=29 lists 7 resident profile names (Elswick, Tabbosha, Gandhi, Phillips, Dowdy, Vasudevan, Raber), no PGY, clearly incomplete (2011 intern Whit Morris absent). Loaded as source_type other (partial). CC-MAIN-2012 has 6 non-roster records.",
+  "2012-2013": "RECONSTRUCTED (phase 2), partial: Elswick PGY-2, Gandhi, Phillips, Dowdy (on both the 2012-02 sitemap and the 2014-11 menu). Still no capture: ASP CMS ?id=8043 never archived; neurosurgery.uams.edu had only 39 archived URLs 2011-2016; CC 0 records.",
+  "2013-2014": "RECONSTRUCTED (phase 2), partial: Elswick PGY-3, Gandhi, Phillips, Dowdy. Same searches as 2012-13.",
+  "2014-2015": "SIGNIFICANT, partial. WordPress homepage 2014-11-21 Residents nav menu lists 11 resident profile links (names only). Includes 2014 intern 'Martha Angela Wilcox' (= Angela Palmer, same /residents/wilcox/ URL) but lacks David Paulson (PGY-7 in 2016-17) and Patrick Paullus (PGY-3 in 2016-17). Profile pages /residents/<slug>/ were not archived before 2017. Loaded as source_type other with pgy null. CC 2014-35..2015-22: 0 records. Phase 2: the same 11-name menu is in CC-MAIN-2015-27 (2015-07) and CC-MAIN-2016-18 (2016-05), confirming it was never updated (Burton was already at Missouri by Nov 2015). PGYs now filled for 7 people whose entry year is fixed by later rosters here or at their next program.",
+  "2015-2016": "SIGNIFICANT. Homepage nav captures 2015-02, 2015-12, 2016-01, 2016-03 are identical to the 2014-11 list (stale: 2015 intern Marcus Stephens absent). CC-MAIN-2015-27 and 2016-xx records are non-roster pages; CC-MAIN-2015-35 index fetch failed. Reconstructed only the 5 people in both the 2014-15 list and 2016-17 roster (Bradley 6, Morris 5, Pinckard-Dover 3, Walters 3, Palmer 2). Not reconstructed (not seen before): Paulson (would be PGY-6), Paullus (PGY-2), Stephens (PGY-1). Phase 2: CC-MAIN-2015-35 retried, 0 records. Added Elswick PGY-5 (absent from Wayne State Nov-2015 roster, Year 6 there 2016-17).",
+  "2016-2017": "Common Crawl CC-MAIN-2017-13 (2017-03-28): /residents/ index + 10 profile pages each with PGY; same 10 names in the nav in CC-MAIN-2017-17 and Wayback homepage 2017-06. Complete per nav (no PGY-5 at all).",
+  "2017-2018": "Wayback 2017-10-25 current-residents (identical content through 2018-01; CC 2018-02..06 same list).",
+  "2018-2019": "No Wayback capture of current-residents between 2018-01-31 and 2019-10-15. Used Common Crawl CC-MAIN-2018-39 (2018-09-23), 10 names incl. Taylor Wilson PGY-5; CC-MAIN-2018-47 (2018-11-14), 2019-04, 2019-13, 2019-22 show the same list without Wilson.",
+  "2019-2020": "Wayback 2019-10-15.",
+  "2020-2021": "Wayback 2020-10-21.",
+  "2021-2022": "Wayback 2021-12-07 (Oct 2021 lists 'Benjamin Elberson', Dec 'Brooke M. Elberson'; canonicalised to Brooke M. Elberson).",
+  "2022-2023": "Wayback 2022-08-10 (advanced, new interns). Dec 2022 and Mar 2023 captures drop Kevin Thomas (PGY-2).",
+  "2023-2024": "Wayback 2023-12-04.",
+  "2024-2025": "Wayback 2024-11-06 (12). Mar/Jun 2025 captures drop Austin Robbins (PGY-1).",
+  "2025-2026": "Wayback 2025-12-12 (Sep 2025 identical). 2025-09-28 capture fetch returned empty (ignored).",
+  "2026-2027": "Live page 2026-09-27, advanced vs 2025-26 (2 new interns)."
+ },
+ "alumni_page": null,
+ "alumni_note": "No alumni/graduates page on any host (live 404 for residents/alumni, graduates, past-residents; none in Wayback). Only news item: 'Heather Pinckard-Dover, M.D. is first female to graduate UAMS neurosurgery residency' (2020-08). No training_history rows inserted. Phase 2: training_history now has 26 program-73 rows (13 completions incl. 11 PGY-terminal-roster graduations 2017-2026; 3 transfers out; 3 transfers in; 3 switches; 2 unknown; 4 pre-2016 completions).",
+ "departures": [
+  {
+   "name": "Michael Raber",
+   "last_ay": "2011-2012",
+   "last_pgy": 3,
+   "note": "TRANSFERRED to Brigham and Women's (p37) PGY-4 research 2012-13; graduated there 2016. PGY-3 inferred."
+  },
+  {
+   "name": "Matthew Burton",
+   "last_ay": "2014-2015",
+   "last_pgy": 3,
+   "note": "TRANSFERRED to Missouri-Columbia (p94) PGY-4 2015-16 (entry 2012)."
+  },
+  {
+   "name": "Clay M. Elswick",
+   "last_ay": "2015-2016",
+   "last_pgy": 5,
+   "note": "TRANSFERRED to Wayne State/DMC (p125) Year 6 2016-17 (entry 2011)."
+  },
+  {
+   "name": "Elena Rose Milosavljevic",
+   "last_ay": "2017-2018",
+   "last_pgy": 1,
+   "note": "SWITCHED to radiology: Dept of Radiology, Loma Linda 2023 (PMID 37941631)."
+  },
+  {
+   "name": "Taylor Wilson",
+   "last_ay": "2018-2019",
+   "last_pgy": 5,
+   "note": "Left mid-year (Sep->Nov 2018). Loma Linda neurosurgery dept papers 2020-23 (not an LLU resident), Dept of Neurology Loma Linda 2024 (PMID 38468681): probable switch to neurology."
+  },
+  {
+   "name": "Paul Lee",
+   "last_ay": "2018-2019",
+   "last_pgy": 3,
+   "note": "Outcome unknown. 2021-24 papers list CHI St. Vincent Arkansas Neuroscience Institute (Sherwood AR), role not stated."
+  },
+  {
+   "name": "Olusoji Afuwape",
+   "last_ay": "2021-2022",
+   "last_pgy": 3,
+   "note": "Outcome unknown. No affiliation after UAMS (2025 paper still lists UAMS neurosurgery)."
+  },
+  {
+   "name": "Kevin Thomas",
+   "last_ay": "2022-2023",
+   "last_pgy": 2,
+   "note": "SWITCHED: UNC Dept of Pediatrics, Allergy/Immunology (PMIDs 36134173, 40065718)."
+  },
+  {
+   "name": "Austin Robbins",
+   "last_ay": "2024-2025",
+   "last_pgy": 1,
+   "note": "Outcome unknown. The NPI 'switch' call was unsupported (no NPPES record under this name)."
+  },
+  {
+   "name": "Alex Gilman",
+   "last_ay": "2024-2025",
+   "last_pgy": 1,
+   "note": "Outcome unknown. The NPI 'switch' call was unsupported (NPPES: student in training, Little Rock only)."
+  }
+ ],
+ "departures_unresolved_pre2016": "Resolved in phase 2: Raber, Burton, Elswick (transfers out); Tabbosha (faculty Aug 2012), Dowdy (UAMS news 2017: now a neurosurgeon), Bahgat (UAMS faculty Nov 2017), Vasudevan (Stanford post-residency 2014) recorded as completed. Still unresolved: Gautam Kanu Gandhi and Blake Phillips (on the 2011-12 and 2014-15 lists; NPPES neurosurgery, Little Rock; publications UAMS neurosurgery to 2017 / 2014). By roster arithmetic and NPPES enumeration (2009 / 2008) they are pre-2011 entrants. 16_adjudicate assigns every name-only person (Dowdy, Gandhi, Phillips, Tabbosha, Vasudevan, Bahgat) a guessed entry of 2011 or 2014 ('?'). None of them is a 2011+ entrant: exclude them from the 2011+ cohort.",
+ "joiners": [
+  {
+   "name": "David Paulson",
+   "first_ay": "2016-2017",
+   "first_pgy": 7,
+   "note": "from UTMB (p109; PGY-6 research 2012-13); Swedish Neuroscience Institute papers 2015-16; arrival 2015-16 or 2016-17"
+  },
+  {
+   "name": "Patrick Paullus",
+   "first_ay": "2016-2017",
+   "first_pgy": 3,
+   "note": "from LSU Shreveport (p32; left Jan-Mar 2016 at PGY-2); same med school"
+  },
+  {
+   "name": "Taylor Wilson",
+   "first_ay": "2017-2018",
+   "first_pgy": 4,
+   "note": "from Wake Forest (p119; PGY-3 2016-17); same med school (NYU)"
+  },
+  {
+   "name": "Kierany Shelvin",
+   "first_ay": "2025-2026",
+   "first_pgy": 2,
+   "note": "origin not found"
+  }
+ ],
+ "residents_2011plus": 30,
+ "adjudication_summary": {
+  "COMPLETED": 17,
+  "IN TRAINING": 12,
+  "LEFT -> outcome unknown": 6,
+  "LEFT -> SWITCHED SPECIALTY": 3,
+  "LEFT -> TRANSFERRED": 3,
+  "note": "Phase 2. Outcome unknown = Gandhi, Phillips (pre-2011 name-only), Paul Lee, Afuwape, Gilman, Robbins. Switches now rest on publication affiliations (Milosavljevic radiology, T. Wilson neurology, K. Thomas pediatrics), not on NPI. Paulson, Paullus and Wilson show entry = UAMS start year (2016/2016/2017) because training_history start_year overrides."
+ },
+ "problems": "CC-MAIN-2015-35 (0 records), 2017-47 and 2019-43 retried and read OK. OpenAlex returned 429 for per-person queries (shared IP); PubMed used instead. The residents page of 2011-14 (?id=8043) has no capture on any host or in any crawl, so 2011-12 to 2013-14 cannot be observed.",
+ "year_status": {
+  "2011-2012": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "Only a partial name list (Feb-2012 sitemap, 7 names; Bradley and Morris absent). A 2011 entrant who left before mid-2014 would be invisible; 2011 class seen = Morris + Elswick."
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No capture anywhere. Reconstructed 4 bracketed people only. The 2012 class shows only Burton (entry inferred from Missouri); a 2012 or 2013 entrant who left before mid-2014 would be invisible."
+  },
+  "2013-2014": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No capture anywhere. Same partial reconstruction as 2012-13; same blind spot for 2012-13 entrants who left before mid-2014."
+  },
+  "2014-2015": {
+   "status": "missing",
+   "significance": "low",
+   "reason": "Residents menu (11 names, built ~May 2014 with the 2014 intern) mirrors the profile pages; everyone on it is now traced except Gandhi and Phillips (pre-2011 entrants). A mid-year 2014-15 joiner would be unseen."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "significant",
+   "reason": "No roster (menu stale to May 2016; CC-MAIN-2015-35 now read: 0 records). The 2015 class shows only Stephens; a 2015 intern who left during 2015-16 would be invisible. Paulson/Paullus arrival timing (2015-16 vs 2016-17) unobserved."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "full roster capture"
+  }
+ },
+ "pre2011_entrants_name_only": [
+  "Monir Tabbosha",
+  "Ram Vasudevan",
+  "Justin Dowdy",
+  "Gautam Kanu Gandhi",
+  "Blake Phillips",
+  "Diaa Bahgat"
+ ],
+ "phase2": {
+  "searched": [
+   "gapaudit 2011-2016 on neurosurgery.uams.edu, www.uams.edu/neurosurgery, uams.edu/neurosurgery, medicine.uams.edu/neurosurgery, www.uams.edu/gme, gme.uams.edu, medicine.uams.edu/gme",
+   "CDX for CMS page ids ?id=804x on www.uams.edu, uams.edu, uamshealth.com, medicine.uams.edu; domain-wide query timed out (504)",
+   "linkaudit of neurosurgery home, ASP education page ?id=7083, GME index/trainprog/res_home 2011-2016",
+   "Common Crawl retry CC-MAIN-2015-35/2017-47/2019-43 + re-read of CC-MAIN-2012, 2015-27, 2016-18 saving every page (not just roster-named URLs)",
+   "live WP REST API medicine.uams.edu/neurosurgery (media, pages, posts before 2017-10)",
+   "news.uams.edu WP REST search for every unresolved/departed name and 'neurosurgery resident'",
+   "PubMed affiliation mining 2008-2019 (pubmed_aff.py) and per-person PubMed; OpenAlex institution works 2008-2019",
+   "NPPES for all departures and name-only people",
+   "all other programs' roster files for the same names (crossmatch)"
+  ],
+  "found": [
+   "Raber -> Brigham (p37) 2012-13 PGY-4",
+   "Burton -> Missouri (p94) 2015-16 PGY-4",
+   "Elswick -> Wayne State (p125) 2016-17 Year 6",
+   "Paulson, Paullus, T. Wilson transfers in confirmed by same medical school on both programs' pages",
+   "Tabbosha assistant professor Aug 2012 (news)",
+   "Dowdy practising neurosurgeon by 2017 (news)",
+   "Bahgat UAMS assistant professor Nov 2017 (faculty page)",
+   "Vasudevan Stanford neurosurgery 2014, not a Stanford resident",
+   "Milosavljevic radiology, T. Wilson neurology, K. Thomas pediatrics (publication affiliations)",
+   "Gilman and Robbins NPI switch calls unsupported"
+  ],
+  "remaining": [
+   "2011-12 to 2013-14 unobservable: a 2011-2013 entrant who left before mid-2014 would be invisible (2012 class has only Burton)",
+   "2015-16: a 2015 entrant other than Stephens who left within the year would be invisible",
+   "Gandhi and Phillips outcomes (pre-2011 entrants)",
+   "Paul Lee, Afuwape, Gilman, Robbins outcomes",
+   "Kierany Shelvin origin"
+  ]
+ },
+ "residents_2011plus_note": "Entrants 2011+ by roster PGY: 2011 Morris, Elswick; 2012 Burton; 2013 Pinckard-Dover, Walters; 2014 Palmer; 2015 Stephens; 2016 Lee, Hundley; 2017 Helton, Milosavljevic; 2018 Guley; 2019 Afuwape, Elberson, Turner; 2020 Coggins, Porter; 2021 Body, K. Thomas; 2022 Accilien, Aljiboori; 2023 Bu, Rezayev; 2024 Gilman, Robbins, (Shelvin joiner); 2025 Maldonado, Mullins; 2026 Bauserman, Mathews = 30 (Shelvin counted in 2024) + transfers in Paullus, Wilson (and Paulson, entry 2007 at UTMB). The 6 name-only pre-2011 people are excluded."
+}

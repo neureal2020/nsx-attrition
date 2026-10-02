@@ -1,0 +1,104 @@
+{
+ "program_id": 71,
+ "name": "University of Arizona College of Medicine - Phoenix Program (Banner - University Medical Center Phoenix)",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2024,
+ "hosts": [
+  {
+   "url": "https://phoenixmed.arizona.edu/neurosurgery-banner-contact",
+   "from": "2023-12 (states 'does not have a UACOM-P sponsored residency' through 2024-08-03)",
+   "to": "2024-09-27 onward announces the new residency"
+  },
+  {
+   "url": "https://phoenixmed.arizona.edu/neurosurgery-residency (+ /curriculum, /how-apply, /who-we-are, /who-we-are/faculty)",
+   "from": "2024-08-11 (first capture, Wayback and CC-MAIN-2024-33)",
+   "to": "live 2026-09-27"
+  },
+  {
+   "url": "https://phoenixmed.arizona.edu/programs/graduate-medical-education/residency-programs/neurosurgery/who-we-are/neurosurgery (training sites)",
+   "from": "2024-08-11",
+   "to": "live"
+  },
+  {
+   "url": "https://phoenixmed.arizona.edu/neurosurgery-residency/who-we-are/current-residents",
+   "from": "linked from hub between 2025-07-15 and 2025-11-07; first capture 2026-01-25",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2024-2025"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2024-2025": "Program's first year (June 2024); no roster was ever published. Only two residents possible: Barbagli PGY1 (bio: first resident hired June 2024) and Nosova PGY5 (PGY6 in 2025-26, Banner affiliation continuous since 2023). Complement 1/yr, first Match intern was Bauer 2025; a resident entering and leaving within 2024-25 would need an off-cycle transfer, and UACOM-P/Banner neurosurgery PubMed affiliations 2024-25 show only faculty, research fellows and students besides these two."
+ },
+ "alumni_page": null,
+ "departures": [],
+ "joiners": [
+  {
+   "name": "Kristin Nosova",
+   "first_ay": "2024-2025",
+   "first_pgy": 5,
+   "origin": "UC Davis neurosurgery (program 77), PGY1-5 2018-19..2022-23",
+   "note": "Banner/UACOM-P neurosurgery affiliation from early 2023 (PMID 36906326, 37080455), before accreditation; in the ACGME program at PGY5 2024-25 (reconstructed), PGY6 2025-26, PGY7 2026-27. training_history th_id 3078."
+  },
+  {
+   "name": "Zachary Wetsel",
+   "first_ay": "2025-2026",
+   "first_pgy": 4,
+   "origin": "UMMC Mississippi (program 93), PGY1-3 2019-20..2021-22, then Boston Medical Center/BU neurosurgery research (PubMed 2024-12..2025-09)",
+   "note": "Joined PGY4 2025-26; PGY5 2026-27. Not in the program in 2024-25 (BMC affiliation). training_history th_id 3079."
+  },
+  {
+   "name": "Ashley Carter",
+   "first_ay": "2026-2027",
+   "first_pgy": 2,
+   "origin": "EVMS MD 2025; PGY1 2025-26 UACOM-P General Surgery (PMID 41804424)",
+   "note": "Joined neurosurgery at PGY2 2026-27 (neurosurgery affiliation from 2026-06, PMID 42499527, 42695039; NPPES AZ trainee NPI 2025-04). training_history th_id 3080."
+  }
+ ],
+ "residents_2011plus": 6,
+ "adjudication_summary": {
+  "IN TRAINING": 6
+ },
+ "problems": "Program DB website was wrong (Mayo Clinic Arizona, program 39); real host is phoenixmed.arizona.edu/neurosurgery-residency. No graduates yet (ACGME 'Continued Accreditation without Outcomes'). Nosova's 2023-24 status at Banner (pre-accreditation) is unclear; she lost one PGY level in the move (PGY5 at UC Davis 2022-23, PGY5 again 2024-25). Program 77 has no training_history transfer-out row for Nosova (left to that program's agent). NPPES API not reachable from this machine; used local db/nppes.db.",
+ "years": {
+  "2024-2025": {
+   "status": "reconstructed",
+   "significance": "none",
+   "reason": "Program's first year (June 2024); no roster was ever published. Only two residents possible: Barbagli PGY1 (bio: first resident hired June 2024) and Nosova PGY5 (PGY6 in 2025-26, Banner affiliation continuous since 2023). Complement 1/yr, first Match intern was Bauer 2025; a resident entering and leaving within 2024-25 would need an off-cycle transfer, and UACOM-P/Banner neurosurgery PubMed affiliations 2024-25 show only faculty, research fellows and students besides these two."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2026-01-25 (same 2026-06-10)."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live 2026-09-27."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "phase-1 raw captures in data/raw/extraction/p71 (no roster-like file dated in 2024-25; hub/who-we-are/faculty captures 2024-08..2025-07 carry no resident list)",
+   "live current-residents bios (Barbagli 'first resident hired ... June 2024')",
+   "PubMed per-name (Nosova, Wetsel, Barbagli, Carter, Bauer) 2021-2026",
+   "PubMed affiliation mining neurosurgery + Banner/University of Arizona + Phoenix 2024-2025",
+   "local NPPES (Nosova, Wetsel, Carter, Barbagli, Bauer)",
+   "program 77 and 93 rosters/gap files and training_history"
+  ],
+  "found": [
+   "2024-25 reconstructed: Barbagli PGY1, Nosova PGY5",
+   "Nosova origin UC Davis (at Banner from early 2023)",
+   "Wetsel origin UMMC then BMC research, joined 2025-26",
+   "Carter origin EVMS + UACOM-P General Surgery PGY1 2025-26, joined 2026-27"
+  ],
+  "remaining": []
+ }
+}

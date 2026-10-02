@@ -1,0 +1,74 @@
+
+Ohio State University Hospital Program
+entry  name                     grad   last     PGY evidence     OUTCOME
+------------------------------------------------------------------------------------------------------------------
+2005   Kaveh Asadi-Moghaddam    2012   2011-20  7   bio          COMPLETED
+2005   Rick Edgar               2012   2011-20  7   bio          COMPLETED
+2006   Elena Gutierrez          2013   2012-20  7   bio          COMPLETED [ambiguous name]
+2006   Girma Makonnen           2013   2012-20  7   bio          COMPLETED
+2006   Esmiralda Yeremeyeva     2013   2012-20  7   bio          COMPLETED
+2007   Pier Paolo Peruzzi       2014   2013-20  7   bio          COMPLETED
+2007   Paul Porensky            2014   2013-20  7   bio          COMPLETED
+2008   Laura Ngwenya            2015   2014-20  7   bio          COMPLETED
+2008   Promod Pillai            2015   2014-20  7   bio          COMPLETED
+2009   Daniel Ikeda             2016   2015-20  7   bio          COMPLETED
+2009   Andrew Shaw              2016   2015-20  7   bio          COMPLETED [ambiguous name]
+2010   Ali Jamshidi             2017   2016-20  7   bio          COMPLETED
+2010   Evan Marlin              2017   2016-20  7   bio          COMPLETED
+2011   Ahmed Mohyeldin          2018   2017-20  7   bio          COMPLETED
+2011   Ammar Shaikhouni         2018   2017-20  7   bio          COMPLETED
+2012   Nishanta Baidya          2017   2016-20  5   bio          LEFT -> SWITCHED SPECIALTY
+2012   David Dornbos            2019   2018-20  7   bio          COMPLETED
+2013   Kristin Huntoon          2020   2019-20  7   bio          COMPLETED
+2013   Victoria Schunemann      2020   2019-20  7   bio          COMPLETED
+2014   Andrew Look              2021   2020-20  7   bio          COMPLETED
+2014   Hoang Nguyen             2021   2020-20  7   bio          COMPLETED [ambiguous name]
+2015   Jeffrey Hatef            2022   2021-20  7   bio          COMPLETED
+2015   Luke Smith               2022   2021-20  7   bio          COMPLETED [ambiguous name]
+2016   Justin Baum              2023   2022-20  7   bio          COMPLETED
+2016   Candice Carpenter        2019   2018-20  3   bio          LEFT -> did not complete
+2016   Ranjit Ganguly           2023   2022-20  7   bio          COMPLETED
+2017   Benjamin McGahan         2024   2023-20  7   bio          COMPLETED
+2017   Nathaniel Toop           2024   2023-20  7   bio          COMPLETED
+2017   Amanda Zakeri            2024   2023-20  7   bio          COMPLETED
+2018   Asad Akhter              2025   2024-20  7   bio          COMPLETED
+2018   Joravar Dhaliwal         2025   2024-20  7   bio          COMPLETED
+2018   Daniel Kreatsoulas       2025   2024-20  7   bio          COMPLETED
+2019   Ryan Eaton               2026   2025-20  7   bio          COMPLETED
+2019   Josh Wang                2026   2025-20  7   bio          COMPLETED [ambiguous name]
+2019   Orel Zaninovich          2020   2019-20  1   bio          LEFT -> did not complete
+2020   James Mossner            2022   2021-20  2   bio          LEFT -> TRANSFERRED
+2020   Lauren Schulz            -      2026-20  7   roster       IN TRAINING [ambiguous name]
+2021   Mark Damante             -      2026-20  6   roster       IN TRAINING
+2021   Ahmed Jorge              2024   2023-20  3   bio:none     LEFT -> outcome unknown
+2021   Joshua Weinberg          -      2026-20  6   roster       IN TRAINING
+2022   Cameron Brandon          -      2026-20  5   roster       IN TRAINING
+2022   Santino Cua              -      2026-20  5   roster       IN TRAINING
+2022   Christen O'Neal Swann    2026   2025-20  4   bio:none     LEFT -> outcome unknown
+2023   Maxwell Gruber           -      2026-20  4   roster       IN TRAINING
+2023   David Havlicek           -      2026-20  4   roster       IN TRAINING
+2023   Reid Johnson             -      2026-20  4   roster       IN TRAINING [ambiguous name]
+2024   Lokeshwar Bhenderu       -      2026-20  3   roster       IN TRAINING
+2024   James Mamaril-Davis      -      2026-20  3   roster       IN TRAINING [ambiguous name]
+2024   Nicco Ruggiero           -      2026-20  3   roster       IN TRAINING
+2024   Mynor Mendez Valdez      -      2026-20  3   roster       IN TRAINING
+2025   Chandler Berke           -      2026-20  2   roster       IN TRAINING
+2025   Jakub Jarmula            -      2026-20  2   roster       IN TRAINING
+2025   Spencer Raub             -      2026-20  2   roster       IN TRAINING
+2025   Bradley Wilhelmy         -      2026-20  2   roster       IN TRAINING
+2026   Alec Jonason             -      2026-20  1   roster       IN TRAINING
+2026   Spencer Oslin            -      2026-20  1   roster       IN TRAINING
+2026   Sabrina Ryan             -      2026-20  1   roster       IN TRAINING
+2026   Nassim Stegamat          -      2026-20  1   roster       IN TRAINING
+
+summary:
+    32  COMPLETED
+    20  IN TRAINING
+     2  LEFT -> did not complete
+     2  LEFT -> outcome unknown
+     1  LEFT -> SWITCHED SPECIALTY
+     1  LEFT -> TRANSFERRED
+
+Note: 'completed neurosurgery (here or elsewhere)' cannot distinguish a
+graduate from a transfer-out. Separating those needs a graduates list,
+which this program does not publish.

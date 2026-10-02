@@ -1,0 +1,154 @@
+{
+ "program_id": 62,
+ "name": "Stony Brook Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": 2020,
+ "hosts": [
+  {
+   "url": "http://neuro.stonybrookmedicine.edu/Residency-Fellowship.html",
+   "from": "2013-02",
+   "to": "2014-09",
+   "note": "Neurosciences Institute residency list; no neurosurgery residency"
+  },
+  {
+   "url": "https://neuro.stonybrookmedicine.edu/residency-fellowship",
+   "from": "2015-02",
+   "to": "2025-01",
+   "note": "Neurosciences Institute list; neurosurgery residency absent through 2020-02, listed (link only) from 2021; no names"
+  },
+  {
+   "url": "https://neuro.stonybrookmedicine.edu/education",
+   "from": "2019-08",
+   "to": "2024-06",
+   "note": "program description only, no names"
+  },
+  {
+   "url": "https://medicine.stonybrookmedicine.edu/neurosurgery/education-training",
+   "from": "2016-09",
+   "to": "2017-06",
+   "note": "medical-student rotation only; says service covered by physician extenders (no residents)"
+  },
+  {
+   "url": "https://renaissance.stonybrookmedicine.edu/neurosurgery/education-training",
+   "from": "2019-09",
+   "to": "2026-06",
+   "note": "no names"
+  },
+  {
+   "url": "https://renaissance.stonybrookmedicine.edu/neurosurgery/residency_program",
+   "from": "2020-07",
+   "to": "2026-05",
+   "note": "program description (7-year), no names; links to current-residents from 2023-05"
+  },
+  {
+   "url": "https://renaissance.stonybrookmedicine.edu/neurosurgery/residency_program/current-residents",
+   "from": "2023-09",
+   "to": "live 2026-09-27",
+   "note": "the roster"
+  }
+ ],
+ "observed_years": [
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2020-2021",
+  "2021-2022",
+  "2022-2023"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012..2019-2020": "Program did not exist. 2016-09 department education page: service covered by physician extenders; Neurosciences Institute residency list names no neurosurgery residency in any capture 2013-02..2020-02; residency_program page first captured 2020-07-10 (Common Crawl) / 2020-08-10 (Wayback). Earliest residents: Servider PGY4 in 2023-24 -> entry 2020.",
+  "2020-2021": "RECONSTRUCTED (phase 2): Servider PGY1. No roster page existed/was archived (phase-1 checks, plus phase-2 gapaudit of renaissance/neurosurgery, neuro, medicine/neurosurgery, renaissance/gme, renaissance/surgery, stonybrookmedicine.edu/gme+news, news.stonybrook.edu 2020-2023, linkaudit of residency_program/neurosurgery/education-training/neuro residency-fellowship/GME program list: no names). Evidence: NPI 1366079048 enumerated 2020-03-24, trainee taxonomy, address HSC L12 Room 80 (neurosurgery dept); Stony Brook MD (live bio); PGY4 in 2023-24.",
+  "2021-2022": "RECONSTRUCTED (phase 2): Servider 2, Razzaq 1. Razzaq NPI 1518543149 enumerated 2021-03-23 at HSC T12 Room 080 (neurosurgery); WVU School of Medicine affiliation on early-2021 papers, Stony Brook neurosurgery affiliation 2022 (PMID 35250829).",
+  "2022-2023": "RECONSTRUCTED (phase 2): Servider 3, Razzaq 2, Mani 1. Mani on Mofakham-Mikell lab page as a Stony Brook medical student (Wayback 2021-12-02, 2022-06-27), lab alumnus 2023-06-01; NPI 1952051575 enumerated 2022-03-26 at HSC T12 Room 080; Stony Brook neurosurgery affiliation 2023 (PMID 37382303).",
+  "2023-2024": "Wayback 2023-09-24 (identical 2024-03-02): Servider 4, Razzaq 3, Mani 2, Kleyner 1.",
+  "2024-2025": "Wayback 2024-11-03 (same 2024-08-17, 2025-04 x3): Servider 5, Razzaq 4, Kleyner 2, Ahmed 1. Mani gone (already absent 2024-07-18).",
+  "2025-2026": "Wayback 2026-01-14 (same 2026-06-07): Servider 6, Razzaq 5, Kleyner 3, Ahmed 2, Lian 1, Thompson 1.",
+  "2026-2027": "Live 2026-09-27: Servider 7, Razzaq 6, Kleyner 4, Ahmed 3, Lian 2, Thompson 2, Talbot 1 (advanced vs 2025-26, so valid)."
+ },
+ "alumni_page": null,
+ "departures": [
+  {
+   "name": "Racheed Mani",
+   "last_ay": "2023-2024",
+   "last_pgy": 2,
+   "outcome": "switched_specialty",
+   "note": "Entry 2022; neurosurgery PGY2 2023-24, absent from 2024-07-18. On Stony Brook Adult Neurology Current Residents page, Class of 2028 (Wayback 2025-01-23 onward; live 2026-09-28; not on 2024-08-04 capture). Dept of Neurology affiliation on 2025-26 papers. training_history th_id 2841."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 8,
+ "adjudication_summary": {
+  "IN TRAINING": 7,
+  "LEFT -> SWITCHED SPECIALTY": 1
+ },
+ "problems": "2020-23 have no roster page (created 2023); reconstructed from NPPES, lab page and PubMed. CC-MAIN-2023-06 index for neuro)/education failed twice (non-roster page). NPPES sweeps capped at 1200 results per query for the taxonomy/ZIP sweep; the surname-prefix sweep of Stony Brook city was complete (no prefix hit the cap reported).",
+ "year_status": {
+  "2011-2012..2019-2020": {
+   "status": "not_applicable",
+   "significance": "none",
+   "reason": "Program did not exist; first class July 2020."
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Servider PGY1 from NPI enumerated 2020-03 at the neurosurgery dept address + later PGY; no other trainee NPI at that address; complement 1."
+  },
+  "2021-2022": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Servider 2, Razzaq 1 (NPI 2021-03 at neurosurgery address; WVU MD 2021 per papers); complement 1 filled; no other trainee NPI."
+  },
+  "2022-2023": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Servider 3, Razzaq 2, Mani 1 (SB med student on lab page to 2022-06, NPI 2022-03 at neurosurgery address); complement 1 filled; no other trainee NPI."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2023-09-24 roster."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2024-11-03 roster."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2026-01-14 roster."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live 2026-09-27 roster, advanced vs 2025-26."
+  }
+ },
+ "entry_class_note": "2025 class has 2 PGY1s (Lian, Thompson) against complement 1; both are true interns (NPIs enumerated 2025-03/04 at the neurosurgery address; Lian a University at Buffalo student on 2023-25 papers). Most likely the second slot back-fills Mani's vacated 2022 position (no PGY5 in 2026-27). Neither is a joiner.",
+ "phase2": {
+  "searched": [
+   "gapaudit 2020-2023 on renaissance/neurosurgery, neuro, medicine/neurosurgery, stonybrookmedicine.edu/gme, renaissance/gme, sbhsa, stonybrookmedicine.edu/news, renaissance/surgery, news.stonybrook.edu/homespotlight+newsroom",
+   "linkaudit 2020-2023 of residency_program, neurosurgery home, education-training, neuro residency-fellowship, GME program list",
+   "Wayback prefix CDX of renaissance/neurosurgery 2020-2023 (all 32 URLs), neurosurgery/welcome, Mofakham-Mikell lab members/news (all versions)",
+   "Stony Brook match-day news 2020, 2021, 2023 (no neurosurgery names)",
+   "Common Crawl retry CC-MAIN-2023-06 neuro)/education (failed again) and 2023 crawls of that prefix",
+   "PubMed affiliation mining Stony Brook neurosurgery 2019-2026 and per-resident PubMed",
+   "NPPES: each resident; Stony Brook trainee-taxonomy sweep by city/ZIP; full NPI-1 sweep of Stony Brook city by 2-letter surname prefix (4090 records)",
+   "Stony Brook adult neurology current-residents page (live + Wayback)"
+  ],
+  "found": [
+   "Entry evidence for Servider (2020), Razzaq (2021), Mani (2022): 2020-23 reconstructed",
+   "Mani switched to Stony Brook adult neurology (Class of 2028), recorded as switched_specialty end 2024",
+   "Only trainee NPIs at the neurosurgery dept address 2019-2025: Servider, Razzaq, Mani, Kleyner, (Ahmed 2023-04, '101 Nicolls Rd Rm 80'), Lian, Thompson; no unseen resident"
+  ],
+  "remaining": [
+   "2020-23 still have no literal roster (the page did not exist); residual risk limited to an over-complement resident with no NPI at the department address",
+   "Common Crawl CC-MAIN-2023-06 (neuro)/education, non-roster page) still fails"
+  ]
+ }
+}

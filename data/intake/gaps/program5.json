@@ -1,0 +1,233 @@
+{
+ "program_id": 5,
+ "name": "Baylor College of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 4,
+ "complement_note": "3 per year for entrants through 2018 (2015 site: 'We accept three residents per year'); 4 per year from the 2019 class on",
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.bcm.edu/neurosurgery/index.cfm?pmid=5799 (old ColdFusion dept site, 'Current Residents')",
+   "from": "2010",
+   "to": "2013-02 (last Wayback capture); 301 by 2016"
+  },
+  {
+   "url": "https://www.bcm.edu/departments/neurosurgery/index.cfm?pmid=5799 (same ColdFusion site moved under /departments/; NOT in Wayback, found in Common Crawl)",
+   "from": "2013 (content July 2013)",
+   "to": "2014-04 (last CC copy); 302 to new site by 2015-03"
+  },
+  {
+   "url": "http://www.bcm.edu/neurosurgery/residencyoverview",
+   "from": "2012",
+   "to": "2016 (301)"
+  },
+  {
+   "url": "https://www.bcm.edu/departments/neurosurgery/education/neurosurgery-residency (+ /residents, /alumni)",
+   "from": "2015-10",
+   "to": "2021-09"
+  },
+  {
+   "url": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency (+ /residents, /alumni)",
+   "from": "2021-12",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2011-2012",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No capture of the pmid=5799 residents page before 2012-10 in Wayback (CDX exact + prefix on bcm.edu/neurosurgery; 2010 captures are only contact/email variants). Common Crawl CC-MAIN-2012 has 13 old-host records, none the residents page. Reconstructed from alumni grads 2012-2018 at implied PGY (18 names). Not represented: Zheng Lan (PGY-1 would be implied by 2012-13 PGY-2 but he is neither bracketed nor an alumnus) and any 2011-12 leaver.",
+  "2012-2013": "Observed: Wayback 2012-10-12 (identical 2013-02-21), 'Last modified July 17, 2012'. Only 1 PGY-7 (Al-Hafez) - matches alumni 2013.",
+  "2013-2014 .. 2017-2018": "SIGNIFICANT. No roster capture at all: Wayback has nothing between 2013-02-21 (old site) and 2019-08-19 (new site residents page, which existed from 2015-10 per links but was never archived); old URLs 301 by 2016. Common Crawl pass 2013-2020 (edu,bcm)/departments/neurosurgery/education and edu,bcm)/neurosurgery, plus a wrapper for pmid URLs) found no residents page before 2019-01; CC-MAIN-2017-47 education prefix failed then retried OK (0 records). Reconstructed from alumni grads (entry = grad-7, consistent with 2012-13 / 2018-19 observations). Not represented: Zheng Lan (left sometime 2013-2018), Derek Lu (2016 entrant, PGY-1/2 in 2016-18), Venita Simpson (joined above PGY-1 on an unknown date). Any other unseen leaver/joiner in these 5 years is invisible.",
+  "2018-2019": "Observed via Common Crawl only (CC-MAIN-2019-04, 2019-01-16; also 2019-03-22 and 2019-05-20). Derek Lu PGY-3 in Jan, gone by Mar 2019; Patrick Cotton appears PGY-2 only in May 2019 (stored as a 1-row supplement).",
+  "2019-2020": "SIGNIFICANT (incomplete). Only capture (Wayback = CC-MAIN-2019-35, 2019-08-19) lists PGY-7..PGY-2; PGY-1 group absent (2019 entrants Sharma, Jackson, McGinnis, Snyder, seen as PGY-2 in 2020-21 and graduated 2026). Not reconstructed because the year has a usable capture. CC-MAIN-2019-39/43/47/51, 2020-05, 2020-16 (retried) had no residents page.",
+  "2020-2021 .. 2026-2027": "Observed each year, complete (7 PGY groups).",
+  "2013-2014": "Phase 2: OBSERVED. The ColdFusion site moved to www.bcm.edu/departments/neurosurgery/index.cfm (Wayback never captured it; phase 1 scanned only /departments/neurosurgery/education in CC). CC-MAIN-2014-10 and 2014-15 hold pmid=5799 (identical, 'Last modified July 09, 2013').",
+  "2014-2015 .. 2017-2018": "Phase 2: all CC crawls 2014-2018 rescanned with the wider prefixes edu,bcm)/departments/neurosurgery and edu,bcm)/neurosurgery (fixed filter + pmid wrapper; failed 2015-18 and 2017-13 retried OK). 2014-35..2015-06 have no BCM neurosurgery records; from 2015-03 the new-site /education/neurosurgery-residency page (linking /residents) is crawled ~monthly but /residents itself never is. Wayback gapaudit over bcm.edu/neurosurgery, /departments/neurosurgery, /education, /gme and surgery hosts: nothing new. Reconstruction kept, plus Lan 2014-15 PGY4 (PMID 25800940), Simpson 2015-16..2017-18 (PGY4-6; profile UUID created 2015-10-13), Lu 2016-17 PGY1 / 2017-18 PGY2 (PGY-3 Jan 2019, PMID 30230171)."
+ },
+ "alumni_page": "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/alumni",
+ "departures": [
+  {
+   "name": "Zheng Lan",
+   "last_ay": "2014-2015",
+   "last_pgy": 4,
+   "note": "Last roster 2013-14 PGY-3; BCM neurosurgery affiliation Nov 2014 (PMID 25800940); MD Anderson cancer-biology research from 2016, later neurocritical care (Emory 2020) and Montefiore critical care/neurology (2025). Recorded switched_specialty, end_year 2015."
+  },
+  {
+   "name": "Derek Lu",
+   "last_ay": "2018-2019",
+   "last_pgy": 3,
+   "note": "Left Jan-Mar 2019; no later publications; outcome unknown."
+  },
+  {
+   "name": "Miller Douglas",
+   "last_ay": "2022-2023",
+   "last_pgy": 1,
+   "note": "Outcome unknown."
+  },
+  {
+   "name": "Jackson Allen",
+   "last_ay": "2023-2024",
+   "last_pgy": 1,
+   "note": "Outcome unknown."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Venita Simpson",
+   "first_ay": "2015-2016",
+   "first_pgy": 4,
+   "note": "Transfer from SUNY Upstate (63; PGY-3 2014-15). BCM profile UUID 218b6022-71c3-11e5 is time-based = created 2015-10-13 (2015 interns: 2015-06-24): arrived Oct 2015 at PGY-4, filling Lan's vacancy. training_history th_id 2784 (inserted by the program-63 agent) already records start 2015."
+  },
+  {
+   "name": "Patrick Cotton",
+   "first_ay": "2018-2019",
+   "first_pgy": 2,
+   "note": "Joined spring 2019 (after Lu left); UTHealth McGovern MD; PGY-1 site unknown."
+  },
+  {
+   "name": "Panayotis Apokremiotis",
+   "first_ay": "2023-2024",
+   "first_pgy": 2,
+   "note": "McGovern MD; PGY-1 site unknown."
+  },
+  {
+   "name": "Samantha Varela",
+   "first_ay": "2024-2025",
+   "first_pgy": 2,
+   "note": "UNM MD 2023; UNM neurosurgery affiliations 2023 -> probable UNM (97) PGY-1 2023-24, unconfirmed (UNM 2023-24 roster unobserved)."
+  }
+ ],
+ "residents_2011plus": 60,
+ "adjudication_summary": {
+  "COMPLETED": 44,
+  "IN_TRAINING": 28,
+  "LEFT_did_not_complete": 3,
+  "LEFT_switched_specialty": 1,
+  "note": "After phase 2 reload (2026-09-28)."
+ },
+ "problems": "No residents-page capture exists for 2014-15..2017-18 in Wayback or any Common Crawl; those years stay reconstructed but are low-significance (every class is complete on both sides and entry dates are confirmed by profile UUIDs). 2011-12 unobserved. Destinations of Lu, Douglas, Allen unknown; PGY-1 sites of Cotton, Apokremiotis, Varela unknown (Varela->UNM lead for program 97).",
+ "year_status": {
+  "2011-2012": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture anywhere (Wayback; CC-MAIN-2012 and 2009-10 on both old and /departments paths). Every 2011-12 PGY group is bracketed by the observed 2012-13 roster + alumni list; only an unseen 2011-12 leaver or a 2011-12 PGY-1 not on the 2012-13 roster (Lan's PGY-1 year is implied, not shown) could be missed."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Wayback 2012-10-12, complete."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Phase 2: Common Crawl CC-MAIN-2014-10 (2014-03-11) of /departments/neurosurgery/index.cfm?pmid=5799, 'Last modified July 09, 2013', 21 residents, 7 full PGY groups incl. Zheng Lan PGY-3."
+  },
+  "2014-2015": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster capture (all 2014-2015 crawls re-scanned incl. retried CC-MAIN-2015-18). Every class seen complete on both sides (2013-14 roster, 2018-19 roster/alumni); intern class dated by profile UUID 2014-07-03. Lan still in dept Nov 2014 (PMID 25800940). Only an extra, above-complement resident who entered and left inside the gap could be missed."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Same as 2014-15. Simpson joined Oct 2015 (profile UUID 2015-10-13), replacing Lan; 2015 interns UUID 2015-06-24."
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Same; 2016 class Bayley (UUID 2016-06-24), Hadley, Lu (all on 2018-19 roster)."
+  },
+  "2017-2018": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Same; 2017 class Lazaro/Prablek/Treiber (UUID 2017-04-29); Lu at BCM Apr 2018 (PMID 30230171). CC-MAIN-2017-13 and 2018-34 retried OK, no roster."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "CC 2019-01-16 (+2019-03-22, 2019-05-20)."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "PGY-1 group absent from the only capture; the 2019 class (complement 4) is seen complete as PGY-2 in 2020-21, so only a 5th, above-complement 2019 intern who left within the year could be missed. CC-MAIN-2019-22 retried OK (old host only redirects)."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete capture."
+  }
+ },
+ "phase2": {
+  "searched": [
+   "CC all crawls 2013-2018 on edu,bcm)/departments/neurosurgery + edu,bcm)/neurosurgery (fixed filter + pmid=), retries of CC-MAIN-2015-18, 2017-13, 2019-22, 2012",
+   "Wayback gapaudit 2013-2019: bcm.edu/neurosurgery, /departments/neurosurgery, /education, /gme, /departments/surgery",
+   "Wayback CDX people/view profiles for leavers/joiners",
+   "Program news pages (2014 NewsID, 2018 residency news)",
+   "PubMed author/affiliation searches (Lan, Lu, Simpson, Cotton, Douglas, Allen, Apokremiotis, Varela) + existing BCM-neurosurgery affiliation list 2013-2019",
+   "OpenAlex ORCID for Lu",
+   "crossmatch.json (Simpson/Upstate confirmed) and other programs' rosters (UTHealth 107, UNM 97)"
+  ],
+  "found": [
+   "2013-14 roster (CC-MAIN-2014-10, moved ColdFusion path)",
+   "Simpson arrival Oct 2015 at PGY-4 (profile UUID timestamp)",
+   "Lan in dept Nov 2014, then research/neurocritical care",
+   "Lu at BCM Apr 2018",
+   "Varela probable UNM PGY-1 2023-24"
+  ],
+  "remaining": [
+   "2014-15..2017-18 rosters (low)",
+   "2011-12 roster (low)",
+   "2019-20 PGY-1 group (low)"
+  ]
+ }
+}

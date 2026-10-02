@@ -1,0 +1,240 @@
+{
+ "program_id": 28,
+ "name": "Indiana University School of Medicine Program",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "goodmancampbell.com/residencies-and-fellowships.cfm, /medical-education.cfm (link roster files /assets/uploads/Resident Roster 2011-2012...pdf, ResidentRoster20142015.jpg)",
+   "from": "2010",
+   "to": "2015-09"
+  },
+  {
+   "url": "goodmancampbell.com/residency-and-fellowships (links /uploadIMG/moxie/ResidentRoster2015-2016.jpg, Residents_16_17.png)",
+   "from": "2015-09",
+   "to": "2019 (no roster after 16-17 image)"
+  },
+  {
+   "url": "medicine.iu.edu/neurosurgery/ (concrete5 site; residency-program/overview links index.php/download_file/view/73|82|85|86/116 roster files)",
+   "from": "2012-06",
+   "to": "2016-11"
+  },
+  {
+   "url": "medicine.iu.edu/residents/iusm-residency-and-fellowship-programs/neurological-surgery/ (GME stub, no roster)",
+   "from": "2012",
+   "to": "2016"
+  },
+  {
+   "url": "medicine.iu.edu/departments/neurological-surgery/education-programs/residency/residents/ and /current-residents/ (WordPress)",
+   "from": "2016-11",
+   "to": "2019-12"
+  },
+  {
+   "url": "medicine.iu.edu/neurological-surgery/education/residency/residents (+ /alumni, /residency-alumni)",
+   "from": "2020-04",
+   "to": "live 2026-09-27"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2012-2013",
+  "2018-2019"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2012-2013": "Roster 'Resident_Roster_2012-2013.pdf' (medicine.iu.edu/neurosurgery/index.php/download_file/view/73/116/, linked 2013-03) never archived in Wayback (CDX exact+prefix empty; replay 404). goodmancampbell.com pages kept linking the stale 2011-12 PDF until 2013-11. Common Crawl 2012-2014 (11 crawls) holds only the goodmancampbell residencies page HTML, no roster file. Reconstructed 13 bracketed/alumni-confirmed residents. Jason Hill (2011-12 PGY4) unknown for this year.",
+  "2017-2018": "Observed from stale-but-2017-18 page (Wayback 2019-08-26; identical CC captures 2018-05-27, 2018-07-18, 2018-09-21). INCOMPLETE: Brandon Lane (PGY5) omitted though listed 2016-17 and 2019-20 and alumni 2020. No PGY7 existed (2011-12 entrants finished in 6 yrs). Phase 2: Lane added as reconstructed row.",
+  "2018-2019": "No roster: the department page kept showing the 2017-18 roster through 2019-08 (Wayback + CC 2018-05/07/09 identical), residency page 2018-09/2019-07 has no names. Reconstructed 15 bracketed/alumni-confirmed. Not reconstructed: Blake Priddy (first seen 2019-20 PGY2, not an alumnus), Katherine Berry (not seen after 2017-18). Phase 2: CC-MAIN-2018-47 and 2019-18 (failed in phase 1) retried OK: still the stale 2017-18 page. Berry -> Miami 2018 confirmed.",
+  "2021-2022": "Dec-2021 capture omits PGY7 group; Archer/Koivuniemi/Mendenhall added from 2021-07-25 capture (source_type other, PGYs already advanced).",
+  "2022-2023": "Aug 2022-Jan 2023 captures omit PGY7 group; used 2023-05-11 capture (complete, consistent)."
+ },
+ "alumni_page": "https://medicine.iu.edu/neurological-surgery/education/residency/alumni",
+ "departures": [
+  {
+   "name": "Jason Hill",
+   "last_ay": "2011-2012",
+   "last_pgy": 4,
+   "note": "Left after 2011-12 (possibly during 2012-13). Absent 2013-14 and alumni list; last IU PubMed affiliation 2012 (PMID 22134417). Destination unknown. training_history row (departure_type unknown)."
+  },
+  {
+   "name": "Katherine Berry",
+   "last_ay": "2017-2018",
+   "last_pgy": 1,
+   "note": "TRANSFERRED to University of Miami (program 90), 2018 class. IU PubMed 2018 (PMID 29597018), Miami affiliations 2020+. training_history row (transferred)."
+  },
+  {
+   "name": "Blake Priddy",
+   "last_ay": "2020-2021",
+   "last_pgy": 2,
+   "note": "Left 2021, destination unknown. NPPES Family Medicine Indianapolis is a name match only, not evidence. training_history row (departure_type unknown)."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Ahmed Belal",
+   "first_ay": "2021-2022",
+   "first_pgy": 2,
+   "note": "Joined PGY2 with the 2020 class; moved to the 2019 class 2024-25; graduated 2026. Prior research at UTHealth Houston pediatric neurosurgery / Alexandria University; no prior US residency found. training_history row."
+  }
+ ],
+ "residents_2011plus": 44,
+ "adjudication_summary": {
+  "COMPLETED": 33,
+  "IN TRAINING": 20,
+  "LEFT -> did not complete": 2,
+  "LEFT -> TRANSFERRED": 1
+ },
+ "problems": "Length changed: 2009-2012 entrants trained 6 years (alumni grads 2015-2018, no PGY7 on 2015-16/2016-17/2017-18 rosters); 2013+ entrants 7 years (2019 had no graduates). Adjudicator assumes 7; alumni rows fix completion. Class size alternated 2/3 until ~2019, now 3. Ahmed Belal joined 2021-22 at PGY2 with the 2020 class, then was listed PGY6 with the 2019 class in 2024-25 and graduated with them in 2026 (alumni). Alumni page lists 'Steven Wakeman' 2023 who never appears on any resident roster (probably a fellow): NOT inserted into training_history. 2011-12 PGY7s Dodd and Wilden graduated 2012 but alumni list starts 2013, so no alumni rows. 2012-13 and 2013-14 roster files are images/PDFs transcribed by eye. DB programs.website is fine; roster_url empty. Phase 2: no new problems; the NPPES 'switch' for Priddy is not evidence and was not used.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "2008-and-earlier entrants did 7 years (Vogel, 2008 entrant, PGY7 2014-15); 2009-2012 entrants finished in 6 (Edwards/Patel 2015, Kulwin/Scherer 2016, Shaikh/White 2017, Ansari/Kovanda 2018; IU overview page 2013-03 'fully-approved 6-year Neurological Surgery Residency'); 2013+ entrants 7 (no 2019 graduates).",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2012-2013": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "bracketed by 2011-12 and 2013-14 rosters; 2012 interns Ansari/Kovanda (bios) both on 2013-14; Hill's departure is recorded (left after 2011-12, exact month unknown); only an unseen 2012 intern who left within a year could be missed, and PubMed 2012-14 IU affiliation mining shows none"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "stale page omits Brandon Lane; he is bracketed (2016-17 PGY4, 2019-20 PGY7, alumni 2020) and added as a reconstructed row"
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "bracketed by 2017-18 (page unchanged to 2019-08) and 2019-20; Berry's move to Miami 2018 recorded; 2018 class of 3 (Budnick, Ordaz, Priddy) all seen 2019-20; PubMed 2018-20 shows no unlisted resident; only a 2018 intern leaving before Nov 2019 could be missed"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Dec-2021 capture plus the PGY7 group from the 2021-07 capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster observed"
+  }
+ },
+ "excluded": [
+  {
+   "name": "Steven Wakeman",
+   "note": "IU alumni page 2023, never on an IU roster; a VCU (program 118) resident (joined VCU PGY2 2016-17) who probably did an IU fellowship. Not counted."
+  }
+ ],
+ "phase2": {
+  "searched": [
+   "Wayback host audit 2012-05..2013-08: medicine.iu.edu/neurosurgery, goodmancampbell.com, medicine.iu.edu/residents (GME)",
+   "Wayback host audit 2018-05..2019-10: medicine.iu.edu/departments/neurological-surgery, goodmancampbell.com, medicine.iu.edu/gme, medicine.iu.edu/news",
+   "Link audit of IU neurosurgery overview/welcome/award pages (2013-03) and Goodman Campbell news stories 13,16,17,18 (2012-13)",
+   "Common Crawl: phase-1 runs 2012-14 (11 crawls, complete) and 2018-19 (24 crawls, finished); retried failed CC-MAIN-2018-47 and CC-MAIN-2019-18",
+   "PubMed affiliation mining 2012-2014 and 2018-2020 (IU / Goodman Campbell neurosurgery)",
+   "PubMed author checks: Jason D Hill, Blake Priddy, Katherine Berry, Ahmed Belal",
+   "Cross-program: Berry vs Miami (program 90), Wakeman vs VCU (program 118)"
+  ],
+  "found": [
+   "Bohnstedt described as 6th-year resident Sep 2012 and Jan 2013 (confirms 2012-13 PGY6)",
+   "IU overview 2013-03: '6-year' residency, links the never-archived 2012-13 roster",
+   "CC 2018-11-17 and 2019-04-22 captures: same stale 2017-18 roster",
+   "No unlisted residents in PubMed 2012-14 or 2018-20",
+   "Berry transfer to Miami 2018 recorded; Hill and Priddy departures recorded (destination unknown); Belal joiner recorded"
+  ],
+  "remaining": [
+   "2012-13 roster PDF (download_file/view/73) never archived: Hill's exact departure month unknown",
+   "2018-19 no real roster (department page stale all year)",
+   "Hill and Priddy destinations unknown"
+  ]
+ }
+}

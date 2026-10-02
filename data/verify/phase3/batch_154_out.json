@@ -1,0 +1,1071 @@
+[
+ {
+  "key": "119:rob:wicks",
+  "name": "Robert Wicks",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest residency Neurological Surgery 2012-2018, MD Johns Hopkins 2012; now neurosurgeon Baptist Health Miami",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Wake Forest neurosurgery 2018; fellowships Barrow (cerebrovascular/skull base) and Johns Hopkins (endovascular)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, co-director cerebrovascular surgery, Baptist Health Miami Neuroscience Institute",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/robert-wicks-md",
+    "type": "doximity",
+    "evidence": "Wake Forest University Baptist Medical Center Residency, Neurological Surgery, 2012 - 2018"
+   },
+   {
+    "url": "https://baptisthealth.net/newsroom/press-release/robertwicksmdjoinsbaptisthealthsmiamineuroscienceinstituteascodirectorofcerebrovascularsurgery",
+    "type": "news",
+    "evidence": "neurosurgeon, co-director of cerebrovascular surgery at Baptist Health Miami Neuroscience Institute"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:hec:soriano-baron",
+  "name": "Hector Soriano-Baron",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Wake Forest residency 2012-2019, UNAM 2005; UAMS bio describes second neurosurgery residency at Wake Forest",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   },
+   {
+    "institution": "National Institute of Neurology and Neurosurgery, Mexico City",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Wake Forest neurosurgery 2019 (second residency after Mexico residency and Barrow fellowships); then Johns Hopkins spine fellowship",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, co-director spine services, UAMS, Little Rock AR",
+  "agrees_with_db": true,
+  "disagreement": "Doximity start 2012 vs DB entry 2013 (joined mid-program, PGY-3 in 2015-16); completion 2019 agrees",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/hector-soriano-baron-md",
+    "type": "doximity",
+    "evidence": "Wake Forest ... Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://news.uams.edu/2023/10/24/neurosurgeon-hector-enrique-soriano-baron-m-d-joins-uams-as-co-director-of-spine-services/",
+    "type": "news",
+    "evidence": "second residency in neurosurgery at Wake Forest Baptist Medical Center (search snippet summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:jac:renfrow",
+  "name": "Jaclyn Renfrow",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest School of Medicine 2013, Dept of Neurological Surgery Winston-Salem; ABNS certified",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "ABNS certified, faculty neurosurgeon at Wake Forest (residency dates not stated on Doximity; MD 2013, NC license 2013)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Atrium Health Wake Forest Baptist",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jaclyn-renfrow-md",
+    "type": "doximity",
+    "evidence": "American Board of Neurological Surgery; Department of Neurological Surgery, Winston-Salem"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:mar:frenkel",
+  "name": "Mark Frenkel",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Practice bio: neurosurgery residency Wake Forest Baptist 2013-2020, MD Case Western 2013",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Wake Forest neurosurgery 2020 (chief resident 2018-2020); private practice spine neurosurgeon Naples FL",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, Naples FL (FAANS)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://nasamri.com/physicians/mark-frenkel/",
+    "type": "bio",
+    "evidence": "neurosurgery residency at Wake Forest Baptist Medical Center from 2013-2020; Chief Resident 2018-2020"
+   },
+   {
+    "url": "https://frenkelmd.com/about/",
+    "type": "bio",
+    "evidence": "After completing his residency in 2020, Frenkel established a private practice in Naples (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:ati:palma",
+  "name": "Atilio Palma",
+  "program_id": 119,
+  "program": "",
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest residency Neurological Surgery 2014-2021, Loma Linda MD 2014; ABNS",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Wake Forest neurosurgery 2021; ABNS certified; neurosurgeon Naples FL / High Point NC",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Naples FL (Physicians Regional Pine Ridge)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/atilio-palma-md",
+    "type": "doximity",
+    "evidence": "Wake Forest University Baptist Medical Center Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.wakehealth.edu/providers/p/atilio-edgardo-palma",
+    "type": "search_snippet",
+    "evidence": "Atilio Edgardo Palma, MD | Atrium Health Wake Forest Baptist"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:tay:wilson",
+  "name": "Taylor Wilson",
+  "program_id": 119,
+  "identity": "probable",
+  "identity_basis": "Search results: Taylor (Anne) Wilson MD, NYU School of Medicine 2014; training listed at Wake Forest and UAMS neurosurgery; UAMS neurosurgery resident (AANS 2018 presentation). Namesakes exist (Doximity profiles for other Taylor Wilsons were not this person)",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2017
+   },
+   {
+    "institution": "University of Arkansas for Medical Sciences",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2018
+   },
+   {
+    "institution": "Loma Linda University",
+    "specialty": "neurology",
+    "start": null,
+    "end": 2025
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Left Wake Forest neurosurgery after 2016-17 (PGY-3); UAMS neurosurgery resident by 2018 (transfer confirmed by search evidence). Later appears as Loma Linda neurology residency Class of 2025 with epilepsy fellowship at LLU, i.e. apparently left neurosurgery for neurology after UAMS (identity link to the same person is probable, not certain)",
+  "year_left": 2017,
+  "destination_program": "University of Arkansas for Medical Sciences neurosurgery",
+  "destination_start_year": 2017,
+  "current": "neurologist/epilepsy fellow-trained, Loma Linda University Health (per LLU, WebMD, Healthgrades; probable same person)",
+  "agrees_with_db": true,
+  "disagreement": "Transfer to UAMS agrees; but final outcome may be switch to neurology (LLU neurology residency class of 2025) - verify",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/about/news/page/7/",
+    "type": "search_snippet",
+    "evidence": "Dr. Taylor Wilson was a neurosurgery resident at UAMS ... 2018 AANS Annual meeting (search summary)"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/taylor-wilson-7f16715d-321f-4b09-93ff-0958a3bba80c-overview",
+    "type": "bio",
+    "evidence": "Graduated from New York University School Of Medicine in 2014; Neurological Surgery and Neurology"
+   },
+   {
+    "url": "https://lluh.org/health-professionals/gme/resident-fellow/neurology-residency/meet-us",
+    "type": "program_page",
+    "evidence": "Class of 2025: Fellowship: Epilepsy, Loma Linda University Medical Center"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "119:car:nechtman",
+  "name": "Carl Nechtman",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity (Carl Mandel Nechtman III): Wake Forest residency Neurological Surgery 2015-2022, Univ South Alabama MD 2015; ABNS",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Wake Forest neurosurgery 2022; neurosurgeon Birmingham/Homewood AL",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Neurosurgical Associates PC, Birmingham AL",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/carl-nechtman-md-49ed3e0f",
+    "type": "doximity",
+    "evidence": "Wake Forest University Baptist Medical Center Residency, Neurological Surgery, 2015 - 2022; American Board of Neurological Surgery (page loaded under slug carl-nechtman-md-84ce3662)"
+   },
+   {
+    "url": "https://neurosurgicalassociatespc.com/carl-nechtman-m-d/",
+    "type": "bio",
+    "evidence": "completed his neurosurgical training at the Wake Forest Baptist Hospital in 2022 (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:ted:kim",
+  "name": "Teddy Kim",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest neurosurgery residency 2015-2022, UCSD MD 2014, Rush surgery internship; ABNS",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Wake Forest neurosurgery 2022, then complex spine deformity fellowship; FirstHealth neurosurgery (Pinehurst) 2022, now High Point NC",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, High Point NC",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/teddy-kim-md",
+    "type": "doximity",
+    "evidence": "Wake Forest ... Residency, Neurological Surgery, 2015 - 2022; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.firsthealth.org/about-us/news/2022/firsthealth-neurosurgery-welcomes-teddy-e-kim-md/",
+    "type": "news",
+    "evidence": "completed his residency in neurosurgery and a complex spine deformity fellowship at Wake Forest Baptist Health (search snippet)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:aqi:zehri",
+  "name": "Aqib Zehri",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest residency Neurological Surgery 2016-2023, Univ Arizona Phoenix MD 2016",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Wake Forest neurosurgery 2023; Barrow spine fellowship 2023-24; attending at The Oregon Clinic",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), The Oregon Clinic, Portland OR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/aqib-zehri-md",
+    "type": "doximity",
+    "evidence": "Wake Forest University Baptist Medical Center Residency, Neurological Surgery, 2016 - 2023"
+   },
+   {
+    "url": "https://www.oregonclinic.com/our-team/aqib-zehri/",
+    "type": "bio",
+    "evidence": "Aqib Zehri, MD | The Oregon Clinic"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:kyl:townsend",
+  "name": "Kyle Townsend",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Practice/hospital bio: Robert Kyle Townsend MD (USC Greenville MD 2016), Wake Forest neurosurgery residency graduated 2023; input's alumni list gives 'Robert Townsend, MD (2023)'",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Seven-year neurosurgery residency at Wake Forest completed 2023, plus one-year neuroendovascular fellowship; private practice Athens GA",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Georgia Neurological Surgery and Comprehensive Spine, Athens GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://stmaryshealthcaresystem.org/news-releases/dr-robert-townsend-joining-georgia-neurological-surgery-and-comprehensive-spine",
+    "type": "news",
+    "evidence": "seven-year neurological surgery residency and one-year neuroendovascular fellowship at Wake Forest Baptist Medical Center; graduated 2023 (search summary)"
+   },
+   {
+    "url": "https://www.stmaryshealthcaresystem.org/provider/robert-kyle-townsend-md-neurological-surgery",
+    "type": "bio",
+    "evidence": "Robert Kyle Townsend, MD, Neurological Surgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:mic:williams",
+  "name": "Michelle Williams",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Michelle Marie Williams: Wake Forest residency Neurological Surgery 2016-2024, Ohio State MD 2016; Wake Forest resident profile page; co-author with Wake residents",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Wake Forest neurosurgery 2024; now attending at The Oregon Clinic, Portland (search snippets); board-eligible",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, The Oregon Clinic, Portland OR",
+  "agrees_with_db": true,
+  "disagreement": "Doximity lists start 2016 (incl. PGY-1 surgery internship) vs DB entry 2017",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michelle-williams-md-25b17980",
+    "type": "doximity",
+    "evidence": "Wake Forest ... Residency, Neurological Surgery, 2016 - 2024 (loaded as michelle-williams-md-cd2f6335)"
+   },
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/w/michelle-marie-williams",
+    "type": "program_page",
+    "evidence": "Michelle Marie Williams, MD | Wake Forest University School of Medicine"
+   },
+   {
+    "url": "https://www.oregonclinic.com/our-team/michelle-williams/",
+    "type": "bio",
+    "evidence": "Michelle Williams, MD | The Oregon Clinic"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:ste:coffman",
+  "name": "Stephanie Coffman",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest residency Neurological Surgery 2017-2024, Univ Kentucky MD 2017; practice bio says residency and spine fellowship at Wake Forest",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Wake Forest neurosurgery 2024; neurosurgeon Neurosurgical Associates, Knoxville TN",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Neurosurgical Associates PC / Knoxville Spine Surgery Center, Knoxville TN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/stephanie-coffman-md",
+    "type": "doximity",
+    "evidence": "Wake Forest University Baptist Medical Center Residency, Neurological Surgery, 2017 - 2024"
+   },
+   {
+    "url": "https://www.knoxspine.com/neurosurgeons/stephanie-a-coffman",
+    "type": "bio",
+    "evidence": "completed her neurosurgical residency and fellowship in spine surgery at Atrium Health Wake Forest Baptist (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:che:oravec",
+  "name": "Chesney Oravec",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity profile (listed under a different surname at Wake Forest/Doximity: 'Chesney Billiter'): Wake Forest residency 2018-2025, Univ Tennessee HSC MD 2018; publications authored as Chesney S Oravec",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity lists completed Wake Forest neurological surgery residency 2018-2025; GA license 2025-26 (likely first job in GA); ABNS not yet listed",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (post-residency), Georgia license 2025-26; Doximity address still Wake Forest, Winston-Salem",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/chesney-oravec-md",
+    "type": "doximity",
+    "evidence": "Wake Forest University Baptist Medical Center Residency, Neurological Surgery, 2018 - 2025; University of Tennessee HSC Class of 2018 (page redirected to slug chesney-billiter-md)"
+   },
+   {
+    "url": "https://www.zoominfo.com/p/Chesney-Oravec/-1784761092",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident at Wake Forest Baptist Health"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:tho:wilson",
+  "name": "Thomas Wilson",
+  "program_id": 119,
+  "identity": "probable",
+  "identity_basis": "Cape Cod Healthcare bio (Thomas L. Wilson, MD, FAANS): MD Wake Forest 2018, neurosurgery residency and neuro-spine fellowship at Atrium Health Wake Forest Baptist; Wake resident page (Thomas Lawrence Wilson, residency 2025); no Doximity page found for him",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed Wake Forest neurosurgery residency 2025 then neuro-spine fellowship; joined Cape Cod Healthcare neurosurgery Aug 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Cape Cod Healthcare, Hyannis MA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://providers.capecodhealth.org/ma/hyannis/46-north-street-wilson-thomas",
+    "type": "bio",
+    "evidence": "Residency: Atrium Health Wake Forest Baptist Medical Center (Neurological Surgery); Fellowship: Neuro-Spine; joined Cape Cod Healthcare neurosurgery in August 2025"
+   },
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/w/thomas-lawrence-wilson",
+    "type": "search_snippet",
+    "evidence": "Thomas Lawrence Wilson, MD completed his Residency in Neurological Surgery at Wake Forest Baptist Medical Center in 2025 (search summary)"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "119:pau:marcet",
+  "name": "Paul Marcet",
+  "program_id": 119,
+  "identity": "probable",
+  "identity_basis": "Wake Forest resident page 'Paul Andrew Marcet, MD'; Healthgrades: USF Morsani MD 2019, neurosurgeon Winston-Salem; roster PDF lists 'Paul Marcet, MD Class of 2026'",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "No source states completion; sources show him as Wake neurosurgery resident, roster PDF says Class of 2026. No Doximity page found. Likely completed 2026 (unconfirmed)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "unknown (Winston-Salem NC listing on Healthgrades)",
+  "agrees_with_db": true,
+  "disagreement": "none, but completion not independently confirmed",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/m/paul-andrew-marcet",
+    "type": "search_snippet",
+    "evidence": "Paul Andrew Marcet, MD | Wake Forest University School of Medicine; Neurosurgery Resident (search summary)"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-paul-marcet-9hgsjnn116",
+    "type": "search_snippet",
+    "evidence": "neurosurgeon in Winston Salem, NC ... University of South Florida Morsani College of Medicine in 2019"
+   }
+  ],
+  "searches_used": 4
+ },
+ {
+  "key": "119:sid:venkataraman",
+  "name": "Sidish Venkataraman",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: McGovern Medical School UTHealth 2019, NC license 2019-2027, Baltimore MD license 2026; Wake Forest publications; Hopkins Neurosurgery post announcing spine instructor role",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Roster PDF Class of 2026; Doximity now Baltimore MD (Johns Hopkins Bayview address), Hopkins Neurosurgery post: 'will begin his spine instructor...' (title only). Doximity has no residency entry and lists specialty 'Other MD/DO'; neurosurgery completion is highly probable but not stated explicitly",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine instructor/fellow, Johns Hopkins neurosurgery, Baltimore MD (per Hopkins post title)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sidish-venkataraman-md",
+    "type": "doximity",
+    "evidence": "McGovern Medical School at UTHealth Class of 2019; Baltimore, MD; MD State Medical License 2026-2027"
+   },
+   {
+    "url": "https://www.facebook.com/HopkinsNeurosurg/photos/this-just-in-sidish-sid-srinivas-venkataraman-md-will-begin-his-spine-instructor/1563159638090595/",
+    "type": "search_snippet",
+    "evidence": "This just in! Sidish 'Sid' Srinivas Venkataraman, M.D. will begin his spine instructor..."
+   },
+   {
+    "url": "https://school.wakehealth.edu/-/media/wakeforest/school/files/education-and-training/residencies-and-fellowships/neurosurgery-spine-fellowship/wake-forest-neurosurgery-residents-2018.pdf",
+    "type": "program_page",
+    "evidence": "Paul Marcet, MD Siddish Venkataraman, MD Class of 2026"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "119:ele:smith",
+  "name": "Eleanor Smith",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page 'Eleanor Cecile Smith, MD' Neurological Surgery resident, projected graduation 2027; co-author with Wake residents (Doximity 'Eleanor Smith' Houston family-medicine profile checked and rejected as a different person)",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Wake Forest neurosurgery resident, projected graduation 2027",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/s/eleanor-cecile-smith",
+    "type": "program_page",
+    "evidence": "Eleanor Cecile Smith, MD, Neurological Surgery resident, projected graduation 2027 (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:reb:calafiore",
+  "name": "Rebecca Calafiore",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest residency Neurological Surgery 2020-2027, UConn MD 2020; Wake Forest resident page; co-author with Wake residents",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity residency end 2027; Wake resident page exists; still in training",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/rebecca-calafiore-md",
+    "type": "doximity",
+    "evidence": "Wake Forest University Baptist Medical Center Residency, Neurological Surgery, 2020 - 2027; Uconn School Of Medicine Class of 2020"
+   },
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/c/rebecca-lynn-calafiore",
+    "type": "program_page",
+    "evidence": "Rebecca Lynn Calafiore, MD | Wake Forest University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:bry:mott",
+  "name": "Bryan Mott",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest residency Neurological Surgery 2021-2028, Univ Alabama MD 2021; Wake resident page (Bryan Thomas Mott, MD, PhD)",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity residency 2021-2028; current resident (MD/PhD, 7-year plus research)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/bryan-mott-md",
+    "type": "doximity",
+    "evidence": "Wake Forest University Baptist Medical Center Residency, Neurological Surgery, 2021 - 2028"
+   },
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/m/bryan-thomas-mott",
+    "type": "program_page",
+    "evidence": "Bryan Thomas Mott, MD, PhD | Wake Forest University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:oma:ashraf",
+  "name": "Omar Ashraf",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page 'Omar Ashraf, MD'; Doximity: Rutgers RWJ MD 2021, 'Resident Physician' at 1 Medical Center Blvd Winston-Salem; Dept of Neurological Surgery affiliation on publications",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Wake Forest neurosurgery resident; Doximity lists no residency entry or end year",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/omar-ashraf-md-f8a866f0",
+    "type": "doximity",
+    "evidence": "Resident Physician, Winston-Salem NC; Rutgers Robert Wood Johnson Medical School Class of 2021"
+   },
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/a/omar-ashraf",
+    "type": "program_page",
+    "evidence": "Omar Ashraf, MD | Wake Forest University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:all:medina",
+  "name": "Allison Medina",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page 'Allison Courtney Medina, MD' Neurological Surgery, projected graduation 2029; McGovern/UTHealth MD 2022; Wake Neurosurgery resident spotlight (PGY-4)",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Wake Forest neurosurgery resident, projected graduation 2029",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/m/allison-courtney-medina",
+    "type": "program_page",
+    "evidence": "Allison Courtney Medina, MD, Neurological Surgery, projected graduation 2029 (search summary)"
+   },
+   {
+    "url": "https://doctor.webmd.com/doctor/allison-medina-59f52cfb-a4fd-4038-bb5a-df14b4ea0304-overview",
+    "type": "search_snippet",
+    "evidence": "graduated from McGovern Medical School 2022; Winston Salem NC neurosurgeon"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:kat:belanger",
+  "name": "Katherine Belanger",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page 'Katherine Hamilton Belanger, MD'; listed as Neurosurgery Resident at Wake Forest and 2026 AANS speaker",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Wake Forest neurosurgery resident (year details not retrieved)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/b/katherine-hamilton-belanger",
+    "type": "program_page",
+    "evidence": "Katherine Hamilton Belanger, MD | Wake Forest University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:jar:kaplan",
+  "name": "Jared Kaplan",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest residency Neurological Surgery 2023-2030, Albany Medical College 2023; Wake resident page (projected graduation 2030)",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current resident, Doximity 2023-2030",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jared-kaplan-md",
+    "type": "doximity",
+    "evidence": "Wake Forest University Baptist Medical Center Residency, Neurological Surgery, 2023 - 2030"
+   },
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/k/jared-max-kaplan",
+    "type": "program_page",
+    "evidence": "Jared Max Kaplan, MD | Wake Forest University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:ale:horn",
+  "name": "Alexander Horn",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Wake Forest residency Neurological Surgery 2024-2031, Wake Forest School of Medicine MD 2024; Wake resident page (projected graduation 2031)",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest University Baptist Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current resident, Doximity 2024-2031",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alexander-horn-md-7ab11008",
+    "type": "doximity",
+    "evidence": "Wake Forest University Baptist Medical Center Residency, Neurological Surgery, 2024 - 2031 (page loaded under slug alexander-horn-md)"
+   },
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/h/alexander-carl-horn",
+    "type": "program_page",
+    "evidence": "Alexander Carl Horn, MD | Wake Forest University School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "119:bro:yager",
+  "name": "Brock Yager",
+  "program_id": 119,
+  "identity": "confirmed",
+  "identity_basis": "Wake Forest resident page 'Brock Robert Yager, MD'; Doximity: Wake Forest School of Medicine MD 2024, NC license 2024",
+  "residency_stated": [
+   {
+    "institution": "Wake Forest School of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Current Wake Forest neurosurgery resident (Doximity lists only MD 2024, specialty 'Other MD/DO', no residency entry)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, Wake Forest",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://school.wakehealth.edu/residents-and-fellows/y/brock-robert-yager",
+    "type": "program_page",
+    "evidence": "Brock Robert Yager, MD | Wake Forest University School of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/brock-yager-md",
+    "type": "doximity",
+    "evidence": "Wake Forest School of Medicine Class of 2024; Winston-Salem NC"
+   }
+  ],
+  "searches_used": 2
+ }
+]

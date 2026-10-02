@@ -1,0 +1,279 @@
+{
+ "program_id": 15,
+ "name": "Cooper Medical School of Rowan University/Cooper University Hospital Program (formerly PCOM Neurosurgery Residency)",
+ "program_length": 7,
+ "complement_per_year": 1,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.pcom.edu/Graduate_Medical_Education/Residency_Programs/Res-Neurosurgery/res-neurosurgery.html",
+   "from": "2015-02",
+   "to": "2015-08",
+   "note": "PCOM program page, no roster"
+  },
+  {
+   "url": "http://www.pcom.edu/Graduate_Medical_Education/Residency_Programs/neuro/ (WordPress subsite; current-residents/)",
+   "from": "2015-04",
+   "to": "2015-08",
+   "note": "only roster capture 2015-04-17; alumni PDF (wp-content/uploads/2014/12/Alumni_Data.pdf) never archived, 404 live"
+  },
+  {
+   "url": "https://www.pcom.edu/academics/graduate-medical-education/residency-and-fellowship-programs/neurosurgery.html",
+   "from": "2016-02",
+   "to": "2022-05",
+   "note": "program page, no roster"
+  },
+  {
+   "url": "https://www.pcom.edu/academics/graduate-medical-education/residency-and-fellowship-programs/neurosurgery-residents.html",
+   "from": "2019-08",
+   "to": "2022-05",
+   "note": "roster; now 404"
+  },
+  {
+   "url": "https://www.cooperhealth.edu/residencies/neuro-surgery/residents (also www2./bare host)",
+   "from": "2022-08",
+   "to": "2025-10",
+   "note": "roster with graduation year; stale after Oct 2024"
+  },
+  {
+   "url": "https://www.cooperhealth.edu/residencies/neuro-surgery/alumni",
+   "from": "2022-12",
+   "to": "2025-11"
+  },
+  {
+   "url": "https://www.cooperhealth.edu/graduate-medical-education/residencies/neurosurgery/trainees",
+   "from": "2026-02",
+   "to": "live",
+   "note": "new GME site, PGY headings"
+  }
+ ],
+ "observed_years": [
+  "2014-2015",
+  "2017-2018",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2015-2016",
+  "2016-2017",
+  "2018-2019"
+ ],
+ "missing_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014"
+ ],
+ "gap_details": {
+  "2011-2012": "No PCOM neurosurgery roster in Wayback or Common Crawl (old site had only a program page, first captured 2015; link audit of GME index pages 2010-2019 found no roster). PubMed affiliation mining found PCOM neurosurgery residents not on any roster: Leslie Lyness ('Neurosurgical Residency Program, PCOM', 2011, PMID 21707239), Douglas Stofko (PCOM Dept of Neurosurgery 2013, PMID 24231690; Capital Health Aug 2013), Mark Rivkin (PCOM/Cooper neurosurgery 2013-14; named program alumnus in PCOM news Jan 2017). PCOM news Jan 2017 also names alumnus Bryan Bolinger DO '07. All are pre-2011 entrants who finished by 2014; their exact years are unknown, so they are not added to the roster.",
+  "2012-2013": "Same as 2011-12. Only one 2012 entrant (Lynagh) is known.",
+  "2013-2014": "Same as 2011-12. Rivkin's last PCOM/Cooper affiliations are 2013-14 (probable June 2014 graduate).",
+  "2014-2015": "Observed but INCOMPLETE: PCOM WordPress current-residents page (2015-04-17, spring, only capture) lists PGY2-PGY6 only; interns (PGY1, e.g. the 2014 entrants Georges/Brooking/Kakareka) not listed.",
+  "2015-2016": "No roster capture in Wayback or Common Crawl (WordPress subsite captured only 2015-04/08; CC has only the roster-less Res-Neurosurgery page). Reconstructed: Ploof, Ishak, Lynagh (bracketed 2014-15/2017-18) + alumni-confirmed 2014/2015 entrants. Xin, Patel (PGY-4 in 2014-15) and Svokos, Okun (PGY-5) not seen again - probably finished at AOA PGY-6 in 2016/2017, unverified.",
+  "2016-2017": "As 2015-16 (CC 2016-40..2017-39 have only the roster-less program page neurosurgery.html).",
+  "2017-2018": "Observed via Common Crawl only (CC-MAIN-2018-13, 2018-03-22, spring; neurosurgery-residents.html not in Wayback before 2019-08). Content-dated 2017-18: Badger/Zaher PGY-1. Complete PGY1-6 list (12).",
+  "2018-2019": "PCOM residents page STALE all year (every CC crawl 2018-05..2019-06, including the phase-2 retry of CC-MAIN-2019-18 (2019-04-26), shows the 2017-18 list). Reconstructed alumni-confirmed residents plus Mark Ishak PGY-6 (first author, PCOM Research Day 2019 poster, Digital Commons neurosurgery_residents). Ploof not placed (no in-year evidence) but completion recorded.",
+  "2021-2022": "Only capture is PCOM 2022-05-28 (spring); content-dated 2021-22. Kakareka (PGY-7 in 2020-21) absent although the Cooper alumni page lists him as class of 2022.",
+  "2025-2026": "Old Cooper residents page stale (Oct-2025 = 2024-25 list); Feb-2026 trainees capture empty; used June-2026 trainees capture (content-dated 2025-26). Bamimore listed PGY-3 (expected PGY-4)."
+ },
+ "alumni_page": "https://www.cooperhealth.edu/residencies/neuro-surgery/alumni (archived; new-site /graduate-medical-education/residencies/neurosurgery/alumni is empty/JS)",
+ "departures": [
+  {
+   "name": "Michael Bamimore",
+   "last_ay": "2025-2026",
+   "last_pgy": 3,
+   "note": "entered 2022; PGY-3 in both 2024-25 and 2025-26 (June 2026 capture lists him under PGY-3 with Morse; no PGY-4 heading); absent from live 2026-27 (no PGY-5). Cooper Neurological Surgery affiliation Dec 2025 (PMID 41613670). No program page or publication shows a destination or specialty switch; NPPES (general practice taxonomy, Dallas TX mailing address, updated 2026-06-30) is not evidence. Recorded training_history completed='unknown' -> LEFT, outcome unknown."
+  }
+ ],
+ "joiners": [],
+ "residents_2011plus": 24,
+ "adjudication_summary": {
+  "COMPLETED": 20,
+  "IN_TRAINING": 7,
+  "LEFT_outcome_unknown": 1,
+  "note": "phase 2: the 9 AOA-era unknowns resolved as completions (3 PGY-terminal roster, 6 inferred from later neurosurgery affiliations/program evidence); Bamimore changed from NPI 'switched specialty' to outcome unknown."
+ },
+ "problems": "Phase 1 CC failures CC-MAIN-2017-43, 2018-26, 2019-18 all retried successfully in phase 2. OpenAlex (429) and Europe PMC (503) unavailable; PubMed used instead. PCOM Alumni_Data.pdf / Residency_History-1.pdf never archived (Wayback and CC) and 404 live. Kakareka alumni-year (2022) vs 2021-22 PCOM roster conflict unchanged.",
+ "terminal_pgy_by_entry_year": {
+  "2005": 6,
+  "2006": 6,
+  "2007": 6,
+  "2008": 6,
+  "2009": 6,
+  "2010": 6,
+  "2011": 6,
+  "2012": 6,
+  "2013": 6,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "year_status": {
+  "2011-2012": {
+   "status": "missing",
+   "significance": "low",
+   "reason": "No PCOM roster exists (pre-2015 site had none; WordPress subsite started late 2014). Entrants 2011 (Xin, Patel) = full class of 2 seen 2014-15; other residents that year were pre-2011 entrants (Bolinger DO'07, Stofko, Rivkin, Lyness, per PubMed/PCOM news) who finished by 2014."
+  },
+  "2012-2013": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "No roster. 2012 entry class shows only Lynagh (complement 2/yr, 12 positions): a second 2012 entrant who left before April 2015 would be invisible."
+  },
+  "2013-2014": {
+   "status": "missing",
+   "significance": "significant",
+   "reason": "No roster. Same 2012-class risk; 2013 class (Ploof, Ishak) full."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "PGY-1 not listed, but the 2014 interns are the 3 alumni-confirmed entrants (Georges, Brooking, Kakareka) - above the 2/yr complement, so an extra unseen intern is unlikely."
+  },
+  "2015-2016": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture. Everyone who left is now accounted for (Svokos, Okun completed 2016 per later neurosurgery affiliations); 2015 class (Moncman, Valeri) full at 2 and seen 2017-18."
+  },
+  "2016-2017": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No capture. Xin, Patel completed 2017 (later neurosurgery affiliations); 2016 class (Lopez, Schreiber) full at 2; complete 12-name roster in March 2018 brackets the gap."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Complete PGY1-6 list (CC 2018-03)."
+  },
+  "2018-2019": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "Stale page all year (CC-MAIN-2019-18 retry = 2017-18 list again). Ishak placed by PCOM Research Day 2019 poster; Ploof, Lynagh completions recorded; 2018 entrant Wojcik (complement now 1/yr) bracketed/alumnus."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PCOM roster 2019-11."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "PCOM roster 2020-12."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Spring capture only (2022-05); Kakareka absent but alumni page gives class of 2022."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Cooper roster."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Cooper roster."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Cooper roster."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Cooper trainees page June 2026."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "Live trainees page (re-fetched 2026-09-28: PGY7 Ifrach, PGY6 Charcos, no PGY5, PGY4 Morse, PGY3 Batchu, PGY2 Hashmi, PGY1 Jagtiani, Swarna)."
+  }
+ },
+ "completions_recorded_phase2": [
+  {
+   "name": "Christopher Bilbao",
+   "end_year": 2015,
+   "basis": "PGY-6 (AOA terminal) on 2015-04 roster; PCOM news alumnus; Cooper neurosurgery 2020"
+  },
+  {
+   "name": "Howard Eisenbrock",
+   "end_year": 2015,
+   "basis": "PGY-6 (AOA terminal) on 2015-04 roster"
+  },
+  {
+   "name": "Konstantina Svokos",
+   "end_year": 2016,
+   "basis": "inferred: PGY-5 2014-15; Brown Dept of Neurosurgery from 2017"
+  },
+  {
+   "name": "Jessica Okun",
+   "end_year": 2016,
+   "basis": "inferred: PGY-5 2014-15; Geisinger (PCOM site) Nov 2015; practising neurosurgeon 2024"
+  },
+  {
+   "name": "Hiren Patel",
+   "end_year": 2017,
+   "basis": "inferred: PGY-4 2014-15; absent from complete 2017-18 roster; neurosurgery Avera/Newton-Wellesley 2020, MGH 2023"
+  },
+  {
+   "name": "Sean Xin",
+   "end_year": 2017,
+   "basis": "inferred: PGY-4 2014-15; absent 2017-18; Geisinger neurosurgery 2018, City of Hope neurosurgery 2018"
+  },
+  {
+   "name": "Robert Lynagh",
+   "end_year": 2018,
+   "basis": "PGY-6 (AOA terminal) on 2017-18 roster"
+  },
+  {
+   "name": "Mark Ishak",
+   "end_year": 2019,
+   "basis": "inferred: PCOM Research Day 2019 first author; absent 2019-20"
+  },
+  {
+   "name": "Jillian Ploof",
+   "end_year": 2019,
+   "basis": "inferred: PGY-5 2017-18; pediatric neurosurgery, Nationwide Children's 2021"
+  }
+ ],
+ "cross_program": "crossmatch.json pairs for Hiren Patel (Chetak Patel/Wake Forest, Ashish Patel/Cedars-Sinai, Nitesh Patel/Rutgers NJMS) rejected: different first names. No program-15 resident appears on any other program roster in the DB (Penn 2015-17 and Geisinger 2013-19 rosters lack Patel, Xin, Okun, Stofko).",
+ "phase2": {
+  "searched": [
+   "Common Crawl retries CC-MAIN-2017-43, CC-MAIN-2018-26, CC-MAIN-2019-18 over the 3 PCOM neurosurgery prefixes + pcom-news/ (all succeeded; 2019-04-26 residents page = stale 2017-18 list)",
+   "Wayback CDX: pcom.edu neuro WordPress subsite incl. wp-content (Alumni_Data.pdf and Residency_History-1.pdf never archived; both 404 live); pcom.edu, cooperhealth.org, cooperhealth.edu domain-wide 'neurosurg' URL scan 2010-2026 (found edustg/eduprod staging copies and digitalcommons.pcom.edu)",
+   "Wayback CDX pcom.edu/Graduate_Medical_Education/ 2009-2016 and General_Information/PCOM_News/ 2010-2016; link audit of GME index + neurosurgery program pages 2010-2019 (no roster links)",
+   "digitalcommons.pcom.edu/neurosurgery_residents (live, 17 items) and PCOM Research Day 2018/2019 neurosurgery posters",
+   "PubMed author + affiliation mining (PCOM/Cooper/Abington/Reading/Geisinger Wyoming Valley neurosurgery 2009-2020; per-person searches for the 9 AOA residents, Bamimore, Lyness, Stofko, Rivkin)",
+   "NPPES API for Bamimore (not used as evidence)",
+   "live Cooper trainees page re-fetched 2026-09-28"
+  ],
+  "found": [
+   "Ishak in program spring 2019 (Research Day 2019) -> added PGY-6 to 2018-19",
+   "completion evidence for Bilbao, Eisenbrock, Lynagh (terminal PGY-6 rosters) and Svokos, Okun, Xin, Patel, Ploof, Ishak (later neurosurgery affiliations) -> 9 training_history completions",
+   "PCOM news Jan 2017 (CC-MAIN-2018-26): Rivkin, Bilbao, Bolinger named as program alumni",
+   "pre-2014 PCOM residents not on any roster: Lyness, Stofko, Rivkin (+ alumnus Bolinger), all pre-2011 entrants",
+   "Bamimore: Cooper affiliation to Dec 2025, no evidence of a switch"
+  ],
+  "remaining": [
+   "2011-12..2013-14 have no roster; a second 2012 entrant who left before April 2015 cannot be excluded (significant)",
+   "Bamimore destination unknown",
+   "OpenAlex returned 429 (shared IP) and Europe PMC 503; not retried"
+  ]
+ }
+}

@@ -1,0 +1,686 @@
+[
+ {
+  "key": "79:moh:khan",
+  "name": "Mohammad Khan",
+  "program_id": 79,
+  "program_site_url": "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+  "identity": "probable",
+  "identity_basis": "Only program pages (UC current residents + directory, UC research directory: 'Medical Resident/Fellow', MD) name him; no external source ties this Mohammad Khan to UC neurosurgery (match lists and web searches returned nothing; Doximity Khans are other people). Common name.",
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-1 2026-27 on UC neurosurgery current residents page and directory.",
+  "current": "neurosurgery resident PGY-1, University of Cincinnati",
+  "evidence_level": "program_only",
+  "external_url": null,
+  "sources": [
+   {
+    "url": "https://med.uc.edu/depart/neurosurgery/directory/residents",
+    "type": "program_page",
+    "evidence": "Mohammad Khan, MD, Medical Resident/Fellow, PGY 1"
+   },
+   {
+    "url": "https://researchdirectory.uc.edu/p/khan4mo",
+    "type": "program_page",
+    "evidence": "Mohammad Khan, Medical Resident/Fellow, MD, University of Cincinnati"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 4,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "79:sam:brehm",
+  "name": "Samuel Brehm",
+  "program_id": 79,
+  "program_site_url": "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+  "identity": "probable",
+  "identity_basis": "UC directory lists Samuel Brehm MD PGY-1; distinctive name; WashU MD/MBA student Samuel Brehm (MD 2026 per Olin/search summary; neurosurgery device/research work in WashU Molina and Greenberg labs) fits a 2026 start, but no external source names Cincinnati.",
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-1 2026-27 on UC page/directory.",
+  "current": "neurosurgery resident PGY-1, University of Cincinnati",
+  "evidence_level": "program_only",
+  "external_url": null,
+  "sources": [
+   {
+    "url": "https://med.uc.edu/depart/neurosurgery/directory/residents",
+    "type": "program_page",
+    "evidence": "Samuel Brehm, MD, Medical Resident/Fellow, PGY 1"
+   },
+   {
+    "url": "https://sites.wustl.edu/greenberglab/people/samuel-brehm/",
+    "type": "bio",
+    "evidence": "Samuel Brehm, BS - WashU Greenberg Lab (neurosurgery research)"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 3,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "80:dav:mann",
+  "name": "David Mann",
+  "program_id": 80,
+  "program_site_url": "https://web.archive.org/web/20151213185210/http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Neurosurgery/education/ResidencyProgram/Pages/CurrentResidents.aspx",
+  "identity": "confirmed",
+  "identity_basis": "CU roster (Wayback 2015-2021) lists David Mann MD PGY-1 2015 through PGY-7; Intermountain bio gives Temple 2015 and CU Neurological Surgery residency 2022 (consistent with 2015 entry, 7 years).",
+  "outcome": "completed",
+  "outcome_detail": "Completed CU neurosurgery residency 2022; practising neurosurgeon.",
+  "current": "neurosurgeon, Intermountain Health Denver / Front Range Spine & Neurosurgery, Lone Tree CO",
+  "evidence_level": "gold",
+  "external_url": "https://doctors.intermountainhealth.org/provider/david-mann/7112833",
+  "sources": [
+   {
+    "url": "https://doctors.intermountainhealth.org/provider/david-mann/7112833",
+    "type": "bio",
+    "evidence": "Specialty Neurosurgery; Medical School Temple University School of Medicine, 2015; Residency University of Colorado, Neurological Surgery, 2022"
+   },
+   {
+    "url": "https://web.archive.org/web/20151213185210/http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Neurosurgery/education/ResidencyProgram/Pages/CurrentResidents.aspx",
+    "type": "program_page",
+    "evidence": "CU resident roster (Wayback) lists David Mann"
+   },
+   {
+    "url": "https://web.archive.org/web/20170923183340/http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Neurosurgery/education/ResidencyProgram/Pages/CurrentResidents.aspx",
+    "type": "program_page",
+    "evidence": "PGY-3 (2017-18): David Mann, MD"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 2,
+  "abns_certified": null,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "80:avr:laarakker",
+  "name": "Avra Laarakker",
+  "program_id": 80,
+  "program_site_url": "https://web.archive.org/web/20170923183340/http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Neurosurgery/education/ResidencyProgram/Pages/CurrentResidents.aspx",
+  "identity": "confirmed",
+  "identity_basis": "Unusual name; CU 2017-18 roster lists Avra Laarakker MD as PGY-1 (fetched, quoted); directories (WebMD, Healthgrades, Vitals) list Avra Laarakker (Technion MD 2016) under Neurological Surgery/plastic surgery; plastic surgeon bio (Jefferson Einstein) and UNM integrated plastic surgery residency found. Publication link to CU not used.",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left CU neurosurgery after PGY-1 (2017-18); completed plastic surgery residency at University of New Mexico (search summary; exact dates not found); gender-affirming surgery fellowship.",
+  "current": "plastic surgeon (gender-affirming), Jefferson Einstein, Philadelphia PA",
+  "evidence_level": "gold",
+  "external_url": "https://providers.einstein.edu/provider/avra-laarakker/3184360",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20170923183340/http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Neurosurgery/education/ResidencyProgram/Pages/CurrentResidents.aspx",
+    "type": "program_page",
+    "evidence": "PGY-1 (2017-18): Gr\u00e9goire Chatain, MD; Avra Laarakker, MD"
+   },
+   {
+    "url": "https://providers.einstein.edu/provider/avra-laarakker/3184360",
+    "type": "bio",
+    "evidence": "Dr. Avra Laarakker, MD - Gender Affirming Care, Plastic Surgery (search snippet; page later unavailable)"
+   },
+   {
+    "url": "https://www.healthgrades.com/physician/dr-avra-sophia-laarakker-xynx9l4",
+    "type": "search_snippet",
+    "evidence": "Plastic Surgeon in Philadelphia; Technion MD 2016"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 4,
+  "year_left": 2018,
+  "destination_program": "University of New Mexico (integrated plastic surgery; per search summary)",
+  "agrees_with_db": true,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "80:joh:butterfield",
+  "name": "John Butterfield",
+  "program_id": 80,
+  "program_site_url": "https://web.archive.org/web/20231210143704/https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+  "identity": "probable",
+  "identity_basis": "CU page lists John Butterfield MD (PGY-1 2023 -> PGY-IV 2026-27). No external source ties him to CU: the John Butterfield MD/PhD at UF (Doximity, pathology resident) is a different person; publication (Li, Butterfield, Wilkinson 2026) not counted; no Doximity/match listing.",
+  "outcome": "in_training",
+  "outcome_detail": "PGY IV 2026-27 on CU page.",
+  "current": "neurosurgery resident PGY-4, CU",
+  "evidence_level": "program_only",
+  "external_url": null,
+  "sources": [
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY IV: John Butterfield, MD"
+   }
+  ],
+  "sources_count": 1,
+  "ident_searches": 6,
+  "note": "UF pathology MD/PhD John S. Butterfield is a different person; do not use",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "80:moh:salem",
+  "name": "Mohamed Salem",
+  "program_id": 80,
+  "program_site_url": "https://web.archive.org/web/20240913060026/https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+  "identity": "confirmed",
+  "identity_basis": "CU page lists Mohamed Salem MD PGY-III (2026-27, PGY-1 2024). Google Scholar profile 'Mohamed M. Salem', verified cuanschutz.edu, University of Colorado, cerebrovascular neurosurgery; Doximity Boston profile (Alexandria 2015) is his earlier research/fellow period, lagging.",
+  "outcome": "in_training",
+  "outcome_detail": "On CU current resident page 2026-27 (PGY-3).",
+  "current": "neurosurgery resident PGY-3, CU",
+  "evidence_level": "silver",
+  "external_url": "https://scholar.google.com/citations?user=0wZmhEIAAAAJ&hl=en",
+  "sources": [
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY III: Michael Ohene-Adjei, Paymon Rezaii, Mohamed Salem"
+   },
+   {
+    "url": "https://scholar.google.com/citations?user=0wZmhEIAAAAJ&hl=en",
+    "type": "bio",
+    "evidence": "Mohamed M. Salem, University of Colorado, verified email at cuanschutz.edu; Cerebrovascular Neurosurgery"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "80:meg:ryan",
+  "name": "Meg Ryan",
+  "program_id": 80,
+  "program_site_url": "https://web.archive.org/web/20251108163138/https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+  "identity": "probable",
+  "identity_basis": "CU page lists Meg Ryan MD (PGY-II 2026-27); CU Neurosurgery Instagram post welcomes '2025-2026 Neurosurgery Interns- Meg Ryan and Sera Sempson'. Link to Megan V. Ryan (Rocky Vista DO student, MS anatomy CU) is unproven and the credential differs (DO vs MD on CU page), so the full identity is not confirmed.",
+  "outcome": "in_training",
+  "outcome_detail": "On CU page PGY-II 2026-27; program Instagram post names her as 2025-26 intern.",
+  "current": "neurosurgery resident PGY-2, CU",
+  "evidence_level": "program_only",
+  "external_url": "https://www.instagram.com/p/DHeEpxvRU3A/",
+  "sources": [
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY II: Meg Ryan, MD, Sera Sempson, MD"
+   },
+   {
+    "url": "https://www.instagram.com/p/DHeEpxvRU3A/",
+    "type": "news",
+    "evidence": "Congratulations to our 2025-2026 Neurosurgery Interns- Meg Ryan and Sera Sempson!"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 4,
+  "note": "Megan V. Ryan (Rocky Vista DO/AANS bio) may or may not be same person",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "80:aas:patel",
+  "name": "Aashay Patel",
+  "program_id": 80,
+  "program_site_url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+  "identity": "confirmed",
+  "identity_basis": "CU page PGY-I 'Aashay Patel, MD'; ResearchGate profile 'Aashay Patel, Resident Physician, Doctor of Medicine, University of Colorado, Denver' agrees on name and program; other Aashay/Ashay Patels are DO/pediatrics etc.",
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 2026-27 on CU page.",
+  "current": "neurosurgery resident PGY-1, CU",
+  "evidence_level": "silver",
+  "external_url": "https://www.researchgate.net/profile/Aashay-Patel-2",
+  "sources": [
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY I: Zaynab Sidi Mohamed, Janet Wu, Aashay Patel"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Aashay-Patel-2",
+    "type": "search_snippet",
+    "evidence": "Aashay PATEL | Resident Physician | Doctor of Medicine | University of Colorado, Denver"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "80:jan:wu",
+  "name": "Janet Wu",
+  "program_id": 80,
+  "program_site_url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+  "identity": "probable",
+  "identity_basis": "CU page lists Janet Wu MD PGY-I only. Stanford student Janet Y. Wu (neurosurgery interest, Stanford Neurosurgery X post) may be her but no source names CU; Stanford Match Day 2026 page did not name her.",
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 2026-27 on CU page.",
+  "current": "neurosurgery resident PGY-1, CU",
+  "evidence_level": "program_only",
+  "external_url": null,
+  "sources": [
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY I: Janet Wu, MD"
+   }
+  ],
+  "sources_count": 1,
+  "ident_searches": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "82:mis:chakraborty",
+  "name": "Mishti Chakraborty",
+  "program_id": 82,
+  "program_site_url": "https://web.archive.org/web/20111013022503/http://www.neurosurgery.ufl.edu/residency/current-residents.shtml",
+  "identity": "probable",
+  "identity_basis": "UF rosters (Wayback) list Mishti Chakraborty MD PGY-1 2011 through PGY-6 2016-17 (with Hartman and Rokicki, who are on the 2018 alumni list). Doximity/WebMD/Healthgrades list one UF-affiliated Anindita Chakraborty, UF MD 2011, UF neurological surgery residency 2011-2018 (same start year; 'Mishti' as a nickname is inference, no source states it). Doximity also lists ABPN Psychiatry and Child & Adolescent Psychiatry certifications, which may be a merged namesake (Michigan psychiatrist, Kasturba 2010).",
+  "outcome": "unknown",
+  "outcome_detail": "UF alumni page (through 2025) does not list Chakraborty for 2018 (lists only Hartman and Rokicki), so she did not graduate with her 2018 cohort; Doximity shows FL license 2013-2019 and ABPN psychiatry certs (unreliable, possibly merged). No current practice bio found.",
+  "current": "unknown (Doximity: Neurosurgery, Gainesville FL address; psychiatry certifications listed)",
+  "evidence_level": "program_only",
+  "external_url": "https://www.doximity.com/pub/anindita-chakraborty-md",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20161226190655/http://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "Program Year 6: Mishti Chakraborty, MD; Cory Hartman; Jerzy Rokicki"
+   },
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/alumni/",
+    "type": "program_page",
+    "evidence": "2018: Cory Hartman; Jerzy Rokicki (no Chakraborty)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/anindita-chakraborty-md",
+    "type": "doximity",
+    "evidence": "UF Residency Neurological Surgery 2011-2018; UF COM Class of 2011; ABPN Psychiatry; Child & Adolescent Psychiatry"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 6,
+  "agrees_with_db": null,
+  "disagreement": "Prior call switched_specialty (psychiatry) rests on a possibly merged Doximity profile; not confirmed.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "82:car:brophy",
+  "name": "Carl Brophy",
+  "program_id": 82,
+  "program_site_url": "https://neurosurgery.ufl.edu/residency/current-residents/ (Common Crawl CC-MAIN-2017-34, 2017-08-24)",
+  "identity": "probable",
+  "identity_basis": "UF 2017-18 and 2018-19 rosters (Common Crawl) list Carl Brophy; Doximity/Healthgrades/AdventHealth Carl Brophy MD, Georgetown MD 2017, family medicine Ocala, UF Community Health & Family Medicine faculty page; Scholar 'Neurosurgery Resident at UF'; specialty list includes Neurological Surgery.",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UF neurosurgery after PGY-2 (2018-19); UF Family Medicine residency 2019-2022 (Doximity); board certified family physician in Ocala.",
+  "current": "family medicine physician, Ocala FL (UF CHFM / AdventHealth)",
+  "evidence_level": "gold",
+  "external_url": "https://chfm.ufl.edu/profile/brophy-carl/",
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/carl-brophy-md",
+    "type": "doximity",
+    "evidence": "University of Florida Residency, Family Medicine, 2019-2022; Georgetown Class of 2017"
+   },
+   {
+    "url": "https://chfm.ufl.edu/profile/brophy-carl/",
+    "type": "bio",
+    "evidence": "Carl Brophy, UF Community Health & Family Medicine (search result title)"
+   },
+   {
+    "url": "https://scholar.google.com/citations?user=ThUVtoYAAAAJ&hl=en",
+    "type": "search_snippet",
+    "evidence": "Carl Brophy is a Neurosurgery Resident at the University of Florida"
+   }
+  ],
+  "sources_count": 4,
+  "ident_searches": 2,
+  "year_left": 2019,
+  "destination_program": "University of Florida Family Medicine",
+  "destination_start_year": 2019,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "82:pat:miller",
+  "name": "Patricia Miller",
+  "program_id": 82,
+  "program_site_url": "https://web.archive.org/web/20211018211650/https://neurosurgery.ufl.edu/residency/current-residents/",
+  "identity": "probable",
+  "identity_basis": "UF rosters 2021-2024 list Patricia Miller; Dermatology Specialists bio: undergraduate, medical education, internship and 'neurosurgical junior residency' at UF (1st in class, Alumni Award) - matches a UF neurosurgery resident. Common name but the bio describes UF neurosurgery training explicitly.",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UF neurosurgery after PGY-3 (2023-24); bio says her interest in dermatology was sparked during neurosurgical residency and she is now a Clinical Research Fellow at a dermatology practice; dermatology residency not found.",
+  "current": "clinical research fellow, Dermatology Specialists (bio)",
+  "evidence_level": "silver",
+  "external_url": "https://mydermspecialists.com/about-us/our-providers/patricia-miller-md/",
+  "sources": [
+   {
+    "url": "https://mydermspecialists.com/about-us/our-providers/patricia-miller-md/",
+    "type": "bio",
+    "evidence": "completed her undergraduate studies, medical education, internship, and neurosurgical junior residency at the University of Florida; Clinical Research Fellow"
+   },
+   {
+    "url": "https://web.archive.org/web/20211018211650/https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "UF roster Wayback 2021-22 lists Patricia Miller"
+   }
+  ],
+  "sources_count": 2,
+  "ident_searches": 3,
+  "year_left": 2024,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "82:car:christie",
+  "name": "Carlton Christie",
+  "program_id": 82,
+  "program_site_url": "https://web.archive.org/web/20190923095726/https://neurosurgery.ufl.edu/residency/current-residents/",
+  "identity": "probable",
+  "identity_basis": "UF Wayback rosters PGY-1 2019 through PGY-7 2025-26; not on UF 2026-27 current-residents page (PGY 7 = Moor, Smart, Obungu); LinkedIn 'Captain - Medical Corps US Army', Penn State MD 2019; Doximity Penn State 2019, WebMD lists Neurological Surgery Gainesville.",
+  "outcome": "completed",
+  "outcome_detail": "Absent from the 2026-27 UF list after PGY-7 in 2025-26, consistent with graduating June 2026 (UF alumni page only goes through 2025); Army officer. No bio stating completion or a practice bio found.",
+  "current": "Army neurosurgeon presumed (Doximity address Fort Bliss TX, 2026 TX license; unverified)",
+  "evidence_level": "program_only",
+  "external_url": "https://www.linkedin.com/in/carlton-christie-891b2398/",
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "2026-27 PGY 7: Rachel Moor, Derek Smart, Arnold Obungu (Christie absent)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/carlton-christie-md",
+    "type": "doximity",
+    "evidence": "Penn State College of Medicine Class of 2019"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 4,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "82:mic:sun",
+  "name": "Michael Sun",
+  "program_id": 82,
+  "program_site_url": "https://web.archive.org/web/20220926005404/https://neurosurgery.ufl.edu/residency/current-residents/",
+  "identity": "probable",
+  "identity_basis": "UF page lists Michael Sun MD PGY-5 (2026-27); no external source found (common name; searches returned only UF pages and other Michael Suns).",
+  "outcome": "in_training",
+  "outcome_detail": "On UF current residents page 2026-27.",
+  "current": "neurosurgery resident PGY-5, UF",
+  "evidence_level": "program_only",
+  "external_url": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY 5: Danyas Sarathy, Zachary Sorrentino, MD, PhD, Michael Sun"
+   }
+  ],
+  "sources_count": 1,
+  "ident_searches": 4,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "82:der:lewis",
+  "name": "Derrick Lewis",
+  "program_id": 82,
+  "program_site_url": "https://web.archive.org/web/20231005155348/https://neurosurgery.ufl.edu/residency/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "UF Wayback rosters list Derrick Lewis PGY-1 2023 and PGY-2 2024; UW neurosurgery bio: Derrick Lewis MS MD, Mayo Clinic Alix School of Medicine, Resident PGY-4; UW Grand Rounds 2022 sub-I from Mayo; LinkedIn UF resident since June 2023, Mayo research fellow.",
+  "outcome": "transferred",
+  "outcome_detail": "UF PGY-1/2 2023-25, then University of Washington neurosurgery PGY-3 2025; PGY-4 in 2026-27 on the UW resident page.",
+  "current": "neurosurgery resident PGY-4, University of Washington",
+  "evidence_level": "silver",
+  "external_url": "https://neurosurgery.uw.edu/bio/derrick-lewis-ms-md",
+  "sources": [
+   {
+    "url": "https://neurosurgery.uw.edu/bio/derrick-lewis-ms-md",
+    "type": "bio",
+    "evidence": "Resident, PGY-4; Medical School Mayo Clinic Alix School of Medicine"
+   },
+   {
+    "url": "https://www.linkedin.com/in/derrick-lewis-b33295b7/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgery Resident (UF since June 2023, Mayo research fellow 2020-2023)"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 2,
+  "year_left": 2025,
+  "destination_program": "University of Washington",
+  "destination_start_year": 2025,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "82:cie:robles",
+  "name": "Cielo Robles",
+  "program_id": 82,
+  "program_site_url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+  "identity": "probable",
+  "identity_basis": "Only the UF 2026-27 current residents page lists Cielo Robles MD PGY-1; UF surgery Match Day page and searches found nothing else.",
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 2026-27.",
+  "current": "neurosurgery resident PGY-1, UF",
+  "evidence_level": "program_only",
+  "external_url": null,
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY 1: Cielo Robles, MD, Kent Marshall, MD, PhD, Habib Rafka, MD"
+   }
+  ],
+  "sources_count": 1,
+  "ident_searches": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "82:ken:marshall",
+  "name": "Kent Marshall",
+  "program_id": 82,
+  "program_site_url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "UF page: Kent Marshall MD PhD PGY-1; LinkedIn (WVU School of Medicine) says he matched in neurosurgery at UF; WVU profile: MD/PhD program student (entry 2022). Doximity Orem UT internist rejected as namesake.",
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 2026-27.",
+  "current": "neurosurgery resident PGY-1, UF",
+  "evidence_level": "silver",
+  "external_url": "https://www.linkedin.com/in/kent-marshall-80103216a/",
+  "sources": [
+   {
+    "url": "https://neurosurgery.ufl.edu/residency/current-residents/",
+    "type": "program_page",
+    "evidence": "PGY 1: Kent Marshall, MD, PhD"
+   },
+   {
+    "url": "https://www.linkedin.com/in/kent-marshall-80103216a/",
+    "type": "search_snippet",
+    "evidence": "Kent Marshall matched in Neurosurgery at the University of Florida; WVU School of Medicine"
+   },
+   {
+    "url": "https://medicine.hsc.wvu.edu/profiles/graduate-education/kent-marshall/",
+    "type": "bio",
+    "evidence": "MD/PhD Program, WVU School of Medicine"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 3,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "83:cha:pierce",
+  "name": "Charles Pierce",
+  "program_id": 83,
+  "program_site_url": "https://web.archive.org/web/20201129174050/https://chicago.medicine.uic.edu/departments/academic-departments/neurosurgery/medical-education/residency/current-residents/",
+  "identity": "probable",
+  "identity_basis": "UIC neurosurgery Wayback roster 2020-21 lists Charles Pierce PGY-1. Doximity Charles Pierce: UIC College of Medicine class 2020, neurosurgery publications (Engelhard 2021). UIC radiology profile: Charles Pierce MD, Class of 2026 diagnostic radiology, MD University of Illinois (Rockford). Same name and UIC MD 2020; no page states the neurosurgery-to-radiology move directly.",
+  "outcome": "switched_specialty",
+  "outcome_detail": "Left UIC neurosurgery after PGY-1 (2020-21); UIC diagnostic radiology resident, Class of 2026 (profile page).",
+  "current": "diagnostic radiology resident (Class of 2026), University of Illinois Chicago",
+  "evidence_level": "silver",
+  "external_url": "https://chicago.medicine.uic.edu/radiology/profiles/pierce-charles",
+  "sources": [
+   {
+    "url": "https://chicago.medicine.uic.edu/radiology/profiles/pierce-charles",
+    "type": "program_page",
+    "evidence": "Charles Pierce, MD, Resident, Class of 2026, Diagnostic Radiology; medical degree University of Illinois (search summary)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/charles-pierce-md-537e4fdc",
+    "type": "doximity",
+    "evidence": "University of Illinois College of Medicine Class of 2020; World Neurosurgery 2021 with Engelhard"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 3,
+  "year_left": 2021,
+  "destination_program": "University of Illinois Chicago diagnostic radiology",
+  "destination_start_year": 2022,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "83:nau:chaudhry",
+  "name": "Nauman Chaudhry",
+  "program_id": 83,
+  "program_site_url": "https://web.archive.org/web/20151229001623/http://chicago.medicine.uic.edu/departments___programs/departments/neurosurgery/medical_education/residency/current_residents/",
+  "identity": "confirmed",
+  "identity_basis": "UIC Wayback rosters PGY-2 2015 through PGY-7; Orlando Health bio (search summary): neurosurgery residency University of Illinois College of Medicine (2021), Duke spine fellowship, MD Miami; LinkedIn agrees.",
+  "outcome": "completed",
+  "outcome_detail": "Completed UIC neurosurgery residency 2021; Duke spinal deformity fellowship; board certified per Orlando Health bio.",
+  "current": "neurosurgeon (complex spine), Orlando Health Neuroscience Institute, Orlando FL",
+  "evidence_level": "gold",
+  "external_url": "https://www.orlandohealth.com/physician-finder/nauman-chaudhry-md",
+  "sources": [
+   {
+    "url": "https://www.orlandohealth.com/physician-finder/nauman-chaudhry-md",
+    "type": "bio",
+    "evidence": "board certified, fellowship trained; neurosurgery residency at the University of Illinois College of Medicine (2021); Duke fellowship (search summary; page fetch 429)"
+   },
+   {
+    "url": "https://www.linkedin.com/in/naumanschaudhry/",
+    "type": "search_snippet",
+    "evidence": "Neurosurgeon, Complex Spine"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 1,
+  "abns_certified": true,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ },
+ {
+  "key": "83:sye:khalid",
+  "name": "Syed Khalid",
+  "program_id": 83,
+  "program_site_url": "https://web.archive.org/web/20220127021050/https://chicago.medicine.uic.edu/departments/academic-departments/neurosurgery/medical-education/residency/current-residents/",
+  "identity": "confirmed",
+  "identity_basis": "UIC neurosurgery profile page: Syed Khalid MD, Resident Class of 2028, PGY-4, RFU medical school (fetched); X account and ABMS Scholar 2025-26 agree.",
+  "outcome": "in_training",
+  "outcome_detail": "Current UIC resident, Class of 2028 (PGY-4 on profile).",
+  "current": "neurosurgery resident, UIC",
+  "evidence_level": "silver",
+  "external_url": "https://x.com/syedikhalid?lang=en",
+  "sources": [
+   {
+    "url": "https://chicago.medicine.uic.edu/neurosurgery/profiles/khalid-syed/",
+    "type": "program_page",
+    "evidence": "Syed Khalid, MD, Resident, Class of 2028; PGY-4; Medical School Rosalind Franklin University"
+   },
+   {
+    "url": "https://x.com/syedikhalid?lang=en",
+    "type": "search_snippet",
+    "evidence": "Syed I. Khalid, M.D. neurosurgery resident at UIC"
+   }
+  ],
+  "sources_count": 3,
+  "ident_searches": 2,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "prior_identity": "probable"
+ }
+]

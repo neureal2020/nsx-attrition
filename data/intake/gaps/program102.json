@@ -1,0 +1,296 @@
+{
+ "program_id": 102,
+ "name": "University of Rochester Medicine Program (URMC Neurosurgery)",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.urmc.rochester.edu/neurosurgery/ (dept site; education.cfm/.aspx link out to GME pages, no roster)",
+   "from": "2011",
+   "to": "2026"
+  },
+  {
+   "url": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents/current-residents.cfm",
+   "from": "2011-10",
+   "to": "2015-09 (stale 2014-15 list after Mar 2015)"
+  },
+  {
+   "url": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents/current-residents.aspx",
+   "from": "2016-02",
+   "to": "2016-06"
+  },
+  {
+   "url": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents.aspx",
+   "from": "2016-07",
+   "to": "2024-12"
+  },
+  {
+   "url": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents",
+   "from": "2025-01",
+   "to": "2026-09 (live)"
+  },
+  {
+   "url": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents/recent-graduates(.cfm|.aspx|none)",
+   "from": "2012",
+   "to": "2026 (alumni page)"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [],
+ "gap_details": {
+  "2012-2013": "No Wayback capture of the roster between 2012-01 and 2014-05; filled from Common Crawl CC-MAIN-2013-20 (2013-05-22) current-residents.cfm. Spring capture but content-dated (PGY-1 Czerniecka/Foxx, PGY-7 Dimopoulos/Kesler).",
+  "2013-2014": "Common Crawl CC-MAIN-2013-48 (2013-12-05); identical list in Wayback 2014-05-17.",
+  "2014-2015": "Earliest roster capture is Wayback 2015-03-01 (Nov 2014 capture is the our-residents/ index page). Same list stays on current-residents.cfm through Sep 2015 (stale).",
+  "2015-2016": "Only June 2016 Wayback (current-residents.aspx); same list in Common Crawl Feb 2016. 12 listed: Dashnaw sole PGY-7 (classmate Srinivasan left), Montoya gone.",
+  "2016-2017": "No Wayback roster capture; filled from Common Crawl CC-MAIN-2016-44 (2016-10-22) our-residents.aspx; same list in CC Jul 2016-May 2017.",
+  "2024-2025": "Observed, COMPLETE (14). Phase 1 reported Derek George absent; he is on every 2024-25 capture as 'PGY- 5' and the phase-1 regex PGY[- ]?(\\d) skipped the space. Phase 2 parser (data/raw/extraction/p102/phase2/parse102p2.py) fixes it; no research year: George is PGY1-7 continuously 2020-21..2026-27.",
+  "2019-2020": "Rahim Ismail listed PGY2 in both 2018-19 and 2019-20 (then PGY3 in 2020-21): an unadvanced year before he left for radiology in 2021. Other residents advanced normally on the same capture."
+ },
+ "alumni_page": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents/recent-graduates",
+ "departures": [
+  {
+   "name": "Michael Moravan",
+   "last_ay": "2011-2012",
+   "last_pgy": 1,
+   "outcome": "switched_specialty",
+   "destination": "Radiation oncology, URMC (class of 2016)",
+   "evidence": "URMC Radiation Oncology recent-graduates page (2016); PubMed Rad Onc URMC 2016, Duke 2017-21",
+   "note": "left after PGY1"
+  },
+  {
+   "name": "Vasisht Srinivasan",
+   "last_ay": "2013-2014",
+   "last_pgy": 5,
+   "outcome": "switched_specialty",
+   "destination": "Emergency medicine, URMC (EM PGY1 2015-16, class of 2018), then neurocritical care fellowship Cincinnati",
+   "evidence": "URMC EM roster (PGY-1s Jun 2016, PGY-3s Nov 2017/May 2018) + EM recent-graduates class of 2018; PubMed UC 2019, UW EM 2021-26",
+   "note": "2014-15 unaccounted"
+  },
+  {
+   "name": "Simone Montoya",
+   "last_ay": "2014-2015",
+   "last_pgy": 4,
+   "outcome": "switched_specialty",
+   "destination": "Diagnostic radiology, URMC (R1 2015-16 .. R4 2018-19)",
+   "evidence": "URMC Radiology roster Jun 2016 (first year), Nov 2017 (third), 2019 (fourth); PubMed Imaging Sciences URMC 2016-2020",
+   "note": "had joined at PGY3 in 2013-14 (origin unknown)"
+  },
+  {
+   "name": "Clifford Pierre",
+   "last_ay": "2018-2019",
+   "last_pgy": 5,
+   "outcome": "did_not_complete (departure_type unknown)",
+   "destination": "Swedish Neuroscience Institute / Seattle Science Foundation, Seattle (neurosurgery research affiliation Oct 2019-2026)",
+   "evidence": "PubMed/OpenAlex affiliations; not on URMC alumni list; not on any other roster in DB; NPI never updated past 2014 student taxonomy",
+   "note": "stayed in neurosurgical research; no evidence of completion elsewhere or of a specialty switch"
+  },
+  {
+   "name": "Rahim Ismail",
+   "last_ay": "2020-2021",
+   "last_pgy": 3,
+   "outcome": "switched_specialty",
+   "destination": "Diagnostic radiology, URMC (R1 2021-22 .. R4 2024-25), now UT Southwestern radiology",
+   "evidence": "URMC Radiology roster Sep 2021 (first year), Nov 2022 (second), Nov 2023 (third), Nov 2024/Apr 2025 (fourth); PubMed Imaging Sciences URMC 2023-26",
+   "note": "PGY2 listed twice (2018-19, 2019-20)"
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Simone Montoya",
+   "first_ay": "2013-2014",
+   "first_pgy": 3,
+   "origin": "unknown (Miami MD 2011; bio silent on 2011-13)",
+   "cohort_by_pgy": 2011
+  }
+ ],
+ "residents_2011plus": 33,
+ "adjudication_summary": {
+  "COMPLETED": 25,
+  "IN TRAINING": 14,
+  "LEFT -> SWITCHED SPECIALTY (program-page evidence)": 4,
+  "LEFT -> did not complete (Pierre, outcome unknown)": 1
+ },
+ "problems": "None blocking. NPPES API unreachable from this machine in phase 2 (not needed). Europe PMC full-text returned 503 for 3 of 5 PMC ids.",
+ "year_status": {
+  "2011-2012": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20120114131635/http://www.urmc.rochester.edu:80/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents/current-residents.cfm",
+   "n": 13,
+   "significance": "none",
+   "reason": "Wayback 2012-01-14, 13 names; every class of 2 present except the 2005 class (Boev alone, and alumni page shows him as the only 2012 graduate) and 2011 class (Moravan+Sandwell; Montoya joined 2013)."
+  },
+  "2012-2013": {
+   "status": "observed",
+   "source": "http://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents/current-residents.cfm (Common Crawl CC-MAIN-2013-20, 2013-05-22)",
+   "n": 13,
+   "significance": "none",
+   "reason": "Common Crawl 2013-05-22, 13 names, content-dated (PGY1 Czerniecka/Foxx, PGY7 Dimopoulos/Kesler); only change vs 2011-12 is Moravan's exit (confirmed: rad-onc)."
+  },
+  "2013-2014": {
+   "status": "observed",
+   "source": "http://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents/current-residents.cfm (Common Crawl CC-MAIN-2013-48, 2013-12-05)",
+   "n": 14,
+   "significance": "none",
+   "reason": "Common Crawl 2013-12-05 = Wayback 2014-05-17, 14 names; Montoya joins at PGY3."
+  },
+  "2014-2015": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20150301165625/http://www.urmc.rochester.edu:80/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents/current-residents.cfm",
+   "n": 13,
+   "significance": "none",
+   "reason": "Wayback 2015-03-01, 13 names; Srinivasan's exit explained (URMC EM from 2015)."
+  },
+  "2015-2016": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20160620090538/https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents/current-residents.aspx",
+   "n": 12,
+   "significance": "none",
+   "reason": "Wayback 2016-06-20 (= CC Feb 2016), 12 names; Montoya's exit explained (URMC radiology R1 2015-16)."
+  },
+  "2016-2017": {
+   "status": "observed",
+   "source": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents.aspx (Common Crawl CC-MAIN-2016-44, 2016-10-22)",
+   "n": 13,
+   "significance": "none",
+   "reason": "Common Crawl 2016-10-22, 13 names; every class bracketed by 2015-16 and 2017-18."
+  },
+  "2017-2018": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20171112054730/https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents.aspx",
+   "n": 13,
+   "significance": "none",
+   "reason": "Wayback Nov 2017, 13 names, bracketed on both sides."
+  },
+  "2018-2019": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20181113201353/https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents.aspx",
+   "n": 14,
+   "significance": "none",
+   "reason": "Wayback Nov 2018, 14 names (full complement)."
+  },
+  "2019-2020": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20191112065958/https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents.aspx",
+   "n": 13,
+   "significance": "none",
+   "reason": "Wayback Nov 2019, 13 names; Pierre's exit (Swedish Neuroscience Institute from Oct 2019)."
+  },
+  "2020-2021": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20201028092016/https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents.aspx",
+   "n": 13,
+   "significance": "none",
+   "reason": "Wayback Oct 2020, 13 names."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20211016211148/https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents.aspx",
+   "n": 13,
+   "significance": "none",
+   "reason": "Wayback Oct 2021, 13 names; Ismail's exit explained (URMC radiology R1 2021-22)."
+  },
+  "2022-2023": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20221130104508/https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents.aspx",
+   "n": 13,
+   "significance": "none",
+   "reason": "Wayback Nov 2022, 13 names (2017 class = Wassef only)."
+  },
+  "2023-2024": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20230928143828/https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents.aspx",
+   "n": 13,
+   "significance": "none",
+   "reason": "Wayback Sep 2023, 13 names."
+  },
+  "2024-2025": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20240913113936/https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents.aspx",
+   "n": 14,
+   "significance": "none",
+   "reason": "Wayback 2024-09-13, 14 names. Phase-1 'incomplete' was a parser miss: Derek George is listed as 'PGY- 5' (space after hyphen) on every 2024-25 capture (Sep 2024-May 2025). Fixed regex; year complete."
+  },
+  "2025-2026": {
+   "status": "observed",
+   "source": "https://web.archive.org/web/20250915130707/https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents",
+   "n": 14,
+   "significance": "none",
+   "reason": "Wayback 2025-09-15, 14 names (full complement)."
+  },
+  "2026-2027": {
+   "status": "observed",
+   "source": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents",
+   "n": 14,
+   "significance": "none",
+   "reason": "Live 2026-09-27, 14 names, advanced (new PGY1 Green, Jalal)."
+  }
+ },
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "terminal_pgy_note": "7 years for every cohort: all 25 graduates 2012-2026 finish at PGY-7; no length change, not AOA.",
+ "crossmatch": "data/intake/crossmatch.json has no pair involving program 102 (checked dep_pid/join_pid).",
+ "phase2": {
+  "searched": [
+   "re-parse of every phase-1 roster capture with a fixed PGY regex (PGY[- ]{0,2}\\d)",
+   "URMC Emergency Medicine, Radiology and Radiation Oncology our-residents / current-residents / recent-graduates pages via Wayback (all digest versions 2013-2026)",
+   "PubMed author+affiliation for all 5 leavers and Derek George; OpenAlex author affiliations; Europe PMC full text (Pierre)",
+   "Univ. of Cincinnati EM resident directory (Wayback 2015-2019)",
+   "Wayback CDX of seattlesciencefoundation.org and swedish.org for Pierre (nothing)",
+   "data/intake/crossmatch.json (no 102 pairs); roster_observations of all programs for the 5 surnames (none elsewhere)"
+  ],
+  "found": [
+   "Derek George on all 2024-25 captures as PGY-5 (parser miss); 2024-25 complete",
+   "Moravan -> URMC radiation oncology class of 2016",
+   "Srinivasan -> URMC emergency medicine PGY1 2015-16, class of 2018",
+   "Montoya -> URMC diagnostic radiology 2015-2019",
+   "Ismail -> URMC diagnostic radiology 2021-2025",
+   "Pierre -> Swedish Neuroscience Institute (Seattle) research affiliation from Oct 2019; no completion found"
+  ],
+  "remaining": [
+   "Pierre's post-2019 status (research fellow vs. non-ACGME training) is unconfirmed; recorded as did not complete / departure_type unknown",
+   "Montoya's 2011-13 whereabouts before joining at PGY3",
+   "Srinivasan's 2014-15 year"
+  ]
+ }
+}

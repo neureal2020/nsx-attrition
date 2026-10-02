@@ -1,0 +1,375 @@
+# Unverified residents (generated from data/verify/exited_verified_merged.json)
+
+Scope: 325 residents who entered 2011+ and have finished or left, across 11 programs (Penn not loaded yet). The 236 still in training have not been checked at all (list at the end).
+
+## A. Never searched (batch 7 placeholders) — 36
+
+- Stephen A. Johnson — University of Pittsburgh (UPMC) (entry ~2012; ours: COMPLETED [ambiguous name])
+- Benjamin M. Zussman — University of Pittsburgh (UPMC) (entry ~2013; ours: COMPLETED)
+- Matthew W. Pease — University of Pittsburgh (UPMC) (entry ~2015; ours: COMPLETED)
+- Roberta K. Sefcik — University of Pittsburgh (UPMC) (entry ~2017; ours: COMPLETED)
+- Joseph Scott Hudson — University of Pittsburgh (UPMC) (entry ~2019; ours: COMPLETED [ambiguous name])
+- Martin Rutkowski — UCSF (entry ~2011; ours: COMPLETED)
+- John Burke — UCSF (entry ~2015; ours: COMPLETED [ambiguous name])
+- Alex Lu — UCSF (entry ~2017; ours: COMPLETED [ambiguous name])
+- Thomas Wozny — UCSF (entry ~2019; ours: COMPLETED)
+- Michael Bohl — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2013; ours: COMPLETED)
+- Alexander Whiting — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2014; ours: COMPLETED)
+- Clinton Morgan — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2016; ours: COMPLETED)
+- Charuta Furey — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2018; ours: COMPLETED)
+- Chikezie Eseonu — Johns Hopkins (entry ~2011; ours: COMPLETED)
+- Camilo Molina — Johns Hopkins (entry ~2013; ours: COMPLETED)
+- Risheng Xu — Johns Hopkins (entry ~2015; ours: COMPLETED)
+- Ryan Planchard — Johns Hopkins (entry ~2017; ours: LEFT -> outcome unknown)
+- Yuanxuan Xia — Johns Hopkins (entry ~2019; ours: COMPLETED)
+- Roxanna Garcia — Northwestern University (McGaw) (entry ~2014; ours: COMPLETED [ambiguous name])
+- Michael Cloney — Northwestern University (McGaw) (entry ~2016; ours: COMPLETED)
+- Daniel Oyon — Northwestern University (McGaw) (entry ~2018; ours: COMPLETED)
+- Jay Nathan — University of Michigan (entry ~2013; ours: COMPLETED)
+- Timothy Yee — University of Michigan (entry ~2016; ours: COMPLETED)
+- Joseph Linzey — University of Michigan (entry ~2019; ours: COMPLETED)
+- Leonardo Aliaga — UCLA (entry ~2013; ours: LEFT -> SWITCHED SPECIALTY)
+- H. Westley Phillips — UCLA (entry ~2015; ours: COMPLETED [ambiguous name])
+- Patrick Flanigan — UCLA (entry ~2018; ours: LEFT -> TRANSFERRED (Mayo Clinic Rochester))
+- David Lauzier — UCLA (entry ~2023; ours: LEFT -> SWITCHED SPECIALTY)
+- Jordan Komisarow — Duke University (entry ~2013; ours: COMPLETED)
+- Andrew Cutler — Duke University (entry ~2015; ours: COMPLETED [ambiguous name])
+- Daniel Sexton — Duke University (entry ~2018; ours: COMPLETED)
+- Matthew Pierson — Saint Louis University (SSM Health) (entry ~2013; ours: COMPLETED)
+- Nabiha Quadri — Saint Louis University (SSM Health) (entry ~2019; ours: COMPLETED)
+- Benjamin Himes — Mayo Clinic (Rochester, MN) (entry ~2013; ours: COMPLETED)
+- Lorenzo Rinaldo — Mayo Clinic (Rochester, MN) (entry ~2015; ours: COMPLETED)
+- Hannah Gilder — Mayo Clinic (Rochester, MN) (entry ~2018; ours: LEFT -> outcome unknown)
+
+## B. Searched, not found — 13
+
+- Ridhima Guniganti — Washington University in St. Louis (entry ~2018; ours: LEFT -> SWITCHED SPECIALTY) — Doximity: WashU MD 2018, neurosurgeon at Barnes-Jewish; no residency end or later training listed. NPI 1659866580 taxonomy Neurological Surg
+- Kyle McGrath — Washington University in St. Louis (entry ~2025; ours: LEFT -> outcome unknown) — WashU 2025 match class = Megan Bauman Graves, Riley Driscoll, Kyle McGrath (UF MD). Current WashU roster PGY2 lists Bauman Graves, Salil Bho
+- Michelle Chua — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2017; ours: LEFT -> outcome unknown [ambiguous name]) — Barrow roster lists Michelle Chua, MD as PGY-1 (2017-18) and PGY-2 (2018-19). Her only NPI (1952831935, Neurological Surgery, Arizona reside
+- Eric Nturibi — University of Pittsburgh (UPMC) (entry ~2022; ours: LEFT -> outcome unknown) — Pitt MD 2022; WebMD lists neurological surgery in Pittsburgh. He is not on the current Pitt neurosurgery residents page (PGY-1 to PGY-7), wh
+- Javier Figueroa — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2014; ours: LEFT -> TRANSFERRED (neurosurgery elsewhere (likely Mia)) — The only profile retrieved (Doximity 'javier-figueroa-md') is a University of Arizona MD 2014 who did emergency medicine residency at U Ariz
+- Jacob Joseph — University of Michigan (entry ~2012; ours: COMPLETED [ambiguous name]) — No reliable source retrieved. Default Doximity 'jacob-joseph-md' is an unrelated gastroenterologist; Michigan program pages returned 403.
+- Douglas Snyder — Saint Louis University (SSM Health) (entry ~2016; ours: LEFT -> SWITCHED SPECIALTY [ambiguous name]) — No reliable source retrieved. Default Doximity 'douglas-snyder-md' is an unrelated 1980 EVMS graduate anesthesiologist (Georgetown).
+- Daniel Shepherd — Mayo Clinic (Rochester, MN) (entry ~2011; ours: COMPLETED [ambiguous name]) — No reliable source retrieved. Default Doximity 'daniel-shepherd-md' is a Loyola MD 2014 pathologist (MGH pathology residency 2018-2021) - in
+- Nitesh Patel — Mayo Clinic (Rochester, MN) (entry ~2019; ours: COMPLETED [ambiguous name]) — No reliable source retrieved. Default Doximity 'nitesh-patel-md' is Nitesh V. Patel, Rutgers neurosurgery 2014-2021 (NJ) - a different perso
+- Moshe Praver — Northwestern University (McGaw) (entry ~2015; ours: LEFT -> SWITCHED SPECIALTY) — Only NPI record (1679969000, Moshe Eliyahu Praver MD) is a trainee ('Student in an Organized Health Care Education/Training Program') at 676
+- Yagmur Muftuoglu — UCLA (entry ~2020; ours: LEFT -> outcome unknown) — NPI 1609403575 (Ilayda Yagmur Muftuoglu, MD PhD) is a trainee record at UCLA Neurosurgery (last updated 2021). PubMed/OpenAlex show UCLA Neu
+- Tatenda Mahlokozera — Washington University in St. Louis (entry ~2022; ours: LEFT -> outcome unknown) — WashU Match Day 2022 lists him matching into Neurological Surgery (WashU MD/PhD 2022). US News/Doximity search snippets still describe him a
+- Michael Jin — Washington University in St. Louis (entry ~2024; ours: LEFT -> outcome unknown [ambiguous name]) — Stanford MD 2024; matched WashU neurosurgery 2024 (Doximity still lists WashU 2024-2031). He is absent from the current WashU residents page
+
+## C. Conflicting sources — 4
+
+- Thomas Wozny — University of Pittsburgh (UPMC) (entry ~2018; ours: LEFT -> TRANSFERRED (UCSF)) — UCSF 2025 graduates article: Wozny did BS and MD at Pitt, 'then completed a seven-year neurosurgery residency at UCSF'; Pitt PSTP page says he graduated Pitt MD 2018 and pursued re
+- James Yoon — University of Pittsburgh (UPMC) (entry ~2022; ours: LEFT -> outcome unknown [ambiguous name]) — Pitt bio: joined Pitt neurosurgery residency July 2022 (Yale MD 2022). Doximity still lists neurosurgery residency at Shadyside, 'expected completion 2027'; LinkedIn headline 'Resi
+- Georgios Alexopoulos — Saint Louis University (SSM Health) (entry ~2018; ours: LEFT -> did not complete) — Doximity and his own practice bio list 'Neurosurgery resident, Saint Louis University (2018-2024)' and ACGME training; he is 'European Board Certified' and now practices neurosurge
+- Archis Bhandarkar — Mayo Clinic (Rochester, MN) (entry ~2023; ours: LEFT -> outcome unknown) — Not listed on Mayo's current 'Meet Our Residents' page (PGY1-7). But NPI (Archis Ramkrishna Bhandarkar, Neurological Surgery, Rochester MN) updated Feb 2026 and papers dated Mar an
+
+## D. Low-confidence verdicts — 6
+
+- Joe Garcia — University of Pittsburgh (UPMC) (entry ~2022; ours: LEFT -> TRANSFERRED (SUNY Upstate) [ambiguous name]) — check says transferred_out
+- Michael Prim — Saint Louis University (SSM Health) (entry ~2015; ours: COMPLETED) — check says completed_here
+- Joseph Abbatematteo — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2018; ours: COMPLETED) — check says completed_here
+- Luis Fernandez — Northwestern University (McGaw) (entry ~2018; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Joshua Hughes — Mayo Clinic (Rochester, MN) (entry ~2012; ours: COMPLETED [ambiguous name]) — check says completed_here
+- William Gibson — Northwestern University (McGaw) (entry ~2018; ours: COMPLETED [ambiguous name]) — check says completed_here
+
+## E. Medium-confidence verdicts — 59
+
+- Joelle Hartke — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2019; ours: COMPLETED) — check says completed_here
+- Anne Park — Northwestern University (McGaw) (entry ~2011; ours: COMPLETED [ambiguous name]) — check says switched_specialty
+- Maheen Khan — Saint Louis University (SSM Health) (entry ~2015; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Megan Kaszuba Everson — Mayo Clinic (Rochester, MN) (entry ~2016; ours: COMPLETED) — check says completed_here
+- Claire Faltermeier — UCSF (entry ~2018; ours: LEFT -> SWITCHED SPECIALTY) — check says switched_specialty
+- Michael Nanaszko — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2011; ours: COMPLETED) — check says completed_here
+- John Sheehy — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2013; ours: COMPLETED) — check says completed_here
+- Harrison Farber — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2017; ours: COMPLETED) — check says completed_here
+- Matthew Bender — Johns Hopkins (entry ~2012; ours: COMPLETED [ambiguous name]) — check says completed_here
+- David McMullen — Johns Hopkins (entry ~2014; ours: LEFT -> outcome unknown) — check says left_medicine_or_other
+- Kurt Lehner — Johns Hopkins (entry ~2018; ours: COMPLETED) — check says completed_here
+- Rishi Lall — Northwestern University (McGaw) (entry ~2012; ours: LEFT -> TRANSFERRED (UTMB)) — check says transferred_out
+- Shanna Fang — Northwestern University (McGaw) (entry ~2015; ours: LEFT -> TRANSFERRED (neurosurgery elsewhere)) — check says switched_specialty
+- Michael Strong — University of Michigan (entry ~2017; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Kunal Patel — UCLA (entry ~2016; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Steven Cook — Duke University (entry ~2011; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Juliana Rotter Capp — Mayo Clinic (Rochester, MN) (entry ~2019; ours: COMPLETED) — check says completed_here
+- Caleb Rutledge — UCSF (entry ~2013; ours: COMPLETED) — check says completed_here
+- Young Lee — UCSF (entry ~2016; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Timothy Gooldy — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2017; ours: COMPLETED) — check says joined_from_elsewhere
+- Rajiv Iyer — Johns Hopkins (entry ~2012; ours: COMPLETED) — check says completed_here
+- Michael Jones — Northwestern University (McGaw) (entry ~2015; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Aaron Palmer — Northwestern University (McGaw) (entry ~2017; ours: COMPLETED) — check says completed_here
+- Katherine Holste — University of Michigan (entry ~2018; ours: COMPLETED) — check says completed_here
+- Joshua Jackson — Duke University (entry ~2019; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Baltazar Zavala — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2019; ours: COMPLETED) — check says completed_here
+- Tej Azad — Johns Hopkins (entry ~2019; ours: COMPLETED) — check says completed_here
+- Joy Trybula — Northwestern University (McGaw) (entry ~2017; ours: COMPLETED) — check says completed_here
+- Whitney Muhlestein — University of Michigan (entry ~2018; ours: COMPLETED) — check says completed_here
+- TJ Florence — UCLA (entry ~2019; ours: COMPLETED) — check says completed_here
+- John Berry-Candelario — Duke University (entry ~2012; ours: COMPLETED [ambiguous name]) — check says joined_from_elsewhere
+- Kelly Ryan Murphy — Duke University (entry ~2017; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Ali Alattar — University of Pittsburgh (UPMC) (entry ~2019; ours: COMPLETED) — check says completed_here
+- Celene Mulholland — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2012; ours: COMPLETED) — check says completed_here
+- Christopher Jackson — Johns Hopkins (entry ~2013; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Lydia Bernhardt — Johns Hopkins (entry ~2019; ours: COMPLETED) — check says completed_here
+- Nikhil Murthy — Northwestern University (McGaw) (entry ~2015; ours: COMPLETED) — check says completed_here
+- David (Drew) Wilkinson — University of Michigan (entry ~2012; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Sara Saleh — University of Michigan (entry ~2018; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Vin Mathur — Saint Louis University (SSM Health) (entry ~2012; ours: LEFT -> SWITCHED SPECIALTY) — check says switched_specialty
+- Christopher Marcellino — Mayo Clinic (Rochester, MN) (entry ~2015; ours: COMPLETED) — check says completed_here
+- Hansen Deng — University of Pittsburgh (UPMC) (entry ~2019; ours: COMPLETED) — check says completed_here
+- David Xu — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2012; ours: COMPLETED) — check says completed_here
+- Corey Walker — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2014; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Mason Blacker — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2024; ours: LEFT -> outcome unknown) — check says left_medicine_or_other
+- Ryan Lee — Johns Hopkins (entry ~2017; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Landon Hansen — Johns Hopkins (entry ~2019; ours: COMPLETED) — check says completed_here
+- Gurvinder Kaur — Northwestern University (McGaw) (entry ~2013; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Badih Junior Daou — University of Michigan (entry ~2016; ours: COMPLETED) — check says completed_here
+- Alexander Tucker — UCLA (entry ~2012; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Logan Marcus — UCLA (entry ~2015; ours: LEFT -> SWITCHED SPECIALTY) — check says switched_specialty
+- Timothy Miller — Duke University (entry ~2012; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Muhammad Kandel — Saint Louis University (SSM Health) (entry ~2018; ours: COMPLETED) — check says completed_here
+- Patrick Flanigan — Mayo Clinic (Rochester, MN) (entry ~2018; ours: COMPLETED) — check says completed_here
+- Jennifer Kim — Johns Hopkins (entry ~2016; ours: COMPLETED [ambiguous name]) — check says completed_here
+- H. Greg Frankel — Northwestern University (McGaw) (entry ~2016; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Brandon Smith — University of Michigan (entry ~2013; ours: COMPLETED [ambiguous name]) — check says completed_here
+- Najib El Tecle — Saint Louis University (SSM Health) (entry ~2014; ours: COMPLETED) — check says completed_here
+- Panagiotis Kerezoudis — Mayo Clinic (Rochester, MN) (entry ~2018; ours: COMPLETED) — check says completed_here
+
+## F. Still in training, not yet checked — 236
+
+- Michelle Connor — Washington University in St. Louis (entry ~2020, PGY 7 in 2026-20)
+- Charise Garber — Washington University in St. Louis (entry ~2020, PGY 7 in 2026-20)
+- David Giles — Washington University in St. Louis (entry ~2020, PGY 7 in 2026-20)
+- Ashley Dunbar — Washington University in St. Louis (entry ~2021, PGY 6 in 2026-20)
+- Alexander Yahanda — Washington University in St. Louis (entry ~2021, PGY 6 in 2026-20)
+- Ajay Chatrath — Washington University in St. Louis (entry ~2022, PGY 5 in 2026-20)
+- Alexander Perdomo Pantoja — Washington University in St. Louis (entry ~2022, PGY 5 in 2026-20)
+- Jane Yuan — Washington University in St. Louis (entry ~2022, PGY 5 in 2026-20)
+- Andrew Coxon — Washington University in St. Louis (entry ~2023, PGY 4 in 2026-20)
+- Gabbie Johnson — Washington University in St. Louis (entry ~2023, PGY 4 in 2026-20)
+- Nivedha Kannapadi — Washington University in St. Louis (entry ~2023, PGY 4 in 2026-20)
+- Nallammai Muthiah — Washington University in St. Louis (entry ~2023, PGY 4 in 2026-20)
+- Diogo P. Moniz Garcia — Washington University in St. Louis (entry ~2024, PGY 3 in 2026-20)
+- Joshua Koleske — Washington University in St. Louis (entry ~2024, PGY 3 in 2026-20)
+- Hanish Polavarapu — Washington University in St. Louis (entry ~2024, PGY 3 in 2026-20)
+- Salil Bhole — Washington University in St. Louis (entry ~2025, PGY 2 in 2026-20)
+- Riley Driscoll — Washington University in St. Louis (entry ~2025, PGY 2 in 2026-20)
+- Megan Bauman Graves — Washington University in St. Louis (entry ~2025, PGY 2 in 2026-20)
+- Anna Boerwinkle — Washington University in St. Louis (entry ~2026, PGY 1 in 2026-20)
+- Hristos Courellis — Washington University in St. Louis (entry ~2026, PGY 1 in 2026-20)
+- Adeesya Gausper — Washington University in St. Louis (entry ~2026, PGY 1 in 2026-20)
+- Ryan Gensler — Washington University in St. Louis (entry ~2026, PGY 1 in 2026-20)
+- Prateek Agarwal — University of Pittsburgh (UPMC) (entry ~2020, PGY 7 in 2026-20)
+- Jeffrey Head — University of Pittsburgh (UPMC) (entry ~2020, PGY 7 in 2026-20)
+- Rachel Jacobs — University of Pittsburgh (UPMC) (entry ~2020, PGY 7 in 2026-20)
+- David McCarthy — University of Pittsburgh (UPMC) (entry ~2020, PGY 7 in 2026-20)
+- Sharath Anand — University of Pittsburgh (UPMC) (entry ~2021, PGY - in 2026-20)
+- Andrew Faramand — University of Pittsburgh (UPMC) (entry ~2021, PGY 6 in 2026-20)
+- Sakibul Huq — University of Pittsburgh (UPMC) (entry ~2021, PGY - in 2026-20)
+- Anthony Schulien — University of Pittsburgh (UPMC) (entry ~2021, PGY - in 2026-20)
+- Will Shuman — University of Pittsburgh (UPMC) (entry ~2022, PGY 5 in 2026-20)
+- Hussein Abdallah — University of Pittsburgh (UPMC) (entry ~2023, PGY 4 in 2026-20)
+- Stephanie Casillo — University of Pittsburgh (UPMC) (entry ~2023, PGY 4 in 2026-20)
+- Albin John — University of Pittsburgh (UPMC) (entry ~2023, PGY 4 in 2026-20)
+- Oliver Y. Tang — University of Pittsburgh (UPMC) (entry ~2023, PGY 4 in 2026-20)
+- Jordan Petitt — University of Pittsburgh (UPMC) (entry ~2024, PGY 3 in 2026-20)
+- Madi Remick — University of Pittsburgh (UPMC) (entry ~2024, PGY 3 in 2026-20)
+- Jessica Ryvlin — University of Pittsburgh (UPMC) (entry ~2024, PGY 3 in 2026-20)
+- Nikhil Sharma — University of Pittsburgh (UPMC) (entry ~2024, PGY 3 in 2026-20)
+- Gina Watanabe — University of Pittsburgh (UPMC) (entry ~2024, PGY 3 in 2026-20)
+- Ritesh Karsalia — University of Pittsburgh (UPMC) (entry ~2025, PGY 2 in 2026-20)
+- Rohit Prem Kumar — University of Pittsburgh (UPMC) (entry ~2025, PGY 2 in 2026-20)
+- Najib Muhammad — University of Pittsburgh (UPMC) (entry ~2025, PGY 2 in 2026-20)
+- Abhinav Pandey — University of Pittsburgh (UPMC) (entry ~2025, PGY 2 in 2026-20)
+- Sangami Pugazenthi — University of Pittsburgh (UPMC) (entry ~2025, PGY 2 in 2026-20)
+- Sam Adida — University of Pittsburgh (UPMC) (entry ~2026, PGY 1 in 2026-20)
+- Zuhair Hawa — University of Pittsburgh (UPMC) (entry ~2026, PGY 1 in 2026-20)
+- Janesh Karnati — University of Pittsburgh (UPMC) (entry ~2026, PGY 1 in 2026-20)
+- Wade Pingel — University of Pittsburgh (UPMC) (entry ~2026, PGY 1 in 2026-20)
+- Regan M. Shanahan — University of Pittsburgh (UPMC) (entry ~2026, PGY 1 in 2026-20)
+- Jason Chung — UCSF (entry ~2020, PGY 7 in 2026-20)
+- Alexa Semonche — UCSF (entry ~2020, PGY 7 in 2026-20)
+- Clara Starkweather — UCSF (entry ~2020, PGY 7 in 2026-20)
+- David Caldwell — UCSF (entry ~2021, PGY 6 in 2026-20)
+- Alexander Haddad — UCSF (entry ~2021, PGY 6 in 2026-20)
+- Gray Umbach — UCSF (entry ~2021, PGY 6 in 2026-20)
+- Alexander Aabedi — UCSF (entry ~2022, PGY 5 in 2026-20)
+- Reilly Kidwell — UCSF (entry ~2022, PGY 5 in 2026-20)
+- Vijay Letchuman — UCSF (entry ~2022, PGY 5 in 2026-20)
+- John Bernabei — UCSF (entry ~2023, PGY 4 in 2026-20)
+- Mahmoud Elguindy — UCSF (entry ~2023, PGY 4 in 2026-20)
+- Sravani Kondapavulur — UCSF (entry ~2023, PGY 4 in 2026-20)
+- Joseph Chen — UCSF (entry ~2024, PGY 3 in 2026-20)
+- Joseph Oh — UCSF (entry ~2024, PGY 3 in 2026-20)
+- Robert Osorio — UCSF (entry ~2024, PGY 3 in 2026-20)
+- Michael Baumgartner — UCSF (entry ~2025, PGY 2 in 2026-20)
+- Jennifer Guidera — UCSF (entry ~2025, PGY 2 in 2026-20)
+- Maxwell Wang — UCSF (entry ~2025, PGY 2 in 2026-20)
+- Anita Kalluri — UCSF (entry ~2026, PGY 1 in 2026-20)
+- Young Joon Kim — UCSF (entry ~2026, PGY 1 in 2026-20)
+- Youssef Sibih — UCSF (entry ~2026, PGY 1 in 2026-20)
+- Steve Cho — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2020, PGY 7 in 2026-20)
+- Cyrus Elahi — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2020, PGY 7 in 2026-20)
+- Brandon Fox — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2020, PGY 7 in 2026-20)
+- Michael White — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2020, PGY 7 in 2026-20)
+- Anthony Asher — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2021, PGY 6 in 2026-20)
+- Jeff Ehresman — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2021, PGY 6 in 2026-20)
+- Sirin Gandhi — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2021, PGY 6 in 2026-20)
+- Katriel Lee — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2021, PGY 6 in 2026-20)
+- Alexander Greven — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2022, PGY 5 in 2026-20)
+- Samuel Malnik — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2022, PGY 5 in 2026-20)
+- Nicholas Rabah — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2022, PGY 5 in 2026-20)
+- Siddhartha Srivastava — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2022, PGY 5 in 2026-20)
+- Austin Anthony — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2023, PGY 4 in 2026-20)
+- Gabriel Arguelles — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2023, PGY 4 in 2026-20)
+- Alexander Cheung — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2023, PGY 4 in 2026-20)
+- Sofya Norman — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2023, PGY 4 in 2026-20)
+- Alexander Aguirre — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2024, PGY 3 in 2026-20)
+- Stefan Koester — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2024, PGY 3 in 2026-20)
+- Anthony Piscopo — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2024, PGY 3 in 2026-20)
+- Benjamin Reeves — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2024, PGY 3 in 2026-20)
+- Gabrielle Hovis — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2025, PGY 2 in 2026-20)
+- Benjamin Rodriguez — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2025, PGY 2 in 2026-20)
+- Sarah Sternbach — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2025, PGY 2 in 2026-20)
+- Gunther Wong — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2025, PGY 2 in 2026-20)
+- Michael Covell — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2026, PGY 1 in 2026-20)
+- Candace Grisham — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2026, PGY 1 in 2026-20)
+- Noah Nawabi — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2026, PGY 1 in 2026-20)
+- Nicole Perez — Barrow Neurological Institute (St. Joseph's, Phoenix) (entry ~2026, PGY 1 in 2026-20)
+- Karim Ahmed — Johns Hopkins (entry ~2020, PGY 7 in 2026-20)
+- Wataru Ishida — Johns Hopkins (entry ~2020, PGY 7 in 2026-20)
+- Jawad Khalifeh — Johns Hopkins (entry ~2020, PGY 7 in 2026-20)
+- Cory Chang — Johns Hopkins (entry ~2021, PGY 6 in 2026-20)
+- Joe Dardick — Johns Hopkins (entry ~2021, PGY 6 in 2026-20)
+- James Feghali — Johns Hopkins (entry ~2021, PGY 6 in 2026-20)
+- Connor Liu — Johns Hopkins (entry ~2021, PGY 6 in 2026-20)
+- Timour Al-Khindi — Johns Hopkins (entry ~2022, PGY 5 in 2026-20)
+- Liam Hughes — Johns Hopkins (entry ~2022, PGY 5 in 2026-20)
+- Emily Johnson — Johns Hopkins (entry ~2022, PGY 5 in 2026-20)
+- Ethan Srinivasan — Johns Hopkins (entry ~2022, PGY 5 in 2026-20)
+- Joshua Materi — Johns Hopkins (entry ~2023, PGY 4 in 2026-20)
+- Aaron Rusheen — Johns Hopkins (entry ~2023, PGY 4 in 2026-20)
+- Patricia Yee — Johns Hopkins (entry ~2023, PGY 4 in 2026-20)
+- Andrew Hersh — Johns Hopkins (entry ~2024, PGY 3 in 2026-20)
+- Jacob Jo — Johns Hopkins (entry ~2024, PGY 3 in 2026-20)
+- Bridget Nolan — Johns Hopkins (entry ~2024, PGY 3 in 2026-20)
+- Michelle Odonkor — Johns Hopkins (entry ~2024, PGY 3 in 2026-20)
+- Jonathan Ho — Johns Hopkins (entry ~2025, PGY 2 in 2026-20)
+- Sumil Nair — Johns Hopkins (entry ~2025, PGY 2 in 2026-20)
+- Pranav Warman — Johns Hopkins (entry ~2025, PGY 2 in 2026-20)
+- Carly Weber-Levine — Johns Hopkins (entry ~2025, PGY 2 in 2026-20)
+- David Zarrin — Johns Hopkins (entry ~2025, PGY 2 in 2026-20)
+- Meghana Bhimreddy — Johns Hopkins (entry ~2026, PGY 1 in 2026-20)
+- Saket Myneni — Johns Hopkins (entry ~2026, PGY 1 in 2026-20)
+- Megan Parker — Johns Hopkins (entry ~2026, PGY 1 in 2026-20)
+- Harshal Shah — Johns Hopkins (entry ~2026, PGY 1 in 2026-20)
+- Hanna Kemeny — Northwestern University (McGaw) (entry ~2019, PGY 7 in 2025-20)
+- Mykhaylo Krushelnytskyy — Northwestern University (McGaw) (entry ~2019, PGY 7 in 2025-20)
+- Mark Youngblood — Northwestern University (McGaw) (entry ~2019, PGY 7 in 2025-20)
+- Rebecca Du — Northwestern University (McGaw) (entry ~2020, PGY 6 in 2025-20)
+- James Mossner — Northwestern University (McGaw) (entry ~2020, PGY 6 in 2025-20)
+- Pavlos Texakalidis — Northwestern University (McGaw) (entry ~2020, PGY 6 in 2025-20)
+- Rogelio Medina — Northwestern University (McGaw) (entry ~2021, PGY 5 in 2025-20)
+- Ashley Selner — Northwestern University (McGaw) (entry ~2021, PGY 5 in 2025-20)
+- Annelise Sprau — Northwestern University (McGaw) (entry ~2021, PGY 5 in 2025-20)
+- Mark Dapash — Northwestern University (McGaw) (entry ~2022, PGY 4 in 2025-20)
+- Jawad Fares — Northwestern University (McGaw) (entry ~2022, PGY 4 in 2025-20)
+- Lei Liu — Northwestern University (McGaw) (entry ~2022, PGY 4 in 2025-20)
+- Matthew Hagan — Northwestern University (McGaw) (entry ~2023, PGY 3 in 2025-20)
+- Anran Li — Northwestern University (McGaw) (entry ~2023, PGY 3 in 2025-20)
+- Anastasios Roumeliotis — Northwestern University (McGaw) (entry ~2023, PGY 3 in 2025-20)
+- Edgar Petrosyan — Northwestern University (McGaw) (entry ~2024, PGY 2 in 2025-20)
+- Sharbel Romanos — Northwestern University (McGaw) (entry ~2024, PGY 2 in 2025-20)
+- Daniel Zhang — Northwestern University (McGaw) (entry ~2024, PGY 2 in 2025-20)
+- Sachin Govind — Northwestern University (McGaw) (entry ~2025, PGY 1 in 2025-20)
+- Karl Habashy — Northwestern University (McGaw) (entry ~2025, PGY 1 in 2025-20)
+- Zhishuo Wei — Northwestern University (McGaw) (entry ~2025, PGY 1 in 2025-20)
+- Jordan Lam — University of Michigan (entry ~2020, PGY 7 in 2026-20)
+- Oludotun Ogunsola — University of Michigan (entry ~2020, PGY 7 in 2026-20)
+- Arushi Tripathy — University of Michigan (entry ~2020, PGY 7 in 2026-20)
+- Rushikesh Joshi — University of Michigan (entry ~2021, PGY 6 in 2026-20)
+- Mark Zaki — University of Michigan (entry ~2021, PGY 6 in 2026-20)
+- Cylaina Bird — University of Michigan (entry ~2022, PGY 5 in 2026-20)
+- Armin Mortazavi — University of Michigan (entry ~2022, PGY 5 in 2026-20)
+- Edwin Nieblas-Bedolla — University of Michigan (entry ~2022, PGY 5 in 2026-20)
+- Elizabeth Duquette — University of Michigan (entry ~2023, PGY 4 in 2026-20)
+- Luke McVeigh — University of Michigan (entry ~2023, PGY 4 in 2026-20)
+- Emre Kiziltug — University of Michigan (entry ~2024, PGY 3 in 2026-20)
+- Johan Lee — University of Michigan (entry ~2024, PGY 3 in 2026-20)
+- Jordan Norris — University of Michigan (entry ~2025, PGY 2 in 2026-20)
+- Jaimin Patel — University of Michigan (entry ~2025, PGY 2 in 2026-20)
+- Preethi Reddi — University of Michigan (entry ~2025, PGY 2 in 2026-20)
+- Sheel Shah — UCLA (entry ~2020, PGY 7 in 2026-20)
+- Zoe Teton — UCLA (entry ~2020, PGY 7 in 2026-20)
+- Shivani Baisiwala — UCLA (entry ~2021, PGY 6 in 2026-20)
+- Matiar Jafari — UCLA (entry ~2021, PGY 6 in 2026-20)
+- Peter Wu — UCLA (entry ~2021, PGY 6 in 2026-20)
+- Diana Chang — UCLA (entry ~2022, PGY 5 in 2026-20)
+- Aislyn DiRisio — UCLA (entry ~2022, PGY 5 in 2026-20)
+- Sheantel Reihl — UCLA (entry ~2022, PGY 5 in 2026-20)
+- Zachary Olmsted — UCLA (entry ~2023, PGY 4 in 2026-20)
+- Brandon Rogowski — UCLA (entry ~2023, PGY 4 in 2026-20)
+- Alexandra White — UCLA (entry ~2023, PGY 4 in 2026-20)
+- Ryan Gallagher — UCLA (entry ~2024, PGY 3 in 2026-20)
+- Ryan Tripathy — UCLA (entry ~2024, PGY 3 in 2026-20)
+- Bryan Zheng — UCLA (entry ~2024, PGY 3 in 2026-20)
+- Shreya Budhiraja — UCLA (entry ~2025, PGY 2 in 2026-20)
+- Minh Nguyen — UCLA (entry ~2025, PGY 2 in 2026-20)
+- Vaibhavi Shah — UCLA (entry ~2025, PGY 2 in 2026-20)
+- Zachary Bernstein — UCLA (entry ~2026, PGY 1 in 2026-20)
+- Nikita Das — UCLA (entry ~2026, PGY 1 in 2026-20)
+- Jorge Salcedo Sifuentes — UCLA (entry ~2026, PGY 1 in 2026-20)
+- Andrew Hardigan — Duke University (entry ~2020, PGY 7 in 2026-20)
+- Eli Johnson — Duke University (entry ~2020, PGY 7 in 2026-20)
+- Alankrita Raghavan — Duke University (entry ~2020, PGY 7 in 2026-20)
+- Syed Adil — Duke University (entry ~2021, PGY 6 in 2026-20)
+- Kennedy Carpenter — Duke University (entry ~2021, PGY 6 in 2026-20)
+- Mounica Paturu — Duke University (entry ~2021, PGY 6 in 2026-20)
+- Pakawat Chongsathidkiet — Duke University (entry ~2022, PGY 5 in 2026-20)
+- Tara Dalton — Duke University (entry ~2022, PGY 5 in 2026-20)
+- Samantha Spellicy — Duke University (entry ~2022, PGY 5 in 2026-20)
+- Caroline Folz — Duke University (entry ~2023, PGY 4 in 2026-20)
+- Jordan Hatfield — Duke University (entry ~2023, PGY 4 in 2026-20)
+- Benjamin Wissel — Duke University (entry ~2023, PGY 4 in 2026-20)
+- Tyrone DeSpenza — Duke University (entry ~2024, PGY 3 in 2026-20)
+- Julia Duvall — Duke University (entry ~2024, PGY 3 in 2026-20)
+- Benjamin Succop — Duke University (entry ~2024, PGY 3 in 2026-20)
+- Brittany Futch — Duke University (entry ~2025, PGY 2 in 2026-20)
+- Aden Haskell-Mendoza — Duke University (entry ~2025, PGY 2 in 2026-20)
+- Molly Monsour — Duke University (entry ~2025, PGY 2 in 2026-20)
+- Alyssa Bartlett — Duke University (entry ~2026, PGY 1 in 2026-20)
+- Alex Devarajan — Duke University (entry ~2026, PGY 1 in 2026-20)
+- Barbara Hanna — Duke University (entry ~2026, PGY 1 in 2026-20)
+- Nicholas Musgrave — Saint Louis University (SSM Health) (entry ~2021, PGY 6 in 2026-20)
+- Michael Fiorino — Saint Louis University (SSM Health) (entry ~2022, PGY 5 in 2026-20)
+- Jakob Hockman — Saint Louis University (SSM Health) (entry ~2022, PGY 5 in 2026-20)
+- Mayur Patel — Saint Louis University (SSM Health) (entry ~2024, PGY 3 in 2026-20)
+- Sarah Zwick — Saint Louis University (SSM Health) (entry ~2025, PGY 2 in 2026-20)
+- Samuel Baum — Saint Louis University (SSM Health) (entry ~2026, PGY 1 in 2026-20)
+- Kristen Scheitler — Mayo Clinic (Rochester, MN) (entry ~2019, PGY 7 in 2026-20)
+- Salomon Cohen Cohen — Mayo Clinic (Rochester, MN) (entry ~2020, PGY 6 in 2025-20)
+- Nikita Lakomkin — Mayo Clinic (Rochester, MN) (entry ~2020, PGY 7 in 2026-20)
+- Michelle McQuinn — Mayo Clinic (Rochester, MN) (entry ~2020, PGY 7 in 2026-20)
+- Chase Ransom — Mayo Clinic (Rochester, MN) (entry ~2020, PGY 7 in 2026-20)
+- Rahul Kumar — Mayo Clinic (Rochester, MN) (entry ~2021, PGY 6 in 2026-20)
+- Alex Pais — Mayo Clinic (Rochester, MN) (entry ~2021, PGY 6 in 2026-20)
+- Zach Pennington — Mayo Clinic (Rochester, MN) (entry ~2021, PGY 6 in 2026-20)
+- Jenny Perez — Mayo Clinic (Rochester, MN) (entry ~2021, PGY 6 in 2026-20)
+- Eugene Bah — Mayo Clinic (Rochester, MN) (entry ~2022, PGY 5 in 2026-20)
+- Michael Martini — Mayo Clinic (Rochester, MN) (entry ~2022, PGY 5 in 2026-20)
+- Kobie Mensah-Brown — Mayo Clinic (Rochester, MN) (entry ~2022, PGY 5 in 2026-20)
+- Vaishnavi Rao — Mayo Clinic (Rochester, MN) (entry ~2022, PGY 5 in 2026-20)
+- Nicole De La Pena — Mayo Clinic (Rochester, MN) (entry ~2023, PGY 4 in 2026-20)
+- Giorgos Michalopoulos — Mayo Clinic (Rochester, MN) (entry ~2023, PGY 4 in 2026-20)
+- Seth Ransom — Mayo Clinic (Rochester, MN) (entry ~2023, PGY 4 in 2026-20)
+- Graham Johnson — Mayo Clinic (Rochester, MN) (entry ~2024, PGY 3 in 2026-20)
+- Kedous Yared Mekbib — Mayo Clinic (Rochester, MN) (entry ~2024, PGY 3 in 2026-20)
+- Derrick Obiri-Yeboah — Mayo Clinic (Rochester, MN) (entry ~2024, PGY 3 in 2026-20)
+- Julian Rechberger — Mayo Clinic (Rochester, MN) (entry ~2024, PGY 3 in 2026-20)
+- Jeremiah Harrison — Mayo Clinic (Rochester, MN) (entry ~2025, PGY 2 in 2026-20)
+- Lea Scherschinski — Mayo Clinic (Rochester, MN) (entry ~2025, PGY 2 in 2026-20)
+- Damian Teasley — Mayo Clinic (Rochester, MN) (entry ~2025, PGY 2 in 2026-20)
+- Yohan Alexander — Mayo Clinic (Rochester, MN) (entry ~2026, PGY 1 in 2026-20)
+- Rushmin Khazanchi — Mayo Clinic (Rochester, MN) (entry ~2026, PGY 1 in 2026-20)
+- Megan Malueg — Mayo Clinic (Rochester, MN) (entry ~2026, PGY 1 in 2026-20)
+- EmmaJane Rhodenhiser — Mayo Clinic (Rochester, MN) (entry ~2026, PGY 1 in 2026-20)

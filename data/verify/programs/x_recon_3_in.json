@@ -1,0 +1,2928 @@
+[
+ {
+  "program_id": 125,
+  "program": "Wayne State University / Detroit Medical Center Program (CLOSED, not o",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2023-2024",
+    "confidence": "medium",
+    "reason": "; gap judged significant (a continuing resident could have left unseen); RESOLVED in final search: Program closed 2020-06-30 and never re-established. No residents."
+   }
+  ],
+  "residents_we_hold": [],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 45,
+  "program": "MedStar Health Georgetown University Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2015-2016",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   },
+   {
+    "year": "2017-2018",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Alex Tai",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Anthony Conte",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Daniel Felbaum",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "David Zhao",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Ehsan Dowlati",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Emma Celano",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Gnel Pivazyan",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Islam Fayed",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jason McGowan",
+    "entry_year": 2012,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "John Lynes",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Joshua Ryan",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Kyle Mueller",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Nirali Patel",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Raed Moustafa",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2016-2017",
+    "last_pgy": 3,
+    "outcome": "left_destination_unknown"
+   },
+   {
+    "name": "Tianzan Zhou",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Tushar Jha",
+    "entry_year": 2012,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 60,
+  "program": "SSM Health/Saint Louis University School of Medicine Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2015-2016",
+    "confidence": "medium",
+    "reason": "PROGRAM_STATUS.md audit; entering class complete (2 vs 2 matched)"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "PROGRAM_STATUS.md audit; entering class complete (2 vs 1 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Douglas Snyder",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2017-2018",
+    "last_pgy": 2,
+    "outcome": "switched_specialty"
+   },
+   {
+    "name": "Georgios Alexopoulos",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2023-2024",
+    "last_pgy": 6,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Jonathon Lebovitz",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Maheen Khan",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Matthew Pierson",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Michael Prim",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Najib El Tecle",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Ryan Cleary",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2021-2022",
+    "last_pgy": 5,
+    "outcome": "transferred"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 124,
+  "program": "Zucker School of Medicine at Hofstra/Northwell Program 124 programs fo",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2015-2016",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Alexander Gamble",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Amrit Chiluwal",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Daniel Schneider",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "David Bonda",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jung Park",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Katherine Wagner",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Kevin Kwan",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Kevin Shah",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Neal Mehan",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Rachel Pruitt",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Shamik Chakraborty",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Shashank Gandhi",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Timothy White",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Victor Du",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Xiaonan Sun",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 57,
+  "program": "Rutgers Health/New Jersey Medical School Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2015-2016",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 1 matched)"
+   },
+   {
+    "year": "2017-2018",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 1 matched)"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (3 vs 2 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Ahmed Meleis",
+    "entry_year": 2012,
+    "first_seen": "2013-2014",
+    "last_seen": "2016-2017",
+    "last_pgy": 5,
+    "outcome": "completed"
+   },
+   {
+    "name": "Amanda Carpenter",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Arthur Carminucci",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Blake Taylor",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Celina Crisman",
+    "entry_year": 2011,
+    "first_seen": "2013-2014",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "David Slottje",
+    "entry_year": 2012,
+    "first_seen": "2013-2014",
+    "last_seen": "2016-2017",
+    "last_pgy": 5,
+    "outcome": "completed"
+   },
+   {
+    "name": "Elena Solli",
+    "entry_year": 2017,
+    "first_seen": "2019-2020",
+    "last_seen": "2019-2020",
+    "last_pgy": 3,
+    "outcome": "switched_specialty"
+   },
+   {
+    "name": "Irene Say",
+    "entry_year": 2012,
+    "first_seen": "2013-2014",
+    "last_seen": "2016-2017",
+    "last_pgy": 5,
+    "outcome": "completed"
+   },
+   {
+    "name": "Michael Cohen",
+    "entry_year": 2011,
+    "first_seen": "2013-2014",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Neil Majmundar",
+    "entry_year": 2015,
+    "first_seen": "2016-2017",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Nitesh Patel",
+    "entry_year": 2014,
+    "first_seen": "2016-2017",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Omar Iqbal",
+    "entry_year": 2014,
+    "first_seen": "2016-2017",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Robert Hernandez",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Yehuda Herschman",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 25,
+  "program": "Henry Ford Providence Hospital Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2017-2018",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Ascher Kaufmann",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Bina Kviatkovsky",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2016-2017",
+    "last_pgy": 1,
+    "outcome": "switched_specialty"
+   },
+   {
+    "name": "Chad Claus",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Chiu Yuen To",
+    "entry_year": 2011,
+    "first_seen": "2012-2013",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Daniel Carr",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Dejan Slavnic",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Evan Lytle",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Gustavo Anton",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jacob Jasinski",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Justin Thomas",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Kenneth D'Andrea",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Michael Lawless",
+    "entry_year": 2016,
+    "first_seen": "2018-2019",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Ratnesh Mehra",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Richard Cook",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2018-2019",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Robert McCabe",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Sina Rajamand",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2018-2019",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Troy Dawley",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 96,
+  "program": "University of Nebraska Medical Center College of Medicine Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2017-2018",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Adam Grooms",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Alan Wang",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Angelique Walstrom",
+    "entry_year": 2011,
+    "first_seen": "2012-2013",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Carlos Alvarez",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Collin Liu",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Eric Chen",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Frank Mezzacappa",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "J. Will Robbins",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jordan Lacy",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Joseph McMordie",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Joseph Menousek",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Kyle Schmidt",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Landon Ehlers",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Linden Fornoff",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Steven Tenny",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Zack Smith",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2016-2017",
+    "last_pgy": 3,
+    "outcome": "switched_specialty"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 29,
+  "program": "Inova Fairfax Hospital Campus Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2017-2018",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (1 vs 1 matched)"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (1 vs 1 matched)"
+   },
+   {
+    "year": "2023-2024",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (1 vs 1 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Andrew Gong",
+    "entry_year": 2021,
+    "first_seen": "2021-2022",
+    "last_seen": "2025-2026",
+    "last_pgy": 5,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Danielle Dang",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Luke Mugge",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2025-2026",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Omar Awan",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2025-2026",
+    "last_pgy": 6,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Robert C. Sterner",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2023-2024",
+    "last_pgy": 1,
+    "outcome": "left_destination_unknown"
+   },
+   {
+    "name": "Sebastian Salas-Vega",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2025-2026",
+    "last_pgy": 4,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Sethesh Mansinghani",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2019-2020",
+    "last_pgy": 3,
+    "outcome": "switched_specialty"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 114,
+  "program": "University of Washington Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2017-2018",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (4 vs 3 matched)"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (3 vs 3 matched)"
+   },
+   {
+    "year": "2023-2024",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (4 vs 3 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Abdullah Feroze",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Adriel Barrios-Anderson",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2026-2027",
+    "last_pgy": 5,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Ariana Barkley",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Brian Hanak",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Brie White-Dzuro",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2018-2019",
+    "last_pgy": 3,
+    "outcome": "switched_specialty"
+   },
+   {
+    "name": "Chibawanye Ene",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Christine Park",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2024-2025",
+    "last_pgy": 2,
+    "outcome": "left_medicine"
+   },
+   {
+    "name": "Chris Young",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "David Bass",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Dominic Nistal",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2026-2027",
+    "last_pgy": 7,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Eliza Baird-Daniel",
+    "entry_year": 2021,
+    "first_seen": "2021-2022",
+    "last_seen": "2026-2027",
+    "last_pgy": 6,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Evgeniya Tyrtova",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2025-2026",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Fatima El-ghazali",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2026-2027",
+    "last_pgy": 4,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Guilherme Barros",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jacob Ruzevick",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "James Bales",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": null,
+    "outcome": "completed"
+   },
+   {
+    "name": "James Pan",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jessica Eaton",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "John Williams",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Josh Abecassis",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Juan Ruiz Rodriguez",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2024-2025",
+    "last_pgy": 3,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Julian Clarke",
+    "entry_year": 2021,
+    "first_seen": "2021-2022",
+    "last_seen": "2026-2027",
+    "last_pgy": 6,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Kate Carroll",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Katherine Kelly",
+    "entry_year": 2021,
+    "first_seen": "2021-2022",
+    "last_seen": "2024-2025",
+    "last_pgy": 4,
+    "outcome": "left_destination_unknown"
+   },
+   {
+    "name": "Kelly Collins",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Lynn McGrath",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Madeline Greil",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Maggie McGrath",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2025-2026",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Malia McAvoy",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2026-2027",
+    "last_pgy": 7,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Michael Meyer",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Nick Hug",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2026-2027",
+    "last_pgy": 4,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Rajeev Sen",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Robert Bonow",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Robert Buckley",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Samuel Emerson",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Sananthan Sivakanthan",
+    "entry_year": 2017,
+    "first_seen": "2019-2020",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Scott Boop",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2025-2026",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Zachary Abecassis",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2026-2027",
+    "last_pgy": 7,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Zirun Zhao",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2026-2027",
+    "last_pgy": 5,
+    "outcome": "in_training"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 31,
+  "program": "Loma Linda University Health Education Consortium Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2017-2018",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (1 vs 1 matched)"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (1 vs 1 matched)"
+   },
+   {
+    "year": "2023-2024",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (1 vs 1 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Andrew Song",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Dinesh Ramanathan",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2022-2023",
+    "last_pgy": 4,
+    "outcome": "completed"
+   },
+   {
+    "name": "George Hanna",
+    "entry_year": 2013,
+    "first_seen": "2014-2015",
+    "last_seen": "2016-2017",
+    "last_pgy": 4,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Julie Chan",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2016-2017",
+    "last_pgy": 1,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Marc Eastin",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Nathan Oh",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2016-2017",
+    "last_pgy": 3,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Olaide Ajayi",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Paul Krafft",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2016-2017",
+    "last_pgy": 2,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Rafeek Woods",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Vadim Gospodarev",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2026-2027",
+    "last_pgy": 7,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Vikram Chakravarthy",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2016-2017",
+    "last_pgy": 3,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Yasser Jeelani",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2016-2017",
+    "last_pgy": 2,
+    "outcome": "transferred"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2017-2018",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (1 vs 1 matched)"
+   },
+   {
+    "year": "2023-2024",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (0 vs 1 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Benjamin Vidalis",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2019-2020",
+    "last_pgy": 6,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Carlos Sanchez",
+    "entry_year": 2011,
+    "first_seen": "2012-2013",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Dominic Harris",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2019-2020",
+    "last_pgy": 5,
+    "outcome": "transferred"
+   },
+   {
+    "name": "James Messegee",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jordan Davies",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2018-2019",
+    "last_pgy": 1,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Laila Mohammad",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Omar Akbik",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Robert Starling",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2019-2020",
+    "last_pgy": 5,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Ross Green",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2019-2020",
+    "last_pgy": 4,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Sananthan Sivakanthan",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2018-2019",
+    "last_pgy": 2,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Seymur Gahramanov",
+    "entry_year": 2012,
+    "first_seen": "2014-2015",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Syed Faraz Kazim",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2025-2026",
+    "last_pgy": 4,
+    "outcome": "left_destination_unknown"
+   },
+   {
+    "name": "William McKay",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2019-2020",
+    "last_pgy": 3,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Zoya Voronovich",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2019-2020",
+    "last_pgy": 6,
+    "outcome": "transferred"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 53,
+  "program": "Penn State Milton S Hershey Medical Center Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2017-2018",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   },
+   {
+    "year": "2023-2024",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (3 vs 3 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Abraham Schlauderaff",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Brian Anderson",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Chanju Fritch",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2026-2027",
+    "last_pgy": 7,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Christine Mau",
+    "entry_year": 2015,
+    "first_seen": "2016-2017",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "David Hallan",
+    "entry_year": 2020,
+    "first_seen": "2021-2022",
+    "last_seen": "2026-2027",
+    "last_pgy": 7,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Emily Payne Sieg",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Ephraim Church",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Francis Jareczek",
+    "entry_year": 2018,
+    "first_seen": "2021-2022",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jessica Lane",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Justin Davanzo",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Kimberly Kray",
+    "entry_year": 2020,
+    "first_seen": "2021-2022",
+    "last_seen": "2026-2027",
+    "last_pgy": 7,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Kyle Tuohy",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2026-2027",
+    "last_pgy": 5,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Lekhaj Daggubati",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Michael Gigliotti",
+    "entry_year": 2021,
+    "first_seen": "2021-2022",
+    "last_seen": "2026-2027",
+    "last_pgy": 6,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Mitchell Paro",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2026-2027",
+    "last_pgy": 4,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Neel Patel",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Oliver Mrowczynski",
+    "entry_year": 2019,
+    "first_seen": "2021-2022",
+    "last_seen": "2025-2026",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Omar Akel",
+    "entry_year": 2022,
+    "first_seen": "2023-2024",
+    "last_seen": "2026-2027",
+    "last_pgy": 5,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Pratik Rohatgi",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Robert Maurer",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Russell Payne",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Ryan Jafrani",
+    "entry_year": 2014,
+    "first_seen": "2017-2018",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Samer Zammar",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Sandip Savaliya",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Sarah McNutt",
+    "entry_year": 2021,
+    "first_seen": "2021-2022",
+    "last_seen": "2026-2027",
+    "last_pgy": 6,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Sonia Majid",
+    "entry_year": 2019,
+    "first_seen": "2021-2022",
+    "last_seen": "2025-2026",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Varun Padmanaban",
+    "entry_year": 2018,
+    "first_seen": "2021-2022",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Yaw Tachie-Baffour",
+    "entry_year": 2019,
+    "first_seen": "2021-2022",
+    "last_seen": "2025-2026",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 8,
+  "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2015-2016",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap"
+   },
+   {
+    "year": "2017-2018",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap"
+   },
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (1 vs 1 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Brendan Klein",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Cara Rogers",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2018-2019",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Christopher Busch",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Evin Guilliams",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jordan Synkowski",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Joshua Cuoco",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Joshua Prickett",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Michael Benko",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 111,
+  "program": "University of Utah Health Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (3 vs 3 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Aatman Shah",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2017-2018",
+    "last_pgy": 2,
+    "outcome": "switched_specialty"
+   },
+   {
+    "name": "Al-Wala Awad",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Andrea Brock",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Bornali Kundu",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Brandon Sherrod",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Christopher Wilkerson",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Cordell Baker",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Craig Kilburg",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Evan Joyce",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Ilyas Eli",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jian Guan",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jonathan Scoville",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Michael Karsy",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Nam Keun Yoon",
+    "entry_year": 2012,
+    "first_seen": "2015-2016",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Nicole Colwell",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2017-2018",
+    "last_pgy": 1,
+    "outcome": "left_medicine"
+   },
+   {
+    "name": "Nicholas Gamboa",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Robert Kim",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Vijay Ravindra",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 90,
+  "program": "University of Miami/Jackson Health System Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2023-2024",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (3 vs 3 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Adham Khalafallah",
+    "entry_year": 2021,
+    "first_seen": "2021-2022",
+    "last_seen": "2026-2027",
+    "last_pgy": 6,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Aria Jamshidi",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Christian Theodotou",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Daivik Vyas",
+    "entry_year": 2021,
+    "first_seen": "2021-2022",
+    "last_seen": "2026-2027",
+    "last_pgy": 6,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Daniel Eichberg",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Emade Jaman",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2026-2027",
+    "last_pgy": 5,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Evan Luther",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Eva Wu",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2025-2026",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Gregory Brusko",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2026-2027",
+    "last_pgy": 7,
+    "outcome": "in_training"
+   },
+   {
+    "name": "James Boddu",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Joshua Burks",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Katherine Berry",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2022-2023",
+    "last_pgy": 5,
+    "outcome": "completed"
+   },
+   {
+    "name": "Long Di",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2026-2027",
+    "last_pgy": 5,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Michael Kader",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Michael Silva",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2025-2026",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Roberto Perez Roman",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Seth Tigchelaar",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2026-2027",
+    "last_pgy": 4,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Sumedh Shah",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2026-2027",
+    "last_pgy": 7,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Turki Elarjani",
+    "entry_year": 2021,
+    "first_seen": "2021-2022",
+    "last_seen": "2026-2027",
+    "last_pgy": 6,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Tyler Cardinal",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2026-2027",
+    "last_pgy": 5,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Vaidya Govindarajan",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2026-2027",
+    "last_pgy": 4,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Victor Lu",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2026-2027",
+    "last_pgy": 7,
+    "outcome": "in_training"
+   },
+   {
+    "name": "Vignessh Kumar",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2025-2026",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 89,
+  "program": "University of Maryland Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2015-2016",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Aaron Wessell",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "David Hersh",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Elizabeth Le",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Erik Hayman",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Gregory Cannarsa",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Harry Mushlin",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Matthew Kole",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Nathan Pratt",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Salazar Jones",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Timothy Chryssikos",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 63,
+  "program": "SUNY Upstate Medical University Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2015-2016",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 1 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Alexa Bodman",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Ali Hazama",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Carlos Goulart",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Gentian Toshkezi",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Shawn Rai",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Stephanie Zyck",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Timothy Beutler",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Venita Simpson",
+    "entry_year": 2012,
+    "first_seen": "2013-2014",
+    "last_seen": "2014-2015",
+    "last_pgy": 3,
+    "outcome": "transferred"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 79,
+  "program": "University of Cincinnati Medical Center/College of Medicine Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2015-2016",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Brittany Staarmann",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Bryan Krueger",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Christopher Carroll",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jennifer Kosty",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Michael Robinson",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Mohamed Saleh",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Shawn Vuong",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Smruti Patel",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Steven Gogela",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "William Jeong",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Yair Gozal",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2016-2017",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Zachary Plummer",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 28,
+  "program": "Indiana University School of Medicine Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (3 vs 3 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Andrew Koivuniemi",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Brandon Lane",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Christopher Wilson",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Gina Monaco",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Hailey Budnick",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jacob Archer",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jonathan Weyhenmeyer",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Josue Ordaz",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Katherine Berry",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2017-2018",
+    "last_pgy": 1,
+    "outcome": "transferred"
+   },
+   {
+    "name": "Miracle Anokwute",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Mohamed Zaazoue",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Nicolas Villelli",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Shaheryar Ansari",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Stephen Mendenhall",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Thomas Gianaris",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Timothy Kovanda",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Vincent Alentado",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Wei Huff",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 110,
+  "program": "University of Texas Southwestern Medical Center Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Aaron Plitt",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Ankur Patel",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Awais Vance",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Benjamin Kafka",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Carl Youssef",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Chen Shi",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "James Caruso",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Julia Yi",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Kathryn Hoes",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Mary Ashley Liu",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Matthew Davies",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Matthew MacAllister",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Om Neeley",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Robert Funk",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Salah Aoun",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Scott Connors",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Tarek El Ahmadieh",
+    "entry_year": 2014,
+    "first_seen": "2015-2016",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Vin Shen Ban",
+    "entry_year": 2016,
+    "first_seen": "2017-2018",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Vishal Patel",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Zachary Johnson",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ },
+ {
+  "program_id": 84,
+  "program": "University of Illinois College of Medicine at Peoria Program",
+  "kind": "uncertain_year",
+  "years": [
+   {
+    "year": "2018-2019",
+    "confidence": "medium",
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class complete (2 vs 2 matched)"
+   }
+  ],
+  "residents_we_hold": [
+   {
+    "name": "Chris Villar",
+    "entry_year": 2012,
+    "first_seen": "2013-2014",
+    "last_seen": "2017-2018",
+    "last_pgy": 6,
+    "outcome": "completed"
+   },
+   {
+    "name": "Daniel Vollhaber",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Jonathan Garst",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Kendrick Johnson",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Max Kahn",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Nolan Winslow",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Paul MacMahon",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Sujit Bhimireddy",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Sven Ivankovic",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Taylor Sommer",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "last_pgy": 7,
+    "outcome": "completed"
+   },
+   {
+    "name": "Thomas Russell",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "last_pgy": 7,
+    "outcome": "completed"
+   }
+  ],
+  "question": "Find any resident on this program in these years who is NOT in residents_we_hold (welcome/match/graduation/chief posts, group photos with names), and their fate."
+ }
+]

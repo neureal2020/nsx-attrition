@@ -1,0 +1,229 @@
+[
+ {
+  "key": "120:tat:mahlokozera",
+  "name": "Tatenda Mahlokozera",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "WashU current-residents page (fetched 2026-09-29) lists PGY1-7 without him. No other program roster, match list, or dated 2026 source names him. Only sources found are Doximity (410 Gone now) and US News 'Resident Physician, St. Louis', both stale directory listings. Google Scholar still shows WashU affiliation; latest paper is 2025 (JNCI meningioma, co-author). WashU residency news archive stops in 2022. SLU neurosurgery roster does not list him. Could be an unlisted research/leave period, but no dated 2026 source confirms that.",
+  "sources": [
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://scholar.google.com/citations?user=EmZIgysAAAAJ&hl=en",
+   "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php",
+   "https://neuroscienceresearch.wustl.edu/calendar_event/thesis-defense-mstp-neuroscience-program-6-1-2020/"
+  ],
+  "queries_tried": [
+   "\"Tatenda Mahlokozera\" MD",
+   "\"Mahlokozera\" resident",
+   "\"Tatenda Mahlokozera\" residency",
+   "Tatenda Mahlokozera radiation oncology OR neurology OR radiology OR pathology",
+   "\"Mahlokozera\" 2025 OR 2026",
+   "\"T. Mahlokozera\" OR \"Tatenda Mahlokozera\" neurosurgery 2025",
+   "\"Mahlokozera\" \"resident physician\" OR PGY neurology/IM/anesthesiology/psychiatry",
+   "\"Mahlokozera\" Kim lab wustl",
+   "\"Tatenda\" neurosurgery resident Washington University St. Louis 2026",
+   "2025 match \"Mahlokozera\"",
+   "\"Mahlokozera\" Saint Louis University OR SSM Health OR Barnes-Jewish resident",
+   "\"Mahlokozera\" MD PhD physician scientist 2026",
+   "FETCH WashU current residents; WashU residency news archive; Google Scholar profile; SLU neurosurgery residents; Doximity (410)"
+  ]
+ },
+ {
+  "key": "120:mic:jin",
+  "name": "Michael Jin",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "The WashU current-residents page (read in full in Chrome, 2026-09-29) lists PGY3 as Koleske, Moniz Garcia and Polavarapu; Jin is not there, and his WashU people page now returns 404. The Stanford Prolo Lab team page gives his 'Present position: Neurosurgery resident, Washington University', but it is undated and lab-maintained, so it is a lead only. Google Scholar shows no affiliation and nothing after 2024. He is not on the Stanford neurosurgery or SLU neurosurgery rosters. No match list or program post names him elsewhere. The other Michael Jin hits (Stony Brook radiology, NC/CA radiologists, Michael X. Jin) are different people.",
+  "sources": [
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://med.stanford.edu/prolo-lab/team.html",
+   "https://scholar.google.com/citations?user=tJJR3TUAAAAJ&hl=en",
+   "https://med.stanford.edu/neurosurgery/residency/residents.html"
+  ],
+  "queries_tried": [
+   "\"Michael Jin\" MD Stanford 2024",
+   "\"Michael Jin\" resident neurosurgery",
+   "\"Michael Jin\" residency 2025 OR 2026",
+   "\"Michael C. Jin\" MD",
+   "\"Michael Jin\" resident radiation oncology OR radiology OR neurology OR general surgery Stanford MD",
+   "\"Michael Jin\" neurosurgery resident Stanford OR UCSF OR Penn OR Duke 2026",
+   "\"Michael Jin\" Stanford neurosurgery resident 2026 (stanford.edu)",
+   "\"Michael Jin\" Alizadeh lab OR liquid biopsy 2026 resident",
+   "2026 match \"Michael Jin\" PGY-2/advanced radiology/rad onc/anesthesiology",
+   "\"Michael Jin\" MD resident Houston OR Baylor OR UTHealth 2026",
+   "\"Michael Jin, MD\" resident physician 2026",
+   "FETCH WashU current residents (Chrome full text); WashU people page (404); Prolo lab team; Google Scholar; Stanford NSGY residents; X profile (login wall)"
+  ]
+ },
+ {
+  "key": "120:kyl:mcgrath",
+  "name": "Kyle McGrath",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "The WashU current-residents page (read in full in Chrome, 2026-09-29) lists PGY2 as Bauman Graves, Bhole and Driscoll; McGrath is not there, and his WashU people page returns 404. His Google Scholar self-description ('Neurosurgery Resident at Washington University in St Louis') and LinkedIn/ZoomInfo are undated leads only. He is not on the UF (his MD school) or SLU neurosurgery rosters, and no 2026 intern-welcome or match post names him. Kyle McGrath, DO (University of Cincinnati neurosurgery, Ohio University 2021) is a different person. Note: all three WashU people pages (Mahlokozera, Jin, McGrath) 404 and all three are missing from the roster. This could be a site restructure plus a curated roster, but the roster is the only current source and it omits them.",
+  "sources": [
+   "https://neurosurgery.wustl.edu/education/residency/current-residents/",
+   "https://scholar.google.com/citations?user=WXoDGFEAAAAJ&hl=en",
+   "https://neurosurgery.ufl.edu/residency/current-residents/",
+   "https://www.slu.edu/medicine/surgery/neurological-surgery/residency/residents.php"
+  ],
+  "queries_tried": [
+   "\"Kyle McGrath\" MD",
+   "\"Kyle McGrath\" resident",
+   "\"Kyle McGrath\" residency University of Florida 2025 match",
+   "\"Kyle McGrath\" resident radiology OR anesthesiology OR neurology OR general surgery OR internal medicine 2026",
+   "\"Kyle McGrath\" University of Florida neurosurgery OR UF Health resident",
+   "\"McGrath\" neurosurgery PGY-2 2026 resident Virginia OR North Carolina OR Florida",
+   "\"Kyle L. McGrath\" OR \"Kyle M. McGrath\" MD neurosurgery",
+   "\"Kyle McGrath\" welcome new residents 2026 OR incoming residents OR intern class",
+   "\"Kyle McGrath\" University of Missouri OR Kansas OR Vanderbilt OR Virginia resident MD 2026",
+   "FETCH WashU roster (Chrome); WashU people page (404); Google Scholar; UF neurosurgery residents"
+  ]
+ },
+ {
+  "key": "121:jam:smith",
+  "name": "James Smith",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "The Wayback WVU roster of 2014-08-10 (read in Chrome) gives these identifiers: 'James Smith, MD, PGY-2, St. Louis University School of Medicine; BA Integrative Physiology and Psychology, University of Colorado at Boulder; Hometown Denver, Colorado'. No middle initial is given. He left in mid-2014-15. No web profile matches the SLU MD plus CU-Boulder plus Denver combination. James Smiths ruled out: cardiologist James L. Smith (Indiana MD, WashU residency), Myrtle Beach neurosurgeon (ECU MD, Kentucky residency), Charleston WV surgeon/FM James Brandon Smith (Marshall 2007), Fort Morgan CO general surgeon (Texas Tech 1988), and SLU radiology alum (Creighton 1992). CU Anschutz lists an undated 'James Smith, MD' adjoint asst prof (GI/trauma/endocrine surgery) whose training is not given, so it cannot be linked. Not on WVU EM 'where are they now' or WVU radiology alumni pages. A PubMed author search (Smith J + Morgantown 2013-16, Smith J + SLU neuro 2010-14) found nothing relevant. DuckDuckGo returned a CAPTCHA; not bypassed.",
+  "sources": [
+   "https://web.archive.org/web/20140810071738/http://medicine.hsc.wvu.edu:80/Neurosurgery/Residency/Current-Residents",
+   "https://som.cuanschutz.edu/Profiles/Faculty/Profile/12481",
+   "https://medicine.hsc.wvu.edu/em/residents/where-are-they-now/"
+  ],
+  "queries_tried": [
+   "\"James Smith\" MD neurosurgery West Virginia University resident",
+   "\"James Smith\" WVU neurosurgery 2014",
+   "\"James Smith, MD\" residency West Virginia University 2019 OR 2020 graduate",
+   "\"James Smith\" \"Saint Louis University School of Medicine\" 2013 MD",
+   "SLU SOM 2013 match list neurological surgery West Virginia Smith",
+   "\"James Smith\" MD Denver Colorado physician \"Saint Louis University\" residency",
+   "\"James Smith\" general surgeon Denver SLU medical school",
+   "\"James Smith\" general surgery residency graduate 2019-2021 Colorado OR Denver Health",
+   "\"James Smith\" MD \"Saint Louis University\" \"University of Colorado\" Boulder physician",
+   "\"James Smith\" MD SLU SOM 2012 OR 2013 residency radiology/anesthesiology/EM/FM",
+   "\"Jim Smith\" OR \"Jamie Smith\" MD neurosurgery resident West Virginia 2014",
+   "Dr. James Smith Colorado SLU SOM graduated 2012 OR 2013",
+   "\"James Smith\" resident 2015 OR 2016 PGY WVU radiology/anesthesiology/neurology/PM&R",
+   "PubMed: Smith J[au] AND Morgantown 2013-2016; Smith J*[au] AND SLU AND neuro 2010-2014",
+   "FETCH Wayback WVU roster 2014-08-10; CU Anschutz profile 12481; WebMD Charleston WV James Smith; WVU radiology alumni; WVU EM where-are-they-now; DuckDuckGo (CAPTCHA, stopped)"
+  ]
+ },
+ {
+  "key": "48:ann:filley",
+  "name": "Anna Filley",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "After Columbia (2018-22), her dated publications show orthopaedic research, not residency. PubMed: 2023-2026 NASSJ/Spine J/Eur Spine J papers list her at UCSF Dept of Orthopaedic Surgery (Berven spine group). The latest, Injury 2026 (Tile C pelvic screw fixation, Mauffrey), lists her at Denver Health Dept of Orthopedics. ResearchGate (read in Chrome) gives current institution University of Colorado, position 'Medical Doctor', plus a UCSF Orthopaedic Surgery PostDoc entry. Google Scholar has a verified cuanschutz.edu email. So she is academically tied to orthopaedics (UCSF, then Denver Health/CU) but no roster names her as a resident. She is not on the CU orthopaedics residents page (PGY1-5, 2026), the CU neurosurgery roster, the Denver Health ortho team page, or the Denver Health research-resident alumni list. A LinkedIn post snippet (not verifiable; login wall, not bypassed) says she opened an April 2026 Einstein/Montefiore AI workshop. That is a lead only. No destination training program is confirmed.",
+  "sources": [
+   "https://www.researchgate.net/profile/Anna-Filley",
+   "https://pubmed.ncbi.nlm.nih.gov/42202576/",
+   "https://pubmed.ncbi.nlm.nih.gov/41647722/",
+   "https://scholar.google.com/citations?user=gfcj9ikAAAAJ&hl=en",
+   "https://www.neurosurgery.columbia.edu/research/gabriele-bartoli-brain-tumor-lab/lab-members/past-members",
+   "https://medschool.cuanschutz.edu/orthopedics/education/residency/meet-our-residents"
+  ],
+  "queries_tried": [
+   "\"Anna Filley\" MD",
+   "\"Anna Filley\" resident OR residency orthopaedic",
+   "\"Anna C. Filley\" OR \"Filley AC\" 2025 OR 2026",
+   "\"Filley\" University of Colorado resident neurosurgery OR orthopedics OR PM&R",
+   "\"Anna Filley\" Colorado spine OR CU Anschutz",
+   "University of Colorado neurosurgery residency current residents",
+   "\"Filley\" UCSF orthopaedic surgery resident OR fellow spine",
+   "\"Anna Filley\" Denver Health orthopedics OR Mauffrey OR research fellow",
+   "\"Anna Filley\" 2026",
+   "2026 orthopaedic surgery match \"Filley\"",
+   "\"Filley\" Einstein Data Science Institute AI workshop 2026",
+   "\"Anna Filley\" Montefiore OR Einstein",
+   "PubMed Filley A[au] 2021-2026 with affiliations",
+   "FETCH Columbia Bartoli past members; Spine Section; Google Scholar; CU ortho residents; Denver Health research fellowship alumni; Denver Health ortho team; ortho5280 research fellowship; ResearchGate (Chrome); ORCID (empty); LinkedIn (authwall, stopped)"
+  ]
+ },
+ {
+  "key": "63:jef:zhang",
+  "name": "Jeff Zhang",
+  "outcome": "left_destination_unknown",
+  "destination": "Probable: University of Cincinnati Dept of Neurosurgery, in a non-resident role (likely research) from about mid-2025. Role unconfirmed; not a training program.",
+  "year_started_destination": 2025,
+  "evidence": "Identity chain: Upstate Jeff Zhang = Jeff Fang Zhang (Buffalo MD 2023; Vitals 'Jeff F. Zhang, Syracuse neurosurgeon'; LinkedIn 'Resident Doctor at SUNY Upstate', lead only). PubMed shows Jeff F Zhang at Buffalo in 2023-24, SUNY Upstate Neurosurgery in 2024-25 (Cervical diastematomyelia 2024; Co-Pilot Project Lviv 2025), then UC Neurosurgery. The UC papers are Pituitary (accepted 2025-06; Forbes lab, jzneurosurgery@gmail.com), Surg Neurol Int (received 2025-12, accepted 2026-02; Garner/Forbes), and Surg Neurol Int (received 2026-01, accepted 2026-03; Ivey/Kaye/Andaluz/Forbes). A 2026 Roswell Park radiation medicine co-authorship also appears. UC College of Medicine has a profile for him (zhang6jf@ucmail.uc.edu) with no title. He is NOT on the UC neurosurgery current-residents page (PGY1-7 read 2026-09-29; PGY3 = Manjari Daniel only) and not in the UC neurosurgery 'entire directory'. So he has held a UC neurosurgery affiliation since mid-2025, but no page states a resident or fellow position. This is a strong lead only; it does not meet the program-page/announcement/bio standard for a destination.",
+  "sources": [
+   "https://pubmed.ncbi.nlm.nih.gov/42232445/",
+   "https://pubmed.ncbi.nlm.nih.gov/42116902/",
+   "https://pubmed.ncbi.nlm.nih.gov/40591057/",
+   "https://med.uc.edu/depart/neurosurgery/directory/faculty-profile/Index/Pubs/zhang6jf",
+   "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents"
+  ],
+  "queries_tried": [
+   "\"Jeff Zhang\" MD neurosurgery",
+   "\"Jeff F. Zhang\" OR \"Jeffrey Zhang\" University of Cincinnati neurosurgery",
+   "\"Jeff Zhang\" resident Upstate OR Syracuse",
+   "University of Cincinnati neurosurgery residents \"Zhang\"",
+   "\"Jeff Zhang\" OR \"Jeff F. Zhang\" Cincinnati research fellow OR resident neurosurgery 2025 OR 2026",
+   "UC neurosurgery residency current residents Cincinnati PGY",
+   "\"Jeff Zhang\" OR \"Jeff F. Zhang\" 2026 neurosurgery Ohio OR Cincinnati OR UC Health",
+   "\"Jeff Zhang\" resident radiation oncology OR radiology OR neurology OR anesthesiology OR PM&R 2025 OR 2026",
+   "\"Jeff Fang Zhang\" OR \"Jeffrey Fang Zhang\" MD",
+   "PubMed Zhang JF[au] AND neurosurg*[ad] 2023-2026 with affiliations/dates",
+   "FETCH UC profile (WebFetch+Chrome); UC residents directory; UC current residents; UC entire directory; Upstate residents page (403); medRxiv (403)"
+  ]
+ },
+ {
+  "key": "73:mat:burton",
+  "name": "Matthew Burton",
+  "outcome": "transferred",
+  "destination": "University of Missouri-Columbia neurosurgery residency (completed 2019); now practising neurosurgeon, Lake Charles LA",
+  "year_started_destination": 2015,
+  "evidence": "Identity is resolved as the same person. (1) NPPES has only ONE Matthew Burton MD/DO with an NPI enumerated in 2012: Matthew Ryan Burton, NPI 1669730313, enumerated 2012-05-01 (matches a July 2012 intern), taxonomy Neurological Surgery. The other two MD Matthew Burtons are a rheumatologist (2006) and a neurologist (2017), who cannot be a 2012-15 UAMS resident. (2) PubMed PMID 26318129 (received 2015-07) lists Matthew Burton at UAMS Dept of Neurosurgery. PMID 32305600 (2020) lists him at University of Missouri neurosurgery. (3) Current bios (Surgicare of Lake Charles; Neurosurgery Consultants/directories) give LSU Health Shreveport MD, University of Missouri neurosurgery residency, and directories give 'Missouri-Columbia 2012-2019'. (4) Earlier roster work places him at Missouri as PGY-4 in 2015-16. Timeline: UAMS 2012 to 2015 (PGY1-3), Missouri 2015 to 2019 (PGY4-7), graduating in 2019. That fits one 7-year track exactly.",
+  "sources": [
+   "https://surgicarelc.com/our-doctors/matthew-burton-md/",
+   "https://pubmed.ncbi.nlm.nih.gov/26318129/",
+   "https://pubmed.ncbi.nlm.nih.gov/32305600/",
+   "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1669730313"
+  ],
+  "queries_tried": [
+   "\"Matthew Burton\" MD neurosurgery Lake Charles",
+   "\"Matthew Burton\" neurosurgery resident Arkansas OR UAMS OR Missouri",
+   "\"Matthew Burton\" residency neurological surgery University of Missouri 2019",
+   "\"Burton\" UAMS neurosurgery resident 2013 OR 2014 LSU OR Shreveport",
+   "University of Missouri neurosurgery residency alumni graduates Burton 2019",
+   "\"Matthew Burton\" \"University of Arkansas\" neurosurgery Lake Charles OR LSU Health Shreveport",
+   "\"Matthew Burton\" MD Arkansas physician",
+   "\"Matt Burton\" OR \"Matthew Ryan Burton\" neurosurgery resident",
+   "PubMed Burton M*[au] AND (Arkansas OR Missouri OR Shreveport OR Lake Charles) 2010-2022",
+   "NPPES API: NPI 1669730313; all Matthew Burton MD/DO nationally; Matthew Burton AR",
+   "FETCH Surgicare LC bio; nsgyconsult (empty); LCMH (SSL error); chamberofcommerce (403); Wayback UAMS (Chrome permission denied)"
+  ]
+ },
+ {
+  "key": "73:kev:thomas",
+  "name": "Kevin Thomas",
+  "outcome": "left_destination_unknown",
+  "destination": null,
+  "year_started_destination": null,
+  "evidence": "Identity: UAMS MD 2021, matched UAMS neurosurgery 2021 (UAMS match list, per earlier work), and left mid-2022-23. Lead: three Doximity profiles (8e309ff1, 739261e5, 0e217a17) show a UAMS-educated Kevin Thomas in Temple University Hospital neurology residency 2024-2027, Philadelphia, with neurosurgery-related publications. A search snippet also credits him on the UAMS 'Transsulcal parafascicular BrainPath' operative video. But these profiles are internally inconsistent: med school 'Class of 2027', and ABFM Family/Sports Medicine and ABPMR certifications that cannot belong to a resident, so they look merged. The Temple neurology current-residents page (read in full in Chrome, 2026-09-29; PGY1-4) does NOT list him; PGY-4 includes Daniel Thomas (Temple MD), a different person. Temple's post-residency plans page (classes 2022-2026) does not list him either. He is not on UAMS neurology or UAMS neurosurgery current rosters. The UNC 'Kevin O Thomas' (pediatric allergy/immunology research) has no link to an MD. PubMed has no Kevin Thomas with UAMS/Temple neuro affiliation for 2020-26. The Temple neurology lead is therefore unconfirmed.",
+  "sources": [
+   "https://medicine.temple.edu/education/graduate-medical-education/residency-programs-fellowships/neurology/residency-program/current-residents",
+   "https://medicine.temple.edu/education/graduate-medical-education/residency-programs-fellowships/neurology/residency-program/post-residency-plans",
+   "https://www.doximity.com/pub/kevin-thomas-md-739261e5",
+   "https://medicine.uams.edu/neurology/residency/current-residents/"
+  ],
+  "queries_tried": [
+   "\"Kevin Thomas\" MD UAMS neurosurgery",
+   "\"Kevin O. Thomas\" OR \"Kevin O Thomas\" MD",
+   "\"Kevin Thomas\" resident pediatrics OR allergy and immunology UNC Chapel Hill",
+   "Temple University Hospital neurology residency current residents \"Kevin Thomas\"",
+   "\"Kevin Thomas\" neurology resident Temple Philadelphia",
+   "\"Transsulcal parafascicular\" \"brain path\" subcortical lesions Thomas Arkansas",
+   "\"Kevin Thomas\" 2023 OR 2024 match neurology OR PGY-2 UAMS COM 2021",
+   "\"Kevin Thomas\" UAMS resident neurology OR PM&R OR radiology OR anesthesiology OR psychiatry",
+   "\"Kevin Thomas, MD\" neurology resident 2025 OR 2026 PGY",
+   "PubMed Thomas K[au] AND (Arkansas OR Temple OR neurosurg OR neurolog) 2020-2026",
+   "FETCH Doximity x3 (leads); Temple neurology current residents (Chrome full text); Temple post-residency plans; UAMS neurology residents; Wayback Temple (redirected to live)"
+  ]
+ }
+]

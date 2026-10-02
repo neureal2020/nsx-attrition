@@ -1,0 +1,1016 @@
+[
+ {
+  "key": "41:mat:hagan",
+  "name": "Matthew Hagan",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Northwestern current-residents page lists Matthew Hagan, MD, Brown University, PGY4; Google Scholar profile 'Matthew J Hagan' affiliated with Brown; Doximity 'Matthew Hagan' is an Idaho Falls plastic surgeon (namesake, rejected)",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-4 on Northwestern neurosurgery current-residents page (2026-27); no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-4, Northwestern",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "Matthew Hagan, MD | Brown University PGY4"
+   }
+  ],
+  "searches_used": 3
+ },
+ {
+  "key": "41:dan:zhang",
+  "name": "Daniel Zhang",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Northwestern page lists Daniel Zhang, Rush Medical College PGY3; Doximity Chicago profile: Rush Medical College Class of 2024, Neurosurgery Resident Physician at 420 E Superior St (Northwestern); other Doximity Daniel Zhang (Philadelphia, UPenn) is a different person",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-3 on Northwestern neurosurgery current-residents page (2026-27); no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, Northwestern",
+  "agrees_with_db": true,
+  "disagreement": "Input flagged [ambiguous name]; now resolved: Rush MD 2024, Northwestern PGY3 (entry 2024). Not a neurosurgery resident at Penn.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "Daniel Zhang, MD | Rush Medical College PGY3"
+   },
+   {
+    "url": "https://www.doximity.com/pub/daniel-zhang-md-46ed3248",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Chicago IL; Resident Physician; Rush Medical College Class of 2024"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:edg:petrosyan",
+  "name": "Edgar Petrosyan",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Northwestern current-residents page lists Edgar Petrosyan, MD | First Moscow State Medical University PGY3",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-3 on Northwestern neurosurgery current-residents page (2026-27); no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, Northwestern",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "Edgar Petrosyan, MD | First Moscow State Medical University PGY3"
+   },
+   {
+    "url": "http://www.lesniaklab.com/edgar-petrosyan-md.html",
+    "type": "bio",
+    "evidence": "Edgar Petrosyan, MD - Neuro-Oncology Laboratory at Northwestern; ResearchGate: Resident Physician, Northwestern"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:sha:romanos",
+  "name": "Sharbel Romanos",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Northwestern page lists Sharbel Romanos, Pritzker PGY3; Doximity: Pritzker Class of 2024, Chicago IL",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-3 on Northwestern neurosurgery current-residents page (2026-27); no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, Northwestern",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "Sharbel Romanos, MD | University of Chicago Pritzker PGY3"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sharbel-romanos-md",
+    "type": "doximity",
+    "evidence": "University of Chicago Pritzker School of Medicine, Class of 2024 (specialty shown 'Other MD/DO')"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "41:kar:habashy",
+  "name": "Karl Habashy",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Northwestern page lists Karl Habashy, AUB PGY2; LinkedIn/search: BS+MD AUB 2018/2022, then postdoc at Northwestern Malnati Brain Tumor Institute (Sonabend lab); NM 2025 match announcement names Habashy",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-2 on Northwestern neurosurgery current-residents page (2026-27); no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Northwestern",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "Karl Habashy, MD | American University of Beirut PGY2"
+   },
+   {
+    "url": "https://www.linkedin.com/in/karl-habashy/",
+    "type": "search_snippet",
+    "evidence": "Postdoctoral Research Fellow, Malnati Brain Tumor Institute at Northwestern; MD AUB 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "41:sac:govind",
+  "name": "Sachin Govind",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Northwestern page lists Sachin Govind PGY2; Doximity: McGaw Medical Center of Northwestern, Residency Neurological Surgery 2025-2032, Feinberg MD 2025",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-2 on Northwestern neurosurgery current-residents page (2026-27); no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Northwestern",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "Sachin Govind, MD | Northwestern Feinberg PGY2"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sachin-govind-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2025 - 2032, McGaw Medical Center of Northwestern University"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "41:zhi:wei",
+  "name": "Zhishuo Wei",
+  "program_id": 41,
+  "identity": "confirmed",
+  "identity_basis": "Northwestern page lists Zhishuo Wei, Pitt PGY2; Pitt Neurosurgery news: Pitt MD May 2025, began neurosurgery residency at Northwestern June 2025; Doximity Chicago, Pitt Class of 2025",
+  "residency_stated": [
+   {
+    "institution": "McGaw Medical Center of Northwestern University",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as PGY-2 on Northwestern neurosurgery current-residents page (2026-27); no departure evidence",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Northwestern",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.feinberg.northwestern.edu/sites/neurosurgery/education/residents/current-residents/index.html",
+    "type": "program_page",
+    "evidence": "Zhishuo Wei, MD | University of Pittsburgh PGY2"
+   },
+   {
+    "url": "https://www.doximity.com/pub/zhishuo-wei-md",
+    "type": "doximity",
+    "evidence": "University of Pittsburgh School of Medicine Class of 2025; Chicago IL (specialty shown 'Other MD/DO')"
+   },
+   {
+    "url": "https://www.neurosurgery.pitt.edu/news/zhishuo-wei-wins-kurze-award",
+    "type": "news",
+    "evidence": "Wei graduated from Pitt in May 2025 and began neurosurgery residency at Northwestern Memorial in June 2025 (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:nat:todnem",
+  "name": "Nathan Todnem",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 'Nathan Todnem, MD' 2019 and Doximity 'Nathaniel (Nathan) Todnem' MCG residency 2012-2019, Louisville MD 2012",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Augusta University neurosurgery alumni page lists graduation 2019; now practising neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Baptist Health Louisville KY (endovascular/cerebrovascular)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/colleges/medicine/neurosurgery/residents/alumni.php",
+    "type": "program_page",
+    "evidence": "alumni list: ... Augusta University, Neurosurgery 2019"
+   },
+   {
+    "url": "https://www.doximity.com/pub/nathaniel-todnem-md",
+    "type": "doximity",
+    "evidence": "Medical College of Georgia Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery; Louisville KY"
+   },
+   {
+    "url": "https://www.baptisthealth.com/providers/nathaniel-david-todnem-md-neurosurgery",
+    "type": "bio",
+    "evidence": "completed his neurosurgery residency at the Medical College of Georgia, fellowship Mayo Clinic Jacksonville (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:kho:nguyen",
+  "name": "Khoi Nguyen",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 'Khoi Nguyen, MD' 2020 matches Doximity MCG residency 2013-2020 (Doximity page co-authors are MCG residents Ledford, Carr, Baker). Ambiguity of name resolved",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Augusta University neurosurgery alumni page lists graduation 2020; now practising neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Atlanta GA (Wellstar)",
+  "agrees_with_db": true,
+  "disagreement": "Input flagged [ambiguous name]; resolved by matching MCG residency 2013-2020 on Doximity.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/colleges/medicine/neurosurgery/residents/alumni.php",
+    "type": "program_page",
+    "evidence": "alumni list: ... Augusta University, Neurosurgery 2020"
+   },
+   {
+    "url": "https://www.doximity.com/pub/khoi-nguyen-md-740efce9",
+    "type": "doximity",
+    "evidence": "Medical College of Georgia Residency, Neurological Surgery, 2013 - 2020; MCG MD Class of 2013; Atlanta GA"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:jos:kilianski",
+  "name": "Joseph Kilianski",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 2021 and BSW/Healthgrades summary: UT Southwestern MD 2014, neurosurgery residency Augusta University Medical Center (2021), spine fellowship Texas Back Institute 2022",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Augusta University neurosurgery alumni page lists graduation 2021; now practising neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Baylor Scott & White, Grapevine TX",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/colleges/medicine/neurosurgery/residents/alumni.php",
+    "type": "program_page",
+    "evidence": "alumni list: ... Augusta University, Neurosurgery 2021"
+   },
+   {
+    "url": "https://www.bswhealth.com/physician/joseph-kilianski-1",
+    "type": "search_snippet",
+    "evidence": "completed his neurosurgery residency at Augusta University Medical Center (2021), spine fellowship Texas Back Institute (2022)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/joe-kilianski-md",
+    "type": "doximity",
+    "evidence": "Page opened: 'Public profile not found or disabled'"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "42:chr:banerjee",
+  "name": "Christopher Banerjee",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 'Christopher Banerjee, MD, MPH' 2022; Doximity 'Christopher Rajiv Banerjee MD MPH' neurosurgery, co-author with MCG faculty (Rutkowski, Pare); MCG awards 2020/2022 per bio",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Augusta University neurosurgery alumni page lists graduation 2022; now practising neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine), Northside/Advanced Neuro Associates, Lawrenceville GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/colleges/medicine/neurosurgery/residents/alumni.php",
+    "type": "program_page",
+    "evidence": "alumni list: ... Augusta University, Neurosurgery 2022"
+   },
+   {
+    "url": "https://www.doximity.com/pub/christopher-banerjee-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Lawrenceville GA; Miami Miller MD 2015; GA license from 2022"
+   },
+   {
+    "url": "https://advancedneuroassoc.com/providers/christopher-banerjee",
+    "type": "bio",
+    "evidence": "neurosurgeon Lawrenceville GA; Exemplary Teaching Award MCG 2022 (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:tyl:sparks",
+  "name": "Tyler Sparks",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 2023; FAU MD 2016; Doximity GA license ends 2023; Phoenix Children's page lists Tyler G. Sparks, MD, MS as Pediatric Neurosurgery Fellow",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Augusta University neurosurgery alumni page lists graduation 2023; now practising neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgery (fellow, Phoenix Children's/Barrow, then Prisma Health Greenville pediatric neurosurgery per Prisma page)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/colleges/medicine/neurosurgery/residents/alumni.php",
+    "type": "program_page",
+    "evidence": "alumni list: ... Augusta University, Neurosurgery 2023"
+   },
+   {
+    "url": "https://www.doximity.com/pub/tyler-sparks-md",
+    "type": "doximity",
+    "evidence": "Doximity: Resident Physician, Greenville SC; FAU Class of 2016; GA license 2016-2023, AZ license 2023"
+   },
+   {
+    "url": "https://phoenixchildrens.org/healthcare-professionals/continuing-medical-education/nsgr-neuroscience-mm-neurosurgery-tyler-g-sparks-md-ms",
+    "type": "search_snippet",
+    "evidence": "Tyler G. Sparks, MD, MS ... Pediatric Neurosurgery Fellow (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:ear:jones",
+  "name": "Earl Jones",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 'Earl \"Dane\" Jones, MD' 2024; Doximity Earl Jones neurosurgery, Brody 2017, GA license 2017-2024; MCG resident page listed Jones with Brody ECU",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Augusta University neurosurgery alumni page lists graduation 2024; now practising neurosurgery; Doximity lists an ABOG board entry (likely a Doximity data error; not used)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Memphis TN / Southaven MS area (per Doximity/search)",
+  "agrees_with_db": true,
+  "disagreement": "Alumni page says 2024; one search snippet (drgalen/other) says 2025 - minor date discrepancy only.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/colleges/medicine/neurosurgery/residents/alumni.php",
+    "type": "program_page",
+    "evidence": "alumni list: ... Augusta University, Neurosurgery 2024"
+   },
+   {
+    "url": "https://www.doximity.com/pub/earl-jones-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Memphis TN; Brody ECU Class of 2017; GA license 2017-2024; pubs by 'Earl Dane Jones'"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:lyd:kaoutzani",
+  "name": "Lydia Kaoutzani",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 2025; AdventHealth/Wellstar bios: Sydney MD, neurosurgery residency Augusta University; Doximity Rome GA",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Augusta University neurosurgery alumni page lists graduation 2025; now practising neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, AdventHealth Medical Group, Rome GA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/colleges/medicine/neurosurgery/residents/alumni.php",
+    "type": "program_page",
+    "evidence": "alumni list: ... Augusta University, Neurosurgery 2025"
+   },
+   {
+    "url": "https://www.doximity.com/pub/lydia-kaoutzani-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Rome GA; Univ of Sydney Class of 2016; GA license 2025"
+   },
+   {
+    "url": "https://www.adventhealth.com/doctors/lydia-kaoutzani-md-1508387499",
+    "type": "bio",
+    "evidence": "completed her neurosurgery residency at Augusta University's Medical College of Georgia (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:luc:debs",
+  "name": "Luca Debs",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "Alumni page 2026; Doximity Luca Debs neurosurgery, Miami MD 2019, GA license 2019-2026, co-authors are MCG residents (Carr)",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Augusta University neurosurgery alumni page lists graduation 2026; now practising neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, HCA Florida Ocala Hospital (Ocala FL)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/colleges/medicine/neurosurgery/residents/alumni.php",
+    "type": "program_page",
+    "evidence": "alumni list: ... Augusta University, Neurosurgery 2026"
+   },
+   {
+    "url": "https://www.doximity.com/pub/luca-debs-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Ocala FL; Miami Miller Class of 2019; GA license 2019-2026; FL license 2026; HCA Florida Ocala press mention Sept 2026"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:ken:james",
+  "name": "Kenneth James",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "MCG page + Doximity residency MCG 2020-2027",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on MCG neurosurgery current residents page as PGY 7",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-7, Medical College of Georgia",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/mcg/neurosurgery/residents/",
+    "type": "program_page",
+    "evidence": "MCG resident profile: PGY 7, UT San Antonio (MD 2020)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kenneth-james-md-28f7851d",
+    "type": "doximity",
+    "evidence": "Medical College of Georgia Residency, Neurological Surgery, 2020 - 2027; UT Health San Antonio Class of 2020"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:chr:carr",
+  "name": "Christopher Carr",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "MCG page lists Christopher Carr, MD, MPH PGY6, Tulane; search snippet: 'PGY-2 Resident ... joined the program in 2022'; consistent with phase-2 transfer-in at PGY-2 in 2022-23 (prior Tulane/Ochsner path not independently verified here)",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on MCG neurosurgery current residents page as PGY 6; earlier MCG profile version listed him as PGY-2 who 'joined the program in 2022' (search snippet), consistent with transfer-in at PGY-2 2022-23",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-6, Medical College of Georgia",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/mcg/neurosurgery/residents/",
+    "type": "program_page",
+    "evidence": "MCG resident profile: PGY 6, Tulane (MD 2018)"
+   },
+   {
+    "url": "https://www.augusta.edu/mcg/neurosurgery/residents/",
+    "type": "search_snippet",
+    "evidence": "Christopher Carr, MD, MPH ... PGY-2 ... graduated Tulane 2018 ... joined the program in 2022 (search summary)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:mat:lee",
+  "name": "Matthew Lee",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "MCG page lists Matthew Lee, MD PGY6, UTHSC; earlier page listed PGY2 UTHSC 2021",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on MCG neurosurgery current residents page as PGY 6; earlier profile version listed as PGY-2, UTHSC Class of 2021 (search snippet)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-6, Medical College of Georgia",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/mcg/neurosurgery/residents/",
+    "type": "program_page",
+    "evidence": "MCG resident profile: PGY 6, Univ of Tennessee HSC (MD 2021)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:dav:baker",
+  "name": "David Baker",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "MCG page lists David Baker, III, MD PGY5, UAMS. Doximity 'David Baker, MD Conway AR' lists ABPN Neurology/Vascular Neurology certification - a different person (namesake), rejected",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on MCG neurosurgery current residents page as PGY 5; Vanderbilt/prior-year claim from phase 2 not verified here",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-5, Medical College of Georgia",
+  "agrees_with_db": true,
+  "disagreement": "Input notes transfer-in at PGY-2; not independently verified (no Doximity match)",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/mcg/neurosurgery/residents/",
+    "type": "program_page",
+    "evidence": "MCG resident profile: PGY 5, Univ of Arkansas for Medical Sciences"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:man:revuelta",
+  "name": "Manuel Revuelta",
+  "program_id": 42,
+  "identity": "probable",
+  "identity_basis": "Emory bio 'J. Manuel Revuelta-Barbero, MD, PhD' (MD Univ Nacional de Cordoba 2009, PhD Madrid) lists PGY-5 Emory neurosurgery resident; same name as recorded as Emory transfer target in input notes; not on MCG 2026-27 page",
+  "residency_stated": [
+   {
+    "institution": "Emory University",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "transferred",
+  "outcome_detail": "Not on MCG current page. Emory neurosurgery resident bio lists him as PGY-5 in 2026-27, so joined Emory as PGY-2 in 2023-24, consistent with transfer after PGY-1 at MCG 2022-23 (Emory bio itself does not mention MCG)",
+  "year_left": 2023,
+  "destination_program": "Emory University neurosurgery",
+  "destination_start_year": 2023,
+  "current": "neurosurgery resident PGY-5, Emory University",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.emory.edu/departments/neurosurgery/education/residency/resident_bios/revuelta-barbero_manuel.html",
+    "type": "bio",
+    "evidence": "PGY-5 neurosurgery resident at Emory; MD Universidad Nacional de Cordoba 2009, PhD Madrid"
+   }
+  ],
+  "searches_used": 2,
+  "ss": 2
+ },
+ {
+  "key": "42:wil:woodall",
+  "name": "William Woodall",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "MCG page PGY4 WVU; Doximity William John Woodall Augusta neurosurgery, WVU 2023 (other Doximity William Woodall III Birmingham AL is a different person)",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on MCG neurosurgery current residents page as PGY 4",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-4, Medical College of Georgia",
+  "agrees_with_db": true,
+  "disagreement": "Input flagged [ambiguous name]; resolved via WVU 2023 MD and MCG page.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/mcg/neurosurgery/residents/",
+    "type": "program_page",
+    "evidence": "MCG resident profile: PGY 4, West Virginia Univ (MD 2023)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/william-woodall-md-3348ea05",
+    "type": "doximity",
+    "evidence": "William John Woodall MD, Neurosurgery, Augusta GA, WVU Class of 2023, GA license 2023-2027"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:meh:mehra",
+  "name": "Mehul Mehra",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "MCG page PGY3; Doximity Augusta, MCG MD 2024, co-authors are MCG neurosurgery residents",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on MCG neurosurgery current residents page as PGY 3",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, Medical College of Georgia",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/mcg/neurosurgery/residents/",
+    "type": "program_page",
+    "evidence": "MCG resident profile: PGY 3, Medical College of Georgia (MD 2024)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/mehul-mehra-md",
+    "type": "doximity",
+    "evidence": "Mehul Mehra MD, Augusta GA, MCG at Augusta University Class of 2024 (listed as 'Other MD/DO')"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:wil:ledford",
+  "name": "William Ledford",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "MCG page PGY2 'William Luke Ledford'; Doximity William Luke Ledford Augusta neurosurgery (stub); ResearchGate 'Luke Ledford, neurosurgery resident, Augusta University'",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on MCG neurosurgery current residents page as PGY 2",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, Medical College of Georgia",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/mcg/neurosurgery/residents/",
+    "type": "program_page",
+    "evidence": "MCG resident profile: PGY 2, Medical College of Georgia"
+   },
+   {
+    "url": "https://www.doximity.com/pub/william-ledford-md",
+    "type": "doximity",
+    "evidence": "William Luke Ledford MD, Neurosurgery, Augusta GA, 1120 15th St; GA license 2025-2027 (stub profile, no education listed)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "42:wil:snyder",
+  "name": "William Snyder",
+  "program_id": 42,
+  "identity": "confirmed",
+  "identity_basis": "MCG page lists William Snyder, MD Intern PGY1, Indiana Univ School of Medicine, Knoxville TN. Doximity William Snyder Jr. (Knoxville neurosurgeon) is an established attending - namesake, rejected",
+  "residency_stated": [
+   {
+    "institution": "Medical College of Georgia (Augusta University)",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed on MCG neurosurgery current residents page as PGY 1",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-1, Medical College of Georgia",
+  "agrees_with_db": true,
+  "disagreement": "Input flagged [ambiguous name]; identity via MCG program page only.",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.augusta.edu/mcg/neurosurgery/residents/",
+    "type": "program_page",
+    "evidence": "MCG resident profile: PGY 1, Indiana University (MD)"
+   }
+  ],
+  "searches_used": 2
+ }
+]

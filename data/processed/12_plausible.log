@@ -1,0 +1,34 @@
+=== plausibility verdicts ===
+  no_event_year    51
+  plausible        23
+  no_npi           10
+  too_senior       7
+  ambiguous_npi_n6_2011-2026 2
+  ambiguous_npi_n20_2006-2026 2
+  ambiguous_npi_n10_2005-2023 2
+  ambiguous_npi_n3_2018-2020 1
+  ambiguous_npi_n3_2013-2020 1
+  ambiguous_npi_n3_2007-2021 1
+  ambiguous_npi_n3_2005-2023 1
+  ambiguous_npi_n30_2005-2025 1
+
+=== flagged as too senior (expected: chairs/faculty) ===
+  Paul J. Camarata         match      event=2023  enumerated=2006  off by -17y
+  Derek Li                 graduation event=2026  enumerated=2006  off by -13y
+  Matthew Hunt             match      event=2018  enumerated=2007  off by -11y
+  Greg Zipfel              graduation event=2021  enumerated=2006  off by -8y
+  Jon T. Willie            graduation event=2021  enumerated=2007  off by -7y
+  Clark Chen               graduation event=2018  enumerated=2005  off by -6y
+  Stephen Haines           graduation event=2018  enumerated=2006  off by -5y
+
+=== kept as plausible ===
+  Anthony Alvarado         graduation event=2022  enumerated=2015
+  Amit Goyal               graduation event=2018  enumerated=2011
+  Akshay Gupte             graduation event=2018  enumerated=2010
+  Adip Bhargav             match      event=2021  enumerated=2021
+  Rakan Dodin              match      event=2021  enumerated=2021
+  Heather Minchew          match      event=2022  enumerated=2022
+  Brandon Sharkey          match      event=2024  enumerated=2024
+  Shiwei Huang             match      event=2020  enumerated=2018
+  David Freeman            graduation event=2022  enumerated=2015
+  Lauren Sand              graduation event=2022  enumerated=2015

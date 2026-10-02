@@ -1,0 +1,108 @@
+[
+ {
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "target_years": [
+   2015
+  ],
+  "handle": "@UAMSneurosurg",
+  "names_found": [],
+  "missing_from_our_data": [],
+  "note": "Handle @UAMSneurosurg joined Aug 2018, so no 2015 Match posts exist there. 5 searches (X handle, UAMS match-day news, 2015 intern/classmate queries, UAMS-trained grad bios) surfaced only Marcus Stephens (held, entry 2015). Missing 2015 matchee not identified."
+ },
+ {
+  "program_id": 34,
+  "program": "Loyola University Medical Center Program",
+  "target_years": [
+   2016
+  ],
+  "handle": "@LUNeurosurgery",
+  "names_found": [
+   {
+    "name": "Miri Kim",
+    "year": 2016,
+    "context": "intern 2016; alumni page lists her as 2023 graduate (Neuro-Oncology Fellowship, Yale)",
+    "source": "https://www.loyolamedicine.org/gme/residencies/neurosurgery/alumni",
+    "snippet_only": false
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "Handle @LUNeurosurgery joined June 2020, so no 2016 Match posts exist there. Alumni page lists only Miri Kim for 2023 (the class expected to graduate in 2023), so a second 2016 matchee, if one existed, did not graduate on schedule at Loyola. Their name was not found in 6 searches (X, 2016 match lists, SDN Stritch list, publication affiliation queries)."
+ },
+ {
+  "program_id": 78,
+  "program": "University of Chicago Program",
+  "target_years": [
+   2018
+  ],
+  "handle": "@UChiNeurosurg",
+  "names_found": [],
+  "missing_from_our_data": [],
+  "note": "6 searches (X welcome/match posts, the 2018 class with Batbold, the 2025 graduating class, SDN 2018 match lists, the Pritzker 2018 match page, which returned 403, and 2019/2020 X posts) did not name a second 2018 matchee. Held 2018 entrant: Anudariya Batbold. Missing matchee not identified."
+ },
+ {
+  "program_id": 31,
+  "program": "Loma Linda University Health Education Consortium Program",
+  "target_years": [
+   2021
+  ],
+  "handle": null,
+  "names_found": [],
+  "missing_from_our_data": [],
+  "note": "No X handle found. Instagram @lomalindaneurosurgery exists but no indexed 2021 post was found (not opened because of the login wall). The current LLU residents page (fetched) has no PGY-6, so no 2021 entrant is on the roster now. Its PGY-7 Youssef Hamade, PGY-5 Conteh/Janssen and PGY-4 Roa Loor are already in our data (several transferred in). Implication: the 2021 matchee, if they started, is no longer at LLU. 6 searches did not find their name."
+ },
+ {
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "target_years": [
+   2023
+  ],
+  "handle": null,
+  "names_found": [
+   {
+    "name": "Lauren Culver",
+    "year": 2023,
+    "context": "match (Wayne State Class of 2023 matched Neurosurgery, Methodist Hospital Houston)",
+    "source": "https://today.wayne.edu/medicine/news/2023/03/17/class-of-2023-match-participants-celebrate-unprecedented-100-match-rate-at-match-day-50688",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [],
+  "note": "No neurosurgery X handle was found; only other Houston Methodist departments post on X. The program has 2 NRMP spots a year, and both 2023 entrants we hold are confirmed: Culver (Wayne State match list) and Mohiuddin (TTUHSC MD 2023, per a Doximity lead). Unconfirmed lead: a web-search summary said a University of Illinois College of Medicine (Chicago campus) 2023 student matched Neurological Surgery at Houston Methodist. The UIC Class-of-2023 article and the UIC match-results page (which now shows 2026 only) did not confirm it, and the summary gave no name. The search summarizer may have mixed up programs, so treat this as unverified. 6 searches."
+ },
+ {
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine Program",
+  "target_years": [
+   2023
+  ],
+  "handle": "@UNMNeurosurgery",
+  "names_found": [
+   {
+    "name": "Samantha Varela",
+    "year": 2023,
+    "context": "match: her own X post during Match Week 2023, 'I'm going to be a brain surgeon'. The Candle (Albuquerque) says she graduated UNM SOM in 2023, matched into UNM's neurosurgery residency, then left UNM for a neurosurgery program in Texas.",
+    "source": "https://x.com/Varelasamantha1/status/1635320481921536005",
+    "snippet_only": true
+   }
+  ],
+  "missing_from_our_data": [
+   {
+    "name": "Samantha Varela",
+    "entry_year": 2023,
+    "first_seen": null,
+    "last_seen": null,
+    "last_pgy": 1,
+    "outcome": "transferred",
+    "destination": "Baylor College of Medicine neurosurgery (BCM residents page lists her as PGY-4 in 2026-27; we already hold her at program_id 5 with entry 2023, first_seen 2024-2025)",
+    "fate_sources": [
+     "https://thecandlepublishing.com/is-unm-throwing-another-neurosurgery-resident-under-the-bus-to-protect-highly-paid-faculty-attending-doctors/",
+     "https://thecandlepublishing.com/unm-leaders-silent-on-roles-played-in-recruitment-of-and-subsequent-reported-mistreatment-of-hispanic-woman-resident-doctor/",
+     "https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents",
+     "https://hsc.unm.edu/news/2022/09/samantha-varela-medical-student-neurosurgery.html"
+    ]
+   }
+  ],
+  "note": "Varela is in merged_final only under Baylor (pid 5), not UNM. The best reading is that she matched UNM in 2023, did PGY-1 there in 2023-24, and moved to BCM in 2024 as PGY-2; a PGY-4 listing in 2026-27 fits that path. The exact date she left UNM is not stated in any source, and last_pgy 1 at UNM is inferred. A UNM roster snapshot from about 2024-25 (our-residents.html) shows Kazim PGY-4, Rumalla PGY-3, and Bhamidipati/Peart/Marquez PGY-1, with no PGY-2, so no 2023 entrant was still at UNM by then. Outcome is transferred, not attrition. 8 searches (2 extra for fate after the name was found)."
+ }
+]

@@ -1,0 +1,58 @@
+import sys; sys.path.insert(0,'scratch')
+from add052 import add
+add("53:dav:mcdermott",identity="confirmed",identity_basis="Doximity David McDermott MD (Salisbury MD): Penn State Hershey Neurological Surgery residency 2014-2016, Commonwealth Medical College MD 2014, PA license 2014-2016",
+ residency_stated=[{"institution":"Penn State Milton S Hershey Medical Center","specialty":"neurosurgery","start":2014,"end":2016}],
+ outcome="switched_specialty",outcome_detail="Left Penn State neurosurgery after 2 years (2016); board-certified radiation oncology (American Board of Radiology); WV license 2018-2021 (WVU radiation oncology residency per search snippet), now radiation oncologist TidalHealth, Salisbury MD.",
+ year_left=2016,destination_program="West Virginia University radiation oncology",destination_start_year=2017,current="radiation oncologist, TidalHealth, Salisbury MD",
+ agrees_with_db=True,disagreement="DB: outcome unknown; now resolved: switched to radiation oncology",
+ checks={"google":"found","doximity":"found"},abns_certified=False,
+ sources=[{"url":"https://www.doximity.com/pub/david-mcdermott-md-da10cb08","type":"doximity","evidence":"Penn State Milton S Hershey Medical Center Residency, Neurological Surgery, 2014 - 2016; Commonwealth Medical College Class of 2014; American Board of Radiology Radiation Oncology"},{"url":"https://tidalhealth.org/doctor/david-mcdermott","type":"search_snippet","evidence":"David McDermott, MD, Radiation Oncology (residency in radiation oncology at West Virginia University per search summary)"}],searches_used=2)
+add("53:den:madden",identity="ambiguous",identity_basis="Only NPI-type directory listings: 'Dennis Madden, Student in an Organized Health Care Education/Training Program' at 500 University Dr, Hershey PA (NPI assigned April 2021), CareDash 'Resident - Hershey PA'; nothing else",
+ residency_stated=[],
+ outcome="unknown",outcome_detail="No bio, no Doximity, no destination found; directory listings only show a Hershey trainee NPI from April 2021. Not on the current Penn State neurosurgery roster.",
+ year_left=2022,destination_program=None,destination_start_year=None,current="unknown",
+ agrees_with_db=True,disagreement="",
+ checks={"google":"found","doximity":"not_found"},abns_certified=None,
+ sources=[{"url":"https://opennpi.com/provider/1982285599","type":"search_snippet","evidence":"Dennis Madden, 500 University Dr, Hershey, PA, Student in an Organized Health Care Education/Training Program"}],searches_used=3)
+add("53:sam:alsalek",identity="confirmed",identity_basis="Penn State College of Medicine directory / LinkedIn: 'Samir Alsalek, MD - Neurosurgery Resident', PGY-1 Neurosurgery Residency at Penn State; AANS 2024 neurosurgery posters",
+ residency_stated=[{"institution":"Penn State Milton S Hershey Medical Center","specialty":"neurosurgery","start":2025,"end":None}],
+ outcome="unknown",outcome_detail="Search snippet: 'PGY-1 Resident in the Neurosurgery Residency at Penn State College of Medicine'. Not on current Penn State neurosurgery resident roster (PGY-1: Basem, Halloran). No destination found; Doximity profile not found.",
+ year_left=2026,destination_program=None,destination_start_year=None,current="unknown",
+ agrees_with_db=True,disagreement="",
+ checks={"google":"found","doximity":"not_found"},abns_certified=False,
+ sources=[{"url":"https://med.psu.edu/departments-faculty/directory/samir-alsalek","type":"search_snippet","evidence":"Samir Alsalek | College of Medicine | Penn State (PGY-1 Resident, Neurosurgery Residency)"},{"url":"https://med.psu.edu/residencies-fellowships/professional-programs/neurosurgery-residency/current-residents","type":"program_page","evidence":"current roster PGY-1: Jade Basem, Patrick Halloran; Alsalek not listed"}],searches_used=3)
+add("55:amb:oros",identity="probable",identity_basis="Amber M. Oros DO, MSU College of Osteopathic Medicine 2012 (matches 2012 entry), residency at Arrowhead Regional Medical Center (Colton CA, Riverside/San Bernardino area), internship McLaren Macomb 2013; distinctive name",
+ residency_stated=[{"institution":"Arrowhead Regional Medical Center (WebMD residency)","specialty":"unspecified","start":None,"end":None}],
+ outcome="switched_specialty",outcome_detail="Directory profiles list emergency medicine / family medicine / surgery specialties and occupational & environmental medicine (West Covina CA, Sarasota FL); no neurosurgery practice or ABNS. Program dates not stated; left RUHS neurosurgery (DB last seen 2016-17) for a non-neurosurgery career (emergency/occupational medicine).",
+ year_left=2017,destination_program=None,destination_start_year=None,current="emergency/occupational medicine physician, California/Florida",
+ agrees_with_db=True,disagreement="DB: outcome unknown; sources indicate non-neurosurgery career",
+ checks={"google":"found","doximity":"not_found"},abns_certified=False,
+ sources=[{"url":"https://doctor.webmd.com/doctor/amber-oros-29cd4fae-dec5-11e7-9f4c-005056a225bf-overview","type":"search_snippet","evidence":"Dr. Amber Oros, DO, Emergency Medicine Physician; MSU College of Osteopathic Medicine 2012; residency at Arrowhead Regional Medical Center; specialties Emergency Medicine, Family Medicine, Surgery"},{"url":"https://www.healthgrades.com/physician/dr-amber-oros-ze4cf","type":"search_snippet","evidence":"Occupational & Environmental Medicine, West Covina CA; internship McLaren Macomb 2013"}],searches_used=4)
+add("55:jus:watkins",identity="confirmed",identity_basis="Doximity Justen Gregory Watkins DO: 'OPTI-West/Riverside University Health System MC, Residency, Neurological Surgery, 2013-2019', AZCOM Midwestern MD/DO 2013; ENT publication with Miulli (RUHS) 2017",
+ residency_stated=[{"institution":"OPTI-West/Riverside University Health System MC","specialty":"neurosurgery","start":2013,"end":2019}],
+ outcome="unknown",outcome_detail="Doximity lists neurosurgery residency 2013-2019 (6 years) but he practises family/integrative/functional medicine and urgent care (Logan UT; certified by American Board of Urgent Care Medicine, not ABNS). Unclear whether he finished the RUHS program or left; not practising neurosurgery. UT license from 2019. No neurosurgery practice evidence.",
+ year_left=2019,destination_program=None,destination_start_year=None,current="family/integrative/functional medicine physician, Logan UT",
+ agrees_with_db=True,disagreement="DB: last seen 2016-17; Doximity lists residency through 2019 - may have finished or left later than roster suggests; either way not practising neurosurgery",
+ checks={"google":"found","doximity":"found"},abns_certified=False,
+ sources=[{"url":"https://www.doximity.com/pub/justen-watkins-do","type":"doximity","evidence":"OPTI-West/Riverside University Health System MC Residency, Neurological Surgery, 2013 - 2019; Family Medicine Logan UT; American Board of Urgent Care Medicine Diplomat"}],searches_used=2)
+add("56:jos:morrison",identity="confirmed",identity_basis="Doximity Joe Morrison: 'Neurosurgical Resident at Rush University Medical Center', Univ. of Illinois College of Medicine Class of 2017, IL license 2018-2024; Rush neurointerventional publications",
+ residency_stated=[{"institution":"Rush University Medical Center","specialty":"neurosurgery","start":2018,"end":None}],
+ outcome="unknown",outcome_detail="Doximity now shows 'Resident Physician', Aurora CO (University of Colorado Anschutz campus address 1665 Aurora Ct), IL license lapses 2024; not on Rush current roster. Destination program/specialty not stated (possibly a radiology/neuro-endovascular pathway - unverified).",
+ year_left=2024,destination_program=None,destination_start_year=None,current="resident physician, Aurora CO (specialty unstated)",
+ agrees_with_db=True,disagreement="",
+ checks={"google":"found","doximity":"found"},abns_certified=False,
+ sources=[{"url":"https://www.doximity.com/pub/joe-morrison-md","type":"doximity","evidence":"Resident Physician, Aurora CO; Summary: Neurosurgical Resident at Rush University Medical Center; University of Illinois College of Medicine Class of 2017; IL license 2018 - 2024"}],searches_used=2)
+add("56:ayo:otun",identity="confirmed",identity_basis="Doximity Ayodamola Otun MD: WashU Medicine MD 2022, IL license 2022-2025 (Rush), neurosurgery hydrocephalus publications; distinctive name",
+ residency_stated=[{"institution":"Rush University Medical Center","specialty":"neurosurgery","start":2022,"end":None}],
+ outcome="switched_specialty",outcome_detail="Healthgrades lists specialty Anesthesiology at Froedtert/Medical College of Wisconsin (9200 W Wisconsin Ave, Milwaukee), verified April 2026; Doximity 'Resident Physician' Milwaukee, WI license 2025. Program/start year not stated; left Rush neurosurgery after 2023-24.",
+ year_left=2024,destination_program="Medical College of Wisconsin/Froedtert (anesthesiology; program not explicitly stated)",destination_start_year=2025,current="anesthesiology resident, MCW/Froedtert Milwaukee",
+ agrees_with_db=True,disagreement="DB: did not complete; now resolved: switched to anesthesiology (probable)",
+ checks={"google":"found","doximity":"found"},abns_certified=False,
+ sources=[{"url":"https://www.doximity.com/pub/ayodamola-otun-md","type":"doximity","evidence":"Resident Physician, Milwaukee WI, 9200 W Wisconsin Ave; WashU Medicine Class of 2022; WI license 2025 - 2027; IL license 2022 - 2025"},{"url":"https://www.healthgrades.com/physician/dr-ayodamola-otun-tpvxpyp506","type":"search_snippet","evidence":"Anesthesiology; Froedtert and the Medical College of Wisconsin Froedtert Hospital"}],searches_used=3)
+add("56:myc:delgardo",identity="confirmed",identity_basis="Doximity Mychael Delgardo: Columbia MD 2024, IL license 2024-2027 (Rush), Rush neurosurgery listing on WebMD/Healthgrades, neurosurgery publications",
+ residency_stated=[{"institution":"Greenwich Hospital","specialty":"preliminary internal medicine","start":2025,"end":2026},{"institution":"BayCare (Tampa)","specialty":"anesthesiology","start":2026,"end":None}],
+ outcome="switched_specialty",outcome_detail="Doximity summary: incoming CA-1 anesthesiology resident at BayCare (Tampa FL) after preliminary internal medicine at Greenwich Hospital; left Rush neurosurgery after PGY-1 2024-25.",
+ year_left=2025,destination_program="BayCare anesthesiology (Tampa FL)",destination_start_year=2026,current="anesthesiology resident (CA-1), BayCare, Tampa FL",
+ agrees_with_db=True,disagreement="DB: did not complete; now resolved: switched to anesthesiology (with prelim IM year)",
+ checks={"google":"found","doximity":"found"},abns_certified=False,
+ sources=[{"url":"https://www.doximity.com/pub/mychael-delgardo-md","type":"doximity","evidence":"I am an incoming CA-1 anesthesiology resident at BayCare ... completed preliminary training in internal medicine at Greenwich Hospital; Columbia Vagelos Class of 2024; IL license 2024 - 2027"}],searches_used=2)

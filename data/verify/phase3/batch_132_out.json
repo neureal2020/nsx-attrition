@@ -1,0 +1,798 @@
+[
+ {
+  "key": "104:jam:yu",
+  "name": "James Yu",
+  "program_id": 104,
+  "identity": "probable",
+  "identity_basis": "Search summary: USC neurosurgery resident with Brown MD (Warren Alpert 2019) per Instagram profile; entry year 2019 fits MD 2019. No Doximity page found; completion not confirmed.",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Probable USC neurosurgery resident (entered 2019); no source confirms graduation in 2026.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": null,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.instagram.com/jamesyhyu/",
+    "type": "search_snippet",
+    "evidence": "Instagram: USC neurosurgery resident, Brown MD, Vanderbilt BA (search summary; not verbatim)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "104:mic:lin",
+  "name": "Michelle Lin",
+  "program_id": 104,
+  "identity": "probable",
+  "identity_basis": "Doximity Neurosurgery LA, Keck MD 2018, USC address (1200 N State St); coauthors are USC residents (Dallas, Bageac, Demetriou); LinkedIn snippet resident LAC USC. Multiple Michelle Lin Doximity slugs exist.",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "USC neurosurgery resident confirmed as probable; graduation not confirmed (Doximity shows 2026 publication, no ABNS).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": null,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michelle-lin-md-90987cc1",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Los Angeles; Keck School of Medicine of USC Class of 2018; 1200 N State St"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:ana:khahera",
+  "name": "Anadjeet Khahera",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery LA, UC Irvine MD 2020, USC address; coauthors are USC residents.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Recorded as in training (PGY-7 2026-27). Doximity lists Neurological Surgery ABNS under certifications (likely primary exam/eligibility; not a practising neurosurgeon page).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anadjeet-khahera-md",
+    "type": "doximity",
+    "evidence": "UC Irvine School of Medicine Class of 2020; American Board of Neurological Surgery - Neurological Surgery; 1200 N State St Los Angeles"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:ben:hopkins",
+  "name": "Benjamin Hopkins",
+  "program_id": 104,
+  "identity": "probable",
+  "identity_basis": "LinkedIn snippet: Neurosurgery Resident at USC; Northwestern Feinberg MD 2020 per search summary; consistent with DB transfer-in from Northwestern. Doximity search returned only a Nashville neurology namesake.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Neurosurgery resident at USC; transfer-in from Northwestern not independently confirmed.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/benjamin-hopkins-35829893/",
+    "type": "search_snippet",
+    "evidence": "Benjamin Hopkins - Neurosurgery Resident - University of Southern California"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "104:jon:dallas",
+  "name": "Jonathan Dallas",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: USC/LA General Neurological Surgery residency 2020-2027, Vanderbilt MD 2020.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/Los Angeles General Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training, expected 2027.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jonathan-dallas-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2020 - 2027; Vanderbilt MD Class of 2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:ang:gogia",
+  "name": "Angad Gogia",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "WebMD: Keck MD 2021, neurological surgery, Los Angeles General; USC Neurosurgery Facebook resident post. No Doximity page found.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "USC neurosurgery resident (entered 2021).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://doctor.webmd.com/doctor/angad-gogia-4cd4876a-1f40-4263-960b-7698d1c07494-overview",
+    "type": "search_snippet",
+    "evidence": "Angad Gogia graduated Keck School of Medicine of USC 2021; Neurological Surgery, Los Angeles (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:dav:cote",
+  "name": "David Cote",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Harvard MD 2021, LA USC address (1200 N State St Ste A7D), CA license; LinkedIn snippet neurosurgery resident LAC+USC. Specialty label 'Other MD/DO'.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "USC neurosurgery resident (entered 2021).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/david-cote-md",
+    "type": "doximity",
+    "evidence": "David James Cote MD; Harvard Medical School Class of 2021; Los Angeles, CA"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:kei:kang",
+  "name": "Keiko Kang",
+  "program_id": 104,
+  "identity": "probable",
+  "identity_basis": "USC Neurosurgery Facebook resident post; LinkedIn resident physician LAC USC; UCSD MD per search summary. No Doximity found.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "USC neurosurgery resident (entered 2021).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.facebook.com/photo.php?fbid=3830177187073593&id=100144516743564&set=a.265711780186836",
+    "type": "search_snippet",
+    "evidence": "USC Department of Neurosurgery - Keiko Kang"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:dev:bageac",
+  "name": "Devin Bageac",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "X post: matched at USC Neurosurgery 2022; Doximity UConn MD 2022, Los Angeles (San Pablo St).",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "USC neurosurgery resident (entered 2022).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/DevinBageac/status/1505198802155749377",
+    "type": "search_snippet",
+    "evidence": "Overwhelmed with joy to have matched @NeurosurgeryUSC"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:kri:lamorie-foote",
+  "name": "Krista Lamorie-Foote",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Keck MD 2022, resident LA, USC address; US News search snippet LAC+USC (not opened).",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "USC neurosurgery resident (entered 2022).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/krista-lamorie-foote-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Los Angeles; Keck School of Medicine of USC Class of 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:lac:koro",
+  "name": "Lacin Koro",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Rush MD 2022, USC address; publication with USC neurosurgery coauthors (Chung, Desai).",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "USC neurosurgery resident (entered 2022).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/lacin-koro-md",
+    "type": "doximity",
+    "evidence": "Rush Medical College Class of 2022; Los Angeles, CA; JNS Case Lessons 2025 with USC authors"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:aus:borja",
+  "name": "Austin Borja",
+  "program_id": 104,
+  "identity": "probable",
+  "identity_basis": "LinkedIn snippet: Resident Physician, Keck Medicine of USC Neurosurgery, Penn MD; ResearchGate Keck Dept of Neurological Surgery. No Doximity found.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "USC neurosurgery resident (entered 2023).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/austin-borja-md-ms-510b6617b/",
+    "type": "search_snippet",
+    "evidence": "Austin Borja, MD, MS - Resident Physician - Keck Medicine of USC Neurosurgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:jae:lee",
+  "name": "Jae Eun Lee",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery: USC/LA General Neurological Surgery 2023-2030, Baylor MD 2023; X post matched USC 2023.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/Los Angeles General Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/jae-eun-lee-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030; Baylor College of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:pat:ng",
+  "name": "Patrick Ng",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery: USC/LA General Neurological Surgery 2023-2030, Harvard MD 2023.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/Los Angeles General Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/patrick-ng-md-8c9fd1be",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2023 - 2030; Harvard Medical School Class of 2023"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:bri:lien",
+  "name": "Brian Lien",
+  "program_id": 104,
+  "identity": "probable",
+  "identity_basis": "LinkedIn snippets: Brian Lien MD MS neurosurgery resident at USC; UC Irvine MD per summary. Doximity search returned only Brian Lee (different person).",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "USC neurosurgery resident (entered 2024).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/brian-lien-md-ms-3464002a3/",
+    "type": "search_snippet",
+    "evidence": "Brian Lien, MD, MS - Neurosurgery Resident at USC"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:kri:liu",
+  "name": "Kristie Liu",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery LA, Keck MD 2024; matched USC Neurosurgery March 2024 (USC tweets).",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "USC neurosurgery resident (entered 2024).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kristie-liu-md",
+    "type": "doximity",
+    "evidence": "Kristie Liu MD Neurosurgery Los Angeles; Keck Class of 2024"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:mar:harrigan",
+  "name": "Markus Harrigan",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: USC/LA General Neurological Surgery 2024-2031, Ohio State MD 2024.",
+  "residency_stated": [
+   {
+    "institution": "University of Southern California/Los Angeles General Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "In training.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/markus-harrigan-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2024 - 2031; Ohio State University College of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:ale:demetriou",
+  "name": "Alexandra Demetriou",
+  "program_id": 104,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery LA, Keck MD 2025; LinkedIn resident USC/LA General neurological surgery.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "USC neurosurgery resident (entered 2025).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alexandra-demetriou-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Los Angeles; Keck School of Medicine of USC Class of 2025"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:jan:han",
+  "name": "Jane Han",
+  "program_id": 104,
+  "identity": "probable",
+  "identity_basis": "Doximity Jane Sungmin Han, LA, USC address (1200 N State St Ste 3300, same as USC neurosurgery), no education listed; a Jane S Han coauthors USC neurosurgery papers with Dallas/Demetriou (2024). Other Jane Han Doximity pages are different people.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Probable USC neurosurgery resident (entered 2025).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jane-han-md-c5338339",
+    "type": "doximity",
+    "evidence": "Jane Sungmin Han MD, Other MD/DO, Los Angeles; 1200 N State St Ste 3300"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:mic:olmos",
+  "name": "Michelle Olmos",
+  "program_id": 104,
+  "identity": "probable",
+  "identity_basis": "Doximity Michelle Olmos, LA, USC address (Ste 3300, CA license 2025); ResearchGate Keck School of Medicine; neurosurgery publications.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Probable USC neurosurgery resident (entered 2025).",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michelle-olmos-md",
+    "type": "doximity",
+    "evidence": "Michelle Olmos MD, Los Angeles; CA State Medical License 2025-2028"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "104:and:pickles",
+  "name": "Andrew Pickles",
+  "program_id": 104,
+  "identity": "not_found",
+  "identity_basis": "No source found tying an Andrew Pickles to USC neurosurgery (search returned a UK biostatistician).",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Could not verify; likely a 2026 intern with no web footprint.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": null,
+  "disagreement": null,
+  "checks": {
+   "google": "not_found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [],
+  "searches_used": 1
+ },
+ {
+  "key": "104:rya:chung",
+  "name": "Ryan Chung",
+  "program_id": 104,
+  "identity": "probable",
+  "identity_basis": "Ryan S. Chung, Keck MD student (Dean's Research Scholar with Drs Lee and Zada, USC neurosurgery); coauthor with USC neurosurgery on JNS Case Lessons 2025. Match 2026 placement not stated. Doximity Ryan Chung found is a Boston radiologist (different person).",
+  "residency_stated": [],
+  "outcome": "unknown",
+  "outcome_detail": "Could not confirm match into USC neurosurgery PGY-1 2026.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": null,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/ryan-chung-547152205/",
+    "type": "search_snippet",
+    "evidence": "Ryan Chung - M.D. Candidate at the Keck School ..."
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "104:tho:staniszewski",
+  "name": "Thomas Staniszewski",
+  "program_id": 104,
+  "identity": "probable",
+  "identity_basis": "Doximity: Thomas Michael Staniszewski, Resident Physician, Los Angeles (2051 Marengo St = LAC+USC); no specialty/education listed.",
+  "residency_stated": [],
+  "outcome": "in_training",
+  "outcome_detail": "Probable USC resident (entered 2026); specialty not shown.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": null,
+  "agrees_with_db": null,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/thomas-staniszewski-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Los Angeles, CA; 2051 Marengo St"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:nic:rossi",
+  "name": "Nicholas Rossi",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Residency Neurological Surgery, University of Tennessee College of Medicine 2011-2017; Indiana MD 2011; ABNS; Hopedale bio names UT training.",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2017
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UT neurosurgery residency 2017; spine fellowship registrar Bristol 2016.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Hopedale Medical Complex, Hopedale IL",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/nicholas-rossi-md-caa2e0ad",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2017; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.hopedalemc.com/services/specialty-physicians/profile/nicholas-b-rossi-md",
+    "type": "bio",
+    "evidence": "neurosurgical training at the University of Tennessee (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "105:pra:patel",
+  "name": "Prayesh Patel",
+  "program_id": 105,
+  "identity": "confirmed",
+  "identity_basis": "Name spelled Prayash Patel on sources. Doximity: UT College of Medicine Neurological Surgery residency 2011-2017, Mercer MD 2011, ABNS; Erlanger bio says UT residency with Semmes-Murphey.",
+  "residency_stated": [
+   {
+    "institution": "University of Tennessee College of Medicine",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2017
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UT neurosurgery residency 2017; spine fellowship Southmead, Bristol.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Erlanger, Chattanooga TN",
+  "agrees_with_db": true,
+  "disagreement": null,
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/prayash-patel-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, 2011 - 2017; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.erlanger.org/find-a-doctor/details/prayash-patel",
+    "type": "bio",
+    "evidence": "residency in Neurological Surgery at the University of Tennessee (search summary)"
+   }
+  ],
+  "searches_used": 1
+ }
+]

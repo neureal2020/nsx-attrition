@@ -1,0 +1,69 @@
+[
+ {
+  "key": "123:ula:cikla",
+  "name": "Ulas Cikla",
+  "program": "Yale-New Haven Medical Center Program",
+  "first_seen": "2019-2020",
+  "last_seen": "2019-2020",
+  "current_outcome": "completed",
+  "question": "Was he a Yale NEUROSURGERY RESIDENT or a fellow (UF bio lists only fellowships incl. Yale endovascular 2020)?",
+  "prior_notes": [
+   "[deep] outcome_detail: Foreign-trained neurosurgeon, not on a US resident track at Yale; Yale endovascular fellow 2020, BIDMC 2022, UW-Madison 2024, now assistant professor of neurosurgery, UF Health Jacksonville. Practises neurosurgery, so not an attrition case.",
+   "[deep] disagreement: DB says LEFT/did not complete; he was a non-resident (research/fellow) and is a practising neurosurgeon"
+  ]
+ },
+ {
+  "key": "116:gur:gandhoke",
+  "name": "Gurpreet S. Gandhoke",
+  "program": "UPMC Medical Education Program",
+  "first_seen": "2013-2014",
+  "last_seen": "2017-2018",
+  "current_outcome": "completed",
+  "question": "Was he a UPMC neurosurgery RESIDENT (2013-18 on rosters) or a fellow (bio lists UPMC under fellowships, residency in India)?",
+  "prior_notes": []
+ },
+ {
+  "key": "31:pau:krafft",
+  "name": "Paul Krafft",
+  "program": "Loma Linda University Health Education Consortium Program",
+  "first_seen": "2015-2016",
+  "last_seen": "2016-2017",
+  "current_outcome": "transferred",
+  "question": "Was he a Loma Linda neurosurgery RESIDENT 2015-17 or a postdoctoral research fellow (UF bio)? He later completed USF.",
+  "prior_notes": []
+ },
+ {
+  "key": "80:pal:randhawa",
+  "name": "Pal Randhawa",
+  "program": "University of Colorado Program",
+  "first_seen": "2015-2016",
+  "last_seen": "2018-2019",
+  "current_outcome": "completed",
+  "question": "Was his CU (2015-19) time a neurosurgery RESIDENCY (transfer from Oklahoma) or a fellowship? Kaiser bio names OU residency only.",
+  "prior_notes": []
+ },
+ {
+  "key": "97:aks:bhamidipati",
+  "name": "Akshay Bhamidipati",
+  "program": "University of New Mexico School of Medicine Program",
+  "first_seen": "2024-2025",
+  "last_seen": "2025-2026",
+  "current_outcome": "transferred",
+  "question": "Was his UNM year a categorical neurosurgery residency or a preliminary/intern year? Now Vanderbilt NS PGY-3.",
+  "prior_notes": []
+ },
+ {
+  "key": "110:ant:asemota",
+  "name": "Anthony Asemota",
+  "program": "University of Texas Southwestern Medical Center Program \u00a9 2026 Accredi",
+  "first_seen": "2023-2024",
+  "last_seen": "2024-2025",
+  "current_outcome": "left_destination_unknown",
+  "question": "Was he a UT Southwestern NEUROSURGERY RESIDENT (our rosters show him 2023-25, PGY-2) at all? UTSW's class-of-2030 news post doesn't list him; Doximity shows no residency. If he was, where did he go?",
+  "prior_notes": [
+   "[unk2] outcome_detail: Left UTSW after 2024-25 (PGY-2). No destination found. LinkedIn behind auth wall (blocked).",
+   "[dest] evidence: Lead only: Doximity lists 'Other MD/DO', University of Benin 2007, based at University of New Mexico, Albuquerque (UNM hospital main phone 505-272-6225, shared by other UNM providers of various specialties). Wayback capture of UNM neurosurg",
+   "[city] evidence: Lead city Albuquerque (Doximity: based at UNM). hsc.unm.edu is reachable again this session; grepped live UNM rosters: neurosurgery (live page, Last-Modified May 2025: PGY4 Kazim, PGY3 Rumalla, PGY1 Bhamidipati/Peart/Marquez - no Asemota), "
+  ]
+ }
+]

@@ -1,0 +1,1013 @@
+[
+ {
+  "key": "80:wil:mckay",
+  "name": "William McKay",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: MD Wake Forest 2017, residency UNM 2017-2019 then CU 2019-2024; matches recorded forced transfer from UNM (program 97) in 2020 (Doximity lists CU start 2019, roster shows PGY IV 2020)",
+  "residency_stated": [
+   {
+    "institution": "University of New Mexico",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2019
+   },
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Transferred in from UNM (PGY-2/3 era, 2019-2020) and completed neurosurgery residency at CU 2024; now practicing neurosurgeon in Greeley CO",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Banner/UCHealth affiliated, Greeley, CO",
+  "agrees_with_db": true,
+  "disagreement": "Minor: Doximity/search give CU start 2019 (vs recorded July 2020 PGY IV); source years may be off by one. Outcome completed agrees.",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/william-mckay-md-35cba263",
+    "type": "doximity",
+    "evidence": "University of Colorado Residency, Neurological Surgery, 2019 - 2024; University of New Mexico School of Medicine Residency, Neurological Surgery, 2017 - 2019; Wake Forest Class of 2017"
+   },
+   {
+    "url": "https://doctors.bannerhealth.com/provider/william-mc-kay/3155123",
+    "type": "search_snippet",
+    "evidence": "Greeley CO neurosurgery, affiliated with UCHealth University of Colorado Hospital (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:bla:wittenberg",
+  "name": "Blake Wittenberg",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "Bio states neurosurgery residency and complex spine fellowship at University of Colorado, MD LSU New Orleans; Doximity co-authors are CU residents (Hoffman, Ryan)",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed CU neurosurgery residency (2025) and complex/deformity spine fellowship; now neurosurgeon in Knoxville TN",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Neurosurgical Associates / UT Medical Center, Knoxville TN",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/blake-wittenberg-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Knoxville TN; LSU New Orleans Class of 2018; CO license 2021-2027; co-authors Jessa Hoffman, Megan Ryan"
+   },
+   {
+    "url": "https://www.utmedicalcenter.org/find-a-doctor/blake-e-wittenberg",
+    "type": "search_snippet",
+    "evidence": "completed his residency in neurological surgery and fellowship in complex/deformity spine at the University of Colorado (search summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:jes:hoffman",
+  "name": "Jessa Hoffman",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "Intermountain bio: MD New York Medical College, neurosurgery residency and dual vascular fellowship at University of Colorado; Doximity MD NYMC 2018, CO license",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2018,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed CU neurosurgery residency then dual vascular/endovascular fellowship; practicing fellowship-trained neurosurgeon, Golden/Wheat Ridge CO",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "vascular/endovascular neurosurgeon, Intermountain Health, Wheat Ridge/Golden CO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://doctors.intermountainhealth.org/provider/jessa-e-hoffman/5851753",
+    "type": "bio",
+    "evidence": "completed her neurosurgery residency and dual fellowship training ... at the University of Colorado (search summary)"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jessa-hoffman-md",
+    "type": "doximity",
+    "evidence": "Resident Physician, Aurora CO; New York Medical College Class of 2018 (profile is stale)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:ash:razmara",
+  "name": "Ashkaun Razmara",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "Doximity neurosurgery, MD Quinnipiac 2019, CO license 2021-2027, co-authors CU (Montgomery, Breeze); listed as CU neurosurgery resident on RocketReach",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Not on 2026-27 CU resident page (PGY VII only Pazniokas); Doximity now Neurosurgery, Fairfield CA with CA license 2026, consistent with graduating 2026 and starting practice",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon, Fairfield CA (Kaiser area address)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ashkaun-razmara-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Fairfield CA; Quinnipiac Class of 2019; CA State Medical License 2026-2028; CO license 2021-2027"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:lin:freeman",
+  "name": "Lindsey Freeman",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "LinkedIn/CU bio: senior resident CU Neurosurgery, MD Case Western 2019; ResearchGate lists CU Dept of Neurosurgery resident",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Search summary said chief year followed by an international fellowship; not on 2026-27 CU resident page, consistent with graduation 2026. No Doximity profile found.",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "post-residency international fellowship planned (per earlier profile)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/lindsey-freeman-md-ma-a640bbb8/",
+    "type": "search_snippet",
+    "evidence": "Lindsey Freeman, MD, MA - Resident Physician, Neurosurgery"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Lindsey-Freeman-5",
+    "type": "search_snippet",
+    "evidence": "Lindsey FREEMAN | Resident | University of Colorado, Denver | Department of Neurosurgery"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "80:jul:pazniokas",
+  "name": "Julia Pazniokas",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "CU Neurosurgery X post: PGY-5 incoming chief resident; CU resident page PGY VII; MD New York Medical College 2020",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY VII on 2026-27 CU resident page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "chief resident, CU neurosurgery",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://x.com/CUNSGY/status/1909723238436921635",
+    "type": "search_snippet",
+    "evidence": "Dr. Julia Pazniokas, our current PGY-5 and incoming chief resident"
+   },
+   {
+    "url": "https://www.doximity.com/pub/julia-pazniokas-md",
+    "type": "doximity",
+    "evidence": "Resident Physician; New York Medical College Class of 2020; CO license 2022-2027"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:ahm:helal",
+  "name": "Ahmed Helal",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "CU resident page PGY VI; Doximity Neurosurgery Aurora, Alexandria MD 2015; X handle; prior Egypt training matches note",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY VI / chief resident at CU 2026-27; joined mid 2022-23 after prior training (Alexandria MD 2015; OR/MN/KY licenses 2021-2023 suggest a US position before CU)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident (chief), CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ahmed-helal-md",
+    "type": "doximity",
+    "evidence": "University of Alexandria Faculty of Medicine Class of 2015; Neurosurgery Aurora CO"
+   },
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY VI: Reinier Alvarez, Ahmed Helal, William Harris"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:rei:alvarez",
+  "name": "Reinier Alvarez",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: CU neurosurgery residency 2021-2028, FIU Herbert Wertheim MD 2020",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY VI 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/reinier-alvarez-md",
+    "type": "doximity",
+    "evidence": "University of Colorado Residency, Neurological Surgery, 2021 - 2028; FIU Class of 2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:wil:harris",
+  "name": "William Harris",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Aurora CO: CU neurosurgery residency 2021-2028, Univ of Hawaii JABSOM 2021; co-author with Pazniokas (CU)",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY VI 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/william-harris-md-04a4a85a",
+    "type": "doximity",
+    "evidence": "University of Colorado Residency, Neurological Surgery, 2021 - 2028; University of Hawaii JABSOM Class of 2021"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:kes:shrestha",
+  "name": "Keshari Shrestha",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "CU resident page PGY V; Doximity CU School of Medicine class 2022, co-authored CU neurosurgery papers",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY V 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/keshari-shrestha-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Aurora CO; CU School of Medicine Class of 2022 (no residency listed)"
+   },
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY V: Keshari Shrestha, MD"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:eri:montgomery",
+  "name": "Eric Montgomery",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery: CU residency 2023-2030, UTSW MD 2022; co-author with Razmara/Breeze (CU)",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY IV 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/eric-montgomery-md-ecef4b59",
+    "type": "doximity",
+    "evidence": "University of Colorado Residency, Neurological Surgery, 2023 - 2030; UT Southwestern Class of 2022"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "80:joh:butterfield",
+  "name": "John Butterfield",
+  "program_id": 80,
+  "identity": "probable",
+  "identity_basis": "On CU resident page PGY IV; co-author of 2026 Child's Nervous System craniosynostosis paper with CU's Corbett Wilkinson (search summary). No verified Doximity match: only a Gainesville FL MD PhD resident (UF 2023) appeared, not confirmed same person",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY IV 2026-27 per CU page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY IV: John Butterfield, Eric Montgomery, Matthew Svalina"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "80:mat:svalina",
+  "name": "Matthew Svalina",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Neurosurgery Aurora: CU internship neurological surgery 2023-24, CU SOM MD PhD; cc-TDI page says he matched to CU neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY IV 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/matthew-svalina-md",
+    "type": "doximity",
+    "evidence": "University of Colorado Internship, Neurological Surgery, 2023 - 2024; CU SOM Class of 2019 MD PhD"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:mic:ohene-adjei",
+  "name": "Michael Ohene-Adjei",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: CU neurosurgery residency 2024-2031, Zucker/Hofstra MD 2024",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY III 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-ohene-adjei-md",
+    "type": "doximity",
+    "evidence": "University of Colorado Residency, Neurological Surgery, 2024 - 2031"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:moh:salem",
+  "name": "Mohamed Salem",
+  "program_id": 80,
+  "identity": "probable",
+  "identity_basis": "CU resident page PGY III; Doximity Boston neurosurgery profile (Alexandria MD 2015, cerebrovascular) co-authors Ahmed Helal (CU PGY VI, also Alexandria); Scholar/X: IMG applying to neurosurgery Match 2023 after Penn/BIDMC research fellowship. Doximity does not list CU residency. A search summary claiming CU residency 2019-2021 is unreliable (different person or garbled)",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY III 2026-27 per CU resident page",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/mohamed-salem-md-b59f0330",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Boston MA; Alexandria University Class of 2015; MA license 2019-2022; co-author Ahmed Helal"
+   },
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY III: Michael Ohene-Adjei, Paymon Rezaii, Mohamed Salem"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "80:pay:rezaii",
+  "name": "Paymon Rezaii",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "CU resident page PGY III; Yahoo/NPI listing Cu Department of Neurosurgery Aurora; ResearchGate Stanford neurosurgery research background; Doximity Aurora CO, Tulane MD 2024, CO license 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY III 2026-27. Note: Doximity profile is labelled Neurology with 'Ochsner Neurology residency 2018-2022' which is inconsistent with Tulane MD 2024 and looks like a bad Doximity merge/error; not treated as a specialty switch",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/paymon-rezaii-md",
+    "type": "doximity",
+    "evidence": "Neurology, Aurora CO; Tulane Class of 2024; Ochsner Residency Neurology 2018-2022 (anomalous); CO license 2025-2027; spine paper co-author"
+   },
+   {
+    "url": "https://local.yahoo.com/info-236747257-rezaii-paymon-cu-department-of-neurosurgery-aurora/",
+    "type": "search_snippet",
+    "evidence": "Rezaii, Paymon - Cu Department of Neurosurgery in Aurora, CO"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "80:meg:ryan",
+  "name": "Meg Ryan",
+  "program_id": 80,
+  "identity": "probable",
+  "identity_basis": "CU resident page PGY II; CU Neurosurgery Instagram post 'Meg Ryan and Sera Sempson' (Match 2025); AANS bio Megan V. Ryan (MS Modern Human Anatomy CU Anschutz, DO student Rocky Vista, interest in neurosurgery after shadowing CU's Corbett Wilkinson); Doximity co-author list of CU neurosurgery colleagues (Wittenberg/Harris papers). No Doximity profile of her own found",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY II 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.instagram.com/p/DHeEpxvRU3A/",
+    "type": "search_snippet",
+    "evidence": "Meg Ryan and Sera Sempson! CU Neurosurgery is so ..."
+   },
+   {
+    "url": "https://aans.digitellinc.com/b/sp/megan-ryan-843",
+    "type": "search_snippet",
+    "evidence": "Megan Victoria Ryan, DO student Rocky Vista, MS anatomy CU Anschutz"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "80:ser:sempson",
+  "name": "Sera Sempson",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "CU resident page PGY II; CU news Match Day 2025; Doximity CU School of Medicine class 2025",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY II 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sera-sempson-md",
+    "type": "doximity",
+    "evidence": "Other MD/DO, Aurora CO; CU School of Medicine Class of 2025"
+   },
+   {
+    "url": "https://news.cuanschutz.edu/medicine/match-day-celebration-2025",
+    "type": "search_snippet",
+    "evidence": "Match Day 2025 result page returned for search on name"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "80:aas:patel",
+  "name": "Aashay Patel",
+  "program_id": 80,
+  "identity": "probable",
+  "identity_basis": "CU resident page PGY I; ResearchGate profile 'Aashay Patel | Resident Physician | University of Colorado, Denver'. Several namesake Aashay Patels exist (ophthalmology, anesthesiology, cardiology); none on Doximity linked to CU neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY I 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY I: Zaynab Sidi Mohamed, Janet Wu, Aashay Patel"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Aashay-Patel-2",
+    "type": "search_snippet",
+    "evidence": "Aashay PATEL | Resident Physician | Doctor of Medicine | University of Colorado, Denver"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "80:jan:wu",
+  "name": "Janet Wu",
+  "program_id": 80,
+  "identity": "probable",
+  "identity_basis": "CU resident page PGY I only; a Stanford med student Janet Y. Wu (neurosurgery interest) may be the same person but not confirmed; no Doximity neurosurgery profile",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY I 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY I: Janet Wu, MD"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "80:zay:mohamed",
+  "name": "Zaynab Sidi Mohamed",
+  "program_id": 80,
+  "identity": "confirmed",
+  "identity_basis": "CU resident page PGY I (MD, PhD); ResearchGate Tulane; Neuro-Oncology Advances abstract; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "University of Colorado",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY I 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, CU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medschool.cuanschutz.edu/neurosurgery/education-and-training/residency-program/meet-our-current-residents",
+    "type": "program_page",
+    "evidence": "PGY I: Zaynab Sidi Mohamed, MD, PhD"
+   },
+   {
+    "url": "https://www.researchgate.net/scientific-contributions/Zaynab-Sidi-Mohamed-2307266269",
+    "type": "search_snippet",
+    "evidence": "research works | Tulane University and other places"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "81:ant:diaz",
+  "name": "Anthony Diaz",
+  "program_id": 81,
+  "identity": "confirmed",
+  "identity_basis": "UConn current residents page PGY6, Univ of Miami MD; Doximity Farmington CT: UConn neurosurgery residency 2021-2028, Miami MD 2021",
+  "residency_stated": [
+   {
+    "institution": "University of Connecticut",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY6 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UConn",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anthony-diaz-md-ff5293e4",
+    "type": "doximity",
+    "evidence": "University of Connecticut School of Medicine Residency, Neurological Surgery, 2021 - 2028; University of Miami Class of 2021"
+   },
+   {
+    "url": "https://health.uconn.edu/graduate-medical-education/neurological-surgery-residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "Anthony Diaz, M.D. (PGY6) University of Miami Miller School of Medicine"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "81:tay:burch",
+  "name": "Taylor Burch",
+  "program_id": 81,
+  "identity": "confirmed",
+  "identity_basis": "UConn current residents page PGY5, U Illinois COM; UConn/Forward Pathway bio (Lahey pre-residency fellowship); co-author with Bulsara on Vivistim paper",
+  "residency_stated": [
+   {
+    "institution": "University of Connecticut",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY5 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UConn",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://health.uconn.edu/graduate-medical-education/neurological-surgery-residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "Taylor Burch, M.D. (PGY5) University of Illinois College of Medicine"
+   },
+   {
+    "url": "https://www.forwardpathway.us/uconn-neurosurgery-residencys-rise-to-excellence-and-dr-taylor-burchs-pioneering-role-in-diversity",
+    "type": "news",
+    "evidence": "resident in the Department of Neurosurgery at UConn; MD University of Illinois College of Medicine"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "81:sha:patil",
+  "name": "Shashank Patil",
+  "program_id": 81,
+  "identity": "confirmed",
+  "identity_basis": "UConn residents page PGY4, U Illinois COM; Doximity profiles (Hartford neurosurgery; Farmington FM) show UIC MD 2022 and co-authored Vivistim paper with Nwankwo, Burch, Bulsara at UConn. Doximity lists an anomalous 'Family Medicine residency 2020-2023' (inconsistent with MD class of 2022; treated as data error, not a specialty switch)",
+  "residency_stated": [
+   {
+    "institution": "University of Connecticut",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY4 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UConn",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shashank-patil-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Hartford CT; University of Illinois College of Medicine Class of 2022; CT license 2023-2030; Vivistim paper with Nwankwo, Burch, Bulsara"
+   },
+   {
+    "url": "https://health.uconn.edu/graduate-medical-education/neurological-surgery-residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "Shashank Patil, M.D. (PGY4)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "81:ant:nwankwo",
+  "name": "Anthony Nwankwo",
+  "program_id": 81,
+  "identity": "confirmed",
+  "identity_basis": "UConn residents page PGY3, UVA School of Medicine; UConn-linked bio; Vivistim paper with Bulsara",
+  "residency_stated": [
+   {
+    "institution": "University of Connecticut",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY3 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident, UConn",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://health.uconn.edu/graduate-medical-education/neurological-surgery-residency-program/current-residents/",
+    "type": "program_page",
+    "evidence": "Anthony Nwankwo, M.D. (PGY3) University of Virginia, School of Medicine"
+   }
+  ],
+  "searches_used": 2
+ }
+]

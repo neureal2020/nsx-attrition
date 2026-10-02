@@ -1,0 +1,271 @@
+{
+ "program_id": 123,
+ "name": "Yale-New Haven Medical Center Program (New Haven, CT)",
+ "program_length": 7,
+ "complement_per_year": 2,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.med.yale.edu/neurosurgery/ (old host; only 302s archived, 2010-07)",
+   "from": "2010-07",
+   "to": "2010-07"
+  },
+  {
+   "url": "http://medicine.yale.edu/neurosurgery/education/index.aspx (no roster pre-Oct-2012)",
+   "from": "2010-10",
+   "to": "2014-07"
+  },
+  {
+   "url": "http://medicine.yale.edu/neurosurgery/education/114813_HB%202012%20v%20master.doc (Resident Handbook 2012, roster table)",
+   "from": "2012-01 (doc saved)",
+   "to": "2013-04 (archived)"
+  },
+  {
+   "url": "http://medicine.yale.edu/neurosurgery/education/residents.aspx",
+   "from": "2012-10 (CC 2013-05)",
+   "to": "2017-12 (stale after 2015-09)"
+  },
+  {
+   "url": "http://medicine.yale.edu/neurosurgery/education/graduates.aspx (past graduates)",
+   "from": "2013-05",
+   "to": "2018-04"
+  },
+  {
+   "url": "https://medicine.yale.edu/neurosurgery/education/copy_of_index.aspx (roster embedded)",
+   "from": "2015-12",
+   "to": "2016-01"
+  },
+  {
+   "url": "http(s)://(www.)medicine.yale.edu/neurosurgery/education/residencyprogram.aspx (roster embedded)",
+   "from": "2016-04",
+   "to": "2019-06 (Wayback to 2018-02, CC to 2019-06)"
+  },
+  {
+   "url": "https://medicine.yale.edu/neurosurgery/education/currentresidents.aspx",
+   "from": "2019-07",
+   "to": "2019-07"
+  },
+  {
+   "url": "https://medicine.yale.edu/neurosurgery/education/currentresidents/",
+   "from": "2019-09",
+   "to": "2025-07"
+  },
+  {
+   "url": "https://medicine.yale.edu/neurosurgery/education/residencyprogram/currentresidents/",
+   "from": "2026-02",
+   "to": "2026-09 (live)"
+  },
+  {
+   "url": "https://medicine.yale.edu/neurosurgery/education/residencyprogram/alumni/",
+   "from": "2022-11",
+   "to": "2026-09 (live; lists grads 2008-2023 only)"
+  },
+  {
+   "url": "Resident Handbook PDFs: NS Resident Handbook Sept 18 2014 (roster = 2014-15) and HB REVISED Oct 2016 (roster = 2016-17), medicine.yale.edu/neurosurgery/education/",
+   "from": "2014-09",
+   "to": "2017-08"
+  },
+  {
+   "url": "https://medicine.yale.edu/website-api-data/feed-organization-member-listing/?organizationId=108855 (live Neurosurgery department directory feed; titles incl. 'Hospital Resident')",
+   "from": "2026-09 (live)",
+   "to": "2026-09-28"
+  },
+  {
+   "url": "https://medicine.yale.edu/news-article/... and medicine.yale.edu/neurosurgery/news-article/<id>/ (department news: match days, change of chiefs)",
+   "from": "2020",
+   "to": "2026-09 (live)"
+  }
+ ],
+ "observed_years": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [
+  "2020-2021"
+ ],
+ "missing_years": [],
+ "gap_details": {
+  "2011-2012": "No web roster archived (Wayback has only education/index.aspx and people/index.aspx 2010-2013, no resident list; www.med.yale.edu/neurosurg(ery) only 302s). Used the 2012 Resident Handbook .doc (saved 2012-01-12, Wayback 2013-04-03) 'Current Residents' table: 14 residents, PGY1 Damisah/Atsina. Complete.",
+  "2012-2013": "Not in Wayback; Common Crawl CC-MAIN-2013-20 has residents.aspx headed 'October 2012'. Complete (14).",
+  "2015-2016": "residents.aspx Sept-2015 capture still showed 2014-15; used copy_of_index.aspx Wayback 2015-12-17 (same list in CC residents.aspx 2015-10).",
+  "2018-2019": "Wayback has no captures of medicine.yale.edu/neurosurgery Mar 2018-Jul 2019 (only 301s). Common Crawl CC-MAIN-2018-43 residencyprogram.aspx (2018-10-23), same list in 2018-08, 2018-12, 2019-02. Complete (14).",
+  "2020-2021": "RECONSTRUCTED, significance low. Wayback: currentresidents/ captures jump 2019-11-13 -> 2021-10-17. Common Crawl: all 2020-21 crawls re-scanned in phase 2 over the whole medicine.yale.edu/neurosurgery prefix (incl. previously failed CC-MAIN-2020-05, plus 2020-10/-40/2021-21 retried): no roster, only news and residencyprogram/. Added Koo/Templeton/Theriault as PGY1 (2020 Match Day news 23436 lists exactly these three; archived Yale profiles Aug 2020-Jan 2021 say 'Hospital Resident'). Antonios confirmed PGY2 by Feb-2021 news, Lamsam resident by Dec-2020 news. Cikla not reconstructed (see departures).",
+  "2023-2024": "Only capture with 2023-24 content is 2023-07-25 (already advanced: 2023 grads gone, new PGY1s listed). 2024-03 capture is an empty shell; 2024-06 identical to 2023-07.",
+  "2025-2026": "Page moved to residencyprogram/currentresidents/; first capture 2026-02-25 (July 2025 capture of old URL still 2024-25).",
+  "2026-2027": "OBSERVED via the live department directory feed (website-api-data/feed-organization-member-listing, organizationId=108855, 187 members, fetched 2026-09-28): 15 'Hospital Resident' members = 2025-26 roster minus Antonios/Lamsam (graduated June 2026, department news 2026-06-29) plus Oleksandr Strelko (MD Loyola 2026) and Allison Toth (profile created 2026-07-01, Dept Neurosurgery). PGY inferred by entry year. The residencyprogram/currentresidents/ page is still stale (2025-26 minus graduates)."
+ },
+ "alumni_page": "https://medicine.yale.edu/neurosurgery/education/residencyprogram/alumni/",
+ "departures": [
+  {
+   "name": "Komli-Kofi Atsina",
+   "last_ay": "2013-2014",
+   "last_pgy": 3,
+   "outcome": "left, outcome unknown",
+   "note": "Not the Jefferson (58) Atsina: Kofi-Buaku Atsina was Jefferson PGY1-3 2012-15, simultaneous with Komli-Kofi at Yale; different NPIs. The Yale->Jefferson chain in PHASE2_NOTES is wrong. No later trace (NPI never updated, last paper 2014)."
+  },
+  {
+   "name": "Gabriel Sneh",
+   "last_ay": "2018-2019",
+   "last_pgy": 1,
+   "outcome": "switched specialty (probable, neurology)",
+   "note": "2024 paper affiliation Dept of Neurology, Johns Hopkins (PMID 37921930)."
+  },
+  {
+   "name": "Ulas Cikla",
+   "last_ay": "2019-2020",
+   "last_pgy": 1,
+   "outcome": "left, outcome unknown (stayed in neurosurgery as non-ACGME fellow)",
+   "note": "Foreign-trained attending neurosurgeon; supernumerary third 2019 PGY1 ('Associate Scientist' per bio). Profile kept 'Hospital Resident' title to Feb 2021 without a Neurosurgery department. Later UW-Madison cerebrovascular fellow 2023-24, NPI Neurological Surgery FL, UF-Jacksonville affiliation 2025-26. End year recorded 2020."
+  },
+  {
+   "name": "Samuel Craft",
+   "last_ay": "2024-2025",
+   "last_pgy": 1,
+   "outcome": "switched specialty (probable, internal medicine)",
+   "note": "July-2025 roster 'Postdoctoral Associate'; Yale profile department Neurosurgery (2025-03) -> Internal Medicine (live), still 'Hospital Resident'. Brett Gu filled the PGY2 slot."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Brett Gu",
+   "first_ay": "2025-2026",
+   "first_pgy": 2,
+   "note": "Yale MD 2024; Aug-2024 Yale profile 'Hospital Resident', dept Surgery (probable Yale prelim surgery PGY1 2024-25); replaced Craft."
+  }
+ ],
+ "residents_2011plus": 35,
+ "adjudication_summary": {
+  "COMPLETED": 28,
+  "IN TRAINING": 15,
+  "LEFT -> did not complete": 2,
+  "LEFT -> SWITCHED SPECIALTY": 2,
+  "alumni_graduations_inserted": 23,
+  "phase2_training_history_rows": 10
+ },
+ "problems": "Alumni page stops at the class of 2023; 2024-2026 completions are from PGY-7 rosters (2024, 2025) and the 2026-06-29 department news (2026). 2026-27 PGYs are inferred, not printed. Common Crawl: all 2020-21 crawls now completed (CC-MAIN-2020-05 and -40 succeeded on retry); CC-MAIN-2015-18 and 2018-09 were not retried because those years are observed.",
+ "years": {
+  "2011-2012": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "2012 Resident Handbook roster table (complete, 14)"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2020-2021": {
+   "status": "reconstructed",
+   "significance": "low",
+   "reason": "No roster capture anywhere, but every member is evidenced: 11 bracketed/alumni, the 2020 class of 3 (Match Day 2020 news names exactly Koo, Templeton, Theriault; all three had Yale 'Hospital Resident' profiles Aug 2020-Jan 2021 and are PGY2 in 2021-22). Only open point: whether Cikla (supernumerary 3rd 2019 PGY1) left in 2020 or during 2020-21; that shifts his departure year, not the count."
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "complete roster capture"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "low",
+   "reason": "Live Neurosurgery department directory (2026-09-28) lists all 15 'Hospital Resident' members: the 13 continuing 2025-26 residents (minus graduates Antonios and Lamsam) plus 2026 interns Strelko and Toth. PGY is inferred by entry year (the directory prints no PGY); the currentresidents page itself is still stale."
+  }
+ },
+ "cross_program": {
+  "Robert C. Sterner": "NOT a Yale resident or research fellow in neurosurgery. His Yale affiliation (Dept of Cell Biology, Bewersdorf lab) comes from UW MSTP-era work: PMID 41299044 was received June 2022 (published 2025), and PMID 34882648 (2022) already carries the same Yale Cell Biology affiliation. He is on no Yale neurosurgery roster (2023-24..2026-27), not in the live department directory, and has no Yale profile (404). His outcome from Inova (29) stays unknown/research.",
+  "Atsina (58)": "Different people; no transfer."
+ },
+ "phase2": {
+  "searched": [
+   "gapaudit 2020-01..2021-10 on medicine.yale.edu/neurosurgery/, www., yalemedicine.org/departments/neurosurgery, medicine.yale.edu/gme/",
+   "all 925 Wayback URLs on the neurosurgery host in 2020-21 (news articles, awards pages, residencyprogram/, education/) fetched and grepped",
+   "Common Crawl 2020-05..2021-43 (18 crawls) over the whole edu,yale,medicine)/neurosurgery prefix + profile/ prefixes (andrew, kelsey, brianna, ulas); failed 2020-10/-40/2021-21 retried OK",
+   "Wayback per-resident profiles (medicine.yale.edu/profile/* and /neurosurgery/profile/*) for Koo, Templeton, Theriault, Cikla, Craft, Gu, Sneh, Atsina, Sterner",
+   "PubMed author searches (Cikla, Sterner, Koo, Templeton, Theriault, Craft, Gu, Sneh, Atsina) and pubmed_aff.py Yale+neurosurgery 2020-21",
+   "NPPES for Atsina, Sneh, Craft, Cikla, Sterner, Gu",
+   "live YSM sitemaps (articles, pages), department news 2022-2026, live department directory API",
+   "program 115 (UW-Madison) people-page dumps for Cikla"
+  ],
+  "found": [
+   "2020 Match Day news: class of 3 = Koo, Templeton, Theriault (closes 2020-21 intake)",
+   "Aug 2020-Feb 2021 profiles of Koo, Theriault, Templeton, Cikla titled 'Hospital Resident'",
+   "Feb 2021 news: Antonios a second-year resident; Dec 2020 news: Lamsam a resident",
+   "Live department directory = 2026-27 roster (15, incl. interns Strelko and Toth)",
+   "June 2026 news: Antonios and Lamsam graduated 2026; Theriault rising PGY7, Alvarez Reyes rising PGY4",
+   "Atsina at Jefferson is a different person; Sneh -> neurology (JHU); Craft -> internal medicine (Yale profile dept); Gu came from a Yale surgery PGY1 year",
+   "Sterner: Yale Cell Biology affiliation is MSTP-era research, not a Yale neurosurgery position"
+  ],
+  "remaining": [
+   "Cikla's exact departure date (2020 vs during 2020-21); low significance (supernumerary position, count unaffected)",
+   "Atsina's destination after 2014 (unknown)",
+   "2026-27 PGY levels inferred by entry year"
+  ]
+ }
+}

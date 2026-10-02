@@ -1,0 +1,1011 @@
+[
+ {
+  "key": "113:gra:garcia",
+  "name": "Grace Garcia",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "UVA program page: Grace Garcia PGY-5, MD Univ of Kansas 2022; Doximity 'Gracie Garcia' (KU 2022, UVA Neurological Surgery 2022-2029)",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "unknown",
+  "outcome_detail": "CONFLICT: UVA program site (2026-27 roster) lists Grace Garcia as current PGY-5 resident, and she co-authored 2026 UVA spine papers. But Doximity profile 'Gracie Garcia, Topeka KS' lists UVA Neurological Surgery 2022-2029 AND UT Southwestern Family Medicine residency 2024-2027, KS/TX licences, ABFM family medicine listed. Could not confirm on UTSW current-resident page (only classes 2028/2029 shown). Needs manual review: possible switch to family medicine in 2024.",
+  "year_left": null,
+  "destination_program": "possibly UT Southwestern Family Medicine (unconfirmed)",
+  "destination_start_year": 2024,
+  "current": "UVA neurosurgery PGY-5 per program site; Doximity says family medicine resident UTSW/Topeka KS",
+  "agrees_with_db": false,
+  "disagreement": "DB says IN TRAINING at UVA; Doximity suggests family medicine residency at UTSW from 2024 (unresolved conflict)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-5: Grace Garcia"
+   },
+   {
+    "url": "https://www.doximity.com/pub/gracie-garcia-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, University of Virginia Medical Center 2022-2029; Residency, Family Medicine, UT Southwestern 2024-2027; American Board of Family Medicine; KU School of Medicine Class of 2022"
+   },
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/grace-garcia-md/",
+    "type": "bio",
+    "evidence": "MD University of Kansas School of Medicine 2022; listed among current UVA neurosurgery residents"
+   }
+  ],
+  "searches_used": 3,
+  "usnews_note": null
+ },
+ {
+  "key": "113:div:nwafor",
+  "name": "Divine Nwafor",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and UVA page: Divine Nwafor MD PhD, WVU 2023, UVA neurosurgery resident",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-4 at UVA 2026-27; Doximity residency 2023-2030",
+  "current": "neurosurgery resident PGY-4, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-4: Faraz Farzad, Divine Nwafor"
+   },
+   {
+    "url": "https://www.doximity.com/pub/divine-nwafor-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, University of Virginia Medical Center, 2023 - 2030; WVU School of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "113:far:farzad",
+  "name": "Faraz Farzad",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "UVA program page PGY-4; WebMD/search: UVA School of Medicine grad 2023, UVA neurosurgery resident",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-4 at UVA 2026-27; med school UVA 2023; no Doximity profile found",
+  "current": "neurosurgery resident PGY-4, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-4: Faraz Farzad"
+   },
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/faraz-farzad-md/",
+    "type": "bio",
+    "evidence": "UVA neurosurgery resident page (search snippet: PGY-4 resident, graduated UVA School of Medicine 2023)"
+   }
+  ],
+  "searches_used": 3,
+  "usnews_note": null
+ },
+ {
+  "key": "113:dav:loftus",
+  "name": "David Loftus",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "Doximity David Loftus: UVA Neurological Surgery residency 2024-2031, Charlottesville; UVA page PGY-3",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 at UVA 2026-27",
+  "current": "neurosurgery resident PGY-3, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-3: David Loftus"
+   },
+   {
+    "url": "https://www.doximity.com/pub/david-loftus-md-96abf1fe",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, University of Virginia Medical Center, 2024 - 2031"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "113:emi:dunbar",
+  "name": "Emily Dunbar",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Emily Dunbar: UVA Neurological Surgery 2024-2031, VCU MD 2024; UVA page PGY-3",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 at UVA 2026-27",
+  "current": "neurosurgery resident PGY-3, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-3: Emily Dunbar"
+   },
+   {
+    "url": "https://www.doximity.com/pub/emily-dunbar-md",
+    "type": "doximity",
+    "evidence": "PGY1 UVA Health; Residency, Neurological Surgery, UVA 2024 - 2031; VCU School of Medicine Class of 2024"
+   }
+  ],
+  "searches_used": 2,
+  "usnews_note": null
+ },
+ {
+  "key": "113:nic:cassimatis",
+  "name": "Nicholas Cassimatis",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "Doximity Nicholas Cassimatis: UVA neurosurgery resident, Hackensack-Meridian/Seton Hall MD 2024; UVA page PGY-3",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": 2031
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-3 at UVA 2026-27",
+  "current": "neurosurgery resident PGY-3, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-3: Nicholas Cassimatis"
+   },
+   {
+    "url": "https://www.doximity.com/pub/nicholas-cassimatis-md",
+    "type": "doximity",
+    "evidence": "Residency, Neurological Surgery, University of Virginia Medical Center, 2024 - 2031"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "113:geo:mantziaris",
+  "name": "Georgios Mantziaris",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "UVA page PGY-2; Google: Georgios Mantziaris MD (Athens MD 2014, Greek neurosurgery training, UVA research/clinical fellow 2021-25)",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-2 at UVA 2026-27. Note: previously trained in Greece (Hellenic Red Cross Hospital 2014-2020) and UVA fellow 2021-25 per search snippets; joined UVA residency 2025.",
+  "current": "neurosurgery resident PGY-2, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-2: Georgios Mantziaris"
+   },
+   {
+    "url": "https://www.linkedin.com/in/georgios-mantziaris/",
+    "type": "search_snippet",
+    "evidence": "Clinical Fellow, Neuro-oncology CAST Fellowship, Dept of Neurosurgery UVA (2023-25); MD University of Athens 2014"
+   }
+  ],
+  "searches_used": 2,
+  "usnews_note": null
+ },
+ {
+  "key": "113:kat:salotto",
+  "name": "Katelyn Salotto",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "UVA page PGY-2 Katelyn Salotto MD; Doximity Kate Salotto (Dartmouth Geisel 2025) now Charlottesville neurosurgery; co-author Dartmouth neurosurgery",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 at UVA 2026-27; MD Dartmouth 2025",
+  "current": "neurosurgery resident PGY-2, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-2: Katelyn Salotto"
+   },
+   {
+    "url": "https://www.doximity.com/pub/kate-salotto-md",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Charlottesville VA; Geisel School of Medicine at Dartmouth Class of 2025 (no residency listed)"
+   }
+  ],
+  "searches_used": 2,
+  "usnews_note": null
+ },
+ {
+  "key": "113:sat:saggi",
+  "name": "Satvir Saggi",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "UVA page PGY-2 Satvir Saggi MD; search: UCSF MD, 2025 Steinhart Award for incoming surgical residents at UNC",
+  "residency_stated": [
+   {
+    "institution": "University of North Carolina",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2026
+   },
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Consistent with DB: PGY-1 at UNC 2025-26 then joined UVA PGY-2 2026-27. UVA page: Resident Physician in Neurological Surgery; snippet notes 2025 Steinhart Award for incoming residents at UNC.",
+  "current": "neurosurgery resident PGY-2, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-2: Satvir Saggi"
+   },
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/satvir-saggi-md/",
+    "type": "search_snippet",
+    "evidence": "MD UCSF; Resident Physician in Neurological Surgery UVA; 2025 Steinhart Award For Incoming Surgical Residents at UNC"
+   }
+  ],
+  "searches_used": 2,
+  "usnews_note": null
+ },
+ {
+  "key": "113:hay:dux",
+  "name": "Hayden Dux",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "UVA page PGY-1 Hayden Dux MD; LinkedIn 'Neurosurgery Resident'; VCU School of Medicine",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 at UVA 2026-27",
+  "current": "neurosurgery resident PGY-1, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-1: Hayden Dux"
+   },
+   {
+    "url": "https://www.linkedin.com/in/hayden-dux-40a57214a/",
+    "type": "search_snippet",
+    "evidence": "Hayden Dux - Neurosurgery Resident"
+   }
+  ],
+  "searches_used": 2,
+  "usnews_note": null
+ },
+ {
+  "key": "113:nat:rolfe",
+  "name": "Nathaniel Rolfe",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "UVA page PGY-1 Nathaniel Rolfe MD; Columbia P&S student neurosurgery research",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 at UVA 2026-27",
+  "current": "neurosurgery resident PGY-1, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-1: Nathaniel Rolfe"
+   },
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/nathaniel-rolfe-md/",
+    "type": "bio",
+    "evidence": "Nathaniel Rolfe, MD - Neurosurgery (UVA resident page)"
+   }
+  ],
+  "searches_used": 2,
+  "usnews_note": null
+ },
+ {
+  "key": "113:rya:sindewald",
+  "name": "Ryan Sindewald",
+  "program_id": 113,
+  "identity": "confirmed",
+  "identity_basis": "UVA page PGY-1 Ryan Sindewald MD; UCSD medical student neurosurgery research",
+  "residency_stated": [
+   {
+    "institution": "University of Virginia",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 at UVA 2026-27",
+  "current": "neurosurgery resident PGY-1, UVA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://med.virginia.edu/neurosurgery/resident-training/current-residents/",
+    "type": "program_page",
+    "evidence": "UVA Neurosurgery Current Residents page (2026-27) lists PGY-1: Ryan Sindewald"
+   },
+   {
+    "url": "https://www.linkedin.com/in/ryan-sindewald-62660b1b9",
+    "type": "search_snippet",
+    "evidence": "Ryan Sindewald - M.D. Candidate (UCSD)"
+   }
+  ],
+  "searches_used": 2,
+  "usnews_note": null
+ },
+ {
+  "key": "114:bri:hanak",
+  "name": "Brian Hanak",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/CHOC/UW bio: Brian Hanak MD (Harvard 2011), UW Neurological Surgery residency 2011-2018",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW neurosurgery 2018, pediatric neurosurgery chief fellow SickKids 2018-19; ABNS certified",
+  "current": "pediatric neurosurgeon, CHOC / Children's Hospital of Orange County, Orange CA",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/brian-hanak-md",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://choc.org/medical-staff/neurosurgery/brian-hanak-md/",
+    "type": "bio",
+    "evidence": "completed his residency in Neurological Surgery at the University of Washington in 2018"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:kel:collins",
+  "name": "Kelly Collins",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and OHSU: Kelly Collins MD (Michigan 2011), UW neurosurgery residency 2011-2018 then pediatric fellowship UPMC",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "UW residency 2011-2018, research fellowship 2018-19, pediatric neurosurgery fellowship Pittsburgh 2019-20; ABNS certified",
+  "current": "assistant professor pediatric neurosurgery, OHSU, Portland OR",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/kelly-collins-md-b475163a",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.ohsu.edu/people/kelly-l-collins-md",
+    "type": "search_snippet",
+    "evidence": "M.D., 2011, University of Michigan; Neurological Surgery, University of Washington, 2018"
+   }
+  ],
+  "searches_used": 2,
+  "usnews_note": null
+ },
+ {
+  "key": "114:jam:bales",
+  "name": "James Bales",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Providence: James W. Bales MD, Pitt MD 2011, UW Neurological Surgery residency 2012-2019; coauthor with UW residents",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW neurosurgery 2019; ABNS certified",
+  "current": "neurosurgeon, Anchorage AK (Alaska Regional Hospital)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/james-bales-md-4ee2c24b",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://depts.washington.edu/neurosur/bio/james-bales-md-phd",
+    "type": "search_snippet",
+    "evidence": "UW Neurological Surgery bio: James Bales, M.D., Ph.D."
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:rob:bonow",
+  "name": "Robert Bonow",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/UW bio: Robert H. Bonow MD (Tufts 2012), UW neurosurgery residency 2012-2019, coauthor with UW residents Bales/Buckley",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW residency 2019; now UW faculty (neurotrauma/neurocritical care); ABNS certified",
+  "current": "neurosurgeon, Asst/Assoc Professor, UW/Harborview Medical Center, Seattle",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/cv/robert-bonow-md-9b9b7ca1",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2012 - 2019; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/bio/robert-h-bonow-md",
+    "type": "search_snippet",
+    "evidence": "joined the University of Washington as a resident in Neurological Surgery in 2012, graduating in 2019"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:rob:buckley",
+  "name": "Robert Buckley",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Nicklaus/Baptist: Robert T. Buckley MD (WashU 2012), UW neurosurgery residency 2012-2019, coauthor with Bales/Bonow (UW residents); ambiguous common name resolved by UW residency dates matching input",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2019
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW residency 2019; pediatric fellowship Seattle Children's; Army neurosurgeon Tripler; now pediatric neurosurgery Miami; ABNS certified",
+  "current": "pediatric neurosurgeon, Miami FL (Nicklaus Children's / Baptist Health)",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/robert-buckley-md-d6e40b4d",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2012 - 2019; WashU Medicine Class of 2012; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://baptisthealth.net/doctors/robert-thomas-buckley/6811400",
+    "type": "search_snippet",
+    "evidence": "completed his residency in Neurological Surgery at the University of Washington from 2012-2019 (search summary)"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:chi:ene",
+  "name": "Chibawanye Ene",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/MD Anderson: Chibawanye Ene MD PhD (Indiana MD 2013), UW neurosurgery residency 2013-2020; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW residency 2020 (incl. research 2016-18); neurosurgical oncology fellowship MD Anderson 2020-22; ABNS certified",
+  "current": "assistant professor neurosurgery, MD Anderson Cancer Center, Houston",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/chibawanye-ene-md",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://faculty.mdanderson.org/profiles/chibawanye_ene.html",
+    "type": "bio",
+    "evidence": "completed his residency in neurosurgery at the University of Washington School of Medicine"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:jos:abecassis",
+  "name": "Josh Abecassis",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/UofL: Isaac Josh Abecassis MD (Northwestern 2012), UW neurosurgery residency 2013-2020; known as 'Josh'",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW 2020 (enfolded skull base/cerebrovascular fellowship); endovascular fellowship Miami 2020-21; ABNS certified",
+  "current": "associate professor neurosurgery, Univ of Louisville / UofL Health",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/isaac-abecassis-md",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://uoflhealth.org/provider/isaac-j-abecassis-neurosurgery/",
+    "type": "bio",
+    "evidence": "completed a residency in neurological surgery at University of Washington in Seattle"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:lyn:mcgrath",
+  "name": "Lynn McGrath",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Northern Light/CNS: Lynn McGrath Jr. MD (UCF 2013), UW neurosurgery residency 2013-2020; UW news 2019 Innovator of Year",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW 2020; spine fellowship Weill Cornell; ABNS certified",
+  "current": "spine neurosurgeon, Portland ME (Northern Light); previously Weill Cornell/NYP",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/lynn-mcgrath-md-7e00f3c4",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2013 - 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/news-and-resources/lynn-mcgrath-md-named-2019-innovator-year-congress-neurological-surgeons",
+    "type": "news",
+    "evidence": "Lynn McGrath, MD named 2019 Innovator of the Year by the CNS (UW Dept of Neurological Surgery)"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:ari:barkley",
+  "name": "Ariana Barkley",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Children's Colorado: Ariana Barkley MD (Penn 2014), UW neurosurgery residency 2014-2021",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW 2021; pediatric fellowship UAB; ABNS certified",
+  "current": "pediatric neurosurgeon, Children's Hospital Colorado / Univ of Colorado, Aurora CO",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ariana-barkley-md",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:jac:ruzevick",
+  "name": "Jacob Ruzevick",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/UW: Jacob J. Ruzevick MD (Johns Hopkins 2014), UW neurosurgery internship 2014-15 and residency 2015-2021; UW faculty",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW 2021; skull base/neuro-onc fellowship USC; ABNS certified",
+  "current": "assistant professor neurosurgery, UW Medicine, Seattle",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jacob-ruzevick-md",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2015 - 2021; Internship 2014 - 2015; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.uwmedicine.org/bios/jacob-ruzevick",
+    "type": "search_snippet",
+    "evidence": "completed his residency in neurological surgery at the University of Washington"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:sam:emerson",
+  "name": "Samuel Emerson",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/UW/Fred Hutch: Samuel (Nutt) Emerson MD PhD, UW MD 2014, UW neurosurgery residency 2014-2021",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW 2021; fellowships Brigham and Women's (skull base; neuro-oncology); ABNS certified",
+  "current": "assistant professor neurosurgery, UW Medicine / Fred Hutch, Seattle",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/samuel-emerson-md",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://www.uwmedicine.org/bios/sam-emerson",
+    "type": "search_snippet",
+    "evidence": "Assistant Professor of Neurological Surgery; MD and PhD at University of Washington"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:abd:feroze",
+  "name": "Abdullah Feroze",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "Doximity/Children's National: Abdullah Feroze MD (Stanford 2015), UW neurosurgery residency 2015-2022",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW 2022; fellowships Harvard (BWH/BCH) and Children's National; now pediatric/cerebrovascular neurosurgeon. Doximity shows no ABNS line.",
+  "current": "neurosurgeon, Children's National Hospital, Washington DC; asst prof GWU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/abdullah-feroze-md",
+    "type": "doximity",
+    "evidence": "University of Washington Residency, Neurological Surgery, 2015 - 2022; Stanford Class of 2015"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/bio/abdullah-feroze-md",
+    "type": "search_snippet",
+    "evidence": "completed neurosurgical residency at the University of Washington/Harborview Medical Center (search summary of Children's National bio)"
+   }
+  ],
+  "searches_used": 1,
+  "usnews_note": null
+ },
+ {
+  "key": "114:chr:young",
+  "name": "Chris Young",
+  "program_id": 114,
+  "identity": "confirmed",
+  "identity_basis": "MD Anderson faculty profile and UW news/bio: Chris (Christopher C.) Young MD PhD, UW neurosurgery residency 2015-2022, chief resident during COVID; ambiguous common name resolved by UW residency",
+  "residency_stated": [
+   {
+    "institution": "University of Washington",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Completed UW residency 2022 (chief 2021-22; enfolded endovascular fellowship 2019-20), then Johns Hopkins endovascular fellowship 2022-23; now MD Anderson faculty",
+  "current": "assistant professor neurosurgery, Director Endovascular Surgical Neuro-Oncology, MD Anderson, Houston",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://faculty.mdanderson.org/profiles/christopher_young.html",
+    "type": "bio",
+    "evidence": "neurologic surgery residency at the University of Washington from 2015-2022, serving as Chief Resident during 2021-2022"
+   },
+   {
+    "url": "https://www.doximity.com/cv/christopher-young-md-phd",
+    "type": "doximity",
+    "evidence": "Neurosurgery, Houston TX; WA license 2019-2023; no residency line listed"
+   }
+  ],
+  "searches_used": 2,
+  "usnews_note": null
+ }
+]

@@ -1,0 +1,270 @@
+{
+ "program_id": 117,
+ "name": "Vanderbilt University Medical Center Program (Nashville, TN)",
+ "program_length": 7,
+ "complement_per_year": 3,
+ "first_class_year": null,
+ "hosts": [
+  {
+   "url": "http://www.mc.vanderbilt.edu/root/vumc.php?site=neurosurgery&doc=16652 (old VUMC sitebuilder 'Current Residents'; site=neurosurgery home since <=2008)",
+   "from": "2013-01 (first capture of the roster doc)",
+   "to": "2016-10 (Common Crawl); 301 to ww2 by 2017"
+  },
+  {
+   "url": "https://ww2.mc.vanderbilt.edu/neurosurgery/16652",
+   "from": "2017-01",
+   "to": "2019-11"
+  },
+  {
+   "url": "https://www.vumc.org/neurosurgery/<node> (same node ids; roster node 16652 never captured)",
+   "from": "2019-12",
+   "to": "2021 (homepage still live, department pages moved)"
+  },
+  {
+   "url": "https://www.vumc.org/neurosurgerydept/current-residents (stale 2020-21 list)",
+   "from": "2021-09",
+   "to": "2021-09"
+  },
+  {
+   "url": "https://www.vumc.org/neurosurgerydept/person/current-residents",
+   "from": "2021-10",
+   "to": "2026-09 (live)"
+  },
+  {
+   "url": "http://www.mc.vanderbilt.edu/documents/neurosurgery/files/ (org chart PDFs: 10/14/2016 chart says '19 Residents')",
+   "from": "2012",
+   "to": "2017"
+  },
+  {
+   "url": "http://vanderbiltneurosurgery.com/ (302 redirect only)",
+   "from": "2021-12",
+   "to": "2022-04"
+  }
+ ],
+ "observed_years": [
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025",
+  "2025-2026",
+  "2026-2027"
+ ],
+ "reconstructed_years": [],
+ "missing_years": [
+  "2011-2012"
+ ],
+ "gap_details": {
+  "2011-2012": "MISSING (low significance). Roster doc=16652 first captured 2013-01-06 (CDX exact, both parameter orders). Phase 2 re-audited: Wayback prefix site=neurosurgery 2009-2013 (homepage only; its 'Residency' link doc=16649/16647 and 'Resident Applicants' doc=32703 never captured before 2013), gapaudit on mc documents/neurosurgery, sbworddocs, gme, vanderbiltneurosurgery.com (nothing roster-like), PubMed affiliation mining 2010-2013 (no unexplained resident). Every entry class 2006-2012 appears at full size (2/yr to 2010, 3 for 2011 and 2012) on the Jan-2013 list, so a 2011-12 loss would need an over-complement class.",
+  "2012-2013": "Wayback 2013-01-06 (same content as CC 2013-05-19).",
+  "2013-2014": "No Wayback capture; Common Crawl CC-MAIN-2013-48 (2013-12-10), same as CC 2014-03.",
+  "2014-2015": "Wayback 2014-11-20 (updated 2014-10-02). CC 2014-08-02 version (already with the 2014 interns) still listed Jason Agran PGY5; removed by CC 2014-08-23.",
+  "2015-2016": "Wayback 2015-09-22 (updated 2015-08-03). Names split across tags; custom parser rejoins.",
+  "2016-2017": "Common Crawl CC-MAIN-2016-44 (2016-10-27; updated 2016-08-31). Same list on ww2 host Feb/Apr 2017 (Wayback) and org chart '19 Residents'. Coby Ray (PGY1 2015-16) gone.",
+  "2017-2018": "Common Crawl CC-MAIN-2018-05 of ww2.mc.vanderbilt.edu/neurosurgery/16652 (2018-01-23), same as CC 2017-07-27. Scott Parker (PGY6 2016-17) not listed; his classmates Cooper and He are PGY7 chiefs.",
+  "2018-2019": "OBSERVED in phase 2: Wayback 2019-05-13 of Ahilan Sivaganesan's bio (https://ww2.mc.vanderbilt.edu/neurosurgery/43771) prints the full 'Current Residents' side-menu: 20 names, alphabetical, no PGY labels (PGY inferred from entry year). It includes the PGY7s Dewan, Morone, Zuckerman and the 2018 interns Ali, Dambrino, Kamal, and not Cooper/He (2018 grads). The June 2018 menu on Zuckerman's bio (node 39791, 2018-06-16) still shows the 2017-18 list. Common Crawl CC-MAIN-2019-04 now answers: it has only one ww2 neurosurgery record (node 16316, Konrad bio), no roster; CC-2018-26..2019-30 have no roster node and no other resident-section page with the menu.",
+  "2019-2020": "Wayback 2019-11-19 (same as 2019-09-20).",
+  "2020-2021": "Content-dated 2020-21: Wayback 2021-09-20 of the stale /neurosurgerydept/current-residents page (PGY1 = MD 2020 class; Oct 2021 /person/ page shows them as PGY2). The vumc.org/neurosurgery/16652 node of 2019-21 was never captured.",
+  "2021-2022": "Wayback 2021-10-23. David Voce under 'Research Gap Year' (pgy blank). Claudio Cavallo listed PGY2 again (was PGY2 in 2020-21); gone on 2022-05-16 version.",
+  "2022-2023": "Wayback 2022-09-29 (unchanged through 2023-06).",
+  "2023-2024": "Wayback 2023-12-10; 'Chief Residents' block has no PGY, PGY filled from entry year.",
+  "2024-2025": "Wayback 2024-10-15 (unchanged to 2025-07).",
+  "2025-2026": "Wayback 2026-01-15 (adds Bhamidipati PGY2, absent 2025-10-12).",
+  "2026-2027": "Live page 2026-09-27, advanced (new interns Doss, Lyons, Niznik)."
+ },
+ "alumni_page": null,
+ "departures": [
+  {
+   "name": "Jason Agran",
+   "last_ay": "2013-2014",
+   "last_pgy": 4,
+   "note": "Removed Aug 2014 at the start of PGY5. Later Medtronic research (PMID 29065235, 29633438): left_medicine (industry), judgement."
+  },
+  {
+   "name": "Coby Ray",
+   "last_ay": "2015-2016",
+   "last_pgy": 1,
+   "note": "Switched to ophthalmology (Texas Tech ophthalmology 2025 PMID 41246121; oculoplastics 2026 PMID 42455407)."
+  },
+  {
+   "name": "Claudio Cavallo",
+   "last_ay": "2021-2022",
+   "last_pgy": 2,
+   "note": "Left after 2021-22; neurosurgery in Switzerland (EOC Lugano 2022-24, USZ Zurich 2025): recorded transferred (non-US), role unconfirmed."
+  }
+ ],
+ "joiners": [
+  {
+   "name": "Breanne Reisen",
+   "first_ay": "2023-2024",
+   "first_pgy": 2,
+   "note": "origin unknown (MD Central Michigan; 2022 Children's Hospital of Michigan ped neurosurgery affiliation); not on any other study roster"
+  },
+  {
+   "name": "Akshay Bhamidipati",
+   "first_ay": "2025-2026",
+   "first_pgy": 2,
+   "note": "transfer from UNM (97) mid 2025-26"
+  }
+ ],
+ "residents_2011plus": 51,
+ "adjudication_summary": {
+  "COMPLETED": 33,
+  "IN TRAINING": 24,
+  "LEFT -> LEFT MEDICINE/OTHER": 1,
+  "LEFT -> SWITCHED SPECIALTY": 1,
+  "LEFT -> TRANSFERRED": 1
+ },
+ "problems": "(1) Adjudicator merges twins Mahan and Mayshan Ghiassi (pre-2011 entrants, both graduated 2014; separate training_history rows inserted). (2) 2018-19 PGYs are inferred (side menu has no PGY labels); Mistry and Voce left blank. (3) Extended trainees: Davis, Mistry, Voce, Sarpong (PGY4 twice), Longo (PGY7/endovascular fellow 2026-27). (4) No alumni page; graduations recorded as 'PGY-terminal roster'. (5) All phase-1 failed Common Crawl scans reran successfully in phase 2 except CC-2015-32..48 on the old host (not rerun; 2015-16 already observed).",
+ "year_status": {
+  "2011-2012": {
+   "status": "missing",
+   "significance": "low",
+   "reason": "no capture before Jan 2013, but all classes on the Jan-2013 list are at complement; only an over-complement 2011 intern leaving before Jan 2013 could be missed"
+  },
+  "2012-2013": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2013-2014": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2014-2015": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2015-2016": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2016-2017": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2017-2018": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2018-2019": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "May-2019 side-menu list of all 20 residents; every class full (3 interns 2018, 3 PGY7s)"
+  },
+  "2019-2020": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2020-2021": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "stale page captured Sep 2021, content-dated 2020-21; complete and consistent with 2019-20 and Oct 2021"
+  },
+  "2021-2022": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2022-2023": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2023-2024": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2024-2025": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2025-2026": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  },
+  "2026-2027": {
+   "status": "observed",
+   "significance": "none",
+   "reason": "roster capture, complete"
+  }
+ },
+ "completions_resolved": [
+  {
+   "name": "Scott Parker",
+   "note": "NOT a departure: completed in 6 years (bio: intern 2011-12, resident 2012-2017), Assistant Professor on faculty page by Apr 2018."
+  },
+  {
+   "name": "Michael Dewan / Peter Morone / Scott Zuckerman",
+   "note": "NOT departures: on the 2018-19 list (May 2019) as the chief class; graduated 2019."
+  }
+ ],
+ "terminal_pgy_by_entry_year": {
+  "2005": 7,
+  "2006": 7,
+  "2007": 7,
+  "2008": 7,
+  "2009": 7,
+  "2010": 7,
+  "2011": 7,
+  "2012": 7,
+  "2013": 7,
+  "2014": 7,
+  "2015": 7,
+  "2016": 7,
+  "2017": 7,
+  "2018": 7,
+  "2019": 7,
+  "2020": 7,
+  "2021": 7,
+  "2022": 7,
+  "2023": 7,
+  "2024": 7,
+  "2025": 7,
+  "2026": 7
+ },
+ "training_history_rows": 39,
+ "phase2": {
+  "searched": [
+   "raw phase-1 files re-read (no unparsed gap-year roster)",
+   "Wayback full prefix listing ww2.mc.vanderbilt.edu/neurosurgery 2017-2020 (all node ids, no word filter) and fetch of every 2018-19 capture",
+   "Common Crawl (shared cclocal, fixed filter, all records saved): ww2 neurosurgery in CC-2017-26, 2017-43, 2018-17, 2018-26..2019-30 incl. retried CC-MAIN-2019-04 (now OK); org,vumc)/neurosurgery/ CC-2016-36, 2020-29, 2021-17; old host doc=16652 CC-2017-43, 2018-17; mc documents/neurosurgery CC-2017-43, 2019-04; S3 prd-medweb-cdn CC-2017-04, 2019-04",
+   "Wayback prefix old sitebuilder site=neurosurgery 2009-2013 + homepage link audit; gapaudit 2010-2013 over mc documents/neurosurgery, mc neurosurgery, gme, sbworddocs, vanderbiltneurosurgery.com",
+   "PubMed affiliation mining 2010-2013 and 2017-2020 (Vanderbilt + neurosurgery)",
+   "PubMed per-person: Parker, Agran, Ray, Cavallo, Reisen",
+   "live vumc.org person pages for Reisen and Bhamidipati",
+   "crossmatch.json (Bhamidipati UNM->Vanderbilt)"
+  ],
+  "found": [
+   "2018-19 full list (20) in the May-2019 side menu of a resident bio page; replaces the manual reconstruction",
+   "Parker completed 2017 (faculty bio + faculty page Apr 2018)",
+   "Agran -> Medtronic (industry)",
+   "Ray -> ophthalmology",
+   "Cavallo -> neurosurgery in Switzerland",
+   "Reisen 2022 Michigan affiliation (origin still unknown)",
+   "CC-MAIN-2019-04 readable again: no roster in it"
+  ],
+  "remaining": [
+   "2011-12 unobservable (low significance)",
+   "Reisen's PGY1 site",
+   "Cavallo's exact Swiss role"
+  ]
+ }
+}

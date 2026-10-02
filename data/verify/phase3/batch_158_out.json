@@ -1,0 +1,967 @@
+[
+ {
+  "key": "121:jes:mcclure",
+  "name": "Jesse McClure",
+  "program_id": 121,
+  "identity": "probable",
+  "identity_basis": "WVU neurosurgery current-residents page lists Jesse McClure, MD, PGY-3 (2026-27); Doximity 'Jesse McClure MD, Resident Physician, Boca Raton FL, UVA School of Medicine class of 2023' with neurosurgery publications (spine/radiosurgery) - consistent with prelim year then WVU 2024 start; Doximity profile does not name WVU",
+  "residency_stated": [
+   {
+    "institution": "West Virginia University",
+    "specialty": "neurosurgery",
+    "start": 2024,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed PGY-3 on WVU current residents page 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-3, WVU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "WVU neurosurgery current residents list: Resident, PGY-3"
+   },
+   {
+    "url": "https://www.doximity.com/pub/jesse-mcclure-md",
+    "type": "doximity",
+    "evidence": "University of Virginia School of Medicine, Class of 2023; Resident Physician, Boca Raton FL"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "121:sre:nidamanuri",
+  "name": "Sreecharita Nidamanuri",
+  "program_id": 121,
+  "identity": "confirmed",
+  "identity_basis": "WVU current residents page lists Sreecharita Nidamanuri, MD PGY-2; Doximity search result 'Dr. Sreecharita Nidamanuri, MD - Morgantown, WV'; Creighton MD",
+  "residency_stated": [
+   {
+    "institution": "West Virginia University",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-2 on WVU current residents page 2026-27; Doximity shows Morgantown WV location (public profile disabled when opened)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery resident PGY-2, WVU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "WVU neurosurgery current residents list: Resident, PGY-2"
+   },
+   {
+    "url": "https://www.doximity.com/pub/sreecharita-nidamanuri-md",
+    "type": "search_snippet",
+    "evidence": "Dr. Sreecharita Nidamanuri, MD - Morgantown, WV | Other MD/DO on Doximity (page opened: 'Public profile not found or disabled')"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "121:jan:naidugari",
+  "name": "Janki Naidugari",
+  "program_id": 121,
+  "identity": "confirmed",
+  "identity_basis": "WVU current residents page lists Janki Naidugari, MD PGY-1; neurosurgery-research publications (Louisville med student)",
+  "residency_stated": [
+   {
+    "institution": "West Virginia University",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 on WVU current residents page 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery intern PGY-1, WVU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "WVU neurosurgery current residents list: Resident, PGY-1"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "121:sou:pahari",
+  "name": "Soumya Pahari",
+  "program_id": 121,
+  "identity": "confirmed",
+  "identity_basis": "WVU current residents page lists Soumya Pahari, MBBS PGY-1; Nepal-trained neurosurgery researcher (Nepalese Army Institute of Health Sciences)",
+  "residency_stated": [
+   {
+    "institution": "West Virginia University",
+    "specialty": "neurosurgery",
+    "start": 2026,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "PGY-1 on WVU current residents page 2026-27",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgery intern PGY-1, WVU",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.hsc.wvu.edu/neurosurgery/residents/current-residents/",
+    "type": "program_page",
+    "evidence": "WVU neurosurgery current residents list: Resident, PGY-1"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "122:art:wang",
+  "name": "Arthur Wang",
+  "program_id": 122,
+  "identity": "probable",
+  "identity_basis": "Tulane bio: neurosurgery residency at New York Medical College, endovascular fellowship Columbia; 2016-17 World Neurosurgery papers with Westchester authors. Doximity 'arthur-wang-md' is a different person (family medicine, Martinez CA) so not used; no Tulane bio gives residency years",
+  "residency_stated": [
+   {
+    "institution": "New York Medical College / Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": null,
+    "end": null
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising board-certified neurosurgeon (Professor, Tulane; endovascular) with NYMC residency; years not stated in sources",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "Professor of neurosurgery, endovascular division director, Tulane University, New Orleans",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://medicine.tulane.edu/departments/neurosurgery/faculty/arthur-wang-md-faans",
+    "type": "bio",
+    "evidence": "Completed neurosurgery residency at New York Medical College; fellowship endovascular neurosurgery at Columbia; board-certified, FAANS"
+   },
+   {
+    "url": "https://www.doximity.com/pub/arthur-wang-md",
+    "type": "doximity",
+    "evidence": "Different person: Arthur Francis Wang, family medicine, Martinez CA (rejected; only shows two NYMC-neurosurgery PubMed items mis-attributed)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "122:jen:ronecker",
+  "name": "Jennifer Ronecker",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: NYMC MD 2011, ABNS neurological surgery; Phoenix Children's bio pediatric neurosurgeon; co-author with Westchester residents on 2016 CNS abstract",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center (NYMC)",
+    "specialty": "neurosurgery",
+    "start": 2012,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Practising pediatric neurosurgeon, ABNS-certified; NYMC MD 2011 fits 2012 start (Doximity education section lists no residency line)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "pediatric neurosurgeon, Phoenix Children's Hospital / Barrow, Phoenix AZ",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jennifer-ronecker-md",
+    "type": "doximity",
+    "evidence": "New York Medical College Class of 2011; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://phoenixchildrens.org/find-a-doctor/jennifer-s-ronecker-md",
+    "type": "search_snippet",
+    "evidence": "pediatric neurosurgeon at Barrow Neurological Institute at Phoenix Children's"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:anu:amin",
+  "name": "Anubhav Amin",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and UW bio: Westchester Medical Center neurosurgery residency, JHU MD 2013; matching Westchester resident co-author lists",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2013,
+    "end": 2020
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity: Westchester Medical Center Residency, Neurological Surgery, 2020; MSK fellowship 2020-2021; ABNS certified",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "neurosurgeon (spine oncology), University of Washington/Fred Hutch, Seattle",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/anubhav-amin-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2020; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://neurosurgery.uw.edu/bio/anubhav-g-amin-md",
+    "type": "bio",
+    "evidence": "completed neurosurgery residency at New York Medical College at Westchester Medical Center (search snippet summary)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:joh:wainwright",
+  "name": "John Wainwright",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Westchester Medical Center residency 2014-2021, NYMC MD 2014",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity Residency Neurological Surgery 2014-2021; Jefferson fellowship 2021-22; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "current": "spine neurosurgeon, WMC Health Brain and Spine Institute, Valhalla NY",
+  "agrees_with_db": true,
+  "disagreement": "",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/john-wainwright-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2014 - 2021; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:mic:kim",
+  "name": "Michael Kim",
+  "program_id": 122,
+  "identity": "probable",
+  "identity_basis": "Doximity/UCI bio: Michael Kim, Brown MD 2014, Westchester Medical Center neurosurgery residency 2014-2021 (matches input years); co-authors Westchester residents Zeller, Cooper. Common name but years match exactly",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2014,
+    "end": 2021
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency 2014-2021 then UCI skull base fellowship 2021-22; ABNS",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgeon (skull base/cerebrovascular), UCI Health, Orange CA",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/michael-kim-md-5c5a7760",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2014 - 2021; Brown MD Class of 2014; American Board of Neurological Surgery"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:tol:sursal",
+  "name": "Tolga Sursal",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Westchester residency 2015-2022, EVMS MD 2015; distinctive name",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2015,
+    "end": 2022
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency 2015-2022; UVA spine fellowship; practising neurosurgeon Virginia Beach (Doximity certifications list no ABNS entry, sources call him board-certified)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgeon (spine), Jordan-Young Institute, Virginia Beach VA",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/tolga-sursal-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2015 - 2022; Eastern Virginia Medical School Class of 2015"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:jar:cooper",
+  "name": "Jared Cooper",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: NYMC MD 2016, Westchester residency 2016-2023, endovascular fellowship 2023-24",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2016,
+    "end": 2023
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency 2016-2023; neuroendovascular fellowship Westchester 2023-24",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "attending neurosurgeon (cerebrovascular/endovascular), White Plains Hospital NY",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jared-cooper-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2016 - 2023; NYMC Class of 2016"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:jos:dominguez",
+  "name": "Jose Dominguez",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Loyola Stritch MD 2017, Westchester residency 2017-2024; Valhalla NY",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2017,
+    "end": 2024
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency 2017-2024 per Doximity; now Valhalla NY neurosurgery",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgeon, Valhalla NY (Westchester Medical Center)",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": null,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/jose-dominguez-md-5bed64f5",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2017 - 2024; Loyola Stritch Class of 2017"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:ala:stein",
+  "name": "Alan Stein",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: FAU MD 2018, UF surgery internship 2018-19, Westchester residency 2019-2025",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2025
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Doximity lists residency 2019-2025 (title still 'PGY-2 Resident', stale); pediatric spine fellowship Shriners then Florida spine practice; input last_seen 2023-24 (graduated 2024-25 per Doximity)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "fellowship-trained spine surgeon, Brain and Spine Center of South Florida",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/alan-stein-md-c617ffb3",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2019 - 2025"
+   },
+   {
+    "url": "https://www.brainandspinemds.com/provider/alan-stein-md",
+    "type": "bio",
+    "evidence": "Alan Stein, MD fellowship trained spine surgeon, Delray Beach (search result title)"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:nit:damodara",
+  "name": "Nitesh Damodara",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Search results: Rutgers NJMS 2019, Westchester chief resident; Yale neurosurgery clinical fellow",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2019,
+    "end": 2026
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Chief resident at Westchester; now Clinical Fellow, Yale Neurosurgery (fellowship implies residency completed 2026); Doximity profile exists in Valhalla NY per search summary but URL not found",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "clinical fellow, Yale neurosurgery",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://medicine.yale.edu/profile/nitesh-damodara/",
+    "type": "bio",
+    "evidence": "Clinical Fellow, Department of Neurosurgery, Yale School of Medicine"
+   },
+   {
+    "url": "https://www.doximity.com/pub/nitesh-damodara-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2019 - 2026; Rutgers NJMS Class of 2018"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "122:mon:mureb",
+  "name": "Monica Mureb",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Westchester residency 2020-2027, NYIT-COM 2020; ResearchGate/LinkedIn list her as Westchester neurosurgery resident",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity residency 2020-2027 (expected end); current resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgery resident (senior), Westchester Medical Center",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/monica-mureb-do",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2020 - 2027; NYIT College of Osteopathic Medicine Class of 2020"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:sab:zeller",
+  "name": "Sabrina Zeller",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Westchester residency 2020-2027, Rutgers RWJMS 2020; search bio: PGY-5 neurosurgery resident at Westchester/NYMC",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2020,
+    "end": 2027
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity residency 2020-2027; still resident (2026 publications with Westchester affiliation)",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgery resident, Westchester Medical Center",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sabrina-zeller-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2020 - 2027"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:aus:carpenter",
+  "name": "Austin Carpenter",
+  "program_id": 122,
+  "identity": "probable",
+  "identity_basis": "Search: Austin B. Carpenter, MD, Resident Physician Dept of Neurosurgery Westchester Medical Center (LinkedIn/ResearchGate); coauthor with Westchester residents on 2024 'Critical Care of Spinal Cord Injury' (listed on Rawanduzy Doximity page). No Doximity profile",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Listed as neurosurgery resident at Westchester; no dated source",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgery resident, Westchester Medical Center",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.linkedin.com/in/austinbcarpenter/",
+    "type": "search_snippet",
+    "evidence": "Austin B. Carpenter, MD - Westchester Medical Center (Resident Physician, Department of Neurosurgery)"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "122:ily:frid",
+  "name": "Ilya Frid",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Westchester residency 2021-2028; ZoomInfo/search: neurosurgery resident Westchester; Geisinger MD",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2021,
+    "end": 2028
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity residency 2021-2028 (expected end); current",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgery resident, Westchester Medical Center",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/ilya-frid-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2021 - 2028"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:eri:feldstein",
+  "name": "Eric Feldstein",
+  "program_id": 122,
+  "identity": "probable",
+  "identity_basis": "Search: Eric Feldstein matched neurosurgery at Westchester in 2022, NYMC class 2021 (NYMC news, ResearchGate 'Resident, Westchester Medical Center'); no Doximity profile found",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Matched 2022 at Westchester; listed as resident",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgery resident, Westchester Medical Center",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.researchgate.net/profile/Eric-Feldstein-2",
+    "type": "search_snippet",
+    "evidence": "Eric FELDSTEIN | Resident | Doctor of Medicine | Westchester Medical Center, Valhalla"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "122:sau:soldozy",
+  "name": "Sauson Soldozy",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Westchester residency 2022-2029, UVA MD 2021",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2022,
+    "end": 2029
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity residency 2022-2029 (expected end); current",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgery resident, Westchester Medical Center",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/sauson-soldozy-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2022 - 2029; University of Virginia Class of 2021"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:cam:rawanduzy",
+  "name": "Cameron Rawanduzy",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Westchester residency 2023-2030, NYMC MD 2022",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity residency 2023-2030 (expected end); current",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgery resident, Westchester Medical Center",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/cameron-rawanduzy-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2023 - 2030; New York Medical College Class of 2022"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:sha:busse",
+  "name": "Shaye Busse",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Westchester residency 2023-2030, UCF MD 2023; title 'PGY-3'",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2023,
+    "end": 2030
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity residency 2023-2030 (expected end); current",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgery resident, Westchester Medical Center",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/shaye-busse-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2023 - 2030; University of Central Florida College of Medicine Class of 2023"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:eri:spirollari",
+  "name": "Eris Spirollari",
+  "program_id": 122,
+  "identity": "confirmed",
+  "identity_basis": "Doximity: Westchester residency 2025-2032, NYMC MD 2024",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": 2032
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "Doximity residency 2025-2032 (expected end); current",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgery resident (PGY-2), Westchester Medical Center",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/eris-spirollari-md",
+    "type": "doximity",
+    "evidence": "Westchester Medical Center Residency, Neurological Surgery, 2025 - 2032; NYMC Class of 2024"
+   }
+  ],
+  "searches_used": 1
+ },
+ {
+  "key": "122:ilo:cazorla-morales",
+  "name": "Ilona Cazorla-Morales",
+  "program_id": 122,
+  "identity": "probable",
+  "identity_basis": "Name matches: Ilona Cazorla-Morales, Hackensack Meridian SOM medical student with neurosurgery research; NPI 1326842568 (Apr 2025) lists 'student in an organized health care training program, Valhalla NY' (Westchester). No source names program/specialty explicitly",
+  "residency_stated": [
+   {
+    "institution": "Westchester Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2025,
+    "end": null
+   }
+  ],
+  "outcome": "in_training",
+  "outcome_detail": "NPI registered Valhalla NY Apr 2025 as resident-in-training; consistent with entry 2025",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "neurosurgery resident (PGY-1/2), Westchester Medical Center",
+  "checks": {
+   "google": "found",
+   "doximity": "not_found",
+   "usnews": "deferred"
+  },
+  "abns_certified": false,
+  "sources": [
+   {
+    "url": "https://npiprofile.com/npi/1326842568",
+    "type": "search_snippet",
+    "evidence": "ILONA JOAN CAZORLA-MORALES - Student in an Organized Health Care Education/Training Program in Valhalla, NY"
+   }
+  ],
+  "searches_used": 2
+ },
+ {
+  "key": "123:eyi:damisah",
+  "name": "Eyiyemisi Damisah",
+  "program_id": 123,
+  "identity": "confirmed",
+  "identity_basis": "Doximity and Yale bio: Yale MD 2011, Yale-New Haven residency 2011-2018, distinctive name",
+  "residency_stated": [
+   {
+    "institution": "Yale-New Haven Medical Center",
+    "specialty": "neurosurgery",
+    "start": 2011,
+    "end": 2018
+   }
+  ],
+  "outcome": "completed",
+  "outcome_detail": "Residency 2011-2018, functional neurosurgery fellowship, ABNS; Yale faculty since 2019",
+  "year_left": null,
+  "destination_program": null,
+  "destination_start_year": null,
+  "agrees_with_db": true,
+  "disagreement": "",
+  "current": "Division chief, Epilepsy and Functional Neurosurgery, Yale School of Medicine",
+  "checks": {
+   "google": "found",
+   "doximity": "found",
+   "usnews": "deferred"
+  },
+  "abns_certified": true,
+  "sources": [
+   {
+    "url": "https://www.doximity.com/pub/eyiyemisi-damisah-md",
+    "type": "doximity",
+    "evidence": "Yale-New Haven Medical Center Residency, Neurological Surgery, 2011 - 2018; American Board of Neurological Surgery"
+   },
+   {
+    "url": "https://medicine.yale.edu/profile/eyiyemisi-damisah/",
+    "type": "bio",
+    "evidence": "obtained medical degree, neurosurgical residency and functional fellowship at Yale (search summary)"
+   }
+  ],
+  "searches_used": 2
+ }
+]

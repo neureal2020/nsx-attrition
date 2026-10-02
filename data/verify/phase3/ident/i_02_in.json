@@ -1,0 +1,593 @@
+[
+ {
+  "key": "45:rae:moustafa",
+  "name": "Raed Moustafa",
+  "program_id": 45,
+  "program": "MedStar Health Georgetown University Program",
+  "entry_year": 2014,
+  "first_seen": "2014-2015",
+  "last_seen": "2016-2017",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "WebMD BU MD 2014 neurological surgery; CareDash 'Resident, Washington DC, MedStar Georgetown'",
+   "outcome": "unknown",
+   "outcome_detail": "Not in MedStar Georgetown neurosurgery recent-graduates list (2001-2026) - supports not completing there, but no destination found. WebMD West Hollywood CA entry unsupported.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.medstarhealth.org/education/residency-programs/neurosurgery/recent-graduates",
+     "type": "program_page",
+     "evidence": "graduates 2001-2026 do not include Moustafa"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "48:ann:filley",
+  "name": "Anna Filley",
+  "program_id": 48,
+  "program": "New York Presbyterian Hospital (Columbia Campus) Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2021-2022",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity Anna Filley, Indiana Univ MD 2018, NYP Columbia neurosurgery residency 2018-2025; Columbia lab page lists neurosurgery resident 2019-2020",
+   "outcome": "unknown",
+   "outcome_detail": "Not on Columbia neurosurgery current-residents page (PGY1-7) nor on 2024-2026 graduates list; last publications 2024 are with Columbia orthopaedic spine authors (Rangwalla, Gendelberg); ResearchGate lists Dept of Orthopaedic Surgery postdoc 2018-Jan 2025. Doximity residency 2018-2025 looks auto-populated; CA license 2023-2025. Switch to orthopaedics not confirmed, completion of neurosurgery not supported.",
+   "current": "unknown; Doximity lists Neurosurgery, 177 Fort Washington NYC",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.neurosurgery.columbia.edu/education/residency-program/graduates",
+     "type": "program_page",
+     "evidence": "2024-2026 graduates listed; Filley not among them"
+    },
+    {
+     "url": "https://www.neurosurgery.columbia.edu/education/residency-program/current-residents",
+     "type": "program_page",
+     "evidence": "current PGY1-7 roster; no Filley"
+    },
+    {
+     "url": "https://www.doximity.com/pub/anna-filley-md",
+     "type": "doximity",
+     "evidence": "Residency, Neurological Surgery, 2018 - 2025 NYP Columbia; 2024 spine papers with Rangwalla, Gendelberg"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "49:lee:wheeler",
+  "name": "Lee Adam Wheeler",
+  "program_id": 49,
+  "program": "New York Presbyterian Hospital (Cornell Campus) Program \u00a9 2026 Accredi",
+  "entry_year": 2015,
+  "first_seen": "2015-2016",
+  "last_seen": "2018-2019",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "HMS MD-PhD class of 2015 page (phase 3): residency Neurological Surgery at Cornell/MSK",
+   "outcome": "unknown",
+   "outcome_detail": "Three targeted searches (name+Cornell/MSK/neurosurgery/Boston, MD-PhD residency appointment lists) found nothing beyond match-time listing.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": []
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "51:ahm:jorge",
+  "name": "Ahmed Jorge",
+  "program_id": 51,
+  "program": "Ohio State University Hospital Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2023-2024",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "OSU X post Match 2021 lists him; Pitt MD 2021 per Healthgrades snippet",
+   "outcome": "unknown",
+   "outcome_detail": "Absent from OSU roster; Match-2021 Pitt grad; searches of other-specialty rosters and Pitt match lists found nothing. Healthgrades/WebMD still list him as a Columbus neurosurgeon (stale directory data).",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://x.com/NeurosurgeryOSU/status/1372971646819004420",
+     "type": "search_snippet",
+     "evidence": "welcome Mark Damante, Ahmed Jorge, and Josh Weinberg"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "51:chr:swann",
+  "name": "Christen O'Neal Swann",
+  "program_id": 51,
+  "program": "Ohio State University Hospital Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2025-2026",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "X/ResearchGate: Christen O'Neal Swann MD, Neurosurgery PGY-1 at OSU (matched Mar 2022)",
+   "outcome": "unknown",
+   "outcome_detail": "Still listed as OSU neurosurgery resident on X/ResearchGate/Doximity (2022-2028); absent from current roster page, possibly research/leave year. No source shows departure or destination.",
+   "current": "unknown (possibly still OSU neurosurgery resident on research/leave)",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://x.com/christen_oneal",
+     "type": "search_snippet",
+     "evidence": "Christen O'Neal Swann, MD; Neurosurgery PGY-1 at OSU (per search summary)"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "52:bri:stedelin",
+  "name": "Brittany Stedelin",
+  "program_id": 52,
+  "program": "Oregon Health & Science University (OHSU Health) Program",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2024-2025",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "OHSU roster 2023-24 lists Brittany Stedelin PGY1 neurosurgery; OHSU MD",
+   "outcome": "unknown",
+   "outcome_detail": "Absent from current OHSU neurosurgery roster; searches across OHSU other-specialty rosters and 'resident' terms found nothing. Not located at any destination.",
+   "current": "unknown (possibly Oregon)",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.ohsu.edu/sites/default/files/2023-08/resident%20roster%202023-24%20color.pdf",
+     "type": "program_page",
+     "evidence": "Neurological Surgery Residents and Fellows 2023-24; Stedelin PGY1 (per search summary)"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "53:den:madden",
+  "name": "Dennis Madden",
+  "program_id": 53,
+  "program": "Penn State Milton S Hershey Medical Center Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2021-2022",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> outcome unknown (NPI hint: other specialty)",
+  "tier": 1,
+  "prior": {
+   "identity": "ambiguous",
+   "identity_basis": "Only NPI trainee record in Hershey PA (Apr 2021, updated Mar 2023)",
+   "outcome": "unknown",
+   "outcome_detail": "NPI record updated March 2023 as trainee at Hershey suggests he may have stayed at Penn State in another training program, but specialty not found in any roster.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://npiprofile.com/npi/1982285599",
+     "type": "search_snippet",
+     "evidence": "Student in an Organized Health Care Education/Training Program in Hershey, PA"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "53:sam:alsalek",
+  "name": "Samir Alsalek",
+  "program_id": 53,
+  "program": "Penn State Milton S Hershey Medical Center Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "Penn State Neurosurgery Instagram Mar 2025: matched into Penn State Neurosurgery; Penn State directory PGY-1",
+   "outcome": "unknown",
+   "outcome_detail": "Matched 2025, PGY-1 2025-26, absent from current roster (as is co-matchee Quon). No destination found.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.instagram.com/pennstneurosurg/p/DHeAMzIuTiM/",
+     "type": "program_page",
+     "evidence": "Congratulations to Samir Alsalek, Zeegan George, and Robert Quon on matching into Penn State Neurosurgery"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "56:jos:morrison",
+  "name": "Joseph Morrison",
+  "program_id": 56,
+  "program": "Rush University Medical Center Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2023-2024",
+  "last_pgy": 6,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "Doximity: Joseph D Morrison, UIC MD 2017, Neurosurgical Resident at Rush",
+   "outcome": "unknown",
+   "outcome_detail": "Doximity: Resident Physician at Aurora CO (CU Anschutz address), IL license lapses 2024; neuroendovascular publications from Rush; CU endovascular fellowship page lists only another fellow. Destination not established (possibly Colorado fellowship/residency).",
+   "current": "Resident Physician, Aurora CO (specialty unknown)",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/joe-morrison-md",
+     "type": "doximity",
+     "evidence": "Resident Physician, Aurora CO; Summary: Neurosurgical Resident at Rush University Medical Center; UIC College of Medicine Class of 2017"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "57:sea:munier",
+  "name": "Sean Munier",
+  "program_id": 57,
+  "program": "Rutgers Health/New Jersey Medical School Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "Rutgers RWJMS MD 2019; Rutgers neurosurgery resident page (PGY5 at time of capture)",
+   "outcome": "unknown",
+   "outcome_detail": "PGY7 in 2025-26 so expected to graduate June 2026, but no announcement, fellowship or practice listing found in 5 searches (Doximity, WebMD, Rutgers page, fellowship/graduation searches).",
+   "current": "Doximity: Resident Physician Neurosurgery, Englewood NJ",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/sean-munier-md",
+     "type": "doximity",
+     "evidence": "Neurosurgery Resident Physician; Rutgers RWJMS class of 2019"
+    },
+    {
+     "url": "https://sites.rutgers.edu/neurological-surgery/people/sean-munier-md/",
+     "type": "program_page",
+     "evidence": "PGY 5"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "64:ben:leichty",
+  "name": "Benjamin Leichty",
+  "program_id": 64,
+  "program": "Temple University Hospital Program",
+  "entry_year": 2010,
+  "first_seen": "2010-2011",
+  "last_seen": "2010-2011",
+  "last_pgy": null,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "prior": {
+   "identity": "not_found",
+   "identity_basis": "No profile; Liechty neuropathologist (Jefferson MD, NYU pathology) is a different trajectory, no Temple link",
+   "outcome": "unknown",
+   "outcome_detail": "Only Temple 2010-11 roster. Variant Benjamin L. Liechty (Jefferson MD, NYU anatomic pathology, neuropathology) not linked to Temple neurosurgery; possibly the same person (would be switch to pathology) but unconfirmed.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/benjamin-liechty-md",
+     "type": "search_snippet",
+     "evidence": "Pathology, New York NY"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "65:emi:anderson",
+  "name": "Emily Anderson",
+  "program_id": 65,
+  "program": "Tufts Medical Center Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2020-2021",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "tier": 1,
+  "prior": {
+   "identity": "ambiguous",
+   "identity_basis": "WebMD Emily Anderson Tufts MD 2019, neurosurgery+pediatrics; no confirmation",
+   "outcome": "unknown",
+   "outcome_detail": "No source ties Emily Anderson to a destination; common name.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://doctor.webmd.com/doctor/emily-anderson-b2d73944-0345-407e-b684-7888f3543dae-overview",
+     "type": "search_snippet",
+     "evidence": "Tufts MD 2019, Neurological Surgery/Pediatrics, Boston"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "69:ken:rajjoub",
+  "name": "Kenan Rajjoub",
+  "program_id": 69,
+  "program": "University at Buffalo Program",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2021-2022",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "Doximity/ResearchGate: Kenan Rajjoub, GWU MD 2020, Resident Physician Buffalo neurosurgery",
+   "outcome": "unknown",
+   "outcome_detail": "LinkedIn snippet: Researcher at Mayo Clinic; radiology/neuroradiology publication affiliation; not confirmed on a Mayo residency roster. Possible move to radiology, unproven.",
+   "current": "Researcher, Mayo Clinic (per LinkedIn snippet)",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.linkedin.com/in/kenan-r-rajjoub-md-85248261/",
+     "type": "search_snippet",
+     "evidence": "Kenan R. Rajjoub MD - Researcher - Mayo Clinic"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "70:log:powell",
+  "name": "Logan Powell",
+  "program_id": 70,
+  "program": "University of Alabama Hospital (Birmingham) Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "UAB Neurosurgery X post and TAMU X post: Logan Powell matched UAB neurosurgery 2025",
+   "outcome": "unknown",
+   "outcome_detail": "Absent from PGY-2; no destination found. Doximity 2025-2032 listing is a stale self-listing.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://x.com/NeurosurgeryUab/status/1937920012708180187",
+     "type": "program_page",
+     "evidence": "new PGY1 residents Drs. Madison Patrick, Logan Powell and Danner Butler"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "73:olu:afuwape",
+  "name": "Olusoji Afuwape",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2021-2022",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "UAMS resident research list and Doximity/NPI (Little Rock trainee); MD-PhD UT Southwestern",
+   "outcome": "unknown",
+   "outcome_detail": "Left after PGY-3. Search summary (unlinked, unverified) says he is now Medical Director at Cedar Health Research (clinical trials); Cedar site does not list him. Doximity: Other MD/DO, Fort Worth TX. Not confirmed.",
+   "current": "possible clinical research physician, Texas (unverified)",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://medicine.uams.edu/neurosurgery/residents/resident-research/",
+     "type": "program_page",
+     "evidence": "Olusoji Afuwape, M.D., Ph.D. listed among neurosurgery resident research (per search summary)"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "73:aus:robbins",
+  "name": "Austin Robbins",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2024-2025",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "tier": 1,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity Austin Robbins Other MD/DO Birmingham AL",
+   "outcome": "unknown",
+   "outcome_detail": "No destination found by UAB roster or specialty searches.",
+   "current": "unknown",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/austin-robbins-md",
+     "type": "doximity",
+     "evidence": "Other MD/DO, Birmingham AL (phase 3)"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "73:rya:turner",
+  "name": "Ryan Turner",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "probable",
+   "identity_basis": "Doximity Ryan Turner: UTMB 2019, UAMS neurosurgery residency; 2026 paper with UAMS chair Pait; entry 2019 fits",
+   "outcome": "unknown",
+   "outcome_detail": "Not on UAMS 2026-27 roster (chiefs Coggins, Porter; PGY1-6 others); entry 2019 + 7 yr = expected graduation 2026. Doximity slug e5a846b4 shows 'Resident Physician' Seattle 325 9th Ave (Harborview) with UAMS residency labelled 2024 (label unreliable). Suggests post-residency fellowship at UW/Harborview but not confirmed; UAMS team page 404.",
+   "current": "Doximity: Resident Physician, neurosurgery, Seattle WA (Harborview address)",
+   "residency_stated": [
+    {
+     "institution": "UAMS",
+     "specialty": "neurological surgery",
+     "start": 2019,
+     "end": 2024
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/ryan-turner-md-e5a846b4",
+     "type": "doximity",
+     "evidence": "Resident Physician Neurosurgery Seattle WA; UAMS Residency, Neurological Surgery, 2024; UTMB Class of 2019"
+    },
+    {
+     "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+     "type": "program_page",
+     "evidence": "2026-27 roster; no Turner"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "73:kev:thomas",
+  "name": "Kevin Thomas",
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College of Medicine",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2022-2023",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY [ambiguous name]",
+  "tier": 3,
+  "prior": {
+   "identity": "ambiguous",
+   "identity_basis": "WebMD: Kevin Thomas neurosurgery, Little Rock, UAMS COM 2021 (matches entry 2021); a UAMS Class of 2027 neurology Kevin Thomas (Philadelphia) on Doximity is probably a different person",
+   "outcome": "unknown",
+   "outcome_detail": "Absent from 2026-27 UAMS roster; no source corroborates UNC Peds Allergy/Immunology or any other destination after 6 searches (allergy/immunology, UNC, UAMS 2021 match, Doximity UAMS 2021).",
+   "current": "",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://doctor.webmd.com/doctor/kevin-thomas-afba83f2-085b-49fa-a966-1bbc5858f3ec-overview",
+     "type": "search_snippet",
+     "evidence": "Graduated from University Of Arkansas For Medical Sciences College Of Medicine in 2021; Neurological Surgery, Little Rock"
+    },
+    {
+     "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/",
+     "type": "program_page",
+     "evidence": "no Kevin Thomas in PGY1-7"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "74:isi:beach",
+  "name": "Isidora Beach",
+  "program_id": 74,
+  "program": "University of California (Irvine) Program",
+  "entry_year": 2023,
+  "first_seen": "2023-2024",
+  "last_seen": "2023-2024",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "tier": 1,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "UVM Larner match list class 2023 and UCI Neurosurgery Instagram: Isidora Beach, UVM MD 2022, matched UCI neurosurgery",
+   "outcome": "unknown",
+   "outcome_detail": "Doximity: Resident Physician at UVM Medical Center address, UVM MD 2022; specialty not stated and she is not in UVM neurosurgery residents list. Earlier search summary described her as UVM research fellow. Specialty destination unresolved.",
+   "current": "Resident Physician, UVM Medical Center (specialty unknown)",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://www.doximity.com/pub/isidora-beach-md",
+     "type": "doximity",
+     "evidence": "Resident Physician, Burlington VT; University of Vermont College of Medicine Class of 2022"
+    },
+    {
+     "url": "https://www.instagram.com/p/CvANrxvrE3r/",
+     "type": "program_page",
+     "evidence": "Interns starting Isidora Beach, MD from University of Vermont ... (UCI Neurosurgery)"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "79:amb:gaulden",
+  "name": "Amber Gaulden",
+  "program_id": 79,
+  "program": "University of Cincinnati Medical Center/College of Medicine Program",
+  "entry_year": 2019,
+  "first_seen": "2020-2021",
+  "last_seen": "2025-2026",
+  "last_pgy": 7,
+  "recorded_outcome": "COMPLETED",
+  "tier": 3,
+  "prior": {
+   "identity": "confirmed",
+   "identity_basis": "UC neurosurgery resident directory; MD Univ of South Carolina Greenville 2019",
+   "outcome": "unknown",
+   "outcome_detail": "PGY7 in 2025-26; not on UC 2026-27 residents roster (PGY7 only Garner, Kaye), consistent with graduating June 2026; no announcement, fellowship or practice source found in 5 searches. Serves on a 2025-2027 AANS pediatric neurosurgery committee.",
+   "current": "UC neurosurgery resident/recent graduate",
+   "residency_stated": [],
+   "sources": [
+    {
+     "url": "https://med.uc.edu/depart/neurosurgery/education/residency/current-residents",
+     "type": "program_page",
+     "evidence": "2026-27 roster without Gaulden"
+    }
+   ]
+  },
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ }
+]

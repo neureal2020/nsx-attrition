@@ -1,0 +1,153 @@
+[
+ {
+  "key": "82:joh:bandela",
+  "name": "John Bandela",
+  "answer_outcome": "left_other",
+  "event_year": "2012-2014 (last on UF roster 2011-12; Doximity lists UF 2006-2014)",
+  "completed_ns_by_june_2025": false,
+  "same_person_as": null,
+  "evidence_level": "silver",
+  "evidence": "FL DOH license ME108691 (opened): only GME listed 'UNIVERSITY OF FLORIDA INTERNSHIP NEUROSURGERY ... 07/01/2006 06/30/2007'; 'does not hold any certifications from specialty boards'; primary practice West Palm Beach. UF NS alumni page (opened) 2010-2016 does not list him. NPI taxonomy General Practice.",
+  "sources": [
+   "https://mqa-internet.doh.state.fl.us/MQASearchServices/HealthCareProviders/PractitionerProfilePrintFriendly?LicInd=104681&ProCde=1501",
+   "https://neurosurgery.ufl.edu/residency/alumni/",
+   "https://www.healthgrades.com/physician/dr-john-bandela-27sb4"
+  ],
+  "queries_tried": [
+   "\"John Bandela\" MD neurosurgery",
+   "\"Bandela\" University of Florida neurosurgery residents graduates 2013 2014"
+  ],
+  "notes": "Did not complete NS residency: absent from UF graduates, no board cert, state license lists no completed residency. Now licensed MD practicing as general practice (no further GME). Recorded 'completed' should be changed to non-completion (attrition). Exact departure year not documented."
+ },
+ {
+  "key": "58:kof:atsina",
+  "name": "Kofi-Buaku Atsina",
+  "answer_outcome": "switched_specialty",
+  "event_year": "2015",
+  "completed_ns_by_june_2025": false,
+  "same_person_as": null,
+  "evidence_level": "gold",
+  "evidence": "Radiology Associates of Richmond bio (opened): 'Yale University School of Medicine'; residencies 'Diagnostic Radiology - Thomas Jefferson University Hospital' and 'Neurosurgery - Thomas Jefferson University Hospital'; fellowships Neuroradiology and Interventional Neuroradiology at Penn; 'American Board of Radiology - Diagnostic Radiology 2021', 'Neuroradiology 2022'.",
+  "sources": [
+   "https://rarichmond.com/staff-members/kofi-buaku-atsina-m-d/"
+  ],
+  "queries_tried": [
+   "\"Komli-Kofi Atsina\" OR \"Komli Atsina\"",
+   "\"Atsina\" Pieces Technologies neurosurgery Yale residency clinical services",
+   "\"Kofi Atsina\" Pieces Technologies neurosurgeon"
+  ],
+  "notes": "Program is Jefferson (TJUH), not Yale (question text mislabels). Yale MD 2012 -> Jefferson NS (roster 2012-15) -> Jefferson diagnostic radiology -> Penn neuroradiology/INR; now neuroradiologist, Richmond VA. NOT the same person as 123:kom:atsina (Komli-Kofi: Pitt MD 2011, Yale NS; health-tech executive). The 'Physician Executive' LinkedIn belongs to Komli-Kofi, not Kofi-Buaku."
+ },
+ {
+  "key": "123:kom:atsina",
+  "name": "Komli-Kofi Atsina",
+  "answer_outcome": "left_medicine",
+  "event_year": "2016 (approx; joined Pieces June 2016; last on Yale roster 2013-14)",
+  "completed_ns_by_june_2025": false,
+  "same_person_as": null,
+  "evidence_level": "program_only",
+  "evidence": "Search snippets (theorg.com/LinkedIn/ZoomInfo; theorg page now 404): 'Vice President of Clinical Products and Services at Pieces, a position assumed in June 2016'; earlier 'Postdoctoral Research Fellow at Yale School of Medicine' and 'Research Fellow at Johns Hopkins Hospital'; now 'Physician Executive at Smarter Technologies', Dallas. Doximity (prior): Yale NS 2011-2018, no ABNS, no CT license. dr-leonardo (NPI-derived, opened): credential 'Student in an Organized Health Care Education/Training Program', New Haven.",
+  "sources": [
+   "https://komli-kofiatsina.dr-leonardo.com/",
+   "https://theorg.com/org/pieces/org-chart/komli-kofi-atsina",
+   "https://wiza.co/d/pieces-technologies/f27d/komli-kofi-atsina"
+  ],
+  "queries_tried": [
+   "\"Komli-Kofi Atsina\" OR \"Komli Atsina\"",
+   "\"Komli-Kofi Atsina\" MD vice president clinical",
+   "Pieces Technologies Dallas \"Atsina\" neurosurgery resident Yale joined",
+   "\"Kofi Atsina\" Pieces Technologies neurosurgeon"
+  ],
+  "notes": "Pitt MD 2011 -> Yale NS (roster 2011-14), then research fellow years (Yale postdoc, Hopkins), then full-time health-tech executive from June 2016. No ABNS, NPI still lists trainee credential, not on any practice page. Recorded 'completed' is unsupported; evidence favors non-completion (left clinical medicine for industry). Theorg (404) and wiza (403) could not be opened; LinkedIn not used (login). Distinct person from 58:kof:atsina (different medical school/program)."
+ },
+ {
+  "key": "102:cli:pierre",
+  "name": "Clifford Pierre",
+  "answer_outcome": "left_other",
+  "event_year": "~2021 (Doximity lists URMC 2014-2021; left without graduating)",
+  "completed_ns_by_june_2025": false,
+  "same_person_as": null,
+  "evidence_level": "program_only",
+  "evidence": "2024 DSPN Spine Summit presenter bio (opened in Chrome): 'neurosurgery fellow at Swedish Neuroscience Institute ... thereafter he started neurosurgery residency training at the University of Rochester Medical Center.' URMC NS Recent Graduates page (opened) lists 2019-2025 grads (2021: James Towner only) and NOT Pierre.",
+  "sources": [
+   "https://spinesummit24.eventscribe.net/fsPopup.asp?efp=WkZYS0JXVU8xNzQ1Mg&PresenterID=1759594&rnd=0.3631822&mode=presenterinfo",
+   "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/our-residents/recent-graduates",
+   "https://www.urmc.rochester.edu/news/publications/rochester-medicine/clifford-pierre-leading-by-example",
+   "https://gme.providence.org/washington/puget-sound/sponsored-fellowship-programs/neuroscience-institute/cerebrovascular-surgery-endovascular-fellowship/"
+  ],
+  "queries_tried": [
+   "\"Clifford Pierre\" neurosurgery",
+   "\"Clifford Pierre\" MD Swedish fellow OR \"chief resident\" Rochester",
+   "Swedish Neuroscience Institute neurosurgery fellows \"Pierre\" 2024",
+   "URMC neurosurgery residency recent graduates 2021 2022 \"Pierre\"",
+   "\"Clifford Pierre\" Swedish spine research fellow 2025"
+  ],
+  "notes": "Bio carefully says 'started' (not completed) URMC residency; absent from URMC graduate list while his 2021 cohort-year graduate is listed; no ABNS/board cert on Doximity. Swedish role appears to be a (research) spine fellowship; WebMD/search summaries claiming completed residency + cerebrovascular fellowship are directory text, not proof. Best reading: did not complete NS residency (attrition); now non-accredited research/spine fellow at Swedish. Not gold: no page explicitly states he left. Recorded 'completed' is unsupported."
+ },
+ {
+  "key": "64:tam:fierst",
+  "name": "Tamara Fierst",
+  "answer_outcome": "switched_specialty",
+  "event_year": "2017 (last on Temple NS roster 2016-17)",
+  "completed_ns_by_june_2025": false,
+  "same_person_as": null,
+  "evidence_level": "gold",
+  "evidence": "Penn Medicine bio (opened, as Tamara Marie Baum): 'Residency: Temple University Hospital'; 'Fellowship: Temple University Hospital'; board certs 'Interventional Radiology and Diagnostic Radiology'. Temple NS alumni list (opened) shows 2018 grad Leopold Arko only (her 2011 entry cohort) - Fierst/Baum absent. Doximity (Chrome): ABR IR and DR; no ABNS.",
+  "sources": [
+   "https://www.pennmedicine.org/providers/tamara-baum",
+   "https://medicine.temple.edu/education/graduate-medical-education/residency-programs-fellowships/neurosurgery/residency-program/current-residents",
+   "https://www.doximity.com/pub/tamara-baum-md",
+   "https://lraimaging.com/physicians/tamara-m-baum-m-d/"
+  ],
+  "queries_tried": [
+   "\"Tamara Baum\" interventional radiology neurosurgery",
+   "\"Tamara Baum\" OR \"Tamara Fierst\" Temple diagnostic radiology resident",
+   "Temple University neurosurgery residency alumni graduates 2018 \"Fierst\""
+  ],
+  "notes": "Fierst = Baum (Jette) (same Temple MD 2011, same publications). Did not graduate Temple NS (absent from alumni list; only ABR certifications). Moved to Temple diagnostic radiology then IR fellowship; now IR (Lancaster General/Penn; Doximity address Valhalla NY). Doximity 'NS 2011-2018' span likely conflates NS + later training. lraimaging bio now 404 (snippet only, not counted)."
+ },
+ {
+  "key": "74:mar:mathews",
+  "name": "Marlon Mathews",
+  "answer_outcome": "switched_specialty",
+  "event_year": "2015-2016 (last on UCI roster 2014-15; Doximity lists UCI 2010-2016)",
+  "completed_ns_by_june_2025": false,
+  "same_person_as": null,
+  "evidence_level": "program_only",
+  "evidence": "Healthgrades (opened): 'Sports Family Medicine', Desert Oasis Healthcare Medical Group, Palm Springs; search summary: 'board certified Primary Care Sports Medicine Specialist'. Prior Doximity (Chrome): Family Medicine/Sports Medicine (Non-Surgical), UCI NS 2010-2016, Buffalo NS 2008-10, no ABNS. UCI NS alumni (prior phase, opened) Class of 2016 = Alexandru, Gill only.",
+  "sources": [
+   "https://www.healthgrades.com/physician/dr-marlon-mathews-ggmbf",
+   "https://www.mydohc.com/find-a-doctor/provider-list/",
+   "https://www.doximity.com/pub/marlon-mathews-md"
+  ],
+  "queries_tried": [
+   "\"Marlon Mathews\" MD",
+   "\"Marlon Mathews\" Desert Oasis Healthcare sports medicine",
+   "\"Marlon Mathews\" family medicine residency OR \"sports medicine fellowship\"",
+   "Desert Oasis Healthcare \"Mathews\" physician bio neurosurgery family medicine",
+   "mydohc.com \"Mathews\""
+  ],
+  "notes": "Did not complete NS: absent from UCI graduates, no ABNS, now non-surgical FM/sports medicine (primary care sports medicine certification implies a subsequent primary-care residency + fellowship, program not identified). Desert Oasis provider list (65 entries, paginated) opened in Chrome but his entry not reached on page 1; no institutional bio found, so destination rests on directory leads only. Not a completion; treat as attrition (switched to family/sports medicine)."
+ },
+ {
+  "key": "88:rya:nazar",
+  "name": "Ryan Nazar",
+  "answer_outcome": "left_medicine",
+  "event_year": "~2016 (last on Louisville NS roster 2015-16)",
+  "completed_ns_by_june_2025": false,
+  "same_person_as": null,
+  "evidence_level": "silver",
+  "evidence": "USC Online news (opened, 10 Aug 2023): UK College of Medicine 2011, 'heading to Toronto for an internship and later Louisville for his residency'; after bringing a 3D-printed cervical collar to market, 'That was my foot out of the door of practicing clinical medicine'; now founder/CEO of Practical Healthcare. USC 'We Are' article (opened, 13 Sep 2023) and 24-7 press release (opened, 14 Jun 2023): business career (SurgeonIDEAS, Surgical Labs exits); neither mentions completing residency.",
+  "sources": [
+   "https://online.usc.edu/news/ryan-nazar-entrepreneur-emha-alumnus-launches-practical-healthcare/",
+   "https://we-are.usc.edu/2023/09/13/entrepreneur-turns-to-usc-emha-program-to-help-found-health-care-startup/",
+   "https://www.24-7pressrelease.com/press-release/501847/dr-ryan-nazar-illuminating-the-roadmap-to-patient-driven-healthcare"
+  ],
+  "queries_tried": [
+   "\"Ryan Nazar\" MD neurosurgery Louisville",
+   "\"Ryan Nazar\" Practical Healthcare founder neurosurgery residency left",
+   "University of Louisville neurosurgery residency alumni graduates 2019 2018 list"
+  ],
+  "notes": "Entered Louisville NS 2012 (7-yr program -> would finish 2019) but off roster after 2015-16; dated bios describe exit from clinical medicine into med-device/health-tech business, no ABNS or completion stated. Credentials listed (CIME, EMHA, Lean Six Sigma) are non-specialty. Louisville NS graduates URL now redirects to generic dept page (could not verify alumni list). Did not complete NS residency -> left_medicine (attrition). Not gold because no source explicitly says he left residency, only clinical medicine."
+ }
+]

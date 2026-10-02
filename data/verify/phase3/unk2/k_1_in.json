@@ -1,0 +1,233 @@
+[
+ {
+  "key": "2:kev:sexton",
+  "name": "Kevin Sexton",
+  "program_id": 2,
+  "program": "Allegheny Health Network Medical Education Consortium (AGH) Program",
+  "entry_year": 2019,
+  "first_seen": "2019-2020",
+  "last_seen": "2020-2021",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> did not complete",
+  "program_site": [
+   "https://web.archive.org/web/20200511230008/https://www.ahn.org/health-care-professionals/education/graduate-medical-education/residencies/neurosurgery/residents.html",
+   "https://web.archive.org/web/20200929032305/https://www.ahn.org/health-care-professionals/education/graduate-medical-education/residencies/neurosurgery/residents.html"
+  ],
+  "prior_detail": "Destination not found. WebMD lists Critical Care, Internal Medicine, Neurological Surgery at AGH Surgery Center (aggregator, NPI-derived); PA license expired 2025. A LinkedIn search hit 'Kevin Sexton - AHN Medicine Institute' is an unverified lead for internal medicine at AHN (could be a different person). Not accepted.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "4:mic:chua",
+  "name": "Michelle Chua",
+  "program_id": 4,
+  "program": "Barrow Neurological Institute at St Joseph's Hospital and Medical Cent",
+  "entry_year": 2017,
+  "first_seen": "2017-2018",
+  "last_seen": "2018-2019",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> outcome unknown [ambiguous name]",
+  "program_site": [
+   "https://www.barrowneuro.org/get-to-know-barrow/departments/department-of-neurosurgery/neurosurgery-residents/ (Common Crawl CC-MAIN-2018-09, 2018-02-20)",
+   "https://web.archive.org/web/20180812054505/https://www.barrowneuro.org/get-to-know-barrow/departments/department-of-neurosurgery/neurosurgery-residents/"
+  ],
+  "prior_detail": "Tried name + Harvard 2017 + resident, name + Barrow/BIDMC/radiology/anesthesiology: no roster or bio states a destination.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "5:mil:douglas",
+  "name": "Miller Douglas",
+  "program_id": 5,
+  "program": "Baylor College of Medicine Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2022-2023",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "program_site": [
+   "https://web.archive.org/web/20221130131845/https://www.bcm.edu/departments/neurosurgery/education/neurological-surgery-residency/residents"
+  ],
+  "prior_detail": "Unverified lead: internal medicine at Emory (PGY3 in 2024-25 would imply IM start 2022, which conflicts with Baylor neurosurgery 2022-23, so identity doubtful). No medical school or profile found.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "8:sta:hatcher",
+  "name": "Stacy Hatcher",
+  "program_id": 8,
+  "program": "Carilion Clinic- Virginia Tech Carilion School of Medicine Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2021-2022",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "program_site": [
+   "https://web.archive.org/web/20220517050808/https://www.carilionclinic.org/neurosurgery-residency"
+  ],
+  "prior_detail": "Lead only: ResearchGate lists Stacy Hatcher DO as 'PGY-2 Surgery Resident, Doctors Hospital, Augusta' - possible switch to general surgery (~2022-23) but same-person link not confirmed by any source stating the Carilion history. US News/Doximity profiles still show Carilion/Detroit resident (stale).",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "12:cha:nelson",
+  "name": "Charlie Nelson",
+  "program_id": 12,
+  "program": "Cleveland Clinic Foundation Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2023-2024",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "program_site": [
+   "https://web.archive.org/web/20230205051131/https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery",
+   "https://web.archive.org/web/20231201071644/https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery"
+  ],
+  "prior_detail": "Still affiliated with Cleveland Clinic Neurological Surgery as author of a Nov 2024 paper on resident didactics (after last_seen 2023-24), so had not left by then; probably still in program (research/elective time) but no 2025-26 roster confirmation.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "12:col:lamb",
+  "name": "Colin Lamb",
+  "program_id": 12,
+  "program": "Cleveland Clinic Foundation Program",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2024-2025",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "program_site": [
+   "https://web.archive.org/web/20250213071621/https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery"
+  ],
+  "prior_detail": "Searched match lists and Cleveland Clinic intern announcements: no source names his 2024 match destination or later position.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "18:ste:ihezie",
+  "name": "Stephanie Ihezie",
+  "program_id": 18,
+  "program": "Dartmouth- Hitchcock/Mary Hitchcock Memorial Hospital Program",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2024-2025",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> outcome unknown",
+  "program_site": [
+   "https://web.archive.org/web/20231206084233/https://gme.dartmouth-hitchcock.org/neurosurgery/current-residents",
+   "https://web.archive.org/web/20240916072800/https://gme.dartmouth-hitchcock.org/neurosurgery/current-residents"
+  ],
+  "prior_detail": "Described as DHMC neurosurgery resident through May 2025 (NH200). She is not in the DHMC neurosurgery current-residents page for 2026-27 (PGY1-7 listed: Adenu-Mensah, Alcocer-Burdett, Stafstrom, Bajouri, Bond, Kinsman, Stewart). Could be a research year/leave, departure, or graduating early; no source says which.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "22:kri:terrani",
+  "name": "Kristina Terrani",
+  "program_id": 22,
+  "program": "George Washington University Program",
+  "entry_year": 2025,
+  "first_seen": "2025-2026",
+  "last_seen": "2025-2026",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "program_site": [
+   "https://web.archive.org/web/20251208015035/https://neurosurgery.smhs.gwu.edu/our-residents"
+  ],
+  "prior_detail": "Doximity (opened) lists a May 2026 Child's Nervous System paper (Mossner, Abdelmageed, Wang, Terrani, Votoupal; pediatric neurosurgery) - activity in the neurosurgery orbit after GW entry. WebMD lists her at Valleywise Health Phoenix under 'General Surgery with focus on Neurological Surgery' (likely 2024-25 prelim/surgery year, stale). No source shows her leaving GW.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "25:gre:koller",
+  "name": "Gretchen Koller",
+  "program_id": 25,
+  "program": "Henry Ford Providence Hospital Program \u00a9 2026 Accreditation Council fo",
+  "entry_year": 2024,
+  "first_seen": "2024-2025",
+  "last_seen": "2024-2025",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "program_site": [
+   "https://web.archive.org/web/20240919150321/https://www.apneurosurgery.org/current-residents"
+  ],
+  "prior_detail": "Tried name+DO+KCU and name+resident+specialties; no rosters or profile show any 2025-26 position.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "26:mic:ghali",
+  "name": "Michael Ghali",
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center) Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2018-2019",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> did not complete",
+  "program_site": [
+   "https://www.houstonmethodist.org/education/medical/graduate-medical-education/neurosurgery-residency/our-residents/ (Common Crawl CC-MAIN-2018-43, 2018-10-23)"
+  ],
+  "prior_detail": "Retraction Watch describes only a brief stint as a resident at Houston Methodist; no evidence of any later residency or ABNS certification; Doximity lists 'Other MD/DO', Philadelphia. Did not complete at Houston Methodist (consistent with DB) but destination unknown.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "27:noa:nichols",
+  "name": "Noah Nichols",
+  "program_id": 27,
+  "program": "Icahn School of Medicine at Mount Sinai Program",
+  "entry_year": 2021,
+  "first_seen": "2021-2022",
+  "last_seen": "2024-2025",
+  "last_pgy": 4,
+  "recorded_outcome": "LEFT -> did not complete",
+  "program_site": [
+   "https://web.archive.org/web/20231028162809/https://icahn.mssm.edu/education/residencies-fellowships/list/msh-neurosurgery/residents",
+   "https://web.archive.org/web/20250114191827/https://icahn.mssm.edu/education/residencies-fellowships/list/msh-neurosurgery/residents"
+  ],
+  "prior_detail": "Profile: matched Mount Sinai neurosurgery, expected graduation 2028. Not on the 2026-27 Mount Sinai resident page (PGY1-6 + chiefs listed) - may be in a research year; no source documents leaving.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "27:chi:le",
+  "name": "Chi Le",
+  "program_id": 27,
+  "program": "Icahn School of Medicine at Mount Sinai Program",
+  "entry_year": 2022,
+  "first_seen": "2022-2023",
+  "last_seen": "2024-2025",
+  "last_pgy": 3,
+  "recorded_outcome": "LEFT -> did not complete [ambiguous name]",
+  "program_site": [
+   "https://web.archive.org/web/20231028162809/https://icahn.mssm.edu/education/residencies-fellowships/list/msh-neurosurgery/residents",
+   "https://web.archive.org/web/20250114191827/https://icahn.mssm.edu/education/residencies-fellowships/list/msh-neurosurgery/residents"
+  ],
+  "prior_detail": "Program bio lists her as resident Class of 2029; absent from 2026-27 resident page (may be research year). No destination found.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "12:aus:barnett",
+  "name": "Austin Barnett",
+  "program_id": 12,
+  "program": "Cleveland Clinic Foundation Program",
+  "entry_year": 2018,
+  "first_seen": "2018-2019",
+  "last_seen": "2018-2019",
+  "last_pgy": 1,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "program_site": [
+   "https://web.archive.org/web/20190718183415/https://my.clevelandclinic.org/departments/neurological/medical-professionals/residencies/neurosurgery"
+  ],
+  "prior_detail": "Doximity gives no residency entry or specialty; LinkedIn snippet mentions University Hospitals. Checked UH neurosurgery roster/alumni (no Barnett), CC psychiatry page (only faculty Brian Barnett), CWRU match PDFs (unreadable/no entry). Destination specialty not established.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ },
+ {
+  "key": "17:lay:nachar",
+  "name": "Layla Nachar",
+  "program_id": 17,
+  "program": "Corewell Health/William Beaumont University (Dearborn/Royal Oak) Progr",
+  "entry_year": 2020,
+  "first_seen": "2020-2021",
+  "last_seen": "2021-2022",
+  "last_pgy": 2,
+  "recorded_outcome": "LEFT -> SWITCHED SPECIALTY",
+  "program_site": [
+   "https://web.archive.org/web/20210416210319/https://www.beaumont.edu/graduate-medical-education/residency-programs/neurosurgery/neurological-surgery-residency-royal-oak/residents",
+   "https://web.archive.org/web/20220815071453/https://www.beaumont.edu/graduate-medical-education/residency-programs/neurosurgery/neurological-surgery-residency-royal-oak/residents"
+  ],
+  "prior_detail": "Doximity/Healthgrades list 'Neurosurgery, Resident Physician' at 1514 Jefferson Hwy (Ochsner), New Orleans, plus AANS membership; no Ochsner resident page names her (IM roster checked; neurology/anesthesiology pages 404); not on Tulane roster. Whether she continued neurosurgery elsewhere or switched is not established.",
+  "task": "RESOLVE OUTCOME + IDENTITY"
+ }
+]

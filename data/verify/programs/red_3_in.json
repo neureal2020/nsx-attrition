@@ -1,0 +1,910 @@
+[
+ {
+  "program_id": 73,
+  "program": "University of Arkansas for Medical Sciences (UAMS) College o",
+  "red_years": [
+   {
+    "year": "2011-2012",
+    "gap_len": 5,
+    "nrmp_matched": 2,
+    "entrants_held": 7,
+    "reason": "missing; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2012-2013",
+    "gap_len": 5,
+    "nrmp_matched": 1,
+    "entrants_held": 1,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2013-2014",
+    "gap_len": 5,
+    "nrmp_matched": 2,
+    "entrants_held": 2,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2014-2015",
+    "gap_len": 5,
+    "nrmp_matched": 1,
+    "entrants_held": 4,
+    "reason": "missing; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2015-2016",
+    "gap_len": 5,
+    "nrmp_matched": 2,
+    "entrants_held": 1,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "73:ang:palmer",
+    "name": "Angela Palmer",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:bla:phillips",
+    "name": "Blake Phillips",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2014-2015",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:cla:elswick",
+    "name": "Clay M. Elswick",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2015-2016",
+    "outcome": "transferred"
+   },
+   {
+    "key": "73:dia:bahgat",
+    "name": "Diaa Bahgat",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2014-2015",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:gau:gandhi",
+    "name": "Gautam Kanu Gandhi",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2014-2015",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:hea:pinckard-dover",
+    "name": "Heather Pinckard-Dover",
+    "entry_year": 2013,
+    "first_seen": "2014-2015",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:jer:walters",
+    "name": "Jerry Walters",
+    "entry_year": 2013,
+    "first_seen": "2014-2015",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:jus:dowdy",
+    "name": "Justin Dowdy",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2014-2015",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:mar:stephens",
+    "name": "Marcus Stephens",
+    "entry_year": 2015,
+    "first_seen": "2016-2017",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:mat:burton",
+    "name": "Matthew Burton",
+    "entry_year": 2012,
+    "first_seen": "2014-2015",
+    "last_seen": "2014-2015",
+    "outcome": "transferred"
+   },
+   {
+    "key": "73:mon:tabbosha",
+    "name": "Monir Tabbosha",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2011-2012",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:pat:paullus",
+    "name": "Patrick Paullus",
+    "entry_year": 2014,
+    "first_seen": "2016-2017",
+    "last_seen": "2020-2021",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:ram:vasudevan",
+    "name": "Ram Vasudevan",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2011-2012",
+    "outcome": "completed"
+   },
+   {
+    "key": "73:tay:wilson",
+    "name": "Taylor Wilson",
+    "entry_year": 2014,
+    "first_seen": "2017-2018",
+    "last_seen": "2018-2019",
+    "outcome": "switched_specialty"
+   },
+   {
+    "key": "73:whi:morris",
+    "name": "Whit Morris",
+    "entry_year": 2011,
+    "first_seen": "2014-2015",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "http://www.uams.edu/neurosurgery/ (old static ASP site; education/, faculty/)",
+    "from": "2005",
+    "to": "2010-06 (pre-window; no resident list)"
+   },
+   {
+    "url": "http://neurosurgery.uams.edu/?id=NNNN&sid=29 (UAMS ASP CMS; Residents = ?id=8043, profiles ?id=8044-8050; sitemap/?sid=29)",
+    "from": "2012-01",
+    "to": "2014-05 (residents page never archived; only sitemap 2012-02 lists names)"
+   },
+   {
+    "url": "http://neurosurgery.uams.edu/ WordPress v1 (homepage Residents nav menu, /residents/<slug>/ profile pages, /residents/ index)",
+    "from": "2014-11",
+    "to": "2017-09"
+   },
+   {
+    "url": "http(s)://neurosurgery.uams.edu/residents/current-residents/ (WordPress v2)",
+    "from": "2017-10",
+    "to": "2022-01"
+   },
+   {
+    "url": "https://medicine.uams.edu/neurosurgery/residents/current-residents/ (neurosurgery.uams.edu 301s here; /people/ profiles)",
+    "from": "2022-08",
+    "to": "live 2026-09-27"
+   }
+  ],
+  "alumni_page": null,
+  "prior_search_notes": "{'2011-2012': 'SIGNIFICANT. ASP CMS Residents page (?id=8043) and profile pages (?id=8044-8050) have no Wayback captures (CDX prefix, any status, on neurosurgery.uams.edu/?id=8043, www.uams.edu/?id=8043 etc.). Only the 2012-02-21 sitemap/?sid=29 lists 7 resident profile names (Elswick, Tabbosha, Gandhi, Phillips, Dowdy, Vasudevan, Raber), no PGY, clearly incomplete (2011 intern Whit Morris absent). Loaded as source_type other (partial). CC-MAIN-2012 has 6 non-roster records.', '2012-2013': 'RECONSTRUCTED (phase 2), partial: Elswick PGY-2, Gandhi, Phillips, Dowdy (on both the 2012-02 sitemap and the 2014-11 menu). Still no capture: ASP CMS ?id=8043 never archived; neurosurgery.uams.edu had only 39 archived URLs 2011-2016; CC 0 records.', '2013-2014': 'RECONSTRUCTED (phase 2), partial: Elswick PGY-3, Gandhi, Phillips, Dowdy. Same searches as 2012-13.', '2014-2015': \"SIGNIFICANT, partial. WordPress homepage 2014-11-21 Residents nav menu lists 11 resident profile links (names only). Includes 2014 intern 'Martha Angela Wilcox' (= Angela Palmer, same /residents/wilcox/ URL) but lacks David Paulson (PGY-7 in 2016-17) and Patrick Paullus (PGY-3 in 2016-17). Profile pages /residents/<slug>/ were not archived before 2017. Loaded as source_type other with pgy null. CC 2014-35..2015-22: 0 records. Phase 2: the same 11-name menu is in CC-MAIN-2015-27 (2015-07) and CC-MAIN-2016-18 (2016-05), confirming it was never updated (Burton was already at Missouri by Nov 2015). PGYs now filled for 7"
+ },
+ {
+  "program_id": 26,
+  "program": "Houston Methodist Hospital (Medical Center)",
+  "red_years": [
+   {
+    "year": "2011-2012",
+    "gap_len": 2,
+    "nrmp_matched": 2,
+    "entrants_held": 2,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2012-2013",
+    "gap_len": 2,
+    "nrmp_matched": 2,
+    "entrants_held": 2,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2017-2018",
+    "gap_len": null,
+    "nrmp_matched": 3,
+    "entrants_held": 2,
+    "reason": "roster observed (12 listed); entering class 2 vs 3 matched (NRMP): 1 entrant(s) unaccounted for"
+   },
+   {
+    "year": "2023-2024",
+    "gap_len": null,
+    "nrmp_matched": 3,
+    "entrants_held": 2,
+    "reason": "roster observed (13 listed); entering class 2 vs 3 matched (NRMP): 1 entrant(s) unaccounted for"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "26:ama:jenson",
+    "name": "Amanda Jenson",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:aud:demand",
+    "name": "Audrey Demand",
+    "entry_year": 2021,
+    "first_seen": "2021-2022",
+    "last_seen": "2026-2027",
+    "outcome": "in_training"
+   },
+   {
+    "key": "26:bra:daniels",
+    "name": "Bradley Daniels",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2021-2022",
+    "outcome": "switched_specialty"
+   },
+   {
+    "key": "26:chu:liang",
+    "name": "Chuan Liang",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2014-2015",
+    "outcome": "switched_specialty"
+   },
+   {
+    "key": "26:dom:kizek",
+    "name": "Dominic Kizek",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2026-2027",
+    "outcome": "in_training"
+   },
+   {
+    "key": "26:dor:mambelli",
+    "name": "Dorian Mambelli",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2025-2026",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:ism:mohiuddin",
+    "name": "Ismail Mohiuddin",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2026-2027",
+    "outcome": "in_training"
+   },
+   {
+    "key": "26:jai:guerrero",
+    "name": "Jaime Guerrero",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:joh:patterson",
+    "name": "John Patterson",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2026-2027",
+    "outcome": "in_training"
+   },
+   {
+    "key": "26:jon:lee",
+    "name": "Jonathan Lee",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:lau:culver",
+    "name": "Lauren Culver",
+    "entry_year": 2023,
+    "first_seen": "2023-2024",
+    "last_seen": "2026-2027",
+    "outcome": "in_training"
+   },
+   {
+    "key": "26:lin:schwartz",
+    "name": "Lindsey Schwartz",
+    "entry_year": 2020,
+    "first_seen": "2020-2021",
+    "last_seen": "2026-2027",
+    "outcome": "in_training"
+   },
+   {
+    "key": "26:mar:wong",
+    "name": "Marcus Wong",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2024-2025",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:men:huang",
+    "name": "Meng Huang",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:mic:ghali",
+    "name": "Michael Ghali",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2018-2019",
+    "outcome": "left_destination_unknown"
+   },
+   {
+    "key": "26:rob:scranton",
+    "name": "Robert Scranton",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:rya:austerman",
+    "name": "Ryan Austerman",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2022-2023",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:rya:farrell",
+    "name": "Ryan Farrell",
+    "entry_year": 2022,
+    "first_seen": "2022-2023",
+    "last_seen": "2026-2027",
+    "outcome": "in_training"
+   },
+   {
+    "key": "26:rya:jafrani",
+    "name": "Ryan Jafrani",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2016-2017",
+    "outcome": "transferred"
+   },
+   {
+    "key": "26:sae:sadrameli",
+    "name": "Saeed Sadrameli",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2021-2022",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:sam:asante",
+    "name": "Samuel Asante",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2023-2024",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:sea:barber",
+    "name": "Sean Barber",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:sib:rajendran",
+    "name": "Sibi Rajendran",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2025-2026",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:sur:sulhan",
+    "name": "Suraj Sulhan",
+    "entry_year": 2019,
+    "first_seen": "2019-2020",
+    "last_seen": "2025-2026",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:vir:desai",
+    "name": "Virendra Desai",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:wil:steele",
+    "name": "William Steele",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "26:zai:boghani",
+    "name": "Zain Boghani",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "methodisthealth.com/tmhs/nineurosurgery.do?channelId=-98384 (Professional Education & Training; program description only)",
+    "from": "2010-01",
+    "to": "2010-02"
+   },
+   {
+    "url": "methodisthealth.com/nineurosurgery.cfm?id=34950 (Residency Program; later links 'Current Residents' nineurosurgery.cfm?id=43099, never archived)",
+    "from": "2010-04",
+    "to": "2013-06"
+   },
+   {
+    "url": "houstonmethodist.org/current-residents-43099 ('Current Residents 20xx-20xx'; photos under /images/neurological_institute/neurosurgery/residents/images/)",
+    "from": "2013-12",
+    "to": "2015-03"
+   },
+   {
+    "url": "houstonmethodist.org/nineurosurgery.cfm?id=34950",
+    "from": "2014-01",
+    "to": "2015-03"
+   },
+   {
+    "url": "houstonmethodist.org/education/gme-postgraduate/graduate-medical-education/neurosurgery-residency/our-residents",
+    "from": "2015-07",
+    "to": "2015-09"
+   },
+   {
+    "url": "houstonmethodist.org/1285_houstonmethodist/2623_education/2647_education_gmeandpostgraduateeducation/2649_graduatemedicaleducation/2685_education_neurosurgeryresidency/2689_education_ourresidents",
+    "from": "2015-10",
+    "to": "2016-03"
+   },
+   {
+    "url": "houstonmethodist.org/1285_houstonmethodist/2623_education/2647_education_gmeandpostgraduateeducation/2649_graduatemedicaleducation/gme%20programs/2685_education_neurosurgeryresidency/2689_education_ourresidents",
+    "from": "2016-04",
+    "to": "2016-11"
+   },
+   {
+    "url": "houstonmethodist.org/1285_houstonmethodist/2623_education/medical-education/graduatemedicaleducation/gme-programs/gme_neurosurgeryresidency/2689_education_ourresidents",
+    "from": "2017-02",
+    "to": "2018-08"
+   },
+   {
+    "url": "houstonmethodist.org/education/medical/graduate-medical-education/neurosurgery-residency/our-residents/ (+ /alumni/)",
+    "from": "2017-11",
+    "to": "2024-10"
+   },
+   {
+    "url": "houstonmethodist.org/academic-institute/gme/neurosurgery-residency/ (Our Residents + Alumni; server-rendered to 2025-10, then JS via POST /api/faculty/directory/)",
+    "from": "2024-11",
+    "to": "2026-09-27 (live)"
+   },
+   {
+    "url": "houstonmethodist.org/neurosurgery-residency/ (vanity URL; 404 live)",
+    "from": "2021-12",
+    "to": "2026-05"
+   }
+  ],
+  "alumni_page": "https://www.houstonmethodist.org/academic-institute/gme/neurosurgery-residency/#our-alumni (older: /education/medical/graduate-medical-education/neurosurgery-residency/alumni/)",
+  "prior_search_notes": "{'2011-2012': \"SIGNIFICANT. Roster page never archived. Phase 2: CC-MAIN-2014-10 retry (methodisthealth.com nineurosurgery.cfm: 0 records; houstonmethodist.org: 25 non-roster pages), CC-MAIN-2013-20 (12 nineurosurgery.cfm pages, no id=43099), linkaudit of id=34950/34948 2011-07..2013-12, CDX name filters, gapaudit methodisthealth.com 2007-2011, PubMed/OpenAlex HM-neurosurgery affiliation 2008-2014 (no new residents). The 'Dilorenzo'/'Moisi' photos were uploaded 9 Aug 2007 (Wayback orig Last-Modified, same batch as Krishna/Livingston), so they are 2007-08 residents, not 2011-13 evidence. DiLorenzo left HM for UTMB in 2010 (pre-window). Marc Moisi: HM affiliation on a paper e-published Jul 2011, UTMB research fellow by 2012; may have been an HM ~PGY5 in 2011-12 (not loaded: not bracketed). Reconstructed 8 alumni-confirmed graduates.\", '2012-2013': \"SIGNIFICANT. Same searches as 2011-12. The id=43099 'Current Residents' page was created ~fall 2012 (CMS ids ~42700 in Aug 2012, ~44450 by Jun 2013) and never captured by Wayback or Common Crawl. Reconstructed 10 alumni-confirmed graduates; a 2012-13 leaver from the 2008-2010 classes would be unseen. Neither DiLorenzo (Rush-bound; whereabouts Nov 2012-2014 unknown but no HM evidence) nor Moisi (UTMB research 2012-13) is placed at HM this year.\", '2013-2014': \"Observed via Common Crawl CC-MAIN-2014-10 (2014-03-08), page headed 'Current Residents 2013-2014'. Dec 2013 CC capture (CC-MAIN-2013-48) is the same list without the two PGY-1s."
+ },
+ {
+  "program_id": 94,
+  "program": "University of Missouri-Columbia",
+  "red_years": [
+   {
+    "year": "2011-2012",
+    "gap_len": 2,
+    "nrmp_matched": 1,
+    "entrants_held": 1,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   },
+   {
+    "year": "2012-2013",
+    "gap_len": 2,
+    "nrmp_matched": 1,
+    "entrants_held": 3,
+    "reason": "reconstructed; gap judged significant (a continuing resident could have left unseen)"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "94:mat:burton",
+    "name": "Matthew Burton",
+    "entry_year": 2012,
+    "first_seen": "2015-2016",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "94:may:jayarao",
+    "name": "Mayur Jayarao",
+    "entry_year": 2011,
+    "first_seen": "2013-2014",
+    "last_seen": "2014-2015",
+    "outcome": "transferred"
+   },
+   {
+    "key": "94:san:konakondla",
+    "name": "Sanjay Konakondla",
+    "entry_year": 2012,
+    "first_seen": "2013-2014",
+    "last_seen": "2014-2015",
+    "outcome": "transferred"
+   },
+   {
+    "key": "94:sta:hoang",
+    "name": "Stanley Hoang",
+    "entry_year": 2012,
+    "first_seen": "2017-2018",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "http://muhealth.org/body.cfm?id=808 (Division of Neurological Surgery 'Current Residents', muhealth.org CMS; parent body.cfm?id=268 / vanity muhealth.org/neurosurgery)",
+    "from": "2010-06",
+    "to": "2011-04 (last roster = AY2010-11; residents link gone by 2011-10)"
+   },
+   {
+    "url": "http://medicine.missouri.edu/surgery/neuro-surgery.php, /surgery/neuro/, /surgery/neurological.html, /surgery/neuro-residency.html (Dept of Surgery division pages, no roster)",
+    "from": "2011-06",
+    "to": "2014-08"
+   },
+   {
+    "url": "http://medicine.missouri.edu/neurosurgery/residents.html (+ alumni.html)",
+    "from": "2013-11",
+    "to": "2016-10"
+   },
+   {
+    "url": "http://medicine2.missouri.edu/neurosurgery/residents.html (same static site moved to medicine2 host; frozen 2016-17 list)",
+    "from": "2017-04",
+    "to": "2017-05 (resident photos only 2018-08)"
+   },
+   {
+    "url": "https://medicine.missouri.edu/departments/surgery/divisions/neurological-surgery/residency/neurological-surgery-current-residents/ (WordPress division site; Common Crawl only)",
+    "from": "2018-02",
+    "to": "2018-02"
+   },
+   {
+    "url": "https://medicine.missouri.edu/departments/surgery/divisions/neurological-surgery/residency/current-residents",
+    "from": "2019-08 (linked)",
+    "to": "2022-05 (captured only 2020-07-24)"
+   },
+   {
+    "url": "https://medicine.missouri.edu/departments/surgery/divisions/neurosurgery/residency",
+    "from": "2022-05",
+    "to": "2022-05"
+   },
+   {
+    "url": "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents (Department of Neurosurgery; includes Resident Alumni)",
+    "from": "2022-10",
+    "to": "live"
+   }
+  ],
+  "alumni_page": "https://medicine.missouri.edu/departments/neurosurgery/residency/current-residents (Resident Alumni 2022-2026) ; http://medicine.missouri.edu/neurosurgery/alumni.html (2014-2016, archived)",
+  "prior_search_notes": "{'2011-2012': 'No roster. muhealth.org id=808 last captured 2011-04 (2010-11 list: Paullus 6, Hiser 5, Muzinich 4, Cress 4, Brantl 3, Spurgeon 2; no PGY-1/7 listed); muhealth division page lost its Residents link by 2011-10; medicine.missouri.edu/surgery/* neuro pages (2011-2014) have faculty only; Wayback regex/prefix on muhealth.org and medicine.missouri.edu found nothing else; CC starts 2013. Reconstructed: Cress, Spurgeon only (Raychaudhuri, Sarpong, Jayarao, Konakondla not seen before the gap; Paullus/Hiser/Muzinich/Brantl not seen after).', '2012-2013': 'No roster (same searches; CC-MAIN-2013-20 has no neurosurgery pages). Reconstructed Cress, Spurgeon only.', '2017-2018': 'Observed only via Common Crawl CC-MAIN-2018-09 (2018-02-20) of .../neurological-surgery-current-residents/; not in Wayback. No PGY-7 or PGY-5 listed.', '2018-2019': 'No roster: Wayback has no division current-residents capture before 2020-07; CC 2018-2019 has only the residency landing page; medicine2 only photos (2018-08). CC-MAIN-2019-09 index read failed. Reconstructed Travers, Ziu, Belton, Herbert, Ortiz Torres (bracketed). Unseen: Burton and Hoang (presumed PGY-7 graduates 2019), Kennamer (2018 intern, first seen 2019-20 PGY-2). PHASE2: CC-MAIN-2019-09 retried (only residency landing page 2019-02-23, no names). Added Burton/Hoang PGY-7 (PubMed 2018 Missouri; Hoang Cincinnati Sep 2019) and Kennamer PGY-1 (probable).', '2019-2020': \"Only capture of the division current-residents page is 2020-07-24"
+ },
+ {
+  "program_id": 97,
+  "program": "University of New Mexico School of Medicine",
+  "red_years": [
+   {
+    "year": "2017-2018",
+    "gap_len": 3,
+    "nrmp_matched": 2,
+    "entrants_held": 1,
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class 1 vs 2 matched (NRMP): 1 entrant(s) unaccounted for"
+   },
+   {
+    "year": "2019-2020",
+    "gap_len": 3,
+    "nrmp_matched": 1,
+    "entrants_held": 0,
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class 0 vs 1 matched (NRMP): 1 entrant(s) unaccounted for"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "97:anv:jameel",
+    "name": "Anver Jameel",
+    "entry_year": 2010,
+    "first_seen": "2012-2013",
+    "last_seen": "2013-2014",
+    "outcome": "completed"
+   },
+   {
+    "key": "97:ben:vidalis",
+    "name": "Benjamin Vidalis",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   },
+   {
+    "key": "97:car:sanchez",
+    "name": "Carlos Sanchez",
+    "entry_year": 2011,
+    "first_seen": "2012-2013",
+    "last_seen": "2016-2017",
+    "outcome": "completed"
+   },
+   {
+    "key": "97:dom:harris",
+    "name": "Dominic Harris",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   },
+   {
+    "key": "97:fra:westhout",
+    "name": "Franklin Westhout",
+    "entry_year": 2011,
+    "first_seen": "2012-2013",
+    "last_seen": "2012-2013",
+    "outcome": "left_destination_unknown"
+   },
+   {
+    "key": "97:jam:messegee",
+    "name": "James Messegee",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "97:jor:davies",
+    "name": "Jordan Davies",
+    "entry_year": 2018,
+    "first_seen": "2018-2019",
+    "last_seen": "2018-2019",
+    "outcome": "transferred"
+   },
+   {
+    "key": "97:lai:mohammad",
+    "name": "Laila Mohammad",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "97:oma:akbik",
+    "name": "Omar Akbik",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "97:rob:starling",
+    "name": "Robert Starling",
+    "entry_year": 2015,
+    "first_seen": "2015-2016",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   },
+   {
+    "key": "97:ros:green",
+    "name": "Ross Green",
+    "entry_year": 2016,
+    "first_seen": "2016-2017",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   },
+   {
+    "key": "97:sey:gahramanov",
+    "name": "Seymur Gahramanov",
+    "entry_year": 2012,
+    "first_seen": "2014-2015",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "97:wil:mckay",
+    "name": "William McKay",
+    "entry_year": 2017,
+    "first_seen": "2017-2018",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   },
+   {
+    "key": "97:zoy:voronovich",
+    "name": "Zoya Voronovich",
+    "entry_year": 2014,
+    "first_seen": "2014-2015",
+    "last_seen": "2019-2020",
+    "outcome": "transferred"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "http://hsc.unm.edu/som/neurosurgery/ (residents.shtml, residency.shtml, newsletters.shtml)",
+    "from": "2006-08 (archive)",
+    "to": "2014-10 (last 200; 404 from 2015-01)"
+   },
+   {
+    "url": "http://neurosurgery.unm.edu/education/residency/current.html ('Current Housestaff')",
+    "from": "2014-12",
+    "to": "2015-09 (404 from 2016-01)"
+   },
+   {
+    "url": "http://neurosurgery.unm.edu/training-education/meet-our-residents.html",
+    "from": "2016-03",
+    "to": "2017-06 (Wayback last 2016-11; Common Crawl to 2017-06-29; host root archived to 2019-01, page no longer captured)"
+   },
+   {
+    "url": "https://hsc.unm.edu/school-of-medicine/neurosurgery/ (education/residency.html, no roster)",
+    "from": "2019-08",
+    "to": "2019-12 (302 to new host by 2024)"
+   },
+   {
+    "url": "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency1.html (program text, names first resident 2022)",
+    "from": "2020-10 (host) / 2022-10 (page)",
+    "to": "live"
+   },
+   {
+    "url": "https://hsc.unm.edu/medicine/departments/neurosurgery/education/residency/our-residents.html",
+    "from": "2024-12",
+    "to": "2025-08"
+   },
+   {
+    "url": "https://hsc.unm.edu/medicine/departments/neurosurgery/education/our-residents.html",
+    "from": "2025-05",
+    "to": "live 2026-09-27"
+   }
+  ],
+  "alumni_page": null,
+  "prior_search_notes": "{'2011-2012': 'residents.shtml CDX (no collapse) 2011-06-22, 2011-07-06, 2011-08-21 all one digest = 2010-11 list (Carlson, Rehman, Pappu, Kaloostian, Upchurch, Chohan, Ramirez, Lyons; lacks 2011 entrants Sanchez/Westhout), next change 2012-08-26. residency/index/newsletters pages carry no names; Aug-2011 newsletter PDF 404 in archive; CC-MAIN-2012 had 16 records on hsc.unm.edu/som/neurosurgery but no residents page. Reconstructed Chohan PGY4, Ramirez PGY3 (bracketed) and Pappu (SOM 2013 annual report: resident July 2008-June 2012). Sanchez, Westhout (PGY-1 in 2011-12) and Jameel (PGY-2) NOT reconstructed (not seen before). SIGNIFICANT.', '2012-2013': \"Wayback residents.shtml 2012-08-26 (Chohan 5 chief, Ramirez 4, Jameel 3, Westhout 2, Sanchez 2, Messegee 1); Common Crawl 2013-05-21 copy headed '2012/2013' is identical.\", '2013-2014': \"Only capture is 2014-10-13 on the old host, headed '2013/2014 Department of Neurosurgery Residents' (stale when captured); content consistent with neighbours.\", '2014-2015': 'Wayback neurosurgery.unm.edu current.html 2014-12-30 (same digest through 2015-09-19, i.e. stale for early 2015-16). No Program Year 5 or 7 group listed.', '2015-2016': 'Wayback meet-our-residents 2016-03-09 (first capture of page; no matched interns). Pre-residents Green/Vera/Miller excluded.', '2016-2017': 'Wayback captures 2016-09/11 still showed 2015-16 names (stale); Common Crawl CC-MAIN-2017-09 (2017-02-21) has the updated list (identical 2017-03-30, 2017-06-29), loa"
+ },
+ {
+  "program_id": 76,
+  "program": "University of California (San Francisco)",
+  "red_years": [
+   {
+    "year": "2011-2012",
+    "gap_len": null,
+    "nrmp_matched": 3,
+    "entrants_held": 1,
+    "reason": "PROGRAM_STATUS.md audit; entering class 1 vs 3 matched (NRMP): 2 entrant(s) unaccounted for"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "76:der:southwell",
+    "name": "Derek Southwell",
+    "entry_year": 2011,
+    "first_seen": "2013-2014",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   }
+  ],
+  "known_hosts": null,
+  "alumni_page": null,
+  "prior_search_notes": ""
+ },
+ {
+  "program_id": 20,
+  "program": "Emory University School of Medicine",
+  "red_years": [
+   {
+    "year": "2013-2014",
+    "gap_len": 4,
+    "nrmp_matched": 3,
+    "entrants_held": 2,
+    "reason": "reconstructed; continuing residents reappear after the gap; entering class 2 vs 3 matched (NRMP): 1 entrant(s) unaccounted for"
+   }
+  ],
+  "our_residents_nearby": [
+   {
+    "key": "20:ani:roy",
+    "name": "Anil Roy",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "20:gri:baum",
+    "name": "Griffin Baum",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "20:jay:mccracken",
+    "name": "Jay McCracken",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   },
+   {
+    "key": "20:jer:wetzel",
+    "name": "Jeremy Wetzel",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "20:jos:quillin",
+    "name": "Joseph Quillin",
+    "entry_year": 2013,
+    "first_seen": "2013-2014",
+    "last_seen": "2019-2020",
+    "outcome": "completed"
+   },
+   {
+    "key": "20:kri:vigneswaran",
+    "name": "Krishanthan Vigneswaran",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "20:kum:vasudevan",
+    "name": "Kumar Vasudevan",
+    "entry_year": 2012,
+    "first_seen": "2012-2013",
+    "last_seen": "2018-2019",
+    "outcome": "completed"
+   },
+   {
+    "key": "20:mic:moore",
+    "name": "Michael Moore",
+    "entry_year": 2011,
+    "first_seen": "2011-2012",
+    "last_seen": "2017-2018",
+    "outcome": "completed"
+   }
+  ],
+  "known_hosts": [
+   {
+    "url": "http://www.neurosurgery.emory.edu/Residency/residents.htm (old static site, 'Meet the Residents', PGY headings; + alumni.htm, HistoricalNeurosurgeryResidentsTable.pdf)",
+    "from": "2007-06",
+    "to": "2008-07 (last capture; shows 2007-08 roster)"
+   },
+   {
+    "url": "http://www.neurosurgery.emory.edu/Residency/residents.html, alumni.html, Residents/*.html (old site renamed .html; residents.html and https://secure.web.emory.edu/neurosurgery/Residency/currentresidents.html linked but NEVER archived; only orphan captures 2015-12, alumni list ends with 2011 grads)",
+    "from": "c.2009",
+    "to": "c.2015"
+   },
+   {
+    "url": "http://neurosurgery.emory.edu/residency-education/education/current-residents.html (+ /residency-education/alumni.html, /resident-bios/)",
+    "from": "2015-10",
+    "to": "2020-02"
+   },
+   {
+    "url": "https://med.emory.edu/departments/neurosurgery/education/residency/current_residents.html (+ alumni.html, resident_bios/); neurosurgery.emory.edu now redirects here",
+    "from": "2020-11",
+    "to": "live 2026-09-27"
+   },
+   {
+    "url": "http://www.emoryhealthcare.org/neurosurgery/residency-program.html (hospital page, no roster)",
+    "from": "2009-10",
+    "to": "2016-06"
+   }
+  ],
+  "alumni_page": "https://med.emory.edu/departments/neurosurgery/education/residency/alumni.html",
+  "prior_search_notes": "{'2011-2012': 'No roster capture anywhere. Wayback holds no captures of any residency page on neurosurgery.emory.edu between 2008-09 and 2015-10 (host-level CDX 2009-2015: robots.txt/favicon 2010, homepage 2013-04..2014-01 and 2015-08 only; homepage links Residency/index.html, never archived). secure.web.emory.edu/neurosurgery/ and web.emory.edu/neurosurgery/ have 0 captures; emoryhealthcare.org/neurosurgery/residency-program.html has no names. Common Crawl 2011-2016 (edu,emory,neurosurgery)/, edu,emory,web,secure)/neurosurgery, org,emoryhealthcare)/neurosurgery): 0 roster records (1 non-roster record in 2014-35). Reconstructed 17 from alumni graduation years (grads 2012-2018) + 2007-08 roster. Unobservable: David Laborde (PGY3 2007-08, would be PGY7) and Nasrin Aldawoodi (PGY1 2007-08, would be PGY5) - neither on alumni list, status unknown (likely left before 2011). PHASE 2: David Laborde added (PGY7, reconstructed): 2007-08 roster PGY3 + Emory Neurosurgery PubMed affiliations 2011-12 incl. a clinical case received 2011-09; not on any alumni list -> outcome unknown. Nasrin Aldawoodi (PGY1 2007-08) left before 2011: UNC Anesthesiology affiliation 2012, now Moffitt anesthesiology -> outside window.', '2012-2013': 'As 2011-12. Reconstructed 19 (alumni grads 2013-2019).', '2013-2014': \"As 2011-12. Reconstructed 17. Entry-2013 class: Joseph Quillin (alumni 2020) and, PHASE 2, Jeremy Wetzel (bio: MD UTHealth 2013, PGY-3 Oct 2015; NPI enumerated in GA 2013-04; Oct-2015 alumni page"
+ }
+]
